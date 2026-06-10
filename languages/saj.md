@@ -7,12 +7,15 @@ population: 7500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.00742
 longitude: 127.49252
 glottocode: sahu1245
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Sahu-Waioli > Sahu"
+wikidata_id: Q7399757
 wikipedia_url: "https://en.wikipedia.org/wiki/Sahu_language"
 translations:
   - translation_iso: ara

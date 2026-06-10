@@ -6,6 +6,9 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63339998
 translations:
   - translation_iso: ara
     name: كيسان

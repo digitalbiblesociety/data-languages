@@ -7,9 +7,12 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.47582
 longitude: 138.20315
 glottocode: burm1264
+wikidata_id: Q56746
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmeso_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.82554
 longitude: 34.65218
 glottocode: bamb1262
 glottolog_family_id: maoo1243
 glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > Bambassi"
+wikidata_id: Q56540
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambassi_language"
 translations:
   - translation_iso: ara

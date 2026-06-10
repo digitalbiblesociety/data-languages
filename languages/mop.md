@@ -7,12 +7,15 @@ population: 12610
 country_id: BZ
 country_name: Belize
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.353335
 longitude: -89.06729
 glottocode: mopa1243
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Yucatecan > Mopan"
+wikidata_id: Q36183
 wikipedia_url: "https://en.wikipedia.org/wiki/Mopan_language"
 translations:
   - translation_iso: ara

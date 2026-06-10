@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 34.046515
 longitude: -119.864044
 glottocode: cruz1243
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Cruzeño"
+wikidata_id: Q2967636
 wikipedia_url: "https://en.wikipedia.org/wiki/Island_Chumash_language"
 translations:
   - translation_iso: ara

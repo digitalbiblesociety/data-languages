@@ -7,12 +7,15 @@ population: 1590
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -19.72224
 longitude: -57.58202
 glottocode: kadi1248
 glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Kadiwéu"
+wikidata_id: Q18168288
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadiw%C3%A9u_language"
 translations:
   - translation_iso: ara

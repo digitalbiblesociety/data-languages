@@ -1,5 +1,6 @@
 ---
 iso: jat
+macrolanguage_id: lah
 name: Jakati
 autonym: Jat
 alt_names: [Baluj, Jataki, Jati, Jatu, Kayani, Lahnda, Musali]
@@ -7,12 +8,15 @@ population: null
 country_id: AF
 country_name: Afghanistan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 48.616
 longitude: 37.3
 glottocode: jaka1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Siraikic > Inku"
+wikidata_id: Q4159744
 wikipedia_url: "https://en.wikipedia.org/wiki/Inku_language"
 translations:
   - translation_iso: ara

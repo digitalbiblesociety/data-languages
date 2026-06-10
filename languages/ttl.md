@@ -6,12 +6,15 @@ population: 14000
 country_id: ZM
 country_name: Zambia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -16.957495
 longitude: 24.375105
 glottocode: tote1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Western Botatwe > Machili > Totela"
+wikidata_id: Q10962316
 wikipedia_url: "https://en.wikipedia.org/wiki/Totela_language"
 translations:
   - translation_iso: ara

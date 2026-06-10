@@ -7,6 +7,9 @@ population: 50000
 country_id: HR
 country_name: Croatia
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q337565
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakavian"
 translations:
   - translation_iso: ara

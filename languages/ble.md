@@ -7,12 +7,15 @@ population: 369000
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.82031
 longitude: -15.32209
 glottocode: bala1301
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Balanta > Balanta-Kentohe"
+wikidata_id: Q56789
 translations:
   - translation_iso: ara
     name: بالانتا كنتوهي

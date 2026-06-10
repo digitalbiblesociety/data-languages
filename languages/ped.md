@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.35889
 longitude: 145.03981
 glottocode: mala1494
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kaukombaran > Mala (Papua New Guinea)"
+wikidata_id: Q11732569
 wikipedia_url: "https://en.wikipedia.org/wiki/Mala_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 120
 country_id: CN
 country_name: China
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 44.008885
 longitude: 80.49571
 glottocode: ilit1241
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uyghuric > Ili Turki"
+wikidata_id: Q33627
 wikipedia_url: "https://en.wikipedia.org/wiki/Ili_Turki_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 52300
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.05339
 longitude: 82.48808
 glottocode: duru1236
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Duruwa"
+wikidata_id: Q56753
 wikipedia_url: "https://en.wikipedia.org/wiki/Duruwa_language"
 translations:
   - translation_iso: ara

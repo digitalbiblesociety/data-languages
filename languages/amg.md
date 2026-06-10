@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.98757
 longitude: 132.87768
 glottocode: amar1271
 glottolog_family_id: iwai1246
 glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Amurdak"
+wikidata_id: Q3360016
 wikipedia_url: "https://en.wikipedia.org/wiki/Amurdak_language"
 translations:
   - translation_iso: ara

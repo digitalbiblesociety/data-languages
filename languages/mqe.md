@@ -6,12 +6,15 @@ population: 280
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.13857
 longitude: 145.61732
 glottocode: mate1260
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Unclassified Hanseman > Matepi"
+wikidata_id: Q11732426
 wikipedia_url: "https://en.wikipedia.org/wiki/Matepi_language"
 translations:
   - translation_iso: ara

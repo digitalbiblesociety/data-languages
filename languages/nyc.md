@@ -6,12 +6,15 @@ population: 69000
 country_id: CD
 country_name: DR Congo
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 2.97634
 longitude: 29.1805
 glottocode: nyan1303
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Extreme North Vestigial Suffixes Bantu > Nyanga-li"
+wikidata_id: Q7070876
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyanga-li_language"
 translations:
   - translation_iso: ara

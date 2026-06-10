@@ -7,12 +7,15 @@ population: 133180
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.518285
 longitude: 97.41385
 glottocode: kaya1315
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Kayan Lahwi"
+wikidata_id: Q7123283
 wikipedia_url: "https://en.wikipedia.org/wiki/Padaung_language"
 translations:
   - translation_iso: ara

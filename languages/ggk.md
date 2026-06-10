@@ -7,9 +7,12 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -12.7
 longitude: 130.881
 glottocode: kung1259
+wikidata_id: Q6444516
 wikipedia_url: "https://en.wikipedia.org/wiki/Kungarakany_language"
 translations:
   - translation_iso: ara

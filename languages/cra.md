@@ -7,12 +7,15 @@ population: 5556
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.63946
 longitude: 36.41918
 glottocode: char1269
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > Chara"
+wikidata_id: Q5073694
 wikipedia_url: "https://en.wikipedia.org/wiki/Chara_language"
 translations:
   - translation_iso: ara

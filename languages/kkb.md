@@ -6,12 +6,15 @@ population: 130
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -2.99145
 longitude: 138.1346
 glottocode: kwer1264
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Kwerisa"
+wikidata_id: Q56881
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwerisa_language"
 translations:
   - translation_iso: ara

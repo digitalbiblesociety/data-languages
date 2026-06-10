@@ -7,6 +7,8 @@ population: 5255000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.93296
 longitude: 34.4896
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: luok1236
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Adhola-Luo > Luo (Kenya and Tanzania)"
+wikidata_id: Q5414796
 wikipedia_url: "https://en.wikipedia.org/wiki/Dholuo"
 translations:
   - translation_iso: ara

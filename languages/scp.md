@@ -7,12 +7,15 @@ population: 7570
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.92119
 longitude: 85.62893
 glottocode: hela1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Yolmo-Kagate > Lamjung-Melamchi Yolmo"
+wikidata_id: Q19841092
 wikipedia_url: "https://en.wikipedia.org/wiki/Yolmo_language"
 translations:
   - translation_iso: ara

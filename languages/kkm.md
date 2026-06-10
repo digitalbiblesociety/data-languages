@@ -7,12 +7,15 @@ population: 100
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 5.20497
 longitude: 8.35234
 glottocode: kion1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Kiong-Korop > Kiong"
+wikidata_id: Q6414512
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiong_language"
 translations:
   - translation_iso: ara

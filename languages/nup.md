@@ -7,12 +7,15 @@ population: 1730000
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 9.18404
 longitude: 5.40031
 glottocode: nupe1254
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Nupe-Nupe-Tako"
+wikidata_id: Q36720
 wikipedia_url: "https://en.wikipedia.org/wiki/Nupe_language"
 translations:
   - translation_iso: ara

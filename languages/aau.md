@@ -7,12 +7,15 @@ population: 7500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.97222
 longitude: 141.32359
 glottocode: abau1245
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Abau"
+wikidata_id: Q3073568
 wikipedia_url: "https://en.wikipedia.org/wiki/Abau_language"
 translations:
   - translation_iso: ara

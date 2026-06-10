@@ -7,12 +7,15 @@ population: null
 country_id: NI
 country_name: Nicaragua
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 13.03332
 longitude: -85.99999
 glottocode: mata1288
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Matagalpan > Matagalpa"
+wikidata_id: Q3490756
 wikipedia_url: "https://en.wikipedia.org/wiki/Matagalpa_language"
 translations:
   - translation_iso: ara

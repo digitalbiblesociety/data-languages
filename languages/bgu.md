@@ -7,12 +7,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.82543
 longitude: 11.13165
 glottocode: mbon1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mbongno"
+wikidata_id: Q36141
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamkam_language"
 translations:
   - translation_iso: ara

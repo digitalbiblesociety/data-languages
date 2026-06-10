@@ -7,12 +7,15 @@ population: 1570
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.74742
 longitude: 161.02303
 glottocode: gula1270
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > Gula'alaa"
+wikidata_id: Q3120733
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula%CA%BCalaa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 60000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.91175
 longitude: 11.72062
 glottocode: waja1259
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Waja"
+wikidata_id: Q3914415
 wikipedia_url: "https://en.wikipedia.org/wiki/Waja_language"
 translations:
   - translation_iso: ara

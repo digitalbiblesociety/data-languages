@@ -7,12 +7,15 @@ population: 500000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -2.534817
 longitude: 139.650878
 glottocode: papu1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Papuan Malay"
+wikidata_id: Q12473446
 wikipedia_url: "https://en.wikipedia.org/wiki/Papuan_Malay"
 translations:
   - translation_iso: ara

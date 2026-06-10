@@ -7,12 +7,15 @@ population: 100000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.8231
 longitude: 18.23407
 glottocode: yans1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Yansi"
+wikidata_id: Q36953
 wikipedia_url: "https://en.wikipedia.org/wiki/Yansi_language"
 translations:
   - translation_iso: ara

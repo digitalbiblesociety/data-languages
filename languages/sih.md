@@ -7,12 +7,15 @@ population: 19
 country_id: NC
 country_name: New Caledonia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -21.65441
 longitude: 165.48187
 glottocode: zire1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Zire"
+wikidata_id: Q8072753
 wikipedia_url: "https://en.wikipedia.org/wiki/Zire_language"
 translations:
   - translation_iso: ara

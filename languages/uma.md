@@ -7,12 +7,15 @@ population: 120
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 45.63915
 longitude: -118.55167
 glottocode: umat1237
 glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Southern Sahaptin > Umatilla"
+wikidata_id: Q12953952
 wikipedia_url: "https://en.wikipedia.org/wiki/Umatilla_language"
 translations:
   - translation_iso: ara

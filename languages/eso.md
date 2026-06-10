@@ -7,12 +7,15 @@ population: 6300
 country_id: EE
 country_name: Estonia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 58.947
 longitude: 24.566
 glottocode: esto1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Estonian Sign Language"
+wikidata_id: Q3196221
 wikipedia_url: "https://en.wikipedia.org/wiki/Estonian_Sign_Language"
 translations:
   - translation_iso: ara

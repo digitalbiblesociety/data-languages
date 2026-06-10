@@ -7,12 +7,15 @@ population: 1000
 country_id: HR
 country_name: Croatia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 45.088
 longitude: 13.64
 glottocode: istr1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Dalmatian Romance > Istriot"
+wikidata_id: Q35845
 wikipedia_url: "https://en.wikipedia.org/wiki/Istriot"
 translations:
   - translation_iso: ara

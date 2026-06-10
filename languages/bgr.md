@@ -7,12 +7,15 @@ population: 15140
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.440523
 longitude: 92.92553
 glottocode: bawm1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Bawm Chin"
+wikidata_id: Q56765
 wikipedia_url: "https://en.wikipedia.org/wiki/Bawm_language"
 translations:
   - translation_iso: ara

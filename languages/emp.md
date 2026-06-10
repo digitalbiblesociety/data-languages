@@ -7,12 +7,15 @@ population: 72200
 country_id: PA
 country_name: Panama
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.12761
 longitude: -77.57396
 glottocode: nort2972
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > Atrato > Panama-Baudo-Atrato > Northern Emberá"
+wikidata_id: Q2391297
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ember%C3%A1_language"
 translations:
   - translation_iso: deu

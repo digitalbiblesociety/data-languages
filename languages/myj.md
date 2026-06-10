@@ -7,12 +7,15 @@ population: 400
 country_id: SS
 country_name: South Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 8.38023
 longitude: 25.90236
 glottocode: mang1387
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Feroge-Mangaya > Mangayat"
+wikidata_id: Q35988
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangaya_language"
 translations:
   - translation_iso: ara

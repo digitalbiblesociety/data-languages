@@ -6,12 +6,15 @@ population: 3200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.26465
 longitude: 145.61147
 glottocode: bauu1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Panim-Isebe-Bau > Bau"
+wikidata_id: Q4873415
 wikipedia_url: "https://en.wikipedia.org/wiki/Bau_language_(New_Guinea)"
 translations:
   - translation_iso: ara

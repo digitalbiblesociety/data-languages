@@ -7,12 +7,15 @@ population: 11200
 country_id: HU
 country_name: Hungary
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 47.122
 longitude: 19.264
 glottocode: hung1263
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Hungarian Sign Language"
+wikidata_id: Q13636869
 wikipedia_url: "https://en.wikipedia.org/wiki/Hungarian_Sign_Language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: sdc
+macrolanguage_id: srd
 name: Sassarese Sardinian
 autonym: " turritanu"
 alt_names: [Northwestern Sardinian, Sardinian, "Sardinian, Sassarese", Sasareseg, Sasarés, Sassarais, Sassarese, Sassarese language, Sassaresu, Sassarien, Sassariera, Sassarigiella, Sassarish, Sasserès, סאסארזה]
@@ -7,6 +8,8 @@ population: 100000
 country_id: IT
 country_name: Italy
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 40.74795
 longitude: 8.39332
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: sass1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Central Italian Romance > Corsic > Sassarese Sardinian"
+wikidata_id: Q845441
 wikipedia_url: "https://en.wikipedia.org/wiki/Sassarese_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 320
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.33644
 longitude: 146.12645
 glottocode: wamp1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Wampur"
+wikidata_id: Q7966957
 wikipedia_url: "https://en.wikipedia.org/wiki/Wampur_language"
 translations:
   - translation_iso: ara

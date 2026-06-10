@@ -7,12 +7,15 @@ population: 85800
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.28404
 longitude: 122.03037
 glottocode: inon1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Inonhan"
+wikidata_id: Q2400870
 wikipedia_url: "https://en.wikipedia.org/wiki/Onhan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.283045
 longitude: 59.17558
 glottocode: aima1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Aimaq"
+wikidata_id: Q27898
 wikipedia_url: "https://en.wikipedia.org/wiki/Aimaq_dialect"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 60000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.29141
 longitude: 125.09018
 glottocode: obom1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > Obo Manobo"
+wikidata_id: Q12953699
 wikipedia_url: "https://en.wikipedia.org/wiki/Obo_language"
 translations:
   - translation_iso: ara

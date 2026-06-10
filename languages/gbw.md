@@ -7,12 +7,15 @@ population: 24
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -25.44486229
 longitude: 153.1539929
 glottocode: kabi1260
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Eastern Waka-Kabic > Kabikabi"
+wikidata_id: Q5515391
 wikipedia_url: "https://en.wikipedia.org/wiki/Gubbi_Gubbi_language"
 translations:
   - translation_iso: ara

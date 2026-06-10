@@ -4,12 +4,15 @@ name: Kulon
 autonym: Kulun
 country_id: CN
 country_name: China
+scope: individual
+language_type: extinct
 latitude: 25.00238
 longitude: 121.32473
 glottocode: kulo1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Kulon"
+wikidata_id: Q11182000
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulon_language"
 translations:
   - translation_iso: ara

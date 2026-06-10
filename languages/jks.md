@@ -4,12 +4,15 @@ name: Amami Koniya Sign Language
 autonym: Amami Ōshima Sign
 country_id: JP
 country_name: Japan
+scope: individual
+language_type: living
 latitude: 28.268372
 longitude: 129.358991
 glottocode: amam1247
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Amami O Shima Sign Language"
+wikidata_id: Q4739455
 wikipedia_url: "https://en.wikipedia.org/wiki/Koniya_Sign_Language"
 translations:
   - translation_iso: ara

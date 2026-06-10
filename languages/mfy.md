@@ -7,12 +7,15 @@ population: 100000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.45218
 longitude: -108.98106
 glottocode: mayo1264
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Cahitan > Mayo"
+wikidata_id: Q56729
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayo_language"
 translations:
   - translation_iso: ara

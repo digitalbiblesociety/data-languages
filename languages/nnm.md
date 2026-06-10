@@ -7,12 +7,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.85538
 longitude: 141.78846
 glottocode: nami1256
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Namia"
+wikidata_id: Q56363
 wikipedia_url: "https://en.wikipedia.org/wiki/Namia_language"
 translations:
   - translation_iso: ara

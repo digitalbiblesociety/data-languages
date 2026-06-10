@@ -7,12 +7,15 @@ population: 1800
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 28.1955
 longitude: 129.28521
 glottocode: sout2954
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Oshima > Southern Amami-Oshima"
+wikidata_id: Q2840986
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Amami_%C5%8Cshima_language"
 translations:
   - translation_iso: ara

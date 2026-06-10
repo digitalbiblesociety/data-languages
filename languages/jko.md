@@ -6,12 +6,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.92584
 longitude: 142.18292
 glottocode: kubo1242
 glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Kubo"
+wikidata_id: Q12952670
 wikipedia_url: "https://en.wikipedia.org/wiki/Kubo_language"
 translations:
   - translation_iso: ara

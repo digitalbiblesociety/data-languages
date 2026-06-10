@@ -7,6 +7,8 @@ population: 62
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 59.38017
 longitude: 28.6235
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: voti1245
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > Central Finnic > Votic"
+wikidata_id: Q32858
 wikipedia_url: "https://en.wikipedia.org/wiki/Votic_language"
 translations:
   - translation_iso: ara

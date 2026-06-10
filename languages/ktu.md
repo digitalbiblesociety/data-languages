@@ -7,12 +7,15 @@ population: 4200000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.29601
 longitude: 17.15479
 glottocode: kitu1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > Southeastern Kikongo > Southern Kikongo > Koongo-Kituba > Kituba (Democratic Republic of Congo)"
+wikidata_id: Q63283489
 translations:
   - translation_iso: ara
     name: كيتوبا

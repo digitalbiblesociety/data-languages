@@ -7,12 +7,15 @@ population: 19000
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 1.39715
 longitude: 124.75394
 glottocode: tomb1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Northeast Minahasan > Tombulu"
+wikidata_id: Q3531199
 wikipedia_url: "https://en.wikipedia.org/wiki/Tombulu_language"
 translations:
   - translation_iso: ara

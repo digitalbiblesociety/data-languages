@@ -1,5 +1,6 @@
 ---
 iso: tmw
+macrolanguage_id: msa
 name: Temuan
 autonym: Bahasak Temuan
 alt_names: [Beduanda, Benua, Niap, Temuano]
@@ -7,12 +8,15 @@ population: 22162
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.78176
 longitude: 101.90581
 glottocode: temu1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Temuan"
+wikidata_id: Q3025610
 wikipedia_url: "https://en.wikipedia.org/wiki/Temuan_language"
 translations:
   - translation_iso: ara

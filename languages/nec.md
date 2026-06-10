@@ -7,12 +7,15 @@ population: 1380
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.28776
 longitude: 124.19184
 glottocode: nede1245
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Pantar > Nedebang"
+wikidata_id: Q4925378
 wikipedia_url: "https://en.wikipedia.org/wiki/Nedebang_language"
 translations:
   - translation_iso: ara

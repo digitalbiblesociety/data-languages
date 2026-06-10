@@ -7,12 +7,15 @@ population: 4800
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 30.04118
 longitude: -90.74754
 glottocode: loui1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Louisiana Creole French"
+wikidata_id: Q1185127
 wikipedia_url: "https://en.wikipedia.org/wiki/Louisiana_Creole"
 translations:
   - translation_iso: ara

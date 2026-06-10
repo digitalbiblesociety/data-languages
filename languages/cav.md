@@ -7,12 +7,15 @@ population: 600
 country_id: BO
 country_name: Bolivia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -13.35441
 longitude: -66.62773
 glottocode: cavi1250
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Cavineña"
+wikidata_id: Q524102
 wikipedia_url: "https://en.wikipedia.org/wiki/Cavine%C3%B1a_language"
 translations:
   - translation_iso: ara

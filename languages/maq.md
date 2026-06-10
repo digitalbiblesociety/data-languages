@@ -7,12 +7,15 @@ population: 2500
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.05412
 longitude: -96.66588
 glottocode: chiq1250
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Chiquihuitlán Mazatec"
+wikidata_id: Q5101757
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiquihuitl%C3%A1n_Mazatec"
 translations:
   - translation_iso: ara

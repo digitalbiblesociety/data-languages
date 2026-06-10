@@ -7,12 +7,15 @@ population: 2300
 country_id: EC
 country_name: Ecuador
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.21181
 longitude: -79.23468
 glottocode: colo1256
 glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Awa-Southern Barbacoan > Cayapa-Colorado > Tsafiki"
+wikidata_id: Q2567055
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsafiki_language"
 translations:
   - translation_iso: ara

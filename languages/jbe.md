@@ -6,8 +6,11 @@ population: 2000
 country_id: IL
 country_name: Israel
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 32.55935
 longitude: 34.97483
+wikidata_id: Q35854
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Berber_language"
 translations:
   - translation_iso: ara

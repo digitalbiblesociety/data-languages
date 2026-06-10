@@ -7,12 +7,15 @@ population: 146000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -12.58208
 longitude: 40.46007
 glottocode: mwan1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Mwani"
+wikidata_id: Q3042206
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwani_language"
 translations:
   - translation_iso: ara

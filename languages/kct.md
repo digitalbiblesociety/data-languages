@@ -6,12 +6,15 @@ population: 600
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.06543
 longitude: 144.75613
 glottocode: kaia1245
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Watam-Kaian > Kaian"
+wikidata_id: Q6347538
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaian_language"
 translations:
   - translation_iso: ara

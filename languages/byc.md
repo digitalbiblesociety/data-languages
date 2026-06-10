@@ -6,12 +6,15 @@ population: 24000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.72343
 longitude: 7.96439
 glottocode: ubag1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Ubaghara-Kohumono > Ubaghara"
+wikidata_id: Q36625
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubaghara_language"
 translations:
   - translation_iso: ara

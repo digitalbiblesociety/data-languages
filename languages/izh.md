@@ -7,6 +7,8 @@ population: 360
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 59.47403
 longitude: 29.71145
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ingr1248
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > Ingrian"
+wikidata_id: Q33559
 wikipedia_url: "https://en.wikipedia.org/wiki/Ingrian_language"
 translations:
   - translation_iso: ara

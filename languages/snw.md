@@ -7,12 +7,15 @@ population: 11300
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.17462
 longitude: 0.42458
 glottocode: sele1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Likpe-Santrokofi > Selee"
+wikidata_id: Q36272
 wikipedia_url: "https://en.wikipedia.org/wiki/Santrokofi_language"
 translations:
   - translation_iso: ara

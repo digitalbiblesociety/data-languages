@@ -7,12 +7,15 @@ population: 1800000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.51768
 longitude: 100.48479
 glottocode: amdo1237
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > North-Eastern Tibetic > Amdo Tibetan"
+wikidata_id: Q56509
 wikipedia_url: "https://en.wikipedia.org/wiki/Amdo_Tibetan"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 359000
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.41687
 longitude: 86.28988
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: guru1261
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Gurung"
+wikidata_id: Q2392342
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurung_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2300
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 49.32306
 longitude: -123.01406
 glottocode: squa1248
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Squamish"
+wikidata_id: Q2484579
 wikipedia_url: "https://en.wikipedia.org/wiki/Squamish_language"
 translations:
   - translation_iso: ara

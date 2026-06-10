@@ -7,12 +7,15 @@ population: 72000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.50242
 longitude: 82.29701
 glottocode: agar1251
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Agariya"
+wikidata_id: Q663586
 wikipedia_url: "https://en.wikipedia.org/wiki/Agariya_language"
 translations:
   - translation_iso: ara

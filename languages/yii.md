@@ -7,12 +7,15 @@ population: 52
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -17.13318
 longitude: 145.87621
 glottocode: yidi1250
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yidinic > Yidiñ"
+wikidata_id: Q3053283
 wikipedia_url: "https://en.wikipedia.org/wiki/Yidiny_language"
 translations:
   - translation_iso: ara

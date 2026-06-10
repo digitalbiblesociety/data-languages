@@ -7,12 +7,15 @@ population: 8000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.35337
 longitude: 145.88287
 glottocode: sout2943
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Tairora > South Tairora"
+wikidata_id: Q20210553
 translations:
   - translation_iso: ara
     name: اللغة تايرورا الجنوبية

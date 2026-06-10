@@ -7,12 +7,15 @@ population: 5000
 country_id: OM
 country_name: Oman
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 23.63218
 longitude: 58.49163
 glottocode: luwa1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Unclassified Sindhic > Luwati"
+wikidata_id: Q33402
 wikipedia_url: "https://en.wikipedia.org/wiki/Luwati_language"
 translations:
   - translation_iso: ara

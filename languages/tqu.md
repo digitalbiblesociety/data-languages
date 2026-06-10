@@ -7,9 +7,12 @@ population: 1870
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.58405
 longitude: 157.29578
 glottocode: touo1238
+wikidata_id: Q56750
 wikipedia_url: "https://en.wikipedia.org/wiki/Touo_language"
 translations:
   - translation_iso: ara

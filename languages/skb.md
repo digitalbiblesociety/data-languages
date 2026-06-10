@@ -7,12 +7,15 @@ population: 14000
 country_id: LA
 country_name: Laos
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 17.455755
 longitude: 104.787095
 glottocode: saek1240
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Saek"
+wikidata_id: Q36437
 wikipedia_url: "https://en.wikipedia.org/wiki/Saek_language"
 translations:
   - translation_iso: ara

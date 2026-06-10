@@ -6,12 +6,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.27123
 longitude: 138.66621
 glottocode: atoh1238
 glottolog_family_id: kaya1327
 glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Atohwaim"
+wikidata_id: Q11732297
 wikipedia_url: "https://en.wikipedia.org/wiki/Atohwaim_language"
 translations:
   - translation_iso: ara

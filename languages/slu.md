@@ -6,12 +6,15 @@ population: 8000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.18376
 longitude: 130.96124
 glottocode: sela1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > South Tanimbar > Selaru"
+wikidata_id: Q7447500
 wikipedia_url: "https://en.wikipedia.org/wiki/Selaru_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.71826
 longitude: 152.21433
 glottocode: mali1284
 glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Mali-Simbali > Mali"
+wikidata_id: Q6743338
 wikipedia_url: "https://en.wikipedia.org/wiki/Mali_language"
 translations:
   - translation_iso: ara

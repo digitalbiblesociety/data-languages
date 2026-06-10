@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.08494
 longitude: 5.42081
 glottocode: asun1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Asu (Nigeria)"
+wikidata_id: Q34798
 wikipedia_url: "https://en.wikipedia.org/wiki/Asu_language_(Nigeria)"
 translations:
   - translation_iso: ara

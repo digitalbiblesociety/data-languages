@@ -7,12 +7,15 @@ population: 14800
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.18016
 longitude: 133.6177
 glottocode: meya1236
 glottolog_family_id: east1459
 glottolog_family_name: "East Bird's Head"
 glottolog_classification: "East Bird's Head > Meax > Meyah"
+wikidata_id: Q2262353
 wikipedia_url: "https://en.wikipedia.org/wiki/Meyah_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: chv
+iso639_1: cv
 name: Chuvash
 autonym: CăvašlaÇovaşla
 alt_names: [An tSuvaisis, Bulgar, Chuvacho, Chuwash simi, Czuvasch, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Txuvaix, Çuaş tele, Çuvaş tili, Çuvaşça, Ветькень кель, Сыуаш теле, Чуваш тыла, Чьва́шьскъ ѩꙁꙑ́къ, "צ'ובשית", چۇۋاش تىلى]
@@ -7,6 +8,8 @@ population: 1079650
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 55.48701
 longitude: 47.16298
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: chuv1255
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Bolgar > Chuvash"
+wikidata_id: Q33348
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuvash_language"
 translations:
   - translation_iso: ara

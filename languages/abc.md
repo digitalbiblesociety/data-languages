@@ -7,12 +7,15 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.81558
 longitude: 120.28339
 glottocode: amba1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Ambala Ayta"
+wikidata_id: Q3448896
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambala_language"
 translations:
   - translation_iso: ara

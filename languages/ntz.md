@@ -7,12 +7,15 @@ population: 7030
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 33.45931
 longitude: 51.95383
 glottocode: nata1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Kashanic > Natanzic"
+wikidata_id: Q6968399
 wikipedia_url: "https://en.wikipedia.org/wiki/Natanzi_language"
 translations:
   - translation_iso: ara

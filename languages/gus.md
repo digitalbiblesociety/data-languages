@@ -6,12 +6,15 @@ population: 64000
 country_id: GN
 country_name: Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.553
 longitude: -13.674
 glottocode: guin1250
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Guinean Sign Language"
+wikidata_id: Q15983937
 translations:
   - translation_iso: ara
     name: لغة الإشارة الغينية

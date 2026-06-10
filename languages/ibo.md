@@ -1,5 +1,6 @@
 ---
 iso: ibo
+iso639_1: ig
 name: Igbo
 autonym: Asụsụ Igbo
 alt_names: [Ibo, Ibo-linguo, Igbo simi, Igboeg, Игбо]
@@ -7,6 +8,8 @@ population: 27000000
 country_id: NG
 country_name: Nigeria
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 4.62705
 longitude: 7.23441
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: nucl1417
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Igbo"
+wikidata_id: Q33578
 wikipedia_url: "https://en.wikipedia.org/wiki/Igbo_language"
 translations:
   - translation_iso: ara

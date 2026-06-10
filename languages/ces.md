@@ -1,5 +1,6 @@
 ---
 iso: ces
+iso639_1: cs
 name: Czech
 autonym: čeština
 alt_names: [An tSeicis, Bæmisc sprǣc, Cestina, Checu, Chekek, Chekiana linguo, Chex tili, Chiku simi, Chèc, Czech leid, Czesczi jãzëk, Czesko godka, Kicheki, Lenghe ceche, Seacais, Sheckish, Tcheke, Tchekeg, Tch·èco, Tchèque, Tjeckiska, Tjekkisk, Tschechisch-Slovakisch, Tschechische Språch, Tsieceg, Tsjechies, Tsjechisch, Tsjechysk, Tsjeggies, Tsjekkisk, Txec, Txekiera, Tékkneska, Çekçe, Čeahkagiella, Česka rěc, Česko-gí, Забони чехӣ, Чех йылме, Чехонь кяль, Чє́шьскъ ѩꙁꙑ́къ, Չեխերեն, טשעכיש, "צ'כית", تشيكى, چېخ تىلى]
@@ -7,6 +8,8 @@ population: 10700000
 country_id: CZ
 country_name: Czechia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 49.873398
 longitude: 15.10437
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: czec1258
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Czech-Slovak > Czech"
+wikidata_id: Q9056
 wikipedia_url: "https://en.wikipedia.org/wiki/Czech_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2050
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.08879
 longitude: 142.89335
 glottocode: bine1240
 glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Bine"
+wikidata_id: Q4914077
 wikipedia_url: "https://en.wikipedia.org/wiki/Bine_language"
 translations:
   - translation_iso: ara

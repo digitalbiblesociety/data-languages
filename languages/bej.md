@@ -7,6 +7,8 @@ population: 2498000
 country_id: SD
 country_name: Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.24356
 longitude: 36.66665
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: beja1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Beja"
+wikidata_id: Q33025
 wikipedia_url: "https://en.wikipedia.org/wiki/Beja_language"
 translations:
   - translation_iso: ara

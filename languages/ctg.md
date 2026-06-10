@@ -7,12 +7,15 @@ population: 13000000
 country_id: BD
 country_name: Bangladesh
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 20.831
 longitude: 93.1695
 glottocode: chit1275
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Southeastern Bengali > Chittagonian"
+wikidata_id: Q33173
 wikipedia_url: "https://en.wikipedia.org/wiki/Chittagonian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 210
 country_id: SB
 country_name: Solomon Islands
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -10.7441
 longitude: 165.88665
 glottocode: nang1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Nanggu"
+wikidata_id: Q3063524
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanggu_language"
 translations:
   - translation_iso: ara

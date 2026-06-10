@@ -7,12 +7,15 @@ population: 268000
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.16869
 longitude: -3.50303
 glottocode: buam1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Nuclear Bwamu > Buamu"
+wikidata_id: Q35157
 wikipedia_url: "https://en.wikipedia.org/wiki/Buamu_language"
 translations:
   - translation_iso: ara

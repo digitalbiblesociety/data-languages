@@ -7,12 +7,15 @@ population: 120000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.30994
 longitude: 123.57825
 glottocode: tuka1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Tukangbesi-Bonerate > Tukang Besi > Tukang Besi North"
+wikidata_id: Q18611555
 translations:
   - translation_iso: ara
     name: لغة توكانج بيسي الشمالية

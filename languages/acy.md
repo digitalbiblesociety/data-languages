@@ -1,5 +1,6 @@
 ---
 iso: acy
+macrolanguage_id: ara
 name: Cypriot Arabic
 autonym: Sanna
 alt_names: [Arabe chypriote, Arabeg Kiprenez, Arabic, Arabic (Eastern), Arabic (Kormakiti), "Arabic, Cypriot", "Arabic, Cypriot Spoken", Cipriotski arapski, Cypriot Arabic Kormakiti, "Cypriot Arabic: Kormakiti", Cypriot Maronite Arabic, Cypriot Spoken, Cypriot Spoken Arabic, Kormakiti, Maronite, Zyprisches Arabisch, Árabe chipriota, لهجة عربية قبرصية]
@@ -7,12 +8,15 @@ population: 1300
 country_id: CY
 country_name: Cyprus
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 35.16744
 longitude: 33.0943
 glottocode: cypr1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Levantine-Cypriot Arabic > Cypriot Arabic"
+wikidata_id: Q56416
 wikipedia_url: "https://en.wikipedia.org/wiki/Cypriot_Arabic"
 translations:
   - translation_iso: ara

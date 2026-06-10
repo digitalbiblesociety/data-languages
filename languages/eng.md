@@ -1,5 +1,6 @@
 ---
 iso: eng
+iso639_1: en
 name: English
 autonym: English
 alt_names: [Anglais moderne, Englisch, Inglese moderno, Inglês moderno, Modern English, Moderne engelsk, Modernes Englisch, Nyengelska, anglais, თანამედროვე ინგლისური პერიოდი]
@@ -7,6 +8,8 @@ population: 379000000
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: living
 latitude: 53
 longitude: -1
 scripts: [Dsrt, Latn, Shaw]
@@ -14,6 +17,7 @@ glottocode: stan1293
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > English"
+wikidata_id: Q1860
 wikipedia_url: "https://en.wikipedia.org/wiki/English_language"
 translations:
   - translation_iso: ara

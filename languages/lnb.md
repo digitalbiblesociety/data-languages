@@ -7,12 +7,15 @@ population: 200
 country_id: NA
 country_name: Namibia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -19.593
 longitude: 16.617
 glottocode: mbal1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Central Wambo"
+wikidata_id: Q12952830
 translations:
   - translation_iso: ara
     name: لغة بالانهو

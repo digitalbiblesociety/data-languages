@@ -7,12 +7,15 @@ population: 2021
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -9.23129
 longitude: -75.96211
 glottocode: chol1284
 glottolog_family_id: hibi1242
 glottolog_family_name: Hibito-Cholon
 glottolog_classification: "Hibito-Cholon > Cholón"
+wikidata_id: Q2591243
 wikipedia_url: "https://en.wikipedia.org/wiki/Chol%C3%B3n_language"
 translations:
   - translation_iso: ara

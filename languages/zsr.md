@@ -1,13 +1,17 @@
 ---
 iso: zsr
+macrolanguage_id: zap
 name: Southern Rincon Zapotec
 autonym: "Zapotec, Southern Rincon"
 population: 12000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.30309
 longitude: -96.3775
+wikidata_id: Q12954000
 translations:
   - translation_iso: ara
     name: زابوتيك رينكون الجنوبي

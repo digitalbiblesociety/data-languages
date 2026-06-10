@@ -7,12 +7,15 @@ population: 1000
 country_id: CM
 country_name: Cameroon
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 6.36656
 longitude: 11.70017
 glottocode: twen1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Eastern Mambila > Cambap-Langa"
+wikidata_id: Q7857682
 wikipedia_url: "https://en.wikipedia.org/wiki/Twendi_language"
 translations:
   - translation_iso: ara

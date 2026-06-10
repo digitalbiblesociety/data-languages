@@ -7,12 +7,15 @@ population: 33910
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.162675
 longitude: -7.663455
 glottocode: tepo1239
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Tepo-Plapo > Tepo Krumen"
+wikidata_id: Q11152243
 translations:
   - translation_iso: ara
     name: تيبو كرومين

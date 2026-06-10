@@ -7,12 +7,15 @@ population: 1506400
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.31781
 longitude: -3.305315
 glottocode: anyi1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anyinic > Anyin"
+wikidata_id: Q28395
 wikipedia_url: "https://en.wikipedia.org/wiki/Anyin_language"
 translations:
   - translation_iso: ara

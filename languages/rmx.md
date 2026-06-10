@@ -7,12 +7,15 @@ population: 250
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.33996
 longitude: 107.44707
 glottocode: roma1331
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Lamamic > Romam"
+wikidata_id: Q22694600
 translations:
   - translation_iso: ara
     name: رومام

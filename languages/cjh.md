@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 46.79807
 longitude: -123.16929
 glottocode: uppe1439
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Inland Tsamosan > Upper Chehalis"
+wikidata_id: Q2962074
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Chehalis_language"
 translations:
   - translation_iso: ara

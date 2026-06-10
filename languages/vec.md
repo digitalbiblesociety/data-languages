@@ -7,6 +7,8 @@ population: 7852500
 country_id: IT
 country_name: Italy
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 45.40985
 longitude: 13.034455
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: vene1258
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Dalmatian Romance > Venetian"
+wikidata_id: Q32724
 wikipedia_url: "https://en.wikipedia.org/wiki/Venetian_language"
 translations:
   - translation_iso: ara

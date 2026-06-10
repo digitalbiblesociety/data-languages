@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 38.41788
 longitude: -120.58819
 glottocode: nort2968
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Sierra Miwokan > Northern Sierra Miwok"
+wikidata_id: Q3344226
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sierra_Miwok"
 translations:
   - translation_iso: ara

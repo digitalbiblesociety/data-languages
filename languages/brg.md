@@ -7,12 +7,15 @@ population: 631
 country_id: BO
 country_name: Bolivia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -13.12775
 longitude: -64.18381
 glottocode: baur1253
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Baure"
+wikidata_id: Q2839722
 wikipedia_url: "https://en.wikipedia.org/wiki/Baure_language"
 translations:
   - translation_iso: ara

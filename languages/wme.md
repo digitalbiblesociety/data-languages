@@ -7,12 +7,15 @@ population: 1000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.14808
 longitude: 86.47646
 glottocode: wamb1257
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Chaurasiya > Wambule"
+wikidata_id: Q56785
 wikipedia_url: "https://en.wikipedia.org/wiki/Wambule_language"
 translations:
   - translation_iso: ara

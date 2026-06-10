@@ -7,12 +7,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.74263
 longitude: 142.71051
 glottocode: kwan1278
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwanga-Mende > Kwanga"
+wikidata_id: Q3438383
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwanga_language"
 translations:
   - translation_iso: ara

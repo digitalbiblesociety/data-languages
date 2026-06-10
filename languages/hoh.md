@@ -7,12 +7,15 @@ population: 100
 country_id: OM
 country_name: Oman
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 17.21605
 longitude: 52.833375
 glottocode: hoby1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Hobyot-Western MSA > Hobyót"
+wikidata_id: Q33299
 wikipedia_url: "https://en.wikipedia.org/wiki/Hobyot"
 translations:
   - translation_iso: ara

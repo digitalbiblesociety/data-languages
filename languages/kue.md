@@ -7,12 +7,15 @@ population: 115000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -5.90586
 longitude: 144.97713
 glottocode: kuma1280
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Kuman-Dom-Gunaa > Kuman"
+wikidata_id: Q137525
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuman_language_(New_Guinea)"
 translations:
   - translation_iso: ara

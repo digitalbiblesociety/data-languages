@@ -7,12 +7,15 @@ population: 750
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 58.44982
 longitude: -130.05238
 glottocode: tahl1239
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Cordillera Athabaskan > Nahanni > Tahltan"
+wikidata_id: Q30125
 wikipedia_url: "https://en.wikipedia.org/wiki/Tahltan_language"
 translations:
   - translation_iso: ara

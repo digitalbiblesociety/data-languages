@@ -7,12 +7,15 @@ population: 1960
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.0602
 longitude: 76.72846
 glottocode: kada1242
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Kadar"
+wikidata_id: Q6345179
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadar_language"
 translations:
   - translation_iso: ara

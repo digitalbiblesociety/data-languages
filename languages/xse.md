@@ -6,12 +6,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.17582
 longitude: 137.58814
 glottocode: semp1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Sempan"
+wikidata_id: Q3504358
 wikipedia_url: "https://en.wikipedia.org/wiki/Sempan_language"
 translations:
   - translation_iso: ara

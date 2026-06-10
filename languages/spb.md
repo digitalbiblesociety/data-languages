@@ -7,12 +7,15 @@ population: 2600
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.36682
 longitude: 129.24344
 glottocode: sepa1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Eastern Littoral Piru Bay > Sepa (Indonesia)"
+wikidata_id: Q18603687
 translations:
   - translation_iso: ara
     name: اللغة سيبا (إندونيسيا)

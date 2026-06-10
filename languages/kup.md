@@ -6,12 +6,15 @@ population: 8200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.09371
 longitude: 146.90782
 glottocode: kuni1267
 glottolog_family_id: kuni1270
 glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Kunimaipa"
+wikidata_id: Q6444696
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunimaipa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: AF
 country_name: Afghanistan
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 34.25039
 longitude: 62.28016
 glottocode: mogh1245
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Mogholi"
+wikidata_id: Q13336
 wikipedia_url: "https://en.wikipedia.org/wiki/Moghol_language"
 translations:
   - translation_iso: ara

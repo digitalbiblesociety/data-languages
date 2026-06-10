@@ -6,8 +6,11 @@ population: 7280
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.87941
 longitude: 125.82233
+wikidata_id: Q6749097
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangole_language"
 translations:
   - translation_iso: ara

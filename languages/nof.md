@@ -6,12 +6,15 @@ population: 4645
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.30218
 longitude: 145.09804
 glottocode: noma1262
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Chuave-Nomane > Nomane"
+wikidata_id: Q11732531
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomane_language"
 translations:
   - translation_iso: ara

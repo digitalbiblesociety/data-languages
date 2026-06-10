@@ -7,12 +7,15 @@ population: 2100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.59918
 longitude: 131.25029
 glottocode: selu1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > South Tanimbar > Seluwasan"
+wikidata_id: Q7448845
 wikipedia_url: "https://en.wikipedia.org/wiki/Seluwasan_language"
 translations:
   - translation_iso: ara

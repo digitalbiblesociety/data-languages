@@ -7,6 +7,8 @@ population: 15000
 country_id: PT
 country_name: Portugal
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 41.5375
 longitude: -6.38371
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mira1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Asturo-Leonese > Mirandese"
+wikidata_id: Q13330
 wikipedia_url: "https://en.wikipedia.org/wiki/Mirandese_language"
 translations:
   - translation_iso: ara

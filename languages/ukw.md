@@ -7,12 +7,15 @@ population: 299000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.78892
 longitude: 6.48559
 glottocode: ukwu1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Ukwuani-Aboh-Ndoni"
+wikidata_id: Q36636
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukwuani-Aboh-Ndoni_language"
 translations:
   - translation_iso: ara

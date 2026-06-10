@@ -7,12 +7,15 @@ population: 150
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 52.96584
 longitude: 139.20575
 glottocode: negi1245
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Negidalic > Negidal"
+wikidata_id: Q33676
 wikipedia_url: "https://en.wikipedia.org/wiki/Negidal_language"
 translations:
   - translation_iso: ara

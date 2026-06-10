@@ -7,6 +7,8 @@ population: 107000
 country_id: PL
 country_name: Poland
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 54.29956
 longitude: 18.61634
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kash1274
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Lechitic > Kashubian"
+wikidata_id: Q33690
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashubian_language"
 translations:
   - translation_iso: ara

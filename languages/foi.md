@@ -7,12 +7,15 @@ population: 2800
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.47258
 longitude: 143.49539
 glottocode: foii1241
 glottolog_family_id: east2499
 glottolog_family_name: East Kutubu
 glottolog_classification: "East Kutubu > Foi"
+wikidata_id: Q5464146
 wikipedia_url: "https://en.wikipedia.org/wiki/Foi_language"
 translations:
   - translation_iso: ara

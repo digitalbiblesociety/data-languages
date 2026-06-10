@@ -7,12 +7,15 @@ population: 272000
 country_id: SL
 country_name: Sierra Leone
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.67039
 longitude: -10.92143
 glottocode: kono1268
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Vai-Kono > Kono (Sierra Leone)"
+wikidata_id: Q35675
 wikipedia_url: "https://en.wikipedia.org/wiki/Kono_language_(Sierra_Leone)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 70000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.9523
 longitude: 135.87917
 glottocode: biak1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Biak-Roon > Biak"
+wikidata_id: Q1961488
 wikipedia_url: "https://en.wikipedia.org/wiki/Biak_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -25.833018
 longitude: 140.026291
 glottocode: karr1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Mithaka-Karuwali > Karruwali"
+wikidata_id: Q6881575
 translations:
   - translation_iso: ara
     name: كاروالي

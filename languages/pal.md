@@ -6,6 +6,8 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: historical
 latitude: 30.06
 longitude: 52.7
 scripts: [Phli, Phlp]
@@ -13,6 +15,7 @@ glottocode: pahl1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Pahlavi"
+wikidata_id: Q32063
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Persian"
 translations:
   - translation_iso: ara

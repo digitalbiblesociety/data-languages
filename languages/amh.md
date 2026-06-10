@@ -1,5 +1,6 @@
 ---
 iso: amh
+iso639_1: am
 name: Amharic
 autonym: አማበአማረኛ ርኛ
 alt_names: [Abyssinian, Amarigna, Amarinya, Amharisch, Ethiopian, amharique]
@@ -7,6 +8,8 @@ population: 21900000
 country_id: ET
 country_name: Ethiopia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 11.708182
 longitude: 39.543456
 scripts: [Ethi]
@@ -14,6 +17,7 @@ glottocode: amha1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Amharic-Argobba > Amharic"
+wikidata_id: Q28244
 wikipedia_url: "https://en.wikipedia.org/wiki/Amharic"
 translations:
   - translation_iso: ara

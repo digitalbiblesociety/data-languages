@@ -6,8 +6,11 @@ population: 100000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 19.47335
 longitude: 77.71561
+wikidata_id: Q4754314
 wikipedia_url: "https://en.wikipedia.org/wiki/Andh_language"
 translations:
   - translation_iso: ara

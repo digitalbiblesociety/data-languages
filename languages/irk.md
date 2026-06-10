@@ -7,12 +7,15 @@ population: 603000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.19948
 longitude: 35.29393
 glottocode: iraq1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Northern West Rift South Cushitic > Iraqwoid > Iraqw"
+wikidata_id: Q33595
 wikipedia_url: "https://en.wikipedia.org/wiki/Iraqw_language"
 translations:
   - translation_iso: ara

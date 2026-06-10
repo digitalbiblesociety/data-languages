@@ -1,5 +1,6 @@
 ---
 iso: nan
+macrolanguage_id: zho
 name: Min Nan Chinese
 autonym: Minnan
 alt_names: [Bân-lâm-gú, Chaozhou, Chaozhou Chinese, Chinese, Chinese (Chaozhou), Chinese (Hokkien), "Chinese, Min Nan", "Chinese,MinNan", Ho-ló-fa, Hokkien, Hokkien Chinese, Min, Min (Southern), Min (Southern) dialect (Minnan), Min Dialect Family, Min Nan, Min-Nan, Mineg ar su, Minish Yiass, Mìng-nàng-ngṳ̄, Southern Min, Taiwanese, Xiamen, Zuidelijk Min, مين نان, 閩南話]
@@ -7,6 +8,8 @@ population: 50100000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.5
 longitude: 118.17
 scripts: [Hans, Hant]
@@ -14,6 +17,7 @@ glottocode: minn1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Southern Min > Min Nan Chinese"
+wikidata_id: Q36495
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Min"
 translations:
   - translation_iso: ara

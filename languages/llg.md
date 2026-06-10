@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.80695
 longitude: 123.08513
 glottocode: lole1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Lole"
+wikidata_id: Q6668883
 wikipedia_url: "https://en.wikipedia.org/wiki/Lole_language"
 translations:
   - translation_iso: ara

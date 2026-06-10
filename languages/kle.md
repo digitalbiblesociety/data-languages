@@ -7,12 +7,15 @@ population: 33200
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.160575
 longitude: 87.57169
 glottocode: kulu1253
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Khambu > Kulungic > Kulung (Nepal)"
+wikidata_id: Q6443304
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulung_language_(Nepal)"
 translations:
   - translation_iso: ara

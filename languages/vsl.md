@@ -6,12 +6,15 @@ population: 86000
 country_id: VE
 country_name: Venezuela
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.32937
 longitude: -66.76784
 glottocode: vene1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Spanish Sign > Venezuelan Sign Language"
+wikidata_id: Q3322064
 wikipedia_url: "https://en.wikipedia.org/wiki/Venezuelan_Sign_Language"
 translations:
   - translation_iso: ara

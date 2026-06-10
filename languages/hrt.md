@@ -7,12 +7,15 @@ population: 1000
 country_id: TR
 country_name: Turkey
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 37.37301
 longitude: 42.51921
 glottocode: hert1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > Bohtan > Hertevin"
+wikidata_id: Q33290
 wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Aramaic_dialect_of_Hertevin"
 translations:
   - translation_iso: ara

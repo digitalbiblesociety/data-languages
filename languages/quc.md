@@ -7,6 +7,8 @@ population: 1680000
 country_id: GT
 country_name: Guatemala
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 14.52777
 longitude: -91.16965
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kich1262
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Quiche-Achi > K'iche'"
+wikidata_id: Q36494
 wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCiche%CA%BC_language"
 translations:
   - translation_iso: ara

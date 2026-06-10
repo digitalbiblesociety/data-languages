@@ -7,12 +7,15 @@ population: 2500
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.33645
 longitude: 10.96711
 glottocode: khol1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Unclassified Boleic > Kholok"
+wikidata_id: Q3440464
 wikipedia_url: "https://en.wikipedia.org/wiki/Kholok_language"
 translations:
   - translation_iso: ara

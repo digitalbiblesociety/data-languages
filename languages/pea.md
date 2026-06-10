@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -7.982
 longitude: 112.61857
 glottocode: pera1256
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Betawic > Peranakan Indonesian"
+wikidata_id: Q20580675
 wikipedia_url: "https://en.wikipedia.org/wiki/Peranakan_language"
 translations:
   - translation_iso: ara

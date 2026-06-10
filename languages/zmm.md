@@ -7,12 +7,15 @@ population: 15
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -14.17881
 longitude: 130.56095
 glottocode: mari1417
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marimanindji"
+wikidata_id: Q10577424
 wikipedia_url: "https://en.wikipedia.org/wiki/Marimanindji_language"
 translations:
   - translation_iso: ara

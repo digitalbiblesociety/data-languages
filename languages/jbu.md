@@ -7,12 +7,15 @@ population: 2440
 country_id: CM
 country_name: Cameroon
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 7.20236
 longitude: 10.257605
 glottocode: juku1254
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Jibu-Wase > Jibuic > Jukun Takum"
+wikidata_id: Q35447
 wikipedia_url: "https://en.wikipedia.org/wiki/Jukun_Takum_language"
 translations:
   - translation_iso: ara

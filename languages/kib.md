@@ -7,12 +7,15 @@ population: 100000
 country_id: SD
 country_name: Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 11.69648
 longitude: 30.47166
 glottocode: koal1240
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Koalib-Rere"
+wikidata_id: Q35859
 wikipedia_url: "https://en.wikipedia.org/wiki/Koalib_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 800
 country_id: ID
 country_name: Indonesia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -3.39247
 longitude: 127.11763
 glottocode: kaye1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Kayeli"
+wikidata_id: Q4207444
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayeli_language"
 translations:
   - translation_iso: ara

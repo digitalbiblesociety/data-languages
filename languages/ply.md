@@ -7,12 +7,15 @@ population: 10000
 country_id: CN
 country_name: China
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 24.70131
 longitude: 104.95452
 glottocode: boly1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mangic > Pakanic > Bolyu"
+wikidata_id: Q3361723
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolyu_language"
 translations:
   - translation_iso: ara

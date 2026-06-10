@@ -6,12 +6,15 @@ population: 25000
 country_id: RS
 country_name: Serbia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 45.39123
 longitude: 17.519265
 glottocode: yugo1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Yugoslav Sign > Yugoslavian Sign Language"
+wikidata_id: Q8060373
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugoslav_Sign_Language"
 translations:
   - translation_iso: ara

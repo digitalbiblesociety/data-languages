@@ -6,12 +6,15 @@ population: 1300
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.63777
 longitude: 30.4128
 glottocode: tumt1243
 glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Krongo-Tumtum > Tumtum"
+wikidata_id: Q3407029
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumtum_language"
 translations:
   - translation_iso: ara

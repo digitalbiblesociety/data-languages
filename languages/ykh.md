@@ -5,12 +5,15 @@ alt_names: [Hamunikan, Kamnigan, Khamnigan, Xamnigan, 哈姆尼堪]
 population: 2000
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 49
 longitude: 117
 glottocode: kham1281
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khamnigan Mongol"
+wikidata_id: Q3196052
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamnigan_Mongol"
 translations:
   - translation_iso: ara

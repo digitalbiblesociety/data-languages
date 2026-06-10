@@ -7,12 +7,15 @@ population: 130
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 73.13537
 longitude: 86.2106
 glottocode: ngan1291
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Nganasan"
+wikidata_id: Q36743
 wikipedia_url: "https://en.wikipedia.org/wiki/Nganasan_language"
 translations:
   - translation_iso: ara

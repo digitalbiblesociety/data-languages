@@ -7,12 +7,15 @@ population: 37000
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 19.6001
 longitude: -99.65409
 glottocode: temo1245
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Southwestern Otomi > Temoaya Otomi"
+wikidata_id: Q7698191
 wikipedia_url: "https://en.wikipedia.org/wiki/Temoaya_Otomi"
 translations:
   - translation_iso: ara

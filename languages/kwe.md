@@ -7,12 +7,15 @@ population: 2500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.2137
 longitude: 138.48618
 glottocode: nucl1595
 glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Kwerba"
+wikidata_id: Q6450328
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwerba_language"
 translations:
   - translation_iso: ara

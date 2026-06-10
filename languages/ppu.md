@@ -7,12 +7,15 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 24.32398
 longitude: 120.57694
 glottocode: papo1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Central Western Plains > Papora-Hoanya"
+wikidata_id: Q2094884
 wikipedia_url: "https://en.wikipedia.org/wiki/Papora-Hoanya_language"
 translations:
   - translation_iso: ara

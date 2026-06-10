@@ -7,12 +7,15 @@ population: 200000
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
 latitude: 15.37
 longitude: 80.11
 glottocode: patt1247
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Yerukula-Korava-Kaikadi > Pattapu"
+wikidata_id: Q60785085
 wikipedia_url: "https://en.wikipedia.org/wiki/Pattapu_language"
 translations:
   - translation_iso: ara

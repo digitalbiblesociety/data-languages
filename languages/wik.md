@@ -7,12 +7,15 @@ population: 86
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -13.68352
 longitude: 141.55731
 glottocode: wika1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Ngatharra-Ngathana-Iinychanya > Wikalkan"
+wikidata_id: Q7999800
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik-Ngatharr_dialect"
 translations:
   - translation_iso: ara

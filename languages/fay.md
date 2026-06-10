@@ -7,12 +7,15 @@ population: 7500
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 29.746
 longitude: 52.267
 glottocode: sout2645
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Fars Dialects"
+wikidata_id: Q5228140
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuhmareyi_language"
 translations:
   - translation_iso: ara

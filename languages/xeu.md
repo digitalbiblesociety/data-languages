@@ -7,12 +7,15 @@ population: 194
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.63603
 longitude: 145.41549
 glottocode: keor1235
 glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Keoru-Ahia"
+wikidata_id: Q11732313
 wikipedia_url: "https://en.wikipedia.org/wiki/Keoru_language"
 translations:
   - translation_iso: ara

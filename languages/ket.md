@@ -7,12 +7,15 @@ population: 1494
 country_id: RU
 country_name: Russia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 63.75506
 longitude: 87.54663
 glottocode: kett1243
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Northern Yeniseian > Ket"
+wikidata_id: Q33485
 wikipedia_url: "https://en.wikipedia.org/wiki/Ket_language"
 translations:
   - translation_iso: ara

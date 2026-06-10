@@ -1,5 +1,6 @@
 ---
 iso: czh
+macrolanguage_id: zho
 name: Huizhou Chinese
 autonym: 徽州話 / 徽州话
 alt_names: ["Chinese, Huizhou", "Chinese,Huizhou", Hui, Hui-Dialekt, Huizhou, Sinaeg Huizhou, 徽州話]
@@ -7,12 +8,15 @@ population: 5380000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.76462
 longitude: 118.23232
 glottocode: huiz1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Wu-Hui Chinese > Hui Chinese"
+wikidata_id: Q56546
 wikipedia_url: "https://en.wikipedia.org/wiki/Huizhou_Chinese"
 translations:
   - translation_iso: ara

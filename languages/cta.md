@@ -7,12 +7,15 @@ population: 4000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.29628
 longitude: -97.53112
 glottocode: tata1258
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Tataltepec Chatino"
+wikidata_id: Q7687853
 wikipedia_url: "https://en.wikipedia.org/wiki/Tataltepec_Chatino"
 translations:
   - translation_iso: ara

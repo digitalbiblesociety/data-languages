@@ -7,12 +7,15 @@ population: 401000
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.57292
 longitude: 1.781805
 glottocode: maxi1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Maxi Gbe"
+wikidata_id: Q35770
 translations:
   - translation_iso: ara
     name: ماكسي جبي

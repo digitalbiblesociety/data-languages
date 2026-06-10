@@ -1,5 +1,6 @@
 ---
 iso: qur
+macrolanguage_id: que
 name: Yanahuanca Pasco Quechua
 autonym: Kichwa
 alt_names: ["\"quechua de Cajatambo, de Paso y de Junín septentrional.\"", Daniel Carrion, Junín, "Quechua, Yanahuanca Pasco", Quehcua de Cajatambo Pasco et du Junín nord, Tarma, Yanacocha, Yaru]
@@ -7,12 +8,15 @@ population: 20500
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -10.49293
 longitude: -76.53144
 glottocode: yana1272
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Yaru Quechua > Chaupihuaranga Quechua"
+wikidata_id: Q42305075
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا يانايوانكا باسكو

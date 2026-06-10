@@ -6,12 +6,15 @@ population: 800
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 9.2634
 longitude: 8.60225
 glottocode: ayuu1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Ayu"
+wikidata_id: Q34786
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayu_language"
 translations:
   - translation_iso: ara

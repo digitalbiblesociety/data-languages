@@ -7,12 +7,15 @@ population: 36000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.53187
 longitude: 4.8387
 glottocode: kagf1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Dukaic > Main-Gwamhi > Ut-Main"
+wikidata_id: Q36627
 wikipedia_url: "https://en.wikipedia.org/wiki/U%CC%A0t-Ma%27in_language"
 translations:
   - translation_iso: ara

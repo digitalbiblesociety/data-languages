@@ -7,12 +7,15 @@ population: 12000
 country_id: GT
 country_name: Guatemala
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 15.23054
 longitude: -91.7041
 glottocode: sipa1247
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Sipacapense"
+wikidata_id: Q36589
 wikipedia_url: "https://en.wikipedia.org/wiki/Sipakapa_language"
 translations:
   - translation_iso: ara

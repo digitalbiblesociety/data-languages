@@ -7,12 +7,15 @@ population: 24800
 country_id: IN
 country_name: India
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 25.020115
 longitude: 94.73812
 glottocode: ralt1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Paiteic > Ralte"
+wikidata_id: Q7288392
 wikipedia_url: "https://en.wikipedia.org/wiki/Ralte_language"
 translations:
   - translation_iso: ara

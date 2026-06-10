@@ -7,12 +7,15 @@ population: null
 country_id: TZ
 country_name: Tanzania
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -4.00743
 longitude: 35.18279
 glottocode: kwad1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > Kw'adza"
+wikidata_id: Q3807652
 wikipedia_url: "https://en.wikipedia.org/wiki/Kw%CA%BCadza_language"
 translations:
   - translation_iso: ara

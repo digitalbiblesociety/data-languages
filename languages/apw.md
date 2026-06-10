@@ -7,12 +7,15 @@ population: 14000
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 33.85743
 longitude: -110.12264
 glottocode: west2615
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Western Apache"
+wikidata_id: Q28060
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Apache_language"
 translations:
   - translation_iso: ara

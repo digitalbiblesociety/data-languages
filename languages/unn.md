@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -38.58
 longitude: 146.5
 glottocode: gana1278
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ganaic > Ganai"
+wikidata_id: Q61676882
 wikipedia_url: "https://en.wikipedia.org/wiki/Gunaikurnai_language"
 translations:
   - translation_iso: ara

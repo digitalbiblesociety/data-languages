@@ -7,12 +7,15 @@ population: 6900
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.84161
 longitude: 146.09235
 glottocode: iyoo1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Ufim-Rawa-Nahu > Iyo"
+wikidata_id: Q6101336
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 15000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 25.97
 longitude: 102.598
 glottocode: nalu1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Naluo Yi"
+wikidata_id: Q6961032
 wikipedia_url: "https://en.wikipedia.org/wiki/Naruo_language"
 translations:
   - translation_iso: ara

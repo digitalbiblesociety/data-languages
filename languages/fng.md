@@ -7,12 +7,15 @@ population: 5100
 country_id: ZA
 country_name: South Africa
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -25.384842
 longitude: 27.140083
 glottocode: fana1235
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Zulu-based pidgin > Fanagalo"
+wikidata_id: Q35727
 wikipedia_url: "https://en.wikipedia.org/wiki/Fanagalo"
 translations:
   - translation_iso: ara

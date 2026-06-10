@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: historical
 latitude: 11
 longitude: 78
 glottocode: oldt1248
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Old Tamil"
+wikidata_id: Q20987452
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Tamil"
 translations:
   - translation_iso: ara

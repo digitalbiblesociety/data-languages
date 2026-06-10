@@ -7,12 +7,15 @@ population: 180000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.03321
 longitude: 29.97403
 glottocode: jurm1239
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Lori > Jur Modo"
+wikidata_id: Q56682
 wikipedia_url: "https://en.wikipedia.org/wiki/Jur_Modo_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: null
 country_id: BO
 country_name: Bolivia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -13.24822
 longitude: -65.48219
 glottocode: cayu1262
+wikidata_id: Q3183382
 wikipedia_url: "https://en.wikipedia.org/wiki/Cayubaba_language"
 translations:
   - translation_iso: ara

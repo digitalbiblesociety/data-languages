@@ -7,12 +7,15 @@ population: 14300
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.02348
 longitude: -3.47165
 glottocode: phui1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Phuie"
+wikidata_id: Q36375
 wikipedia_url: "https://en.wikipedia.org/wiki/Puguli_language"
 translations:
   - translation_iso: ara

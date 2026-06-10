@@ -7,12 +7,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 24.46064
 longitude: 97.11423
 glottocode: hpon1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Hpon"
+wikidata_id: Q5923277
 wikipedia_url: "https://en.wikipedia.org/wiki/Hpon_language"
 translations:
   - translation_iso: ara

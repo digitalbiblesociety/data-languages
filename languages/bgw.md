@@ -7,12 +7,15 @@ population: 334000
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 19.26078
 longitude: 82.24055
 glottocode: bhat1265
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Halbic > Bhatri"
+wikidata_id: Q8841054
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhatri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10
 country_id: SB
 country_name: Solomon Islands
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.18719
 longitude: 159.25532
 glottocode: zaza1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > Central Santa Isabel > Zazao-Blanga > Zazao"
+wikidata_id: Q3574969
 wikipedia_url: "https://en.wikipedia.org/wiki/Zazao_language"
 translations:
   - translation_iso: ara

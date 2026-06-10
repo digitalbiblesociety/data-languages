@@ -7,12 +7,15 @@ population: 8440
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.30064
 longitude: 143.31566
 glottocode: iatm1242
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Iatmul"
+wikidata_id: Q5983460
 wikipedia_url: "https://en.wikipedia.org/wiki/Iatmul_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 690
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.28364
 longitude: 143.69565
 glottocode: chan1319
 glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Changriwa"
+wikidata_id: Q5072105
 wikipedia_url: "https://en.wikipedia.org/wiki/Changriwa_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.4296
 longitude: 119.19031
+wikidata_id: Q2984540
 translations:
   - translation_iso: ara
     name: لغة اورا

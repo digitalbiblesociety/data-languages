@@ -7,12 +7,15 @@ population: 12000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.35815
 longitude: 22.736157
 glottocode: togb1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Togbo-Vara Banda"
+wikidata_id: Q11002922
 translations:
   - translation_iso: ara
     name: توجبو فارا بندا

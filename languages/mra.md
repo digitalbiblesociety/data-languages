@@ -7,12 +7,15 @@ population: 300
 country_id: TH
 country_name: Thailand
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 18.553345
 longitude: 101.162995
 glottocode: mlab1235
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Mlabri"
+wikidata_id: Q3073465
 wikipedia_url: "https://en.wikipedia.org/wiki/Mlabri_language"
 translations:
   - translation_iso: ara

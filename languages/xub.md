@@ -7,12 +7,15 @@ population: 32000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.63852
 longitude: 76.60643
 glottocode: bett1235
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Betta Kurumba"
+wikidata_id: Q16841033
 wikipedia_url: "https://en.wikipedia.org/wiki/Betta_Kurumba_language"
 translations:
   - translation_iso: ara

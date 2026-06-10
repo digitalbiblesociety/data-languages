@@ -4,8 +4,11 @@ name: Matambwe
 autonym: Chi(ni)makonde
 country_id: TZ
 country_name: Tanzania
+scope: individual
+language_type: living
 latitude: -10.9906
 longitude: 39.5133
+wikidata_id: Q116450240
 wikipedia_url: "https://en.wikipedia.org/wiki/Matambwe_language"
 translations:
   - translation_iso: ara

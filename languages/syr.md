@@ -6,6 +6,8 @@ population: 858080
 country_id: IQ
 country_name: Iraq
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Syrc]
 translations:
   - translation_iso: ara

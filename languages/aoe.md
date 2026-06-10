@@ -7,12 +7,15 @@ population: 34420
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.23296
 longitude: 143.58326
 glottocode: anga1294
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Kewa-Huli > Sau-Angal-Kewa > Angal-Kewa > Angal Mendi > Angal Enen"
+wikidata_id: Q10951638
 translations:
   - translation_iso: ara
     name: لغة أنغال إينين

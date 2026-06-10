@@ -7,6 +7,8 @@ population: 51000
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 41.12144
 longitude: 42.72732
 scripts: [Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: abaz1241
 glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Abkhaz-Abaza > Abaza"
+wikidata_id: Q27567
 wikipedia_url: "https://en.wikipedia.org/wiki/Abaza_language"
 translations:
   - translation_iso: ara

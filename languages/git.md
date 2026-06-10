@@ -7,12 +7,15 @@ population: 1330
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 55.09005
 longitude: -128.08043
 glottocode: gitx1241
 glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Nishga-Gitxsan > Gitxsan"
+wikidata_id: Q3107862
 wikipedia_url: "https://en.wikipedia.org/wiki/Gitxsan_language"
 translations:
   - translation_iso: ara

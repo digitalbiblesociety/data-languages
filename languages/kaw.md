@@ -7,6 +7,8 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: historical
 latitude: -7
 longitude: 111
 scripts: [Bali, Java, Kawi]
@@ -14,6 +16,7 @@ glottocode: kawi1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Kawi"
+wikidata_id: Q49341
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Javanese"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4220
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.35959
 longitude: -97.38615
 glottocode: diux1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Diuxi-Tilantongo Mixtec"
+wikidata_id: Q7802048
 wikipedia_url: "https://en.wikipedia.org/wiki/Tilantongo_Mixtec"
 translations:
   - translation_iso: ara

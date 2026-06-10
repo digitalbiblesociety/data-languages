@@ -7,12 +7,15 @@ population: 2500
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.95342
 longitude: 168.22772
 glottocode: saaa1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > South Pentecost > Sa"
+wikidata_id: Q3460352
 wikipedia_url: "https://en.wikipedia.org/wiki/Saa_language"
 translations:
   - translation_iso: ara

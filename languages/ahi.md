@@ -7,12 +7,15 @@ population: 9000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.28022
 longitude: -4.62352
 glottocode: tiag1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Aizi > Tiagbamrin Aizi"
+wikidata_id: Q3400073
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiagba_language"
 translations:
   - translation_iso: ara

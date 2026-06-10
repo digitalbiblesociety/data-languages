@@ -7,12 +7,15 @@ population: 2020
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.45745
 longitude: 93.03307
 glottocode: chau1258
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Chowra-Teressa > Chaura"
+wikidata_id: Q2605680
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaura_language"
 translations:
   - translation_iso: ara

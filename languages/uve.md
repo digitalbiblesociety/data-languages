@@ -7,12 +7,15 @@ population: 1110
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.41454
 longitude: 166.58936
 glottocode: west2516
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > West Uvean"
+wikidata_id: Q36837
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Uvean_language"
 translations:
   - translation_iso: ara

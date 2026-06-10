@@ -7,12 +7,15 @@ population: 958
 country_id: TW
 country_name: Taiwan
 status_id: null
+scope: individual
+language_type: living
 latitude: 24.026316
 longitude: 121.531394
 glottocode: saki1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Central East Formosan > Sakizaya"
+wikidata_id: Q718269
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakizaya_language"
 translations:
   - translation_iso: ara

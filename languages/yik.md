@@ -7,12 +7,15 @@ population: 30000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 25.435
 longitude: 100.178
 glottocode: dong1286
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Lalo > Greater Lalo > Core Lalo > Dongshanba Lalo"
+wikidata_id: Q12953333
 translations:
   - translation_iso: ara
     name: لغة دونجشانبا لالو

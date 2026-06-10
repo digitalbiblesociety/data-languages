@@ -7,12 +7,15 @@ population: 1230000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.29842
 longitude: 6.90495
 glottocode: gbag1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Gbagyi-Gbari > Gbagyi"
+wikidata_id: Q11015105
 translations:
   - translation_iso: ara
     name: الجباجي

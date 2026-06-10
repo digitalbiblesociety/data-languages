@@ -12,6 +12,8 @@
   "propertyNames": {
     "enum": [
       "iso",
+      "iso639_1",
+      "macrolanguage_id",
       "name",
       "autonym",
       "alt_names",
@@ -19,6 +21,8 @@
       "country_id",
       "country_name",
       "status_id",
+      "scope",
+      "language_type",
       "latitude",
       "longitude",
       "scripts",
@@ -26,6 +30,7 @@
       "glottolog_family_id",
       "glottolog_family_name",
       "glottolog_classification",
+      "wikidata_id",
       "wikipedia_url",
       "translations",
       "rolv_dialects"
@@ -35,6 +40,16 @@
   "properties": {
     "iso": {
       "description": "ISO 639-3 three-letter code, lowercase.",
+      "type": "string",
+      "pattern": "^[a-z]{3}$"
+    },
+    "iso639_1": {
+      "description": "ISO 639-1 two-letter code, when one exists (e.g. 'aa' for aar). From the SIL ISO 639-3 code table (Part1). Populated by tools/sources/iso639.go.",
+      "type": "string",
+      "pattern": "^[a-z]{2}$"
+    },
+    "macrolanguage_id": {
+      "description": "ISO 639-3 code of the macrolanguage this individual language belongs to (e.g. 'zho' for cmn). From the SIL macrolanguage mappings. Populated by tools/sources/iso639.go.",
       "type": "string",
       "pattern": "^[a-z]{3}$"
     },
@@ -72,6 +87,16 @@
       "type": "string",
       "enum": ["0", "1", "2", "3", "4", "5", "6a", "6b", "7", "8a", "8b", "9", "10"]
     },
+    "scope": {
+      "description": "ISO 639-3 code scope. Populated by tools/sources/iso639.go.",
+      "type": "string",
+      "enum": ["individual", "macrolanguage", "special"]
+    },
+    "language_type": {
+      "description": "ISO 639-3 language type. Populated by tools/sources/iso639.go.",
+      "type": "string",
+      "enum": ["living", "extinct", "ancient", "historical", "constructed", "special"]
+    },
     "latitude": {
       "description": "Centroid latitude in decimal degrees.",
       "type": "number",
@@ -108,6 +133,11 @@
     "glottolog_classification": {
       "description": "Top-down genealogical path from family to leaf, joined with ' > '.",
       "type": "string"
+    },
+    "wikidata_id": {
+      "description": "Wikidata entity ID (QID, e.g. 'Q27811'), resolved via the P220 (ISO 639-3 code) claim. Populated by tools/sources/wikidata_id.go.",
+      "type": "string",
+      "pattern": "^Q[1-9][0-9]*$"
     },
     "wikipedia_url": {
       "description": "English Wikipedia article URL. Populated by tools/sources/wikipedia.go via Wikidata P220.",

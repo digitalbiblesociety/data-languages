@@ -7,6 +7,8 @@ population: 104900
 country_id: TR
 country_name: Turkey
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 37.22746
 longitude: 42.145103
 scripts: [Latn, Syrc]
@@ -14,6 +16,7 @@ glottocode: turo1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > Turoyo-Mlahso > Turoyo"
+wikidata_id: Q34040
 wikipedia_url: "https://en.wikipedia.org/wiki/Turoyo_language"
 translations:
   - translation_iso: ara

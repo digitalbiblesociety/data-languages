@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -15.09085
 longitude: 142.73992
 glottocode: paka1251
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Pakanha"
+wikidata_id: Q954916
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakanha_language"
 translations:
   - translation_iso: ara

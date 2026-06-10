@@ -7,12 +7,15 @@ population: 4500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.66965
 longitude: 148.04113
 glottocode: mbul1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Mbula"
+wikidata_id: Q3303572
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbula_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1500
 country_id: AZ
 country_name: Azerbaijan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41.18014
 longitude: 48.05714
 glottocode: khin1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Khinalug"
+wikidata_id: Q35278
 wikipedia_url: "https://en.wikipedia.org/wiki/Khinalug_language"
 translations:
   - translation_iso: ara

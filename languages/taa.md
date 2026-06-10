@@ -7,12 +7,15 @@ population: 380
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 64.88341
 longitude: -149.45142
 glottocode: lowe1425
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Lower Tanana"
+wikidata_id: Q28565
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Tanana_language"
 translations:
   - translation_iso: ara

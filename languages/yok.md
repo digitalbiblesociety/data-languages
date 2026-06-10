@@ -7,12 +7,15 @@ population: 2500
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 36.31674
 longitude: -119.7214
 glottocode: yoku1256
 glottolog_family_id: yoku1255
 glottolog_family_name: Yokutsan
 glottolog_classification: "Yokutsan > General Yokuts > Nim Yokuts > Northern Yokuts"
+wikidata_id: Q34249
 wikipedia_url: "https://en.wikipedia.org/wiki/Yokuts_language"
 translations:
   - translation_iso: ara

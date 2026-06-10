@@ -7,6 +7,8 @@ population: 15900
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.31807
 longitude: 74.14197
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: khan1272
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Khandesic > Khandesi"
+wikidata_id: Q33726
 wikipedia_url: "https://en.wikipedia.org/wiki/Khandeshi_language"
 translations:
   - translation_iso: ara

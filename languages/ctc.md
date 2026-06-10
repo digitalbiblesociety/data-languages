@@ -6,8 +6,11 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 42.68637
 longitude: -124.37588
+wikidata_id: Q7544418
 translations:
   - translation_iso: ara
     name: الشيتكو

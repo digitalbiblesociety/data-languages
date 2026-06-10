@@ -1,5 +1,6 @@
 ---
 iso: hms
+macrolanguage_id: hmn
 name: Southern Qiandong Miao
 autonym: Qiandong Miao
 alt_names: [Black Miao, Central Miao, Heh Miao, Hei, "Hmong, Southern Qiandong", Hmu, Miao, "Miao, Southern Qiandong", Southern East-Guizhou Miao]
@@ -7,12 +8,15 @@ population: 8950000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.6618
 longitude: 108.53274
 glottocode: sout2754
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > East Hmongic > South Qiandongic Miao > Southern Qiandong Miao"
+wikidata_id: Q12953562
 translations:
   - translation_iso: ara
     name: لغة ميــاو تشياندونغ الجنوبية

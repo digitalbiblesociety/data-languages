@@ -7,12 +7,15 @@ population: 7850
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 9.85
 longitude: 76.97
 glottocode: mann1246
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Muthuvan-Mannan > Mannan"
+wikidata_id: Q3286037
 wikipedia_url: "https://en.wikipedia.org/wiki/Mannan_language"
 translations:
   - translation_iso: ara

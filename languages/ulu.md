@@ -7,12 +7,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.25
 longitude: 116.5
 glottocode: umal1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Upper Pujungan > Uma' Lung"
+wikidata_id: Q3548186
 translations:
   - translation_iso: ara
     name: أوما لونج

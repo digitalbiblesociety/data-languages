@@ -7,12 +7,15 @@ population: 15000
 country_id: GE
 country_name: Georgia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 42.91337
 longitude: 42.59155
 glottocode: svan1243
 glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Svan"
+wikidata_id: Q34067
 wikipedia_url: "https://en.wikipedia.org/wiki/Svan_language"
 translations:
   - translation_iso: ara

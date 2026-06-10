@@ -7,12 +7,15 @@ population: 151000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.63207
 longitude: 35.62555
 glottocode: meen1242
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Me'en"
+wikidata_id: Q3408516
 wikipedia_url: "https://en.wikipedia.org/wiki/Me%CA%BCen_language"
 translations:
   - translation_iso: ara

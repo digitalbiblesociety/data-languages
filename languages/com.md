@@ -7,12 +7,15 @@ population: 8500
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 34.57014
 longitude: -98.42395
 glottocode: coma1245
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Central Numic > Comanche"
+wikidata_id: Q32972
 wikipedia_url: "https://en.wikipedia.org/wiki/Comanche_language"
 translations:
   - translation_iso: ara

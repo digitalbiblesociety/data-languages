@@ -1,5 +1,6 @@
 ---
 iso: sag
+iso639_1: sg
 name: Sango
 autonym: yângâ tî sängö
 alt_names: [Sangho, Sangoeg, Sängö, Санго, Санго мотт]
@@ -7,6 +8,8 @@ population: 617000
 country_id: CF
 country_name: Central African Republic
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 6.785843
 longitude: 20.170203
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: sang1328
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ngbandi-Mongoba-Kazibati > Ngbandic > Nuclear Ngbandic > Sangoic > Sango"
+wikidata_id: Q33954
 wikipedia_url: "https://en.wikipedia.org/wiki/Sango_language"
 translations:
   - translation_iso: ara

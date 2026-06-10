@@ -7,12 +7,15 @@ population: 6000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.53419
 longitude: 14.84752
 glottocode: malg1250
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Septentrional > Kotoko Septentrional 2 > Malgbe"
+wikidata_id: Q3502224
 wikipedia_url: "https://en.wikipedia.org/wiki/Malgbe_language"
 translations:
   - translation_iso: ara

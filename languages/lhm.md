@@ -7,12 +7,15 @@ population: 5660
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.594787
 longitude: 87.716067
 glottocode: lhom1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Lhomi"
+wikidata_id: Q14240916
 translations:
   - translation_iso: ara
     name: لغة هومي

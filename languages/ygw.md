@@ -7,12 +7,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.14042
 longitude: 145.85384
 glottocode: yagw1240
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Yagwoia"
+wikidata_id: Q8046761
 wikipedia_url: "https://en.wikipedia.org/wiki/Yagwoia_language"
 translations:
   - translation_iso: ara

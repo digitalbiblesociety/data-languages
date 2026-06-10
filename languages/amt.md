@@ -7,12 +7,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.12165
 longitude: 141.33941
 glottocode: amto1250
 glottolog_family_id: amto1249
 glottolog_family_name: Amto-Musan
 glottolog_classification: "Amto-Musan > Amto"
+wikidata_id: Q56517
 wikipedia_url: "https://en.wikipedia.org/wiki/Amto_language"
 translations:
   - translation_iso: ara

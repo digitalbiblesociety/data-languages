@@ -1,5 +1,6 @@
 ---
 iso: kan
+iso639_1: kn
 name: Kannada
 autonym: ಕನ್ನಡ
 alt_names: [Badaga-Kannaḍa, Banglori, Canarese, Fiteny kannada, Havyaka, Kanara, Kanarese, Kanaríska, Kannada simi, Kannadeg, Kannaḍa, Madrassi, Nuclear Kannada, Pre-Kannada, Канада, Каннада, كانناداچە, ކައްނަޑާ, कन्नड, কন্নড় ঠার, கன்னடம், കന്നഡ, კანადა]
@@ -7,6 +8,8 @@ population: 43600000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 13.58785
 longitude: 76.11983
 scripts: [Knda]
@@ -14,6 +17,7 @@ glottocode: nucl1305
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Nuclear Kannaoid > Kannada"
+wikidata_id: Q33673
 wikipedia_url: "https://en.wikipedia.org/wiki/Kannada"
 translations:
   - translation_iso: ara

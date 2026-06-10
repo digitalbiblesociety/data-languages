@@ -7,12 +7,15 @@ population: 8350
 country_id: SL
 country_name: Sierra Leone
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9
 longitude: -13.16
 glottocode: bull1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bullom So"
+wikidata_id: Q35061
 wikipedia_url: "https://en.wikipedia.org/wiki/Bullom_So_language"
 translations:
   - translation_iso: ara

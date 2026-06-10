@@ -7,12 +7,15 @@ population: 36400
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 41.61866
 longitude: 47.32436
 glottocode: rutu1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Western Samur > Rutul"
+wikidata_id: Q36757
 wikipedia_url: "https://en.wikipedia.org/wiki/Rutul_language"
 translations:
   - translation_iso: ara

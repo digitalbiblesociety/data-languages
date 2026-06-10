@@ -6,9 +6,12 @@ population: 4628550
 country_id: KE
 country_name: Kenya
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: -0.02158
 longitude: 35.92363
 scripts: [Latn]
+wikidata_id: Q637228
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalenjin_languages"
 translations:
   - translation_iso: ara

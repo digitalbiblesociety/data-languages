@@ -7,12 +7,15 @@ population: 2442
 country_id: MY
 country_name: Malaysia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.67619
 longitude: 102.2913
 glottocode: jahh1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Jah Hut"
+wikidata_id: Q2742661
 wikipedia_url: "https://en.wikipedia.org/wiki/Jah_Hut_language"
 translations:
   - translation_iso: ara

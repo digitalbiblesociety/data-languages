@@ -7,12 +7,15 @@ population: 1190
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.03136
 longitude: 148.10712
 glottocode: omie1241
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Ömie"
+wikidata_id: Q8078975
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96mie_language"
 translations:
   - translation_iso: ara

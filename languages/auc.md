@@ -7,9 +7,12 @@ population: 2420
 country_id: EC
 country_name: Ecuador
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.12312
 longitude: -76.68295
 glottocode: waor1240
+wikidata_id: Q758570
 wikipedia_url: "https://en.wikipedia.org/wiki/Waorani_language"
 translations:
   - translation_iso: ara

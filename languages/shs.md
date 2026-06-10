@@ -7,12 +7,15 @@ population: 1255
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 50.87341
 longitude: -119.66696
 glottocode: shus1248
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Thompsonic > Shuswap"
+wikidata_id: Q3482685
 wikipedia_url: "https://en.wikipedia.org/wiki/Shuswap_language"
 translations:
   - translation_iso: ara

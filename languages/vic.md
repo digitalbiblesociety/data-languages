@@ -7,6 +7,8 @@ population: 90900
 country_id: VI
 country_name: Virgin Islands US
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.04715
 longitude: -63.07851
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: virg1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Virgin Islands Creole English"
+wikidata_id: Q7933935
 wikipedia_url: "https://en.wikipedia.org/wiki/Virgin_Islands_Creole"
 translations:
   - translation_iso: ara

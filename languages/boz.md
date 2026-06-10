@@ -7,12 +7,15 @@ population: 118000
 country_id: ML
 country_name: Mali
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.1223
 longitude: -5.08609
 glottocode: tiey1235
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Ti-Bozo > Tiéyaxo Bozo"
+wikidata_id: Q32860401
 translations:
   - translation_iso: ara
     name: تييياكسو بوزو

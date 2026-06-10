@@ -7,12 +7,15 @@ population: 2420
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.42115
 longitude: 114.01092
 glottocode: naro1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram B > Narom"
+wikidata_id: Q3336135
 wikipedia_url: "https://en.wikipedia.org/wiki/Narom_language"
 translations:
   - translation_iso: ara

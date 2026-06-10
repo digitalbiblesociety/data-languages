@@ -7,12 +7,15 @@ population: 2
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.20007
 longitude: 130.09204
 glottocode: giyu1238
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Giyug"
+wikidata_id: Q5565906
 wikipedia_url: "https://en.wikipedia.org/wiki/Giyug_language"
 translations:
   - translation_iso: ara

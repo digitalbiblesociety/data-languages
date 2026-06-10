@@ -7,12 +7,15 @@ population: 3000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.34119
 longitude: -103.36118
 glottocode: mich1245
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Western Periphery Nahuatl > Michoacán Nahuatl"
+wikidata_id: Q2896217
 wikipedia_url: "https://en.wikipedia.org/wiki/Michoac%C3%A1n_Nahuatl"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 602400
 country_id: GT
 country_name: Guatemala
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 14.80343
 longitude: -91.72314
 glottocode: mamm1241
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Mamean > Mam"
+wikidata_id: Q33467
 wikipedia_url: "https://en.wikipedia.org/wiki/Mam_language"
 translations:
   - translation_iso: ara

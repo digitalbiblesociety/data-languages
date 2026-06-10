@@ -7,12 +7,15 @@ population: 6000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.74971
 longitude: -5.50744
 glottocode: bank1258
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Bankagooma"
+wikidata_id: Q3438402
 wikipedia_url: "https://en.wikipedia.org/wiki/Banka_language"
 translations:
   - translation_iso: ara

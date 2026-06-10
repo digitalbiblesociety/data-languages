@@ -7,12 +7,15 @@ population: 213680
 country_id: ZM
 country_name: Zambia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.86817
 longitude: 31.22687
 glottocode: mamb1296
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Mambwe-Lungu"
+wikidata_id: Q626210
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambwe-Lungu_language"
 translations:
   - translation_iso: ara

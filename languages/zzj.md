@@ -1,5 +1,6 @@
 ---
 iso: zzj
+macrolanguage_id: zha
 name: Zuojiang Zhuang
 autonym: Vahcuengh (za)
 alt_names: [Ken Tho, Longyin, Longzhou, Nung Chao, Pho Thai, Pu Tho, Southern Zhuang, Tsochiang, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Zuojiang", Zhuangyu nanbu fangyan Zuojiang tuyu, Zuojiang]
@@ -7,12 +8,15 @@ population: 1840000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.83753
 longitude: 107.3622
 glottocode: zuoj1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Zuojiang Zhuang"
+wikidata_id: Q13848149
 wikipedia_url: "https://en.wikipedia.org/wiki/Zuojiang_Zhuang_languages"
 translations:
   - translation_iso: ara

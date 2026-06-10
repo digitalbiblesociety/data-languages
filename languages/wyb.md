@@ -7,12 +7,15 @@ population: 11
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -30.64808
 longitude: 146.17959
 glottocode: wang1291
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Wiradhuric > Ngiyambaa"
+wikidata_id: Q3913825
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngiyampaa_language"
 translations:
   - translation_iso: ara

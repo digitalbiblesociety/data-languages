@@ -6,8 +6,11 @@ population: 800
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 47.93414
 longitude: -122.13777
+wikidata_id: Q25559662
 translations:
   - translation_iso: ara
     name: سنوهوميش

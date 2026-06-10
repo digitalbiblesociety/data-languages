@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.97695
 longitude: 116.95439
 glottocode: sega1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Modang-Segai > Segai"
+wikidata_id: Q7446180
 wikipedia_url: "https://en.wikipedia.org/wiki/Segai_language"
 translations:
   - translation_iso: ara

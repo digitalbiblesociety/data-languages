@@ -6,10 +6,13 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: inte1261
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interglossa"
+wikidata_id: Q2314240
 wikipedia_url: "https://en.wikipedia.org/wiki/Interglossa"
 translations:
   - translation_iso: ara

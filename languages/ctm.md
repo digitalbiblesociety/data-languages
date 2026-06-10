@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 30.33861
 longitude: -90.91232
 glottocode: chit1248
+wikidata_id: Q1294227
 wikipedia_url: "https://en.wikipedia.org/wiki/Chitimacha_language"
 translations:
   - translation_iso: ara

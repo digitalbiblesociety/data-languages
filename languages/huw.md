@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -3.274
 longitude: 126.194
 glottocode: huku1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Hukumina"
+wikidata_id: Q3142988
 wikipedia_url: "https://en.wikipedia.org/wiki/Hukumina_language"
 translations:
   - translation_iso: ara

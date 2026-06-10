@@ -7,12 +7,15 @@ population: 5580
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.39642
 longitude: -97.92788
 glottocode: sanj1281
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > West Coast Mixtec > San Juan Colorado Mixtec"
+wikidata_id: Q12953718
 translations:
   - translation_iso: ara
     name: لغة مازاتك سان خوان كولورادو

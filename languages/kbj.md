@@ -7,12 +7,15 @@ population: 1000
 country_id: CD
 country_name: DR Congo
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.03525
 longitude: 25.74914
 glottocode: kari1306
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Extreme North Vestigial Suffixes Bantu > Kari"
+wikidata_id: Q6370438
 wikipedia_url: "https://en.wikipedia.org/wiki/Kari_language"
 translations:
   - translation_iso: ara

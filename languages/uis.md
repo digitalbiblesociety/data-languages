@@ -6,12 +6,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.55533
 longitude: 155.70566
 glottocode: uisa1238
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Buin > Uisai"
+wikidata_id: Q7878123
 wikipedia_url: "https://en.wikipedia.org/wiki/Uisai_language"
 translations:
   - translation_iso: ara

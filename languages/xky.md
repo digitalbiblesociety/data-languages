@@ -7,12 +7,15 @@ population: 1250
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.14141
 longitude: 114.2046
 glottocode: umal1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Upper Pujungan > Uma' Lasan"
+wikidata_id: Q7881227
 wikipedia_url: "https://en.wikipedia.org/wiki/Uma%CA%BC_Lasan_language"
 translations:
   - translation_iso: ara

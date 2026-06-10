@@ -7,12 +7,15 @@ population: 26700
 country_id: VN
 country_name: Vietnam
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.23509
 longitude: 107.7531
 glottocode: jehh1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Jeh-Halang > Jeh"
+wikidata_id: Q3914636
 wikipedia_url: "https://en.wikipedia.org/wiki/Jeh_language"
 translations:
   - translation_iso: ara

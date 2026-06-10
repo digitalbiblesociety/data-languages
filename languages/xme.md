@@ -6,6 +6,9 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q36461
 wikipedia_url: "https://en.wikipedia.org/wiki/Median_language"
 translations:
   - translation_iso: ara

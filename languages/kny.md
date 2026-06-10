@@ -7,12 +7,15 @@ population: 200000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.31878
 longitude: 23.61298
 glottocode: kany1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Lubaic > Kanyok"
+wikidata_id: Q11110766
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanyok_language"
 translations:
   - translation_iso: ara

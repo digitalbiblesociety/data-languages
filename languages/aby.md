@@ -7,12 +7,15 @@ population: 650
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.75911
 longitude: 148.47891
 glottocode: anem1248
 glottolog_family_id: yare1250
 glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Doriri-Abia > Aneme Wake"
+wikidata_id: Q3508107
 wikipedia_url: "https://en.wikipedia.org/wiki/Aneme_Wake_language"
 translations:
   - translation_iso: ara

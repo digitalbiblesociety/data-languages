@@ -7,12 +7,15 @@ population: 47500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.25064
 longitude: 115.500263
 glottocode: lund1271
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Lundayeh"
+wikidata_id: Q13479839
 wikipedia_url: "https://en.wikipedia.org/wiki/Lun_Bawang_language"
 translations:
   - translation_iso: ara

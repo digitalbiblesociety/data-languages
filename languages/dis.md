@@ -7,12 +7,15 @@ population: 137000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.41984
 longitude: 93.18061
 glottocode: dima1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Dimasa"
+wikidata_id: Q56664
 wikipedia_url: "https://en.wikipedia.org/wiki/Dimasa_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.46414
 longitude: 145.66048
+wikidata_id: Q12952663
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosena_language"
 translations:
   - translation_iso: ara

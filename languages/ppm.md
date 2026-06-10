@@ -7,12 +7,15 @@ population: 600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.77301
 longitude: 135.90724
 glottocode: papu1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Papuma"
+wikidata_id: Q7133239
 wikipedia_url: "https://en.wikipedia.org/wiki/Papuma_language"
 translations:
   - translation_iso: ara

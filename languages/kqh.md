@@ -6,8 +6,11 @@ population: 4670
 country_id: TZ
 country_name: Tanzania
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -8.5411
 longitude: 35.6751
+wikidata_id: Q6416409
 wikipedia_url: "https://en.wikipedia.org/wiki/Kisankasa_language"
 translations:
   - translation_iso: ara

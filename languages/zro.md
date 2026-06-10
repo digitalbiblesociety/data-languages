@@ -7,12 +7,15 @@ population: 170
 country_id: EC
 country_name: Ecuador
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -1.99871
 longitude: -76.36398
 glottocode: zapa1253
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Zaparo-Abishira > Záparo"
+wikidata_id: Q10206
 wikipedia_url: "https://en.wikipedia.org/wiki/Z%C3%A1paro_language"
 translations:
   - translation_iso: ara

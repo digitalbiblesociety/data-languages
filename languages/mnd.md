@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.04991
 longitude: -61.25
 glottocode: sala1273
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Salamãi"
+wikidata_id: Q6898840
 wikipedia_url: "https://en.wikipedia.org/wiki/Mond%C3%A9_language"
 translations:
   - translation_iso: ara

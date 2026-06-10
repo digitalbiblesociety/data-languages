@@ -7,9 +7,12 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 11.83364
 longitude: 33.69291
 glottocode: gule1241
+wikidata_id: Q3120736
 wikipedia_url: "https://en.wikipedia.org/wiki/Gule_language"
 translations:
   - translation_iso: ara

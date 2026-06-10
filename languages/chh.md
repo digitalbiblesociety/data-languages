@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 45.17285
 longitude: -119.1656
 glottocode: chin1286
 glottolog_family_id: chin1490
 glottolog_family_name: Chinookan
 glottolog_classification: "Chinookan > Lower Chinookan > Clatsop-Shoalwater Chinook"
+wikidata_id: Q6693380
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chinook"
 translations:
   - translation_iso: ara

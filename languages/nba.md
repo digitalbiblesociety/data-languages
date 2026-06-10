@@ -7,12 +7,15 @@ population: 950540
 country_id: AO
 country_name: Angola
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.70896
 longitude: 18.25152
 glottocode: nyem1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Nyemba"
+wikidata_id: Q3346655
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyemba_language"
 translations:
   - translation_iso: ara

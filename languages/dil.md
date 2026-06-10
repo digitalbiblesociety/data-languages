@@ -7,12 +7,15 @@ population: 5300
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 12.03469
 longitude: 29.60565
 glottocode: dill1242
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Western Kordofan Nubian > Dilling"
+wikidata_id: Q35152
 wikipedia_url: "https://en.wikipedia.org/wiki/Dilling_language"
 translations:
   - translation_iso: ara

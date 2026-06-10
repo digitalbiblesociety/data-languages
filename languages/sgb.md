@@ -7,12 +7,15 @@ population: 8200
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.19541
 longitude: 120.45949
 glottocode: maga1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Mag-Ayta > Mag-Anchi Ayta"
+wikidata_id: Q4356243
 wikipedia_url: "https://en.wikipedia.org/wiki/Antsi_language"
 translations:
   - translation_iso: ara

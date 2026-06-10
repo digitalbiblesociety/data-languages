@@ -7,12 +7,15 @@ population: 950
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.49733
 longitude: 142.25055
 glottocode: ning1273
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Ningil-Yil > Ningil"
+wikidata_id: Q11732527
 wikipedia_url: "https://en.wikipedia.org/wiki/Ningil_language"
 translations:
   - translation_iso: ara

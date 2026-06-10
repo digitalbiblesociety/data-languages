@@ -1,5 +1,6 @@
 ---
 iso: lim
+iso639_1: li
 name: Limburgan
 autonym: " Limburgic"
 alt_names: [Limbordjwès, Limborgsch, Limbourgeg, Limbourgek, Limbourgeois, Limburchsk, Limburger, Limburgera, Limburgisc, Limburgisch, Limburgish, Limburgiska, Limburgs, Limburgs Plat, Limburgsk, Limburgänapük, Limbuurchsk, Limbörgs, Limbůrjs Platt, Lìm-pó-ngî, לימבורגית]
@@ -7,6 +8,8 @@ population: 1300000
 country_id: NL
 country_name: Netherlands
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 51.015043
 longitude: 5.877053
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: limb1263
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Middle Franconian > Ripuarian > Limburgan"
+wikidata_id: Q102172
 wikipedia_url: "https://en.wikipedia.org/wiki/Limburgish"
 translations:
   - translation_iso: ara

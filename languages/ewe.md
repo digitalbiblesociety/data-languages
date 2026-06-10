@@ -1,5 +1,6 @@
 ---
 iso: ewe
+iso639_1: ee
 name: Ewe
 autonym: Èʋegbe
 alt_names: [Anló, Atjüló, Ebwe, Efe, Ehwe, Eibe, Eue, Eve, Eweeg, Eʋegbe, Fiteny eve, Gbe, Gbi, Krepe, Krepi, Popo, Vhe, éwé, Эве, ევე]
@@ -7,6 +8,8 @@ population: 4965300
 country_id: GH
 country_name: Ghana
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 6.46061
 longitude: 0.814975
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: ewee1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Ewe"
+wikidata_id: Q30005
 wikipedia_url: "https://en.wikipedia.org/wiki/Ewe_language"
 translations:
   - translation_iso: ara

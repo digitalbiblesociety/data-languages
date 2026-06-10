@@ -1,5 +1,6 @@
 ---
 iso: gnw
+macrolanguage_id: grn
 name: Western Bolivian Guaraní
 autonym: " Simba Guarani"
 alt_names: [Ava, Ava-guarani, Avá-guaraní, Bolivian Guaraní, Chiriguano, GuaraSimba, Guarani, Guarani de Bolivie, Guaraní, Guaraní boliviano, Guaraní language area, "Guaraní, Western Bolivian", Simba, Simba Guaraní, Western Bolivian Guarani]
@@ -7,12 +8,15 @@ population: 7000
 country_id: BO
 country_name: Bolivia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -20.28192
 longitude: -64.16621
 glottocode: west2640
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.B > Western Bolivian Guaraní"
+wikidata_id: Q3775037
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Bolivian_Guarani"
 translations:
   - translation_iso: ara

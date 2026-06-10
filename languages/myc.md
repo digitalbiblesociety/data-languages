@@ -6,8 +6,11 @@ population: 21000
 country_id: CD
 country_name: DR Congo
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -1.10038
 longitude: 17.82247
+wikidata_id: Q11129517
 translations:
   - translation_iso: ara
     name: مايكا

@@ -1,5 +1,6 @@
 ---
 iso: hin
+iso639_1: hi
 name: Hindi
 autonym: "हिंदी "
 alt_names: [An Hiondúis, Fiteny hindi, High Hindi, Hindeg, Hindi linguo, Hindi simi, Hindi-gí, Hindigiella, Hindjan, Hindustani, Hindí, Hinndi, Hintçe, Indi, Khadi Boli, Khari Boli, Kihindi, Literary Hindi, Nagari Hindi, Standard Hindi, Гіндзі, Гінді, Забони ҳиндӣ, Хинди, Хіндзі, הינדי, ھىندى تىلى, ہندی, ހިންދީ, हिन्दी, हिन्दीकानी छीब, হিন্দী ঠার, இந்தி, ಹಿಂದಿ, ഹിന്ദി, རྒྱ་གར་སྐད།, ᐦᐃᓐᑏ/hintii]
@@ -7,6 +8,8 @@ population: 341000000
 country_id: IN
 country_name: India
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 25
 longitude: 77
 scripts: [Deva, Latn, Mahj]
@@ -14,6 +17,7 @@ glottocode: hind1269
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Hindustani > Hindi"
+wikidata_id: Q1568
 wikipedia_url: "https://en.wikipedia.org/wiki/Hindi"
 translations:
   - translation_iso: ara

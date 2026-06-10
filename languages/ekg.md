@@ -7,12 +7,15 @@ population: 100000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.88974
 longitude: 136.0176
 glottocode: ekar1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Mee-Wodani > Ekari"
+wikidata_id: Q5350305
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekari_language"
 translations:
   - translation_iso: ara

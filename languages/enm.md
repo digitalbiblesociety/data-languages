@@ -7,6 +7,8 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 51.65
 longitude: -1.11
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: midd1317
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Middle English"
+wikidata_id: Q36395
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_English"
 translations:
   - translation_iso: ara

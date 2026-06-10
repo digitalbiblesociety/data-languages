@@ -7,6 +7,9 @@ population: null
 country_id: MK
 country_name: North Macedonia
 status_id: "10"
+scope: individual
+language_type: historical
+wikidata_id: Q35974
 wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_Macedonian_language"
 translations:
   - translation_iso: ara

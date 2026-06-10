@@ -7,12 +7,15 @@ population: 5700
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.85919
 longitude: 127.1964
 glottocode: ambe1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Ambelau"
+wikidata_id: Q2669214
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambelau_language"
 translations:
   - translation_iso: ara

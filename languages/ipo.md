@@ -7,12 +7,15 @@ population: 200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.37424
 longitude: 144.8632
 glottocode: ipik1244
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > Ipiko"
+wikidata_id: Q10566515
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipiko_language"
 translations:
   - translation_iso: ara

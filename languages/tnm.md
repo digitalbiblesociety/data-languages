@@ -7,12 +7,15 @@ population: 3750
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.45368
 longitude: 140.39629
 glottocode: tabl1243
 glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Tabla"
+wikidata_id: Q7673105
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabla_language"
 translations:
   - translation_iso: ara

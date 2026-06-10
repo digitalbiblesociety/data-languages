@@ -7,12 +7,15 @@ population: 11000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 33.10014
 longitude: 103.9524
 glottocode: baim1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Eastern Tibetic > Baima"
+wikidata_id: Q674990
 wikipedia_url: "https://en.wikipedia.org/wiki/Baima_language"
 translations:
   - translation_iso: ara

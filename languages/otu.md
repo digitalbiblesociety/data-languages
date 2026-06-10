@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -15.26978
 longitude: -59.69859
 glottocode: otuk1240
 glottolog_family_id: boro1281
 glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Bororo-Otuke > Otuke"
+wikidata_id: Q7110049
 wikipedia_url: "https://en.wikipedia.org/wiki/Otuke_language"
 translations:
   - translation_iso: ara

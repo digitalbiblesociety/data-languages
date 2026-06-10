@@ -7,12 +7,15 @@ population: 17000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.17501
 longitude: 13.68728
 glottocode: maza1304
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Daba-Mazagway-Kola > Mazagway"
+wikidata_id: Q6798209
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazagway_language"
 translations:
   - translation_iso: ara

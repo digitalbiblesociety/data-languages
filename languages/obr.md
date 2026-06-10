@@ -7,12 +7,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: null
+scope: individual
+language_type: historical
 latitude: 21.161961
 longitude: 94.897306
 glottocode: oldb1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Old Burmese"
+wikidata_id: Q17006600
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Burmese"
 translations:
   - translation_iso: ara

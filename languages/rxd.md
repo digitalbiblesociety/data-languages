@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -21.0231
 longitude: 129.0308
 glottocode: ngar1288
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Ngardi"
+wikidata_id: Q7022063
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngardi_language"
 translations:
   - translation_iso: ara

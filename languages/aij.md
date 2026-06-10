@@ -7,12 +7,15 @@ population: 2250
 country_id: IL
 country_name: Israel
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 32.45782
 longitude: 35.51134
 glottocode: lish1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Trans-Zab > Western Trans-Zab > Lishanid Noshan"
+wikidata_id: Q3436467
 wikipedia_url: "https://en.wikipedia.org/wiki/Inter-Zab_Jewish_Neo-Aramaic"
 translations:
   - translation_iso: ara

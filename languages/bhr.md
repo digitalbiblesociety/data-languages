@@ -1,5 +1,6 @@
 ---
 iso: bhr
+macrolanguage_id: mlg
 name: Bara Malagasy
 autonym: malagasy
 alt_names: [Malagassy, "Malagasy, Bara"]
@@ -7,12 +8,15 @@ population: 724000
 country_id: MG
 country_name: Madagascar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -23.97158
 longitude: 45.59374
 glottocode: bara1369
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > Southwestern Malagasic > South West-Central Malagasic > Nuclear South West-Central Malagasic > Inland-Western Malagasic > Bara-Tanosy > Bara Malagasy"
+wikidata_id: Q2114962
 wikipedia_url: "https://en.wikipedia.org/wiki/Bara_Malagasy"
 translations:
   - translation_iso: ara

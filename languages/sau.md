@@ -7,12 +7,15 @@ population: 4800
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.82548
 longitude: 129.42743
 glottocode: sale1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Saleman"
+wikidata_id: Q7404262
 wikipedia_url: "https://en.wikipedia.org/wiki/Saleman_language"
 translations:
   - translation_iso: ara

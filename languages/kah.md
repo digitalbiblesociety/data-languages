@@ -7,12 +7,15 @@ population: 4800
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.99526
 longitude: 22.99468
 glottocode: kara1482
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Fer-Gula > Kara (Central African Republic)"
+wikidata_id: Q5443742
 wikipedia_url: "https://en.wikipedia.org/wiki/Fer_language"
 translations:
   - translation_iso: ara

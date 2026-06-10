@@ -7,6 +7,8 @@ population: 1650
 country_id: CA
 country_name: Canada
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 62.38234
 longitude: -114.19257
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: dogr1252
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Slaveyic > Dogrib"
+wikidata_id: Q20979
 wikipedia_url: "https://en.wikipedia.org/wiki/Dogrib_language"
 translations:
   - translation_iso: ara

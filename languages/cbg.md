@@ -7,12 +7,15 @@ population: 2000
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.19016
 longitude: -74.25585
 glottocode: chim1309
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Chimila"
+wikidata_id: Q2963680
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimila_language"
 translations:
   - translation_iso: deu

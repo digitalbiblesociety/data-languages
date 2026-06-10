@@ -7,12 +7,15 @@ population: 5000
 country_id: DZ
 country_name: Algeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 31.94537
 longitude: 5.28444
 glottocode: taga1278
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Ouargli-Oued Righ > Ouargli"
+wikidata_id: Q56586
 wikipedia_url: "https://en.wikipedia.org/wiki/Ouargli_language"
 translations:
   - translation_iso: ara

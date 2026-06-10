@@ -1,5 +1,6 @@
 ---
 iso: gec
+macrolanguage_id: grb
 name: Gboloo Grebo
 autonym: Kréébo
 alt_names: [Gblou Grebo, Gboloo, Grebo, "Grebo, Gboloo"]
@@ -7,12 +8,15 @@ population: 119000
 country_id: LR
 country_name: Liberia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.75405
 longitude: -7.66699
 glottocode: gbol1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Barclayville-Gboloo-Central Liberian Grebo > Gboloo-Central Grebo > Gboloo Grebo"
+wikidata_id: Q11019342
 translations:
   - translation_iso: ara
     name: جبولو جريبو

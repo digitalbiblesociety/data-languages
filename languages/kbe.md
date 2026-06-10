@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -13.32427
 longitude: 142.89266
 glottocode: kanj1260
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Kanju"
+wikidata_id: Q10543322
 translations:
   - translation_iso: ara
     name: لغة كانجو

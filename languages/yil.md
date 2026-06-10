@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -19.24252
 longitude: 137.5894
 glottocode: yind1248
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Ngarru > Yindjilandji"
+wikidata_id: Q10723541
 wikipedia_url: "https://en.wikipedia.org/wiki/Yindjilandji"
 translations:
   - translation_iso: ara

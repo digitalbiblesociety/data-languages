@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.58332
 longitude: -53.96666
 glottocode: mari1442
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Unclassified Jurunic > Manitsauá"
+wikidata_id: Q6765915
 wikipedia_url: "https://en.wikipedia.org/wiki/Manitsau%C3%A1_language"
 translations:
   - translation_iso: ara

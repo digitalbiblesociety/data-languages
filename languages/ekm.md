@@ -7,12 +7,15 @@ population: 6400
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.45694
 longitude: 11.19304
 glottocode: elip1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Yambassa (A.60) > Mmala-Elip-Gunu > Elip-Gunu > Elip"
+wikidata_id: Q12952414
 translations:
   - translation_iso: ara
     name: الإليب

@@ -7,12 +7,15 @@ population: 17500
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.08034
 longitude: -96.49769
 glottocode: jala1237
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Jalapa De Díaz Mazatec"
+wikidata_id: Q3915999
 wikipedia_url: "https://en.wikipedia.org/wiki/Jalapa_Mazatec"
 translations:
   - translation_iso: ara

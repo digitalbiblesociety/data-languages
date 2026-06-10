@@ -6,6 +6,9 @@ population: 645000
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q33919
 wikipedia_url: "https://en.wikipedia.org/wiki/Kui_language_(India)"
 translations:
   - translation_iso: ara

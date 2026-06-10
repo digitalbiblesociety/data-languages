@@ -7,12 +7,15 @@ population: 18000
 country_id: PA
 country_name: Panama
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.57695
 longitude: -81.25648
 glottocode: bugl1243
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Guaymiic > Buglere"
+wikidata_id: Q3368506
 wikipedia_url: "https://en.wikipedia.org/wiki/Buglere"
 translations:
   - translation_iso: ara

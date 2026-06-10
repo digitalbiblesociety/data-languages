@@ -7,12 +7,15 @@ population: 1670
 country_id: KH
 country_name: Cambodia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 13.593
 longitude: 105.02774
 glottocode: pear1247
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Pear"
+wikidata_id: Q6583669
 wikipedia_url: "https://en.wikipedia.org/wiki/Pear_language"
 translations:
   - translation_iso: ara

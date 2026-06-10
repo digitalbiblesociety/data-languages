@@ -7,12 +7,15 @@ population: 124500
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.942535
 longitude: 99.8338
 glottocode: maru1249
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Maru"
+wikidata_id: Q11149315
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhao_Vo_language"
 translations:
   - translation_iso: ara

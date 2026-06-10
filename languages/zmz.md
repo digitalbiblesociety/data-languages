@@ -7,12 +7,15 @@ population: 367400
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.98003
 longitude: 19.445465
 glottocode: mban1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Southwest Bandaic > Central North West Bandaic > Mbandja"
+wikidata_id: Q3915310
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbandja_language"
 translations:
   - translation_iso: ara

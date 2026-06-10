@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 10.8519
 longitude: 76.80069
 glottocode: ural1274
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Urali of Idukki"
+wikidata_id: Q7899602
 wikipedia_url: "https://en.wikipedia.org/wiki/Urali_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2500
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.2918
 longitude: 9.64676
 glottocode: ipul1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid B > Ipulo-Olulu"
+wikidata_id: Q35408
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipulo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 17900
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.38373
 longitude: 16.2821
 glottocode: kaba1292
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Kabalai"
+wikidata_id: Q3440427
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabalai_language"
 translations:
   - translation_iso: ara

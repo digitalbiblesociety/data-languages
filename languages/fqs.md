@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.10868
 longitude: 141.64043
 glottocode: fass1245
 glottolog_family_id: baib1250
 glottolog_family_name: Baibai-Fas
 glottolog_classification: "Baibai-Fas > Momu-Fas"
+wikidata_id: Q56320
 wikipedia_url: "https://en.wikipedia.org/wiki/Fas_language"
 translations:
   - translation_iso: ara

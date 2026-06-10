@@ -7,12 +7,15 @@ population: 1000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 19.12485
 longitude: -98.30017
 glottocode: cent2132
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Tlaxcala-Puebla-Pastoral Nahuatl > Tlaxcala-Puebla-Central Nahuatl"
+wikidata_id: Q6047309
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlaxcala%E2%80%93Puebla_Nahuatl"
 translations:
   - translation_iso: ara

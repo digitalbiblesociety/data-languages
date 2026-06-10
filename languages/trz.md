@@ -7,12 +7,15 @@ population: 2018
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -6.19532
 longitude: -61.74165
 glottocode: tora1263
 glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Moreic > Torá"
+wikidata_id: Q7827518
 wikipedia_url: "https://en.wikipedia.org/wiki/Tor%C3%A1_language"
 translations:
   - translation_iso: ara

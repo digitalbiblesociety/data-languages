@@ -7,12 +7,15 @@ population: 351000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 3.652333
 longitude: 30.776243
 glottocode: kakw1240
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Kakwa"
+wikidata_id: Q3033547
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakwa_language_(Africa)"
 translations:
   - translation_iso: ara

@@ -7,8 +7,11 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 27.5088
 longitude: 98.45022
+wikidata_id: Q12952967
 translations:
   - translation_iso: ara
     name: نورا

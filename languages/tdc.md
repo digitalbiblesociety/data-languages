@@ -7,12 +7,15 @@ population: 1000
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.23658
 longitude: -77.1533
 glottocode: embe1261
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Upper San Juan > Emberá-Tadó"
+wikidata_id: Q3052041
 translations:
   - translation_iso: ara
     name: إيمبيرا تادو

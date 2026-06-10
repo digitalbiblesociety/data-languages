@@ -7,12 +7,15 @@ population: 7700
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 30.74155
 longitude: 100.98277
 glottocode: zhab1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Zhaba"
+wikidata_id: Q56334
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhaba_language"
 translations:
   - translation_iso: ara

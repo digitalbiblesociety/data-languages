@@ -7,12 +7,15 @@ population: 425000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.73213
 longitude: 7.37553
 glottocode: teee1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Tai-Kana > Tee"
+wikidata_id: Q3075144
 wikipedia_url: "https://en.wikipedia.org/wiki/Tee_language"
 translations:
   - translation_iso: ara

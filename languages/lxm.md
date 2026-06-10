@@ -6,12 +6,15 @@ alt_names: [Lakuramau, Laxudamau, Loxodumau]
 population: 800
 country_id: PG
 country_name: Papua New Guinea
+scope: individual
+language_type: living
 latitude: -2.883333
 longitude: 151.25
 glottocode: laku1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Lakurumau"
+wikidata_id: Q31031407
 wikipedia_url: "https://en.wikipedia.org/wiki/Laxudumau_language"
 translations:
   - translation_iso: ara

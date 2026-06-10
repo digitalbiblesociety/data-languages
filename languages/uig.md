@@ -1,5 +1,6 @@
 ---
 iso: uig
+iso639_1: ug
 name: Uighur
 autonym: Uighur
 alt_names: [New Uighur, Novouygur, Oeigoers, Ouigoureg, Ouïghour, Uighor, Uighuir, Uiguir, Uigur, Uigurisch, Uigurisk, Uiguriska, Uyghur, Uyghur language, Uyghuri, Uygur, Uygur simi, Uygurca, Uyg‘ur til, Uyğur tili, Weiwuer, Wiga, Wighor, ouïgour, Úýgúríska, Забони уйғурӣ, אויגור, ئۇيغۇر تىلى, ཡུལ་གོར་སྐད།]
@@ -7,6 +8,8 @@ population: 10400000
 country_id: CN
 country_name: China
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 43.67
 longitude: 79.75
 scripts: [Arab, Cyrl, Latn]
@@ -14,6 +17,7 @@ glottocode: uigh1240
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uyghuric > Uighur"
+wikidata_id: Q13263
 wikipedia_url: "https://en.wikipedia.org/wiki/Uyghur_language"
 translations:
   - translation_iso: ara

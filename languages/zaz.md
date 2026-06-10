@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 9.71269
 longitude: 9.40332
 glottocode: zari1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Zari"
+wikidata_id: Q3914398
 wikipedia_url: "https://en.wikipedia.org/wiki/Zari_language"
 translations:
   - translation_iso: ara

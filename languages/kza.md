@@ -7,12 +7,15 @@ population: 30200
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.6298
 longitude: -4.76482
 glottocode: west2466
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Karaboro > Western Karaboro"
+wikidata_id: Q36601
 wikipedia_url: "https://en.wikipedia.org/wiki/Syer-Tenyer_language"
 translations:
   - translation_iso: ara

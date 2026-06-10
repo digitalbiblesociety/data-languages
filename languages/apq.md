@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 12.24101
 longitude: 92.79646
 glottocode: apuc1241
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okol-Opucikwar > Apucikwar"
+wikidata_id: Q28466
 wikipedia_url: "https://en.wikipedia.org/wiki/Opucikwar"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 160
 country_id: VE
 country_name: Venezuela
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 1.80835
 longitude: -66.922505
 glottocode: guar1293
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Alto Orinoco > Parenic > Baniva de Maroa"
+wikidata_id: Q1091095
 wikipedia_url: "https://en.wikipedia.org/wiki/Baniwa_of_Guain%C3%ADa"
 translations:
   - translation_iso: ara

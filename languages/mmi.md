@@ -7,12 +7,15 @@ population: 684
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.70258
 longitude: 145.4131
 glottocode: musa1265
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Tibor > Nuclear Tibor > Hember Avu"
+wikidata_id: Q6940113
 wikipedia_url: "https://en.wikipedia.org/wiki/Hember_Avu_language"
 translations:
   - translation_iso: ara

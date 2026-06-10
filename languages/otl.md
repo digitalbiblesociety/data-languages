@@ -7,12 +7,15 @@ population: 400
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 19.44026
 longitude: -99.5074
 glottocode: tila1239
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Southern Otomi > Tilapa Otomi"
+wikidata_id: Q7802050
 wikipedia_url: "https://en.wikipedia.org/wiki/Tilapa_Otomi"
 translations:
   - translation_iso: ara

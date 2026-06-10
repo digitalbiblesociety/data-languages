@@ -7,6 +7,8 @@ population: null
 country_id: PS
 country_name: Palestine State
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 32.08173
 longitude: 35.44874
 scripts: [Samr]
@@ -14,6 +16,7 @@ glottocode: sama1313
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Hebrewic > Samaritan"
+wikidata_id: Q56502
 wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Hebrew"
 translations:
   - translation_iso: ara

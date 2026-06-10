@@ -7,6 +7,8 @@ population: 281200
 country_id: NA
 country_name: Namibia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -25.074747
 longitude: 17.97667
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nama1264
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > North Khoekhoe > Nama (Namibia)"
+wikidata_id: Q13301
 wikipedia_url: "https://en.wikipedia.org/wiki/Khoekhoe_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 9.93195
 longitude: 9.09741
 glottocode: gana1270
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Ganang"
+wikidata_id: Q63163361
 translations:
   - translation_iso: ara
     name: غآنآنج

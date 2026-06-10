@@ -7,12 +7,15 @@ population: 2340
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.7686
 longitude: 92.18383
 glottocode: lish1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Chug-Lish > Khispi"
+wikidata_id: Q6558822
 wikipedia_url: "https://en.wikipedia.org/wiki/Lish_language"
 translations:
   - translation_iso: ara

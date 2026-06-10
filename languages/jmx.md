@@ -7,12 +7,15 @@ population: 2000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.30034
 longitude: -98.2096
 glottocode: west2643
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Coicoyan-Metlatonoc > Western Juxtlahuaca Mixtec"
+wikidata_id: Q12953731
 translations:
   - translation_iso: ara
     name: لغة ميكستك خوكسلاهواكا الغربية

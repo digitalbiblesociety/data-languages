@@ -1,5 +1,6 @@
 ---
 iso: sna
+iso639_1: sn
 name: Shona
 autonym: chiShona
 alt_names: ["\"Swina\"", Central Karanga, Choneg, Karanga, Karanga (Central), Kishona, Shona simi, Shonum, Šona, Шона, شونا تىلى]
@@ -7,6 +8,8 @@ population: 7237290
 country_id: ZW
 country_name: Zimbabwe
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -17.20849
 longitude: 29.75725
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: shon1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Shona (S.10) > Core Shona > Plateau Shona > Central Shona > Shona"
+wikidata_id: Q34004
 wikipedia_url: "https://en.wikipedia.org/wiki/Shona_language"
 translations:
   - translation_iso: ara

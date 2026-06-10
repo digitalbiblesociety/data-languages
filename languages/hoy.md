@@ -7,12 +7,15 @@ population: 500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.52593
 longitude: 79.91637
 glottocode: holi1239
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Holiya"
+wikidata_id: Q5880707
 wikipedia_url: "https://en.wikipedia.org/wiki/Holiya_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 150000
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.518905
 longitude: 3.717705
 glottocode: boko1266
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Boko (Benin)"
+wikidata_id: Q34983
 wikipedia_url: "https://en.wikipedia.org/wiki/Boko_language"
 translations:
   - translation_iso: ara

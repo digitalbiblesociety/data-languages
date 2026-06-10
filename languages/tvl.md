@@ -7,6 +7,8 @@ population: 14290
 country_id: TV
 country_name: Tuvalu
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -8.5
 longitude: 179.17
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tuva1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Tuvalu"
+wikidata_id: Q34055
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuvaluan_language"
 translations:
   - translation_iso: ara

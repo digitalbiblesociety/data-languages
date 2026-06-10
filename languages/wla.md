@@ -6,12 +6,15 @@ population: 227
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.41234
 longitude: 142.23075
 glottocode: nucl1453
 glottolog_family_id: wali1264
 glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Pai-Sinen-Walio > Walio"
+wikidata_id: Q7961958
 wikipedia_url: "https://en.wikipedia.org/wiki/Walio_language"
 translations:
   - translation_iso: ara

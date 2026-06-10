@@ -7,6 +7,8 @@ population: 1020000
 country_id: GH
 country_name: Ghana
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 5.9437
 longitude: 0.13243
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: adan1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ga-Dangme > Adangme"
+wikidata_id: Q35141
 wikipedia_url: "https://en.wikipedia.org/wiki/Dangme_language"
 translations:
   - translation_iso: ara

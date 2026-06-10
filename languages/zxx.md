@@ -7,6 +7,9 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: "10"
+scope: special
+language_type: special
+wikidata_id: Q22282939
 wikipedia_url: "https://en.wikipedia.org/wiki/ISO_639:zxx"
 translations:
   - translation_iso: ara

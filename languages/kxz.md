@@ -7,12 +7,15 @@ population: 2200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.551
 longitude: 144.3085
 glottocode: kere1286
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Turama-Kerewo > Kerewo"
+wikidata_id: Q6393847
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerewo_language"
 translations:
   - translation_iso: ara

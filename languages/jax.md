@@ -1,5 +1,6 @@
 ---
 iso: jax
+macrolanguage_id: msa
 name: Jambi Malay
 autonym: Baso Jambi
 alt_names: ["Malay, Jambi"]
@@ -7,12 +8,15 @@ population: 1000000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.6469
 longitude: 103.12993
 glottocode: jamb1236
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Jambi Malay"
+wikidata_id: Q3915769
 wikipedia_url: "https://en.wikipedia.org/wiki/Jambi_Malay"
 translations:
   - translation_iso: ara

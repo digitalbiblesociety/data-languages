@@ -6,12 +6,15 @@ population: 2300
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -5.60524
 longitude: 122.62224
 glottocode: buso1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Munan > Busoa"
+wikidata_id: Q5002001
 wikipedia_url: "https://en.wikipedia.org/wiki/Busoa_language"
 translations:
   - translation_iso: ara

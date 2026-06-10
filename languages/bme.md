@@ -7,12 +7,15 @@ population: null
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.268084
 longitude: 16.187439
 glottocode: lima1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Western Mundu-Baka > Baka-Gundi > Limassa"
+wikidata_id: Q11004666
 translations:
   - translation_iso: ara
     name: ليماسا

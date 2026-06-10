@@ -7,12 +7,15 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: null
+scope: individual
+language_type: historical
 latitude: 52.37
 longitude: 9.72
 glottocode: olds1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Old Saxon"
+wikidata_id: Q35219
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Saxon"
 translations:
   - translation_iso: ara

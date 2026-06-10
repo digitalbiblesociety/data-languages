@@ -7,12 +7,15 @@ population: 2900
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.14273
 longitude: 147.20245
 glottocode: nali1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Nali"
+wikidata_id: Q3335385
 wikipedia_url: "https://en.wikipedia.org/wiki/Nali_language"
 translations:
   - translation_iso: ara

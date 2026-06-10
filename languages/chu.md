@@ -1,5 +1,6 @@
 ---
 iso: chu
+iso639_1: cu
 name: Church Slavic
 autonym: Old Church Slavic
 alt_names: [Alt-slavisch, Antic eslau, Antico slavo ecclesiastico, Antiguo eslavo eclesiástico, "Bulgarian, Old", Church Slavonic, Eslavo eclesiástico, Eslavon, Fornkyrkoslaviska, Gammelkirkeslavisk, Hen Slafoneg Eglwysig, Muinaiskirkkoslaavi, Old Bulgarian, Old Church Slavonic, Old Slavonic, Oldkirkeslavisk, Ou Kerkslawies, Oudkerkslavisch, "Slavic, Church", "Slavonic, Church", "Slavonic, Old", "Slavonic, Old Church", Staro-cerkwjejno-słowjańska rěc, Vieux-slave, altbulgarische, altkirchenslawische, "slavon d'église", slavon liturgique, vieux bulgare, vieux slave, Словѣ́ньскъ ѩꙁꙑ́къ, סלאבית כנסייתית עתיקה]
@@ -7,6 +8,8 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 43.717123
 longitude: 22.844237
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: chur1257
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Eastern South Slavic > Church Slavic"
+wikidata_id: Q33251
 wikipedia_url: "https://en.wikipedia.org/wiki/Church_Slavonic"
 translations:
   - translation_iso: ara

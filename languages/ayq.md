@@ -7,12 +7,15 @@ population: 430
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.95946
 longitude: 142.40679
 glottocode: ayip1235
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Ayi (Papua New Guinea)"
+wikidata_id: Q56449
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayi_language"
 translations:
   - translation_iso: ara

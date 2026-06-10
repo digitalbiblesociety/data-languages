@@ -7,12 +7,15 @@ population: 58000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.84903
 longitude: 125.49902
 glottocode: sara1327
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Sarangani-Tasaday-Cotabato > Sarangani Manobo"
+wikidata_id: Q7423093
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarangani_language"
 translations:
   - translation_iso: ara

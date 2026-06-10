@@ -7,12 +7,15 @@ population: 350
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.93872
 longitude: 101.9775
 glottocode: phan1254
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Sila-Wanya-Cosao-Pana > Phana'"
+wikidata_id: Q7180427
 wikipedia_url: "https://en.wikipedia.org/wiki/Phana%CA%BC_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 27.688
 longitude: 96.349
 glottocode: nefa1235
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Assamese-based pidgin > Nefamese"
+wikidata_id: Q6987002
 wikipedia_url: "https://en.wikipedia.org/wiki/Nefamese_language"
 translations:
   - translation_iso: ara

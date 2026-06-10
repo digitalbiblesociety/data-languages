@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.40306
 longitude: 145.68228
 glottocode: tain1253
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Tainae-Akoye > Tainae"
+wikidata_id: Q7676186
 wikipedia_url: "https://en.wikipedia.org/wiki/Tainae_language"
 translations:
   - translation_iso: ara

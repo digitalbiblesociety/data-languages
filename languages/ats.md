@@ -7,12 +7,15 @@ population: 2000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 48.48341
 longitude: -108.73841
 glottocode: gros1243
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Arapaho-Gros Ventre-Besawunena > Gros Ventre"
+wikidata_id: Q56628
 wikipedia_url: "https://en.wikipedia.org/wiki/Gros_Ventre_language"
 translations:
   - translation_iso: ara

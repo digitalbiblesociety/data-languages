@@ -7,12 +7,15 @@ population: 4040
 country_id: NC
 country_name: New Caledonia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -21.30289
 longitude: 165.46767
 glottocode: ajie1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Houailou > Ajië"
+wikidata_id: Q2828867
 wikipedia_url: "https://en.wikipedia.org/wiki/Aji%C3%AB_language"
 translations:
   - translation_iso: ara

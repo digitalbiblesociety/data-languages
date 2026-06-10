@@ -7,12 +7,15 @@ population: 34700
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.94989
 longitude: 34.53614
 glottocode: ikom1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > South Mara > Western Serengeti > Southeast Mara > Ikoma-Nata"
+wikidata_id: Q5996114
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikoma_language"
 translations:
   - translation_iso: ara

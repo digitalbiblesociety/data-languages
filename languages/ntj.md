@@ -7,12 +7,15 @@ population: 1110
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -25.75137
 longitude: 127.60204
 glottocode: ngaa1240
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Ngaanyatjarra"
+wikidata_id: Q3915409
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngaanyatjarra_dialect"
 translations:
   - translation_iso: ara

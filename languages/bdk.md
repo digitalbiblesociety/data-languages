@@ -7,12 +7,15 @@ population: 1000
 country_id: AZ
 country_name: Azerbaijan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 41.22722
 longitude: 48.33533
 glottocode: budu1248
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Southern Samur > Budukh"
+wikidata_id: Q35397
 wikipedia_url: "https://en.wikipedia.org/wiki/Budukh_language"
 translations:
   - translation_iso: ara

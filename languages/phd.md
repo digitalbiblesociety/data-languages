@@ -7,12 +7,15 @@ population: 1010
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.71534
 longitude: 73.36836
 glottocode: phud1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Western Marathi > Phudagi"
+wikidata_id: Q7188289
 wikipedia_url: "https://en.wikipedia.org/wiki/Phudagi_language"
 translations:
   - translation_iso: ara

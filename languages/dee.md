@@ -7,12 +7,15 @@ population: 8100
 country_id: LR
 country_name: Liberia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.56113
 longitude: -10.90765
 glottocode: dewo1238
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Dewoin"
+wikidata_id: Q3914892
 wikipedia_url: "https://en.wikipedia.org/wiki/Dewoin_language"
 translations:
   - translation_iso: ara

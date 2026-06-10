@@ -7,12 +7,15 @@ population: null
 country_id: TM
 country_name: Turkmenistan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 38.21146
 longitude: 57.88758
 glottocode: chag1247
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Chagatai"
+wikidata_id: Q36831
 wikipedia_url: "https://en.wikipedia.org/wiki/Chagatai_language"
 translations:
   - translation_iso: ara

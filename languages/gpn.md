@@ -7,9 +7,12 @@ population: 50
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.05047
 longitude: 144.50616
 glottocode: taia1239
+wikidata_id: Q56237
 wikipedia_url: "https://en.wikipedia.org/wiki/Tayap_language"
 translations:
   - translation_iso: ara

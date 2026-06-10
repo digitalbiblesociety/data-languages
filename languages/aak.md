@@ -6,12 +6,15 @@ population: 1600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.19444
 longitude: 145.75421
 glottocode: anka1246
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Ankave-Tainae-Akoye > Ankave"
+wikidata_id: Q3446690
 wikipedia_url: "https://en.wikipedia.org/wiki/Ankave_language"
 translations:
   - translation_iso: ara

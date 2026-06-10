@@ -7,12 +7,15 @@ population: 15600
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.96481
 longitude: 8.97756
 glottocode: kule1247
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Ronic > Kulere"
+wikidata_id: Q3440506
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulere_language"
 translations:
   - translation_iso: ara

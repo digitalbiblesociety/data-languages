@@ -4,12 +4,15 @@ name: Rwandan Sign Language
 population: 33700
 country_id: RW
 country_name: Rwanda
+scope: individual
+language_type: living
 latitude: -1.38553
 longitude: 30.23427
 glottocode: rwan1246
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Unclassified L1 Sign Language > Rwandan Sign Language"
+wikidata_id: Q25041935
 wikipedia_url: "https://en.wikipedia.org/wiki/Rwandan_Sign_Language"
 translations:
   - translation_iso: ara

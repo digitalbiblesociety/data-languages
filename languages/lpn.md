@@ -7,12 +7,15 @@ population: 2000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.5578
 longitude: 94.9838
 glottocode: long1375
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Makuric > Long Phuri Naga"
+wikidata_id: Q6673049
 wikipedia_url: "https://en.wikipedia.org/wiki/Long_Phuri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 33
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 40.05114
 longitude: -95.52135
 glottocode: iowa1245
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Winnebago-Chiwere > Iowa-Oto"
+wikidata_id: Q56737
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiwere_language"
 translations:
   - translation_iso: ara

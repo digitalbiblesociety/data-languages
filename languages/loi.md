@@ -7,12 +7,15 @@ population: 8010
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.40172
 longitude: -3.47051
 glottocode: loma1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Kulango-Lorom > Teenic > Loma (Côte d'Ivoire)"
+wikidata_id: Q3913961
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomakka_language"
 translations:
   - translation_iso: ara

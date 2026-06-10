@@ -7,12 +7,15 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.56687
 longitude: 147.9855
 glottocode: doro1266
 glottolog_family_id: manu1261
 glottolog_family_name: Manubaran
 glottolog_classification: "Manubaran > Doromu-Koki"
+wikidata_id: Q5298175
 wikipedia_url: "https://en.wikipedia.org/wiki/Doromu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.43432
 longitude: 117.40071
 glottocode: saja1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Punan Tubu-Bah > Sajau-Latti"
+wikidata_id: Q4684353
 wikipedia_url: "https://en.wikipedia.org/wiki/Sajau_Basap_language"
 translations:
   - translation_iso: ara

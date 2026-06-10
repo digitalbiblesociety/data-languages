@@ -7,12 +7,15 @@ population: 39000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.11629
 longitude: 144.66454
 glottocode: nucl1620
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Wahgic > Wahgi"
+wikidata_id: Q3565122
 wikipedia_url: "https://en.wikipedia.org/wiki/Wahgi_language"
 translations:
   - translation_iso: ara

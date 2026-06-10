@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 46.77361
 longitude: -124.00432
 glottocode: lowe1427
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Coastal Tsamosan > Lower Chehalis"
+wikidata_id: Q6693377
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Chehalis_language"
 translations:
   - translation_iso: ara

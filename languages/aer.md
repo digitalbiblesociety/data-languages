@@ -7,12 +7,15 @@ population: 1910
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -23.35831
 longitude: 135.04638
 glottocode: east2379
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Central-Eastern Arrernte > Eastern Arrernte"
+wikidata_id: Q10728232
 translations:
   - translation_iso: ara
     name: لغة إيسترن أريرنتي

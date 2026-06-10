@@ -7,6 +7,8 @@ population: 2000
 country_id: US
 country_name: United States
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 19.62965
 longitude: -155.42995
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: hawa1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Hawaiian"
+wikidata_id: Q33569
 wikipedia_url: "https://en.wikipedia.org/wiki/Hawaiian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 15000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.10258
 longitude: 101.72
 glottocode: horp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Horpa > Stau-Dgebshes"
+wikidata_id: Q56854
 wikipedia_url: "https://en.wikipedia.org/wiki/Horpa_language"
 translations:
   - translation_iso: ara

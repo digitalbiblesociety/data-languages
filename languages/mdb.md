@@ -7,12 +7,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.62961
 longitude: 143.87996
 glottocode: mori1271
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Turama-Kerewo > Morigi"
+wikidata_id: Q6912195
 wikipedia_url: "https://en.wikipedia.org/wiki/Morigi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 12800
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.608875
 longitude: 88.854105
 glottocode: grom1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Groma"
+wikidata_id: Q56551
 wikipedia_url: "https://en.wikipedia.org/wiki/Groma_language"
 translations:
   - translation_iso: ara

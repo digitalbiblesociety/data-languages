@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 16.6562
 longitude: -91.94174
 glottocode: chia1262
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Manguean > Chiapanec"
+wikidata_id: Q3364475
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiapanec_language"
 translations:
   - translation_iso: ara

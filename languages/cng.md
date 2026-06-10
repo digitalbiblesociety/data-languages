@@ -7,12 +7,15 @@ population: 11000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 32.27662
 longitude: 103.1923
 glottocode: nort2722
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Qiang > Upstream-Nu Qiang > Northern Qiang"
+wikidata_id: Q56559
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Qiang_language"
 translations:
   - translation_iso: ara

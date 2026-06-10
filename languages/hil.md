@@ -7,6 +7,8 @@ population: 6246880
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 10.40179
 longitude: 122.97428
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: hili1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Capiznon-Ilonggo-Kawayan > Hiligaynon"
+wikidata_id: Q35978
 wikipedia_url: "https://en.wikipedia.org/wiki/Hiligaynon_language"
 translations:
   - translation_iso: ara

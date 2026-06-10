@@ -7,8 +7,11 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.42088
 longitude: 116.6795
+wikidata_id: Q12473397
 translations:
   - translation_iso: ara
     name: واهاو كايان

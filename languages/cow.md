@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 46.41666
 longitude: -122.91665
 glottocode: cowl1242
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Inland Tsamosan > Cowlitz"
+wikidata_id: Q3001877
 wikipedia_url: "https://en.wikipedia.org/wiki/Cowlitz_language"
 translations:
   - translation_iso: ara

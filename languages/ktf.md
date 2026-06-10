@@ -7,12 +7,15 @@ population: 400
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.53712
 longitude: 27.46332
 glottocode: kwam1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Unclassified Greater Lega > Kwami"
+wikidata_id: Q12952687
 translations:
   - translation_iso: ara
     name: كوامي

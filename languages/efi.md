@@ -7,6 +7,8 @@ population: 664600
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 4.89379
 longitude: 8.38121
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: efik1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Okop Usem > Efik-Ibibio > Efik"
+wikidata_id: Q35377
 wikipedia_url: "https://en.wikipedia.org/wiki/Efik_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 37000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.02463
 longitude: 111.21207
 glottocode: sebe1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Iban-Seberuang > Seberuang"
+wikidata_id: Q12473470
 wikipedia_url: "https://en.wikipedia.org/wiki/Seberuang_language"
 translations:
   - translation_iso: ara

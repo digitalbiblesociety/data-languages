@@ -7,12 +7,15 @@ population: 65
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -16.56152
 longitude: 139.4343
 glottocode: lard1243
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Lardil"
+wikidata_id: Q3915688
 wikipedia_url: "https://en.wikipedia.org/wiki/Lardil_language"
 translations:
   - translation_iso: ara

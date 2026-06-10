@@ -7,9 +7,12 @@ population: 2550
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.92974
 longitude: -67.6886
 glottocode: puin1248
+wikidata_id: Q3027918
 wikipedia_url: "https://en.wikipedia.org/wiki/Puinave_language"
 translations:
   - translation_iso: ara

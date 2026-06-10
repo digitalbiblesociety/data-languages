@@ -7,12 +7,15 @@ population: 805000
 country_id: MW
 country_name: Malawi
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -16.6183
 longitude: 34.99095
 glottocode: mala1475
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Malawi Sena"
+wikidata_id: Q11056292
 translations:
   - translation_iso: ara
     name: سينا ملاوي

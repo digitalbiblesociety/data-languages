@@ -7,12 +7,15 @@ population: 14400
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.83891
 longitude: 117.87051
 glottocode: broo1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Nuclear Palawan > Brooke-Canipaan Palawan > Brooke's Point Palawano"
+wikidata_id: Q12953796
 translations:
   - translation_iso: ara
     name: اللغة بالاوانو بروكس بوينت

@@ -6,12 +6,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -6.42736
 longitude: 142.58885
 glottocode: soni1260
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kaluli-Sunia > Sonia"
+wikidata_id: Q7561770
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonia_language"
 translations:
   - translation_iso: ara

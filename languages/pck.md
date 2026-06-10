@@ -7,12 +7,15 @@ population: 79500
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 24.03809
 longitude: 93.6136
 glottocode: pait1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Paiteic > Paite Chin"
+wikidata_id: Q12952337
 wikipedia_url: "https://en.wikipedia.org/wiki/Paite_language"
 translations:
   - translation_iso: ara

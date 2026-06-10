@@ -1,12 +1,16 @@
 ---
 iso: kom
+iso639_1: kv
 name: Komi
 autonym: Коми кыв
 population: 219100
 country_id: RU
 country_name: Russia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cyrl, Perm]
+wikidata_id: Q36126
 wikipedia_url: "https://en.wikipedia.org/wiki/Komi_language"
 translations:
   - translation_iso: ara

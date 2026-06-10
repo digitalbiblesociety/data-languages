@@ -6,12 +6,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: null
+scope: individual
+language_type: historical
 latitude: 21.31928
 longitude: 95.897864
 glottocode: burm1262
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Luish > Unclassified Luish > Burma Pyu"
+wikidata_id: Q36259
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyu_language_(Sino-Tibetan)"
 translations:
   - translation_iso: ara

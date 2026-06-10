@@ -1,5 +1,6 @@
 ---
 iso: cym
+iso639_1: cy
 name: Welsh
 autonym: Cymraeg
 alt_names: [An Bhreatnais, Bretnish, Cuimris, Cymru-gí, Galce, Galesera, Gallois, Galouès, Gal·lès, Galés, Kamri simi, Kembraeg, Kembrek, Kiwelisi, Kymri, Kymrisch, Kymriska, Velska, Walijsko godka, Walisesch, Walisisch, Walisisk, Wallies, Walsana linguo, Walès, Welsh leid, Welsk, y Gymraeg, Ƿielisc sprǣc, ולשית, ويلزى, ۋېلش تىلى]
@@ -7,6 +8,8 @@ population: 573050
 country_id: GB
 country_name: United Kingdom
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 52
 longitude: -4
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: wels1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Old-Modern Welsh > Welsh"
+wikidata_id: Q9309
 wikipedia_url: "https://en.wikipedia.org/wiki/Welsh_language"
 translations:
   - translation_iso: ara

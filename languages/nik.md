@@ -7,12 +7,15 @@ population: 348
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.82744
 longitude: 93.80417
 glottocode: sout2689
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Central Nicobar > Southern Nicobarese"
+wikidata_id: Q7570194
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Nicobarese_language"
 translations:
   - translation_iso: ara

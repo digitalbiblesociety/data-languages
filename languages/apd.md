@@ -1,5 +1,6 @@
 ---
 iso: apd
+macrolanguage_id: ara
 name: Sudanese Arabic
 autonym: لهجة سودانية
 alt_names: [Arabeg Soudan, Arabic, "Arabic, Sudanese", "Arabic, Sudanese Spoken", Khartoum Arabic, Sudanese, Sudanesisch-Arabisch, Sudanski arapski]
@@ -7,6 +8,8 @@ population: 31900000
 country_id: SD
 country_name: Sudan
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 17.802113
 longitude: 33.31793
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: suda1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Egypto-Sudanic Arabic > Sudanese-Chadian Arabic > East Sudanic Arabic > Sudanese Arabic"
+wikidata_id: Q56573
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudanese_Arabic"
 translations:
   - translation_iso: ara

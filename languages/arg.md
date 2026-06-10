@@ -1,5 +1,6 @@
 ---
 iso: arg
+iso639_1: an
 name: Aragonese
 autonym: aragonés
 alt_names: [Altoaragonés, An Aragóinis, Aragoiera, Aragoieraz, Aragonais, Aragonca, Aragonees, Aragoneg, Aragonek, Aragonesisk, Aragoniagiella, Aragonish, Aragonisk, Aragonska, Aragonès, Aragonês, Aragoonsche Spraak, Aragónska, Fabla Aragonesa, High Aragonese, Lia-aragonés, Luenga aragonesa, Patués, Â-lâ-kung-ngî, ئاراگون تىلى]
@@ -7,6 +8,8 @@ population: 11000
 country_id: ES
 country_name: Spain
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 42.46695
 longitude: -0.00919
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: arag1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Unshifted Western Romance > Aragonese"
+wikidata_id: Q8765
 wikipedia_url: "https://en.wikipedia.org/wiki/Aragonese_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1500
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.4735
 longitude: 8.76468
 glottocode: izor1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Chokobo-Lemoro-Sanga > Izora"
+wikidata_id: Q3915454
 wikipedia_url: "https://en.wikipedia.org/wiki/Zora_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 512
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.5998
 longitude: 145.51352
 glottocode: kora1296
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Kowan > Korak"
+wikidata_id: Q6431365
 wikipedia_url: "https://en.wikipedia.org/wiki/Amako_language"
 translations:
   - translation_iso: ara

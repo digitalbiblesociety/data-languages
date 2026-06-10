@@ -7,12 +7,15 @@ population: 18700
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.91614
 longitude: -99.13219
 glottocode: more1259
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Morelos Nahuatl"
+wikidata_id: Q4800819
 wikipedia_url: "https://en.wikipedia.org/wiki/Morelos_Nahuatl"
 translations:
   - translation_iso: ara

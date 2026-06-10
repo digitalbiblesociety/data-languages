@@ -7,12 +7,15 @@ population: 83600
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 31.36883
 longitude: 78.31478
 glottocode: kinn1249
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Kinnauri"
+wikidata_id: Q2383208
 wikipedia_url: "https://en.wikipedia.org/wiki/Kinnauri_language"
 translations:
   - translation_iso: ara

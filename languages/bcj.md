@@ -7,12 +7,15 @@ population: 380
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -16.62743
 longitude: 122.90561
 glottocode: bard1255
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Bardic > Bardi"
+wikidata_id: Q3913852
 wikipedia_url: "https://en.wikipedia.org/wiki/Bardi_language"
 translations:
   - translation_iso: ara

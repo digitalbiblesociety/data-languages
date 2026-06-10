@@ -7,12 +7,15 @@ population: 3100
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 36.8079
 longitude: -107.00694
 glottocode: jica1244
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Eastern Southwestern Apachean > Jicarilla Apache"
+wikidata_id: Q28277
 wikipedia_url: "https://en.wikipedia.org/wiki/Jicarilla_language"
 translations:
   - translation_iso: ara

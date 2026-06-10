@@ -6,12 +6,15 @@ population: 3800
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.76404
 longitude: 9.66743
 glottocode: siri1278
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Siri"
+wikidata_id: Q3438729
 wikipedia_url: "https://en.wikipedia.org/wiki/Siri_language"
 translations:
   - translation_iso: ara

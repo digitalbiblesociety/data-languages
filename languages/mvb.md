@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 40.43208
 longitude: -122.86327
 glottocode: matt1238
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > California Athabaskan > Mattole-Bear River"
+wikidata_id: Q20824
 wikipedia_url: "https://en.wikipedia.org/wiki/Mattole_language"
 translations:
   - translation_iso: ara

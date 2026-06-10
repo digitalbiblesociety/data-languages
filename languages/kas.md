@@ -1,5 +1,6 @@
 ---
 iso: kas
+iso639_1: ks
 name: Kashmiri
 autonym: " كٲشُر"
 alt_names: [Caixmirí, Cashmeeree, Cashmiri, Dardu, Kachmireg, Kacmiri, Kaschemiri, Kaschmiri, Kashmiirėsch, Kashmirisk, Kasjmiri, Kašmīrī, Keshur, Keshuri, Kēšur, Кашмири, كأشُر, كشميرى, کشمیری, कश्मीरी, ಕಾಶ್ಮೀರಿ]
@@ -7,6 +8,8 @@ population: 7132800
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 34.166825
 longitude: 74.330455
 scripts: [Arab, Deva]
@@ -14,6 +17,7 @@ glottocode: kash1277
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Kashmiric > Kashmiri"
+wikidata_id: Q33552
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashmiri_language"
 translations:
   - translation_iso: ara

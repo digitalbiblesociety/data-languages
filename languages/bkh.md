@@ -7,12 +7,15 @@ population: 50000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.56518
 longitude: 9.99905
 glottocode: bako1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Basaa-Bakoko > Bakoko"
+wikidata_id: Q34866
 wikipedia_url: "https://en.wikipedia.org/wiki/Kogo_language"
 translations:
   - translation_iso: ara

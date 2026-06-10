@@ -6,12 +6,15 @@ population: 25
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.61817
 longitude: 145.28314
 glottocode: mawa1266
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Kumil-Tibor > Tibor > Nuclear Tibor > Mawak"
+wikidata_id: Q11732427
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawak_language"
 translations:
   - translation_iso: ara

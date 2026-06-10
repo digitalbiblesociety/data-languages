@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.94368
 longitude: 138.90083
 glottocode: uppe1430
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Grand Valley Dani > Walakic > Upper Grand Valley Dani"
+wikidata_id: Q12952361
 translations:
   - translation_iso: ara
     name: أبر جراند فالي داني

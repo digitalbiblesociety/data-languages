@@ -7,12 +7,15 @@ population: 300
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.27501
 longitude: -64.09979
 glottocode: juma1249
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Júma"
+wikidata_id: Q12953587
 wikipedia_url: "https://en.wikipedia.org/wiki/Juma_dialect"
 translations:
   - translation_iso: ara

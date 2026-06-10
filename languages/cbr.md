@@ -7,12 +7,15 @@ population: 2780
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.70232
 longitude: -75.42062
 glottocode: cash1251
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Cashibo-Cacataibo"
+wikidata_id: Q5359560
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashibo_language"
 translations:
   - translation_iso: ara

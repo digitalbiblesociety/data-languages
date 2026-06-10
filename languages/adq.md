@@ -7,12 +7,15 @@ population: 2200
 country_id: GH
 country_name: Ghana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.50546
 longitude: 0.727155
 glottocode: adan1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Adangbe"
+wikidata_id: Q34730
 wikipedia_url: "https://en.wikipedia.org/wiki/Agotime_language"
 translations:
   - translation_iso: ara

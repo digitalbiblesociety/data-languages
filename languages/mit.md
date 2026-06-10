@@ -7,12 +7,15 @@ population: 3180
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 18.21229
 longitude: -97.95722
 glottocode: sout3001
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Southern Puebla Mixtec"
+wikidata_id: Q7570345
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Puebla_Mixtec"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 50200
 country_id: BD
 country_name: Bangladesh
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.153955
 longitude: 90.6317
 scripts: [Latn, Mroo]
@@ -14,6 +16,7 @@ glottocode: mruu1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Mruic > Mru"
+wikidata_id: Q1951521
 wikipedia_url: "https://en.wikipedia.org/wiki/Mru_language"
 translations:
   - translation_iso: ara

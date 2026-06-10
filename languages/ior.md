@@ -7,12 +7,15 @@ population: 280000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.94883
 longitude: 37.79684
 glottocode: inor1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > TT-Group > Peripheral Western Gurage > Inoric"
+wikidata_id: Q35763
 wikipedia_url: "https://en.wikipedia.org/wiki/Inor_language"
 translations:
   - translation_iso: ara

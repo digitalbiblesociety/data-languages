@@ -6,12 +6,15 @@ population: 15000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.41405
 longitude: 117.94191
 glottocode: basa1286
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Basap"
+wikidata_id: Q3504208
 wikipedia_url: "https://en.wikipedia.org/wiki/Basap_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 32.375965
 longitude: -114.84778
 glottocode: coco1261
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Delta-Californian Yuman > Cocopa"
+wikidata_id: Q33044
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocopah_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -5.08137
 longitude: 144.80568
 glottocode: atem1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > Apalic > Greater West Sogeram > West Sogeram > Mand"
+wikidata_id: Q4813055
 wikipedia_url: "https://en.wikipedia.org/wiki/Mand_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.01194
 longitude: 9.63992
 glottocode: kari1316
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Warji-Gala-Kariya > Kariya"
+wikidata_id: Q3438708
 wikipedia_url: "https://en.wikipedia.org/wiki/Kariya_language"
 translations:
   - translation_iso: ara

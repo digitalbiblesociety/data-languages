@@ -1,5 +1,6 @@
 ---
 iso: mui
+macrolanguage_id: msa
 name: Musi
 autonym: Baso Palembang
 alt_names: [Palembang, Sekayu]
@@ -7,12 +8,15 @@ population: 3116000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -2.93987
 longitude: 103.94461
 glottocode: musi1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Music > Musi"
+wikidata_id: Q615660
 wikipedia_url: "https://en.wikipedia.org/wiki/Musi_language"
 translations:
   - translation_iso: ara

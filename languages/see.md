@@ -7,6 +7,8 @@ population: 6240
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 42.6128
 longitude: -79.340345
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sene1264
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Seneca"
+wikidata_id: Q1185133
 wikipedia_url: "https://en.wikipedia.org/wiki/Seneca_language"
 translations:
   - translation_iso: ara

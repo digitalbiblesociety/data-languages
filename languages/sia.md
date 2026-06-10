@@ -7,12 +7,15 @@ population: 2018
 country_id: RU
 country_name: Russia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 67.8625
 longitude: 32.40457
 glottocode: akka1237
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Akkala Saami"
+wikidata_id: Q35241
 wikipedia_url: "https://en.wikipedia.org/wiki/Akkala_S%C3%A1mi"
 translations:
   - translation_iso: ara

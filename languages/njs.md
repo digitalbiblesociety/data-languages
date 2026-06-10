@@ -7,12 +7,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.95386
 longitude: 137.60005
 glottocode: nisa1239
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Nisa-Anasi"
+wikidata_id: Q13593518
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1230
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.59226
 longitude: 16.09382
 glottocode: besm1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Kim-Besme-Goundo > Besme"
+wikidata_id: Q289832
 wikipedia_url: "https://en.wikipedia.org/wiki/Besme_language"
 translations:
   - translation_iso: ara

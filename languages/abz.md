@@ -7,12 +7,15 @@ population: 16000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.31058
 longitude: 124.58793
 glottocode: abui1241
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Central Alor > Abuic > Abui"
+wikidata_id: Q2822110
 wikipedia_url: "https://en.wikipedia.org/wiki/Abui_language"
 translations:
   - translation_iso: ara

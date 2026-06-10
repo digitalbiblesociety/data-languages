@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.14311
 longitude: 119.95888
 glottocode: seko1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Seko Padang"
+wikidata_id: Q15613282
 wikipedia_url: "https://en.wikipedia.org/wiki/Seko_Padang_language"
 translations:
   - translation_iso: ara

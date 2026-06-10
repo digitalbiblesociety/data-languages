@@ -6,12 +6,15 @@ population: 35000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.75
 longitude: 10.67
 glottocode: tune1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Mandi-Nyokon > Tunen"
+wikidata_id: Q36632
 wikipedia_url: "https://en.wikipedia.org/wiki/Nen_language_(Cameroon)"
 translations:
   - translation_iso: ara

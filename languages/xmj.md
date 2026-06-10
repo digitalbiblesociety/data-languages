@@ -7,12 +7,15 @@ population: 500
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.143315
 longitude: 15.04396
 glottocode: maje1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Meridional > Majera"
+wikidata_id: Q6737666
 wikipedia_url: "https://en.wikipedia.org/wiki/Majera_language"
 translations:
   - translation_iso: ara

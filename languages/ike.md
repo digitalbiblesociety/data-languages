@@ -1,5 +1,6 @@
 ---
 iso: ike
+macrolanguage_id: iku
 name: Eastern Canadian Inuktitut
 autonym: Eastern Canadian Inuktitut
 alt_names: ["\"Eastern Arctic Eskimo\"", Aivilingmiut, Avanersuarmiutut, Canadian Eskimo, Canadian Inuit, Central-Northern, Eastern Arctic Eskimo, Eastern Canadian, "Eastern Canadian \"Eskimo\"", Eastern Canadian Eskimo, Eastern Canadian Inuit, Eskimo, Inuit, Inuit of Quebec, Inuktitut, Inuktitut (Quebec-Labrador), Inuktitut (Salluit), Inuktitut rigolet, "Inuktitut, Eastern Canadian", Inupiat, Inuí rigolet, Kivallirmiut, Labrador Inuktitut, Labrador Inuttut, Nigiani de Qikiqtaaluk, Nunatsiavummiutut, Nunavimmiutitut, Quebec-Labrador Inuktitut, Uannangani de Qikiqtaaluk, ᐃᓄᒃᑎᑐᑦ]
@@ -7,12 +8,15 @@ population: 35200
 country_id: CA
 country_name: Canada
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 62.17345
 longitude: -75.61387
 glottocode: east2534
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Eastern Canadian Inuktitut"
+wikidata_id: Q4126517
 translations:
   - translation_iso: ara
     name: إينوكتيتوت كندي شرقي

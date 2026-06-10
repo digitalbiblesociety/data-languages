@@ -7,12 +7,15 @@ population: 950
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.26284
 longitude: -54.7034
 glottocode: baka1277
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Bakairí"
+wikidata_id: Q56846
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakairi_language"
 translations:
   - translation_iso: ara

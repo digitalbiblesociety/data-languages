@@ -7,12 +7,15 @@ population: 20100
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.28888
 longitude: 15.7018
 glottocode: mesm1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Mesme"
+wikidata_id: Q56282
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesme_language"
 translations:
   - translation_iso: ara

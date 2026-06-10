@@ -7,12 +7,15 @@ population: 1000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.8223
 longitude: 102.38206
 glottocode: bate1262
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Batekic > Batek"
+wikidata_id: Q860315
 wikipedia_url: "https://en.wikipedia.org/wiki/Batek_language"
 translations:
   - translation_iso: ara

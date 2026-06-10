@@ -7,12 +7,15 @@ population: 3500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.78724
 longitude: 154.83383
 glottocode: rapo1238
 glottolog_family_id: nort2933
 glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rapoisi"
+wikidata_id: Q7294279
 wikipedia_url: "https://en.wikipedia.org/wiki/Rapoisi_language"
 translations:
   - translation_iso: ara

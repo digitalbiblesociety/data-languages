@@ -7,12 +7,15 @@ population: 7700
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.48833
 longitude: 134.59152
 glottocode: kola1285
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Ujir-Kola-Kompane > Kola-Kompane > Kola"
+wikidata_id: Q6426967
 wikipedia_url: "https://en.wikipedia.org/wiki/Kola_language"
 translations:
   - translation_iso: ara

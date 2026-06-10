@@ -7,12 +7,15 @@ population: 2100
 country_id: BT
 country_name: Bhutan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.06603
 longitude: 91.16861
 glottocode: gong1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Gongduk"
+wikidata_id: Q2669221
 wikipedia_url: "https://en.wikipedia.org/wiki/Gongduk_language"
 translations:
   - translation_iso: ara

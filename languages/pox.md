@@ -6,12 +6,15 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 51.99999
 longitude: 13.99999
 glottocode: pola1255
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Lechitic > Polabian"
+wikidata_id: Q36741
 wikipedia_url: "https://en.wikipedia.org/wiki/Polabian_language"
 translations:
   - translation_iso: ara

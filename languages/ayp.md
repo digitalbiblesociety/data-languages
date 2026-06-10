@@ -1,5 +1,6 @@
 ---
 iso: ayp
+macrolanguage_id: ara
 name: North Mesopotamian Arabic
 autonym: اللهجة الموصلية
 alt_names: [Anatolian Arabic, Arabic, "Arabic, North Mesopotamian", "Arabic, North Mesopotamian Spoken", Mesopotamian Arabic, Mesopotamian Qeltu Arabic, Moslawi, Sjevernomezopotamski arapski, Syro-Mesopotamian Arabic, Syro-Mesopotamian Vernacular Arabic, مصلاوية]
@@ -7,12 +8,15 @@ population: 10266000
 country_id: IQ
 country_name: Iraq
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 36.298573
 longitude: 42.00475
 glottocode: nort3142
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Eastern Arabic > Qeltu > North Mesopotamian Arabic"
+wikidata_id: Q56577
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -12.99999
 longitude: -41.99999
 glottocode: kaim1235
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kaimbé"
+wikidata_id: Q6348017
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaimb%C3%A9_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 112400
 country_id: LA
 country_name: Laos
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.13105
 longitude: 105.671357
 glottocode: east2332
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Eastern Bru-Katang > Eastern Bru"
+wikidata_id: Q16115463
 translations:
   - translation_iso: ara
     name: برو الشرقية

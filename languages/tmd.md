@@ -7,12 +7,15 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.09522
 longitude: 144.3375
 glottocode: haru1245
 glottolog_family_id: piaw1238
 glottolog_family_name: Piawi
 glottolog_classification: "Piawi > Haruai"
+wikidata_id: Q12632146
 wikipedia_url: "https://en.wikipedia.org/wiki/Haruai_language"
 translations:
   - translation_iso: ara

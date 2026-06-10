@@ -7,9 +7,12 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -4.05884
 longitude: 140.65319
 glottocode: yetf1238
+wikidata_id: Q8053020
 wikipedia_url: "https://en.wikipedia.org/wiki/Biksi-Yetfa_language"
 translations:
   - translation_iso: ara

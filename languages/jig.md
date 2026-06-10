@@ -7,12 +7,15 @@ population: 23
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -17.16504
 longitude: 133.65904
 glottocode: djin1251
 glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Jingulu"
+wikidata_id: Q6202435
 wikipedia_url: "https://en.wikipedia.org/wiki/Jingulu_language"
 translations:
   - translation_iso: ara

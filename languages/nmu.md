@@ -7,12 +7,15 @@ population: 110
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 40.41023
 longitude: -120.64525
 glottocode: nort2952
 glottolog_family_id: maid1262
 glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Northeast Maidu"
+wikidata_id: Q3278074
 wikipedia_url: "https://en.wikipedia.org/wiki/Maidu_language"
 translations:
   - translation_iso: ara

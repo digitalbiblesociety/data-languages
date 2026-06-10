@@ -7,6 +7,8 @@ population: 198380
 country_id: FJ
 country_name: Fiji
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -17.81477
 longitude: 177.77228
 scripts: [Deva, Latn]
@@ -14,6 +16,7 @@ glottocode: fiji1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Hindustani > Fiji Hindi"
+wikidata_id: Q46728
 wikipedia_url: "https://en.wikipedia.org/wiki/Fiji_Hindi"
 translations:
   - translation_iso: ara

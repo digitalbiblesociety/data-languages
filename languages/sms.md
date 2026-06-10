@@ -7,6 +7,8 @@ population: 320
 country_id: FI
 country_name: Finland
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 68.832595
 longitude: 29.720375
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: skol1241
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Skolt Saami"
+wikidata_id: Q13271
 wikipedia_url: "https://en.wikipedia.org/wiki/Skolt_S%C3%A1mi"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.00924
 longitude: 9.16071
 glottocode: cakf1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Kofyar-Mushere-Chip > Cakfem-Mushere"
+wikidata_id: Q3441199
 wikipedia_url: "https://en.wikipedia.org/wiki/Cakfem-Mushere_language"
 translations:
   - translation_iso: ara

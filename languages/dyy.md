@@ -7,12 +7,15 @@ population: 81
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -16.59598
 longitude: 145.38835
 glottocode: dyaa1242
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yidinic > Dyaabugay"
+wikidata_id: Q2591320
 wikipedia_url: "https://en.wikipedia.org/wiki/Djabugay_language"
 translations:
   - translation_iso: ara

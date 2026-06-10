@@ -6,12 +6,15 @@ population: 1210
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.39912
 longitude: 143.99318
 glottocode: yaul1241
 glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > Ulmapo > Ulwa (Papua New Guinea)"
+wikidata_id: Q8050336
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaul_language"
 translations:
   - translation_iso: ara

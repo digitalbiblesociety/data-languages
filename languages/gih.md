@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -28.289642
 longitude: 152.151281
 glottocode: cond1242
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Inland Bandjalang > Condamine-Upper Clarence Bandjalang"
+wikidata_id: Q48987680
 wikipedia_url: "https://en.wikipedia.org/wiki/Githabul_language"
 translations:
   - translation_iso: ara

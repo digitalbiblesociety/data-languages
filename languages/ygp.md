@@ -6,12 +6,15 @@ population: 100000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.7
 longitude: 102.5
 glottocode: gepo1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nasu-Gepu > Gepo"
+wikidata_id: Q5548692
 wikipedia_url: "https://en.wikipedia.org/wiki/Gepo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.68664
 longitude: 122.25334
 glottocode: indo1317
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Borneo Coast Bajaw > Indonesian Bajau"
+wikidata_id: Q2880038
 translations:
   - translation_iso: ara
     name: اللغة بجاو إندونيسيا

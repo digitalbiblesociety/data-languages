@@ -7,12 +7,15 @@ population: 14000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.13587
 longitude: 123.10032
 glottocode: wawo1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Wawonii"
+wikidata_id: Q3566780
 wikipedia_url: "https://en.wikipedia.org/wiki/Wawonii_language"
 translations:
   - translation_iso: ara

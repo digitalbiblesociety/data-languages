@@ -7,12 +7,15 @@ population: 30000
 country_id: BO
 country_name: Bolivia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -15.33313
 longitude: -65.40956
 glottocode: trin1274
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Mojeño > Trinitario-Javeriano-Loretano"
+wikidata_id: Q3539279
 wikipedia_url: "https://en.wikipedia.org/wiki/Trinitario_language"
 translations:
   - translation_iso: ara

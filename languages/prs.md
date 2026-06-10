@@ -1,5 +1,6 @@
 ---
 iso: prs
+macrolanguage_id: fas
 name: Dari
 autonym: دری
 alt_names: [Afghan Persian, Badakhshi, Darwazi, Farsi, "Farsi, Eastern", Madaglashti, Neupersisch, Parsi, Persian, "Persian, Afghan", Tajik]
@@ -7,12 +8,15 @@ population: 9446200
 country_id: AF
 country_name: Afghanistan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 31.040545
 longitude: 67.359255
 glottocode: dari1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Dari"
+wikidata_id: Q178440
 wikipedia_url: "https://en.wikipedia.org/wiki/Dari"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 30800
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.15203
 longitude: 95.39028
 glottocode: noct1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Noctean > Nocte Naga"
+wikidata_id: Q7046410
 wikipedia_url: "https://en.wikipedia.org/wiki/Nocte_language"
 translations:
   - translation_iso: ara

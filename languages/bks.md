@@ -7,12 +7,15 @@ population: 85000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.84378
 longitude: 124.0016
 glottocode: masb1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Masbate-Sorsogon > Masbate Sorsogon"
+wikidata_id: Q16113356
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sorsogon_language"
 translations:
   - translation_iso: ara

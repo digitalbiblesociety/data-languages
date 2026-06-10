@@ -7,12 +7,15 @@ population: 3040
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.39429
 longitude: 143.87294
 glottocode: biwa1243
 glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Bun-Mundukumo > Biwat"
+wikidata_id: Q56352
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundugumor_language"
 translations:
   - translation_iso: ara

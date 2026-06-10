@@ -7,6 +7,8 @@ population: 710000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.41215
 longitude: 122.95359
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: capi1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Capiznon-Ilonggo-Kawayan > Capiznon"
+wikidata_id: Q2937525
 wikipedia_url: "https://en.wikipedia.org/wiki/Capiznon_language"
 translations:
   - translation_iso: ara

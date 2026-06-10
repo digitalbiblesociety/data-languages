@@ -7,12 +7,15 @@ population: 50000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.84629
 longitude: 11.52551
 glottocode: tula1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Tula-Ma-Yebu > Nuclear Tulaic > Tula"
+wikidata_id: Q3914907
 wikipedia_url: "https://en.wikipedia.org/wiki/Tula_language"
 translations:
   - translation_iso: ara

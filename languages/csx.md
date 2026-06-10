@@ -5,12 +5,15 @@ alt_names: [CBDSL, CSL, KSL, Khmer Sign Language]
 population: 7500
 country_id: KH
 country_name: Cambodia
+scope: individual
+language_type: living
 latitude: 11.557804
 longitude: 104.870261
 glottocode: camb1244
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Cambodian Sign Language"
+wikidata_id: Q50934287
 wikipedia_url: "https://en.wikipedia.org/wiki/Cambodian_Sign_Language"
 translations:
   - translation_iso: ara

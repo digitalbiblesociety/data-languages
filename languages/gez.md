@@ -7,6 +7,8 @@ population: null
 country_id: ET
 country_name: Ethiopia
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 10.134165
 longitude: 40.682105
 scripts: [Ethi]
@@ -14,6 +16,7 @@ glottocode: geez1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Geez"
+wikidata_id: Q35667
 wikipedia_url: "https://en.wikipedia.org/wiki/Ge%CA%BDez"
 translations:
   - translation_iso: ara

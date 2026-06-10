@@ -7,12 +7,15 @@ population: 12200
 country_id: PY
 country_name: Paraguay
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -22.85571
 longitude: -61.76059
 glottocode: niva1238
 glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo I > Nivaclé"
+wikidata_id: Q3182557
 wikipedia_url: "https://en.wikipedia.org/wiki/Nivacl%C3%A9_language"
 translations:
   - translation_iso: ara

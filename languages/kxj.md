@@ -7,12 +7,15 @@ population: 2199
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.96327
 longitude: 18.90547
 glottocode: kulf1238
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Koulfaic > Kulfa"
+wikidata_id: Q713654
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_So_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 500000
 country_id: EG
 country_name: Egypt
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.567
 longitude: 29.654
 glottocode: egyp1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Arab Sign > Egypt Sign Language"
+wikidata_id: Q5348443
 wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Sign_Language"
 translations:
   - translation_iso: ara

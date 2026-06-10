@@ -6,6 +6,9 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q2577228
 wikipedia_url: "https://en.wikipedia.org/wiki/Mysian_language"
 translations:
   - translation_iso: ara

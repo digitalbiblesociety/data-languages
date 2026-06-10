@@ -7,12 +7,15 @@ population: 31800
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.099195
 longitude: 98.548095
 glottocode: lash1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Leqic > Lashi"
+wikidata_id: Q6493203
 wikipedia_url: "https://en.wikipedia.org/wiki/Lashi_language"
 translations:
   - translation_iso: ara

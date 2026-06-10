@@ -7,12 +7,15 @@ population: 8000
 country_id: AF
 country_name: Afghanistan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.19817
 longitude: 71.542785
 glottocode: gawa1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Gawar-Bati"
+wikidata_id: Q33894
 wikipedia_url: "https://en.wikipedia.org/wiki/Gawar-Bati_language"
 translations:
   - translation_iso: ara

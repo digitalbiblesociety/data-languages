@@ -6,12 +6,15 @@ population: 800000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.49997
 longitude: 3.16664
 glottocode: nige1240
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Nigerian Sign Language"
+wikidata_id: Q7033021
 wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Sign_Language"
 translations:
   - translation_iso: ara

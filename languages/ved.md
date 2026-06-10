@@ -7,12 +7,15 @@ population: 2500
 country_id: LK
 country_name: Sri Lanka
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 6.97396
 longitude: 81.26177
 glottocode: vedd1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Dhivehi-Sinhala > Sinhalaic > Veddah"
+wikidata_id: Q2567934
 wikipedia_url: "https://en.wikipedia.org/wiki/Vedda_language"
 translations:
   - translation_iso: ara

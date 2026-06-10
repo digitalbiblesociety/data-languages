@@ -7,12 +7,15 @@ population: 111000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.56361
 longitude: 94.28868
 glottocode: chok1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Angami-Chokri > Chokri Naga"
+wikidata_id: Q5104247
 wikipedia_url: "https://en.wikipedia.org/wiki/Chokri_language"
 translations:
   - translation_iso: ara

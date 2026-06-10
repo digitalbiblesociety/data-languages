@@ -7,12 +7,15 @@ population: 25000
 country_id: AR
 country_name: Argentina
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -24.21891
 longitude: -61.91171
 glottocode: wich1263
 glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Wichi > Vejoz"
+wikidata_id: Q13526867
 wikipedia_url: "https://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Vejoz"
 translations:
   - translation_iso: ara

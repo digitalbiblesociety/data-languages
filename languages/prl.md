@@ -7,12 +7,15 @@ population: 98000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.90078
 longitude: -76.82131
 glottocode: peru1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Peruvian-Inmaculada Sign > Peruvian Sign Language"
+wikidata_id: Q3915508
 wikipedia_url: "https://en.wikipedia.org/wiki/Peruvian_Sign_Language"
 translations:
   - translation_iso: ara

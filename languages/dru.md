@@ -7,12 +7,15 @@ population: 2000
 country_id: TW
 country_name: Taiwan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.77381
 longitude: 120.84424
 glottocode: ruka1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Rukai"
+wikidata_id: Q49232
 wikipedia_url: "https://en.wikipedia.org/wiki/Rukai_language"
 translations:
   - translation_iso: ara

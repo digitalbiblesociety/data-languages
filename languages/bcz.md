@@ -7,12 +7,15 @@ population: 30000
 country_id: SN
 country_name: Senegal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.867215
 longitude: -16.22898
 glottocode: bain1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Bainounk > Bainouk-Gunyaamolo-Gutobor"
+wikidata_id: Q35506
 translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيامولو

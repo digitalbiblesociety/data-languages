@@ -7,12 +7,15 @@ population: 12
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -15.54581
 longitude: 134.28162
 glottocode: alaw1244
 glottolog_family_id: mang1423
 glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Alawa"
+wikidata_id: Q2147917
 wikipedia_url: "https://en.wikipedia.org/wiki/Alawa_language"
 translations:
   - translation_iso: ara

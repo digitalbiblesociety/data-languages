@@ -7,12 +7,15 @@ population: 1020000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -22.989103
 longitude: 32.42869
 glottocode: tswa1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Tswa-Ronga (S.50) > Tswa"
+wikidata_id: Q2085051
 wikipedia_url: "https://en.wikipedia.org/wiki/Tswa_language"
 translations:
   - translation_iso: ara

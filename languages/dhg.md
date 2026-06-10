@@ -7,12 +7,15 @@ population: 230
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.94927
 longitude: 135.75214
 glottocode: dhan1270
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhangu"
+wikidata_id: Q5268960
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhangu-Djangu_language"
 translations:
   - translation_iso: ara

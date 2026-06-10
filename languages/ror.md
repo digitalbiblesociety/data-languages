@@ -7,12 +7,15 @@ population: 2120
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.84604
 longitude: 120.70212
 glottocode: rong1269
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Ngada > Rongga"
+wikidata_id: Q12473464
 wikipedia_url: "https://en.wikipedia.org/wiki/Rongga_language"
 translations:
   - translation_iso: ara

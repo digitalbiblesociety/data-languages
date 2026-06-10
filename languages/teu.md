@@ -7,12 +7,15 @@ population: 21534
 country_id: UG
 country_name: Uganda
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 2.58367
 longitude: 34.75954
 glottocode: sooo1256
 glottolog_family_id: kuli1252
 glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ngangea-So > Soo"
+wikidata_id: Q3437607
 wikipedia_url: "https://en.wikipedia.org/wiki/Soo_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ alt_names: [Eastern Muya, "Minyag, Eastern"]
 population: 2000
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 29.235
 longitude: 102.168
 glottocode: east2351
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Muya > Eastern Muya"
+wikidata_id: Q105196606
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Minyag_language"
 translations:
   - translation_iso: ara

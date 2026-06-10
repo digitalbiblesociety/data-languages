@@ -7,6 +7,8 @@ population: 3433000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -0.46364
 longitude: 30.54803
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nyan1307
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Nkore-Kiga-Nyoro-Tooro > Nkore-Kiga > Nyankole"
+wikidata_id: Q13207
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkore_language"
 translations:
   - translation_iso: ara

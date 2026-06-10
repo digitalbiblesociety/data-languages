@@ -6,6 +6,9 @@ population: 9033
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q30323994
 wikipedia_url: "https://en.wikipedia.org/wiki/Niwer_Mil_language"
 translations:
   - translation_iso: ara

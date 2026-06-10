@@ -7,12 +7,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.80683
 longitude: 134.09802
 glottocode: kuri1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Koiwai-Irarutu > Irarutic > Nabi"
+wikidata_id: Q3200540
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuri_language_(Austronesian)"
 translations:
   - translation_iso: ara

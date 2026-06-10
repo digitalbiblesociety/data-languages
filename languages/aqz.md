@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -12.8322
 longitude: -60.9716
 glottocode: akun1241
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Corumbiara > Akuntsu"
+wikidata_id: Q4701960
 wikipedia_url: "https://en.wikipedia.org/wiki/Akuntsu_language"
 translations:
   - translation_iso: ara

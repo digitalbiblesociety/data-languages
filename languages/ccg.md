@@ -7,12 +7,15 @@ population: 107000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.06905
 longitude: 11.70765
 glottocode: samb1311
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Dakoid > Taram-Dirim-Nnakenyare > Sama Mum"
+wikidata_id: Q33120805
 translations:
   - translation_iso: ara
     name: سامبا داكا

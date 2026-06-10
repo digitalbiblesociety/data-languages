@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.8794
 longitude: 147.6533
 glottocode: biag1234
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Biage-Mountain Koiali > Biage"
+wikidata_id: Q48037487
 translations:
   - translation_iso: ara
     name: اللغة بياجي

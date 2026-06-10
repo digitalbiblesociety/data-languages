@@ -7,12 +7,15 @@ population: 65000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.4794
 longitude: 9.27156
 glottocode: oban1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bete-Obanliku > Obanliku"
+wikidata_id: Q36276
 wikipedia_url: "https://en.wikipedia.org/wiki/Obanliku_language"
 translations:
   - translation_iso: ara

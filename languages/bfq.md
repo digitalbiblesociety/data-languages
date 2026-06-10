@@ -7,6 +7,8 @@ population: 134000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.30938
 longitude: 76.59736
 scripts: [Taml]
@@ -14,6 +16,7 @@ glottocode: bada1257
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Badaga"
+wikidata_id: Q33205
 wikipedia_url: "https://en.wikipedia.org/wiki/Badaga_language"
 translations:
   - translation_iso: ara

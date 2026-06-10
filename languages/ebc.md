@@ -7,6 +7,9 @@ population: 7500
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q24837167
 wikipedia_url: "https://en.wikipedia.org/wiki/Beginci_language"
 translations:
   - translation_iso: ara

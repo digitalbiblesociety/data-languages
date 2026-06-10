@@ -7,6 +7,8 @@ population: 3898800
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.251495
 longitude: 119.251315
 scripts: [Bugi, Latn]
@@ -14,6 +16,7 @@ glottocode: bugi1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Buginese"
+wikidata_id: Q33190
 wikipedia_url: "https://en.wikipedia.org/wiki/Buginese_language"
 translations:
   - translation_iso: ara

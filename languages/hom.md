@@ -6,12 +6,15 @@ population: null
 country_id: SS
 country_name: South Sudan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 4.97912
 longitude: 28.00387
 glottocode: homa1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Ngbele-Ngenda > Ngendan > Homa"
+wikidata_id: Q3449953
 wikipedia_url: "https://en.wikipedia.org/wiki/Homa_language"
 translations:
   - translation_iso: ara

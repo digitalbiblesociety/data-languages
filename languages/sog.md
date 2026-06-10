@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 39.7
 longitude: 66.983
 glottocode: sogd1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Sogdic > Sogdian-Yagnobi > Sogdian"
+wikidata_id: Q205979
 wikipedia_url: "https://en.wikipedia.org/wiki/Sogdian_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -33.796611
 longitude: 135.828014
 glottocode: nauo1235
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Nauo"
+wikidata_id: Q6981305
 wikipedia_url: "https://en.wikipedia.org/wiki/Nauo_language"
 translations:
   - translation_iso: ara

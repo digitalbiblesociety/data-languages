@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 37.784
 longitude: -122.419
 glottocode: baym1241
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Bay Miwok"
+wikidata_id: Q3460957
 wikipedia_url: "https://en.wikipedia.org/wiki/Bay_Miwok_language"
 translations:
   - translation_iso: ara

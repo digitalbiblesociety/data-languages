@@ -7,12 +7,15 @@ population: 278000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.39014
 longitude: 38.17316
 glottocode: alab1254
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Kambaataic > Alaba-K'abeena"
+wikidata_id: Q56652
 wikipedia_url: "https://en.wikipedia.org/wiki/Alaba-K%CA%BCabeena_language"
 translations:
   - translation_iso: ara

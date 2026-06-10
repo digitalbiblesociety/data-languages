@@ -7,6 +7,8 @@ population: 2083700
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.46442
 longitude: 86.465675
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: kuru1301
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Kurukh"
+wikidata_id: Q33492
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurukh_language"
 translations:
   - translation_iso: ara

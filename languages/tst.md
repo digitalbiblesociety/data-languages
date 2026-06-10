@@ -7,12 +7,15 @@ population: 3000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.262989
 longitude: -2.816163
 glottocode: tond1249
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Tondi Songway Kiini"
+wikidata_id: Q7820798
 wikipedia_url: "https://en.wikipedia.org/wiki/Tondi_Songway_Kiini"
 translations:
   - translation_iso: ara

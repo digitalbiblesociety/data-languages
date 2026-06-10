@@ -7,12 +7,15 @@ population: 30000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.39417
 longitude: 124.23419
 glottocode: cota1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > South Manobo > Sarangani-Tasaday-Cotabato > Cotabato Manobo"
+wikidata_id: Q12953698
 wikipedia_url: "https://en.wikipedia.org/wiki/Cotabato_Manobo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 35000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.5091
 longitude: 93.6262
 glottocode: kaan1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Kaang Chin"
+wikidata_id: Q6343432
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaang_language"
 translations:
   - translation_iso: ara

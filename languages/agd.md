@@ -7,12 +7,15 @@ population: 27000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.20604
 longitude: 145.91695
 glottocode: agar1252
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Gadsup-Agarabi > Agarabi"
+wikidata_id: Q3399642
 wikipedia_url: "https://en.wikipedia.org/wiki/Agarabi_language"
 translations:
   - translation_iso: ara

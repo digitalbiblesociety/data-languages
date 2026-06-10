@@ -5,11 +5,14 @@ autonym: toki pona
 population: 3100
 country_id: CA
 country_name: Canada
+scope: individual
+language_type: constructed
 scripts: [Latn]
 glottocode: toki1239
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Toki Pona"
+wikidata_id: Q36846
 wikipedia_url: "https://en.wikipedia.org/wiki/Toki_Pona"
 translations:
   - translation_iso: ara

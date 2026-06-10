@@ -7,12 +7,15 @@ population: 8000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.30433
 longitude: 135.88268
 glottocode: kamo1255
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Kamoro"
+wikidata_id: Q6359001
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamoro_language"
 translations:
   - translation_iso: ara

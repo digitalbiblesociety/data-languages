@@ -7,12 +7,15 @@ population: 16000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.43391
 longitude: 25.51728
 glottocode: gbay1288
 glottolog_family_id: kres1240
 glottolog_family_name: Kresh-Aja
 glottolog_classification: "Kresh-Aja > Kreshic > Kresh-Woro"
+wikidata_id: Q56674
 wikipedia_url: "https://en.wikipedia.org/wiki/Kresh_language"
 translations:
   - translation_iso: ara

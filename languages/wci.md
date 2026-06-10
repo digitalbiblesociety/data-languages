@@ -7,12 +7,15 @@ population: 884300
 country_id: TG
 country_name: Togo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.455705
 longitude: 1.69303
 glottocode: waci1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Kpesi-Waci > Waci Gbe"
+wikidata_id: Q36987
 wikipedia_url: "https://en.wikipedia.org/wiki/Waci_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 511000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.578895
 longitude: 14.272165
 glottocode: mbum1254
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Mbum"
+wikidata_id: Q36170
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbum_language"
 translations:
   - translation_iso: ara

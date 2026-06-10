@@ -6,12 +6,15 @@ population: 95
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.7935
 longitude: 143.2783
 glottocode: hoya1235
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Hoyaic > Hoyahoya-Matakaia"
+wikidata_id: Q65455876
 wikipedia_url: "https://en.wikipedia.org/wiki/Hoyahoya_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 243300
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.39111
 longitude: 37.52998
 glottocode: kons1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Konsoid > Konso"
+wikidata_id: Q56624
 wikipedia_url: "https://en.wikipedia.org/wiki/Konso_language"
 translations:
   - translation_iso: ara

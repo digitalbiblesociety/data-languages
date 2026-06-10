@@ -1,5 +1,6 @@
 ---
 iso: qus
+macrolanguage_id: que
 name: Santiago del Estero Quichua
 autonym: Santiagueño Quichua
 alt_names: [Argentina Quechua, Argentinisches Quechua, Argentino, Arhintinap runasimin, Cuzco, Kichua, Quechua de Santiago del Estero, Quichua, Quichua Santiagueño, "Quichua, Santiago del Estero", Santiago del Estero Kechua, Santiago del Estero Quechua, Santiagueño, Tucumano, Аргентинский кечуа]
@@ -7,12 +8,15 @@ population: 60000
 country_id: AR
 country_name: Argentina
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -27.82096
 longitude: -63.24657
 glottocode: sant1432
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > South Bolivian-Argentinian Quechua > Santiago del Estero Quichua"
+wikidata_id: Q35168
 wikipedia_url: "https://en.wikipedia.org/wiki/Santiague%C3%B1o_Quechua"
 translations:
   - translation_iso: ara

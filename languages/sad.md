@@ -7,10 +7,13 @@ population: 60000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.26918
 longitude: 35.48081
 scripts: [Latn]
 glottocode: sand1273
+wikidata_id: Q34016
 wikipedia_url: "https://en.wikipedia.org/wiki/Sandawe_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 310
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -13.31951
 longitude: -71.22749
 glottocode: huac1244
 glottolog_family_id: hara1260
 glottolog_family_name: Harakmbut
 glottolog_classification: "Harakmbut > Huachipaeri"
+wikidata_id: Q3446617
 wikipedia_url: "https://en.wikipedia.org/wiki/Watipaeri_language"
 translations:
   - translation_iso: ara

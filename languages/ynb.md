@@ -4,8 +4,11 @@ name: Yamben
 autonym: Yaben
 country_id: PG
 country_name: Papua New Guinea
+scope: individual
+language_type: living
 latitude: -4.77103
 longitude: 145.5701
+wikidata_id: Q65046092
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamben_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3155
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.69801
 longitude: 36.09715
 glottocode: murs1242
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Tirma-Chai-Mursi > Mursi"
+wikidata_id: Q36013
 wikipedia_url: "https://en.wikipedia.org/wiki/Mursi_language"
 translations:
   - translation_iso: ara

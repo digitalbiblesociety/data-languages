@@ -7,12 +7,15 @@ population: 20
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 34.94026
 longitude: -98.90424
 glottocode: kiow1266
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Kiowa"
+wikidata_id: Q56631
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiowa_language"
 translations:
   - translation_iso: ara

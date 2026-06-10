@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -31.98991
 longitude: 133.90787
 glottocode: nugu1241
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Unclassified Core Thura-Yura > Nugunu (Australia)"
+wikidata_id: Q10604066
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukunu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6310
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.93818
 longitude: 143.54524
 glottocode: bamu1257
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Bamu"
+wikidata_id: Q3503788
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2800
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.468925
 longitude: 13.523335
 glottocode: zizi1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Zizilivakan"
+wikidata_id: Q56300
 wikipedia_url: "https://en.wikipedia.org/wiki/Zizilivakan_language"
 translations:
   - translation_iso: ara

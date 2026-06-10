@@ -7,12 +7,15 @@ population: 1500
 country_id: VE
 country_name: Venezuela
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.48533
 longitude: -67.25787
 glottocode: colo1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > North Alemannic > Colonia Tovar German"
+wikidata_id: Q1138351
 wikipedia_url: "https://en.wikipedia.org/wiki/Colonia_Tovar_dialect"
 translations:
   - translation_iso: ara

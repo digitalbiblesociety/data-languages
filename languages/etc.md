@@ -6,10 +6,13 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 glottocode: etch1234
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Etchemin"
+wikidata_id: Q5402493
 wikipedia_url: "https://en.wikipedia.org/wiki/Etchemin_language"
 translations:
   - translation_iso: ara

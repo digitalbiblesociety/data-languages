@@ -7,12 +7,15 @@ population: 2080
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.23716
 longitude: 93.12972
 glottocode: tere1272
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Nicobaric > Nuclear Nicobaric > Chowra-Teressa > Teressa"
+wikidata_id: Q3518362
 wikipedia_url: "https://en.wikipedia.org/wiki/Teressa_language"
 translations:
   - translation_iso: ara

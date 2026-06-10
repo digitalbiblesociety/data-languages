@@ -7,12 +7,15 @@ population: 2300000
 country_id: DZ
 country_name: Algeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.18674
 longitude: 6.88901
 glottocode: tach1249
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Chaouia of the Aures"
+wikidata_id: Q33274
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawiya_language"
 translations:
   - translation_iso: ara

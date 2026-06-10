@@ -7,12 +7,15 @@ population: 200
 country_id: SS
 country_name: South Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 8.58003
 longitude: 25.61221
 glottocode: ajas1235
 glottolog_family_id: kres1240
 glottolog_family_name: Kresh-Aja
 glottolog_classification: "Kresh-Aja > Aja (South Sudan)"
+wikidata_id: Q3237491
 wikipedia_url: "https://en.wikipedia.org/wiki/Aja_language_(Nilo-Saharan)"
 translations:
   - translation_iso: ara

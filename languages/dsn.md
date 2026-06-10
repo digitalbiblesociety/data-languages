@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -2.73859
 longitude: 134.39057
 glottocode: dusn1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Dusner"
+wikidata_id: Q5316948
 wikipedia_url: "https://en.wikipedia.org/wiki/Dusner_language"
 translations:
   - translation_iso: ara

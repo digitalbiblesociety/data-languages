@@ -7,12 +7,15 @@ population: 16000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 37.90501
 longitude: 75.14486
 glottocode: sari1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Shughni-Yazgulami > Shughnic > Sarikoli"
+wikidata_id: Q33873
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarikoli_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1840000
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 7.57377
 longitude: 37.75771
 glottocode: hadi1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Hadiyyaic > Hadiyya"
+wikidata_id: Q56613
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadiyya_language"
 translations:
   - translation_iso: ara

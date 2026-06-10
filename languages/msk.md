@@ -7,12 +7,15 @@ population: 26100
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.79221
 longitude: 126.18146
 glottocode: mans1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Eastern Mansakan > Mansaka"
+wikidata_id: Q12952800
 wikipedia_url: "https://en.wikipedia.org/wiki/Mansaka_language"
 translations:
   - translation_iso: ara

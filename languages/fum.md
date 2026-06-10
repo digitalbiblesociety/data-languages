@@ -6,8 +6,11 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.66524
 longitude: 11.10872
+wikidata_id: Q11011870
 translations:
   - translation_iso: ara
     name: الفوم

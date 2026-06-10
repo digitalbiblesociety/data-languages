@@ -7,6 +7,9 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q65455891
 wikipedia_url: "https://en.wikipedia.org/wiki/Early_Tripuri_language"
 translations:
   - translation_iso: ara

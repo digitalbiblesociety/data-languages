@@ -7,12 +7,15 @@ population: 15000
 country_id: GH
 country_name: Ghana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.94291
 longitude: -2.563535
 glottocode: ligb1244
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jogo > Ligbi"
+wikidata_id: Q33594
 wikipedia_url: "https://en.wikipedia.org/wiki/Ligbi_language"
 translations:
   - translation_iso: ara

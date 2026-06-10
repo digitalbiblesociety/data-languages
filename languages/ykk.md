@@ -6,12 +6,15 @@ population: 100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.08519
 longitude: 149.98189
 glottocode: yaka1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Wedauic > Yakaikeke"
+wikidata_id: Q8047041
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakaikeke_language"
 translations:
   - translation_iso: ara

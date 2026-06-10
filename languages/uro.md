@@ -7,12 +7,15 @@ population: 1900
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -4.64226
 longitude: 151.95294
 glottocode: urap1240
 glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Ura (Papua New Guinea)"
+wikidata_id: Q3121049
 wikipedia_url: "https://en.wikipedia.org/wiki/Ura_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

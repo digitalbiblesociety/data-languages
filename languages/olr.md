@@ -6,6 +6,9 @@ population: null
 country_id: VU
 country_name: Vanuatu
 status_id: 8b
+scope: individual
+language_type: living
+wikidata_id: Q3351562
 wikipedia_url: "https://en.wikipedia.org/wiki/Olrat_language"
 translations:
   - translation_iso: ara

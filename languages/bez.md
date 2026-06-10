@@ -7,6 +7,8 @@ population: 592000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.26671
 longitude: 35.03643
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bena1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Bena-Hehe > Bena (Tanzania)"
+wikidata_id: Q2502949
 wikipedia_url: "https://en.wikipedia.org/wiki/Bena_language"
 translations:
   - translation_iso: ara

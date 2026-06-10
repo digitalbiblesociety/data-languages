@@ -7,12 +7,15 @@ population: 450
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.49792
 longitude: -54.7457
 glottocode: apal1257
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Apalaí"
+wikidata_id: Q2736980
 wikipedia_url: "https://en.wikipedia.org/wiki/Apala%C3%AD_language"
 translations:
   - translation_iso: ara

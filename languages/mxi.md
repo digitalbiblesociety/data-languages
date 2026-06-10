@@ -6,12 +6,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.87627
 longitude: -1.79724
 glottocode: moza1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Unshifted Western Romance > Mozarabic"
+wikidata_id: Q317044
 wikipedia_url: "https://en.wikipedia.org/wiki/Andalusi_Romance"
 translations:
   - translation_iso: ara

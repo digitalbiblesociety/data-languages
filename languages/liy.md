@@ -7,12 +7,15 @@ population: 183000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.21563
 longitude: 20.98269
 glottocode: band1344
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Banda-Bambari"
+wikidata_id: Q11051591
 translations:
   - translation_iso: ara
     name: لغة اندا-امباري

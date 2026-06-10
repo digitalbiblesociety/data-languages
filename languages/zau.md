@@ -7,12 +7,15 @@ population: 12000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 33.23973
 longitude: 77.40126
 glottocode: zang1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Kenhatic > Zangskari"
+wikidata_id: Q771203
 wikipedia_url: "https://en.wikipedia.org/wiki/Zangskari_language"
 translations:
   - translation_iso: ara

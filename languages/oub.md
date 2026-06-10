@@ -7,12 +7,15 @@ population: 3500
 country_id: LR
 country_name: Liberia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.399665
 longitude: -7.50585
 glottocode: glio1241
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Glio-Oubi"
+wikidata_id: Q3914977
 wikipedia_url: "https://en.wikipedia.org/wiki/Glio-Ubi_language"
 translations:
   - translation_iso: ara

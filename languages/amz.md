@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.0018
 longitude: 142.2726
 glottocode: atam1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Gudang-Northeast Paman > Northeast Paman > Uradhic > Atampaya"
+wikidata_id: Q3446651
 wikipedia_url: "https://en.wikipedia.org/wiki/Atampaya_dialect"
 translations:
   - translation_iso: ara

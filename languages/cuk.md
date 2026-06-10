@@ -7,12 +7,15 @@ population: 57100
 country_id: PA
 country_name: Panama
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.15686
 longitude: -78.3075
 glottocode: sanb1242
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Kuna > San Blas Kuna"
+wikidata_id: Q12953659
 translations:
   - translation_iso: ara
     name: سان بلاس كونا

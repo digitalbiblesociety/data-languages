@@ -1,5 +1,6 @@
 ---
 iso: ojb
+macrolanguage_id: oji
 name: Northwestern Ojibwa
 autonym: Northern Ojibwa
 alt_names: [Chippeway, Ojibwa, "Ojibwa, Northwestern", Ojibway, Ojibwe, Ojibwe du nord-ouest, Oyibua noroccidental, Salteaux, Saulteau, Saulteaux]
@@ -7,12 +8,15 @@ population: 20000
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 51.61918
 longitude: -87.78617
 glottocode: nort2961
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Northwestern-Saulteaux Ojibwa > Northwestern Ojibwa"
+wikidata_id: Q7060356
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwestern_Ojibwa"
 translations:
   - translation_iso: ara

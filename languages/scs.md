@@ -1,5 +1,6 @@
 ---
 iso: scs
+macrolanguage_id: den
 name: North Slavey
 autonym: "Dene K'e"
 alt_names: ["Slavey, North"]
@@ -7,6 +8,8 @@ population: 770
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 63.26714
 longitude: -123.64125
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: nort2942
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Slaveyic > Slave > North Slavey"
+wikidata_id: Q20628
 translations:
   - translation_iso: ara
     name: نورث سلافي

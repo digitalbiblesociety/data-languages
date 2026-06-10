@@ -6,6 +6,9 @@ population: 540000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
+wikidata_id: Q3914387
 wikipedia_url: "https://en.wikipedia.org/wiki/Izi_language"
 translations:
   - translation_iso: ara

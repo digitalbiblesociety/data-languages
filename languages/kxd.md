@@ -1,5 +1,6 @@
 ---
 iso: kxd
+macrolanguage_id: msa
 name: Brunei
 autonym: Kedayan
 alt_names: [Brunei-Kadaian, Orang Bukit]
@@ -7,12 +8,15 @@ population: 321000
 country_id: BN
 country_name: Brunei
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 4.456045
 longitude: 114.429505
 glottocode: brun1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Brunei-Bacan Malay > Brunei"
+wikidata_id: Q3182878
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Malay"
 translations:
   - translation_iso: ara

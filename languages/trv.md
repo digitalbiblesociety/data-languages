@@ -7,6 +7,8 @@ population: 20000
 country_id: TW
 country_name: Taiwan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 23.90324
 longitude: 121.35776
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: taro1264
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Atayalic > Seediq"
+wikidata_id: Q716686
 wikipedia_url: "https://en.wikipedia.org/wiki/Seediq_language"
 translations:
   - translation_iso: ara

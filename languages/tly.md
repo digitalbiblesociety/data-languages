@@ -7,6 +7,8 @@ population: 226100
 country_id: AZ
 country_name: Azerbaijan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 38.45524
 longitude: 48.634905
 scripts: [Arab, Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: taly1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Central Tatic > North-Central Talysh"
+wikidata_id: Q34318
 wikipedia_url: "https://en.wikipedia.org/wiki/Talysh_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 18000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.00933
 longitude: 118.99377
 glottocode: ulum1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Ulumanda'"
+wikidata_id: Q3501892
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulumanda%CA%BC_language"
 translations:
   - translation_iso: ara

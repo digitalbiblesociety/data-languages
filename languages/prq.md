@@ -7,12 +7,15 @@ population: 5500
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.97772
 longitude: -74.91528
 glottocode: ashe1272
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Ashe-Asha Norte > Ashéninka Perené"
+wikidata_id: Q3450601
 wikipedia_url: "https://en.wikipedia.org/wiki/Peren%C3%A9_Ash%C3%A9ninka"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: enb
+macrolanguage_id: kln
 name: Markweeta
 autonym: Marakwet
 alt_names: [Endo, Endo-Marakwet, Marakuet, Markweta, Talai]
@@ -7,12 +8,15 @@ population: 129000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.15018
 longitude: 35.58662
 glottocode: mark1255
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Northern Kalenjin > Markweeta"
+wikidata_id: Q56874
 wikipedia_url: "https://en.wikipedia.org/wiki/Markwet_language"
 translations:
   - translation_iso: ara

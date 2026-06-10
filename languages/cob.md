@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 15.60783
 longitude: -91.286885
 glottocode: chic1271
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Huastecan Mayan > Chicomuceltec"
+wikidata_id: Q3307204
 wikipedia_url: "https://en.wikipedia.org/wiki/Chicomuceltec_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2012
 country_id: SR
 country_name: Suriname
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 3.19607
 longitude: -55.6294
 glottocode: akur1238
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Tiriyoan > Akurio"
+wikidata_id: Q56650
 wikipedia_url: "https://en.wikipedia.org/wiki/Akurio_language"
 translations:
   - translation_iso: ara

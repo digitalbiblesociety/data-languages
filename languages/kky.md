@@ -7,12 +7,15 @@ population: 200
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -14.9424
 longitude: 144.83085
 glottocode: gugu1255
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Guugu Yimidhirr"
+wikidata_id: Q56543
 wikipedia_url: "https://en.wikipedia.org/wiki/Guugu_Yimithirr_language"
 translations:
   - translation_iso: ara

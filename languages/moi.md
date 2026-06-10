@@ -7,12 +7,15 @@ population: 19000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.86954
 longitude: 12.54499
 glottocode: mboi1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Mboi"
+wikidata_id: Q3914417
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboi_language"
 translations:
   - translation_iso: ara

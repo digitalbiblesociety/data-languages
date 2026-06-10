@@ -7,9 +7,12 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -23.46447
 longitude: -47.95049
 glottocode: otii1244
+wikidata_id: Q3357881
 wikipedia_url: "https://en.wikipedia.org/wiki/Oti_language"
 translations:
   - translation_iso: ara

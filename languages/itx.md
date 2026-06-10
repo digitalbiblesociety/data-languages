@@ -7,12 +7,15 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.18342
 longitude: 139.34115
 glottocode: itik1240
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Itik"
+wikidata_id: Q6094713
 wikipedia_url: "https://en.wikipedia.org/wiki/Itik_language"
 translations:
   - translation_iso: ara

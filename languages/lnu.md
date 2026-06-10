@@ -7,12 +7,15 @@ population: 99000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.75787
 longitude: 11.83779
 glottocode: long1389
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Longuda"
+wikidata_id: Q35797
 wikipedia_url: "https://en.wikipedia.org/wiki/Longuda_language"
 translations:
   - translation_iso: ara

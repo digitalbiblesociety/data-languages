@@ -7,12 +7,15 @@ population: 1300
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.4376
 longitude: 142.36939
 glottocode: sani1270
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Saniyo-Hiyewe"
+wikidata_id: Q7418302
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanio_language"
 translations:
   - translation_iso: ara

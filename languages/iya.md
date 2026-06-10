@@ -6,12 +6,15 @@ population: 24700
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.300761
 longitude: 5.84326
 glottocode: iyay1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Osse > Iyayu"
+wikidata_id: Q3913390
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyayu_language"
 translations:
   - translation_iso: ara

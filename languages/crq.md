@@ -7,12 +7,15 @@ population: 1500
 country_id: AR
 country_name: Argentina
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -22.206707
 longitude: -62.650767
 glottocode: iyow1239
 glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Chorote > Forest Chorote"
+wikidata_id: Q3540927
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyo%CA%BCwujwa_Chorote"
 translations:
   - translation_iso: ara

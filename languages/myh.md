@@ -7,12 +7,15 @@ population: 2224
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 48.32581
 longitude: -124.61639
 glottocode: maka1318
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Makah-Nitinat > Makah"
+wikidata_id: Q3280640
 wikipedia_url: "https://en.wikipedia.org/wiki/Makah_language"
 translations:
   - translation_iso: ara

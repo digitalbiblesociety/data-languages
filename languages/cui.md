@@ -7,12 +7,15 @@ population: 1500
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.19829
 longitude: -69.819705
 glottocode: cuib1242
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Cuiba"
+wikidata_id: Q2980421
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuiba_language"
 translations:
   - translation_iso: ara

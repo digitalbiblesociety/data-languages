@@ -6,12 +6,15 @@ population: 3
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
 latitude: -15.77361
 longitude: 128.73861
 glottocode: miri1273
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Miriwoong Sign Language"
+wikidata_id: Q24090240
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriwoong_Sign_Language"
 translations:
   - translation_iso: ara

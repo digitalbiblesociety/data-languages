@@ -6,12 +6,15 @@ population: 50
 country_id: CN
 country_name: China
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 24.133878
 longitude: 101.498795
 glottocode: lawu1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lawoish > Lawu"
+wikidata_id: Q6505073
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawu_language"
 translations:
   - translation_iso: ara

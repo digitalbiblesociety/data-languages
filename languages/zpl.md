@@ -1,5 +1,6 @@
 ---
 iso: zpl
+macrolanguage_id: zap
 name: Lachixío Zapotec
 autonym: East Sola de Vega Zapotec
 alt_names: [Coyachilla, Coyachilla dialect continuum, Dialu, Eastern Sapoteko, Eastern Sola de Vega Zapotec, Lachixio Zapotec, Solteco, Western Zapotec (non-preferred), Zapotec, "Zapotec, Lachixío", Zapoteco de Lachixío, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Zimatlán, Zimatlán Zapotec]
@@ -7,12 +8,15 @@ population: 6500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.72145
 longitude: -96.93185
 glottocode: lach1249
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > West-Central West Zapotec > Lachixío Zapotec"
+wikidata_id: Q6468420
 wikipedia_url: "https://en.wikipedia.org/wiki/Lachix%C3%ADo_Zapotec"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: heb
+iso639_1: he
 name: Hebrew
 autonym: Israeli Hebrew
 alt_names: [Ivrit, Modern Hebrew, hébreu]
@@ -7,6 +8,8 @@ population: 5000000
 country_id: IL
 country_name: Israel
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 31.10565
 longitude: 35.01788
 scripts: [Hebr]
@@ -14,6 +17,7 @@ glottocode: hebr1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Hebrewic > Modern Hebrew"
+wikidata_id: Q8141
 wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Hebrew"
 translations:
   - translation_iso: ara

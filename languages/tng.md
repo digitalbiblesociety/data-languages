@@ -7,12 +7,15 @@ population: 30000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.8289
 longitude: 16.20899
 glottocode: toba1280
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Tobanga"
+wikidata_id: Q3440501
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobanga_language"
 translations:
   - translation_iso: ara

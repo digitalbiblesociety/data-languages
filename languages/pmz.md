@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 20.966
 longitude: -99.334
 glottocode: sout2999
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Pamean > Southern Pame"
+wikidata_id: Q3361765
 translations:
   - translation_iso: ara
     name: اللغة بامي الجنوبية

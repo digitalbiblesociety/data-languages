@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.61476
 longitude: 150.72725
 glottocode: sali1295
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Saliba"
+wikidata_id: Q3469737
 wikipedia_url: "https://en.wikipedia.org/wiki/Saliba_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

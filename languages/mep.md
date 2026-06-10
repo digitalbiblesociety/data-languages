@@ -7,12 +7,15 @@ population: 110
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -16.3596
 longitude: 128.88869
 glottocode: miri1266
 glottolog_family_id: jarr1235
 glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Miriwunic > Miriwung"
+wikidata_id: Q3111847
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriwoong_language"
 translations:
   - translation_iso: ara

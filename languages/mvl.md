@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -24.46
 longitude: 136.641
 glottocode: mbar1254
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mbara-Yanga"
+wikidata_id: Q6799620
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbara-Yanga_language"
 translations:
   - translation_iso: ara

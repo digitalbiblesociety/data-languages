@@ -6,8 +6,11 @@ population: 4000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 30
 longitude: 70
+wikidata_id: Q1193495
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamviri_dialect"
 translations:
   - translation_iso: ara

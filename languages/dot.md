@@ -7,12 +7,15 @@ population: 1130
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.9325
 longitude: 9.51838
 glottocode: dass1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Dass"
+wikidata_id: Q3441293
 wikipedia_url: "https://en.wikipedia.org/wiki/Dass_language"
 translations:
   - translation_iso: ara

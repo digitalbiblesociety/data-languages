@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 9.64189
 longitude: 8.35594
 glottocode: tesh1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Ngizim-Southwestern Bade > Shira-Southwestern Bade > Shira > Teshenawa"
+wikidata_id: Q3436597
 wikipedia_url: "https://en.wikipedia.org/wiki/Teshenawa_language"
 translations:
   - translation_iso: ara

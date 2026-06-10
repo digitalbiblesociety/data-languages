@@ -7,12 +7,15 @@ population: 4390
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.62375
 longitude: 160.26505
 glottocode: renn1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Rennell-Bellona"
+wikidata_id: Q3397346
 wikipedia_url: "https://en.wikipedia.org/wiki/Rennellese_language"
 translations:
   - translation_iso: ara

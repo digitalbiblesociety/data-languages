@@ -7,12 +7,15 @@ population: 6500
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.20273
 longitude: -4.52192
 glottocode: apro1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Aproumu Aizi"
+wikidata_id: Q34810
 wikipedia_url: "https://en.wikipedia.org/wiki/Apro_language"
 translations:
   - translation_iso: ara

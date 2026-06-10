@@ -7,12 +7,15 @@ population: 320800
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.949555
 longitude: 0.159565
 glottocode: moba1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Moba-Bimoba > Moba"
+wikidata_id: Q19921578
 translations:
   - translation_iso: ara
     name: لغة مويا

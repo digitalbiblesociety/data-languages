@@ -7,12 +7,15 @@ population: 80000
 country_id: IN
 country_name: India
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 28.73638
 longitude: 72.683765
 glottocode: sans1271
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Eastern Panjabic > Sansi"
+wikidata_id: Q3309366
 wikipedia_url: "https://en.wikipedia.org/wiki/Sansi_language"
 translations:
   - translation_iso: ara

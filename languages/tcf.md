@@ -7,12 +7,15 @@ population: 37500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.21223
 longitude: -98.63221
 glottocode: mali1285
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Mephaa > North-Central Mephaa > Malinaltepec Me'phaa"
+wikidata_id: Q25559732
 translations:
   - translation_iso: ara
     name: مي ‍ّفا

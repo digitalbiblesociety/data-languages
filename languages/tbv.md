@@ -6,8 +6,11 @@ population: 2230
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -6.36263
 longitude: 147.37562
+wikidata_id: Q7811712
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 81700
 country_id: NA
 country_name: Namibia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -18.16808
 longitude: 20.66778
 glottocode: diri1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Kwangali-Diriku > Diriku-Shambyu"
+wikidata_id: Q3780954
 wikipedia_url: "https://en.wikipedia.org/wiki/Dciriku_language"
 translations:
   - translation_iso: ara

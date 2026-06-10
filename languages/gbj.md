@@ -7,12 +7,15 @@ population: 8000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.38575
 longitude: 82.77099
 glottocode: bodo1267
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gutob-Remo > Bodo Gadaba"
+wikidata_id: Q3347070
 wikipedia_url: "https://en.wikipedia.org/wiki/Gutob_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 39000
 country_id: NA
 country_name: Namibia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -18.03388
 longitude: 15.72942
 glottocode: kwam1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Kwambi-Ndonga > Kwambi"
+wikidata_id: Q3487165
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwambi_dialect"
 translations:
   - translation_iso: ara

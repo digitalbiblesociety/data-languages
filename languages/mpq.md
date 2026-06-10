@@ -7,12 +7,15 @@ population: 240
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.3553
 longitude: -70.20791
 glottocode: mati1255
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mayoruna Branch > Mayo Group > Matis subgroup > Matís"
+wikidata_id: Q3299145
 wikipedia_url: "https://en.wikipedia.org/wiki/Matis_language"
 translations:
   - translation_iso: ara

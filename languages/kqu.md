@@ -6,12 +6,15 @@ population: null
 country_id: ZA
 country_name: South Africa
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -33.03859
 longitude: 22.00209
 glottocode: vaal1235
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Eastern !Ui > Vaal-Orange"
+wikidata_id: Q33127766
 wikipedia_url: "https://en.wikipedia.org/wiki/Seroa"
 translations:
   - translation_iso: ara

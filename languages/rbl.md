@@ -1,5 +1,6 @@
 ---
 iso: rbl
+macrolanguage_id: bik
 name: Miraya Bikol
 autonym: Bikol
 alt_names: ["Bikol, Miraya"]
@@ -7,6 +8,9 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q18664557
 translations:
   - translation_iso: ara
     name: ميرايا بيكول

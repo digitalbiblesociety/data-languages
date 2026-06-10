@@ -7,12 +7,15 @@ population: 100
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.75724
 longitude: 11.18433
 glottocode: mvan1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mvano-Ndunda > Mvano"
+wikidata_id: Q3913281
 wikipedia_url: "https://en.wikipedia.org/wiki/Mvanip_language"
 translations:
   - translation_iso: ara

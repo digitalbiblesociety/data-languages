@@ -6,12 +6,15 @@ population: 2200
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 36.45
 longitude: 71.3
 glottocode: sang1344
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Sanglechi-Ishkashimi > Sanglechi"
+wikidata_id: Q3472220
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanglechi_language"
 translations:
   - translation_iso: ara

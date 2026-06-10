@@ -1,5 +1,6 @@
 ---
 iso: lsm
+macrolanguage_id: luy
 name: Saamia
 autonym: Olusaamia
 alt_names: [Olusamia]
@@ -7,12 +8,15 @@ population: 609800
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.3652
 longitude: 34.0335
 glottocode: saam1283
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Western Luyia > Saamiaic > Saamia"
+wikidata_id: Q3739441
 wikipedia_url: "https://en.wikipedia.org/wiki/Samia_language"
 translations:
   - translation_iso: ara

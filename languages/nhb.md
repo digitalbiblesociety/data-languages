@@ -7,12 +7,15 @@ population: 17000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.78122
 longitude: -4.23539
 glottocode: beng1286
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Ben-Gban > Bengic > Beng"
+wikidata_id: Q3913311
 wikipedia_url: "https://en.wikipedia.org/wiki/Beng_language"
 translations:
   - translation_iso: ara

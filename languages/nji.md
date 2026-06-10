@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -17.53489
 longitude: 134.39484
 glottocode: ngar1283
 glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Ngurlun > Ngarnka"
+wikidata_id: Q3915692
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarnji_language"
 translations:
   - translation_iso: ara

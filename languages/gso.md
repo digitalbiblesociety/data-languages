@@ -1,5 +1,6 @@
 ---
 iso: gso
+macrolanguage_id: gba
 name: Southwest Gbaya
 autonym: Southwest Gbaya
 alt_names: [Gbaya, Gbaya Sud-Ouest, "Gbaya, Southwest"]
@@ -7,12 +8,15 @@ population: 220000
 country_id: CF
 country_name: Central African Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.700365
 longitude: 14.956865
 glottocode: sout2785
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Gbaya Meridional > Southwest Gbaya"
+wikidata_id: Q4919322
 wikipedia_url: "https://en.wikipedia.org/wiki/Biyanda-Buli_language"
 translations:
   - translation_iso: ara

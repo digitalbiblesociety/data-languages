@@ -7,12 +7,15 @@ population: 11000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.44725
 longitude: 95.64716
 glottocode: idum1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Digarish > Idu"
+wikidata_id: Q56412
 wikipedia_url: "https://en.wikipedia.org/wiki/Idu_Mishmi_language"
 translations:
   - translation_iso: ara

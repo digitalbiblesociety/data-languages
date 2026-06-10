@@ -6,7 +6,10 @@ population: null
 country_id: IL
 country_name: Israel
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Hebr]
+wikidata_id: Q37733
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Arabic"
 translations:
   - translation_iso: ara

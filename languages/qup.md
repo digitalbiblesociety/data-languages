@@ -1,5 +1,6 @@
 ---
 iso: qup
+macrolanguage_id: que
 name: Southern Pastaza Quechua
 autonym: Kichwa Shimi
 alt_names: [Inga, Lowland Kichua, Puyo Pongo, "Quechua, Southern Pastaza"]
@@ -7,12 +8,15 @@ population: 1550
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.32733
 longitude: -76.52697
 glottocode: sout2990
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Imbabura-Colombia-Oriente Quechua > Colombia-Oriente Quechua > Oriente Quechua > Pastaza Quechua > Southern Pastaza Quechua"
+wikidata_id: Q25559692
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا باستازا الجنوبية

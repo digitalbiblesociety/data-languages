@@ -7,12 +7,15 @@ population: 1250000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.67037
 longitude: 8.81221
 glottocode: bero1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Iten-Cara-Berom > Cara-Berom > Berom"
+wikidata_id: Q35013
 wikipedia_url: "https://en.wikipedia.org/wiki/Berom_language"
 translations:
   - translation_iso: ara

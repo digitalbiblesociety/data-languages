@@ -7,12 +7,15 @@ population: 2260000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.686
 longitude: 85.792
 glottocode: surj1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Kamta > Western Kamta > Surjapuri"
+wikidata_id: Q7645351
 wikipedia_url: "https://en.wikipedia.org/wiki/Surjapuri_language"
 translations:
   - translation_iso: ara

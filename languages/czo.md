@@ -1,5 +1,6 @@
 ---
 iso: czo
+macrolanguage_id: zho
 name: Min Zhong Chinese
 autonym: 闽中语
 alt_names: [Central Min, "Chinese, Min Zhong", "Chinese,MinZhong", Min, Min Dialect Family, Min Zhong, "Mineg ar c'hreiz", Minish Veanagh, Minzhong]
@@ -7,12 +8,15 @@ population: 3620000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.06861
 longitude: 117.37571
 glottocode: minz1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Inland Min > Min Zhong Chinese"
+wikidata_id: Q56435
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Min"
 translations:
   - translation_iso: ara

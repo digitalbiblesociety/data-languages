@@ -6,8 +6,11 @@ population: null
 country_id: GN
 country_name: Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 9.951
 longitude: -12.887
+wikidata_id: Q3502293
 translations:
   - translation_iso: ara
     name: باجا كالوم

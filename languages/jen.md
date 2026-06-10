@@ -7,12 +7,15 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.26671
 longitude: 11.38838
 glottocode: dzaa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Jen > Doso-Dza > Dza"
+wikidata_id: Q35558
 wikipedia_url: "https://en.wikipedia.org/wiki/Jen_language"
 translations:
   - translation_iso: ara

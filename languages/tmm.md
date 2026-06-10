@@ -7,12 +7,15 @@ population: 20000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.66003
 longitude: 104.93267
 glottocode: tait1248
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > White Tai > Tai Thanh"
+wikidata_id: Q7675842
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Thanh_language"
 translations:
   - translation_iso: ara

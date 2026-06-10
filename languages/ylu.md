@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.65252
 longitude: 146.91898
 glottocode: arib1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Busu > Aribwaung"
+wikidata_id: Q11044246
 wikipedia_url: "https://en.wikipedia.org/wiki/Aribwaung_language"
 translations:
   - translation_iso: ara

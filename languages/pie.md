@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 35.22912
 longitude: -106.41475
 glottocode: piro1248
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Piro"
+wikidata_id: Q7198055
 wikipedia_url: "https://en.wikipedia.org/wiki/Piro_Pueblo_language"
 translations:
   - translation_iso: ara

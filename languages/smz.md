@@ -6,12 +6,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.23022
 longitude: 155.42269
 glottocode: sime1242
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > Simekuic > Simeku"
+wikidata_id: Q7517534
 wikipedia_url: "https://en.wikipedia.org/wiki/Simeku_language"
 translations:
   - translation_iso: ara

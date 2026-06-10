@@ -7,12 +7,15 @@ population: 20000
 country_id: SD
 country_name: Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.83084
 longitude: 30.25298
 glottocode: lumu1239
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Lumun-Torona > Lumun"
+wikidata_id: Q35777
 wikipedia_url: "https://en.wikipedia.org/wiki/Lumun_language"
 translations:
   - translation_iso: ara

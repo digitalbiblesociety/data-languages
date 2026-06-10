@@ -7,12 +7,15 @@ population: 800000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.1666
 longitude: 99.70522
 glottocode: cent2004
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Bai > Baic > South-Central Bai > Central Bai"
+wikidata_id: Q12628803
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bai_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.676
 longitude: -104.6259
 glottocode: east2695
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Western Periphery Nahuatl > Durango Nahuatl > Eastern Durango Nahuatl"
+wikidata_id: Q16115449
 translations:
   - translation_iso: ara
     name: اللغة ناهوتل درانجو الشرقية

@@ -6,6 +6,9 @@ population: null
 country_id: UZ
 country_name: Uzbekistan
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q25502
 wikipedia_url: "https://en.wikipedia.org/wiki/Khorezmian_Turkic"
 translations:
   - translation_iso: ara

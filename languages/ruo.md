@@ -7,12 +7,15 @@ population: 560
 country_id: HR
 country_name: Croatia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 45.433
 longitude: 14.2
 glottocode: istr1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Istro-Romanian"
+wikidata_id: Q33622
 wikipedia_url: "https://en.wikipedia.org/wiki/Istro-Romanian_language"
 translations:
   - translation_iso: ara

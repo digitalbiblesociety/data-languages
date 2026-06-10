@@ -7,6 +7,8 @@ population: 181200
 country_id: BT
 country_name: Bhutan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 27.36944
 longitude: 91.774063
 scripts: [Tibt]
@@ -14,6 +16,7 @@ glottocode: tsha1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Tshanglic > Tshangla"
+wikidata_id: Q36840
 wikipedia_url: "https://en.wikipedia.org/wiki/Tshangla_language"
 translations:
   - translation_iso: ara

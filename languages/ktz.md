@@ -7,12 +7,15 @@ population: 45500
 country_id: NA
 country_name: Namibia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.687995
 longitude: 20.767285
 glottocode: juho1239
 glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > South-Eastern Ju"
+wikidata_id: Q1192295
 wikipedia_url: "https://en.wikipedia.org/wiki/Ju%C7%80%CA%BChoan_language"
 translations:
   - translation_iso: ara

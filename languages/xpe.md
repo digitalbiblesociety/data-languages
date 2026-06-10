@@ -1,5 +1,6 @@
 ---
 iso: xpe
+macrolanguage_id: kpe
 name: Liberia Kpelle
 autonym: Kpɛlɛwoo
 alt_names: [Gbese, Guerze, Kpel(l)e, Kpele, Kpelle, "Kpelle, Liberia", Kpwessi, Liberia, Pessa, Pessy]
@@ -7,12 +8,15 @@ population: 867000
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.92048
 longitude: -9.96128
 glottocode: libe1247
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Kpelle > Liberia Kpelle"
+wikidata_id: Q20527226
 translations:
   - translation_iso: ara
     name: كبيللي ليبيريا

@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.85876
 longitude: 119.67323
 glottocode: unde1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Unde Kaili"
+wikidata_id: Q12953596
 translations:
   - translation_iso: ara
     name: أندي كايلي

@@ -6,9 +6,12 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.52696
 longitude: 139.76623
 glottocode: kapo1250
+wikidata_id: Q3502575
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapori_language"
 translations:
   - translation_iso: ara

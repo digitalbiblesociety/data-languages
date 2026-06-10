@@ -7,12 +7,15 @@ population: 1186
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.59408
 longitude: 142.33033
 glottocode: mini1253
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Minidien"
+wikidata_id: Q6865237
 wikipedia_url: "https://en.wikipedia.org/wiki/Minidien_language"
 translations:
   - translation_iso: ara

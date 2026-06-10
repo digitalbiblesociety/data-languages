@@ -7,12 +7,15 @@ population: 1260
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.76565
 longitude: 125.96468
 glottocode: habu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Habu"
+wikidata_id: Q1567033
 wikipedia_url: "https://en.wikipedia.org/wiki/Habun_language"
 translations:
   - translation_iso: ara

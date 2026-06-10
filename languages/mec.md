@@ -7,12 +7,15 @@ population: 5
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -14.79269
 longitude: 134.865
 glottocode: mara1385
 glottolog_family_id: mang1423
 glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Marra"
+wikidata_id: Q6772774
 wikipedia_url: "https://en.wikipedia.org/wiki/Marra_language"
 translations:
   - translation_iso: ara

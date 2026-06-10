@@ -7,12 +7,15 @@ population: 200
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.35252
 longitude: 75.79538
 glottocode: aran1261
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Aranadan"
+wikidata_id: Q3507928
 wikipedia_url: "https://en.wikipedia.org/wiki/Eranadan_language"
 translations:
   - translation_iso: ara

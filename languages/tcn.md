@@ -7,12 +7,15 @@ population: 2420
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.95064
 longitude: 83.46725
 glottocode: tich1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Dolpo-Tichurong > Tichurong"
+wikidata_id: Q15615594
 wikipedia_url: "https://en.wikipedia.org/wiki/Tichurong_language"
 translations:
   - translation_iso: ara

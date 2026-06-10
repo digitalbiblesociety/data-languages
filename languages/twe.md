@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.37662
 longitude: 124.17361
 glottocode: teiw1235
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Pantar > Teiwa-Sar > Teiwa"
+wikidata_id: Q3519302
 wikipedia_url: "https://en.wikipedia.org/wiki/Teiwa_language"
 translations:
   - translation_iso: ara

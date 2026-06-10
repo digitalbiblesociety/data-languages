@@ -7,12 +7,15 @@ population: 20000
 country_id: TH
 country_name: Thailand
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.49057
 longitude: 104.75429
 glottocode: west2397
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Western Bru-So > Western Bru"
+wikidata_id: Q13018531
 translations:
   - translation_iso: ara
     name: برو الغربية

@@ -7,12 +7,15 @@ population: 6000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.22378
 longitude: 121.4552
 glottocode: gada1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Cagayan-Baliwon Gaddang > Ga'dang"
+wikidata_id: Q5515189
 wikipedia_url: "https://en.wikipedia.org/wiki/Ga%27dang_language"
 translations:
   - translation_iso: ara

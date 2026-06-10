@@ -6,12 +6,15 @@ population: 100
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.55297
 longitude: 92.25339
 glottocode: sent1241
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Sentinel"
+wikidata_id: Q568377
 wikipedia_url: "https://en.wikipedia.org/wiki/Sentinelese_language"
 translations:
   - translation_iso: ara

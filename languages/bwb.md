@@ -7,12 +7,15 @@ population: 1630
 country_id: FJ
 country_name: Fiji
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -18.53081
 longitude: 177.63658
 glottocode: namo1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Western Fijian > Namosi-Naitasiri-Serua"
+wikidata_id: Q3130290
 wikipedia_url: "https://en.wikipedia.org/wiki/Namosi-Naitasiri-Serua_language"
 translations:
   - translation_iso: ara

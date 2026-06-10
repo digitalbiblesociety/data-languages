@@ -7,12 +7,15 @@ population: 2770
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.17469
 longitude: 156.57264
 glottocode: lung1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > West New Georgia > Simboic > Ghanongga-Lungga > Lungga"
+wikidata_id: Q3267590
 wikipedia_url: "https://en.wikipedia.org/wiki/Lungga_language"
 translations:
   - translation_iso: ara

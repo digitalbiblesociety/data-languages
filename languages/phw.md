@@ -6,8 +6,11 @@ population: null
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.15945
 longitude: 87.35371
+wikidata_id: Q12953036
 translations:
   - translation_iso: ara
     name: اللغة فانغدووالي

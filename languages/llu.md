@@ -7,12 +7,15 @@ population: 16900
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.51018
 longitude: 160.87163
 glottocode: lauu1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Lau"
+wikidata_id: Q3218574
 wikipedia_url: "https://en.wikipedia.org/wiki/Lau_language_(Malaita)"
 translations:
   - translation_iso: ara

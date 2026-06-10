@@ -7,12 +7,15 @@ population: 3630
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.07
 longitude: 149.26655
 glottocode: kora1294
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Gaena-Korafe > Korafe-Yegha"
+wikidata_id: Q11732347
 wikipedia_url: "https://en.wikipedia.org/wiki/Korafe_language"
 translations:
   - translation_iso: ara

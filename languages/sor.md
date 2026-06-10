@@ -7,12 +7,15 @@ population: 7410
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.65897
 longitude: 16.67839
 glottocode: somr1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Sarwa-Sumray > Somrai"
+wikidata_id: Q3123566
 wikipedia_url: "https://en.wikipedia.org/wiki/Somrai_language"
 translations:
   - translation_iso: ara

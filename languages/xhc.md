@@ -6,6 +6,9 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q35959
 wikipedia_url: "https://en.wikipedia.org/wiki/Hunnic_language"
 translations:
   - translation_iso: ara

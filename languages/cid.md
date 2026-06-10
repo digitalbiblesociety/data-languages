@@ -6,9 +6,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 41
 longitude: -123
 glottocode: chim1301
+wikidata_id: Q1294251
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimariko_language"
 translations:
   - translation_iso: ara

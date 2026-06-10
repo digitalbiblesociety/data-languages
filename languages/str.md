@@ -7,12 +7,15 @@ population: 3020
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 48.722045
 longitude: -123.03716
 glottocode: stra1244
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Straits Salish > Northern Straits Salish"
+wikidata_id: Q36444
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Straits_Salish_language"
 translations:
   - translation_iso: ara

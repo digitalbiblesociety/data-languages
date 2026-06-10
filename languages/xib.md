@@ -7,9 +7,12 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.62396
 longitude: 0.212401
 glottocode: iber1250
+wikidata_id: Q855215
 wikipedia_url: "https://en.wikipedia.org/wiki/Iberian_language"
 translations:
   - translation_iso: ara

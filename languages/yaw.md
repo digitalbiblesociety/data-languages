@@ -7,12 +7,15 @@ population: 220
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.51038
 longitude: -53.42357
 glottocode: yawa1261
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Yawalapití"
+wikidata_id: Q3450709
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawalapit%C3%AD_language"
 translations:
   - translation_iso: ara

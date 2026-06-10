@@ -7,6 +7,8 @@ population: 116000
 country_id: ER
 country_name: Eritrea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.78326
 longitude: 38.39169
 scripts: [Ethi]
@@ -14,6 +16,7 @@ glottocode: bili1260
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Northeastern Agaw > Bilin"
+wikidata_id: Q56491
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilen_language"
 translations:
   - translation_iso: ara

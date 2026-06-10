@@ -7,12 +7,15 @@ population: 990600
 country_id: TG
 country_name: Togo
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 8.968157
 longitude: 0.495023
 glottocode: kabi1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Kabiyé"
+wikidata_id: Q35475
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabiye_language"
 translations:
   - translation_iso: ara

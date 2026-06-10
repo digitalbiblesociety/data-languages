@@ -7,12 +7,15 @@ population: 427900
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.04616
 longitude: -8.86405
 glottocode: mann1248
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Mann"
+wikidata_id: Q3913286
 wikipedia_url: "https://en.wikipedia.org/wiki/Mano_language"
 translations:
   - translation_iso: ara

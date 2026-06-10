@@ -7,12 +7,15 @@ population: null
 country_id: MY
 country_name: Malaysia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 4.11426
 longitude: 114.02858
 glottocode: lela1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram B > Lelak"
+wikidata_id: Q3229263
 wikipedia_url: "https://en.wikipedia.org/wiki/Lelak_language"
 translations:
   - translation_iso: ara

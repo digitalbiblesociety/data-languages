@@ -7,9 +7,12 @@ population: 7000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.59133
 longitude: 145.03551
 glottocode: pura1257
+wikidata_id: Q3499934
 wikipedia_url: "https://en.wikipedia.org/wiki/Purari_language"
 translations:
   - translation_iso: ara

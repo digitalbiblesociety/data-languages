@@ -7,12 +7,15 @@ population: 1600
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 34.7873
 longitude: -106.66059
 glottocode: sout2961
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Tiwa > Southern Tiwa"
+wikidata_id: Q7570552
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tiwa_language"
 translations:
   - translation_iso: ara

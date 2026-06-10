@@ -7,12 +7,15 @@ population: 30770
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 61.656535
 longitude: 29.072645
 glottocode: livv1243
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > East Ladoga > Livvi"
+wikidata_id: Q36584
 wikipedia_url: "https://en.wikipedia.org/wiki/Livvi-Karelian_language"
 translations:
   - translation_iso: ara

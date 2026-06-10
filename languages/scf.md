@@ -7,8 +7,11 @@ population: null
 country_id: PA
 country_name: Panama
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 8.32601
 longitude: -81.25639
+wikidata_id: Q12953094
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Miguel_Creole"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.54487
 longitude: 142.25459
 glottocode: boga1247
+wikidata_id: Q7207578
 wikipedia_url: "https://en.wikipedia.org/wiki/Pogaya_language"
 translations:
   - translation_iso: ara

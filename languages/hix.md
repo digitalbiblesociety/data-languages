@@ -7,12 +7,15 @@ population: 1200
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -0.16265
 longitude: -58.80153
 glottocode: hixk1239
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Parukotoan > Waiwaian > Hixkaryána"
+wikidata_id: Q56522
 wikipedia_url: "https://en.wikipedia.org/wiki/Hixkaryana_language"
 translations:
   - translation_iso: ara

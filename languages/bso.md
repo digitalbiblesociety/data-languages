@@ -6,8 +6,11 @@ population: 17000
 country_id: TD
 country_name: Chad
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 12.50084
 longitude: 17.60109
+wikidata_id: Q3441370
 wikipedia_url: "https://en.wikipedia.org/wiki/Buso_language"
 translations:
   - translation_iso: ara

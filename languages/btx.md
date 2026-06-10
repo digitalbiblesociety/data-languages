@@ -7,12 +7,15 @@ population: 600000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.12787
 longitude: 98.25166
 glottocode: bata1293
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Karo"
+wikidata_id: Q33012
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Karo_language"
 translations:
   - translation_iso: ara

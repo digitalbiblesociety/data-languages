@@ -7,12 +7,15 @@ population: 1450
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.85489
 longitude: 104.77576
 glottocode: lach1248
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Lachic > Lachi"
+wikidata_id: Q6583606
 wikipedia_url: "https://en.wikipedia.org/wiki/Lachi_language"
 translations:
   - translation_iso: ara

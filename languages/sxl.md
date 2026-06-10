@@ -6,6 +6,9 @@ population: null
 country_id: LV
 country_name: Latvia
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q36491
 wikipedia_url: "https://en.wikipedia.org/wiki/Selonian_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: gry
+macrolanguage_id: grb
 name: Barclayville Grebo
 autonym: Kréébo
 alt_names: [Grebo, "Grebo, Barclayville", Wedebo Grebo]
@@ -7,12 +8,15 @@ population: 23700
 country_id: LR
 country_name: Liberia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.67843
 longitude: -8.09378
 glottocode: barc1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > North-Central Liberian Grebo > Barclayville-Gboloo-Central Liberian Grebo > Barclayville Grebo"
+wikidata_id: Q11157342
 translations:
   - translation_iso: ara
     name: بآركلآيفيللإ غرإبو

@@ -6,12 +6,15 @@ population: 540
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.98259
 longitude: 144.46567
 glottocode: kopa1248
 glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Nor > Kopar"
+wikidata_id: Q11732346
 wikipedia_url: "https://en.wikipedia.org/wiki/Kopar_language"
 translations:
   - translation_iso: ara

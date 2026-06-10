@@ -7,12 +7,15 @@ population: 1100000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.85805
 longitude: 99.89803
 glottocode: bata1291
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Central-Southern Batak > Southern Batak > Angkola-Mandailing > Batak Mandailing"
+wikidata_id: Q2891049
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandailing_Batak_language"
 translations:
   - translation_iso: ara

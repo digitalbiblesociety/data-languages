@@ -7,12 +7,15 @@ population: 4500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.4967
 longitude: 141.65597
 glottocode: faiw1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Tifalic > Faiwol-Seltaman > Faiwol"
+wikidata_id: Q3501773
 wikipedia_url: "https://en.wikipedia.org/wiki/Faiwol_language"
 translations:
   - translation_iso: ara

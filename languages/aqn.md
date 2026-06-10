@@ -7,12 +7,15 @@ population: 200
 country_id: PH
 country_name: Philippines
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 15.6913
 longitude: 121.45394
 glottocode: nort2875
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > Northern Alta"
+wikidata_id: Q7058116
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Alta_language"
 translations:
   - translation_iso: ara

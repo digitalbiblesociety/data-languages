@@ -7,12 +7,15 @@ population: 210
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -20.62709
 longitude: 121.39125
 glottocode: nyan1301
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Marrngu > Nyangumarta"
+wikidata_id: Q33653
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyangumarta_language"
 translations:
   - translation_iso: ara

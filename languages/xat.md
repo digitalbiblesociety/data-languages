@@ -7,12 +7,15 @@ population: 10
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.25015
 longitude: -64.83193
 glottocode: kata1270
 glottolog_family_id: katu1274
 glottolog_family_name: Katukinan
 glottolog_classification: "Katukinan > Katawixi"
+wikidata_id: Q3440512
 wikipedia_url: "https://en.wikipedia.org/wiki/Katawixi_language"
 translations:
   - translation_iso: ara

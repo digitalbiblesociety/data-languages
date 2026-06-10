@@ -6,6 +6,9 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q3098656
 wikipedia_url: "https://en.wikipedia.org/wiki/Garza_language"
 translations:
   - translation_iso: ara

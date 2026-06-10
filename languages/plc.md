@@ -7,12 +7,15 @@ population: 12000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.77013
 longitude: 117.83815
 glottocode: cent2091
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Nuclear Palawan > Central Palawano"
+wikidata_id: Q12953795
 translations:
   - translation_iso: ara
     name: اللغة بالاوانو الوسطى

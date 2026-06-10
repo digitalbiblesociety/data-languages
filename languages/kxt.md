@@ -7,12 +7,15 @@ population: 800
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.03417
 longitude: 143.61954
 glottocode: koiw1243
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Koiwat"
+wikidata_id: Q6426388
 wikipedia_url: "https://en.wikipedia.org/wiki/Koiwat_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 3000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.45912
 longitude: 145.76529
+wikidata_id: Q3352827
 wikipedia_url: "https://en.wikipedia.org/wiki/Ontenu_language"
 translations:
   - translation_iso: ara

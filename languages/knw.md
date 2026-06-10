@@ -7,12 +7,15 @@ population: 1760
 country_id: NA
 country_name: Namibia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -21.92
 longitude: 18
 glottocode: kung1261
 glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > North-Central Ju"
+wikidata_id: Q616533
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekoka_%C7%83Kung"
 translations:
   - translation_iso: ara

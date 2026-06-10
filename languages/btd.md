@@ -7,12 +7,15 @@ population: 1200000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.51438
 longitude: 98.24269
 glottocode: bata1294
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Batakic > Northern Batak > Batak Dairi"
+wikidata_id: Q2891045
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakpak_language"
 translations:
   - translation_iso: ara

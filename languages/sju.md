@@ -7,12 +7,15 @@ population: 1000
 country_id: SE
 country_name: Sweden
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 64.63829
 longitude: 18.64604
 glottocode: umes1235
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Southwestern Saami > Ume Saami"
+wikidata_id: Q56415
 wikipedia_url: "https://en.wikipedia.org/wiki/Ume_S%C3%A1mi"
 translations:
   - translation_iso: ara

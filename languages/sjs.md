@@ -7,12 +7,15 @@ population: 50000
 country_id: MA
 country_name: Morocco
 status_id: 6a
+scope: individual
+language_type: extinct
 latitude: 34.99924
 longitude: -4.51293
 glottocode: senh1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Atlas Berber > Northwestern Moroccan Berber > Senhaja De Srair"
+wikidata_id: Q56744
 wikipedia_url: "https://en.wikipedia.org/wiki/Senhaja_de_Srair_language"
 translations:
   - translation_iso: ara

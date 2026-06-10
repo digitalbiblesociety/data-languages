@@ -7,12 +7,15 @@ population: 65000
 country_id: LA
 country_name: Laos
 status_id: null
+scope: individual
+language_type: living
 latitude: 16.18229
 longitude: 106.4588
 glottocode: nort3270
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Eastern Bru-Katang > Katang > Northern Katang"
+wikidata_id: Q12638175
 translations:
   - translation_iso: ara
     name: جنوب كاتانج

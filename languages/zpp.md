@@ -1,5 +1,6 @@
 ---
 iso: zpp
+macrolanguage_id: zap
 name: El Alto Zapotec
 autonym: (San Pedro el Alto)
 alt_names: [Central Sapoteko, Coyachilla, Coyachilla dialect continuum, South Central Zimatlan Zapotec, Southern Sapoteko, Western Zapotec (non-preferred), Zapotec, "Zapotec, El Alto", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro el Alto, "Zapotèque d'Asunción Tlacolulita", Zimatlán, Zimatlán Zapotec]
@@ -7,12 +8,15 @@ population: 900
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.87424
 longitude: -96.99874
 glottocode: elal1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > West-Central West Zapotec > El Alto Zapotec"
+wikidata_id: Q5350733
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Alto_Zapotec"
 translations:
   - translation_iso: ara

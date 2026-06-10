@@ -7,12 +7,15 @@ population: 62700
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.23023
 longitude: 33.64451
 glottocode: kimb1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Kimbu"
+wikidata_id: Q10997740
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimbu_language"
 translations:
   - translation_iso: ara

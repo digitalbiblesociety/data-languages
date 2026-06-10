@@ -7,12 +7,15 @@ population: 3650
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.87071
 longitude: 149.32055
 glottocode: lamo1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Bibling > Lamogai"
+wikidata_id: Q278365
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamogai_language"
 translations:
   - translation_iso: ara

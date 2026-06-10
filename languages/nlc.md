@@ -7,12 +7,15 @@ population: 16000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.26068
 longitude: 139.88259
 glottocode: nalc1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Northwestern Mek > Nalca"
+wikidata_id: Q6960839
 wikipedia_url: "https://en.wikipedia.org/wiki/Nalca_language"
 translations:
   - translation_iso: ara

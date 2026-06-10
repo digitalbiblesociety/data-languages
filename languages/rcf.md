@@ -7,6 +7,8 @@ population: 595000
 country_id: RE
 country_name: Réunion
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -21.11306
 longitude: 55.53206
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: reun1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Réunion Creole French"
+wikidata_id: Q13198
 wikipedia_url: "https://en.wikipedia.org/wiki/R%C3%A9union_Creole"
 translations:
   - translation_iso: ara

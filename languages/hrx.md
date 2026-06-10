@@ -7,12 +7,15 @@ population: 5000000
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -29.3255
 longitude: -51.7219
 glottocode: riog1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Rhenish Franconian > Hunsrik"
+wikidata_id: Q304049
 wikipedia_url: "https://en.wikipedia.org/wiki/Hunsrik"
 translations:
   - translation_iso: ara

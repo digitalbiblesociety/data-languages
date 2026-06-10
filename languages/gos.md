@@ -7,6 +7,8 @@ population: 262000
 country_id: NL
 country_name: Netherlands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 53.28422
 longitude: 6.698
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: gron1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > West Low German > North Low Saxon > Gronings"
+wikidata_id: Q508854
 wikipedia_url: "https://en.wikipedia.org/wiki/Gronings_dialect"
 translations:
   - translation_iso: ara

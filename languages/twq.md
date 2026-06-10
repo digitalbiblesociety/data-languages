@@ -7,6 +7,8 @@ population: 8000
 country_id: NE
 country_name: Niger
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.78141
 longitude: 6.92037
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tasa1240
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tasawaq"
+wikidata_id: Q36564
 wikipedia_url: "https://en.wikipedia.org/wiki/Tasawaq_language"
 translations:
   - translation_iso: ara

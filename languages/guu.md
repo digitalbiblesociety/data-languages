@@ -7,12 +7,15 @@ population: 16200
 country_id: VE
 country_name: Venezuela
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.679675
 longitude: -64.878075
 glottocode: yano1261
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Yanomam-Yaroame > Yanomam-Yanimamo > Yanomamö"
+wikidata_id: Q8048928
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanomam%C3%B6_language"
 translations:
   - translation_iso: ara

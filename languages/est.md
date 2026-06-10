@@ -1,14 +1,18 @@
 ---
 iso: est
+iso639_1: et
 name: Estonian
 autonym: eesti
 population: 1247230
 country_id: EE
 country_name: Estonia
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: 59.547817
 longitude: 22.820923
 scripts: [Latn]
+wikidata_id: Q9072
 wikipedia_url: "https://en.wikipedia.org/wiki/Estonian_language"
 translations:
   - translation_iso: ara

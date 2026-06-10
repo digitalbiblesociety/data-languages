@@ -7,12 +7,15 @@ population: 5350
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.58358
 longitude: 154.97241
 glottocode: tinp1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Saposa-Tinputz > Tinputzic > Tinputz"
+wikidata_id: Q3529205
 wikipedia_url: "https://en.wikipedia.org/wiki/Tinputz_language"
 translations:
   - translation_iso: ara

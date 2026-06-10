@@ -7,12 +7,15 @@ population: 16
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -18.652882
 longitude: 137.608212
 glottocode: wany1247
 glottolog_family_id: garr1260
 glottolog_family_name: Garrwan
 glottolog_classification: "Garrwan > Wanyi"
+wikidata_id: Q7968201
 wikipedia_url: "https://en.wikipedia.org/wiki/Waanyi_language"
 translations:
   - translation_iso: ara

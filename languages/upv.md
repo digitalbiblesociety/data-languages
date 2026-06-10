@@ -7,12 +7,15 @@ population: 9000
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -16.00951
 longitude: 167.34643
 glottocode: urip1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Uripiv-Wala-Rano-Atchin"
+wikidata_id: Q13249
 wikipedia_url: "https://en.wikipedia.org/wiki/Northeast_Malakula_language"
 translations:
   - translation_iso: ara

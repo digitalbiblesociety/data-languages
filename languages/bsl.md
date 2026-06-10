@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 9.94207
 longitude: 6.58105
 glottocode: basa1280
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Basa > Kontagora-Gumna-Koromba > Gumna-Kontagora > Basa-Gumna"
+wikidata_id: Q4866150
 wikipedia_url: "https://en.wikipedia.org/wiki/Basa-Gumna_language"
 translations:
   - translation_iso: ara

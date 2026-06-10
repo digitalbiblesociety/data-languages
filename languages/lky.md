@@ -7,12 +7,15 @@ population: 12400
 country_id: SS
 country_name: South Sudan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.64724
 longitude: 32.26247
 glottocode: loko1254
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lotuko-Lokoya > Lokoya"
+wikidata_id: Q56687
 wikipedia_url: "https://en.wikipedia.org/wiki/Lokoya_language"
 translations:
   - translation_iso: ara

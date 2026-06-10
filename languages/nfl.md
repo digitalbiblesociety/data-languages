@@ -7,12 +7,15 @@ population: 8400
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.23022
 longitude: 166.21038
 glottocode: ayiw1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Äiwoo"
+wikidata_id: Q56742
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84iwoo_language"
 translations:
   - translation_iso: ara

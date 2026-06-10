@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.9377
 longitude: 6.38295
 glottocode: orum1241
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Inland Ijo > Oruma"
+wikidata_id: Q36299
 wikipedia_url: "https://en.wikipedia.org/wiki/Oruma_language"
 translations:
   - translation_iso: ara

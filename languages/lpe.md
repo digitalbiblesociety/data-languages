@@ -7,12 +7,15 @@ population: 530
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.1059
 longitude: 140.46393
 glottocode: lepk1238
 glottolog_family_id: lepk1239
 glottolog_family_name: Lepki-Murkim-Kembra
 glottolog_classification: "Lepki-Murkim-Kembra > Lepki"
+wikidata_id: Q4259152
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepki_language"
 translations:
   - translation_iso: ara

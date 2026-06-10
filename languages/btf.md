@@ -7,12 +7,15 @@ population: 10400
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.02281
 longitude: 19.81819
 glottocode: birg1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Birgit-Mogum-Toram > Birgit"
+wikidata_id: Q56302
 wikipedia_url: "https://en.wikipedia.org/wiki/Birgit_language"
 translations:
   - translation_iso: ara

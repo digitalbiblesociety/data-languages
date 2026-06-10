@@ -7,12 +7,15 @@ population: 100000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -1.80261
 longitude: 115.87601
 glottocode: lawa1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North East Greater Barito > Lawangan"
+wikidata_id: Q3120345
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawangan_language"
 translations:
   - translation_iso: ara

@@ -6,7 +6,10 @@ population: 46000000
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cyrl, Latn]
+wikidata_id: Q13201
 wikipedia_url: "https://en.wikipedia.org/wiki/Romani_language"
 translations:
   - translation_iso: ara

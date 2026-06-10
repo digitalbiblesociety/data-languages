@@ -7,12 +7,15 @@ population: 49300
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.59906
 longitude: -98.09783
 glottocode: east2556
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Eastern Otomi > Eastern Highland Otomi"
+wikidata_id: Q13581718
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Otomi"
 translations:
   - translation_iso: ara

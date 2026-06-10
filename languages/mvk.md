@@ -6,12 +6,15 @@ population: 1400
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.47017
 longitude: 143.75002
 glottocode: mekm1240
 glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Mekmek"
+wikidata_id: Q6810592
 wikipedia_url: "https://en.wikipedia.org/wiki/Mekmek_language"
 translations:
   - translation_iso: ara

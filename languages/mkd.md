@@ -1,5 +1,6 @@
 ---
 iso: mkd
+iso639_1: mk
 name: Macedonian
 autonym: македонскиmakedonski
 alt_names: [An Mhacadóinis, Macedonian Slavic, Macedoniana linguo, Macedonie leid, Macedonies, Macedonisch, Macedoniu, Macedònic, Macedůńsko godka, Macédonien, Makedonca, Makedonek, Makedoniagiella, Makedonsk, Makedonska, Makedonski, Makedońska rěc, Makedónska, Makidunya simi, Mazedoniera, Slavic, Забони мақдунӣ, Макєдо́ньскъ ѩꙁꙑ́къ, מקדונית, ماكېدون تىلى]
@@ -7,6 +8,8 @@ population: 1713880
 country_id: MK
 country_name: North Macedonia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 41.595727
 longitude: 21.793212
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: mace1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Eastern South Slavic > Macedo-Bulgarian > Macedonian"
+wikidata_id: Q9296
 wikipedia_url: "https://en.wikipedia.org/wiki/Macedonian_language"
 translations:
   - translation_iso: ara

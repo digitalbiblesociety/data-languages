@@ -7,12 +7,15 @@ population: 1000
 country_id: BT
 country_name: Bhutan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.20788
 longitude: 90.55462
 glottocode: olek1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Olekha"
+wikidata_id: Q3695204
 wikipedia_url: "https://en.wikipedia.org/wiki/%CA%BCOle_language"
 translations:
   - translation_iso: ara

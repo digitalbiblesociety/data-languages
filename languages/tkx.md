@@ -7,12 +7,15 @@ population: 100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.13343
 longitude: 140.26914
 glottocode: tang1353
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Tangko-Nakai > Tangko"
+wikidata_id: Q7682993
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangko_language"
 translations:
   - translation_iso: ara

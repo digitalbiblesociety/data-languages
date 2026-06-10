@@ -7,12 +7,15 @@ population: 4500
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.57953
 longitude: 169.35603
 glottocode: sout2869
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Southern Tanna > Southwest Tanna"
+wikidata_id: Q3504488
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwest_Tanna_language"
 translations:
   - translation_iso: ara

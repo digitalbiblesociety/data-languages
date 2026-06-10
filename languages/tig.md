@@ -7,6 +7,8 @@ population: 1359000
 country_id: ER
 country_name: Eritrea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 17.34943
 longitude: 38.22327
 scripts: [Ethi]
@@ -14,6 +16,7 @@ glottocode: tigr1270
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Tigre-Dahalik > Tigre"
+wikidata_id: Q34129
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigre_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.4746
 longitude: 122.7619
 glottocode: lara1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Larantuka Malay"
+wikidata_id: Q6488691
 wikipedia_url: "https://en.wikipedia.org/wiki/Larantuka_Malay"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -36.5
 longitude: 140.5
 glottocode: bung1264
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Warrnambool-Bunganditj > Bunganditj"
+wikidata_id: Q4997615
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungandidj_language"
 translations:
   - translation_iso: ara

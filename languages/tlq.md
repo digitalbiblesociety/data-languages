@@ -7,12 +7,15 @@ population: 4460
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.429325
 longitude: 100.985135
 glottocode: tail1246
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > Southern Angkuic > Muak"
+wikidata_id: Q7675784
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Loi_language"
 translations:
   - translation_iso: ara

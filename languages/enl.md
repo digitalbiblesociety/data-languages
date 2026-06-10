@@ -7,12 +7,15 @@ population: 6440
 country_id: PY
 country_name: Paraguay
 status_id: null
+scope: individual
+language_type: living
 latitude: -22.54
 longitude: -58.98
 glottocode: nort2971
 glottolog_family_id: leng1261
 glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Lengua > Enlhet Norte"
+wikidata_id: Q15462671
 wikipedia_url: "https://en.wikipedia.org/wiki/Enlhet_language"
 translations:
   - translation_iso: ara

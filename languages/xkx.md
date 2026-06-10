@@ -6,12 +6,15 @@ population: 550
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.15563
 longitude: 149.90664
 glottocode: karo1298
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Karore"
+wikidata_id: Q6373260
 wikipedia_url: "https://en.wikipedia.org/wiki/Karore_language"
 translations:
   - translation_iso: ara

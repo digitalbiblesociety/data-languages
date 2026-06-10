@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -12.53236
 longitude: 141.93798
 glottocode: alng1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Linngithigh-Alngith > Alngith"
+wikidata_id: Q3279409
 wikipedia_url: "https://en.wikipedia.org/wiki/Alngith_dialect"
 translations:
   - translation_iso: ara

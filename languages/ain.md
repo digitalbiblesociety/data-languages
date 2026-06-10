@@ -7,6 +7,8 @@ population: 13000
 country_id: JP
 country_name: Japan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 47.23322
 longitude: 142.87401
 scripts: [Kana, Latn]
@@ -14,6 +16,7 @@ glottocode: ainu1240
 glottolog_family_id: ainu1252
 glottolog_family_name: Ainu
 glottolog_classification: "Ainu > Hokkaido-Kuril Ainu > Hokkaido Ainu"
+wikidata_id: Q27969
 wikipedia_url: "https://en.wikipedia.org/wiki/Ainu_language"
 translations:
   - translation_iso: ara

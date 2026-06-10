@@ -1,11 +1,15 @@
 ---
 iso: cls
+macrolanguage_id: san
 name: Classical Sanskrit
 autonym: संस्कृत, संस्कृतम्
 country_id: IN
 country_name: India
+scope: individual
+language_type: historical
 latitude: 20
 longitude: 77
+wikidata_id: Q9333703
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Sanskrit"
 translations:
   - translation_iso: ara

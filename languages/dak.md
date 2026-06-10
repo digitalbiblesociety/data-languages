@@ -7,6 +7,8 @@ population: 290
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 47.68571
 longitude: -102.11973
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: dako1258
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Sioux > Dakota"
+wikidata_id: Q530384
 wikipedia_url: "https://en.wikipedia.org/wiki/Dakota_language"
 translations:
   - translation_iso: ara

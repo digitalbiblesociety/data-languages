@@ -6,12 +6,15 @@ population: 21800
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 29.45587
 longitude: 80.37881
 glottocode: majh1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Unclassified Tharu > Majhi"
+wikidata_id: Q6737786
 wikipedia_url: "https://en.wikipedia.org/wiki/Majhi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.62784
 longitude: 10.23776
 glottocode: naki1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Nakic > Naki"
+wikidata_id: Q36083
 wikipedia_url: "https://en.wikipedia.org/wiki/Naki_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 546000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.81422
 longitude: 31.837595
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: nobi1240
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Nile Nubian > Nobiin Nubian > Nobiin"
+wikidata_id: Q36503
 wikipedia_url: "https://en.wikipedia.org/wiki/Nobiin"
 translations:
   - translation_iso: ara

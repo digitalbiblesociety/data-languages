@@ -1,5 +1,6 @@
 ---
 iso: hoj
+macrolanguage_id: raj
 name: Hadothi
 autonym: Hadoti
 alt_names: [Hadauti, Harauti, Harauti language, Haroti, Havauti, Piploda]
@@ -7,6 +8,8 @@ population: 2940000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.85464
 longitude: 75.83659
 scripts: [Deva]
@@ -14,6 +17,7 @@ glottocode: hado1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Eastern Rajasthani > Hadothi"
+wikidata_id: Q33227
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadauti_language"
 translations:
   - translation_iso: ara

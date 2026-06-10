@@ -6,12 +6,15 @@ population: 4
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -10.22877
 longitude: 149.10098
 glottocode: ouma1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Ouma"
+wikidata_id: Q7110494
 wikipedia_url: "https://en.wikipedia.org/wiki/Ouma_language"
 translations:
   - translation_iso: ara

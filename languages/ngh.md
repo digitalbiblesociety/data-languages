@@ -7,12 +7,15 @@ population: 500
 country_id: ZA
 country_name: South Africa
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -29.70543
 longitude: 19.08408
 glottocode: nngg1234
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Ghaap-Kalahari > N||ng"
+wikidata_id: Q2618974
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C7%81ng_language"
 translations:
   - translation_iso: ara

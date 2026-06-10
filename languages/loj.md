@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.38659
 longitude: 147.34554
 glottocode: louu1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lou-Paluai > Lou"
+wikidata_id: Q3260104
 wikipedia_url: "https://en.wikipedia.org/wiki/Lou_language_(Austronesian)"
 translations:
   - translation_iso: ara

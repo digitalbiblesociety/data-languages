@@ -7,12 +7,15 @@ population: 9970
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.50417
 longitude: 140.44268
 glottocode: kete1254
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Eastern Mek > Ketengban"
+wikidata_id: Q10990152
 wikipedia_url: "https://en.wikipedia.org/wiki/Ketengban_language"
 translations:
   - translation_iso: ara

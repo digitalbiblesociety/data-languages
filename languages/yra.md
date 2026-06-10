@@ -7,9 +7,12 @@ population: 380
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.28828
 longitude: 142.94708
 glottocode: yera1243
+wikidata_id: Q8052531
 wikipedia_url: "https://en.wikipedia.org/wiki/Yerakai_language"
 translations:
   - translation_iso: ara

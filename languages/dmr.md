@@ -7,12 +7,15 @@ population: 2800
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.16991
 longitude: 128.6357
 glottocode: east2472
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > East Damar"
+wikidata_id: Q5328200
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Damar_language"
 translations:
   - translation_iso: ara

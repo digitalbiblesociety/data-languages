@@ -7,12 +7,15 @@ population: 15000
 country_id: PE
 country_name: Peru
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.5
 longitude: -74
 glottocode: coca1259
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Omagua-Kokama > Cocama-Cocamilla"
+wikidata_id: Q33317
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocama_language"
 translations:
   - translation_iso: ara

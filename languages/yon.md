@@ -7,12 +7,15 @@ population: 6000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.42956
 longitude: 141.21262
 glottocode: yong1280
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Division A Lowland Ok > Yonggom"
+wikidata_id: Q8055002
 wikipedia_url: "https://en.wikipedia.org/wiki/Yonggom_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 2030
 country_id: NU
 country_name: Niue
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -19.05
 longitude: -170.12
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: niue1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Tongic > Niuean"
+wikidata_id: Q33790
 wikipedia_url: "https://en.wikipedia.org/wiki/Niuean_language"
 translations:
   - translation_iso: ara

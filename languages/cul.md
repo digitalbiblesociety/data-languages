@@ -7,12 +7,15 @@ population: 3420
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.55268
 longitude: -70.66485
 glottocode: culi1244
 glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madiha > Culina"
+wikidata_id: Q2475442
 wikipedia_url: "https://en.wikipedia.org/wiki/Kulina_language"
 translations:
   - translation_iso: ara

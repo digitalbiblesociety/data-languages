@@ -7,12 +7,15 @@ population: 2041
 country_id: PH
 country_name: Philippines
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.11148
 longitude: 119.02539
 glottocode: bata1301
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Aborlanic > Batak"
+wikidata_id: Q3450443
 wikipedia_url: "https://en.wikipedia.org/wiki/Batak_language_(Philippines)"
 translations:
   - translation_iso: ara

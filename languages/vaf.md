@@ -7,12 +7,15 @@ population: 18000
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 34.53095
 longitude: 50.00127
 glottocode: vafs1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Vafsic > Vafsi"
+wikidata_id: Q32611
 wikipedia_url: "https://en.wikipedia.org/wiki/Vafsi_dialect"
 translations:
   - translation_iso: ara

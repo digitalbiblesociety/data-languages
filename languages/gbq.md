@@ -1,5 +1,6 @@
 ---
 iso: gbq
+macrolanguage_id: gba
 name: "Gbaya-Bozoum"
 autonym: Bozom
 alt_names: [Gbaya, Gbaya de Bozoum]
@@ -7,12 +8,15 @@ population: 32500
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.9879
 longitude: 16.46427
 glottocode: gbay1286
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbaya-Bozoum"
+wikidata_id: Q4952879
 wikipedia_url: "https://en.wikipedia.org/wiki/Bozom_language"
 translations:
   - translation_iso: ara

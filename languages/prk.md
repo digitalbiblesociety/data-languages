@@ -7,12 +7,15 @@ population: 805700
 country_id: MM
 country_name: Myanmar
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 22.865825
 longitude: 99.375035
 glottocode: para1301
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > South Wa"
+wikidata_id: Q3363719
 translations:
   - translation_iso: ara
     name: اللغة باراوك

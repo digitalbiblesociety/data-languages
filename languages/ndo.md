@@ -1,5 +1,6 @@
 ---
 iso: ndo
+iso639_1: ng
 name: Ndonga
 autonym: ndonga
 alt_names: [Ambo, Ochindonga, Oshidonga, Oshindonga, Oshinonga, Oshiwambo, Osindonga, Otjiwambo, Owambo, Ндонга]
@@ -7,6 +8,8 @@ population: 279000
 country_id: NA
 country_name: Namibia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -17.64172
 longitude: 19.163085
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: ndon1254
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Kwambi-Ndonga > Ndonga"
+wikidata_id: Q33900
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndonga"
 translations:
   - translation_iso: ara

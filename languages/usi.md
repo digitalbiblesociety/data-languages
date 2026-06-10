@@ -7,12 +7,15 @@ population: 22400
 country_id: BD
 country_name: Bangladesh
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.01305
 longitude: 91.78792
 glottocode: usui1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Usui"
+wikidata_id: Q12644231
 wikipedia_url: "https://en.wikipedia.org/wiki/Usui_language"
 translations:
   - translation_iso: ara

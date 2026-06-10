@@ -6,10 +6,13 @@ population: null
 country_id: KR
 country_name: South Korea
 status_id: null
+scope: individual
+language_type: historical
 glottocode: kogu1234
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Koguryo"
+wikidata_id: Q706327
 wikipedia_url: "https://en.wikipedia.org/wiki/Goguryeo_language"
 translations:
   - translation_iso: ara

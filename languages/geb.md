@@ -7,12 +7,15 @@ population: 2420
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.25927
 longitude: 144.71096
 glottocode: kire1240
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Kire"
+wikidata_id: Q11129733
 wikipedia_url: "https://en.wikipedia.org/wiki/Kire_language"
 translations:
   - translation_iso: ara

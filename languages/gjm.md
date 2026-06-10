@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -38.155612905976
 longitude: 141.53965852318
 glottocode: warr1257
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Warrnambool-Bunganditj > Warrnambool"
+wikidata_id: Q6448731
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhauwurd_Wurrung_language"
 translations:
   - translation_iso: ara

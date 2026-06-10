@@ -7,12 +7,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 40.2638
 longitude: -3.68704
 glottocode: quin1236
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Quinqui"
+wikidata_id: Q5908714
 wikipedia_url: "https://en.wikipedia.org/wiki/Quinqui_jargon"
 translations:
   - translation_iso: ara

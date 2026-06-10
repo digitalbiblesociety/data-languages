@@ -7,12 +7,15 @@ population: 67000
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 24.75642
 longitude: 125.36309
 glottocode: miya1259
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Miyako"
+wikidata_id: Q36218
 wikipedia_url: "https://en.wikipedia.org/wiki/Miyakoan_language"
 translations:
   - translation_iso: ara

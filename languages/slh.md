@@ -7,12 +7,15 @@ population: 1315
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 47.26303
 longitude: -122.14073
 glottocode: sout2965
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Lushootseed-Puget > Southern Puget Sound Salish"
+wikidata_id: Q7997684
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Lushootseed"
 translations:
   - translation_iso: ara

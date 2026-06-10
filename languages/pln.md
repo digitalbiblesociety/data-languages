@@ -7,12 +7,15 @@ population: 3500
 country_id: CO
 country_name: Colombia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.38807
 longitude: -75.29491
 glottocode: pale1260
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Palenquero"
+wikidata_id: Q36665
 wikipedia_url: "https://en.wikipedia.org/wiki/Palenquero"
 translations:
   - translation_iso: ara

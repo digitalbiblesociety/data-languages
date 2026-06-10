@@ -7,12 +7,15 @@ population: 180
 country_id: KH
 country_name: Cambodia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.87391
 longitude: 103.83516
 glottocode: saoc1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Southern Chong > Sa'och"
+wikidata_id: Q6583617
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%27och_language"
 translations:
   - translation_iso: ara

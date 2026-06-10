@@ -7,12 +7,15 @@ population: 1200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.01718
 longitude: 143.13858
 glottocode: gaik1242
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Burui-Gaikundi > Gaikundi"
+wikidata_id: Q5517032
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaikundi_language"
 translations:
   - translation_iso: ara

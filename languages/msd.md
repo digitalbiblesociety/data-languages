@@ -7,12 +7,15 @@ population: 500
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.49999
 longitude: -88.99999
 glottocode: yuca1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Meemul-Tziij > Yucatec Maya Sign Language"
+wikidata_id: Q34281
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayan_Sign_Language"
 translations:
   - translation_iso: ara

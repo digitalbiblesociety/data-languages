@@ -6,6 +6,9 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
+wikidata_id: Q3336118
 wikipedia_url: "https://en.wikipedia.org/wiki/Narragansett_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 49900
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.52612
 longitude: 17.51464
 glottocode: dayy1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Day"
+wikidata_id: Q35163
 wikipedia_url: "https://en.wikipedia.org/wiki/Day_language"
 translations:
   - translation_iso: ara

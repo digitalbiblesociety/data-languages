@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.6996
 longitude: 119.75974
 glottocode: mali1283
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Tamanic-Bugis > Bugis > Malimpung"
+wikidata_id: Q12473435
 wikipedia_url: "https://en.wikipedia.org/wiki/Malimpung_language"
 translations:
   - translation_iso: ara

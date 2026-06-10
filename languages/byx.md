@@ -7,12 +7,15 @@ population: 6350
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.45258
 longitude: 151.70192
 glottocode: qaqe1238
 glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Qaqet"
+wikidata_id: Q3503009
 wikipedia_url: "https://en.wikipedia.org/wiki/Qaqet_language"
 translations:
   - translation_iso: ara

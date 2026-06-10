@@ -7,6 +7,9 @@ population: 4000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
+wikidata_id: Q7379867
 wikipedia_url: "https://en.wikipedia.org/wiki/Rungtu_language"
 translations:
   - translation_iso: ara

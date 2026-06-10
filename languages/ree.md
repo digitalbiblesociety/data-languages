@@ -7,12 +7,15 @@ population: 3030
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.71903
 longitude: 114.16931
 glottocode: reja1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Rejang-Makaham Kayan > Rejang Kayan"
+wikidata_id: Q3423957
 translations:
   - translation_iso: ara
     name: ريجانج كايان

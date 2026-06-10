@@ -7,12 +7,15 @@ population: 1109300
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.67107
 longitude: 1.284893
 glottocode: gour1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Gourmanchéma"
+wikidata_id: Q35474
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurmantche_language"
 translations:
   - translation_iso: ara

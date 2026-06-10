@@ -7,6 +7,8 @@ population: 148000
 country_id: US
 country_name: United States
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 47.33412
 longitude: -87.80644
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: penn1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Rhenish Franconian > Palatinate > Pennsylvania German"
+wikidata_id: Q22711
 wikipedia_url: "https://en.wikipedia.org/wiki/Pennsylvania_Dutch_language"
 translations:
   - translation_iso: ara

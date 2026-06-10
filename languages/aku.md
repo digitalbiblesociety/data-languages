@@ -7,12 +7,15 @@ population: 1400
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.85716
 longitude: 9.962605
 glottocode: akum1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Akum-Beezen > Akum"
+wikidata_id: Q34799
 wikipedia_url: "https://en.wikipedia.org/wiki/Akum_language"
 translations:
   - translation_iso: ara

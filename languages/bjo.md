@@ -7,12 +7,15 @@ population: 102000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.878933
 longitude: 22.46664
 glottocode: mids1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Lindaic > Mid-Southern Banda"
+wikidata_id: Q42303990
 translations:
   - translation_iso: ara
     name: باندا منتصف جنوبية

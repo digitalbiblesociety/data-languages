@@ -6,12 +6,15 @@ population: 120
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -3.87428
 longitude: 140.80325
 glottocode: towe1240
 glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Western Pauwasi > Towei"
+wikidata_id: Q7829606
 wikipedia_url: "https://en.wikipedia.org/wiki/Towei_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 34.461957
 longitude: -119.699249
 glottocode: barb1263
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Barbareño"
+wikidata_id: Q56391
 wikipedia_url: "https://en.wikipedia.org/wiki/Barbare%C3%B1o_language"
 translations:
   - translation_iso: ara

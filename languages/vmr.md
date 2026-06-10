@@ -7,12 +7,15 @@ population: 588000
 country_id: MZ
 country_name: Mozambique
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -16.21286
 longitude: 35.7425
 glottocode: mare1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Marenje"
+wikidata_id: Q11128833
 translations:
   - translation_iso: ara
     name: مارنجي

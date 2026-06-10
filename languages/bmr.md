@@ -7,12 +7,15 @@ population: 150
 country_id: CO
 country_name: Colombia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -0.8652
 longitude: -72.42495
 glottocode: muin1242
 glottolog_family_id: bora1262
 glottolog_family_name: Boran
 glottolog_classification: "Boran > Muinane"
+wikidata_id: Q3027894
 wikipedia_url: "https://en.wikipedia.org/wiki/Muinane_language"
 translations:
   - translation_iso: ara

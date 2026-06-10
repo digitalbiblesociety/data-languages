@@ -7,12 +7,15 @@ population: 100
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 60.38443
 longitude: 165.65285
 glottocode: alut1245
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > Alutor"
+wikidata_id: Q28213
 wikipedia_url: "https://en.wikipedia.org/wiki/Alyutor_language"
 translations:
   - translation_iso: ara

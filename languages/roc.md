@@ -7,12 +7,15 @@ population: 3000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.64895
 longitude: 109.13813
 glottocode: cacg1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Chruic > Cacgia Roglai"
+wikidata_id: Q2932485
 translations:
   - translation_iso: ara
     name: كاجيا روجلاي

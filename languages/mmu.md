@@ -7,12 +7,15 @@ population: 5300
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.52188
 longitude: 11.05987
 glottocode: mmaa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Yambassa (A.60) > Mmala-Elip-Gunu > Mmaala"
+wikidata_id: Q13123461
 translations:
   - translation_iso: ara
     name: لغة مّالا

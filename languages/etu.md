@@ -7,12 +7,15 @@ population: 116700
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.54442
 longitude: 8.90959
 glottocode: ejag1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Ejagham"
+wikidata_id: Q35296
 wikipedia_url: "https://en.wikipedia.org/wiki/Jagham_language"
 translations:
   - translation_iso: ara

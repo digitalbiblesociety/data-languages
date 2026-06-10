@@ -7,12 +7,15 @@ population: 67300
 country_id: SR
 country_name: Suriname
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.3126
 longitude: -54.641915
 glottocode: ndyu1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Eastern Maroons > Ndyuka > Aukan"
+wikidata_id: Q2659044
 translations:
   - translation_iso: ara
     name: إيسترن مارون كريول

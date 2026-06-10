@@ -7,12 +7,15 @@ population: 1940000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.02245
 longitude: 30.86417
 glottocode: lugb1240
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Lugbaric > Lugbara"
+wikidata_id: Q3272737
 wikipedia_url: "https://en.wikipedia.org/wiki/Lugbara_language"
 translations:
   - translation_iso: ara

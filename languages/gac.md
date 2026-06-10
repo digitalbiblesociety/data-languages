@@ -7,6 +7,9 @@ population: null
 country_id: IN
 country_name: India
 status_id: 8b
+scope: individual
+language_type: living
+wikidata_id: Q56329630
 wikipedia_url: "https://en.wikipedia.org/wiki/Mixed_Great_Andamanese"
 translations:
   - translation_iso: ara

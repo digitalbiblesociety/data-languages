@@ -6,12 +6,15 @@ population: 1330
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.25738
 longitude: 168.15868
 glottocode: baet1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Maewo > Baetora"
+wikidata_id: Q2878874
 wikipedia_url: "https://en.wikipedia.org/wiki/Baetora_language"
 translations:
   - translation_iso: ara

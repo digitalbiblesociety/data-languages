@@ -7,12 +7,15 @@ population: 691000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.45157
 longitude: 34.27614
 glottocode: kara1483
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Karamojong"
+wikidata_id: Q56326
 wikipedia_url: "https://en.wikipedia.org/wiki/Karamojong_language"
 translations:
   - translation_iso: ara

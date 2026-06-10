@@ -6,12 +6,15 @@ population: 10000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.1881
 longitude: 122.11786
 glottocode: kasi1256
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Tagalogic > Kasiguranin"
+wikidata_id: Q6374525
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasiguranin"
 translations:
   - translation_iso: ara

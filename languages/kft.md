@@ -7,12 +7,15 @@ population: 91200
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.69995
 longitude: 74.7355
 glottocode: kanj1259
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewaric > Kanjari"
+wikidata_id: Q12953610
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanjari_language"
 translations:
   - translation_iso: ara

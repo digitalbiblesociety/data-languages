@@ -7,12 +7,15 @@ population: 1000
 country_id: PH
 country_name: Philippines
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.41534
 longitude: 120.48961
 glottocode: bata1297
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Bataan Ayta"
+wikidata_id: Q4921648
 wikipedia_url: "https://en.wikipedia.org/wiki/Marivele%C3%B1o_language"
 translations:
   - translation_iso: ara

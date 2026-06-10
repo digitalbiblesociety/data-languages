@@ -7,12 +7,15 @@ population: 1000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.70362
 longitude: 17.81346
 glottocode: niel1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Bua-Lua > Niellim"
+wikidata_id: Q33662
 wikipedia_url: "https://en.wikipedia.org/wiki/Niellim_language"
 translations:
   - translation_iso: ara

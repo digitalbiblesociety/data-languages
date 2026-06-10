@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.7871
 longitude: 132.66326
 glottocode: karo1303
 glottolog_family_id: mayb1237
 glottolog_family_name: Maybratic
 glottolog_classification: "Maybratic > Karon Dori"
+wikidata_id: Q56817
 wikipedia_url: "https://en.wikipedia.org/wiki/Karon_Dori_language"
 translations:
   - translation_iso: ara

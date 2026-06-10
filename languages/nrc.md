@@ -7,12 +7,15 @@ population: null
 country_id: AT
 country_name: Austria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 46.419444
 longitude: 15.869444
 glottocode: nori1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Continental Transalpine Celtic > Unclassified Continental Transalpine Celtic > Noric"
+wikidata_id: Q37023
 wikipedia_url: "https://en.wikipedia.org/wiki/Noric_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.58018
 longitude: 142.65316
 glottocode: urim1252
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Urim"
+wikidata_id: Q7900609
 wikipedia_url: "https://en.wikipedia.org/wiki/Urim_language"
 translations:
   - translation_iso: ara

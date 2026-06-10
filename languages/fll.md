@@ -7,12 +7,15 @@ population: 16000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.9249
 longitude: 13.65675
 glottocode: nort2770
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Adamawa Fali > North Fali"
+wikidata_id: Q12952419
 translations:
   - translation_iso: ara
     name: الفالي

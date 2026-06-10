@@ -7,12 +7,15 @@ population: 3020
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 32.33
 longitude: 34.75
 glottocode: jude1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Caucasian Tat > Judeo-Tat"
+wikidata_id: Q56495
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Tat"
 translations:
   - translation_iso: ara

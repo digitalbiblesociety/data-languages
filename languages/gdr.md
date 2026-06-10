@@ -7,12 +7,15 @@ population: 3500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.79741
 longitude: 143.06403
 glottocode: wipi1242
 glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Wipi"
+wikidata_id: Q8026711
 wikipedia_url: "https://en.wikipedia.org/wiki/Wipi_language"
 translations:
   - translation_iso: ara

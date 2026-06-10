@@ -6,12 +6,15 @@ population: 11000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -9.93
 longitude: 34.48254
 glottocode: kisi1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Kisi-Pangwa > Kisi"
+wikidata_id: Q3912772
 wikipedia_url: "https://en.wikipedia.org/wiki/Kisi_language_(Tanzania)"
 translations:
   - translation_iso: ara

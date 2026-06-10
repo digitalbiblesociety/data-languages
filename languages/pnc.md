@@ -7,12 +7,15 @@ population: 9000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.21973
 longitude: 119.19136
 glottocode: pann1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Pannei"
+wikidata_id: Q7131391
 wikipedia_url: "https://en.wikipedia.org/wiki/Pannei_language"
 translations:
   - translation_iso: ara

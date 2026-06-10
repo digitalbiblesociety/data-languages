@@ -7,9 +7,12 @@ population: 4000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.27
 longitude: 92.63
 glottocode: hrus1242
+wikidata_id: Q5923933
 wikipedia_url: "https://en.wikipedia.org/wiki/Hruso_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 107000
 country_id: GH
 country_name: Ghana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.9367
 longitude: -0.07822
 glottocode: lart1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Hill South Guang > Larteh"
+wikidata_id: Q35639
 wikipedia_url: "https://en.wikipedia.org/wiki/Larteh_language"
 translations:
   - translation_iso: ara

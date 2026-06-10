@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -33.52925837
 longitude: 150.3490464
 glottocode: sydn1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Sydney-Hawkesbury > Sydney"
+wikidata_id: Q1166814
 wikipedia_url: "https://en.wikipedia.org/wiki/Dharug_language"
 translations:
   - translation_iso: ara

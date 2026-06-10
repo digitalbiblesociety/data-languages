@@ -7,12 +7,15 @@ population: 115000
 country_id: TZ
 country_name: Tanzania
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -1.83511
 longitude: 33.04883
 glottocode: kara1481
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Suguti > Kara (Tanzania)"
+wikidata_id: Q6367567
 wikipedia_url: "https://en.wikipedia.org/wiki/Kara_language_(Tanzania)"
 translations:
   - translation_iso: ara

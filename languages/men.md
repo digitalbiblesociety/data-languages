@@ -7,6 +7,8 @@ population: 2111600
 country_id: SL
 country_name: Sierra Leone
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 7.90935
 longitude: -10.992585
 scripts: [Latn, Mend]
@@ -14,6 +16,7 @@ glottocode: mend1266
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Mende-Loko > Mende (Sierra Leone)"
+wikidata_id: Q1478672
 wikipedia_url: "https://en.wikipedia.org/wiki/Mende_language"
 translations:
   - translation_iso: ara

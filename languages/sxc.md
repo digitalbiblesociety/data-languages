@@ -6,12 +6,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.53147
 longitude: 13.51352
 glottocode: sica1234
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Sicana"
+wikidata_id: Q36335
 translations:
   - translation_iso: ara
     name: سيكاني

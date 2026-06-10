@@ -7,9 +7,12 @@ population: 3000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.09387
 longitude: 143.30513
 glottocode: tabo1241
+wikidata_id: Q7959888
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabo_language"
 translations:
   - translation_iso: ara

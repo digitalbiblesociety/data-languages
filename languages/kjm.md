@@ -7,12 +7,15 @@ population: 3920
 country_id: VN
 country_name: Vietnam
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 21.66243
 longitude: 103.73637
 glottocode: khan1274
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Khao-Bit > Kháng"
+wikidata_id: Q6403501
 wikipedia_url: "https://en.wikipedia.org/wiki/Kh%C3%A1ng_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3500
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -17.68407
 longitude: 168.27482
 glottocode: mele1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Mele-Futuna > Mele-Fila"
+wikidata_id: Q3305008
 wikipedia_url: "https://en.wikipedia.org/wiki/Mele-Fila_language"
 translations:
   - translation_iso: ara

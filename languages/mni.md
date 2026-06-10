@@ -7,6 +7,8 @@ population: 1775000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 24.440857
 longitude: 93.342623
 scripts: [Beng, Mtei]
@@ -14,6 +16,7 @@ glottocode: mani1292
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Manipuri"
+wikidata_id: Q33868
 wikipedia_url: "https://en.wikipedia.org/wiki/Meitei_language"
 translations:
   - translation_iso: ara

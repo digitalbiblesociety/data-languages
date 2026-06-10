@@ -1,5 +1,6 @@
 ---
 iso: mya
+iso639_1: my
 name: Burmese
 autonym: Myanmar
 alt_names: [(Colloquial) Burmese, Bama, Bamachaka, Birmaans, Birman, Birmanisk, Birmanu simi, Birmà, Burmaca, Burmeg, Burmesisk, Burmesiska, Búrmíska, Bāmā(-čaka), Myen, بورمى, بىرما تىلى, বর্মী ঠার, འབར་མའི་སྐད།]
@@ -7,6 +8,8 @@ population: 32900000
 country_id: MM
 country_name: Myanmar
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 20.792575
 longitude: 93.96649
 scripts: [Mymr]
@@ -14,6 +17,7 @@ glottocode: nucl1310
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Burmese"
+wikidata_id: Q9228
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3500
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.25105
 longitude: 13.52578
 glottocode: jimi1254
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Jimi (Cameroon)"
+wikidata_id: Q56288
 wikipedia_url: "https://en.wikipedia.org/wiki/Jimi_language_(Cameroon)"
 translations:
   - translation_iso: ara

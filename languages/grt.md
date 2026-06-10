@@ -7,6 +7,8 @@ population: 1270000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 25.295365
 longitude: 90.46198
 scripts: [Beng]
@@ -14,6 +16,7 @@ glottocode: garo1247
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Garo"
+wikidata_id: Q36137
 wikipedia_url: "https://en.wikipedia.org/wiki/Garo_language"
 translations:
   - translation_iso: ara

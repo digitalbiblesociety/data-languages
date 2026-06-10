@@ -7,12 +7,15 @@ population: 75000
 country_id: SD
 country_name: Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.84227
 longitude: 29.49142
 glottocode: katc1249
 glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Katcha-Kadugli-Miri-Kanga > Katcha-Kadugli-Miri"
+wikidata_id: Q3407136
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadugli_language"
 translations:
   - translation_iso: ara

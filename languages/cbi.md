@@ -7,12 +7,15 @@ population: 5870
 country_id: EC
 country_name: Ecuador
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.71489
 longitude: -79.0508
 glottocode: chac1249
 glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Awa-Southern Barbacoan > Cayapa-Colorado > Cha'palaa"
+wikidata_id: Q2591329
 wikipedia_url: "https://en.wikipedia.org/wiki/Cha%CA%BCpalaa_language"
 translations:
   - translation_iso: ara

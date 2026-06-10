@@ -7,12 +7,15 @@ population: 3700
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.4793
 longitude: 94.34214
 glottocode: moyo1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Moyon-Monsang Naga > Moyon"
+wikidata_id: Q6927748
 wikipedia_url: "https://en.wikipedia.org/wiki/Moyon_language"
 translations:
   - translation_iso: ara

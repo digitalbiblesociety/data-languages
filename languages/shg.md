@@ -7,12 +7,15 @@ population: 100
 country_id: BW
 country_name: Botswana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -21.51998
 longitude: 26.02385
 glottocode: shua1254
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > Ost-Kxoe > Shua"
+wikidata_id: Q3501092
 wikipedia_url: "https://en.wikipedia.org/wiki/Shua_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.36349
 longitude: 139.16433
 glottocode: hupl1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Central Dani > Grand Valley Dani > Southeast Grand Valley Dani > Hupla"
+wikidata_id: Q5946223
 wikipedia_url: "https://en.wikipedia.org/wiki/Hupla_language"
 translations:
   - translation_iso: ara

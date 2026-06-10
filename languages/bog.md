@@ -7,12 +7,15 @@ population: 25000
 country_id: ML
 country_name: Mali
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.651
 longitude: -8.00136
 glottocode: bama1249
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Langue de Signes Malienne"
+wikidata_id: Q4853284
 wikipedia_url: "https://en.wikipedia.org/wiki/Bamako_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.64483
 longitude: 14.00059
 glottocode: cuvo1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mefele-Cuvok > Cuvok"
+wikidata_id: Q3515056
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuvok_language"
 translations:
   - translation_iso: ara

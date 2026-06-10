@@ -7,12 +7,15 @@ population: 308000
 country_id: KR
 country_name: South Korea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 37.47179
 longitude: 127.60859
 glottocode: kore1273
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > JSLic > Korean Sign Language"
+wikidata_id: Q3073428
 wikipedia_url: "https://en.wikipedia.org/wiki/Korean_Sign_Language"
 translations:
   - translation_iso: ara

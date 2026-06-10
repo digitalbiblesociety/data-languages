@@ -7,12 +7,15 @@ population: 1630000
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.64483
 longitude: 106.16715
 glottocode: tayy1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Tày"
+wikidata_id: Q2511476
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%A0y_language"
 translations:
   - translation_iso: ara

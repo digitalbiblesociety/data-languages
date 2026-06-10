@@ -7,12 +7,15 @@ population: 246000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 26.68233
 longitude: 95.05979
 glottocode: kony1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Konyak-Phom > Konyak Naga"
+wikidata_id: Q6430448
 wikipedia_url: "https://en.wikipedia.org/wiki/Konyak_language"
 translations:
   - translation_iso: ara

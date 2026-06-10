@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.14409
 longitude: 148.59048
 glottocode: gain1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Gaena-Korafe > Gaina"
+wikidata_id: Q11732195
 translations:
   - translation_iso: ara
     name: الجاينا

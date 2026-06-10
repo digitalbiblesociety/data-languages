@@ -7,12 +7,15 @@ population: 2500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.64894
 longitude: 140.37182
 glottocode: kemt1242
 glottolog_family_id: nimb1257
 glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Outer Nimboranic > Mlap-Gresi-Kemtuik > Gresi-Kemtuik > Kemtuik"
+wikidata_id: Q6387179
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemtuik_language"
 translations:
   - translation_iso: ara

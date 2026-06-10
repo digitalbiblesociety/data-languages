@@ -7,12 +7,15 @@ population: 510
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.18726
 longitude: 146.70211
 glottocode: saka1292
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Sakam-Som > Sakam"
+wikidata_id: Q6448517
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutong_language"
 translations:
   - translation_iso: ara

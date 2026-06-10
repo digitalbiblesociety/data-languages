@@ -7,6 +7,8 @@ population: 210000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.10901
 longitude: 10.61176
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: medu1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > East Bamileke > Medumba"
+wikidata_id: Q36019
 wikipedia_url: "https://en.wikipedia.org/wiki/Medumba_language"
 translations:
   - translation_iso: ara

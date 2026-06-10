@@ -7,9 +7,12 @@ population: 14000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.17345
 longitude: 137.49561
 glottocode: dama1272
+wikidata_id: Q4748974
 wikipedia_url: "https://en.wikipedia.org/wiki/Uhunduni_languages"
 translations:
   - translation_iso: ara

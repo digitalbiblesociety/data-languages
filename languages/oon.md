@@ -7,12 +7,15 @@ population: 110
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.69263
 longitude: 92.47067
 glottocode: onge1236
 glottolog_family_id: jara1244
 glottolog_family_name: Jarawa-Onge
 glottolog_classification: "Jarawa-Onge > Önge"
+wikidata_id: Q2475551
 wikipedia_url: "https://en.wikipedia.org/wiki/Onge_language"
 translations:
   - translation_iso: ara

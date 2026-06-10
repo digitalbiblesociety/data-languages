@@ -7,6 +7,8 @@ population: 106000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.40519
 longitude: 7.59566
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: begb1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Koroic > Tinoric > Begbere-Ejar"
+wikidata_id: Q7194098
 translations:
   - translation_iso: ara
     name: كورو واتشي

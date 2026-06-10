@@ -1,5 +1,6 @@
 ---
 iso: grj
+macrolanguage_id: grb
 name: Southern Grebo
 autonym: null
 alt_names: [Grebo, "Grebo, Southern", Jabo language]
@@ -7,12 +8,15 @@ population: 187000
 country_id: LR
 country_name: Liberia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.47607
 longitude: -7.568715
 glottocode: sout2826
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Liberian Grebo > Southern Grebo"
+wikidata_id: Q3914444
 translations:
   - translation_iso: ara
     name: سووثإرن غرإبو

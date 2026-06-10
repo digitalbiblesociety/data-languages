@@ -7,6 +7,8 @@ population: 1070
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 43.38792
 longitude: -108.80964
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: arap1274
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Arapaho-Gros Ventre-Besawunena > Arapaho"
+wikidata_id: Q56417
 wikipedia_url: "https://en.wikipedia.org/wiki/Arapaho_language"
 translations:
   - translation_iso: ara

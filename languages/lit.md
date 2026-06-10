@@ -1,5 +1,6 @@
 ---
 iso: lit
+iso639_1: lt
 name: Lithuanian
 autonym: lietuvių kalba
 alt_names: [An Liotuáinis, Isi-Lithuanian, Liettuvagiella, Lietuvi, Lietuviskai, Liotuànais, Litaanish, Litauisch, Litauische, Litauisk, Litauiska, Litaus, Litausche Spraak, Litewski, Litewsko godka, Lithuanie leid, Lithyuanyan, Lithywanek, Litháíska, Litousk, Litouws, Litovskiy, Lituanian, Lituaniana linguo, Lituanien, Lituaniera, Lituanu, Lituwa simi, Lituà, Litvanca, Liþuanisc sprǣc, Talitwanit, Tok Lituwenia, hochlitauische, Забони литвонӣ, Литва йылме, Литвань кяль, Լիտվերեն, ליטאית, لىتۋا تىلى]
@@ -7,6 +8,8 @@ population: 2760000
 country_id: LT
 country_name: Lithuania
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 55.14291
 longitude: 23.96007
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: lith1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Eastern Baltic > Lithuanian"
+wikidata_id: Q9083
 wikipedia_url: "https://en.wikipedia.org/wiki/Lithuanian_language"
 translations:
   - translation_iso: ara

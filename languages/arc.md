@@ -7,6 +7,8 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 33.905
 longitude: 42.185
 scripts: [Armi, Nbat, Palm]
@@ -14,6 +16,7 @@ glottocode: impe1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Imperial Aramaic (700-300 BCE)"
+wikidata_id: Q7079491
 wikipedia_url: "https://en.wikipedia.org/wiki/Imperial_Aramaic"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 6450
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.99059
 longitude: 38.71326
+wikidata_id: Q7377946
 wikipedia_url: "https://en.wikipedia.org/wiki/Rufiji_language"
 translations:
   - translation_iso: ara

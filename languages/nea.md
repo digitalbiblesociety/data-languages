@@ -7,8 +7,11 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.82745
 longitude: 121.12061
+wikidata_id: Q12473454
 translations:
   - translation_iso: ara
     name: إيسترن نجدا

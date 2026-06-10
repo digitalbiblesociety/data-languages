@@ -7,12 +7,15 @@ population: 29
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -15.05583
 longitude: 130.0598
 glottocode: djam1255
 glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Yirram > Jaminjung-Ngaliwurru"
+wikidata_id: Q6147825
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaminjung_language"
 translations:
   - translation_iso: ara

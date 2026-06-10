@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 57
 longitude: 93
 glottocode: arin1243
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Arin"
+wikidata_id: Q34088
 wikipedia_url: "https://en.wikipedia.org/wiki/Arin_language"
 translations:
   - translation_iso: ara

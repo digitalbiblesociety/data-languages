@@ -7,12 +7,15 @@ population: 1100
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.18287
 longitude: 105.40476
 glottocode: mant1265
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Mondzish > Nuclear Mondzish > Munji-Mantsi > Mantsi"
+wikidata_id: Q56878
 wikipedia_url: "https://en.wikipedia.org/wiki/Mantsi_language"
 translations:
   - translation_iso: ara

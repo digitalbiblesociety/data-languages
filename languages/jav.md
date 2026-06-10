@@ -1,5 +1,6 @@
 ---
 iso: jav
+iso639_1: jv
 name: Javanese
 autonym: ꦧꦱꦗꦮباسا جاوا
 alt_names: [Banyumasan, Banyumasan language, Djawa, Java, Javanic, Javanisch, Jawa, Kawi, javanais, ባኙማሳን]
@@ -7,6 +8,8 @@ population: 68300000
 country_id: ID
 country_name: Indonesia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: -0.572307
 longitude: 110.884843
 scripts: [Java, Latn]
@@ -14,6 +17,7 @@ glottocode: java1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Global Javanese > Javanese"
+wikidata_id: Q33549
 wikipedia_url: "https://en.wikipedia.org/wiki/Javanese_language"
 translations:
   - translation_iso: ara

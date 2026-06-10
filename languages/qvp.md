@@ -1,5 +1,6 @@
 ---
 iso: qvp
+macrolanguage_id: que
 name: Pacaraos Quechua
 autonym: Pakaraw runasimi
 alt_names: [Pacaraos, Quechua Pacaraos, Quechua de Pacaraos, "Quechua, Pacaraos"]
@@ -7,12 +8,15 @@ population: 250
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -11.14278
 longitude: -76.73046
 glottocode: paca1245
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Pacaraos Quechua"
+wikidata_id: Q36331
 wikipedia_url: "https://en.wikipedia.org/wiki/Pacaraos_Quechua"
 translations:
   - translation_iso: ara

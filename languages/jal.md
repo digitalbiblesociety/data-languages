@@ -7,12 +7,15 @@ population: 1700
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.3619
 longitude: 129.31549
 glottocode: yala1266
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Yalahatan-Haruru-Awaiya"
+wikidata_id: Q8047298
 wikipedia_url: "https://en.wikipedia.org/wiki/Yalahatan_language"
 translations:
   - translation_iso: ara

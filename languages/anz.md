@@ -7,9 +7,12 @@ population: 550
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.54836
 longitude: 148.99315
 glottocode: anem1249
+wikidata_id: Q56512
 wikipedia_url: "https://en.wikipedia.org/wiki/An%C3%AAm_language"
 translations:
   - translation_iso: ara

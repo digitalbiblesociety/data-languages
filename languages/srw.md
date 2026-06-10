@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -3.21229
 longitude: 128.96625
 glottocode: seru1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Teun-Nila-Serua > Nila-Serua > Serua"
+wikidata_id: Q14916905
 wikipedia_url: "https://en.wikipedia.org/wiki/Serua_language"
 translations:
   - translation_iso: ara

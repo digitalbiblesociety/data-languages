@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.6302
 longitude: -113.38519
 glottocode: hava1248
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Pai > Havasupai-Walapai-Yavapai"
+wikidata_id: Q111366384
 translations:
   - translation_iso: ara
     name: لغة هافاسوباي-والاباي-يافاباي

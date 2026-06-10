@@ -7,12 +7,15 @@ population: 4000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.53225
 longitude: 123.4422
 glottocode: lama1278
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Peripheral Lembata"
+wikidata_id: Q6480787
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamalera_language"
 translations:
   - translation_iso: ara

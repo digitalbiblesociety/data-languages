@@ -1,5 +1,6 @@
 ---
 iso: qxp
+macrolanguage_id: que
 name: Puno Quechua
 autonym: Quechua Collao
 alt_names: [Colla, Collao, Cuzco-Collao, Quechua Qollaw, Quechua cuzqueño, Quechua de Cuzco, "Quechua, Puno", Southern Kechua]
@@ -7,12 +8,15 @@ population: 500000
 country_id: PE
 country_name: Peru
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -14.60798
 longitude: -70.20838
 glottocode: puno1238
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Puno Quechua"
+wikidata_id: Q7260479
 wikipedia_url: "https://en.wikipedia.org/wiki/Puno_Quechua"
 translations:
   - translation_iso: ara

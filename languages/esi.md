@@ -1,5 +1,6 @@
 ---
 iso: esi
+macrolanguage_id: ipk
 name: North Alaskan Inupiatun
 autonym: Iñupiatun
 alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Bering Strait, Eskimo, Inudiatun, Inuit, Inupiaq, "Inupiaq de nord de l'Alaska (North Slope)", "Inupiaq du nord de l'Alaska  (Golfe de Kotzebue)", "Inupiaq du nord de l'Alaska (Canada)", Inupiat, "Inupiatun, North Alaskan", Inuí alaskiano septentrional (zona ártica septentrional), Iñupiaq, North Alaska Inupiaq, North Alaska Iñupiaq, North Alaskan Eskimo, North Alaskan Inupiaq, North Alaskan Inupiat]
@@ -7,12 +8,15 @@ population: 6420
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 69.581955
 longitude: -143.769935
 glottocode: nort2943
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Alaskan Inupiaq > North Alaskan Inupiatun"
+wikidata_id: Q30312338
 translations:
   - translation_iso: ara
     name: الإينوبياتون الأسكا الشمالية

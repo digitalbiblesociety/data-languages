@@ -7,12 +7,15 @@ population: 116000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.42625
 longitude: 120.69508
 glottocode: ibal1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Ibaloi"
+wikidata_id: Q3147383
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibaloi_language"
 translations:
   - translation_iso: ara

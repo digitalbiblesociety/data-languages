@@ -7,12 +7,15 @@ population: 180
 country_id: IR
 country_name: Iran
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 29.441
 longitude: 53.008
 glottocode: koro1296
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Southern-Western Balochi > Southern Balochi-Koroshi > Koroshi"
+wikidata_id: Q3775265
 wikipedia_url: "https://en.wikipedia.org/wiki/Koroshi_dialect"
 translations:
   - translation_iso: ara

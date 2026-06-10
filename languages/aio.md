@@ -7,12 +7,15 @@ population: 1500
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.51452
 longitude: 92.3169
 glottocode: aito1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Mogaung > Assam Tai A > Aiton"
+wikidata_id: Q3399725
 wikipedia_url: "https://en.wikipedia.org/wiki/Aiton_language"
 translations:
   - translation_iso: ara

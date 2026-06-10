@@ -7,12 +7,15 @@ population: 900
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.15496
 longitude: 142.1952
 glottocode: samo1303
 glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Samo"
+wikidata_id: Q7409884
 wikipedia_url: "https://en.wikipedia.org/wiki/Samo_language_(New_Guinea)"
 translations:
   - translation_iso: ara

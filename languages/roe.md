@@ -7,12 +7,15 @@ population: 450
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.80782
 longitude: 146.73058
 glottocode: ronj1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Ronji"
+wikidata_id: Q3441763
 wikipedia_url: "https://en.wikipedia.org/wiki/Ronji_language"
 translations:
   - translation_iso: ara

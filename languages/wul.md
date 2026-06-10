@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.52544
 longitude: 139.00335
 glottocode: sili1249
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Silimo"
+wikidata_id: Q11732514
 wikipedia_url: "https://en.wikipedia.org/wiki/Silimo_language"
 translations:
   - translation_iso: ara

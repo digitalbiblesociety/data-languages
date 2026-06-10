@@ -7,6 +7,8 @@ population: 384800
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.270335
 longitude: 87.885935
 scripts: [Deva, Limb]
@@ -14,6 +16,7 @@ glottocode: limb1266
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Limbu"
+wikidata_id: Q56477
 wikipedia_url: "https://en.wikipedia.org/wiki/Limbu_language"
 translations:
   - translation_iso: ara

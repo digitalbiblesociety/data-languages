@@ -7,12 +7,15 @@ population: 1090
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.526945
 longitude: -14.45269
 glottocode: kobi1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Buy > Kobiana"
+wikidata_id: Q35609
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobiana_language"
 translations:
   - translation_iso: ara

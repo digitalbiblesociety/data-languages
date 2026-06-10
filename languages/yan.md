@@ -7,12 +7,15 @@ population: 8700
 country_id: NI
 country_name: Nicaragua
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 14.125922
 longitude: -84.343872
 glottocode: maya1285
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Sumuic > Mayangna"
+wikidata_id: Q3302929
 translations:
   - translation_iso: ara
     name: مايانجنا

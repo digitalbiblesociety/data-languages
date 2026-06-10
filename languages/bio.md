@@ -7,12 +7,15 @@ population: 600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.73034
 longitude: 141.27254
 glottocode: naii1241
 glottolog_family_id: kwom1263
 glottolog_family_name: Kwomtari-Nai
 glottolog_classification: "Kwomtari-Nai > Nai"
+wikidata_id: Q3508074
 wikipedia_url: "https://en.wikipedia.org/wiki/Nai_language"
 translations:
   - translation_iso: ara

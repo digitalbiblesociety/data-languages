@@ -6,6 +6,9 @@ population: null
 country_id: TN
 country_name: Tunisia
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q36835
 wikipedia_url: "https://en.wikipedia.org/wiki/Vandalic_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 5000
 country_id: DK
 country_name: Denmark
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 55.82574
 longitude: 12.31866
 glottocode: dani1246
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > West Scandinavian Sign > Danish Sign > Danish Sign Language"
+wikidata_id: Q2605298
 wikipedia_url: "https://en.wikipedia.org/wiki/Danish_Sign_Language"
 translations:
   - translation_iso: ara

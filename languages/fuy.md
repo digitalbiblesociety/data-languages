@@ -7,9 +7,12 @@ population: 14000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.6371
 longitude: 147.31162
 glottocode: fuyu1242
+wikidata_id: Q3073472
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuyug_language"
 translations:
   - translation_iso: deu

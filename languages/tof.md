@@ -7,12 +7,15 @@ population: 1050
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.183
 longitude: 142.80391
 glottocode: gizr1240
 glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Kura > Gizrra"
+wikidata_id: Q5565941
 wikipedia_url: "https://en.wikipedia.org/wiki/Gizrra_language"
 translations:
   - translation_iso: ara

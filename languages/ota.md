@@ -7,6 +7,9 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q36730
 wikipedia_url: "https://en.wikipedia.org/wiki/Ottoman_Turkish"
 translations:
   - translation_iso: ara

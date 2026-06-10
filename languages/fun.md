@@ -7,9 +7,12 @@ population: 2930
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -9.02591
 longitude: -37.14017
 glottocode: fuln1247
+wikidata_id: Q774441
 wikipedia_url: "https://en.wikipedia.org/wiki/Iat%C3%AA_language"
 translations:
   - translation_iso: deu

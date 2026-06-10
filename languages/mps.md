@@ -7,12 +7,15 @@ population: 12580
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.65765
 longitude: 144.51071
 glottocode: dadi1250
 glottolog_family_id: tebe1251
 glottolog_family_name: Teberan
 glottolog_classification: "Teberan > Dadibi"
+wikidata_id: Q5208077
 wikipedia_url: "https://en.wikipedia.org/wiki/Dadibi_language"
 translations:
   - translation_iso: ara

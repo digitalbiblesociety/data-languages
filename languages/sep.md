@@ -7,12 +7,15 @@ population: 38000
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.178905
 longitude: -5.28932
 glottocode: sici1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Supyiric > Sìcìté Sénoufo"
+wikidata_id: Q56787
 wikipedia_url: "https://en.wikipedia.org/wiki/Sucite_language"
 translations:
   - translation_iso: ara

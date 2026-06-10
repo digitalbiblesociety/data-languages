@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 10.44682
 longitude: 76.55856
 glottocode: mala1466
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Malaryan"
+wikidata_id: Q12952773
 wikipedia_url: "https://en.wikipedia.org/wiki/Malaryan_language"
 translations:
   - translation_iso: ara

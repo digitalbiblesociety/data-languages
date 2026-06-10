@@ -7,12 +7,15 @@ population: 142000
 country_id: CF
 country_name: Central African Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.649725
 longitude: 16.734385
 glottocode: kaba1281
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone > Gore > Kaba"
+wikidata_id: Q3915316
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabba_language"
 translations:
   - translation_iso: ara

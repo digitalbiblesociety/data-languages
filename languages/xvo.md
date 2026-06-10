@@ -6,6 +6,9 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q622110
 wikipedia_url: "https://en.wikipedia.org/wiki/Volscian_language"
 translations:
   - translation_iso: ara

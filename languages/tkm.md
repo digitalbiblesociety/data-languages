@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 42.423
 longitude: -123.452
 glottocode: take1257
+wikidata_id: Q56710
 wikipedia_url: "https://en.wikipedia.org/wiki/Takelma_language"
 translations:
   - translation_iso: ara

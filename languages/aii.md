@@ -1,5 +1,6 @@
 ---
 iso: aii
+macrolanguage_id: syr
 name: "Assyrian Neo-Aramaic"
 autonym: Sūreṯ
 alt_names: [Aisorski, Ashirat Neo-Aramaic, Asirat Northeastern Neo-Aramaic, Asirski novoaramejski, Assyrian, Assyrianci, Assyrisk Neo-Arameiska, Assyriski, Assyríska, Aturayeg, Aširat Northeastern Neo-Aramaic, Lishana Aturaya, NENA, Neo-Aramaic (Assyrian), "Neo-Aramaic, Assyrian", Neo-Syriac, Neo-arameo oriental, Neoarameo asirio, Sooreth, Soureth, Suret, Sureth, Suryaya Swadaya, ܣܘܪܬ]
@@ -7,6 +8,8 @@ population: 626000
 country_id: IQ
 country_name: Iraq
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 36.75
 longitude: 43
 scripts: [Cyrl, Syrc]
@@ -14,6 +17,7 @@ glottocode: assy1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Assyrian Neo-Aramaic"
+wikidata_id: Q29440
 wikipedia_url: "https://en.wikipedia.org/wiki/Suret_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1100
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.50427
 longitude: 8.19543
 glottocode: dung1254
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Dungu"
+wikidata_id: Q5315230
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungu_language"
 translations:
   - translation_iso: ara

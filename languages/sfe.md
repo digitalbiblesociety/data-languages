@@ -7,12 +7,15 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 8.2475
 longitude: 123.5234
 glottocode: east2694
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > East Nuclear Subanen > Eastern Subanen"
+wikidata_id: Q63311321
 translations:
   - translation_iso: ara
     name: إيسترن سوبانين

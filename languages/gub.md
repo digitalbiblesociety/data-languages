@@ -6,9 +6,12 @@ population: 19500
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -4.69461
 longitude: -45.70815
 scripts: [Latn]
+wikidata_id: Q57420736
 translations:
   - translation_iso: ara
     name: غوآجآجáرآ

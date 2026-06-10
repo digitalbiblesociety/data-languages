@@ -7,12 +7,15 @@ population: 3200
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 7.25555
 longitude: 10.94988
 glottocode: lufu1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Bete-Lufu > Lufu"
+wikidata_id: Q35796
 wikipedia_url: "https://en.wikipedia.org/wiki/Lufu_language"
 translations:
   - translation_iso: ara

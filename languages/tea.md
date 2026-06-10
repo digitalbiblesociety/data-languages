@@ -7,12 +7,15 @@ population: 32000
 country_id: MY
 country_name: Malaysia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.974
 longitude: 101.43761
 glottocode: temi1246
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Lanoh-Semnam-Temiar > Temiar"
+wikidata_id: Q3914693
 wikipedia_url: "https://en.wikipedia.org/wiki/Temiar_language"
 translations:
   - translation_iso: ara

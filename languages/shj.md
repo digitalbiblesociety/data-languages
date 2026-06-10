@@ -7,12 +7,15 @@ population: 30000
 country_id: SD
 country_name: Sudan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.8525
 longitude: 29.76866
 glottocode: shat1244
 glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Eastern Dajuic > Shatt"
+wikidata_id: Q56344
 wikipedia_url: "https://en.wikipedia.org/wiki/Shatt_language"
 translations:
   - translation_iso: ara

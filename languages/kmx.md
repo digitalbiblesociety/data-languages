@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.41651
 longitude: 143.50149
 glottocode: wabo1241
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Waboda"
+wikidata_id: Q7958705
 wikipedia_url: "https://en.wikipedia.org/wiki/Waboda_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2003
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -24.70217
 longitude: 137.43344
 glottocode: wang1289
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Pitta-Pitta > Wanggamala"
+wikidata_id: Q7967860
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanggamala_language"
 translations:
   - translation_iso: ara

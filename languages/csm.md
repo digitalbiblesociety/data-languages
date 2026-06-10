@@ -7,12 +7,15 @@ population: 5000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 38.0812
 longitude: -120.25684
 glottocode: cent2140
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Sierra Miwokan > Central Sierra Miwok"
+wikidata_id: Q2944443
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Sierra_Miwok"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1050000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.19147
 longitude: 98.73551
 glottocode: pwoe1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pwo > Eastern-Western Pwo Karen > Pwo Eastern Karen"
+wikidata_id: Q5330390
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Pwo_language"
 translations:
   - translation_iso: ara

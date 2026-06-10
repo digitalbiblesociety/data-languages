@@ -7,12 +7,15 @@ population: 20
 country_id: CA
 country_name: Canada
 status_id: null
+scope: individual
+language_type: living
 latitude: 63.748611
 longitude: -68.519722
 glottocode: inui1247
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Inuit Sign Language"
+wikidata_id: Q13360244
 wikipedia_url: "https://en.wikipedia.org/wiki/Inuit_Sign_Language"
 translations:
   - translation_iso: ara

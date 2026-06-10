@@ -7,6 +7,8 @@ population: 275800
 country_id: ER
 country_name: Eritrea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.401905
 longitude: 40.168535
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: saho1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Saho-Afar > Saho"
+wikidata_id: Q36353
 wikipedia_url: "https://en.wikipedia.org/wiki/Saho_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.01359
 longitude: 146.93094
 glottocode: mond1265
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Mondropolon"
+wikidata_id: Q3320594
 wikipedia_url: "https://en.wikipedia.org/wiki/Mondropolon_language"
 translations:
   - translation_iso: ara

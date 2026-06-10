@@ -7,12 +7,15 @@ population: 185000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.67953
 longitude: 124.01464
 glottocode: wara1299
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Warayan > Waray Sorsogon"
+wikidata_id: Q18755610
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Sorsogon_language"
 translations:
   - translation_iso: ara

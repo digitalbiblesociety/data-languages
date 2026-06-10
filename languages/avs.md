@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -3.3196
 longitude: -74.54111
 glottocode: aush1242
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Zaparo-Abishira > Aushiri"
+wikidata_id: Q3409318
 wikipedia_url: "https://en.wikipedia.org/wiki/Aushiri_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: esg
+macrolanguage_id: gon
 name: Aheri Gondi
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
 alt_names: [Aheri, "Gondi, Aheri"]
@@ -7,12 +8,15 @@ population: 2980000
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
 latitude: 19.4163
 longitude: 80.0058
 glottocode: aher1237
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Eastern Gondi > Aheri Gondi"
+wikidata_id: Q62997793
 wikipedia_url: "https://en.wikipedia.org/wiki/Aheri_Gondi_language"
 translations:
   - translation_iso: ara

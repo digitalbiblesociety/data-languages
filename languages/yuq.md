@@ -7,12 +7,15 @@ population: 120
 country_id: BO
 country_name: Bolivia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -16.78752
 longitude: -64.94382
 glottocode: yuqu1240
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Yuqui"
+wikidata_id: Q8061440
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuqui_language"
 translations:
   - translation_iso: ara

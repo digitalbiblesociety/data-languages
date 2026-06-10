@@ -7,12 +7,15 @@ population: 3000
 country_id: PA
 country_name: Panama
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.067
 longitude: -82.96313
 glottocode: teri1250
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Teribe"
+wikidata_id: Q36533
 wikipedia_url: "https://en.wikipedia.org/wiki/Teribe_language"
 translations:
   - translation_iso: ara

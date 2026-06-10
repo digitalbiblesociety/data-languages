@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.08531
 longitude: 134.87665
 glottocode: yann1237
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Nhangu"
+wikidata_id: Q10723405
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhangu_language"
 translations:
   - translation_iso: ara

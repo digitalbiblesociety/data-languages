@@ -7,12 +7,15 @@ population: 5
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -10.73698
 longitude: -64.02987
 glottocode: orow1243
 glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Waric > Wanham-Wari-Oro Win > Wari-Oro Win > Oro Win"
+wikidata_id: Q3450423
 wikipedia_url: "https://en.wikipedia.org/wiki/Oro_Win_language"
 translations:
   - translation_iso: ara

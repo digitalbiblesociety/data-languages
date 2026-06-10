@@ -7,12 +7,15 @@ population: null
 country_id: VN
 country_name: Vietnam
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 13.8962
 longitude: 108.25717
 glottocode: tayb1240
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > French-based pidgin > Tay Boi"
+wikidata_id: Q2233794
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%A2y_B%E1%BB%93i_Pidgin_French"
 translations:
   - translation_iso: ara

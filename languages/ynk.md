@@ -7,12 +7,15 @@ population: 350
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 65.51842
 longitude: -171.7554
 glottocode: nauk1242
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Naukan Yupik"
+wikidata_id: Q27963
 wikipedia_url: "https://en.wikipedia.org/wiki/Naukan_Yupik_language"
 translations:
   - translation_iso: ara

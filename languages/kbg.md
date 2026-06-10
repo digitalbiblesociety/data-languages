@@ -7,12 +7,15 @@ population: 1330
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.731
 longitude: 95.236
 glottocode: kham1283
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Unclassified Southern Tibetic > Khamba"
+wikidata_id: Q12952626
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamba_language"
 translations:
   - translation_iso: ara

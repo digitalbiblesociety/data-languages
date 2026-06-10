@@ -7,12 +7,15 @@ population: 1200
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.38951
 longitude: 100.40036
 glottocode: shix1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Shixing"
+wikidata_id: Q56337
 wikipedia_url: "https://en.wikipedia.org/wiki/Shixing_language"
 translations:
   - translation_iso: ara

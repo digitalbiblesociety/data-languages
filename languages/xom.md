@@ -7,12 +7,15 @@ population: 10000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.941615
 longitude: 34.093915
 glottocode: komo1258
 glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Komo-Uduk > Komo (Sudan-Ethiopia)"
+wikidata_id: Q56681
 wikipedia_url: "https://en.wikipedia.org/wiki/Komo_language"
 translations:
   - translation_iso: ara

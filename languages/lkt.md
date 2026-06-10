@@ -7,6 +7,8 @@ population: 2100
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 46.3699
 longitude: -103.950435
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lako1247
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Sioux > Lakota"
+wikidata_id: Q33537
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakota_language"
 translations:
   - translation_iso: ara

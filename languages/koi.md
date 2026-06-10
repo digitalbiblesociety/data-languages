@@ -1,5 +1,6 @@
 ---
 iso: koi
+macrolanguage_id: kom
 name: "Komi-Permyak"
 autonym: перем коми кыв
 alt_names: [Comi, Kama Permyak, Komi, Komi permio, "Komi yaz'va", Komi yazva, Komi-Perm, Komi-Permjaaks, Komi-Permjakisch, Komi-Permyat, Komi-permiac, Komieg-permyakeg, Komipermjakgiella, Komipermjakisk, Komipermjakki, Permecki, Permiak, Permian, Permin komi, Permjakisch, Permyak, Sudacki, Syrjänisch, Ziryene, Zyrian, Zyryan, komi-permjakischer Dialekt]
@@ -7,6 +8,8 @@ population: 64200
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 59.66024
 longitude: 54.79589
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: komi1269
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Permian > Komi > Komi-Permyak"
+wikidata_id: Q56318
 wikipedia_url: "https://en.wikipedia.org/wiki/Komi-Permyak_language"
 translations:
   - translation_iso: ara

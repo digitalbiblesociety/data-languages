@@ -7,12 +7,15 @@ population: 6815000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.518563
 longitude: 79.678687
 glottocode: indi1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Indo-Pakistani-Nepalese Sign > Indo-Pakistani Sign > Indian Sign Language"
+wikidata_id: Q113754817
 translations:
   - translation_iso: ara
     name: لغة الإشارة الهندية

@@ -7,12 +7,15 @@ population: 13000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 17.29358
 longitude: 121.06787
 glottocode: sout2908
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Bangad"
+wikidata_id: Q18753301
 translations:
   - translation_iso: ara
     name: كالينجا الجنوبية

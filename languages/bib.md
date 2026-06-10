@@ -7,12 +7,15 @@ population: 781000
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.425705
 longitude: -1.673323
 glottocode: biss1248
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Bissa"
+wikidata_id: Q32934
 wikipedia_url: "https://en.wikipedia.org/wiki/Bissa_language"
 translations:
   - translation_iso: ara

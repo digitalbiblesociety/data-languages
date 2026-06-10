@@ -7,12 +7,15 @@ population: 7940
 country_id: EC
 country_name: Ecuador
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.826455
 longitude: -77.26405
 glottocode: achu1248
 glottolog_family_id: jiva1245
 glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Shuaric > Achuar-Shiwiar"
+wikidata_id: Q2823170
 wikipedia_url: "https://en.wikipedia.org/wiki/Achuar-Shiwiar_language"
 translations:
   - translation_iso: ara

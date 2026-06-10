@@ -6,12 +6,15 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.2478
 longitude: 139.2969
 glottocode: jofo1235
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Jofotek-Bromnya"
+wikidata_id: Q16886849
 wikipedia_url: "https://en.wikipedia.org/wiki/Jofotek-Bromnya_language"
 translations:
   - translation_iso: ara

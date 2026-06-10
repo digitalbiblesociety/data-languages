@@ -7,12 +7,15 @@ population: 142
 country_id: BO
 country_name: Bolivia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -16.72547
 longitude: -68.97119
 glottocode: uruu1244
 glottolog_family_id: uruc1242
 glottolog_family_name: Uru-Chipaya
 glottolog_classification: "Uru-Chipaya > Uru"
+wikidata_id: Q2992892
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru_language"
 translations:
   - translation_iso: ara

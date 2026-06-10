@@ -7,12 +7,15 @@ population: 15000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.6682
 longitude: 124.82468
 glottocode: west2555
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > WBM-Livunganen-Ilianen > Western Bukidnon Manobo"
+wikidata_id: Q7987643
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Bukidnon_Manobo"
 translations:
   - translation_iso: ara

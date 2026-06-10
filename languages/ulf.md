@@ -6,9 +6,12 @@ population: 110
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -3.63853
 longitude: 140.50189
 glottocode: usku1243
+wikidata_id: Q4477735
 wikipedia_url: "https://en.wikipedia.org/wiki/Usku_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4940
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.35137
 longitude: -94.7001
 glottocode: sand1278
 glottolog_family_id: huav1256
 glottolog_family_name: Huavean
 glottolog_classification: "Huavean > San Dionisio-San Mateo Huave > San Dionisio del Mar Huave"
+wikidata_id: Q12953568
 translations:
   - translation_iso: ara
     name: لغة هوافي سان ديونيسيو ديل مار

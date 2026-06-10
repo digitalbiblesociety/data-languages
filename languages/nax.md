@@ -6,12 +6,15 @@ population: 280
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.27412
 longitude: 141.60058
 glottocode: nakw1240
 glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Nimo-Nakwi > Nakwi"
+wikidata_id: Q3504178
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakwi_language"
 translations:
   - translation_iso: ara

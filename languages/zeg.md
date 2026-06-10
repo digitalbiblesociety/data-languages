@@ -6,12 +6,15 @@ population: 1818
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.93858
 longitude: 146.54567
 glottocode: zena1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Mumeng > Zenag-Patep > Zenag"
+wikidata_id: Q12953345
 translations:
   - translation_iso: ara
     name: اللغة زيناغ

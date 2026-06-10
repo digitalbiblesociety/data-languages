@@ -6,6 +6,8 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -37.626356
 longitude: 147.88388
 glottocode: gana1268

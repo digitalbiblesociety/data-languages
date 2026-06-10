@@ -7,12 +7,15 @@ population: 12500
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.05207
 longitude: 98.833305
 glottocode: rian1261
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Riang > Riang (Myanmar)"
+wikidata_id: Q2741615
 wikipedia_url: "https://en.wikipedia.org/wiki/Riang_language"
 translations:
   - translation_iso: ara

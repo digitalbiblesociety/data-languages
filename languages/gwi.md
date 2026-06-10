@@ -7,6 +7,8 @@ population: 560
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 67.43067
 longitude: -142.962745
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: gwic1235
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Gwichin-Han > Gwich'in"
+wikidata_id: Q21057
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwich%CA%BCin_language"
 translations:
   - translation_iso: ara

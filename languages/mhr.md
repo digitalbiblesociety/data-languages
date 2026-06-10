@@ -1,5 +1,6 @@
 ---
 iso: mhr
+macrolanguage_id: chm
 name: Eastern Mari
 autonym: олык марий
 alt_names: [Cheremis, Cheremis (Eastern), Cheremis (Low), Cheremiss, Cheremissian, E. Cheremis, Eastern, Eastern Cheremis, Grassland Mari, Low Mari, Lugovo Mari, Mari, Mari (Cheremis), Mari (Low), Mari (Meadow), Mari oriental, "Mari, Eastern", Mari-Woods, Marij Jylme, Marijcy, Marí oriental, Meadow Mari, More, Ostčeremissisch, Szeremissi, Tchérémisse, Tscheremissisch, eastern group, itämari, niittymari, Čeremissisch, лугово-восточный марийский]
@@ -7,12 +8,15 @@ population: 477700
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 55.8307
 longitude: 48.40502
 glottocode: east2328
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mari > Eastern Mari"
+wikidata_id: Q3906614
 wikipedia_url: "https://en.wikipedia.org/wiki/Meadow_Mari_language"
 translations:
   - translation_iso: ara

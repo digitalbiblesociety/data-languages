@@ -6,6 +6,9 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q65455878
 translations:
   - translation_iso: ara
     name: نوتوواي-ميهيرين

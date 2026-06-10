@@ -7,12 +7,15 @@ population: 420
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.80084
 longitude: 141.30335
 glottocode: kris1246
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > I'saka"
+wikidata_id: Q841704
 wikipedia_url: "https://en.wikipedia.org/wiki/I%27saka_language"
 translations:
   - translation_iso: ara

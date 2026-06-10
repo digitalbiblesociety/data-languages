@@ -6,12 +6,15 @@ population: 30000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.6013
 longitude: 140.51249
 glottocode: nucl1632
 glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Sentani-Nafri > Sentani"
+wikidata_id: Q3441672
 wikipedia_url: "https://en.wikipedia.org/wiki/Sentani_language"
 translations:
   - translation_iso: ara

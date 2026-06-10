@@ -1,14 +1,19 @@
 ---
 iso: hrv
+iso639_1: hr
+macrolanguage_id: hbs
 name: Croatian
 autonym: hrvatski
 population: 5488390
 country_id: HR
 country_name: Croatia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 45.200602
 longitude: 16.826005
 scripts: [Latn]
+wikidata_id: Q6654
 wikipedia_url: "https://en.wikipedia.org/wiki/Croatian_language"
 translations:
   - translation_iso: ara

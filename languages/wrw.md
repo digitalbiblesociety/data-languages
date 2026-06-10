@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -12.713
 longitude: 142.569
 glottocode: gugu1256
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Unclassified Pama-Nyungan > Roth's Gugu Warra"
+wikidata_id: Q5615286
 wikipedia_url: "https://en.wikipedia.org/wiki/Gugu_Warra_language"
 translations:
   - translation_iso: ara

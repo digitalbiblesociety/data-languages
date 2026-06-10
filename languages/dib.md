@@ -1,5 +1,6 @@
 ---
 iso: dib
+macrolanguage_id: din
 name: South Central Dinka
 autonym: Thuɔŋjäŋ
 alt_names: [Agar, Central Dinka, Dinka, "Dinka, South Central", Mittel-Dinka]
@@ -7,12 +8,15 @@ population: 851000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.7307
 longitude: 30.30213
 glottocode: sout2833
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > South Central Dinka"
+wikidata_id: Q35154
 translations:
   - translation_iso: ara
     name: ساوث سنترال دينكا

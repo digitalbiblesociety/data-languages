@@ -7,12 +7,15 @@ population: 3400
 country_id: GH
 country_name: Ghana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.834
 longitude: -0.151
 glottocode: adam1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Adamorobe Sign Language"
+wikidata_id: Q27709
 wikipedia_url: "https://en.wikipedia.org/wiki/Adamorobe_Sign_Language"
 translations:
   - translation_iso: ara

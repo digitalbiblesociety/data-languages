@@ -7,6 +7,8 @@ population: 522000
 country_id: PL
 country_name: Poland
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 50.9656
 longitude: 16.9491
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sile1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Lechitic > Polish-Silesian > Silesian"
+wikidata_id: Q30319
 wikipedia_url: "https://en.wikipedia.org/wiki/Silesian_language"
 translations:
   - translation_iso: ara

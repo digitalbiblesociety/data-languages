@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 34.1
 longitude: -118.11
 glottocode: tong1329
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Serran > Tongva"
+wikidata_id: Q56387
 wikipedia_url: "https://en.wikipedia.org/wiki/Tongva_language"
 translations:
   - translation_iso: ara

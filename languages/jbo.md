@@ -6,11 +6,14 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 scripts: [Latn]
 glottocode: lojb1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Lojban"
+wikidata_id: Q36350
 wikipedia_url: "https://en.wikipedia.org/wiki/Lojban"
 translations:
   - translation_iso: ara

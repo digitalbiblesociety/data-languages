@@ -7,12 +7,15 @@ population: 85000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.78898
 longitude: 27.22359
 glottocode: mido1240
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Midob"
+wikidata_id: Q36007
 wikipedia_url: "https://en.wikipedia.org/wiki/Midob_language"
 translations:
   - translation_iso: ara

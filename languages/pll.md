@@ -7,12 +7,15 @@ population: 233000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.67293
 longitude: 97.797185
 glottocode: shwe1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Palaung > Shwe Palaung"
+wikidata_id: Q13018536
 translations:
   - translation_iso: ara
     name: اللغة شوي بالاونج

@@ -1,5 +1,6 @@
 ---
 iso: wol
+iso639_1: wo
 name: Wolof
 autonym: Wolof
 alt_names: [Dyolof, Ouolof, Volof, Walaf, Waro-Waro, Yallof]
@@ -7,6 +8,8 @@ population: 5926290
 country_id: SN
 country_name: Senegal
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 15.25336
 longitude: -15.382973
 scripts: [Arab, Latn]
@@ -14,6 +17,7 @@ glottocode: nucl1347
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Wolofic > Wolof"
+wikidata_id: Q34257
 wikipedia_url: "https://en.wikipedia.org/wiki/Wolof_language"
 translations:
   - translation_iso: ara

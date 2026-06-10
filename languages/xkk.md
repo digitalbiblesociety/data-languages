@@ -7,12 +7,15 @@ population: 3370
 country_id: KH
 country_name: Cambodia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 13.82736
 longitude: 107.25745
 glottocode: kaco1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Lamamic > Kaco'"
+wikidata_id: Q6344767
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaco%CA%BC_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2000
 country_id: PH
 country_name: Philippines
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.65188
 longitude: 119.33825
 glottocode: cent2090
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Central Tagbanwa"
+wikidata_id: Q3915515
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Tagbanwa_language"
 translations:
   - translation_iso: ara

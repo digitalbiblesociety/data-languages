@@ -7,12 +7,15 @@ population: 1080
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.77876
 longitude: -97.59753
 glottocode: itun1239
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Southwestern Alta Mixtec > Chalcatongic > Itundujia Mixtec"
+wikidata_id: Q12953727
 translations:
   - translation_iso: ara
     name: لغة مازاتك إيتونودجيا

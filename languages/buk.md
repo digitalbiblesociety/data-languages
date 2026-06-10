@@ -7,12 +7,15 @@ population: 12000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -6.67519
 longitude: 147.31989
 glottocode: buga1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > North Huon Gulf linkage > Bugawac"
+wikidata_id: Q35043
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukawa_language"
 translations:
   - translation_iso: ara

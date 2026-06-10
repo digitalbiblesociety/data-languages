@@ -6,12 +6,15 @@ population: 420
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.32557
 longitude: 143.92483
 glottocode: lang1328
 glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > Ulmapo > Mwakai-Pondi > Pondi"
+wikidata_id: Q6485678
 wikipedia_url: "https://en.wikipedia.org/wiki/Pondi_language"
 translations:
   - translation_iso: ara

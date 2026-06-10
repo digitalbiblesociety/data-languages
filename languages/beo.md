@@ -7,12 +7,15 @@ population: 5000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.14949
 longitude: 142.50775
 glottocode: beam1240
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Etoro-Bedamini > Beami"
+wikidata_id: Q3504079
 wikipedia_url: "https://en.wikipedia.org/wiki/Beami_language"
 translations:
   - translation_iso: ara

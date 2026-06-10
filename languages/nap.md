@@ -7,6 +7,8 @@ population: 5700000
 country_id: IT
 country_name: Italy
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 39.22883
 longitude: 16.42246
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: neap1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Southern Italian Romance > Continental Southern Italian"
+wikidata_id: Q33845
 wikipedia_url: "https://en.wikipedia.org/wiki/Neapolitan_language"
 translations:
   - translation_iso: ara

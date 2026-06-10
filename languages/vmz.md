@@ -7,12 +7,15 @@ population: 12900
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.08289
 longitude: -96.88892
 glottocode: maza1296
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Central Mazatec > Mazatlán Mazatec"
+wikidata_id: Q12953706
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazatl%C3%A1n_Mazatec"
 translations:
   - translation_iso: ara

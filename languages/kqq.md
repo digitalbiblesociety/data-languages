@@ -7,12 +7,15 @@ population: 150
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -18.99884
 longitude: -41.22993
 glottocode: kren1239
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Borum"
+wikidata_id: Q6436747
 wikipedia_url: "https://en.wikipedia.org/wiki/Krenak_language"
 translations:
   - translation_iso: ara

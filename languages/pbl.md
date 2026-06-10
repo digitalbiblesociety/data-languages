@@ -7,12 +7,15 @@ population: 5690
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.37299
 longitude: 11.13373
 glottocode: makn1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Mak-Tal > Mak (Nigeria)"
+wikidata_id: Q3915349
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language_(Adamawa)"
 translations:
   - translation_iso: ara

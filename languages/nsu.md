@@ -7,12 +7,15 @@ population: 25000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.39688
 longitude: -97.12655
 glottocode: sier1248
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Sierra de Puebla Nahuatl > Sierra Negra Nahuatl"
+wikidata_id: Q63284326
 translations:
   - translation_iso: ara
     name: ناواتل سيرا نيغرا

@@ -7,12 +7,15 @@ population: 19500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.86809
 longitude: 123.28932
 glottocode: bala1315
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Eastern Saluan-Banggai > Balantak"
+wikidata_id: Q4850053
 wikipedia_url: "https://en.wikipedia.org/wiki/Balantak_language"
 translations:
   - translation_iso: ara

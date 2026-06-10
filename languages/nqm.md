@@ -7,12 +7,15 @@ population: 1200
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.93553
 longitude: 138.01878
 glottocode: ndom1245
 glottolog_family_id: kolo1268
 glottolog_family_name: Kolopom
 glottolog_classification: "Kolopom > Ndom"
+wikidata_id: Q6983791
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndom_language"
 translations:
   - translation_iso: ara

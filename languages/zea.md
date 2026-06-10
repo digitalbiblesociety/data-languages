@@ -7,6 +7,8 @@ population: 220000
 country_id: NL
 country_name: Netherlands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 51.49809
 longitude: 3.85428
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: zeeu1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Zeeuws"
+wikidata_id: Q237409
 wikipedia_url: "https://en.wikipedia.org/wiki/Zeelandic"
 translations:
   - translation_iso: ara

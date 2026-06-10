@@ -7,12 +7,15 @@ population: 27000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.11403
 longitude: 10.41372
 glottocode: veng1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > South Ring > Babungoic > Vengo"
+wikidata_id: Q34885
 wikipedia_url: "https://en.wikipedia.org/wiki/Vengo_language"
 translations:
   - translation_iso: ara

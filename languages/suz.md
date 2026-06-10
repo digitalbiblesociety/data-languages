@@ -7,6 +7,8 @@ population: 38200
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.52009
 longitude: 86.24762
 scripts: [Deva, Sunu]
@@ -14,6 +16,7 @@ glottocode: sunw1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Bahing-Sunwar > Sunwar"
+wikidata_id: Q56549
 wikipedia_url: "https://en.wikipedia.org/wiki/Sunwar_language"
 translations:
   - translation_iso: ara

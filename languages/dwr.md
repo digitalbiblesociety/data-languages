@@ -7,12 +7,15 @@ population: 513000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.57645
 longitude: 37.13808
 glottocode: dawr1236
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Dawro"
+wikidata_id: Q12629647
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawro"
 translations:
   - translation_iso: ara

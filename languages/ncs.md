@@ -7,12 +7,15 @@ population: 3000
 country_id: NI
 country_name: Nicaragua
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.2509
 longitude: -86.33987
 glottocode: nica1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Nicaraguan Sign Language"
+wikidata_id: Q33765
 wikipedia_url: "https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language"
 translations:
   - translation_iso: ara

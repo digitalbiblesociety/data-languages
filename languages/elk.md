@@ -6,12 +6,15 @@ population: 1640
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.45544
 longitude: 142.09265
 glottocode: elke1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Au-Olo-Elkei > Olo-Elkei > Elkei"
+wikidata_id: Q5364210
 wikipedia_url: "https://en.wikipedia.org/wiki/Elkei_language"
 translations:
   - translation_iso: ara

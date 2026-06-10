@@ -7,12 +7,15 @@ population: 226000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.83854
 longitude: 12.99521
 glottocode: marg1265
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Marghic > Marghi Central"
+wikidata_id: Q56241
 wikipedia_url: "https://en.wikipedia.org/wiki/Margi_language"
 translations:
   - translation_iso: ara

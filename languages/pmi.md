@@ -7,12 +7,15 @@ population: 10000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.66262
 longitude: 101.30511
 glottocode: nort2723
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Pumi > Northern Pumi"
+wikidata_id: Q3403245
 translations:
   - translation_iso: ara
     name: لغة بومي الشمالية

@@ -7,12 +7,15 @@ population: 6000
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -17.70063
 longitude: 168.37659
 glottocode: sout2856
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > South Efatic > Nafsan"
+wikidata_id: Q3449070
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafsan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 84700
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.41342
 longitude: 2.02985
 glottocode: xwel1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Xwela Gbe"
+wikidata_id: Q36887
 wikipedia_url: "https://en.wikipedia.org/wiki/Pher%C3%A1_language"
 translations:
   - translation_iso: ara

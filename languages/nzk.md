@@ -7,12 +7,15 @@ population: 50000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.795675
 longitude: 22.825365
 glottocode: nzak1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Nzakara"
+wikidata_id: Q3913339
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzakara_language"
 translations:
   - translation_iso: ara

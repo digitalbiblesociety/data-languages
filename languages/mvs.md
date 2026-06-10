@@ -7,9 +7,12 @@ population: 25
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -1.74679
 longitude: 138.2942
 glottocode: mass1263
+wikidata_id: Q3502895
 wikipedia_url: "https://en.wikipedia.org/wiki/Massep_language"
 translations:
   - translation_iso: ara

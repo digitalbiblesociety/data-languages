@@ -7,12 +7,15 @@ population: 12000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.51111
 longitude: 128.08564
 glottocode: sawa1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Gamrange > Sawai"
+wikidata_id: Q3447258
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawai_language"
 translations:
   - translation_iso: ara

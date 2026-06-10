@@ -1,5 +1,6 @@
 ---
 iso: cld
+macrolanguage_id: syr
 name: "Chaldean Neo-Aramaic"
 autonym: Sūreṯ
 alt_names: [Aramaic, Aramaic (Amadia), Aramaic (Amadiya), Chaldean, Chaldean (Modern), Fallani, Fellihi, Kaldaya, Kaldeisk nyarameiska, Kaldejski neoaramejski, Kildani, Lishana Kaldaya, Modern Chaldean, Neo-Aramaic (Amadiya), "Neo-Aramaic, Chaldean", Neo-Chaldean, Soorath, Soorith, Suras, Sureth, Syriac]
@@ -7,12 +8,15 @@ population: 232910
 country_id: IQ
 country_name: Iraq
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 37.09724
 longitude: 43.50269
 glottocode: chal1275
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Chaldean Neo-Aramaic"
+wikidata_id: Q33236
 translations:
   - translation_iso: ara
     name: لغة آرامية كلدانية حديثة

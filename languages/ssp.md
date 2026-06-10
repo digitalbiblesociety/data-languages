@@ -7,12 +7,15 @@ population: 100000
 country_id: ES
 country_name: Spain
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 40.03136
 longitude: -3.70738
 glottocode: span1263
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Spanish Sign > Nuclear Spanish Sign > Spanish Sign Language"
+wikidata_id: Q3100814
 wikipedia_url: "https://en.wikipedia.org/wiki/Spanish_Sign_Language"
 translations:
   - translation_iso: ara

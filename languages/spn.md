@@ -7,12 +7,15 @@ population: 980
 country_id: PY
 country_name: Paraguay
 status_id: null
+scope: individual
+language_type: living
 latitude: -22.49
 longitude: -58.38
 glottocode: sana1298
 glottolog_family_id: leng1261
 glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Sanapaná"
+wikidata_id: Q3033556
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanapan%C3%A1_language"
 translations:
   - translation_iso: ara

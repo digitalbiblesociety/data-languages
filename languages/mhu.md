@@ -7,12 +7,15 @@ population: 44950
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.49929
 longitude: 96.88032
 glottocode: diga1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Digarish > Tawra"
+wikidata_id: Q56400
 wikipedia_url: "https://en.wikipedia.org/wiki/Digaro_Mishmi_language"
 translations:
   - translation_iso: ara

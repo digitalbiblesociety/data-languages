@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 42.58608
 longitude: -121.70403
 glottocode: klam1254
+wikidata_id: Q2669248
 wikipedia_url: "https://en.wikipedia.org/wiki/Klamath_language"
 translations:
   - translation_iso: ara

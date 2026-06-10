@@ -6,8 +6,11 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.20317
 longitude: 8.27253
+wikidata_id: Q3915388
 wikipedia_url: "https://en.wikipedia.org/wiki/Odut_language"
 translations:
   - translation_iso: ara

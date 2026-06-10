@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 39.2143
 longitude: -122.0094
 glottocode: patw1250
 glottolog_family_id: wint1258
 glottolog_family_name: Wintuan
 glottolog_classification: "Wintuan > Patwin"
+wikidata_id: Q3370188
 wikipedia_url: "https://en.wikipedia.org/wiki/Patwin_language"
 translations:
   - translation_iso: ara

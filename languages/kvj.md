@@ -7,12 +7,15 @@ population: 525000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.67704
 longitude: 13.56897
 glottocode: psik1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Psikye"
+wikidata_id: Q56304
 wikipedia_url: "https://en.wikipedia.org/wiki/Psiky%C9%9B_dialect"
 translations:
   - translation_iso: ara

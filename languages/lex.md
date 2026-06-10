@@ -7,12 +7,15 @@ population: 18000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.18378
 longitude: 127.94433
 glottocode: luan1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Luangic > Luang"
+wikidata_id: Q6695015
 wikipedia_url: "https://en.wikipedia.org/wiki/Luang_language"
 translations:
   - translation_iso: ara

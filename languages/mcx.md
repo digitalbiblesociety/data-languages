@@ -7,12 +7,15 @@ population: 24000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.457755
 longitude: 15.524605
 glottocode: mpie1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Mpoic > Mpiemo-Ukhwejo > Mpiemo"
+wikidata_id: Q35908
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpiemo_language"
 translations:
   - translation_iso: ara

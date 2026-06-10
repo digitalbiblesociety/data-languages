@@ -7,6 +7,8 @@ population: 10200
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 49.05333
 longitude: -68.73765
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mont1268
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Montagnais"
+wikidata_id: Q13351
 wikipedia_url: "https://en.wikipedia.org/wiki/Innu_language"
 translations:
   - translation_iso: ara

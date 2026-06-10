@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.139
 longitude: 140.93095
 glottocode: wari1266
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waris"
+wikidata_id: Q3502610
 wikipedia_url: "https://en.wikipedia.org/wiki/Waris_language"
 translations:
   - translation_iso: ara

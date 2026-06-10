@@ -6,12 +6,15 @@ population: 200
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.15
 longitude: 104.9
 glottocode: thop1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Laghuu-Core Muji > Thopho-Core Muji > Thopho"
+wikidata_id: Q7796015
 wikipedia_url: "https://en.wikipedia.org/wiki/Thopho_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -17.37396
 longitude: 123.22832
 glottocode: nima1245
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nimanbur"
+wikidata_id: Q16891606
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimanburru_language"
 translations:
   - translation_iso: ara

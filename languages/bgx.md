@@ -7,6 +7,8 @@ population: 464000
 country_id: TR
 country_name: Turkey
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 41.170545
 longitude: 24.44567
 scripts: [Grek]
@@ -14,6 +16,7 @@ glottocode: balk1254
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > West Oghuz > Rumelian Turkish"
+wikidata_id: Q2360396
 wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Turkish_language"
 translations:
   - translation_iso: ara

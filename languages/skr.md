@@ -1,5 +1,6 @@
 ---
 iso: skr
+macrolanguage_id: lah
 name: Saraiki
 autonym: سرائیکی
 alt_names: [Bahawalpuri, Lahnda, Multani, Mutani, Reasati, Riasiti, Seraiki, Siraiki, Southern Panjabi]
@@ -7,6 +8,8 @@ population: 26009000
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 29.553395
 longitude: 71.905975
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: sera1259
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Siraikic > Saraiki"
+wikidata_id: Q33902
 wikipedia_url: "https://en.wikipedia.org/wiki/Saraiki_language"
 translations:
   - translation_iso: ara

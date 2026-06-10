@@ -7,12 +7,15 @@ population: 225500
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.44776
 longitude: 0.83312
 glottocode: ikpo1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kposo-Ahlo-Bowili > Ikposo"
+wikidata_id: Q35029
 wikipedia_url: "https://en.wikipedia.org/wiki/Kposo_language"
 translations:
   - translation_iso: ara

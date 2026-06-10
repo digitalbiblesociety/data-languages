@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -41.188369
 longitude: 146.559906
 glottocode: port1278
 glottolog_family_id: west1503
 glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Port Sorell"
+wikidata_id: Q7230944
 wikipedia_url: "https://en.wikipedia.org/wiki/Port_Sorell_language"
 translations:
   - translation_iso: ara

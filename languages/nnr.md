@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -34.68996
 longitude: 137.53546
 glottocode: naru1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Southern Thura-Yura > Narungga"
+wikidata_id: Q13591127
 wikipedia_url: "https://en.wikipedia.org/wiki/Narungga_language"
 translations:
   - translation_iso: ara

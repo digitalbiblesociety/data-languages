@@ -5,8 +5,11 @@ autonym: Basa Sunda Buhun
 alt_names: ["Sundanese, Old"]
 country_id: ID
 country_name: Indonesia
+scope: individual
+language_type: historical
 latitude: -7.1
 longitude: 108.3
+wikidata_id: Q56197074
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Sundanese_language"
 translations:
   - translation_iso: ara

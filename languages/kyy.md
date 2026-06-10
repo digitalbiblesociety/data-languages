@@ -6,12 +6,15 @@ population: 140
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.26656
 longitude: 146.08346
 glottocode: kamb1303
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Unclassified Kainantu > Kambaira"
+wikidata_id: Q6356254
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambaira_language"
 translations:
   - translation_iso: ara

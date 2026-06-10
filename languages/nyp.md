@@ -7,12 +7,15 @@ population: null
 country_id: UG
 country_name: Uganda
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 3.4997
 longitude: 33.73651
 glottocode: nyan1313
 glottolog_family_id: kuli1252
 glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ngangea-So > Nyang'i"
+wikidata_id: Q7070894
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyang%27i_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1630
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.65036
 longitude: 140.72696
 glottocode: nafr1241
 glottolog_family_id: sent1261
 glottolog_family_name: Sentanic
 glottolog_classification: "Sentanic > Nuclear Sentanic > Sentani-Nafri > Nafri"
+wikidata_id: Q6958211
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -18.99999
 longitude: -46.99999
 glottocode: xakr1238
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Xakriabá"
+wikidata_id: Q3073441
 wikipedia_url: "https://en.wikipedia.org/wiki/Xakriab%C3%A1_language"
 translations:
   - translation_iso: ara

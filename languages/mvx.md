@@ -6,12 +6,15 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.07828
 longitude: 134.37813
 glottocode: meos1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Biakic > Meoswar"
+wikidata_id: Q6817777
 wikipedia_url: "https://en.wikipedia.org/wiki/Meoswar_language"
 translations:
   - translation_iso: ara

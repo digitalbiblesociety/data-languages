@@ -7,12 +7,15 @@ population: 90000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.46534
 longitude: 5.26544
 glottocode: clel1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Clela-Damakawa > C'lela"
+wikidata_id: Q3914004
 wikipedia_url: "https://en.wikipedia.org/wiki/Lela_language"
 translations:
   - translation_iso: ara

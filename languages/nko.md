@@ -6,12 +6,15 @@ population: 20400
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.20316
 longitude: 0.3209
 glottocode: nkon1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Nkonya-Nkami > Nkonya"
+wikidata_id: Q35867
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkonya_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 208800
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.050845
 longitude: -11.32618
 scripts: [Latn, Vaii]
@@ -14,6 +16,7 @@ glottocode: vaii1241
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Vai-Kono > Vai"
+wikidata_id: Q36939
 wikipedia_url: "https://en.wikipedia.org/wiki/Vai_language"
 translations:
   - translation_iso: ara

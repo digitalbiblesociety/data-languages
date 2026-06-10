@@ -7,12 +7,15 @@ population: 576000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.62101
 longitude: 39.1752
 glottocode: digo1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Mijikenda > Southern Mijikenda > Digo"
+wikidata_id: Q3362072
 wikipedia_url: "https://en.wikipedia.org/wiki/Digo_language"
 translations:
   - translation_iso: ara

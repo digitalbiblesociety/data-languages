@@ -7,6 +7,8 @@ population: 4700000
 country_id: IT
 country_name: Italy
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 37.57354
 longitude: 14.04144
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sici1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Southern Italian Romance > Sicilian"
+wikidata_id: Q33973
 wikipedia_url: "https://en.wikipedia.org/wiki/Sicilian_language"
 translations:
   - translation_iso: ara

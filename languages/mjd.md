@@ -7,12 +7,15 @@ population: 200
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 39.67211
 longitude: -121.36786
 glottocode: nort2951
 glottolog_family_id: maid1262
 glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Northwest Maidu"
+wikidata_id: Q3198700
 wikipedia_url: "https://en.wikipedia.org/wiki/Konkow_language"
 translations:
   - translation_iso: ara

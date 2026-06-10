@@ -7,12 +7,15 @@ population: 350000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.34345
 longitude: 83.6552
 glottocode: peng1244
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Manda-Kui > Manda-Pengo > Pengo"
+wikidata_id: Q56758
 wikipedia_url: "https://en.wikipedia.org/wiki/Pengo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: FM
 country_name: Micronesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.77982
 longitude: 157.16092
 glottocode: ngat1248
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Ngatik Men's Creole"
+wikidata_id: Q36400
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngatikese_Creole"
 translations:
   - translation_iso: ara

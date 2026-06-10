@@ -7,12 +7,15 @@ population: 22
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.05395
 longitude: -62.09274
 glottocode: saki1248
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Corumbiara > Mekens"
+wikidata_id: Q3304806
 wikipedia_url: "https://en.wikipedia.org/wiki/Mek%C3%A9ns_language"
 translations:
   - translation_iso: ara

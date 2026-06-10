@@ -7,12 +7,15 @@ population: 205000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.64132
 longitude: 32.17547
 glottocode: zinz1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > Zinza"
+wikidata_id: Q8072460
 wikipedia_url: "https://en.wikipedia.org/wiki/Zinza_language"
 translations:
   - translation_iso: ara

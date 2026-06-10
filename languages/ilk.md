@@ -7,12 +7,15 @@ population: 5710
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.37846
 longitude: 121.54727
 glottocode: ilon1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > Ilongot"
+wikidata_id: Q3148787
 wikipedia_url: "https://en.wikipedia.org/wiki/Bugkalot_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 260
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 35.35397
 longitude: -96.76345
 glottocode: shaw1249
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Shawnee"
+wikidata_id: Q2669206
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawnee_language"
 translations:
   - translation_iso: ara

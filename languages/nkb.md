@@ -7,12 +7,15 @@ population: 25600
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.20405
 longitude: 94.13453
 glottocode: khoi1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Maringic > Khoibu"
+wikidata_id: Q21481876
 wikipedia_url: "https://en.wikipedia.org/wiki/Uipo_language"
 translations:
   - translation_iso: ara

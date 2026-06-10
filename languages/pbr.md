@@ -7,12 +7,15 @@ population: 95100
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.96782
 longitude: 34.80386
 glottocode: pang1287
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Kisi-Pangwa > Pangwa"
+wikidata_id: Q3847550
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangwa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.94037
 longitude: -95.46586
 glottocode: coat1238
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Lowland Mixe > Coatlán Mixe"
+wikidata_id: Q25559716
 translations:
   - translation_iso: ara
     name: لغة كواتلان ميكسي

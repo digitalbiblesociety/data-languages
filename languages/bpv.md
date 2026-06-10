@@ -7,12 +7,15 @@ population: 2900
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -7.35942
 longitude: 140.56756
 glottocode: bian1251
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Bian Marind"
+wikidata_id: Q8841889
 translations:
   - translation_iso: ara
     name: بيان ماريند

@@ -7,12 +7,15 @@ population: 7000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.60065
 longitude: 142.79038
 glottocode: urat1244
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Urat"
+wikidata_id: Q3502084
 wikipedia_url: "https://en.wikipedia.org/wiki/Urat_language"
 translations:
   - translation_iso: ara

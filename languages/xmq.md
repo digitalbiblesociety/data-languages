@@ -6,8 +6,11 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.28658
 longitude: 141.82375
+wikidata_id: Q10549851
 translations:
   - translation_iso: ara
     name: كوكو-مانك

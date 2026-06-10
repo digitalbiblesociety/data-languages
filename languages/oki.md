@@ -1,5 +1,6 @@
 ---
 iso: oki
+macrolanguage_id: kln
 name: Okiek
 autonym: Akie
 alt_names: ["\"Ndorobo\"", Akiek, Kinare, Ogiek, Ogiek language, Okiekeg, Sogoo]
@@ -7,12 +8,15 @@ population: 250
 country_id: KE
 country_name: Kenya
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.780485
 longitude: 36.59766
 glottocode: okie1245
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Okiek-Akie > Okiek"
+wikidata_id: Q56367
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogiek_language"
 translations:
   - translation_iso: ara

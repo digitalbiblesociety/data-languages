@@ -7,12 +7,15 @@ population: 460
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.06124
 longitude: 147.34952
 glottocode: loni1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > Mokoreng-Loniu > Loniu"
+wikidata_id: Q3259202
 wikipedia_url: "https://en.wikipedia.org/wiki/Loniu_language"
 translations:
   - translation_iso: ara

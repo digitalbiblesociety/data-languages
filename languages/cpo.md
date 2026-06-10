@@ -6,12 +6,15 @@ population: 2000
 country_id: BF
 country_name: Burkina Faso
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.7244
 longitude: -5.2677
 glottocode: kpee1234
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Samogogouanic > Kpeego"
+wikidata_id: Q6435722
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpee_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 220
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.62591
 longitude: 140.76837
 glottocode: dubu1240
 glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Western Pauwasi > Dubu"
+wikidata_id: Q7692059
 wikipedia_url: "https://en.wikipedia.org/wiki/Tebi_language"
 translations:
   - translation_iso: ara

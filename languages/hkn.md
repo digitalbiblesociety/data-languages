@@ -6,12 +6,15 @@ population: null
 country_id: KH
 country_name: Cambodia
 status_id: null
+scope: individual
+language_type: living
 latitude: 12.95
 longitude: 106.31
 glottocode: melk1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Mel-Khaonh"
+wikidata_id: Q19059577
 wikipedia_url: "https://en.wikipedia.org/wiki/Mel-Khaonh_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 89000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.00522
 longitude: -2.51001
 glottocode: nafa1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Nafanan"
+wikidata_id: Q13297
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafanan_language"
 translations:
   - translation_iso: ara

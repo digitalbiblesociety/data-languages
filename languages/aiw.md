@@ -7,12 +7,15 @@ population: 285000
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.95034
 longitude: 36.57211
 glottocode: aari1239
 glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Aari-Gayil > Aari"
+wikidata_id: Q7495
 wikipedia_url: "https://en.wikipedia.org/wiki/Aari_language"
 translations:
   - translation_iso: ara

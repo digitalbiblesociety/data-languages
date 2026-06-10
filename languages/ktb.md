@@ -7,12 +7,15 @@ population: 743000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.37582
 longitude: 37.90877
 glottocode: kamb1316
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Hadiyya-Kambaata > Kambaataic > Kambaata"
+wikidata_id: Q35664
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambaata_language"
 translations:
   - translation_iso: ara

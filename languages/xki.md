@@ -6,12 +6,15 @@ population: 600000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.00166
 longitude: 37.19953
 glottocode: keny1241
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Kenya-Somali Sign Language"
+wikidata_id: Q6392859
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenyan_Sign_Language"
 translations:
   - translation_iso: ara

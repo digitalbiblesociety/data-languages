@@ -6,12 +6,15 @@ population: 12600
 country_id: TH
 country_name: Thailand
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 18.38726
 longitude: 98.97646
 glottocode: yong1277
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Northern Shanic > Sipsongpannic > Yong"
+wikidata_id: Q8054978
 wikipedia_url: "https://en.wikipedia.org/wiki/Yong_language"
 translations:
   - translation_iso: ara

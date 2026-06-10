@@ -6,12 +6,15 @@ alt_names: [Kahabu, Kaxabu, Kulon, Kulon-Pazeh, Kulon-Pazih, Kulun, Pazeh-Kaxabu
 population: 12
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 23.7562
 longitude: 120.976
 glottocode: kulo1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Pazeh-Kahabu"
+wikidata_id: Q36435
 wikipedia_url: "https://en.wikipedia.org/wiki/Pazeh%E2%80%93Kaxabu_language"
 translations:
   - translation_iso: ara

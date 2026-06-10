@@ -7,12 +7,15 @@ population: 138000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.67053
 longitude: -5.17372
 glottocode: tagw1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Tagbana-Jimini > Tagwana Senoufo"
+wikidata_id: Q36514
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagwana_language"
 translations:
   - translation_iso: ara

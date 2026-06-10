@@ -7,12 +7,15 @@ population: 32000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.9513
 longitude: 143.96989
 glottocode: umbu1258
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Aua-Gawil > Umbu-Ungu"
+wikidata_id: Q12953245
 translations:
   - translation_iso: ara
     name: أمبو-أونجو

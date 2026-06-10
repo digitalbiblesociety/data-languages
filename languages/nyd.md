@@ -1,5 +1,6 @@
 ---
 iso: nyd
+macrolanguage_id: luy
 name: Nyore
 autonym: Olunyole
 alt_names: [Lunyole, Lunyore, Nyole, Nyoole, Olunyore]
@@ -7,12 +8,15 @@ population: 155000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.07523
 longitude: 34.6166
 glottocode: nyor1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Nyore"
+wikidata_id: Q7071227
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyole_language_(Kenya)"
 translations:
   - translation_iso: ara

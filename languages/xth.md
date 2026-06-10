@@ -6,6 +6,9 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
+wikidata_id: Q8053879
 wikipedia_url: "https://en.wikipedia.org/wiki/Yitha_Yitha_language"
 translations:
   - translation_iso: ara

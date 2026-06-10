@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.04175
 longitude: 5.54073
 glottocode: cici1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Cicipu"
+wikidata_id: Q35193
 wikipedia_url: "https://en.wikipedia.org/wiki/Cipu_language"
 translations:
   - translation_iso: ara

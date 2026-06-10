@@ -7,9 +7,12 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: historical
 latitude: 31.183333
 longitude: 48.233333
 glottocode: elam1244
+wikidata_id: Q35470
 wikipedia_url: "https://en.wikipedia.org/wiki/Elamite_language"
 translations:
   - translation_iso: ara

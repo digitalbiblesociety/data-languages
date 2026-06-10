@@ -7,12 +7,15 @@ population: 6990
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.21692
 longitude: -66.77141
 glottocode: apur1254
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Apurinã"
+wikidata_id: Q2859081
 wikipedia_url: "https://en.wikipedia.org/wiki/Apurin%C3%A3_language"
 translations:
   - translation_iso: ara

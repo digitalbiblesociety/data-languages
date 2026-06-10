@@ -6,12 +6,15 @@ population: null
 country_id: HR
 country_name: Croatia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 45.649748
 longitude: 16.134109
 glottocode: kajk1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Kajkavian"
+wikidata_id: Q838165
 wikipedia_url: "https://en.wikipedia.org/wiki/Kajkavian"
 translations:
   - translation_iso: ara

@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q16825981
 wikipedia_url: "https://en.wikipedia.org/wiki/Aghu_Tharrnggala_language"
 translations:
   - translation_iso: ara

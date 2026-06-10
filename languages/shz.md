@@ -7,8 +7,11 @@ population: 155000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.59538
 longitude: -5.8581
+wikidata_id: Q36316
 wikipedia_url: "https://en.wikipedia.org/wiki/Syenara_language"
 translations:
   - translation_iso: ara

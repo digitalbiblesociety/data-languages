@@ -7,12 +7,15 @@ population: 1500
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.31783
 longitude: 115.42828
 glottocode: kela1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Kelabit"
+wikidata_id: Q6385445
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelabit_language"
 translations:
   - translation_iso: ara

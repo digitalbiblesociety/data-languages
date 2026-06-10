@@ -7,12 +7,15 @@ population: 1973
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -13.94794
 longitude: 130.6003
 glottocode: madn1237
 glottolog_family_id: east2374
 glottolog_family_name: Eastern Daly
 glottolog_classification: "Eastern Daly > Madngele"
+wikidata_id: Q10575155
 wikipedia_url: "https://en.wikipedia.org/wiki/Matngala_language"
 translations:
   - translation_iso: ara

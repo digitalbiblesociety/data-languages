@@ -7,12 +7,15 @@ population: 2400
 country_id: BF
 country_name: Burkina Faso
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.7176
 longitude: -5.19517
 glottocode: nati1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Natioro"
+wikidata_id: Q36140
 wikipedia_url: "https://en.wikipedia.org/wiki/Natioro_language"
 translations:
   - translation_iso: ara

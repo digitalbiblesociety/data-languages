@@ -7,12 +7,15 @@ population: 2664440
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.84839
 longitude: 106.18729
 glottocode: bouy1240
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Bouyei"
+wikidata_id: Q35100
 wikipedia_url: "https://en.wikipedia.org/wiki/Bouyei_language"
 translations:
   - translation_iso: ara

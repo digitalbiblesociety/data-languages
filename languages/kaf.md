@@ -7,12 +7,15 @@ population: 4000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 24.6
 longitude: 102.4
 glottocode: kats1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Kazhouish > Katso"
+wikidata_id: Q246122
 wikipedia_url: "https://en.wikipedia.org/wiki/Katso_language"
 translations:
   - translation_iso: ara

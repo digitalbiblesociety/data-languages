@@ -6,8 +6,11 @@ alt_names: [Rusnak]
 population: 14185
 country_id: RS
 country_name: Serbia
+scope: individual
+language_type: living
 latitude: 48.7171
 longitude: 22.9579
+wikidata_id: Q35660
 wikipedia_url: "https://en.wikipedia.org/wiki/Pannonian_Rusyn"
 translations:
   - translation_iso: ara

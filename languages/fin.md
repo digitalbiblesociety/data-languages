@@ -1,5 +1,6 @@
 ---
 iso: fin
+iso639_1: fi
 name: Finnish
 autonym: suomen kieli
 alt_names: [An Fhionlainnis, Ffinneg, Fin tili, Fince, Finlandana linguo, Finlandiera, Finneg, Finnek, Finngbe, Finnisc sprǣc, Finnish leid, Finnlynnish, Finnois, Finnsche Spraak, Finnska, Fins, Finsk, Finska, Finès, Finés, Fionnais, Phinis simi, Soomõ kiil, Suomagiella, Suomi-gí, Łéngua finlandexe, Забони финӣ, Суоминь кель, Суоминь кяль, Финляндхойн мотт, Финн йылме, פינית, فىنلاندىيە تىلى, ސުއޯމީ, ‘Ōlelo Pinilana]
@@ -7,6 +8,8 @@ population: 5770040
 country_id: FI
 country_name: Finland
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 64.762825
 longitude: 25.55767
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: finn1318
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Nuclear Finnish > Finnish"
+wikidata_id: Q1412
 wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_language"
 translations:
   - translation_iso: ara

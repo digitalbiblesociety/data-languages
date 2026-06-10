@@ -7,12 +7,15 @@ population: 56400
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.27261
 longitude: 106.32196
 glottocode: lave1248
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Loven-Suq > Laven"
+wikidata_id: Q6298648
 wikipedia_url: "https://en.wikipedia.org/wiki/Jru%27_language"
 translations:
   - translation_iso: ara

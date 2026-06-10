@@ -7,12 +7,15 @@ population: 30000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.39385
 longitude: 108.35351
 glottocode: east2333
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Eastern Mnong"
+wikidata_id: Q12953747
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Mnong"
 translations:
   - translation_iso: ara

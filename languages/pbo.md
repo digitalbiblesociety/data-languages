@@ -7,12 +7,15 @@ population: 173500
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.8977
 longitude: -15.83879
 glottocode: pape1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Cur-Bok-Cotier > Papel"
+wikidata_id: Q36314
 wikipedia_url: "https://en.wikipedia.org/wiki/Papel_language"
 translations:
   - translation_iso: ara

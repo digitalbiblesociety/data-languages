@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 9.85747
 longitude: 11.32197
 glottocode: auyo1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Ngizim-Southwestern Bade > Shira-Southwestern Bade > Shira > Auyokawa"
+wikidata_id: Q56247
 wikipedia_url: "https://en.wikipedia.org/wiki/Auyokawa_language"
 translations:
   - translation_iso: ara

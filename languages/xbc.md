@@ -7,12 +7,15 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: historical
 latitude: 36.81
 longitude: 66.85
 glottocode: bact1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Bactrian"
+wikidata_id: Q756651
 wikipedia_url: "https://en.wikipedia.org/wiki/Bactrian_language"
 translations:
   - translation_iso: ara

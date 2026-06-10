@@ -7,7 +7,10 @@ population: 70000
 country_id: CN
 country_name: China
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Hmng, Latn]
+wikidata_id: Q3307894
 wikipedia_url: "https://en.wikipedia.org/wiki/Hmong_language"
 translations:
   - translation_iso: ara

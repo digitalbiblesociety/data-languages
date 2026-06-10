@@ -7,12 +7,15 @@ population: 790
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.28044
 longitude: 139.57596
 glottocode: bong1287
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Bonggo"
+wikidata_id: Q4941860
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonggo_language"
 translations:
   - translation_iso: ara

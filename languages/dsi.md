@@ -6,12 +6,15 @@ population: 2370
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.32184
 longitude: 19.21559
 glottocode: disa1239
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Koulfaic > Dissa-Canton Mufa"
+wikidata_id: Q3914455
 wikipedia_url: "https://en.wikipedia.org/wiki/Disa_language"
 translations:
   - translation_iso: ara

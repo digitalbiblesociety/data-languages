@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -18.54681
 longitude: 146.17863
 glottocode: warr1255
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Warrgamay"
+wikidata_id: Q3915942
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrgamay_language"
 translations:
   - translation_iso: ara

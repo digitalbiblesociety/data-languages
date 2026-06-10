@@ -7,12 +7,15 @@ population: 187
 country_id: ZA
 country_name: South Africa
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -28.42578
 longitude: 20.72598
 glottocode: xiri1242
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > South Khoekhoe > Xiri"
+wikidata_id: Q36876
 wikipedia_url: "https://en.wikipedia.org/wiki/Xiri_language"
 translations:
   - translation_iso: ara

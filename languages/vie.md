@@ -1,5 +1,6 @@
 ---
 iso: vie
+iso639_1: vi
 name: Vietnamese
 autonym: Tiếng Việt
 alt_names: [Annamese, Annamite, Ching, Gin, Jing, Kinh, Oa̍t-lâm-gí, Viet, Vietnamana linguo, Vietnamca, Vietnamees, Vietnamera, Vietnamesisk, Vietnamesiska, Vietnamien, Vietnamita, Víetnamska, Witnam simi, Ye̍t-nàm-ngî, Забони ветнамӣ, וייטנאמית, فييتنامى, ۋيېتنام تىلى]
@@ -7,6 +8,8 @@ population: 76000000
 country_id: VN
 country_name: Vietnam
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 18.388703
 longitude: 106.756827
 scripts: [Hani, Latn]
@@ -14,6 +17,7 @@ glottocode: viet1252
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Viet-Muong > Vietnamese"
+wikidata_id: Q9199
 wikipedia_url: "https://en.wikipedia.org/wiki/Vietnamese_language"
 translations:
   - translation_iso: ara

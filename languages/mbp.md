@@ -7,12 +7,15 @@ population: 1920
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.92861
 longitude: -73.40561
 glottocode: mala1522
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Arhuacic > Eastern-Southern Arhuacic > Eastern Arhuacic > Malayo"
+wikidata_id: Q3012604
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiwa_language"
 translations:
   - translation_iso: ara

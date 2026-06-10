@@ -7,12 +7,15 @@ population: 100
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -13.15275
 longitude: 143.46729
 glottocode: umpi1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Umpila"
+wikidata_id: Q12953954
 wikipedia_url: "https://en.wikipedia.org/wiki/Umpila_language"
 translations:
   - translation_iso: ara

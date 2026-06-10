@@ -7,12 +7,15 @@ population: 1065
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -29.90374
 longitude: 149.54301
 glottocode: gami1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Wiradhuric > Yuwaalaraay-Gamilaraay"
+wikidata_id: Q3111818
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamilaraay_language"
 translations:
   - translation_iso: ara

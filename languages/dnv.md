@@ -6,6 +6,9 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q5221251
 wikipedia_url: "https://en.wikipedia.org/wiki/Danu_language"
 translations:
   - translation_iso: ara

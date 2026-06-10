@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 9.42456
 longitude: 10.21664
 glottocode: dugu1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jar > Jarawaic > Duguri"
+wikidata_id: Q7194057
 translations:
   - translation_iso: ara
     name: دوجوري

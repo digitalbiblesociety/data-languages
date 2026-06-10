@@ -1,5 +1,6 @@
 ---
 iso: azj
+macrolanguage_id: aze
 name: North Azerbaijani
 autonym: " آذربایجان دیلی"
 alt_names: [Aderbeidjanisch, Azarbaydjanian, Azerbaijani, "Azerbaijani, North", Azerbaijanian, Azerbaydzhani, Azeri Turk, North Azeri language, Turkler]
@@ -7,12 +8,15 @@ population: 9220600
 country_id: AZ
 country_name: Azerbaijan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 40.977675
 longitude: 46.473698
 glottocode: nort2697
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > Central Oghuz > North Azerbaijani"
+wikidata_id: Q3515311
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Azerbaijani_language"
 translations:
   - translation_iso: ara

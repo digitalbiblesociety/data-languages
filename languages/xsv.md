@@ -6,6 +6,9 @@ population: null
 country_id: LT
 country_name: Lithuania
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q35603
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudovian_language"
 translations:
   - translation_iso: ara

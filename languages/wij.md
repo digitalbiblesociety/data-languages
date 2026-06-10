@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -14.12728
 longitude: 142.78055
 glottocode: wiki1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Mungkan-Mungkanhu > Wik-Iiyanh"
+wikidata_id: Q10720036
 translations:
   - translation_iso: ara
     name: ويكيييانه

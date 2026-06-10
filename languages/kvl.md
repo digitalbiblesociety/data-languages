@@ -7,12 +7,15 @@ population: 16600
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.05612
 longitude: 96.83655
 glottocode: brek1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayaw-Manu > Brek Karen"
+wikidata_id: Q12952577
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayaw_language"
 translations:
   - translation_iso: ara

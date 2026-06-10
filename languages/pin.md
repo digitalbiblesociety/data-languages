@@ -6,12 +6,15 @@ population: 100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.85835
 longitude: 142.78426
 glottocode: piam1243
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Piame"
+wikidata_id: Q7190042
 wikipedia_url: "https://en.wikipedia.org/wiki/Piame_language"
 translations:
   - translation_iso: ara

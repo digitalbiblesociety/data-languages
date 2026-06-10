@@ -7,12 +7,15 @@ population: 1700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.51218
 longitude: 147.43743
 glottocode: gras1249
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Koita-Koiari > Grass Koiari"
+wikidata_id: Q12952642
 wikipedia_url: "https://en.wikipedia.org/wiki/Grass_Koiari_language"
 translations:
   - translation_iso: ara

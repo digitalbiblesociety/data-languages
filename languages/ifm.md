@@ -7,12 +7,15 @@ population: 8150
 country_id: CG
 country_name: Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.59003
 longitude: 15.50605
 glottocode: teke1274
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > Teke-Fuumu"
+wikidata_id: Q36603
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuumu_language"
 translations:
   - translation_iso: ara

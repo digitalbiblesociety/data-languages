@@ -7,12 +7,15 @@ population: 2000
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 40
 longitude: -90
 glottocode: miam1252
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Miami"
+wikidata_id: Q56523
 wikipedia_url: "https://en.wikipedia.org/wiki/Miami%E2%80%93Illinois_language"
 translations:
   - translation_iso: ara

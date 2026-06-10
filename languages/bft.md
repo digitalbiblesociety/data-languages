@@ -7,6 +7,8 @@ population: 438800
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 34.449115
 longitude: 77.28594
 scripts: [Arab, Tibt]
@@ -14,6 +16,7 @@ glottocode: balt1258
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Shamskatic > Balti"
+wikidata_id: Q33086
 wikipedia_url: "https://en.wikipedia.org/wiki/Balti_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4410
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.29079
 longitude: 30.52819
 glottocode: heib1243
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Ebang-Laru > Ebang"
+wikidata_id: Q35523
 wikipedia_url: "https://en.wikipedia.org/wiki/Heiban_language"
 translations:
   - translation_iso: ara

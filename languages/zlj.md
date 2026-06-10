@@ -1,5 +1,6 @@
 ---
 iso: zlj
+macrolanguage_id: zha
 name: Liujiang Zhuang
 autonym: Vahcuengh (za)
 alt_names: [Chuang, Liuchiang, Liujiang, Zhuang, Zhuang (Northern), "Zhuang, Liujiang"]
@@ -7,12 +8,15 @@ population: 1560000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.68182
 longitude: 107.18368
 glottocode: liuj1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Lianshan-Liujiang > Liujiang Zhuang"
+wikidata_id: Q17651540
 translations:
   - translation_iso: ara
     name: لغة ليوجيانغ زوانغ

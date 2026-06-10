@@ -7,12 +7,15 @@ population: 10
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -12.0456
 longitude: -53.39943
 glottocode: mati1253
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Kuikuroan > Nuclear Kuikuroan > Matipuhy"
+wikidata_id: Q6787588
 wikipedia_url: "https://en.wikipedia.org/wiki/Matipuhy_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 450
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.77803
 longitude: 149.49456
 glottocode: mape1250
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Southwest Dagan > Mapena"
+wikidata_id: Q11732415
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapena_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -24.10724
 longitude: 116.98858
 glottocode: djiw1241
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Mantharta > Djiwarli-Thiin > Djiwarli"
+wikidata_id: Q2669569
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiwarli_dialect"
 translations:
   - translation_iso: ara

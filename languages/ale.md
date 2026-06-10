@@ -7,6 +7,8 @@ population: 155
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 52.12283
 longitude: -174.29013
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: aleu1260
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Aleutic > Aleut"
+wikidata_id: Q27210
 wikipedia_url: "https://en.wikipedia.org/wiki/Aleut_language"
 translations:
   - translation_iso: ara

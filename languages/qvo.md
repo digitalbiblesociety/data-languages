@@ -1,5 +1,6 @@
 ---
 iso: qvo
+macrolanguage_id: que
 name: Napo Lowland Quechua
 autonym: Kichwa Shimi
 alt_names: [Ingano, Kicho, Lowland Ecuadorian Quichua, Lowland Kichua, Lowland Napo Quichua, Napo, Napo Kichua, Napo Quichua, "Quechua, Napo Lowland", "Quichua, Napo Lowland", Quijo, Quixo, Runa Shimi, Santa Rosa Quechua, Santarrosino, Yumbo]
@@ -7,12 +8,15 @@ population: 24000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.072525
 longitude: -76.38891
 glottocode: napo1242
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Imbabura-Colombia-Oriente Quechua > Colombia-Oriente Quechua > Oriente Quechua > Napo Lowland Quechua"
+wikidata_id: Q25559706
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا نابو المنخفضة

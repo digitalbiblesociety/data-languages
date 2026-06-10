@@ -1,5 +1,6 @@
 ---
 iso: gla
+iso639_1: gd
 name: Scottish Gaelic
 autonym: Gàidhlig
 alt_names: [Albanek, Albannach Gaidhlig, Erse, Escocés, Escôswès, Eskoziako gaelera, Gadhelisch, Gaeilge na hAlban, Gaelagiella, Gaeleg yr Alban, Gaelg Albinagh, Gaeli, Gaelic, Gaelic (Scots), Gaelic (Scottish), "Gaelic, Scottish", Gaelich Scuzzes, Gaèlic escocès, Gaèlico ècocês, Gaélico escocés, Gaélicu escocés, Gaélique écossais, Gelíska, Gouezeleg Skos, Gälisch, Iskut kilta simi, Lenghe gaeliche scozês, Luenga gaélica escocesa, Schots-Gaelisch, Schottsch Gäälsch, Scotch-Gaelic, Scots Gaelic, Scots Gaelic leid, Scottish, Scyttisce sprǣc, Sjots Gaelic, Skots-Gaelies, Skotsk gäliska, Skotsk gælisk, Skotsk-gælisk, Skotskt gæliskt, Szkocko gaelicko godka, gaélique, İskoçça, גאלית סקוטית, شوتلاندىيە گائېل تىلى, گادێلیی سکۆتی]
@@ -7,6 +8,8 @@ population: 60130
 country_id: GB
 country_name: United Kingdom
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 56.75735
 longitude: -5.24366
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: scot1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Goidelic > Modern Goidelic > Eastern Goidelic > Scottish Gaelic"
+wikidata_id: Q9314
 wikipedia_url: "https://en.wikipedia.org/wiki/Scottish_Gaelic"
 translations:
   - translation_iso: ara

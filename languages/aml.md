@@ -7,12 +7,15 @@ population: 68000
 country_id: BD
 country_name: Bangladesh
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.115395
 longitude: 91.626615
 glottocode: warj1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > War-Jaintia"
+wikidata_id: Q56321
 wikipedia_url: "https://en.wikipedia.org/wiki/War_language"
 translations:
   - translation_iso: ara

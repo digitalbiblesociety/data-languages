@@ -6,8 +6,11 @@ population: null
 country_id: NL
 country_name: Netherlands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 52.29257
 longitude: 6.77085
+wikidata_id: Q497363
 wikipedia_url: "https://en.wikipedia.org/wiki/Tweants_dialect"
 translations:
   - translation_iso: ara

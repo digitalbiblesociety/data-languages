@@ -7,12 +7,15 @@ population: 153000
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 25.68413
 longitude: 93.86681
 glottocode: anga1288
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Angami-Chokri > Angami Naga"
+wikidata_id: Q56761
 wikipedia_url: "https://en.wikipedia.org/wiki/Angami_language"
 translations:
   - translation_iso: ara

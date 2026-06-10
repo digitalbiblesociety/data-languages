@@ -1,5 +1,6 @@
 ---
 iso: yih
+macrolanguage_id: yid
 name: Western Yiddish
 autonym: ייִדיש
 alt_names: [Central Yiddish, Judeo-German, Western, Yiddish, "Yiddish, Western", Yidish]
@@ -7,12 +8,15 @@ population: 600000
 country_id: DE
 country_name: Germany
 status_id: "7"
+scope: individual
+language_type: extinct
 latitude: 51.68892
 longitude: 12.26013
 glottocode: west2361
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Western Yiddish"
+wikidata_id: Q6593714
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Yiddish_language"
 translations:
   - translation_iso: ara

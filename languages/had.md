@@ -7,12 +7,15 @@ population: 16000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.13531
 longitude: 134.03715
 glottocode: hata1243
 glottolog_family_id: hata1242
 glottolog_family_name: Hatam-Mansim
 glottolog_classification: "Hatam-Mansim > Hatam"
+wikidata_id: Q56825
 wikipedia_url: "https://en.wikipedia.org/wiki/Hatam_language"
 translations:
   - translation_iso: ara

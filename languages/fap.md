@@ -7,12 +7,15 @@ population: 10700
 country_id: SN
 country_name: Senegal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.86283
 longitude: -16.95567
 glottocode: palo1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Palor-Ndut > Palor"
+wikidata_id: Q36318
 wikipedia_url: "https://en.wikipedia.org/wiki/Palor_language"
 translations:
   - translation_iso: ara

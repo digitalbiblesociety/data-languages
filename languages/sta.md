@@ -7,12 +7,15 @@ population: null
 country_id: ZM
 country_name: Zambia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -15.60667
 longitude: 28.69228
 glottocode: sett1235
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Swahili-based pidgin > Upcountry Swahili > KiSetla"
+wikidata_id: Q7456938
 wikipedia_url: "https://en.wikipedia.org/wiki/Settler_Swahili"
 translations:
   - translation_iso: ara

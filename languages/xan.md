@@ -7,12 +7,15 @@ population: 213000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.44788
 longitude: 38.83518
 glottocode: xamt1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Northeastern Agaw > Xamtanga"
+wikidata_id: Q56527
 wikipedia_url: "https://en.wikipedia.org/wiki/Xamtanga_language"
 translations:
   - translation_iso: ara

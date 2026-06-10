@@ -7,6 +7,8 @@ population: 1705160
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.13911
 longitude: 32.38286
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nuer1246
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Nuer-Reel > Nuer"
+wikidata_id: Q33675
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuer_language"
 translations:
   - translation_iso: ara

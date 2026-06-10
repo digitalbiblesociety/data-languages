@@ -7,12 +7,15 @@ population: 12000
 country_id: TJ
 country_name: Tajikistan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 39.14856
 longitude: 69.24216
 glottocode: yagn1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Sogdic > Sogdian-Yagnobi > Yagnobi"
+wikidata_id: Q34247
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaghnobi_language"
 translations:
   - translation_iso: ara

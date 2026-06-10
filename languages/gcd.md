@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -17.54458
 longitude: 139.42637
 glottocode: gang1267
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Ganggalida"
+wikidata_id: Q3913765
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukulta_language"
 translations:
   - translation_iso: ara

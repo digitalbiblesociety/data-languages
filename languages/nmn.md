@@ -7,12 +7,15 @@ population: 4000
 country_id: BW
 country_name: Botswana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -24.20022
 longitude: 20.79583
 glottocode: huaa1248
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > Hua > Taa > East Taa"
+wikidata_id: Q13229
 wikipedia_url: "https://en.wikipedia.org/wiki/Taa_language"
 translations:
   - translation_iso: ara

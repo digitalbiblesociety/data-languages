@@ -7,12 +7,15 @@ population: 154100
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.685455
 longitude: 30.565245
 glottocode: ndoo1242
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Ndo"
+wikidata_id: Q6983774
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndo_language"
 translations:
   - translation_iso: ara

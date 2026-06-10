@@ -7,12 +7,15 @@ population: 1964
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -4.23181
 longitude: 144.28479
 glottocode: amba1269
 glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > East Keram > Ambakich"
+wikidata_id: Q56642
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambakich_language"
 translations:
   - translation_iso: ara

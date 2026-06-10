@@ -7,12 +7,15 @@ population: 7000
 country_id: UY
 country_name: Uruguay
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -34.59671
 longitude: -56.4509
 glottocode: urug1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Uruguayan Sign Language"
+wikidata_id: Q7901470
 wikipedia_url: "https://en.wikipedia.org/wiki/Uruguayan_Sign_Language"
 translations:
   - translation_iso: ara

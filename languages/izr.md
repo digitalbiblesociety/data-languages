@@ -7,12 +7,15 @@ population: 50000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.93195
 longitude: 9.09741
 glottocode: izer1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Izeric > Izere"
+wikidata_id: Q6101921
 wikipedia_url: "https://en.wikipedia.org/wiki/Izere_language"
 translations:
   - translation_iso: ara

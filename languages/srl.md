@@ -7,12 +7,15 @@ population: 1800
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.88775
 longitude: 138.59509
 glottocode: isir1237
 glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Isirawa"
+wikidata_id: Q4203802
 wikipedia_url: "https://en.wikipedia.org/wiki/Isirawa_language"
 translations:
   - translation_iso: ara

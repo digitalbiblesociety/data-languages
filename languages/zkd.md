@@ -6,6 +6,9 @@ population: 30000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
+wikidata_id: Q54324451
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadu_language"
 translations:
   - translation_iso: ara

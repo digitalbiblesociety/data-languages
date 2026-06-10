@@ -7,12 +7,15 @@ population: 25000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.59038
 longitude: 84.1907
 glottocode: bijo1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Asuric > Bijori"
+wikidata_id: Q3450686
 wikipedia_url: "https://en.wikipedia.org/wiki/Birjia_language"
 translations:
   - translation_iso: ara

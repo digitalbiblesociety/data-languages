@@ -7,12 +7,15 @@ population: 3500
 country_id: CO
 country_name: Colombia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 4.258768
 longitude: -77.356568
 glottocode: epen1239
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Epena"
+wikidata_id: Q3055682
 wikipedia_url: "https://en.wikipedia.org/wiki/Eperara_language"
 translations:
   - translation_iso: ara

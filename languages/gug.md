@@ -1,5 +1,6 @@
 ---
 iso: gug
+macrolanguage_id: grn
 name: Paraguayan Guaraní
 autonym: Paraguayan Guarani
 alt_names: [Aché, "Avanye'e", "Avañe'e", "Avañe'ẽ", Avañee, Axe, Guaiaqui, Guajaki, Guarani, Guarani (Paraguayan), Guarani linguo, Guarani paraguaio, Guaraniera, Guaranì, Guaraní, Guaraní language area, "Guaraní, Paraguayan", Guaranían, Guaráinis, Guayaki-Ache, Guayakí, Guoyagui, Gwarani, Gwaranieg, Modern Guaraní, Waraniyi simi, Гварани, Гуарани, Гуарані, גוארני, گۇئارانچە]
@@ -7,12 +8,15 @@ population: 6540000
 country_id: PY
 country_name: Paraguay
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -25.60551
 longitude: -57.08816
 glottocode: para1311
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Paraguayan Guaraní"
+wikidata_id: Q17478066
 wikipedia_url: "https://en.wikipedia.org/wiki/Guarani_language"
 translations:
   - translation_iso: ara

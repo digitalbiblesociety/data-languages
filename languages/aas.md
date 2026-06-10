@@ -7,12 +7,15 @@ population: 350
 country_id: TZ
 country_name: Tanzania
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -4.00679
 longitude: 36.86477
 glottocode: aasa1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Aasax"
+wikidata_id: Q56620
 wikipedia_url: "https://en.wikipedia.org/wiki/Asa_language"
 translations:
   - translation_iso: ara

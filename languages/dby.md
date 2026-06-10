@@ -7,9 +7,12 @@ population: 1950
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.82096
 longitude: 142.77883
 glottocode: dibi1240
+wikidata_id: Q5272268
 wikipedia_url: "https://en.wikipedia.org/wiki/Dibiyaso_language"
 translations:
   - translation_iso: ara

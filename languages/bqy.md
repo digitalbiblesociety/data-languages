@@ -7,12 +7,15 @@ population: 1125
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.383
 longitude: 115.098
 glottocode: beng1239
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Kata Kolok"
+wikidata_id: Q3322119
 wikipedia_url: "https://en.wikipedia.org/wiki/Kata_Kolok"
 translations:
   - translation_iso: ara

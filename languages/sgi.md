@@ -7,12 +7,15 @@ population: 10000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.12906
 longitude: 12.37786
 glottocode: suga1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Nizaa"
+wikidata_id: Q36475
 wikipedia_url: "https://en.wikipedia.org/wiki/Nizaa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -17.45658
 longitude: 140.95758
 glottocode: kuth1240
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kuthant-Gurdjar > Kuthant"
+wikidata_id: Q6448417
 wikipedia_url: "https://en.wikipedia.org/wiki/Gkuthaarn_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: JP
 country_name: Japan
 status_id: null
+scope: individual
+language_type: historical
 latitude: 34.68333
 longitude: 135.8
 glottocode: oldj1239
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Japanesic > Old Japanese"
+wikidata_id: Q5736700
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Japanese"
 translations:
   - translation_iso: ara

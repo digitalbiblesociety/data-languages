@@ -7,12 +7,15 @@ population: 84000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.29177
 longitude: -6.23255
 glottocode: koya1253
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Maninka-Mori > Koro-Koyaga > Koyaga"
+wikidata_id: Q11155632
 translations:
   - translation_iso: ara
     name: لغة كويايا

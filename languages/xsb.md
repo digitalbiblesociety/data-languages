@@ -7,12 +7,15 @@ population: 70000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 15.5797
 longitude: 120.0948
 glottocode: tina1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Tina-Bolinao > Tinà Sambal"
+wikidata_id: Q2592378
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambal_language"
 translations:
   - translation_iso: ara

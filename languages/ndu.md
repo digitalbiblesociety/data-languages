@@ -7,12 +7,15 @@ population: 7000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.38689
 longitude: 13.39664
 glottocode: dugu1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Diic > Dugun"
+wikidata_id: Q11015189
 translations:
   - translation_iso: ara
     name: دوجون

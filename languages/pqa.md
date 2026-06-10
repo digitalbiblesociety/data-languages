@@ -7,12 +7,15 @@ population: 8000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.01752
 longitude: 9.30091
 glottocode: paaa1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Pa'a"
+wikidata_id: Q3441315
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa%CA%BCa_language"
 translations:
   - translation_iso: ara

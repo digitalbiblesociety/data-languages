@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.86959
 longitude: 144.16627
 glottocode: muri1260
 glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Nor > Murik (Papua New Guinea)"
+wikidata_id: Q7050035
 wikipedia_url: "https://en.wikipedia.org/wiki/Nor_language"
 translations:
   - translation_iso: ara

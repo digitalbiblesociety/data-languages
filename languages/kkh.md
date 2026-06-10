@@ -7,12 +7,15 @@ population: 106880
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.60624
 longitude: 99.336285
 glottocode: khun1259
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Yuanic > Khün"
+wikidata_id: Q3545044
 wikipedia_url: "https://en.wikipedia.org/wiki/Kh%C3%BCn_language"
 translations:
   - translation_iso: ara

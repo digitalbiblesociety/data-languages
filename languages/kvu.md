@@ -7,12 +7,15 @@ population: 7300
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.03831
 longitude: 97.2134
 glottocode: yinb1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Yinbaw Karen"
+wikidata_id: Q14426328
 translations:
   - translation_iso: ara
     name: كارين ينباو

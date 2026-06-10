@@ -7,12 +7,15 @@ population: 346
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 49.36393
 longitude: 143.12819
 glottocode: orok1265
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Ulchaic > Orok"
+wikidata_id: Q33928
 wikipedia_url: "https://en.wikipedia.org/wiki/Uilta_language"
 translations:
   - translation_iso: ara

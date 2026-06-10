@@ -7,12 +7,15 @@ population: 3400
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.43005
 longitude: 138.56574
 glottocode: casu1237
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Casuarina Coast Asmat"
+wikidata_id: Q11732046
 wikipedia_url: "https://en.wikipedia.org/wiki/Casuarina_Coast_Asmat_language"
 translations:
   - translation_iso: ara

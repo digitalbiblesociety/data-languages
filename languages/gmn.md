@@ -7,12 +7,15 @@ population: 3000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.58129
 longitude: 12.78694
 glottocode: gimn1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Koma Alantika > Gimnime"
+wikidata_id: Q11016905
 translations:
   - translation_iso: ara
     name: غيمنيمإ

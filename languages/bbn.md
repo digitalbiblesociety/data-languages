@@ -7,12 +7,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.89383
 longitude: 149.14064
 glottocode: unea1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Bali-Vitu > Uneapa"
+wikidata_id: Q7884126
 wikipedia_url: "https://en.wikipedia.org/wiki/Uneapa_language"
 translations:
   - translation_iso: ara

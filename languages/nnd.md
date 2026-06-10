@@ -7,12 +7,15 @@ population: 8700
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.42811
 longitude: 167.80748
 glottocode: west2513
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Ambae > West Ambae"
+wikidata_id: Q2841479
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Ambae_language"
 translations:
   - translation_iso: ara

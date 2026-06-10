@@ -7,12 +7,15 @@ population: 360
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.95195
 longitude: 142.30702
 glottocode: pasi1259
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yimin-Bel > Pasi"
+wikidata_id: Q7142091
 wikipedia_url: "https://en.wikipedia.org/wiki/Pasi_language"
 translations:
   - translation_iso: ara

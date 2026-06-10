@@ -6,12 +6,15 @@ population: 400
 country_id: PK
 country_name: Pakistan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 25.482
 longitude: 69.31
 glottocode: bhay1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Bhaya"
+wikidata_id: Q8841168
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhaya_language"
 translations:
   - translation_iso: ara

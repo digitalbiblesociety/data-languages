@@ -7,12 +7,15 @@ population: 6800
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 47.58251
 longitude: -114.18987
 glottocode: kali1308
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Kalispel-Spokane > Kalispel-Pend d'Oreille"
+wikidata_id: Q3111983
 wikipedia_url: "https://en.wikipedia.org/wiki/Salish%E2%80%93Spokane%E2%80%93Kalispel_language"
 translations:
   - translation_iso: ara

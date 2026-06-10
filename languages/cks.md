@@ -7,12 +7,15 @@ population: 900
 country_id: NC
 country_name: New Caledonia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -22.22768
 longitude: 166.54637
 glottocode: tayo1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Tayo"
+wikidata_id: Q1133089
 wikipedia_url: "https://en.wikipedia.org/wiki/Tayo_Creole"
 translations:
   - translation_iso: ara

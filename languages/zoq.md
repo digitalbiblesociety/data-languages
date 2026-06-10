@@ -7,12 +7,15 @@ population: 367
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 18.17129
 longitude: -93.09679
 glottocode: taba1264
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Texistepec-Ayapa Zoque > Tabasco Zoque"
+wikidata_id: Q323325
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayapa_Zoque"
 translations:
   - translation_iso: ara

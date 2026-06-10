@@ -7,12 +7,15 @@ population: 600000
 country_id: US
 country_name: United States
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.62875
 longitude: -155.43698
 glottocode: hawa1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Hawai'i Creole English"
+wikidata_id: Q35602
 wikipedia_url: "https://en.wikipedia.org/wiki/Hawaiian_Pidgin"
 translations:
   - translation_iso: ara

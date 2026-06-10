@@ -7,9 +7,12 @@ population: 382
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -17.86961
 longitude: -57.28974
 glottocode: guat1253
+wikidata_id: Q3027940
 wikipedia_url: "https://en.wikipedia.org/wiki/Guat%C3%B3_language"
 translations:
   - translation_iso: ara

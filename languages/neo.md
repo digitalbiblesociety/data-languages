@@ -7,12 +7,15 @@ population: 1200
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.41886
 longitude: 106.43476
 glottocode: name1237
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > East Hmongic > South Qiandongic Miao > Ná-Meo"
+wikidata_id: Q15977293
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%A1-Meo_language"
 translations:
   - translation_iso: ara

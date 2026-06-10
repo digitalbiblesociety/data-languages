@@ -6,12 +6,15 @@ population: 700
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.73681
 longitude: 136.03229
 glottocode: busa1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Serui-Busami > Busami"
+wikidata_id: Q5001255
 wikipedia_url: "https://en.wikipedia.org/wiki/Busami_language"
 translations:
   - translation_iso: ara

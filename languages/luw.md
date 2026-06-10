@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.9072
 longitude: 9.91259
 glottocode: luoc1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Njerup > Luo (Cameroon)"
+wikidata_id: Q3915366
 wikipedia_url: "https://en.wikipedia.org/wiki/Luo_language_(Cameroon)"
 translations:
   - translation_iso: ara

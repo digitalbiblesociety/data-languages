@@ -6,12 +6,15 @@ population: 3200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.41042
 longitude: 154.62419
 glottocode: solo1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Solos"
+wikidata_id: Q3489591
 wikipedia_url: "https://en.wikipedia.org/wiki/Solos_language"
 translations:
   - translation_iso: ara

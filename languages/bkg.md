@@ -6,8 +6,11 @@ population: 2500
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.42283
 longitude: 20.71609
+wikidata_id: Q35066
 translations:
   - translation_iso: ara
     name: بوراكا

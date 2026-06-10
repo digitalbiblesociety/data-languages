@@ -6,8 +6,11 @@ population: 12
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 3.01294
 longitude: -57.92215
+wikidata_id: Q12953626
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikiana_language"
 translations:
   - translation_iso: ara

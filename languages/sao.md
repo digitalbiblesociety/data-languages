@@ -6,9 +6,12 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.16632
 longitude: 139.62656
 glottocode: saus1247
+wikidata_id: Q4409155
 wikipedia_url: "https://en.wikipedia.org/wiki/Sause_language"
 translations:
   - translation_iso: ara

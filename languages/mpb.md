@@ -7,12 +7,15 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.29728
 longitude: 130.61484
 glottocode: mull1237
 glottolog_family_id: nort1547
 glottolog_family_name: Northern Daly
 glottolog_classification: "Northern Daly > Mullukmulluk"
+wikidata_id: Q6741120
 wikipedia_url: "https://en.wikipedia.org/wiki/Malak-Malak_language"
 translations:
   - translation_iso: ara

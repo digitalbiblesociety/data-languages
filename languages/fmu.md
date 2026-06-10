@@ -7,12 +7,15 @@ population: 400000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.17542
 longitude: 80.47121
 glottocode: farw1235
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Southern Gondi > Eastern Gondi > Far Western Muria"
+wikidata_id: Q42589412
 translations:
   - translation_iso: ara
     name: الموريا الشرقية البعيدة

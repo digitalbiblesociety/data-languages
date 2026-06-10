@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 42.852778
 longitude: 89.529167
 glottocode: oldu1238
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Old Turkic"
+wikidata_id: Q428299
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Uyghur"
 translations:
   - translation_iso: ara

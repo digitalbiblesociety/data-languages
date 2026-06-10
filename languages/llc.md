@@ -7,12 +7,15 @@ population: 11000
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.98043
 longitude: -10.37098
 glottocode: lele1266
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Lele (Guinea)"
+wikidata_id: Q6520837
 wikipedia_url: "https://en.wikipedia.org/wiki/Lele_language_(Guinea)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2500
 country_id: BW
 country_name: Botswana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -22.27083
 longitude: 21.94314
 glottocode: gwii1239
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Ana > /Gwi"
+wikidata_id: Q12631978
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C7%80ui_dialect"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 60.42382
 longitude: -148.04281
 glottocode: paci1278
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Pacific Gulf Yupik"
+wikidata_id: Q27992
 wikipedia_url: "https://en.wikipedia.org/wiki/Alutiiq_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: kiu
+macrolanguage_id: zza
 name: Kirmanjki
 autonym: Alevica
 alt_names: [Dersimki, Dimilki, Northern Zaza, So-Bê, Zaza, Zazaki, Zonê Ma]
@@ -7,6 +8,8 @@ population: 203000
 country_id: TR
 country_name: Turkey
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 39.16361
 longitude: 39.40036
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: kirm1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Zaza > Kirmanjki"
+wikidata_id: Q3944007
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Zaza"
 translations:
   - translation_iso: ara

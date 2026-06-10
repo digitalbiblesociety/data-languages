@@ -7,12 +7,15 @@ population: 51
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.96079
 longitude: 134.30755
 glottocode: remb1249
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Jala > Rembarrnga"
+wikidata_id: Q7311553
 wikipedia_url: "https://en.wikipedia.org/wiki/Rembarrnga_language"
 translations:
   - translation_iso: ara

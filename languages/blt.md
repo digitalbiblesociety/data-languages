@@ -7,6 +7,8 @@ population: 777700
 country_id: VN
 country_name: Vietnam
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.957235
 longitude: 102.927963
 scripts: [Tavt]
@@ -14,6 +16,7 @@ glottocode: taid1247
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Black Tai > Tai Dam"
+wikidata_id: Q56407
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Dam_language"
 translations:
   - translation_iso: ara

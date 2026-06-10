@@ -6,9 +6,12 @@ population: null
 country_id: AR
 country_name: Argentina
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -25.221839
 longitude: -61.887818
 glottocode: lule1238
+wikidata_id: Q12635889
 wikipedia_url: "https://en.wikipedia.org/wiki/Lule_language"
 translations:
   - translation_iso: ara

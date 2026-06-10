@@ -7,12 +7,15 @@ population: 321000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.014405
 longitude: 14.86966
 glottocode: tupu1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Tupuri"
+wikidata_id: Q36646
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupuri_language"
 translations:
   - translation_iso: ara

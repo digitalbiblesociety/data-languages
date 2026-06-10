@@ -7,12 +7,15 @@ population: 172434
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.73287
 longitude: 87.53044
 glottocode: musa1263
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Unclassified Tharu > Musasa"
+wikidata_id: Q6940122
 wikipedia_url: "https://en.wikipedia.org/wiki/Musasa_language"
 translations:
   - translation_iso: ara

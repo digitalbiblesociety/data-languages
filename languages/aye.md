@@ -6,12 +6,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.52206
 longitude: 6.01979
 glottocode: ayer1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Ayere-Ahan > Ayere"
+wikidata_id: Q34788
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayere_language"
 translations:
   - translation_iso: ara

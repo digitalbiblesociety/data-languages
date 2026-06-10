@@ -7,9 +7,12 @@ population: 220
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -4.4725
 longitude: 142.01084
 glottocode: papi1255
+wikidata_id: Q7132809
 wikipedia_url: "https://en.wikipedia.org/wiki/Papi_language"
 translations:
   - translation_iso: ara

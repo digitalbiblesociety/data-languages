@@ -7,12 +7,15 @@ population: 200000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.14222
 longitude: 80.88926
 glottocode: east2340
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Muria > Eastern Muria"
+wikidata_id: Q12952883
 translations:
   - translation_iso: ara
     name: الموريا الشرقية

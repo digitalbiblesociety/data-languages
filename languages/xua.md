@@ -7,12 +7,15 @@ population: 2500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.34565
 longitude: 76.7995
 glottocode: aluk1238
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Alu Kurumba"
+wikidata_id: Q12952679
 wikipedia_url: "https://en.wikipedia.org/wiki/Alu_Kurumba_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2390
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -7.87489
 longitude: 140.86307
 glottocode: yeii1239
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Yei"
+wikidata_id: Q8051326
 wikipedia_url: "https://en.wikipedia.org/wiki/Yei_language"
 translations:
   - translation_iso: ara

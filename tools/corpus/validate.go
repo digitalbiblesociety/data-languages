@@ -15,6 +15,8 @@ import (
 // error so writers stay consistent.
 var CanonicalOrder = []string{
 	"iso",
+	"iso639_1",
+	"macrolanguage_id",
 	"name",
 	"autonym",
 	"alt_names",
@@ -22,6 +24,8 @@ var CanonicalOrder = []string{
 	"country_id",
 	"country_name",
 	"status_id",
+	"scope",
+	"language_type",
 	"latitude",
 	"longitude",
 	"scripts",
@@ -29,6 +33,7 @@ var CanonicalOrder = []string{
 	"glottolog_family_id",
 	"glottolog_family_name",
 	"glottolog_classification",
+	"wikidata_id",
 	"wikipedia_url",
 	"translations",
 	"rolv_dialects",
@@ -45,9 +50,13 @@ var (
 		return m
 	}()
 
-	statusValues = []string{"0", "1", "2", "3", "4", "5", "6a", "6b", "7", "8a", "8b", "9", "10"}
+	statusValues       = []string{"0", "1", "2", "3", "4", "5", "6a", "6b", "7", "8a", "8b", "9", "10"}
+	scopeValues        = []string{"individual", "macrolanguage", "special"}
+	languageTypeValues = []string{"living", "extinct", "ancient", "historical", "constructed", "special"}
 
 	reISO        = regexp.MustCompile(`^[a-z]{3}$`)
+	reISO6391    = regexp.MustCompile(`^[a-z]{2}$`)
+	reWikidataID = regexp.MustCompile(`^Q[1-9][0-9]*$`)
 	reCountryID  = regexp.MustCompile(`^[A-Z]{2}$`)
 	reGlottocode = regexp.MustCompile(`^[a-z0-9]{4}\d{4}$`)
 	reScriptCode = regexp.MustCompile(`^[A-Z][a-z]{3}$`)
@@ -78,6 +87,15 @@ func setOf(xs ...string) map[string]bool {
 		m[x] = true
 	}
 	return m
+}
+
+func oneOf(v string, vals []string) bool {
+	for _, s := range vals {
+		if v == s {
+			return true
+		}
+	}
+	return false
 }
 
 // ValidateFile returns the human-readable issues found in path's frontmatter.
@@ -154,6 +172,26 @@ func validateValue(e Entry) string {
 	case "iso":
 		if !reISO.MatchString(v) {
 			return fmt.Sprintf("value %q must be three lowercase letters (ISO 639-3)", v)
+		}
+	case "iso639_1":
+		if !reISO6391.MatchString(v) {
+			return fmt.Sprintf("value %q must be two lowercase letters (ISO 639-1)", v)
+		}
+	case "macrolanguage_id":
+		if !reISO.MatchString(v) {
+			return fmt.Sprintf("value %q must be three lowercase letters (ISO 639-3)", v)
+		}
+	case "scope":
+		if !oneOf(v, scopeValues) {
+			return fmt.Sprintf("value %q not in %v", v, scopeValues)
+		}
+	case "language_type":
+		if !oneOf(v, languageTypeValues) {
+			return fmt.Sprintf("value %q not in %v", v, languageTypeValues)
+		}
+	case "wikidata_id":
+		if !reWikidataID.MatchString(v) {
+			return fmt.Sprintf("value %q must be a Wikidata QID (e.g. 'Q27811')", v)
 		}
 	case "name":
 		if v == "" {

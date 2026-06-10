@@ -7,12 +7,15 @@ population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.00716
 longitude: -7.01481
 glottocode: pyek1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Pye Krumen"
+wikidata_id: Q11157382
 translations:
   - translation_iso: ara
     name: اللغة بي كرومن

@@ -7,12 +7,15 @@ population: 90800
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.03691
 longitude: 125.35373
 glottocode: sara1326
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Blaan > Sarangani Blaan"
+wikidata_id: Q16117272
 translations:
   - translation_iso: ara
     name: ساراْنْجاني بلاان

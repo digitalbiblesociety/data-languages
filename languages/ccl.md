@@ -6,12 +6,15 @@ population: 45000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.139045
 longitude: 38.62169
 glottocode: cutc1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Cutchi-Swahili"
+wikidata_id: Q5196729
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutchi-Swahili"
 translations:
   - translation_iso: ara

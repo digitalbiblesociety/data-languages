@@ -7,12 +7,15 @@ population: null
 country_id: TN
 country_name: Tunisia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 36.527295
 longitude: 10.356444
 glottocode: puni1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Ugarito-Phoenician > Phoenician-Punic > Punic"
+wikidata_id: Q535958
 wikipedia_url: "https://en.wikipedia.org/wiki/Punic_language"
 translations:
   - translation_iso: ara

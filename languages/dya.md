@@ -7,12 +7,15 @@ population: 14100
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.8342
 longitude: -3.59179
 glottocode: dyan1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Lobiri-Jaane > Dyan"
+wikidata_id: Q35340
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyan_language"
 translations:
   - translation_iso: ara

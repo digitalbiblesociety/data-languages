@@ -7,12 +7,15 @@ population: 10400
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 17.29533
 longitude: -93.10061
 glottocode: rayo1235
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Northeast Chiapas Zoque"
+wikidata_id: Q12954015
 translations:
   - translation_iso: ara
     name: سوكي رايون

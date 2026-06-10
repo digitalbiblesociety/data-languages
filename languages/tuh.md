@@ -7,12 +7,15 @@ population: 800
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.44425
 longitude: 152.09499
 glottocode: taul1251
 glottolog_family_id: taul1250
 glottolog_family_name: Taulil-Butam
 glottolog_classification: "Taulil-Butam > Taulil"
+wikidata_id: Q3516141
 wikipedia_url: "https://en.wikipedia.org/wiki/Taulil_language"
 translations:
   - translation_iso: ara

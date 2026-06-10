@@ -7,12 +7,15 @@ population: 2130
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.41302
 longitude: 128.66723
 glottocode: latu1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Saparuan > Saparua-Latu > Latu"
+wikidata_id: Q6497181
 wikipedia_url: "https://en.wikipedia.org/wiki/Latu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 70100
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.98615
 longitude: 22.20131
 glottocode: dars1235
 glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Dar Sila Daju"
+wikidata_id: Q7514020
 wikipedia_url: "https://en.wikipedia.org/wiki/Sila_language_(Chad)"
 translations:
   - translation_iso: ara

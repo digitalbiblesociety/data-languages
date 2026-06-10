@@ -5,8 +5,11 @@ autonym: Shaetlan
 population: 6500
 country_id: GB
 country_name: United Kingdom
+scope: individual
+language_type: living
 latitude: 60.3
 longitude: -1.2
+wikidata_id: Q3069598
 wikipedia_url: "https://en.wikipedia.org/wiki/Shetland_dialect"
 translations:
   - translation_iso: ara

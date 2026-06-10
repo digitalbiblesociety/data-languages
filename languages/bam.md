@@ -1,5 +1,6 @@
 ---
 iso: bam
+iso639_1: bm
 name: Bambara
 autonym: ߓߡߊߣߊ߲ߞߊ߲
 alt_names: [Bamana, Bamanakan, Bamanankan, Bambara simi, Bambareg, Бамана, بمبارا]
@@ -7,6 +8,8 @@ population: 4183000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.04008
 longitude: -9.98949
 scripts: [Latn, Nkoo]
@@ -14,6 +17,7 @@ glottocode: bamb1269
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Bambara"
+wikidata_id: Q33243
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambara_language"
 translations:
   - translation_iso: ara

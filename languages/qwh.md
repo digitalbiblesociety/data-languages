@@ -1,5 +1,6 @@
 ---
 iso: qwh
+macrolanguage_id: que
 name: Huaylas Ancash Quechua
 autonym: "Nunashimi "
 alt_names: [Ancas, Ancash, Ancash Kechua, Ancash Quechua, Caraz, Chinchaysuyo, Conchucos, Huaraz Quechua, Huaylas, Huaylas Quechua, Northern Quechua, Quechua ancashino, "Quechua, Huaylas  Ancash"]
@@ -7,12 +8,15 @@ population: 173000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.38709
 longitude: -77.77681
 glottocode: huay1240
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Huaylas Ancash Quechua"
+wikidata_id: Q6094343
 wikipedia_url: "https://en.wikipedia.org/wiki/Huaylas_Quechua"
 translations:
   - translation_iso: ara

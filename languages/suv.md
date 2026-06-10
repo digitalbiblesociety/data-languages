@@ -6,12 +6,15 @@ population: 5000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.65889
 longitude: 92.35574
 glottocode: sulu1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Puroikic > Eastern Puroik"
+wikidata_id: Q56408
 wikipedia_url: "https://en.wikipedia.org/wiki/Puroik_language"
 translations:
   - translation_iso: ara

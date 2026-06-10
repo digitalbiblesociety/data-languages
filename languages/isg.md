@@ -6,12 +6,15 @@ population: 6550
 country_id: IE
 country_name: Ireland
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 53.31499
 longitude: -6.36541
 glottocode: iris1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Irish Sign Language"
+wikidata_id: Q14183
 wikipedia_url: "https://en.wikipedia.org/wiki/Irish_Sign_Language"
 translations:
   - translation_iso: ara

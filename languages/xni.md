@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
+wikidata_id: Q7022072
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarigo_language"
 translations:
   - translation_iso: ara

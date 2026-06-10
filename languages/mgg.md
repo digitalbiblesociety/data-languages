@@ -7,12 +7,15 @@ population: 45000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.14015
 longitude: 14.86605
 glottocode: mpon1254
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Mpoic > Mpongmpong"
+wikidata_id: Q35924
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpumpong_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 195000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.29385
 longitude: 37.07033
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mach1266
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Kilimanjaro Bantu > Chaga > West Kilimanjaro > Machame"
+wikidata_id: Q12952751
 translations:
   - translation_iso: ara
     name: الماتشامية

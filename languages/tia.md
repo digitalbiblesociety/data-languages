@@ -7,12 +7,15 @@ population: 9000
 country_id: DZ
 country_name: Algeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 27.01903
 longitude: 1.86218
 glottocode: tidi1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Tidikelt-Tuat Tamazight"
+wikidata_id: Q56392
 wikipedia_url: "https://en.wikipedia.org/wiki/Tidikelt_language"
 translations:
   - translation_iso: ara

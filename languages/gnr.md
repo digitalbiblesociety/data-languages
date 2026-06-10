@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -25.3893
 longitude: 151.17468
 glottocode: gure1255
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Eastern Waka-Kabic > Gureng Gureng"
+wikidata_id: Q5619998
 wikipedia_url: "https://en.wikipedia.org/wiki/Taribelang_language"
 translations:
   - translation_iso: ara

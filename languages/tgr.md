@@ -6,8 +6,11 @@ population: 5000
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.49282
 longitude: 107.29597
+wikidata_id: Q16306631
 translations:
   - translation_iso: ara
     name: تارينغ

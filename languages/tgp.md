@@ -7,12 +7,15 @@ population: 800
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.56432
 longitude: 166.95814
 glottocode: tang1347
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Araki-Tangoa > Movono"
+wikidata_id: Q2410276
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangoa_language"
 translations:
   - translation_iso: ara

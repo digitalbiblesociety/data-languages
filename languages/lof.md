@@ -6,12 +6,15 @@ population: 2600
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.98053
 longitude: 31.12359
 glottocode: logo1262
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Logol"
+wikidata_id: Q35779
 wikipedia_url: "https://en.wikipedia.org/wiki/Logol_language"
 translations:
   - translation_iso: ara

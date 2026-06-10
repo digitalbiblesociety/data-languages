@@ -7,12 +7,15 @@ population: 1180
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.28373
 longitude: 140.92001
 glottocode: sowa1245
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waina-Punda > Sowanda"
+wikidata_id: Q7571845
 wikipedia_url: "https://en.wikipedia.org/wiki/Sowanda_language"
 translations:
   - translation_iso: ara

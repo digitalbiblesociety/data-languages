@@ -1,5 +1,6 @@
 ---
 iso: hji
+macrolanguage_id: msa
 name: Haji
 autonym: Aji
 alt_names: [Malayisch]
@@ -7,12 +8,15 @@ population: 17500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.077812
 longitude: 104.714355
 glottocode: haji1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Haji"
+wikidata_id: Q5639933
 wikipedia_url: "https://en.wikipedia.org/wiki/Haji_language"
 translations:
   - translation_iso: ara

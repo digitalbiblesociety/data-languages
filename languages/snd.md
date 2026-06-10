@@ -1,5 +1,6 @@
 ---
 iso: snd
+iso639_1: sd
 name: Sindhi
 autonym: سنڌي
 alt_names: [Sindeg, Sindera, Sindhi bhasa, Sindhî, Sindi simi, Синдхи, Сіндхі, סינדהי, سندھی, سنڌي ٻولي, سىندى تىلى, سيندى]
@@ -7,6 +8,8 @@ population: 24600000
 country_id: PK
 country_name: Pakistan
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 26
 longitude: 69
 scripts: [Arab, Deva, Khoj, Sind]
@@ -14,6 +17,7 @@ glottocode: sind1272
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Sindhi-Kachchi > Sindhi"
+wikidata_id: Q33997
 wikipedia_url: "https://en.wikipedia.org/wiki/Sindhi_language"
 translations:
   - translation_iso: ara

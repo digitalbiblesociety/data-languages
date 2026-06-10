@@ -7,12 +7,15 @@ population: 710
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.74501
 longitude: 141.93052
 glottocode: namb1293
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nambo"
+wikidata_id: Q42173731
 wikipedia_url: "https://en.wikipedia.org/wiki/Nambo-Namna_language"
 translations:
   - translation_iso: ara

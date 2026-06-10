@@ -7,12 +7,15 @@ population: 6070
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.20644
 longitude: 29.38894
 glottocode: keig1242
 glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Keiga"
+wikidata_id: Q3409311
 wikipedia_url: "https://en.wikipedia.org/wiki/Keiga_language"
 translations:
   - translation_iso: ara

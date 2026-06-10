@@ -7,6 +7,9 @@ population: null
 country_id: FR
 country_name: France
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q787610
 translations:
   - translation_iso: ara
     name: ميددلي بريتون

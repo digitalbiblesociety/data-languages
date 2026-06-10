@@ -7,12 +7,15 @@ population: 49800
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.50708
 longitude: 120.26199
 glottocode: lauj1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Lauje"
+wikidata_id: Q6498258
 wikipedia_url: "https://en.wikipedia.org/wiki/Lauje_language"
 translations:
   - translation_iso: ara

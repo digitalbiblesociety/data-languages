@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -26.57302
 longitude: 148.97756
 glottocode: mand1417
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Mandandanyi"
+wikidata_id: Q10576338
 translations:
   - translation_iso: ara
     name: اللغة ماندانداني

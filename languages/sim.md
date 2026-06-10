@@ -7,12 +7,15 @@ population: 5700
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.67233
 longitude: 142.68288
 glottocode: mend1268
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwanga-Mende > Mende (Papua New Guinea)"
+wikidata_id: Q7446815
 wikipedia_url: "https://en.wikipedia.org/wiki/Seim_language"
 translations:
   - translation_iso: ara

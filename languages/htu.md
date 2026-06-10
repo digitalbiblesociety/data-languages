@@ -7,12 +7,15 @@ population: 16000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.57478
 longitude: 128.18639
 glottocode: hitu1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Northeast Ambon > Hitu"
+wikidata_id: Q5872700
 wikipedia_url: "https://en.wikipedia.org/wiki/Hitu_language"
 translations:
   - translation_iso: ara

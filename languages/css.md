@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 36.364
 longitude: -121.177
 glottocode: muts1243
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > Southern Costanoan > Mutsun"
+wikidata_id: Q25559664
 translations:
   - translation_iso: ara
     name: جنوب أوهلوني

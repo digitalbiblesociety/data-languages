@@ -7,12 +7,15 @@ population: 20000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.67
 longitude: 88.975
 glottocode: toto1302
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Toto"
+wikidata_id: Q36709
 wikipedia_url: "https://en.wikipedia.org/wiki/Toto_language"
 translations:
   - translation_iso: ara

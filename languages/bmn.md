@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -10.2667
 longitude: 149.66147
 glottocode: bina1271
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Magoric > Bina (Papua New Guinea)"
+wikidata_id: Q8843664
 wikipedia_url: "https://en.wikipedia.org/wiki/Bina_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

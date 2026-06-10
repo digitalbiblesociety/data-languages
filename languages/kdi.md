@@ -7,12 +7,15 @@ population: 266000
 country_id: UG
 country_name: Uganda
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.74748
 longitude: 33.21164
 glottocode: kuma1275
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Lango-Kumam > Kumam"
+wikidata_id: Q6443410
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumam_dialect"
 translations:
   - translation_iso: ara

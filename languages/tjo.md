@@ -7,12 +7,15 @@ population: 6000
 country_id: DZ
 country_name: Algeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 33.34886
 longitude: 6.06562
 glottocode: tema1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Ouargli-Oued Righ > Oued Righ"
+wikidata_id: Q3507211
 wikipedia_url: "https://en.wikipedia.org/wiki/Tugurt_language"
 translations:
   - translation_iso: ara

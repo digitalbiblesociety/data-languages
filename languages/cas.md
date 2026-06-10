@@ -7,9 +7,12 @@ population: 7300
 country_id: BO
 country_name: Bolivia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.64448
 longitude: -67.83756
 glottocode: mose1249
+wikidata_id: Q35950
 wikipedia_url: "https://en.wikipedia.org/wiki/Moset%C3%A9n%E2%80%93Chimane_language"
 translations:
   - translation_iso: ara

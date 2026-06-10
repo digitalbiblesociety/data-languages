@@ -6,12 +6,15 @@ population: 1000
 country_id: MU
 country_name: Mauritius
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -20.166667
 longitude: 57.516667
 glottocode: maur1240
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Mauritian Sign Language"
+wikidata_id: Q6793754
 wikipedia_url: "https://en.wikipedia.org/wiki/Mauritian_Sign_Language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 300
 country_id: ET
 country_name: Ethiopia
 status_id: null
+scope: individual
+language_type: living
 latitude: 11.5284
 longitude: 35.2226
 glottocode: daat1234
 glottolog_family_id: gumu1250
 glottolog_family_name: Gumuz
 glottolog_classification: "Gumuz > Daats'iin"
+wikidata_id: Q20982409
 wikipedia_url: "https://en.wikipedia.org/wiki/Daats%CA%BCiin_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 410
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.2717
 longitude: 144.95019
 glottocode: nucl1458
 glottolog_family_id: monu1249
 glottolog_family_name: Bogia
 glottolog_classification: "Bogia > Monumbo"
+wikidata_id: Q6906792
 wikipedia_url: "https://en.wikipedia.org/wiki/Monumbo_language"
 translations:
   - translation_iso: ara

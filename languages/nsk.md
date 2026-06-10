@@ -7,6 +7,8 @@ population: 1210
 country_id: CA
 country_name: Canada
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 55.93161
 longitude: -61.13183
 scripts: [Cans, Latn]
@@ -14,6 +16,7 @@ glottocode: nask1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Naskapi"
+wikidata_id: Q1704302
 wikipedia_url: "https://en.wikipedia.org/wiki/Naskapi_language"
 translations:
   - translation_iso: ara

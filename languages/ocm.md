@@ -4,12 +4,15 @@ name: Old Cham
 alt_names: ["Cham, Old"]
 country_id: VN
 country_name: Vietnam
+scope: individual
+language_type: historical
 latitude: 15.82167
 longitude: 108.23194
 glottocode: oldc1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Cham > Old Cham"
+wikidata_id: Q105197086
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Cham"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.63313
 longitude: 120.27028
 glottocode: lemo1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Lemolang"
+wikidata_id: Q3033560
 wikipedia_url: "https://en.wikipedia.org/wiki/Limola_language"
 translations:
   - translation_iso: ara

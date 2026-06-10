@@ -7,12 +7,15 @@ population: 750000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.189795
 longitude: 30.67945
 glottocode: lend1245
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Bale > Lendu"
+wikidata_id: Q523823
 wikipedia_url: "https://en.wikipedia.org/wiki/Lendu_language"
 translations:
   - translation_iso: ara

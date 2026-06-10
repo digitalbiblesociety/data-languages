@@ -7,12 +7,15 @@ population: 1500
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.34308
 longitude: 127.50574
 glottocode: gamk1238
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Sahuan > Nuclear Sahuan > Gamkonora"
+wikidata_id: Q5520226
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamkonora_language"
 translations:
   - translation_iso: ara

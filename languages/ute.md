@@ -7,12 +7,15 @@ population: 1900
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 40.09648
 longitude: -110.3055
 glottocode: utes1238
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Southern Numic > Ute-Southern Paiute"
+wikidata_id: Q13260
 wikipedia_url: "https://en.wikipedia.org/wiki/Colorado_River_Numic_language"
 translations:
   - translation_iso: ara

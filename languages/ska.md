@@ -6,8 +6,11 @@ population: 100
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 48.53138
 longitude: -121.99099
+wikidata_id: Q25559652
 translations:
   - translation_iso: ara
     name: سكاكيت

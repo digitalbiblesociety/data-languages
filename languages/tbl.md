@@ -7,12 +7,15 @@ population: 87200
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.20377
 longitude: 124.53755
 glottocode: tbol1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Tboli"
+wikidata_id: Q7690594
 wikipedia_url: "https://en.wikipedia.org/wiki/Tboli_language"
 translations:
   - translation_iso: ara

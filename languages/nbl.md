@@ -1,5 +1,6 @@
 ---
 iso: nbl
+iso639_1: nr
 name: South Ndebele
 autonym: Transvaal Ndebele
 alt_names: ["Ndebele, South"]
@@ -7,9 +8,12 @@ population: 1090000
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -25.62721
 longitude: 29.04805
 scripts: [Latn]
+wikidata_id: Q36785
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Ndebele_language"
 translations:
   - translation_iso: ara

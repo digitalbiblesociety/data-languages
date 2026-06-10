@@ -7,12 +7,15 @@ population: 3
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -25.81485
 longitude: 135.94079
 glottocode: wang1290
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Arabana-Wangganguru > Wangganguru"
+wikidata_id: Q7967859
 wikipedia_url: "https://en.wikipedia.org/wiki/Wangkangurru_dialect"
 translations:
   - translation_iso: ara

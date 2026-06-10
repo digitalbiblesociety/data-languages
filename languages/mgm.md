@@ -7,12 +7,15 @@ population: 230000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.19552
 longitude: 125.47531
 glottocode: mamb1306
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Timor > Mambae"
+wikidata_id: Q35774
 wikipedia_url: "https://en.wikipedia.org/wiki/Mambae_language"
 translations:
   - translation_iso: ara

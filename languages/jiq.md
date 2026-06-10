@@ -7,12 +7,15 @@ population: 50000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.56552
 longitude: 101.9276
 glottocode: guan1266
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Gyalrongic > West Gyalrongic > Nuclear West Gyalrongic > Khroskyabs"
+wikidata_id: Q3118757
 wikipedia_url: "https://en.wikipedia.org/wiki/Khroskyabs_language"
 translations:
   - translation_iso: ara

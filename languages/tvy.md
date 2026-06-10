@@ -7,12 +7,15 @@ population: null
 country_id: TL
 country_name: "Timor-Leste"
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -8.65995
 longitude: 125.58973
 glottocode: timo1258
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Luso-Asian Creole > Timor Pidgin"
+wikidata_id: Q4904029
 wikipedia_url: "https://en.wikipedia.org/wiki/Bidau_Creole_Portuguese"
 translations:
   - translation_iso: ara

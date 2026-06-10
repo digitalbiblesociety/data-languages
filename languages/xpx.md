@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -43.41297
 longitude: 146.06197
 glottocode: sout3391
 glottolog_family_id: west1503
 glottolog_family_name: Western Tasmanian
 glottolog_classification: "Western Tasmanian > Western Coastal Tasmanian > Southwestern Tasmanian"
+wikidata_id: Q7824008
 wikipedia_url: "https://en.wikipedia.org/wiki/Toogee_language"
 translations:
   - translation_iso: ara

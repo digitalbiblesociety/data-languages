@@ -7,12 +7,15 @@ population: 1377000
 country_id: TD
 country_name: Chad
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 8.57051
 longitude: 15.41401
 glottocode: ngam1268
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone > Ngambay"
+wikidata_id: Q2372207
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngambay_language"
 translations:
   - translation_iso: ara

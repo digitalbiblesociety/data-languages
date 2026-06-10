@@ -7,6 +7,8 @@ population: 940000
 country_id: MM
 country_name: Myanmar
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 25.463415
 longitude: 97.32784
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kach1280
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Jingpho > Southern Jinghpaw"
+wikidata_id: Q33332
 wikipedia_url: "https://en.wikipedia.org/wiki/Jingpo_language"
 translations:
   - translation_iso: ara

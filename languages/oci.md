@@ -1,5 +1,6 @@
 ---
 iso: oci
+iso639_1: oc
 name: Occitan
 autonym: " lenga d'òc"
 alt_names: [Aranese, Aranese Occitan, Aranés, Arnais, Auvergnat, Auverne, Auvernhas, Gascon, Inutsitan, Kioksitania, Kiunsita, Langadoc, Languedoc, Languedocien, Lemosin, Lengadoucian, Limousin, Liosita, Luenga ocitana, Mistralien, Occitaans, Occitan, Occitan language, Occitan-gí, Occitani, Occitansk, Occitanska, Occitanu, Occità, "Occitáno ñe'ẽ", Ocitaniana linguo, Ocseadanais, Ocsitaanish, Ocsitaneg, Okitaneg, Oksitaani, Oksitaans, Oksitanca, Oksitanek, Oksitanisk, Oksitansk, Okzitaansche Spraak, Okzitaniera, Prouvençau, Provenzal, Provenzale, Provençal, Provençal alpin, Tuksitant, Ucitan, occitan (après 1500), Łéngua ocitana, Окситан мотт, אוקסיטנית]
@@ -7,6 +8,8 @@ population: 218310
 country_id: FR
 country_name: France
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 44.141547
 longitude: 6.829787
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: occi1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > Occitanic > Occitan"
+wikidata_id: Q14185
 wikipedia_url: "https://en.wikipedia.org/wiki/Occitan_language"
 translations:
   - translation_iso: ara

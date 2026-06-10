@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 33.31483
 longitude: -116.51471
 glottocode: cupe1243
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Cahuilla-Cupeno > Cupeño"
+wikidata_id: Q143130
 wikipedia_url: "https://en.wikipedia.org/wiki/Cupe%C3%B1o_language"
 translations:
   - translation_iso: ara

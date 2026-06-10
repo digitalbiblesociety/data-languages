@@ -7,6 +7,8 @@ population: null
 country_id: LB
 country_name: Lebanon
 status_id: null
+scope: individual
+language_type: historical
 latitude: 34.12
 longitude: 35.65
 scripts: [Phnx]
@@ -14,6 +16,7 @@ glottocode: phoe1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Ugarito-Phoenician > Phoenician-Punic > Phoenician"
+wikidata_id: Q36734
 wikipedia_url: "https://en.wikipedia.org/wiki/Phoenician_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: null
+scope: individual
+language_type: historical
 latitude: 46.9304
 longitude: 29.97861
 scripts: [Goth]
@@ -14,6 +16,7 @@ glottocode: goth1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > East Germanic > Gothic"
+wikidata_id: Q35722
 wikipedia_url: "https://en.wikipedia.org/wiki/Gothic_language"
 translations:
   - translation_iso: ara

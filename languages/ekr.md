@@ -7,12 +7,15 @@ population: 50000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.84259
 longitude: 8.84077
 glottocode: yace1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Yatye-Akpa > Yace"
+wikidata_id: Q36901
 wikipedia_url: "https://en.wikipedia.org/wiki/Yace_language"
 translations:
   - translation_iso: ara

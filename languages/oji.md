@@ -1,12 +1,16 @@
 ---
 iso: oji
+iso639_1: oj
 name: Ojibwa
 autonym: ᐊᓂᐦᔑᓈᐯᒧᐎᓐ
 population: 89160
 country_id: CA
 country_name: Canada
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cans, Latn]
+wikidata_id: Q33875
 wikipedia_url: "https://en.wikipedia.org/wiki/Ojibwe_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 150
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 36.05383
 longitude: -118.67889
 glottocode: kawa1283
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Southern Numic > Kawaiisu"
+wikidata_id: Q56338
 wikipedia_url: "https://en.wikipedia.org/wiki/Kawaiisu_language"
 translations:
   - translation_iso: ara

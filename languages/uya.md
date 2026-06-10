@@ -7,12 +7,15 @@ population: 200
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.39961
 longitude: 8.26925
 glottocode: doko1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Agoi-Doko-Iyoniyong > Deko-Dusanga"
+wikidata_id: Q7904095
 wikipedia_url: "https://en.wikipedia.org/wiki/Uyanga_language"
 translations:
   - translation_iso: ara

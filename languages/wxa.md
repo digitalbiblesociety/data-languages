@@ -7,12 +7,15 @@ population: 300000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.64404
 longitude: 110.3618
 glottocode: waxi1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Waxianghua"
+wikidata_id: Q2252191
 wikipedia_url: "https://en.wikipedia.org/wiki/Waxiang_Chinese"
 translations:
   - translation_iso: ara

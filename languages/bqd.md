@@ -6,12 +6,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 6.40736
 longitude: 11.63887
 glottocode: bung1259
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Konja > Bung"
+wikidata_id: Q3436612
 wikipedia_url: "https://en.wikipedia.org/wiki/Bung_language"
 translations:
   - translation_iso: ara

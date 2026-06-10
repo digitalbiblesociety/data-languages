@@ -7,12 +7,15 @@ population: 300
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 30.241
 longitude: 79.153
 glottocode: jadd1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Spiti-Jad > Jad"
+wikidata_id: Q12633440
 wikipedia_url: "https://en.wikipedia.org/wiki/Jad_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 24500
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 28.65214
 longitude: 82.73479
 glottocode: west2420
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Gamale-Parbate > Parbate Kham > Western Parbate Kham"
+wikidata_id: Q22237017
 translations:
   - translation_iso: ara
     name: لغة غرب باربات خام

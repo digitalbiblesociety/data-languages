@@ -7,12 +7,15 @@ population: 23000
 country_id: IQ
 country_name: Iraq
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 31.34431
 longitude: 48.81284
 glottocode: nucl1706
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Macro-Mandaic > Neo-Mandaic"
+wikidata_id: Q6991742
 wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Mandaic"
 translations:
   - translation_iso: ara

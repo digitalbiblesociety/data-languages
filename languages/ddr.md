@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -36.95881441
 longitude: 147.0450379
 glottocode: dhud1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Dhudhuroa-Pallanganmiddang > Dhudhuroa"
+wikidata_id: Q5269842
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhudhuroa_language"
 translations:
   - translation_iso: ara

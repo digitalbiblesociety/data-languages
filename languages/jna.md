@@ -7,12 +7,15 @@ population: 1990
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.56656
 longitude: 78.43438
 glottocode: jang1254
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Thebor > Jangshung"
+wikidata_id: Q12633505
 wikipedia_url: "https://en.wikipedia.org/wiki/Jangshung_language"
 translations:
   - translation_iso: ara

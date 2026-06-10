@@ -7,12 +7,15 @@ population: 17000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.97526
 longitude: 76.55688
 glottocode: pang1282
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Pangwali"
+wikidata_id: Q13600429
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangwali_language"
 translations:
   - translation_iso: ara

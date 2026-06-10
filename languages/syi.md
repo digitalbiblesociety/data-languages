@@ -7,6 +7,8 @@ population: 11000
 country_id: GA
 country_name: Gabon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.523015
 longitude: 9.79206
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: seki1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Seki"
+wikidata_id: Q36547
 wikipedia_url: "https://en.wikipedia.org/wiki/Seki_language"
 translations:
   - translation_iso: ara

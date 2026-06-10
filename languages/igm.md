@@ -6,12 +6,15 @@ population: 1080
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.4153
 longitude: 144.81601
 glottocode: kang1291
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tangu-Igom > Kanggape"
+wikidata_id: Q6362743
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanggape_language"
 translations:
   - translation_iso: ara

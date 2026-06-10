@@ -7,12 +7,15 @@ population: 60000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.66934
 longitude: -5.11685
 glottocode: nyar1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Nyarafolo Senoufo"
+wikidata_id: Q36306
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyarafolo_language"
 translations:
   - translation_iso: ara

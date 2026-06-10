@@ -7,12 +7,15 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 11.12536
 longitude: 30.34102
 glottocode: toro1251
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Lumun-Torona > Torona"
+wikidata_id: Q36679
 wikipedia_url: "https://en.wikipedia.org/wiki/Torona_language"
 translations:
   - translation_iso: ara

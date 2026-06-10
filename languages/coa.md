@@ -1,5 +1,6 @@
 ---
 iso: coa
+macrolanguage_id: msa
 name: Cocos Islands Malay
 autonym: Basa Pulu Cocos/Basa Pulu Keling
 alt_names: [Cocos, Kokos, Kukus, "Malay, Cocos Islands"]
@@ -7,12 +8,15 @@ population: 4000
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.33
 longitude: 105.75
 glottocode: coco1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Betawic > Cocos Islands Malay"
+wikidata_id: Q3441699
 wikipedia_url: "https://en.wikipedia.org/wiki/Cocos_Malay"
 translations:
   - translation_iso: ara

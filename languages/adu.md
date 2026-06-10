@@ -6,8 +6,11 @@ population: 1900
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.64567
 longitude: 6.13085
+wikidata_id: Q34734
 wikipedia_url: "https://en.wikipedia.org/wiki/Aduge_language"
 translations:
   - translation_iso: ara

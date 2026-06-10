@@ -6,6 +6,9 @@ population: null
 country_id: GE
 country_name: Georgia
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q7599646
 wikipedia_url: "https://en.wikipedia.org/wiki/Armazic_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 274000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.490575
 longitude: 29.05069
 glottocode: bemb1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Bembe-Buyu > Bembe"
+wikidata_id: Q4885023
 wikipedia_url: "https://en.wikipedia.org/wiki/Bembe_language_(Ibembe)"
 translations:
   - translation_iso: ara

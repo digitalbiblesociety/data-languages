@@ -7,12 +7,15 @@ population: 4980
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.58257
 longitude: 161.86319
 glottocode: baur1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Bauro"
+wikidata_id: Q2892068
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauro_language"
 translations:
   - translation_iso: ara

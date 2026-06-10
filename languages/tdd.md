@@ -7,6 +7,8 @@ population: 726100
 country_id: CN
 country_name: China
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 21.783673
 longitude: 99.722045
 scripts: [Tale]
@@ -14,6 +16,7 @@ glottocode: tain1252
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Northern Shanic > Tai Nüa"
+wikidata_id: Q36556
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Nuea_language"
 translations:
   - translation_iso: ara

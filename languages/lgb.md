@@ -7,12 +7,15 @@ population: null
 country_id: SB
 country_name: Solomon Islands
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.00509
 longitude: 158.96112
 glottocode: lagh1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > West Santa Isabel > Laghu"
+wikidata_id: Q3216169
 wikipedia_url: "https://en.wikipedia.org/wiki/Laghu_language"
 translations:
   - translation_iso: ara

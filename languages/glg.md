@@ -1,5 +1,6 @@
 ---
 iso: glg
+iso639_1: gl
 name: Galician
 autonym: galego
 alt_names: [An Ghailísis, Galeeshish, Galegogiella, Galicien, Galicies, Galicisch, Galicisk, Galiciska, Galijek, Galisieg, Galisisk, Galizeg, Galizian, Galiziera, Galiçyaca, Gallec, Gallegan, Gallego, Gallegu, Galligu simi, Galèc, Kigalicia, Kâ-lî-sî-â-ngî, Lia-galegu, Luenga gallega, Northern Portuguese, Գալիցերեն, גליסית, گالىسىيەچە]
@@ -7,6 +8,8 @@ population: 3127900
 country_id: ES
 country_name: Spain
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 42.244575
 longitude: -7.534295
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: gali1258
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Galician"
+wikidata_id: Q9307
 wikipedia_url: "https://en.wikipedia.org/wiki/Galician_language"
 translations:
   - translation_iso: ara

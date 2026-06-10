@@ -7,12 +7,15 @@ population: 410
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -17.03293
 longitude: 130.37933
 glottocode: guri1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Ngumpit > Gurindji"
+wikidata_id: Q10511016
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurindji_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5510
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.8791
 longitude: -76.07486
 glottocode: embe1262
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > San Juan > Upper San Juan > Emberá-Chamí"
+wikidata_id: Q3052042
 wikipedia_url: "https://en.wikipedia.org/wiki/Ember%C3%A1_Cham%C3%AD"
 translations:
   - translation_iso: ara

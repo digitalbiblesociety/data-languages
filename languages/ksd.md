@@ -7,12 +7,15 @@ population: 120000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -4.30986
 longitude: 152.1136
 glottocode: kuan1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Minigir-Tolai > Kuanua"
+wikidata_id: Q35870
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolai_language"
 translations:
   - translation_iso: ara

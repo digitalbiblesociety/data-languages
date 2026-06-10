@@ -7,12 +7,15 @@ population: 4750
 country_id: TW
 country_name: Taiwan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.60434
 longitude: 121.06725
 glottocode: sais1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Northwest Formosan > Saisiyat"
+wikidata_id: Q716695
 wikipedia_url: "https://en.wikipedia.org/wiki/Saisiyat_language"
 translations:
   - translation_iso: ara

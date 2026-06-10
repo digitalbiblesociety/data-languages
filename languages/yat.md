@@ -7,12 +7,15 @@ population: 3700
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.83615
 longitude: 10.93686
 glottocode: yamb1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Yambeta"
+wikidata_id: Q8048020
 wikipedia_url: "https://en.wikipedia.org/wiki/Yambeta_language"
 translations:
   - translation_iso: ara

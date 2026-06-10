@@ -7,12 +7,15 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.88458
 longitude: 4.48564
 glottocode: cish1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > West Kambaric > Western-Kambari-Cishingini"
+wikidata_id: Q35199
 wikipedia_url: "https://en.wikipedia.org/wiki/Shingini_language"
 translations:
   - translation_iso: ara

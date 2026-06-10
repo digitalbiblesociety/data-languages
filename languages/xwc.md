@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 35.379075
 longitude: -77.985987
 glottocode: wocc1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Catawban > Woccon"
+wikidata_id: Q3569569
 wikipedia_url: "https://en.wikipedia.org/wiki/Woccon_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 720
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -14.37074
 longitude: -59.51871
 glottocode: sout2994
 glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Southern Nambikuára"
+wikidata_id: Q2068190
 wikipedia_url: "https://en.wikipedia.org/wiki/Nambikwara_language"
 translations:
   - translation_iso: ara

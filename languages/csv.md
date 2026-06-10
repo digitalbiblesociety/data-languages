@@ -7,12 +7,15 @@ population: 14000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.1238
 longitude: 93.8367
 glottocode: sumt1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Ashoic > Sumtu-Laoktu > Sumtu Chin"
+wikidata_id: Q7638087
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumtu_language"
 translations:
   - translation_iso: ara

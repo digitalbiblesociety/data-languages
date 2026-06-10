@@ -7,12 +7,15 @@ population: 24600
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.19303
 longitude: 35.80345
 glottocode: temi1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Gikuyu-Temi > Temi"
+wikidata_id: Q13278
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonjo_language"
 translations:
   - translation_iso: ara

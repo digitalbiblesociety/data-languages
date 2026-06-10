@@ -1,5 +1,6 @@
 ---
 iso: sdh
+macrolanguage_id: kur
 name: Southern Kurdish
 autonym: "Kurdish: کوردیی باشووری "
 alt_names: [Kelhuri, Kermanshahi, Kurdisch, "Kurdish, Southern", Kurdí Xwar, Quelúri]
@@ -7,6 +8,8 @@ population: 3730000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.897725
 longitude: 46.59759
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: sout2640
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Laki-Kurdish > Kurdish > Southern Kurdish"
+wikidata_id: Q1496597
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Kurdish"
 translations:
   - translation_iso: ara

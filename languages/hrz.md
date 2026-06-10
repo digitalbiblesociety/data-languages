@@ -7,12 +7,15 @@ population: 34900
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 38.43411
 longitude: 48.28478
 glottocode: harz1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Northern Tatic > Harzani-Kilit"
+wikidata_id: Q56464
 wikipedia_url: "https://en.wikipedia.org/wiki/Harzandi_dialect"
 translations:
   - translation_iso: ara

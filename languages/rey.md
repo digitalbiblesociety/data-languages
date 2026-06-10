@@ -7,12 +7,15 @@ population: 4118
 country_id: BO
 country_name: Bolivia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -14.83332
 longitude: -67.08332
 glottocode: reye1240
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Takanik > Reyesano"
+wikidata_id: Q3111857
 wikipedia_url: "https://en.wikipedia.org/wiki/Reyesano_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1610
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.10829
 longitude: 9.90381
 glottocode: waph1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Jibu-Wase > Wãpha"
+wikidata_id: Q3914934
 wikipedia_url: "https://en.wikipedia.org/wiki/W%C3%A3pha_language"
 translations:
   - translation_iso: ara

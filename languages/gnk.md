@@ -7,12 +7,15 @@ population: 2000
 country_id: BW
 country_name: Botswana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -21.85547
 longitude: 22.20026
 glottocode: gana1274
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Ana > //Gana"
+wikidata_id: Q1975199
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C7%81ana_language"
 translations:
   - translation_iso: ara

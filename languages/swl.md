@@ -7,12 +7,15 @@ population: 8000
 country_id: SE
 country_name: Sweden
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 58.92897
 longitude: 16.11326
 glottocode: swed1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Swedish Sign > Swedish Sign Language"
+wikidata_id: Q36558
 wikipedia_url: "https://en.wikipedia.org/wiki/Swedish_Sign_Language"
 translations:
   - translation_iso: ara

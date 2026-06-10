@@ -7,12 +7,15 @@ population: 9910
 country_id: CO
 country_name: Colombia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.94849
 longitude: -73.80426
 glottocode: cogu1240
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Arhuacic > Cogui"
+wikidata_id: Q3198286
 wikipedia_url: "https://en.wikipedia.org/wiki/Kogi_language"
 translations:
   - translation_iso: ara

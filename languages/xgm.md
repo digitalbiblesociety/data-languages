@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -23.307
 longitude: 150.593
 glottocode: dhar1248
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Rockhampton-Gladstone > Dharumbal"
+wikidata_id: Q16954400
 wikipedia_url: "https://en.wikipedia.org/wiki/Darumbal_language"
 translations:
   - translation_iso: ara

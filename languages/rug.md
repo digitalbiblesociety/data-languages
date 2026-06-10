@@ -7,6 +7,8 @@ population: 25870
 country_id: SB
 country_name: Solomon Islands
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -8.20493
 longitude: 157.4081
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: rovi1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Roviana"
+wikidata_id: Q3445546
 wikipedia_url: "https://en.wikipedia.org/wiki/Roviana_language"
 translations:
   - translation_iso: ara

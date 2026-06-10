@@ -1,5 +1,6 @@
 ---
 iso: bxm
+macrolanguage_id: bua
 name: Mongolia Buriat
 autonym: Buriat
 alt_names: ["Bur:aad", "Buriat, Mongolia", Buriat-Mongolian, Burjatisch, Buryat, Eastern Buryat, Mongolian Buriat, Northern Mongolian, buryaad xelen, буриад аялгуу]
@@ -7,12 +8,15 @@ population: 42500
 country_id: MN
 country_name: Mongolia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 48.76859
 longitude: 109.00535
 glottocode: mong1330
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Buriat > Mongolia Buriat"
+wikidata_id: Q12637238
 translations:
   - translation_iso: ara
     name: منْجوليا بورْيات

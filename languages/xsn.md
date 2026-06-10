@@ -7,12 +7,15 @@ population: 20100
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.41566
 longitude: 8.83882
 glottocode: sang1329
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Chokobo-Lemoro-Sanga > Lemoro-Sanga > Sanga (Nigeria)"
+wikidata_id: Q3915334
 wikipedia_url: "https://en.wikipedia.org/wiki/Sanga_language_(Nigeria)"
 translations:
   - translation_iso: ara

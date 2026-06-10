@@ -7,12 +7,15 @@ population: 529000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.7317
 longitude: 93.04624
 glottocode: karb1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Karbic > Hills Karbi"
+wikidata_id: Q56591
 wikipedia_url: "https://en.wikipedia.org/wiki/Karbi_language"
 translations:
   - translation_iso: ara

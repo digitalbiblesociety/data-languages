@@ -7,12 +7,15 @@ population: 216
 country_id: VE
 country_name: Venezuela
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.55231
 longitude: -72.71012
 glottocode: japr1238
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Opon-Yukpan > Yukpan > Japrería"
+wikidata_id: Q3441409
 wikipedia_url: "https://en.wikipedia.org/wiki/Japreria_language"
 translations:
   - translation_iso: ara

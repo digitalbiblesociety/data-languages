@@ -7,6 +7,9 @@ population: 35000
 country_id: EG
 country_name: Egypt
 status_id: "7"
+scope: individual
+language_type: living
+wikidata_id: Q20639851
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenzi_language"
 translations:
   - translation_iso: ara

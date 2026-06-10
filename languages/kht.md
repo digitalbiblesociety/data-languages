@@ -7,6 +7,8 @@ population: 13120
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.6653
 longitude: 97.035915
 scripts: [Mymr]
@@ -14,6 +16,7 @@ glottocode: kham1290
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Assam Tai B > Khamti"
+wikidata_id: Q3915502
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamti_language"
 translations:
   - translation_iso: ara

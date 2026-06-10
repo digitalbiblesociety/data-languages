@@ -1,5 +1,6 @@
 ---
 iso: acq
+macrolanguage_id: ara
 name: "Ta'izzi-Adeni Arabic"
 autonym: Southern Yemeni Spoken Arabic
 alt_names: [Arabic, "Arabic, Ta'izzi-Adeni", "Arabic, Ta'izzi-Adeni Spoken", Djibouti Arabic, Yemeni Arabic, لهجة يمنية]
@@ -7,12 +8,15 @@ population: 10500000
 country_id: YE
 country_name: Yemen
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.65547
 longitude: 45.64107
 glottocode: taiz1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Ta'izzi-Adeni Arabic"
+wikidata_id: Q56579
 wikipedia_url: "https://en.wikipedia.org/wiki/Ta%CA%BDizzi-Adeni_Arabic"
 translations:
   - translation_iso: ara

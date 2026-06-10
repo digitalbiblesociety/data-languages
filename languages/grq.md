@@ -7,12 +7,15 @@ population: 20
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -4.52947
 longitude: 144.59021
 glottocode: goro1261
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Agoan > Gorovu"
+wikidata_id: Q56355
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorovu_language"
 translations:
   - translation_iso: ara

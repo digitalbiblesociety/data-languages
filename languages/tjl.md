@@ -6,12 +6,15 @@ population: 100000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.9041
 longitude: 95.0772
 glottocode: tail1248
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Mogaung > Tai Laing"
+wikidata_id: Q7675773
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Laing_language"
 translations:
   - translation_iso: ara

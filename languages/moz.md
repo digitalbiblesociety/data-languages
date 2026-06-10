@@ -7,12 +7,15 @@ population: 12000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.86437
 longitude: 18.18217
 glottocode: muku1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > Mukulu"
+wikidata_id: Q3440403
 wikipedia_url: "https://en.wikipedia.org/wiki/Mokilko_language"
 translations:
   - translation_iso: ara

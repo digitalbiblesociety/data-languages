@@ -7,12 +7,15 @@ population: 350
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -2.56434
 longitude: 140.71017
 glottocode: toba1266
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Jayapura Bay > Eastern Jayapura Bay > Tobati"
+wikidata_id: Q7811556
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobati_language"
 translations:
   - translation_iso: ara

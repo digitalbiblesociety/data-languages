@@ -7,12 +7,15 @@ population: 342000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.0606
 longitude: 15.474835
 glottocode: masa1322
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Masa-Gizey-Ham > Masana"
+wikidata_id: Q56668
 wikipedia_url: "https://en.wikipedia.org/wiki/Massa_language"
 translations:
   - translation_iso: ara

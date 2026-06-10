@@ -7,12 +7,15 @@ population: 36000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.60006
 longitude: 17.2691
 glottocode: bedj1245
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone-Chari > Bediondo > Nangnda"
+wikidata_id: Q8829831
 translations:
   - translation_iso: ara
     name: بدجوند

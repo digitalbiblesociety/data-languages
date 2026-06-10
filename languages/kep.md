@@ -7,12 +7,15 @@ population: 23000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.38594
 longitude: 76.00027
 glottocode: kaik1244
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Yerukula-Korava-Kaikadi > Kaikadi"
+wikidata_id: Q6347757
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaikadi_language"
 translations:
   - translation_iso: ara

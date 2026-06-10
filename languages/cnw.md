@@ -7,12 +7,15 @@ population: 18600
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.93031
 longitude: 93.58348
 glottocode: ngaw1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Ngawn Chin"
+wikidata_id: Q6583675
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngawn_language"
 translations:
   - translation_iso: ara

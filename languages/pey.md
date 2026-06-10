@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -6.16593
 longitude: 106.79976
 glottocode: petj1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Petjo"
+wikidata_id: Q940486
 wikipedia_url: "https://en.wikipedia.org/wiki/Petjo"
 translations:
   - translation_iso: ara

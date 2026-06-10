@@ -1,5 +1,6 @@
 ---
 iso: zte
+macrolanguage_id: zap
 name: Elotepec Zapotec
 autonym: (San Juan Elotepec)
 alt_names: [Elotepec, Elotepec Papabuco, Northern Sapoteko, Papabuco, Zapotec, "Zapotec, Elotepec", Zapoteco de San Juan Elotepec]
@@ -7,12 +8,15 @@ population: 200
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.8693
 longitude: -97.19119
 glottocode: elot1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Papabuco > Elotepec Zapotec"
+wikidata_id: Q5367223
 wikipedia_url: "https://en.wikipedia.org/wiki/Elotepec_Zapotec"
 translations:
   - translation_iso: ara

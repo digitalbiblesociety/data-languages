@@ -1,5 +1,6 @@
 ---
 iso: yor
+iso639_1: yo
 name: Yoruba
 autonym: Èdè Yorùbá
 alt_names: [Ede-Yoruba, Ioruba, Joruba, Yariba, Yooba, Yorouba, Yoroubeg, Yoruba simi, Јоруба, Йоруба, يورۇباچە, იორუბა]
@@ -7,6 +8,8 @@ population: 37800000
 country_id: NG
 country_name: Nigeria
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 7.153455
 longitude: 3.672245
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: yoru1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Eastern Ede > Southeastern Ede > Nuclear Yoruba > Lucumi-Yoruba > Yoruba"
+wikidata_id: Q34311
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoruba_language"
 translations:
   - translation_iso: ara

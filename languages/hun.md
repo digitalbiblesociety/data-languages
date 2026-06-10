@@ -1,5 +1,6 @@
 ---
 iso: hun
+iso639_1: hu
 name: Hungarian
 autonym: magyar nyelv
 alt_names: [Csángó, Hongaars, Hongaarsk, Hongarès, Hongrois, Hongrois csángó, Hongrwès, Hungareg, Hungarek, Hungarian leid, Hungariana linguo, Hungariera, Hwngareg, Húngaru, Kihungaria, Macar tili, Macarca, Madźarsko godka, Magyar, Magyar-gí, Magyarisch, Neuungarisch, Ongrés, Tok Hangari, Ungaarish, Ungairis, Ungari kiil, Ungarisch, Ungarische Tzeckler, Ungarsk, Ungerska, Ungverska, Ungáiris, Ungárgiella, Unriya simi, "mad'ar", vengr, vengri, Венгер кыл, Венгеронь кяль, Веҥгр йылме, Мадьяронь кель, Հունգարերեն, אונגאריש, הונגרית, ماجار تىلى]
@@ -7,6 +8,8 @@ population: 12600000
 country_id: HU
 country_name: Hungary
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 46.906859
 longitude: 19.655527
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: hung1274
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Hungaric > Hungarian"
+wikidata_id: Q9067
 wikipedia_url: "https://en.wikipedia.org/wiki/Hungarian_language"
 translations:
   - translation_iso: ara

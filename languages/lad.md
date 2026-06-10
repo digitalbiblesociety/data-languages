@@ -7,6 +7,8 @@ population: 51016
 country_id: IL
 country_name: Israel
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 41.20503
 longitude: 28.66325
 scripts: [Hebr]
@@ -14,6 +16,7 @@ glottocode: ladi1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Ladino"
+wikidata_id: Q36196
 wikipedia_url: "https://en.wikipedia.org/wiki/Judaeo-Spanish"
 translations:
   - translation_iso: ara

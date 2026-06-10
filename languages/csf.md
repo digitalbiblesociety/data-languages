@@ -6,12 +6,15 @@ population: 34000
 country_id: CU
 country_name: Cuba
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.061
 longitude: -79.209
 glottocode: cuba1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Cuba Sign Language"
+wikidata_id: Q5192046
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuban_Sign_Language"
 translations:
   - translation_iso: ara

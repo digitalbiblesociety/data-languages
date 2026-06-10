@@ -7,12 +7,15 @@ population: 10000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 13.38103
 longitude: 120.64995
 glottocode: iray1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Iraya"
+wikidata_id: Q6068356
 wikipedia_url: "https://en.wikipedia.org/wiki/Iraya_language"
 translations:
   - translation_iso: ara

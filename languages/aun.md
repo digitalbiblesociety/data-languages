@@ -7,12 +7,15 @@ population: 500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.38127
 longitude: 141.80584
 glottocode: molm1235
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Central-Northern One > Molmo One"
+wikidata_id: Q12637224
 translations:
   - translation_iso: ara
     name: اللغة مولمو وان

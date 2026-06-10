@@ -6,12 +6,15 @@ population: 6
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 33.53238
 longitude: -116.69146
 glottocode: cahu1264
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Cahuilla-Cupeno > Cahuilla"
+wikidata_id: Q56438
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahuilla_language"
 translations:
   - translation_iso: ara

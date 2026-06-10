@@ -6,12 +6,15 @@ population: 25000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.39233
 longitude: 8.43157
 glottocode: gbir1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Gbiri-Niragu"
+wikidata_id: Q3913936
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbiri-Niragu_language"
 translations:
   - translation_iso: ara

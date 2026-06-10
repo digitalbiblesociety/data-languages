@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.34043
 longitude: 138.41146
 glottocode: ndug1245
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Nduga"
+wikidata_id: Q6983833
 wikipedia_url: "https://en.wikipedia.org/wiki/Nduga_language"
 translations:
   - translation_iso: ara

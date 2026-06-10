@@ -6,12 +6,15 @@ population: 21000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 23.1
 longitude: 104.45
 glottocode: khlu1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Phowa > Hlepho-Phukha > Khlula-Zokhuo > Khlula"
+wikidata_id: Q6401849
 wikipedia_url: "https://en.wikipedia.org/wiki/Khlula_language"
 translations:
   - translation_iso: ara

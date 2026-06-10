@@ -7,12 +7,15 @@ population: 151090
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.62812
 longitude: 94.3538
 glottocode: bori1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Eastern Tani > Bori-Karko"
+wikidata_id: Q56440
 wikipedia_url: "https://en.wikipedia.org/wiki/Adi_languages"
 translations:
   - translation_iso: ara

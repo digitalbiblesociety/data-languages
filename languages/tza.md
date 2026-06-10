@@ -7,12 +7,15 @@ population: 290000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.82431
 longitude: 39.12697
 glottocode: tanz1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Tanzanian Sign Language"
+wikidata_id: Q7684177
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanzanian_sign_languages"
 translations:
   - translation_iso: ara

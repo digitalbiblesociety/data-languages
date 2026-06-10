@@ -7,6 +7,8 @@ population: 32530
 country_id: FM
 country_name: Micronesia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 6.87212
 longitude: 158.22314
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: pohn1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Ponapeic > Pohnpeian"
+wikidata_id: Q28422
 wikipedia_url: "https://en.wikipedia.org/wiki/Pohnpeian_language"
 translations:
   - translation_iso: ara

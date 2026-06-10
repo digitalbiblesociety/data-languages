@@ -6,12 +6,15 @@ alt_names: [Barupu, Barupu language, Varapú, Varofu, Warapoueg, Warapu, Waropu]
 population: 300
 country_id: PG
 country_name: Papua New Guinea
+scope: individual
+language_type: living
 latitude: -3.07263
 longitude: 142.012
 glottocode: wara1302
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Bauni"
+wikidata_id: Q105150962
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauni_language"
 translations:
   - translation_iso: ara

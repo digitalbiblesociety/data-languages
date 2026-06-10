@@ -7,12 +7,15 @@ population: 3420
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.40906
 longitude: 9.2616
 glottocode: uban1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Ubang"
+wikidata_id: Q3914467
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubang_language"
 translations:
   - translation_iso: ara

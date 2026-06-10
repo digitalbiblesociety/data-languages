@@ -7,9 +7,12 @@ population: 4000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.88021
 longitude: 145.08142
 glottocode: pawa1255
+wikidata_id: Q7156099
 wikipedia_url: "https://en.wikipedia.org/wiki/Pawaia_language"
 translations:
   - translation_iso: ara

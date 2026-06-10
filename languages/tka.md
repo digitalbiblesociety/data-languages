@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -8.49999
 longitude: -38.99999
 glottocode: truk1242
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Truká"
+wikidata_id: Q7847648
 wikipedia_url: "https://en.wikipedia.org/wiki/Truk%C3%A1_language"
 translations:
   - translation_iso: ara

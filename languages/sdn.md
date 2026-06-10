@@ -1,5 +1,6 @@
 ---
 iso: sdn
+macrolanguage_id: srd
 name: Gallurese Sardinian
 autonym: gadduresu
 alt_names: [Gallurese, Gallurien, Northeastern Sardinian, Sardinian, "Sardinian, Gallurese", Sardo galurés]
@@ -7,12 +8,15 @@ population: 100000
 country_id: IT
 country_name: Italy
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41.11312
 longitude: 9.24279
 glottocode: gall1276
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Central Italian Romance > Corsic > Gallurese Sardinian"
+wikidata_id: Q612220
 wikipedia_url: "https://en.wikipedia.org/wiki/Gallurese"
 translations:
   - translation_iso: ara

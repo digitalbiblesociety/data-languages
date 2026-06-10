@@ -7,12 +7,15 @@ population: 1190000
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 7.34022
 longitude: 36.17183
 glottocode: kafa1242
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > South Gonga > Kafa"
+wikidata_id: Q35481
 wikipedia_url: "https://en.wikipedia.org/wiki/Kafa_language"
 translations:
   - translation_iso: ara

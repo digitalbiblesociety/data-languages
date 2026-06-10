@@ -7,6 +7,8 @@ population: 148720
 country_id: MD
 country_name: Moldova
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 44.598763
 longitude: 28.02769
 scripts: [Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: gaga1249
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > West Oghuz > Gagauz"
+wikidata_id: Q33457
 wikipedia_url: "https://en.wikipedia.org/wiki/Gagauz_language"
 translations:
   - translation_iso: ara

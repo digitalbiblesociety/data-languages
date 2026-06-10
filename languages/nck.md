@@ -7,12 +7,15 @@ population: 58
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.07653
 longitude: 134.32729
 glottocode: naka1260
 glottolog_family_id: mani1293
 glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Nakkara-Ndjebbana > Nakara"
+wikidata_id: Q6960662
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakkara_language"
 translations:
   - translation_iso: ara

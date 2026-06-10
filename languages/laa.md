@@ -7,12 +7,15 @@ population: 25000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.53449
 longitude: 123.13047
 glottocode: lapu1236
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > Lapuyan Subanun"
+wikidata_id: Q12635302
 translations:
   - translation_iso: ara
     name: سوبانين الجنوبية

@@ -7,12 +7,15 @@ population: 45
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 38.542365
 longitude: -123.080292
 glottocode: kash1280
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Southern Pomoan-Kashaya > Kashaya"
+wikidata_id: Q3193689
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashaya_language"
 translations:
   - translation_iso: ara

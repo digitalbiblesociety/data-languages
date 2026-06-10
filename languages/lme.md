@@ -7,12 +7,15 @@ population: 35720
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.16111
 longitude: 14.44097
 glottocode: peve1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Peve"
+wikidata_id: Q56249
 wikipedia_url: "https://en.wikipedia.org/wiki/Peve_language"
 translations:
   - translation_iso: ara

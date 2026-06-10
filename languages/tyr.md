@@ -7,12 +7,15 @@ population: 105000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.455905
 longitude: 104.62459
 glottocode: taid1249
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Red Tai > Tai Daeng-Meuay"
+wikidata_id: Q3915207
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Daeng_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 29700
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.56478
 longitude: -107.15356
 glottocode: cent2131
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Tarahumaran > Central Tarahumara"
+wikidata_id: Q20090009
 translations:
   - translation_iso: ara
     name: تاراهومارا الوسطى

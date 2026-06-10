@@ -6,12 +6,15 @@ population: 2
 country_id: CO
 country_name: Colombia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -1.25
 longitude: -72.5
 glottocode: nonu1241
 glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nonuya-Ocaina > Nonuya"
+wikidata_id: Q5372139
 wikipedia_url: "https://en.wikipedia.org/wiki/Nonuya_language"
 translations:
   - translation_iso: ara

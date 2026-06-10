@@ -7,12 +7,15 @@ population: 150000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.1239
 longitude: 115.09176
 glottocode: maan1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Maanyan-Paku > Ma'anyan"
+wikidata_id: Q2328761
 wikipedia_url: "https://en.wikipedia.org/wiki/Ma%CA%BCanyan_language"
 translations:
   - translation_iso: ara

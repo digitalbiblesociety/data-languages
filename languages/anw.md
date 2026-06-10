@@ -7,12 +7,15 @@ population: 2740000
 country_id: NG
 country_name: Nigeria
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 4.94832
 longitude: 7.57969
 glottocode: anaa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Okop Usem > Anaang"
+wikidata_id: Q2845320
 wikipedia_url: "https://en.wikipedia.org/wiki/Anaang_language"
 translations:
   - translation_iso: ara

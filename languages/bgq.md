@@ -1,5 +1,6 @@
 ---
 iso: bgq
+macrolanguage_id: raj
 name: Bagri
 autonym: बागड़ी
 alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani]
@@ -7,12 +8,15 @@ population: 2196000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 28.60364
 longitude: 71.45305
 glottocode: bagr1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Bagri-Jandavra > Bagri"
+wikidata_id: Q2426319
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagri_language"
 translations:
   - translation_iso: ara

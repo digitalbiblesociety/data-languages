@@ -7,12 +7,15 @@ population: 11900
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.04587
 longitude: 160.1865
 glottocode: gela1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > Nggelic > Gela"
+wikidata_id: Q3063531
 wikipedia_url: "https://en.wikipedia.org/wiki/Gela_language"
 translations:
   - translation_iso: ara

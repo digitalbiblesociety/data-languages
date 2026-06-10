@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.98832
 longitude: 8.20861
 glottocode: leyi1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Legboic > Lenyima-Leyigha > Leyigha"
+wikidata_id: Q3914492
 wikipedia_url: "https://en.wikipedia.org/wiki/Yigha_language"
 translations:
   - translation_iso: ara

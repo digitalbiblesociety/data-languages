@@ -7,6 +7,8 @@ population: 503000
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 43
 longitude: 47
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: kumy1244
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Kaukasus Kipchak > Kumyk"
+wikidata_id: Q36209
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumyk_language"
 translations:
   - translation_iso: ara

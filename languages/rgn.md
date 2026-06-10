@@ -7,6 +7,8 @@ population: 1100000
 country_id: IT
 country_name: Italy
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 44.234895
 longitude: 11.71892
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: roma1328
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Emiliano-Romagnolo > Romagnol"
+wikidata_id: Q1641543
 wikipedia_url: "https://en.wikipedia.org/wiki/Romagnol"
 translations:
   - translation_iso: ara

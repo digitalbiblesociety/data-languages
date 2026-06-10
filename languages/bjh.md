@@ -7,12 +7,15 @@ population: 550
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.55527
 longitude: 142.8322
 glottocode: bahi1254
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Bahinemic > Bahinemo"
+wikidata_id: Q56361
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahinemo_language"
 translations:
   - translation_iso: ara

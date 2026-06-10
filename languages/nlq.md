@@ -7,12 +7,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.42773
 longitude: 95.1937
 glottocode: laon1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Lao Naga"
+wikidata_id: Q63283609
 translations:
   - translation_iso: ara
     name: لاو ناغا

@@ -7,12 +7,15 @@ population: 300
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 62.686735
 longitude: -141.369535
 glottocode: uppe1437
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Tananaic > Upper Tanana"
+wikidata_id: Q28281
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Tanana_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 200
 country_id: MT
 country_name: Malta
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.90695
 longitude: 14.48244
 glottocode: malt1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Maltese Sign Language"
+wikidata_id: Q6744816
 wikipedia_url: "https://en.wikipedia.org/wiki/Maltese_Sign_Language"
 translations:
   - translation_iso: ara

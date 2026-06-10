@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -9.74999
 longitude: -36.83332
 glottocode: wasu1238
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Wasu"
+wikidata_id: Q7972892
 wikipedia_url: "https://en.wikipedia.org/wiki/Wasu_language"
 translations:
   - translation_iso: ara

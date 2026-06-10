@@ -7,6 +7,8 @@ population: 8130000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.16082
 longitude: 32.87653
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: suku1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Sukuma"
+wikidata_id: Q2638144
 wikipedia_url: "https://en.wikipedia.org/wiki/Sukuma_language"
 translations:
   - translation_iso: ara

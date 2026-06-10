@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -5.29266
 longitude: -45.97761
 glottocode: krey1238
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Northeastern Timbira"
+wikidata_id: Q3199686
 wikipedia_url: "https://en.wikipedia.org/wiki/Kr%E1%BA%BDje_language"
 translations:
   - translation_iso: ara

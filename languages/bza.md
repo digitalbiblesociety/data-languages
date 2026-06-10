@@ -7,12 +7,15 @@ population: 161000
 country_id: LR
 country_name: Liberia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.73729
 longitude: -10.1684
 glottocode: band1352
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Bandi-Zialo > Bandi"
+wikidata_id: Q34912
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbandi_language"
 translations:
   - translation_iso: ara

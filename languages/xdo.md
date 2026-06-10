@@ -6,12 +6,15 @@ population: null
 country_id: ZM
 country_name: Zambia
 status_id: null
+scope: individual
+language_type: living
 latitude: -13.80147
 longitude: 13.11922
 glottocode: kwan1289
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Kwandu"
+wikidata_id: Q47495733
 translations:
   - translation_iso: ara
     name: كواندو

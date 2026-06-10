@@ -7,6 +7,8 @@ population: 552740
 country_id: UA
 country_name: Ukraine
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 43.83979
 longitude: 28.141815
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: crim1257
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Crimean Tatar-Urum > Crimeaic > Crimean Tatar"
+wikidata_id: Q33357
 wikipedia_url: "https://en.wikipedia.org/wiki/Crimean_Tatar_language"
 translations:
   - translation_iso: ara

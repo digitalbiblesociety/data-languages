@@ -7,9 +7,12 @@ population: 1500
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 35.96146
 longitude: -95.03933
 glottocode: yuch1247
+wikidata_id: Q34204
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuchi_language"
 translations:
   - translation_iso: ara

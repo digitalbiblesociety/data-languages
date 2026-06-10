@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.019722
 longitude: 34.615278
 glottocode: hier1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Luvian > Hieroglyphic Luwian"
+wikidata_id: Q3507479
 wikipedia_url: "https://en.wikipedia.org/wiki/Hieroglyphic_Luwian"
 translations:
   - translation_iso: ara

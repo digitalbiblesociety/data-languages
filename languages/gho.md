@@ -7,12 +7,15 @@ population: 10000
 country_id: MA
 country_name: Morocco
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.79792
 longitude: -4.6696
 glottocode: ghom1257
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Atlas Berber > Northwestern Moroccan Berber > Ghomara"
+wikidata_id: Q35315
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghomara_language"
 translations:
   - translation_iso: ara

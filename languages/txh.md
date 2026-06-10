@@ -6,12 +6,15 @@ population: null
 country_id: BG
 country_name: Bulgaria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 42.115469
 longitude: 24.711977
 glottocode: thra1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Thracian"
+wikidata_id: Q36793
 wikipedia_url: "https://en.wikipedia.org/wiki/Thracian_language"
 translations:
   - translation_iso: ara

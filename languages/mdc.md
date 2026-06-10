@@ -7,12 +7,15 @@ population: 970
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.49975
 longitude: 145.75695
 glottocode: male1291
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Mindjim > Lower Minjim > Inland Minjim > Male (Papua New Guinea)"
+wikidata_id: Q6742927
 wikipedia_url: "https://en.wikipedia.org/wiki/Soq_language"
 translations:
   - translation_iso: ara

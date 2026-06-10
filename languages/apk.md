@@ -7,12 +7,15 @@ population: 1000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 34.90771
 longitude: -98.24612
 glottocode: kiow1264
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Kiowa Apache"
+wikidata_id: Q27861
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Apache_language"
 translations:
   - translation_iso: ara

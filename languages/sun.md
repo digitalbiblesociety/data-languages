@@ -1,5 +1,6 @@
 ---
 iso: sun
+iso639_1: su
 name: Sundanese
 autonym: ᮘᮞ ᮞᮥᮔ᮪ᮓ
 alt_names: [Luenga sondanesa, Priangan, Soendanees, Sunda, Sunda simi, Sundaisch, Sundanais, Sundanesisk, Sundanesiska, Sundic, Swndaneg, soundanais, سۇندا تىلى]
@@ -7,6 +8,8 @@ population: 32400000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.89708
 longitude: 107.10636
 scripts: [Latn, Sund]
@@ -14,6 +17,7 @@ glottocode: sund1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sundanese"
+wikidata_id: Q34002
 wikipedia_url: "https://en.wikipedia.org/wiki/Sundanese_language"
 translations:
   - translation_iso: ara

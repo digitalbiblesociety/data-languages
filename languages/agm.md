@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.15012
 longitude: 146.35192
 glottocode: anga1290
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Angaataha"
+wikidata_id: Q3508001
 wikipedia_url: "https://en.wikipedia.org/wiki/Angaataha_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 70
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.78672
 longitude: 168.23249
 glottocode: bier1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Epi > Bieria-Maii > Bieria"
+wikidata_id: Q4904607
 wikipedia_url: "https://en.wikipedia.org/wiki/Bieria_language"
 translations:
   - translation_iso: ara

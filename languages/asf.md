@@ -6,12 +6,15 @@ population: 10100
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -30
 longitude: 145
 glottocode: aust1271
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > Auslanic > Auslan"
+wikidata_id: Q29525
 wikipedia_url: "https://en.wikipedia.org/wiki/Auslan"
 translations:
   - translation_iso: ara

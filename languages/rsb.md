@@ -6,8 +6,11 @@ population: 78000
 country_id: RS
 country_name: Serbia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 45.25524
 longitude: 20.37623
+wikidata_id: Q1268244
 wikipedia_url: "https://en.wikipedia.org/wiki/Romano-Serbian_language"
 translations:
   - translation_iso: ara

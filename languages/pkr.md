@@ -7,12 +7,15 @@ population: 1370
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.1575
 longitude: 76.5365
 glottocode: atta1243
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Irula-Muduga > Muduga-Palu > Attapady Kurumba"
+wikidata_id: Q16835180
 wikipedia_url: "https://en.wikipedia.org/wiki/Attapady_Kurumba_language"
 translations:
   - translation_iso: ara

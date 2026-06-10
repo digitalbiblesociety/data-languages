@@ -7,12 +7,15 @@ population: 2410
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.61511
 longitude: 81.577
 glottocode: raji1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Raji-Raute > Raji"
+wikidata_id: Q7286138
 wikipedia_url: "https://en.wikipedia.org/wiki/Raji_language"
 translations:
   - translation_iso: ara

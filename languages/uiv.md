@@ -7,12 +7,15 @@ population: 1000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.50437
 longitude: 9.53302
 glottocode: iyiv1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Tiv-Iyive-Otanga > Iyive"
+wikidata_id: Q11128658
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyive_language"
 translations:
   - translation_iso: ara

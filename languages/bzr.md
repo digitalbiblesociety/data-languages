@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -20.14942
 longitude: 146.66983
 glottocode: biri1256
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Eastern Maric > Biri"
+wikidata_id: Q4087011
 wikipedia_url: "https://en.wikipedia.org/wiki/Biri_dialect"
 translations:
   - translation_iso: ara

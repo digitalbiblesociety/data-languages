@@ -7,12 +7,15 @@ population: 15
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 6.90525
 longitude: 11.48262
 glottocode: somy1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Vutic > Somyev"
+wikidata_id: Q3913354
 wikipedia_url: "https://en.wikipedia.org/wiki/Somyev_language"
 translations:
   - translation_iso: ara

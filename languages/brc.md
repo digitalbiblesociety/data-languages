@@ -7,12 +7,15 @@ population: null
 country_id: GY
 country_name: Guyana
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 5.3829
 longitude: -58.00024
 glottocode: berb1259
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Berbice Creole Dutch"
+wikidata_id: Q35215
 wikipedia_url: "https://en.wikipedia.org/wiki/Berbice_Creole_Dutch"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1740
 country_id: SR
 country_name: Suriname
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.77537
 longitude: -54.442877
 glottocode: waya1269
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Wayanaic > Wayana"
+wikidata_id: Q5908753
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayana_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 190000
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.061935
 longitude: -10.81375
 glottocode: gola1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Gola"
+wikidata_id: Q35482
 wikipedia_url: "https://en.wikipedia.org/wiki/Gola_language"
 translations:
   - translation_iso: ara

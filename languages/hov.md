@@ -6,12 +6,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.9841
 longitude: 113.89708
 glottocode: hovo1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Muller-Schwaner > Hovongan-Kereho > Hobongan"
+wikidata_id: Q5917269
 wikipedia_url: "https://en.wikipedia.org/wiki/Hovongan_language"
 translations:
   - translation_iso: ara

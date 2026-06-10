@@ -1,5 +1,6 @@
 ---
 iso: hrm
+macrolanguage_id: hmn
 name: Horned Miao
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [A-Hmo, Bai Miao, Hmong Khua Shua Ndrang, Hmong Sou, Jiao Miao, Jiaojiao Miao, Kha-Nzi, "Miao, Horned", White Miao]
@@ -7,12 +8,15 @@ population: 50000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.563832
 longitude: 101.950052
 glottocode: horn1235
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Horned Miao"
+wikidata_id: Q63213949
 translations:
   - translation_iso: ara
     name: لغة ميــاو ذات القرون

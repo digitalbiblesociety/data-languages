@@ -7,12 +7,15 @@ population: 165
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.26705
 longitude: 19.5359
 glottocode: gula1265
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Kulaalic > Gula Iro"
+wikidata_id: Q33360
 wikipedia_url: "https://en.wikipedia.org/wiki/Gula_Iro_language"
 translations:
   - translation_iso: ara

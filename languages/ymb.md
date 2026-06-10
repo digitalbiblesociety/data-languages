@@ -7,12 +7,15 @@ population: 1080
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.50624
 longitude: 142.76279
 glottocode: yamb1254
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Yambes"
+wikidata_id: Q8048022
 wikipedia_url: "https://en.wikipedia.org/wiki/Yambes_language"
 translations:
   - translation_iso: ara

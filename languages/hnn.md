@@ -7,6 +7,8 @@ population: 25100
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.41589
 longitude: 121.2212
 scripts: [Hano, Latn]
@@ -14,6 +16,7 @@ glottocode: hanu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Hanunoo"
+wikidata_id: Q35435
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanunoo_language"
 translations:
   - translation_iso: ara

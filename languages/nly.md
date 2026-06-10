@@ -7,12 +7,15 @@ population: 20
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -21.60924
 longitude: 119.69301
 glottocode: nyam1271
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Northern Ngayarda > Nyamal"
+wikidata_id: Q7070837
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyamal_language"
 translations:
   - translation_iso: ara

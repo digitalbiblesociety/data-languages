@@ -1,5 +1,6 @@
 ---
 iso: hbs
+iso639_1: sh
 name: "Serbo-Croatian"
 autonym: srpskohrvatski jezik
 alt_names: [Croatian, Serbian, Serbian-Croatian, Serbo-Croat, Serbocroat]
@@ -7,12 +8,15 @@ population: 19000000
 country_id: RS
 country_name: Serbia
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: 44.15
 longitude: 18.81
 glottocode: sout1528
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Serbian-Croatian-Bosnian"
+wikidata_id: Q9301
 wikipedia_url: "https://en.wikipedia.org/wiki/Serbo-Croatian"
 translations:
   - translation_iso: ara

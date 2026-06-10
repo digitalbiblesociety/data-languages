@@ -7,12 +7,15 @@ population: 2910
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.508805
 longitude: -59.14166
 glottocode: waiw1244
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Parukotoan > Waiwaian > Waiwai"
+wikidata_id: Q56632
 wikipedia_url: "https://en.wikipedia.org/wiki/Waiwai_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 85400
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.5232
 longitude: 123.58754
 glottocode: nort2885
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Nuclear Subanen > East Nuclear Subanen > Northern Subanen"
+wikidata_id: Q12953892
 translations:
   - translation_iso: ara
     name: اللغة سوبانين الشمالية

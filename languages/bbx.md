@@ -6,8 +6,11 @@ population: 600
 country_id: CM
 country_name: Cameroon
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 4.02178
 longitude: 9.22304
+wikidata_id: Q34953
 wikipedia_url: "https://en.wikipedia.org/wiki/Wovea_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2300
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.15511
 longitude: 13.62801
 glottocode: tsuv1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Sharwa-Tsuvan > Tsuvan"
+wikidata_id: Q3502326
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsuvan_language"
 translations:
   - translation_iso: ara

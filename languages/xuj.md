@@ -7,12 +7,15 @@ population: 101000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.50414
 longitude: 76.57667
 glottocode: jenn1240
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Jennu Kurumba"
+wikidata_id: Q21282543
 wikipedia_url: "https://en.wikipedia.org/wiki/Jenu_Kurumba_language"
 translations:
   - translation_iso: ara

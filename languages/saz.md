@@ -7,6 +7,8 @@ population: 248000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.99172
 longitude: 77.94271
 scripts: [Saur]
@@ -14,6 +16,7 @@ glottocode: saur1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Saurashtra"
+wikidata_id: Q13292
 wikipedia_url: "https://en.wikipedia.org/wiki/Saurashtra_language"
 translations:
   - translation_iso: ara

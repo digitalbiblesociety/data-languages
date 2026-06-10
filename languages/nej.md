@@ -7,12 +7,15 @@ population: 320
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.60034
 longitude: 146.30617
 glottocode: neko1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Gusap-Mot > Gira-Neko-Nekgini > Neko"
+wikidata_id: Q6989840
 wikipedia_url: "https://en.wikipedia.org/wiki/Neko_language"
 translations:
   - translation_iso: ara

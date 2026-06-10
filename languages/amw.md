@@ -7,12 +7,15 @@ population: 15000
 country_id: SY
 country_name: Syria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 33.81622
 longitude: 36.48403
 glottocode: west2763
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Western Aramaic > Western Neo-Aramaic"
+wikidata_id: Q34226
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Neo-Aramaic"
 translations:
   - translation_iso: ara

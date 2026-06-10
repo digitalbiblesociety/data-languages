@@ -7,12 +7,15 @@ population: 12000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.3425
 longitude: 93.155
 glottocode: east2779
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Eastern Khumi Chin"
+wikidata_id: Q16115455
 translations:
   - translation_iso: ara
     name: الخومي الشرقية تشين

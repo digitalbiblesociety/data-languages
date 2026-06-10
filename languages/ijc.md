@@ -7,12 +7,15 @@ population: 2150000
 country_id: NG
 country_name: Nigeria
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 5.17986
 longitude: 5.51702
 glottocode: izon1238
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Izon"
+wikidata_id: Q35483
 wikipedia_url: "https://en.wikipedia.org/wiki/Izon_language"
 translations:
   - translation_iso: ara

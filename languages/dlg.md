@@ -7,12 +7,15 @@ population: 4870
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 71.10828
 longitude: 94.29358
 glottocode: dolg1241
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Sakha-Dolgan > Dolgan"
+wikidata_id: Q32878
 wikipedia_url: "https://en.wikipedia.org/wiki/Dolgan_language"
 translations:
   - translation_iso: ara

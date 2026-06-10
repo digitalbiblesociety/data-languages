@@ -1,5 +1,6 @@
 ---
 iso: tso
+iso639_1: ts
 name: Tsonga
 autonym: Xitsonga
 alt_names: [Changana, Gwamba, Shangaan, Shangana, Shitsonga, Thonga, Tonga, Tsongeg, Tsongum, Xichangana, Тсонга, Цонга]
@@ -7,6 +8,8 @@ population: 6603500
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -23.57541
 longitude: 31.810538
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: tson1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Tswa-Ronga (S.50) > Tsongan > Tsonga"
+wikidata_id: Q34327
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsonga_language"
 translations:
   - translation_iso: ara

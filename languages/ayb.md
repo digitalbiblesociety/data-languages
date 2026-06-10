@@ -7,12 +7,15 @@ population: 476000
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.62654
 longitude: 2.20552
 glottocode: ayiz1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Ayizo Gbe"
+wikidata_id: Q34841
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayizo_language"
 translations:
   - translation_iso: ara

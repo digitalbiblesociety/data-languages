@@ -7,12 +7,15 @@ population: 206400
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.41563
 longitude: 70.782565
 glottocode: dhat1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Dhatki"
+wikidata_id: Q32480
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhatki_language"
 translations:
   - translation_iso: ara

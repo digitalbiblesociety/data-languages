@@ -7,12 +7,15 @@ population: 310000
 country_id: GH
 country_name: Ghana
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.48801
 longitude: -0.72757
 glottocode: gonj1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Gonja-Dompo > Gonja"
+wikidata_id: Q35267
 wikipedia_url: "https://en.wikipedia.org/wiki/Gonja_language"
 translations:
   - translation_iso: ara

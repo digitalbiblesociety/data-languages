@@ -7,12 +7,15 @@ population: 500
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -13.8096
 longitude: 167.47532
 glottocode: vera1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Lemerig-Veraa > Vera'a"
+wikidata_id: Q3555689
 wikipedia_url: "https://en.wikipedia.org/wiki/Vera%CA%BCa_language"
 translations:
   - translation_iso: ara

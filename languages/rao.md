@@ -7,12 +7,15 @@ population: 6000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.85243
 longitude: 144.51119
 glottocode: raoo1244
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Rao"
+wikidata_id: Q11732596
 wikipedia_url: "https://en.wikipedia.org/wiki/Rao_language"
 translations:
   - translation_iso: ara

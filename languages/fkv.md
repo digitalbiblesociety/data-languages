@@ -7,12 +7,15 @@ population: 6500
 country_id: "NO"
 country_name: Norway
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 69.37724
 longitude: 29.54336
 glottocode: kven1236
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Nuclear Finnish > Kven Finnish"
+wikidata_id: Q165795
 wikipedia_url: "https://en.wikipedia.org/wiki/Kven_language"
 translations:
   - translation_iso: ara

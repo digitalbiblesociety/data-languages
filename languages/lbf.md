@@ -7,12 +7,15 @@ population: 12050
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.285175
 longitude: 77.99121
 glottocode: tina1246
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Lahaulic > Tinani"
+wikidata_id: Q784502
 wikipedia_url: "https://en.wikipedia.org/wiki/Tinani_language"
 translations:
   - translation_iso: ara

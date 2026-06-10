@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.442
 longitude: 143.808
 glottocode: mouw1234
 glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Turama-Omatian > Mouwase"
+wikidata_id: Q63256977
 translations:
   - translation_iso: ara
     name: لغة موواسي

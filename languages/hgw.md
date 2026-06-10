@@ -7,12 +7,15 @@ population: 1060
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.27409
 longitude: 150.25556
 glottocode: haig1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Are-Taupota linkage > Taupota linkage > Nuclear Taupota linkage > Eastern Taupota > Haigwai"
+wikidata_id: Q5639108
 wikipedia_url: "https://en.wikipedia.org/wiki/Haigwai_language"
 translations:
   - translation_iso: ara

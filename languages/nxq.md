@@ -7,6 +7,8 @@ population: 300000
 country_id: CN
 country_name: China
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 27.4599
 longitude: 100.182
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: naxi1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Naish > Naxi"
+wikidata_id: Q2478711
 wikipedia_url: "https://en.wikipedia.org/wiki/Naxi_language"
 translations:
   - translation_iso: ara

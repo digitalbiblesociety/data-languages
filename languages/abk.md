@@ -1,5 +1,6 @@
 ---
 iso: abk
+iso639_1: ab
 name: Abkhazian
 autonym: Abkhazian
 alt_names: ["Abc'hazeg", Abchaseg, Abchazisch, Abchaziska, Abhazca, Abjaso, Abkasíska, Abkhasisk, Abkhaz, Abkhaz language, Abkhaze, Abkhazera, Abxaz, Abxazo, An Abcáisis, אבחזית]
@@ -7,6 +8,8 @@ population: 194710
 country_id: GE
 country_name: Georgia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 42.233375
 longitude: 41.29627
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: abkh1244
 glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Abkhaz-Abaza > Abkhaz"
+wikidata_id: Q5111
 wikipedia_url: "https://en.wikipedia.org/wiki/Abkhaz_language"
 translations:
   - translation_iso: ara

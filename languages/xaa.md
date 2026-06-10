@@ -7,12 +7,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: historical
 latitude: 36.54
 longitude: -5.2
 glottocode: anda1287
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Andalusian Arabic"
+wikidata_id: Q1137945
 wikipedia_url: "https://en.wikipedia.org/wiki/Andalusi_Arabic"
 translations:
   - translation_iso: ara

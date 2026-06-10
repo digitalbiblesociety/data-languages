@@ -7,12 +7,15 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 12.5
 longitude: 24.83
 glottocode: birk1242
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Birked"
+wikidata_id: Q56823
 wikipedia_url: "https://en.wikipedia.org/wiki/Birgid_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 400
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 49.72325
 longitude: -124.96678
 glottocode: como1259
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > North Georgia Central Salish > Comox"
+wikidata_id: Q13583746
 wikipedia_url: "https://en.wikipedia.org/wiki/Comox_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 8000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.56211
 longitude: -96.60203
 glottocode: quio1240
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Chinantec Group V > Quiotepec Chinantec"
+wikidata_id: Q5758709
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Chinantec_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 15000
 country_id: SK
 country_name: Slovakia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 48.04632
 longitude: 18.12475
 glottocode: slov1263
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Slovakian Sign Language"
+wikidata_id: Q7541557
 wikipedia_url: "https://en.wikipedia.org/wiki/Slovak_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 43.67
 longitude: 39.67
 glottocode: ubyk1235
 glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Ubykh"
+wikidata_id: Q36931
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubykh_language"
 translations:
   - translation_iso: ara

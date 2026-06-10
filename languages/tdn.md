@@ -7,12 +7,15 @@ population: 9560
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 1.28024
 longitude: 124.96386
 glottocode: tond1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Northeast Minahasan > Tondano"
+wikidata_id: Q3531514
 wikipedia_url: "https://en.wikipedia.org/wiki/Tondano_language"
 translations:
   - translation_iso: ara

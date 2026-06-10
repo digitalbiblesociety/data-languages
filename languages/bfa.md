@@ -7,12 +7,15 @@ population: 766000
 country_id: SS
 country_name: South Sudan
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 4.195225
 longitude: 31.072335
 glottocode: bari1284
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Nuclear Barian > Bari"
+wikidata_id: Q35042
 wikipedia_url: "https://en.wikipedia.org/wiki/Bari_language"
 translations:
   - translation_iso: ara

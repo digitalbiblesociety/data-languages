@@ -7,12 +7,15 @@ population: 5030
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.64151
 longitude: 71.66575
 glottocode: kala1372
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Chitral Kalasha"
+wikidata_id: Q33416
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalasha_language"
 translations:
   - translation_iso: ara

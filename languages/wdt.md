@@ -4,8 +4,11 @@ name: Wendat
 autonym: Waⁿdat
 country_id: CA
 country_name: Canada
+scope: individual
+language_type: living
 latitude: 44.33
 longitude: -77.5
+wikidata_id: Q3567223
 wikipedia_url: "https://en.wikipedia.org/wiki/Wendat_language"
 translations:
   - translation_iso: ara

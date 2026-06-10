@@ -6,8 +6,11 @@ population: 227000
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 18.965
 longitude: 82.646
+wikidata_id: Q12629755
 wikipedia_url: "https://en.wikipedia.org/wiki/Desia_language"
 translations:
   - translation_iso: ara

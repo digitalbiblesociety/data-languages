@@ -7,12 +7,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.82635
 longitude: 132.05952
 glottocode: kond1303
 glottolog_family_id: kond1302
 glottolog_family_name: Konda-Yahadian
 glottolog_classification: "Konda-Yahadian > Yaben (Konda)"
+wikidata_id: Q11732340
 wikipedia_url: "https://en.wikipedia.org/wiki/Konda_language_(Papuan)"
 translations:
   - translation_iso: ara

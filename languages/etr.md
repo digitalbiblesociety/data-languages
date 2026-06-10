@@ -7,12 +7,15 @@ population: 1670
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.11618
 longitude: 142.65007
 glottocode: edol1239
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Etoro-Bedamini > Edolo"
+wikidata_id: Q5340184
 wikipedia_url: "https://en.wikipedia.org/wiki/Edolo_language"
 translations:
   - translation_iso: ara

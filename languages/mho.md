@@ -7,12 +7,15 @@ population: 21730
 country_id: ZM
 country_name: Zambia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -16.725593
 longitude: 22.59827
 glottocode: mash1267
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Western Greater Luyana > Mashi-Mbukushi > Mashi (Zambia)"
+wikidata_id: Q10962737
 wikipedia_url: "https://en.wikipedia.org/wiki/Mashi_language"
 translations:
   - translation_iso: ara

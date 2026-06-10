@@ -7,12 +7,15 @@ population: 70000
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.83656
 longitude: 31.23272
 glottocode: mand1425
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Mandari"
+wikidata_id: Q3285426
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandari_dialect"
 translations:
   - translation_iso: ara

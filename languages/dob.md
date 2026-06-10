@@ -6,12 +6,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -9.63239
 longitude: 150.82504
 glottocode: dobu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Dobu"
+wikidata_id: Q952133
 wikipedia_url: "https://en.wikipedia.org/wiki/Dobu_language"
 translations:
   - translation_iso: ara

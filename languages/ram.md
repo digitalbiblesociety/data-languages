@@ -7,12 +7,15 @@ population: 2500
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -6.10712
 longitude: -45.1299
 glottocode: cane1242
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Eastern Timbira > Southeastern Timbira > Central-Southern Timbira"
+wikidata_id: Q2936334
 wikipedia_url: "https://en.wikipedia.org/wiki/Canela_dialect"
 translations:
   - translation_iso: ara

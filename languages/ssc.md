@@ -7,12 +7,15 @@ population: 113000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.95719
 longitude: 34.103295
 glottocode: suba1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > North Mara > Kuriaic > Suba-Simbiti"
+wikidata_id: Q7630687
 wikipedia_url: "https://en.wikipedia.org/wiki/Suba-Simbiti_language"
 translations:
   - translation_iso: ara

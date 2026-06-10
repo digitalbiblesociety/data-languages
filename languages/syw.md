@@ -7,12 +7,15 @@ population: 1270
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.44921
 longitude: 86.16753
 glottocode: kaga1252
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Kyirong-Kagate > Yolmo-Kagate > Kagate"
+wikidata_id: Q12952538
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagate_language"
 translations:
   - translation_iso: ara

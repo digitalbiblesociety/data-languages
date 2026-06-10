@@ -7,12 +7,15 @@ population: 300
 country_id: TH
 country_name: Thailand
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.881375
 longitude: 100.102185
 glottocode: tong1308
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Maniqic > Maniq"
+wikidata_id: Q3073453
 wikipedia_url: "https://en.wikipedia.org/wiki/Ten%27edn"
 translations:
   - translation_iso: ara

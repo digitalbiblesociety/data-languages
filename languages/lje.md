@@ -7,12 +7,15 @@ population: 7500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.1399
 longitude: 120.35634
 glottocode: ramp1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Rampi"
+wikidata_id: Q7290041
 wikipedia_url: "https://en.wikipedia.org/wiki/Rampi_language"
 translations:
   - translation_iso: ara

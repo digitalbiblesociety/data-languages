@@ -7,12 +7,15 @@ population: 8000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 16.70985
 longitude: 121.03484
 glottocode: kele1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Kalanguya > Keley-i Kallahan"
+wikidata_id: Q3192221
 translations:
   - translation_iso: ara
     name: كيلي-آي كالاهان

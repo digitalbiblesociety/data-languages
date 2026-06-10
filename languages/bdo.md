@@ -7,12 +7,15 @@ population: 4500
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.14611
 longitude: 17.64653
 glottocode: moro1281
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Bayo-Morom > Morom"
+wikidata_id: Q759770
 wikipedia_url: "https://en.wikipedia.org/wiki/Morom_language"
 translations:
   - translation_iso: ara

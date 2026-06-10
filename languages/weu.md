@@ -7,8 +7,11 @@ population: 9550
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.04569
 longitude: 98.3197
+wikidata_id: Q7980503
 wikipedia_url: "https://en.wikipedia.org/wiki/Welaung_language"
 translations:
   - translation_iso: ara

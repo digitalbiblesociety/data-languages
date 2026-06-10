@@ -1,11 +1,14 @@
 ---
 iso: dty
+macrolanguage_id: nep
 name: Dotyali
 autonym: Dotyali
 population: 788000
 country_id: NP
 country_name: Nepal
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 29.242
 longitude: 80.7252
 scripts: [Deva]
@@ -13,6 +16,7 @@ glottocode: doty1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Eastern Pahari > Dotyali"
+wikidata_id: Q18415595
 wikipedia_url: "https://en.wikipedia.org/wiki/Doteli"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 960
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.72704
 longitude: 141.86389
 glottocode: pouy1238
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Pouye-Karawa > Pouye"
+wikidata_id: Q7235814
 wikipedia_url: "https://en.wikipedia.org/wiki/Pouye_language"
 translations:
   - translation_iso: ara

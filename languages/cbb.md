@@ -7,12 +7,15 @@ population: 310
 country_id: CO
 country_name: Colombia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 0.16101
 longitude: -71.06216
 glottocode: cabi1241
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Cabiyarí"
+wikidata_id: Q3450660
 wikipedia_url: "https://en.wikipedia.org/wiki/Cabiyari_language"
 translations:
   - translation_iso: ara

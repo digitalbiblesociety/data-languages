@@ -7,12 +7,15 @@ population: null
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.10343
 longitude: 106.54295
 glottocode: nyah1249
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Nyaheun"
+wikidata_id: Q7070801
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyaheun_language"
 translations:
   - translation_iso: ara

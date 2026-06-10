@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -22.278
 longitude: -53.7227
 glottocode: ofay1240
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Ofayé"
+wikidata_id: Q3446691
 wikipedia_url: "https://en.wikipedia.org/wiki/Ofay%C3%A9_language"
 translations:
   - translation_iso: ara

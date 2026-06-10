@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 35.327
 longitude: -117.163
 glottocode: tuba1278
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Tübatulabal"
+wikidata_id: Q56704
 wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%BCbatulabal_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 134
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 60.87784
 longitude: 89.74791
 glottocode: yugh1239
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Northern Yeniseian > Yugh"
+wikidata_id: Q56311
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugh_language"
 translations:
   - translation_iso: ara

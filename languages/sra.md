@@ -6,12 +6,15 @@ population: 130
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.08824
 longitude: 145.57798
 glottocode: saru1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Silopic > Saruga"
+wikidata_id: Q7424699
 wikipedia_url: "https://en.wikipedia.org/wiki/Saruga_language"
 translations:
   - translation_iso: ara

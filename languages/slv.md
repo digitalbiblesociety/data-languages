@@ -1,5 +1,6 @@
 ---
 iso: slv
+iso639_1: sl
 name: Slovenian
 autonym: Slovenian
 alt_names: [An tSlóivéinis, Esloveniera, Eslovenu, Eslovè, Eslovèn, Isluwinya simi, Lenghe slovene, Resiano, Résien, Slofeneg, Sloveanish, Sloveeni, Sloveens, Sloveensk, Slovenagiella, Slovence, Slovene, Slovene language, Sloveneg, Slovenek, Sloveniana linguo, Slovenie leid, Slovenisch, Slovenscina, Slovensk, Slovenska, Slovène, Slovèno, Sloweens, Sloweensche Spraak, Slowenische Sproch, Slòbhainis, Slóvenska, Słowjeńska rěc, Łéngua slovena, Їллѷрі́искословѣ́ньскъ ѩꙁꙑ́къ, Забони словенӣ, Словен йылме, Սլովեներեն, סלאוועניש, סלובנית, سلوۋېن تىلى]
@@ -7,6 +8,8 @@ population: 2046060
 country_id: SI
 country_name: Slovenia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 46.254258
 longitude: 14.776588
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: slov1268
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Slovenian"
+wikidata_id: Q9063
 wikipedia_url: "https://en.wikipedia.org/wiki/Slovene_language"
 translations:
   - translation_iso: ara

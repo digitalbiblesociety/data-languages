@@ -7,6 +7,8 @@ population: 946000
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 5.122357
 longitude: 118.879693
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: taus1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Butuan-Tausug > Tausug"
+wikidata_id: Q34142
 wikipedia_url: "https://en.wikipedia.org/wiki/Tausug_language"
 translations:
   - translation_iso: ara

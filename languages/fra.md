@@ -1,5 +1,6 @@
 ---
 iso: fra
+iso639_1: fr
 name: French
 autonym: français
 alt_names: [An Fhraincis, Bahsa Peurancih, Bourguignon, Champenois, Dáághahii bizaad, Falansé, Fap-ngî, Faransekan, Fazyij, Ffrangeg, Fiteny frantsay, Franc-comtois, Franciana linguo, Francojska rěc, Francusko godka, Francès, Francés, Francês, Frangais, Frangish, Frans, Fransegbe, Fransk, Franska, Fransum, Fransuz tili, Franséisch, Fransızca, Fransızki, Frantses, Frantsöösk, Französisch, Französische Sproch, Franzöösche Spraak, Franzüüsėsh, French bhasa, French leid, Frencisc sprǣc, Frenk tili, Frenkek, Frinanses, Frinsé, Fránskkagiella, Frânsk, Galleg, Gallo, Guernesiais, Hoat-gí, Huák-ngṳ̄, Jersiais, Kifalanse, Kifaransa, Lang franse, Lenghe francese, Lorrain, Luenga francesa, Pagsasao a Frances, Phransya simi, Poitevin-saintongeais, Poitevino-santongés, Prinanses, Se-french, SiFulentshi, Standard French, SíFulentji, Tafransist, Tataramon na Pranses, Tok Pranis, Wu-faraas, fasybau, Łéngua fransexe, Забони фаронсавӣ, Кранцонь кяль, Пырансуз йылме, Франк теле, Франкі́искъ ѩꙁꙑ́къ, Француз теле, Ֆրանսերեն, פראנצויזיש, צרפתית, زمانی فەڕەنسی, فرانسوي, فرانسۇز تىل, فرانسیسی, لغه فرنساوى, ܠܫܢܐ ܦܪܢܣܝܐ, ފަރަންސޭސި, ཕ་རན་སིའི་སྐད།, ᐅᐃᕖᑎᑐᑦ/uiviititut, ᐅᐱᔥᑎᑯᔮᐅᐊᔨᒧᐎᓐ, ‘Ōlelo Palani, 法國話, 法文, 𐍆𐍂𐌰𐌽𐌺𐌰𐍂𐌰𐌶𐌳𐌰]
@@ -7,6 +8,8 @@ population: 77200000
 country_id: FR
 country_name: France
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 48
 longitude: 2
 scripts: [Dupl, Latn]
@@ -14,6 +17,7 @@ glottocode: stan1290
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Global French > French"
+wikidata_id: Q150
 wikipedia_url: "https://en.wikipedia.org/wiki/French_language"
 translations:
   - translation_iso: ara

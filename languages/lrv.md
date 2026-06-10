@@ -7,12 +7,15 @@ population: 680
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.19708
 longitude: 167.38662
 glottocode: lare1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Larevat"
+wikidata_id: Q3217892
 wikipedia_url: "https://en.wikipedia.org/wiki/Lar%C3%ABvat_language"
 translations:
   - translation_iso: ara

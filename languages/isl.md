@@ -1,5 +1,6 @@
 ---
 iso: isl
+iso639_1: is
 name: Icelandic
 autonym: íslenska
 alt_names: [An Íoslainnis, Eeslynnish, IJslands, Icelandic leid, Ieslaans, Ieslandjs, Islandais, Islandana linguo, Islandeg, Islandek, Islandiera, Islandsk, Islandya simi, Islandès, Islandés, Islánddagiella, Isländisch, Isländska, Luenga islandesa, Tok Aislan, Yslands, Īslendisc sprǣc, İsland tili, İzlandaca, Łéngua islandéxe, Забони исландӣ, Исланд йылме, Исландхойн мотт, Իսլանդերեն, איסלנדית, ئىسلاندىيە تىلى, ايسلاندى, 冰岛文]
@@ -7,6 +8,8 @@ population: 328080
 country_id: IS
 country_name: Iceland
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 63.48375
 longitude: -19.02117
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: icel1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > West Scandinavian > Icelandic-Faroese > Icelandic"
+wikidata_id: Q294
 wikipedia_url: "https://en.wikipedia.org/wiki/Icelandic_language"
 translations:
   - translation_iso: ara

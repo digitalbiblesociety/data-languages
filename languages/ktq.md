@@ -7,12 +7,15 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 17.95094
 longitude: 121.54387
 glottocode: kata1268
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Katabaga"
+wikidata_id: Q3193895
 wikipedia_url: "https://en.wikipedia.org/wiki/Katabangan_language"
 translations:
   - translation_iso: ara

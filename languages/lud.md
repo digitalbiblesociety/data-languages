@@ -7,12 +7,15 @@ population: 10000
 country_id: RU
 country_name: Russia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 61.85302
 longitude: 33.73461
 glottocode: ludi1246
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > East Ladoga > Ludian"
+wikidata_id: Q33918
 wikipedia_url: "https://en.wikipedia.org/wiki/Ludic_language"
 translations:
   - translation_iso: ara

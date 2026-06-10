@@ -7,12 +7,15 @@ population: 15800
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.30433
 longitude: 115.51229
 glottocode: saba1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Sabah Bisaya"
+wikidata_id: Q7395820
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabah_Bisaya"
 translations:
   - translation_iso: ara

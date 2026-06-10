@@ -7,12 +7,15 @@ population: null
 country_id: CO
 country_name: Colombia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 1.03332
 longitude: -75.24999
 glottocode: tama1340
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Koreguaje-Tama > Tama (Colombia)"
+wikidata_id: Q3832969
 wikipedia_url: "https://en.wikipedia.org/wiki/Tama_language_(Colombia)"
 translations:
   - translation_iso: ara

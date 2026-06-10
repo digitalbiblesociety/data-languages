@@ -7,12 +7,15 @@ population: 171000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.06675
 longitude: 92.25834
 glottocode: tiwa1253
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Tiwa (India)"
+wikidata_id: Q7810466
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiwa_language_(India)"
 translations:
   - translation_iso: ara

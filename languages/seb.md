@@ -7,8 +7,11 @@ population: 114800
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.48673
 longitude: -6.37129
+wikidata_id: Q36325
 wikipedia_url: "https://en.wikipedia.org/wiki/Shempire_language"
 translations:
   - translation_iso: ara

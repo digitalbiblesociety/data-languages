@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -16.91292
 longitude: 122.85075
 glottocode: nyul1247
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Nyulnyulic > Nyulnyul"
+wikidata_id: Q3442732
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyulnyul_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 22000
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.78546
 longitude: 91.37399
 glottocode: dzal1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Dakpa-Dzala > Dzalakha"
+wikidata_id: Q56607
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzala_language"
 translations:
   - translation_iso: ara

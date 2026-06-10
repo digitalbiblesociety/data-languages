@@ -6,12 +6,15 @@ population: 1400
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.69836
 longitude: 149.27394
 glottocode: maiw1251
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Maiwa (Papua New Guinea)"
+wikidata_id: Q6737223
 wikipedia_url: "https://en.wikipedia.org/wiki/Maiwa_language_(Papuan)"
 translations:
   - translation_iso: ara

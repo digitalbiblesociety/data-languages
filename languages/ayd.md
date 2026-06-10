@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.66524
 longitude: 142.89347
 glottocode: ayab1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umbindhamuic > Yintyinka-Ayabadhu"
+wikidata_id: Q3509164
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayabadhu_language"
 translations:
   - translation_iso: ara

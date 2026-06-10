@@ -7,12 +7,15 @@ population: 17100
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.05807
 longitude: -97.89742
 glottocode: zaca1241
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tlaxcala-Southeastern Puebla Nahuatl > Zacatlán-Ahuacatlán-Tepetzintla Nahuatl"
+wikidata_id: Q2204061
 translations:
   - translation_iso: ara
     name: ساكاتلان أهواكاتلان تيبتسينتلا ناهواتل

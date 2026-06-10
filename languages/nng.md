@@ -7,12 +7,15 @@ population: 25800
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.28537
 longitude: 94.07232
 glottocode: mari1416
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Maringic > Maring Naga"
+wikidata_id: Q12952908
 wikipedia_url: "https://en.wikipedia.org/wiki/Maringic_languages"
 translations:
   - translation_iso: ara

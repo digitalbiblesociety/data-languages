@@ -7,12 +7,15 @@ population: 166000
 country_id: BD
 country_name: Bangladesh
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.74581
 longitude: 88.91575
 glottocode: orao1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Sadri-Panchpargania > India-Nepal-Bangladesh Sadri > Oraon Sadri"
+wikidata_id: Q12953860
 translations:
   - translation_iso: ara
     name: أوراون صادري

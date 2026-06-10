@@ -7,12 +7,15 @@ population: 5000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.59477
 longitude: 108.34752
 glottocode: mono1268
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Monom"
+wikidata_id: Q6901726
 wikipedia_url: "https://en.wikipedia.org/wiki/Monom_language"
 translations:
   - translation_iso: ara

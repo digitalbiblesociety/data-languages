@@ -7,12 +7,15 @@ population: 3740
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.64158
 longitude: 84.05154
 glottocode: mana1288
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Manangba-Nar-Phu > Manange"
+wikidata_id: Q6746900
 wikipedia_url: "https://en.wikipedia.org/wiki/Manang_language"
 translations:
   - translation_iso: ara

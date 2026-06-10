@@ -7,12 +7,15 @@ population: 3770
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.93207
 longitude: 70.94044
 glottocode: munj1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Eastern Iranian > Yidgha-Munji > Munji"
+wikidata_id: Q33639
 wikipedia_url: "https://en.wikipedia.org/wiki/Munji_language"
 translations:
   - translation_iso: ara

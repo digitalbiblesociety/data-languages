@@ -7,6 +7,8 @@ population: null
 country_id: NL
 country_name: Netherlands
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 51.656
 longitude: 5.34
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: midd1321
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Middle Dutch"
+wikidata_id: Q178806
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Dutch"
 translations:
   - translation_iso: ara

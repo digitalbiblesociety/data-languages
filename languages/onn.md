@@ -6,12 +6,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.30876
 longitude: 142.77582
 glottocode: onob1238
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Onobasulu"
+wikidata_id: Q7094437
 wikipedia_url: "https://en.wikipedia.org/wiki/Onobasulu_language"
 translations:
   - translation_iso: ara

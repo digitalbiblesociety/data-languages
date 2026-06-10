@@ -1,5 +1,6 @@
 ---
 iso: ukr
+iso639_1: uk
 name: Ukrainian
 autonym: "українська моваukrayins'ka mova"
 alt_names: [An Úcráinis, Kiukraine, Little Russian, Oekraïens, Oekraïns, Ookraanish, Ucranianu, Ucraïnian, Ucraïnès, Ukrain tili, Ukrainagiella, Ukraineg, Ukrainera, Ukrainiana linguo, Ukrainien, Ukrainsche Spraak, Ukrainsk, Ukrainska, Ukrainska rěc, Ukrajińsko godka, Ukranian, Ukranya simi, Ukrayina-gí, Ukraynaca, Ukraynek, Ùcrainis, Úkraínska, Ūcræȝnisc sprǣc, Забони украинӣ, Оукра́иньскъ ѩꙁꙑ́къ, Украин йылме, Украин тыла, Украинань кель, Украинонь кяль, Ուկրաիներեն, אוקראיניש, אוקראינית, ئۇكرائىن تىلى, اوكرانى]
@@ -7,6 +8,8 @@ population: 27300000
 country_id: UA
 country_name: Ukraine
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 48.175842
 longitude: 24.395786
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: ukra1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > East Slavic > Ukrainian-Rusyn > Ukrainian"
+wikidata_id: Q8798
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukrainian_language"
 translations:
   - translation_iso: ara

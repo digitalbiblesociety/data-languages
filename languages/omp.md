@@ -7,6 +7,9 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q105953310
 translations:
   - translation_iso: ara
     name: اللغة مانيبوري القديمة

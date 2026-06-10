@@ -6,8 +6,11 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -19.16665
 longitude: -54.03332
+wikidata_id: Q53386731
 translations:
   - translation_iso: ara
     name: غوآنآ

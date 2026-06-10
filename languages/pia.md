@@ -7,12 +7,15 @@ population: 1000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.65401
 longitude: -108.32633
 glottocode: pima1248
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Piman > Pima Bajo"
+wikidata_id: Q3388544
 wikipedia_url: "https://en.wikipedia.org/wiki/Pima_Bajo_language"
 translations:
   - translation_iso: ara

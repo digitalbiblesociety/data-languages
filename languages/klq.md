@@ -7,12 +7,15 @@ population: 3870
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.17149
 longitude: 144.17851
 glottocode: rumu1243
 glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Rumu"
+wikidata_id: Q7379420
 wikipedia_url: "https://en.wikipedia.org/wiki/Rumu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -6.58333
 longitude: -77.69999
 glottocode: hibi1243
 glottolog_family_id: hibi1242
 glottolog_family_name: Hibito-Cholon
 glottolog_classification: "Hibito-Cholon > Hibito"
+wikidata_id: Q3135164
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%ADbito_language"
 translations:
   - translation_iso: ara

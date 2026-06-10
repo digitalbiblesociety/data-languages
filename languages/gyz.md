@@ -7,12 +7,15 @@ population: 8000
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: living
 latitude: 10.34776
 longitude: 9.64965
 glottocode: nucl1692
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Gejic > Gyaazi"
+wikidata_id: Q126478135
 translations:
   - translation_iso: ara
     name: غيآآزي

@@ -7,12 +7,15 @@ population: 10000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.45652
 longitude: 53.21897
 glottocode: sork1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Komisenian > Sorkhei-Aftari"
+wikidata_id: Q3491964
 wikipedia_url: "https://en.wikipedia.org/wiki/Sorkhei_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1300
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.69571
 longitude: 147.68747
 glottocode: uare1241
 glottolog_family_id: kwal1257
 glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Humene-Kwale > Uare"
+wikidata_id: Q6450052
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwale_language"
 translations:
   - translation_iso: ara

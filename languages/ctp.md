@@ -7,12 +7,15 @@ population: 16000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.2495
 longitude: -97.32436
 glottocode: west2644
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Coastal Chatino > Eastern Chatino > Western Highland Chatino"
+wikidata_id: Q32861734
 translations:
   - translation_iso: ara
     name: الشاتينو الغربي الأعلى

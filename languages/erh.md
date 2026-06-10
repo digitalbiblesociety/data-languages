@@ -7,12 +7,15 @@ population: 2000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.18026
 longitude: 6.04818
 glottocode: eruw1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Eruwa"
+wikidata_id: Q3441244
 wikipedia_url: "https://en.wikipedia.org/wiki/Eruwa_language"
 translations:
   - translation_iso: ara

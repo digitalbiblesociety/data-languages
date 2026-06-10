@@ -7,12 +7,15 @@ population: 20000
 country_id: TH
 country_name: Thailand
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.038265
 longitude: 101.217815
 glottocode: phai1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Tinic > Tin > Prai"
+wikidata_id: Q7180184
 wikipedia_url: "https://en.wikipedia.org/wiki/Prai_language"
 translations:
   - translation_iso: ara

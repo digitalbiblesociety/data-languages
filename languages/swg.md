@@ -7,6 +7,8 @@ population: 819000
 country_id: DE
 country_name: Germany
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 49.38788
 longitude: 7.12775
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: swab1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > North Alemannic > Swabian"
+wikidata_id: Q327274
 wikipedia_url: "https://en.wikipedia.org/wiki/Swabian_German"
 translations:
   - translation_iso: ara

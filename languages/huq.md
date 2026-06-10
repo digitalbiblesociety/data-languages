@@ -7,12 +7,15 @@ population: 3800
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.31917
 longitude: 109.33558
 glottocode: tsat1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Northern Cham > Tsat"
+wikidata_id: Q34133
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsat_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 75000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.51942
 longitude: 122.03419
 glottocode: bant1288
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Bantoanon"
+wikidata_id: Q29490
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantoanon_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 1
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.22497
 longitude: -75.5603
 glottocode: taus1253
+wikidata_id: Q1957508
 wikipedia_url: "https://en.wikipedia.org/wiki/Taushiro_language"
 translations:
   - translation_iso: ara

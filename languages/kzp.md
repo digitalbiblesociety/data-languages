@@ -7,12 +7,15 @@ population: 6660
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.85641
 longitude: 123.2168
 glottocode: kaid1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Kaidipang"
+wikidata_id: Q6347611
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaidipang_language"
 translations:
   - translation_iso: ara

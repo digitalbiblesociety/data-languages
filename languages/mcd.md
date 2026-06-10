@@ -7,12 +7,15 @@ population: 499
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.8626
 longitude: -71.123155
 glottocode: shar1245
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Sharanahua"
+wikidata_id: Q12953881
 wikipedia_url: "https://en.wikipedia.org/wiki/Sharanawa_language"
 translations:
   - translation_iso: ara

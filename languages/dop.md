@@ -7,12 +7,15 @@ population: 157900
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.519485
 longitude: 1.669535
 glottocode: lukp1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Lukpa"
+wikidata_id: Q3258739
 wikipedia_url: "https://en.wikipedia.org/wiki/Lukpa_language"
 translations:
   - translation_iso: ara

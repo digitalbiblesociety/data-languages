@@ -6,12 +6,15 @@ population: 500
 country_id: FR
 country_name: France
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 43.17251
 longitude: -1.46112
 glottocode: erro1240
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Basque-Romani > Erromintxela"
+wikidata_id: Q1122188
 wikipedia_url: "https://en.wikipedia.org/wiki/Erromintxela_language"
 translations:
   - translation_iso: ara

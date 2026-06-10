@@ -7,12 +7,15 @@ population: 350
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.3582
 longitude: 141.57799
 glottocode: nimo1247
 glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Nimo-Nakwi > Nimo"
+wikidata_id: Q3504126
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimo_language"
 translations:
   - translation_iso: ara

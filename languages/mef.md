@@ -7,12 +7,15 @@ population: 6870
 country_id: BD
 country_name: Bangladesh
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.12916
 longitude: 91.61318
 glottocode: mega1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Lyngngamic > Bangladesh Lyngam"
+wikidata_id: Q6808589
 wikipedia_url: "https://en.wikipedia.org/wiki/Megam_language"
 translations:
   - translation_iso: ara

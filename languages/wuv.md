@@ -7,12 +7,15 @@ population: 1600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.73938
 longitude: 142.85072
 glottocode: wuvu1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Wuvulu-Aua"
+wikidata_id: Q3062746
 wikipedia_url: "https://en.wikipedia.org/wiki/Wuvulu-Aua_language"
 translations:
   - translation_iso: ara

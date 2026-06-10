@@ -7,12 +7,15 @@ population: 6000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.39215
 longitude: 144.66697
 glottocode: nort2930
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Northeast Kiwai"
+wikidata_id: Q11732324
 translations:
   - translation_iso: ara
     name: لغة كيواي الشمالية الشرقية

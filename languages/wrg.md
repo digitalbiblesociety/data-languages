@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -18.24957
 longitude: 144.37004
 glottocode: waru1264
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Northern Maric > Warungu-Gugu Badhun > Warrongo"
+wikidata_id: Q7970854
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrongo_language"
 translations:
   - translation_iso: ara

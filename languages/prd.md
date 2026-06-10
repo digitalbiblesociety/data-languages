@@ -6,9 +6,12 @@ population: 27500
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.994
 longitude: 58.624
 scripts: [Arab]
+wikidata_id: Q25559302
 translations:
   - translation_iso: ara
     name: اللغة فارسي-داري

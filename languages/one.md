@@ -6,12 +6,15 @@ population: 1500
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 43.77286
 longitude: -84.057715
 glottocode: onei1249
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Mohawk-Oneida > Oneida"
+wikidata_id: Q857858
 wikipedia_url: "https://en.wikipedia.org/wiki/Oneida_language"
 translations:
   - translation_iso: ara

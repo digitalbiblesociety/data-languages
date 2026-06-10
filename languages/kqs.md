@@ -7,12 +7,15 @@ population: 562000
 country_id: GN
 country_name: Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.728305
 longitude: -10.406315
 glottocode: nort2765
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Kissi > Northern Kissi"
+wikidata_id: Q19921576
 translations:
   - translation_iso: ara
     name: لغة كيسي الشمالية

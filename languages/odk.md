@@ -7,12 +7,15 @@ population: 2076100
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.53636
 longitude: 67.84754
 glottocode: oddd1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Od"
+wikidata_id: Q7077191
 wikipedia_url: "https://en.wikipedia.org/wiki/Od_language"
 translations:
   - translation_iso: ara

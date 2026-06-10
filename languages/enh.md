@@ -7,12 +7,15 @@ population: 198
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 70.16258
 longitude: 83.7405
 glottocode: tund1254
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Enets > Tundra Enets"
+wikidata_id: Q25559411
 wikipedia_url: "https://en.wikipedia.org/wiki/Tundra_Enets_language"
 translations:
   - translation_iso: ara

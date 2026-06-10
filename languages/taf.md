@@ -7,12 +7,15 @@ population: 500
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -10.53729
 longitude: -50.54379
 glottocode: tapi1254
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tapirapé"
+wikidata_id: Q7684673
 wikipedia_url: "https://en.wikipedia.org/wiki/Tapirap%C3%A9_language"
 translations:
   - translation_iso: ara

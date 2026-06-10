@@ -7,12 +7,15 @@ population: 106000
 country_id: GT
 country_name: Guatemala
 status_id: null
+scope: individual
+language_type: living
 latitude: 14.63507
 longitude: -91.20122
 glottocode: tzut1248
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Cakchiquel-Tzutujil > Tz'utujil"
+wikidata_id: Q36941
 wikipedia_url: "https://en.wikipedia.org/wiki/Tz%CA%BCutujil_language"
 translations:
   - translation_iso: ara

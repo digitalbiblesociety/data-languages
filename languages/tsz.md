@@ -7,12 +7,15 @@ population: 55000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.24665
 longitude: -101.6314
 glottocode: pure1242
 glottolog_family_id: tara1323
 glottolog_family_name: Tarascan
 glottolog_classification: "Tarascan > Purepecha"
+wikidata_id: Q36803
 wikipedia_url: "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language"
 translations:
   - translation_iso: ara

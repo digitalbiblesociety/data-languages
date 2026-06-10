@@ -7,12 +7,15 @@ population: null
 country_id: AR
 country_name: Argentina
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -29
 longitude: -61
 glottocode: abip1241
 glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Abipon"
+wikidata_id: Q11252539
 wikipedia_url: "https://en.wikipedia.org/wiki/Abip%C3%B3n_language"
 translations:
   - translation_iso: ara

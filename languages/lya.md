@@ -7,12 +7,15 @@ population: 1100
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.0499
 longitude: 89.7177
 glottocode: laya1253
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Nuclear Dzongkhic > Layakha"
+wikidata_id: Q56602
 wikipedia_url: "https://en.wikipedia.org/wiki/Laya_dialect"
 translations:
   - translation_iso: ara

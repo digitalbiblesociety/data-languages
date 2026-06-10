@@ -7,6 +7,8 @@ population: 1995000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.990575
 longitude: 39.51331
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mako1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Ruvuma > Makondic > Makonde"
+wikidata_id: Q35172
 wikipedia_url: "https://en.wikipedia.org/wiki/Makonde_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5930
 country_id: BO
 country_name: Bolivia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.82467
 longitude: -61.69335
 glottocode: guar1292
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Guarayu"
+wikidata_id: Q3118779
 wikipedia_url: "https://en.wikipedia.org/wiki/Guarayu_language"
 translations:
   - translation_iso: ara

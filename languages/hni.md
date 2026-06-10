@@ -7,12 +7,15 @@ population: 751740
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.67753
 longitude: 102.851673
 glottocode: hani1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Hani"
+wikidata_id: Q56516
 wikipedia_url: "https://en.wikipedia.org/wiki/Hani_language"
 translations:
   - translation_iso: ara

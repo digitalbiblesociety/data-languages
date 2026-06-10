@@ -7,6 +7,8 @@ population: 116000
 country_id: SN
 country_name: Senegal
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.53821
 longitude: -15.66585
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bala1302
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Balanta > Balanta-Ganja"
+wikidata_id: Q19359034
 translations:
   - translation_iso: ara
     name: بالانتا جانجا

@@ -7,12 +7,15 @@ population: 192000
 country_id: NA
 country_name: Namibia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -17.90257
 longitude: 19.25602
 glottocode: kwan1273
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Kwangali-Diriku > Kwangali"
+wikidata_id: Q36334
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwangali_language"
 translations:
   - translation_iso: ara

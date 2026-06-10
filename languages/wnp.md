@@ -7,12 +7,15 @@ population: 1070
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.59639
 longitude: 142.49964
 glottocode: wana1268
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Wanap"
+wikidata_id: Q7967060
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanap_language"
 translations:
   - translation_iso: ara

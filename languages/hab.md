@@ -7,12 +7,15 @@ population: 39000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.02446
 longitude: 105.8339
 glottocode: hano1243
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Vietnamese Sign > Hanoi Sign Language"
+wikidata_id: Q12632107
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanoi_Sign_Language"
 translations:
   - translation_iso: ara

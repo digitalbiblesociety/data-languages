@@ -7,12 +7,15 @@ population: 12800
 country_id: LA
 country_name: Laos
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.59942
 longitude: 107.00836
 glottocode: lave1249
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Brao"
+wikidata_id: Q4957737
 wikipedia_url: "https://en.wikipedia.org/wiki/Brao_language"
 translations:
   - translation_iso: ara

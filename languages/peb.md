@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 38.56467
 longitude: -122.58582
 glottocode: east2545
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Eastern Pomo"
+wikidata_id: Q3396032
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Pomo_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 31.83
 longitude: -96.5
 glottocode: kits1249
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Pawnee-Kitsai > Kitsai"
+wikidata_id: Q56627
 wikipedia_url: "https://en.wikipedia.org/wiki/Kitsai_language"
 translations:
   - translation_iso: ara

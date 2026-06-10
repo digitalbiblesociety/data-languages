@@ -7,6 +7,8 @@ population: 153000
 country_id: ML
 country_name: Mali
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.381555
 longitude: -4.538
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bomu1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Bomu"
+wikidata_id: Q35065
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomu_language"
 translations:
   - translation_iso: ara

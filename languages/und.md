@@ -6,6 +6,9 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: special
+language_type: special
+wikidata_id: Q22282914
 wikipedia_url: "https://en.wikipedia.org/wiki/Undetermined_language"
 translations:
   - translation_iso: ara

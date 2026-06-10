@@ -1,5 +1,6 @@
 ---
 iso: lvs
+macrolanguage_id: lav
 name: Standard Latvian
 autonym: Lettish
 alt_names: ["Latvian, Standard"]
@@ -7,6 +8,9 @@ population: 1529720
 country_id: LV
 country_name: Latvia
 status_id: "1"
+scope: individual
+language_type: living
+wikidata_id: Q127164458
 wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Latvian_language"
 translations:
   - translation_iso: ara

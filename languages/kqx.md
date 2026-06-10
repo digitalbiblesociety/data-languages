@@ -7,12 +7,15 @@ population: 500
 country_id: CM
 country_name: Cameroon
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 11.976475
 longitude: 15.03727
 glottocode: mser1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Central > Mser"
+wikidata_id: Q3502347
 wikipedia_url: "https://en.wikipedia.org/wiki/Mser_language"
 translations:
   - translation_iso: ara

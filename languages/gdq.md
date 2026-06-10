@@ -7,12 +7,15 @@ population: 225900
 country_id: YE
 country_name: Yemen
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 21.426837
 longitude: 51.151197
 glottocode: mehr1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Hobyot-Western MSA > Western MSA > Mehri"
+wikidata_id: Q13361
 wikipedia_url: "https://en.wikipedia.org/wiki/Mehri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 50
 country_id: AM
 country_name: Armenia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 40
 longitude: 45
 glottocode: loma1235
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Lomavren"
+wikidata_id: Q2495696
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomavren_language"
 translations:
   - translation_iso: ara

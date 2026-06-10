@@ -7,12 +7,15 @@ population: 1160000
 country_id: KE
 country_name: Kenya
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.30638
 longitude: 39.6648
 glottocode: giry1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Mijikenda > Northern Mijikenda > Giryama"
+wikidata_id: Q3107606
 wikipedia_url: "https://en.wikipedia.org/wiki/Giryama_dialect"
 translations:
   - translation_iso: ara

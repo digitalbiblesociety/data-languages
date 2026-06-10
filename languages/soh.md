@@ -7,12 +7,15 @@ population: 300
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 11.21009
 longitude: 33.6524
 glottocode: akaa1242
 glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Aka"
+wikidata_id: Q3450949
 wikipedia_url: "https://en.wikipedia.org/wiki/Sillok_language"
 translations:
   - translation_iso: ara

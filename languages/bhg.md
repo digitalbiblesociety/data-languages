@@ -7,12 +7,15 @@ population: 7000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.37433
 longitude: 147.88438
 glottocode: bina1277
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > Binandere"
+wikidata_id: Q3503802
 wikipedia_url: "https://en.wikipedia.org/wiki/Binandere_language"
 translations:
   - translation_iso: ara

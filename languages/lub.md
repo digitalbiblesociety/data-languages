@@ -1,5 +1,6 @@
 ---
 iso: lub
+iso639_1: lu
 name: "Luba-Katanga"
 autonym: Kiluba
 alt_names: [Luba, Luba Shaba, Luba-Shaba]
@@ -7,6 +8,8 @@ population: 1510000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.2816
 longitude: 25.89183
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: luba1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Kaonde-Shaba-Sanga > Luba-Katanga"
+wikidata_id: Q36157
 wikipedia_url: "https://en.wikipedia.org/wiki/Luba-Katanga_language"
 translations:
   - translation_iso: ara

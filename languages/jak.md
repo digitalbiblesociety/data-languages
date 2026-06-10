@@ -1,5 +1,6 @@
 ---
 iso: jak
+macrolanguage_id: msa
 name: Jakun
 autonym: Orang Hulu
 alt_names: [Djakun, Jakoon, "Jaku'd", "Jakud'n", Yakuno]
@@ -7,12 +8,15 @@ population: 25000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.64582
 longitude: 103.34214
 glottocode: jaku1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Jakun"
+wikidata_id: Q4216968
 wikipedia_url: "https://en.wikipedia.org/wiki/Jakun_language"
 translations:
   - translation_iso: ara

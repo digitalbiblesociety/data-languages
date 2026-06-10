@@ -7,12 +7,15 @@ population: 25000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.4349
 longitude: 33.74936
 glottocode: jumj1238
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Southern Burun > Jumjum"
+wikidata_id: Q11283696
 translations:
   - translation_iso: ara
     name: لغة جومجوم

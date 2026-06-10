@@ -7,12 +7,15 @@ population: null
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 43.130315
 longitude: -79.421375
 glottocode: tusc1257
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Tuscarora-Nottoway > Tuscarora"
+wikidata_id: Q36944
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuscarora_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -6.53817
 longitude: 146.93016
 glottocode: muso1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Busu > Musom-Sirak > Musom"
+wikidata_id: Q6943041
 wikipedia_url: "https://en.wikipedia.org/wiki/Musom_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 5500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.81013
 longitude: 132.27102
 glottocode: ihaa1241
 glottolog_family_id: west2604
 glottolog_family_name: West Bomberai
 glottolog_classification: "West Bomberai > Nuclear West Bomberai > Iha"
+wikidata_id: Q5994495
 wikipedia_url: "https://en.wikipedia.org/wiki/Iha_language"
 translations:
   - translation_iso: ara

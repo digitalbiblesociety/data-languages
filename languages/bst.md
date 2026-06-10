@@ -7,12 +7,15 @@ population: 92600
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.45774
 longitude: 36.57628
 glottocode: bask1236
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Basketo"
+wikidata_id: Q56531
 wikipedia_url: "https://en.wikipedia.org/wiki/Basketo_language"
 translations:
   - translation_iso: ara

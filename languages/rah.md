@@ -7,12 +7,15 @@ population: 374000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.82476
 longitude: 91.16887
 glottocode: rabh1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Rabha"
+wikidata_id: Q7278686
 wikipedia_url: "https://en.wikipedia.org/wiki/Rabha_language"
 translations:
   - translation_iso: ara

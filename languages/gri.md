@@ -7,12 +7,15 @@ population: 12100
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.4791
 longitude: 159.91736
 glottocode: ghar1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Nuclear Guadalcanal-Nggelic > North and West Guadalcanal > Ghari"
+wikidata_id: Q3104782
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghari_language"
 translations:
   - translation_iso: ara

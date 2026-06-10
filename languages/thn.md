@@ -6,12 +6,15 @@ population: 3000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.2651
 longitude: 76.3642
 glottocode: thac1235
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Thachanadan"
+wikidata_id: Q7708880
 wikipedia_url: "https://en.wikipedia.org/wiki/Thachanadan_language"
 translations:
   - translation_iso: ara

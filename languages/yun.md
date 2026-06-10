@@ -7,12 +7,15 @@ population: 95000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.74861
 longitude: 12.39722
 glottocode: bena1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Bena > Yungur-Voro > Bena (Nigeria)"
+wikidata_id: Q3913283
 wikipedia_url: "https://en.wikipedia.org/wiki/Bena_language_(Adamawa)"
 translations:
   - translation_iso: ara

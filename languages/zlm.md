@@ -1,5 +1,6 @@
 ---
 iso: zlm
+macrolanguage_id: msa
 name: Malay
 autonym: " Indonesian Malaysian "
 alt_names: [Borneo, Colloquial Malay, Malaiisch, Malayisch, Malayu, Melaju, Melayu, Standard Malay]
@@ -7,12 +8,15 @@ population: 10296000
 country_id: MY
 country_name: Malaysia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 1.858561
 longitude: 103.000487
 glottocode: mala1479
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Central Malay"
+wikidata_id: Q12636082
 wikipedia_url: "https://en.wikipedia.org/wiki/Colloquial_Malay_language"
 translations:
   - translation_iso: ara

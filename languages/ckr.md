@@ -6,12 +6,15 @@ population: 750
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.46941
 longitude: 151.98005
 glottocode: kair1267
 glottolog_family_id: bain1263
 glottolog_family_name: Baining
 glottolog_classification: "Baining > Southern Baining > Kairak"
+wikidata_id: Q3503002
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairak_language"
 translations:
   - translation_iso: ara

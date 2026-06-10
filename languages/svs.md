@@ -7,9 +7,12 @@ population: 2420
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.12853
 longitude: 159.81438
 glottocode: savo1255
+wikidata_id: Q3130296
 wikipedia_url: "https://en.wikipedia.org/wiki/Savosavo_language"
 translations:
   - translation_iso: ara

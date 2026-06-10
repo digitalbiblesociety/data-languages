@@ -7,12 +7,15 @@ population: 250
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 43.5
 longitude: -88.5
 glottocode: hoch1243
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Winnebago-Chiwere > Ho-Chunk"
+wikidata_id: Q1957108
 wikipedia_url: "https://en.wikipedia.org/wiki/Ho-Chunk_language"
 translations:
   - translation_iso: ara

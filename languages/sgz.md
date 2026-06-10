@@ -6,12 +6,15 @@ population: 3000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.99078
 longitude: 152.76834
 glottocode: surs1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Sursurunga"
+wikidata_id: Q36511
 wikipedia_url: "https://en.wikipedia.org/wiki/Sursurunga_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 190000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 43.58535
 longitude: 81.00336
 glottocode: xibe1242
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Manchu-Jurchen > Manchu-Xibe > Xibe"
+wikidata_id: Q13223
 wikipedia_url: "https://en.wikipedia.org/wiki/Xibe_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 21000
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 0.4907
 longitude: 123.36187
 glottocode: suwa1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Suwawa"
+wikidata_id: Q7650588
 wikipedia_url: "https://en.wikipedia.org/wiki/Suwawa_language"
 translations:
   - translation_iso: ara

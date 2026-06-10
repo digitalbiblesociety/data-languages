@@ -1,5 +1,6 @@
 ---
 iso: wln
+iso639_1: wa
 name: Walloon
 autonym: walon
 alt_names: [An Vallúinis, Fà-liùng-ngî, Valloni, Vallonsk, Vallonska, Valoiera, Valon, Valonca, Való, Valón, Waals, Wallon, Walloneg, Wallonek, Wallonies, Walloonish, Walloonsch, Wallounesch, Waols, Woals, Վալոներեն, ולונית]
@@ -7,6 +8,8 @@ population: 600000
 country_id: BE
 country_name: Belgium
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 50.22351
 longitude: 5.14509
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: wall1255
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Walloon"
+wikidata_id: Q34219
 wikipedia_url: "https://en.wikipedia.org/wiki/Walloon_language"
 translations:
   - translation_iso: ara

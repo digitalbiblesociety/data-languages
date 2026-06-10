@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 32.5153
 longitude: -116.609415
 glottocode: kumi1248
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Delta-Californian Yuman > Diegueno > Tipai-Kumeyaay-Huerteno"
+wikidata_id: Q20064918
 translations:
   - translation_iso: ara
     name: كوميا

@@ -7,12 +7,15 @@ population: 300
 country_id: PH
 country_name: Philippines
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.98083
 longitude: 121.43626
 glottocode: fair1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Atta > Faire Atta"
+wikidata_id: Q12630884
 translations:
   - translation_iso: ara
     name: اللغة فاير أتا

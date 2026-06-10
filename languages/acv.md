@@ -7,12 +7,15 @@ population: 1000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 41.09785
 longitude: -121.1908
 glottocode: achu1247
 glottolog_family_id: pala1350
 glottolog_family_name: Palaihnihan
 glottolog_classification: "Palaihnihan > Achumawi"
+wikidata_id: Q56661
 wikipedia_url: "https://en.wikipedia.org/wiki/Achumawi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 130000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.58608
 longitude: 10.980185
 glottocode: limb1268
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Limbum"
+wikidata_id: Q35801
 wikipedia_url: "https://en.wikipedia.org/wiki/Limbum_language"
 translations:
   - translation_iso: ara

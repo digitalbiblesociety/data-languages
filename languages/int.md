@@ -7,12 +7,15 @@ population: 90000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.39204
 longitude: 96.93882
 glottocode: inth1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Intha-Danu"
+wikidata_id: Q6057507
 wikipedia_url: "https://en.wikipedia.org/wiki/Intha-Danu_language"
 translations:
   - translation_iso: ara

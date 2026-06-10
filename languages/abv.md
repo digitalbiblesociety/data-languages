@@ -1,5 +1,6 @@
 ---
 iso: abv
+macrolanguage_id: ara
 name: Baharna Arabic
 autonym: العربية البحرانية
 alt_names: [Arabeg Bahrein, Arabic, Arabic (Bahrain), Arabic (Eastern), "Arabic, Baharna", "Arabic, Baharna Spoken", Baharna, Baharna Spoken, Baharna arapski, Baharnah, "Bahraini Shi'ite Arabic", Bahrani Arabic, Bahrayn, لهجة بحرانية]
@@ -7,12 +8,15 @@ population: null
 country_id: BH
 country_name: Bahrain
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 24.61975
 longitude: 53.83146
 glottocode: baha1259
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Baharna Arabic"
+wikidata_id: Q56576
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahrani_Arabic"
 translations:
   - translation_iso: ara

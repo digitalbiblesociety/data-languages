@@ -7,12 +7,15 @@ population: 11900
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.27358
 longitude: 126.98137
 glottocode: lise1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Buruic > Lisela"
+wikidata_id: Q6558753
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisela_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 53.43493
 longitude: 102.8561
 glottocode: mato1250
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Mator-Taigi-Karagas"
+wikidata_id: Q36453
 wikipedia_url: "https://en.wikipedia.org/wiki/Mator_language"
 translations:
   - translation_iso: ara

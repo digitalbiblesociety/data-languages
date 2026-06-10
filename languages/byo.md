@@ -7,12 +7,15 @@ population: 120000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.51103
 longitude: 101.6518
 glottocode: biyo1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Bi-Ka > Biyo"
+wikidata_id: Q56848
 wikipedia_url: "https://en.wikipedia.org/wiki/Piyo_language"
 translations:
   - translation_iso: ara

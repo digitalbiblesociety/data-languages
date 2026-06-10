@@ -7,12 +7,15 @@ population: 20000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.64507
 longitude: 113.46905
 glottocode: biao1256
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Mien-Mun > Biao Mon"
+wikidata_id: Q8842159
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_Mon_language"
 translations:
   - translation_iso: ara

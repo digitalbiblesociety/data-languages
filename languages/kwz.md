@@ -7,12 +7,15 @@ population: null
 country_id: AO
 country_name: Angola
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -15.87448
 longitude: 12.11474
 glottocode: kwad1244
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Kwadi"
+wikidata_id: Q2364661
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwadi_language"
 translations:
   - translation_iso: ara

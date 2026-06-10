@@ -7,12 +7,15 @@ population: 72380
 country_id: MY
 country_name: Malaysia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.175965
 longitude: 110.253925
 glottocode: biat1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Central-Western Bidayuh > Biatah Bidayuh"
+wikidata_id: Q2900881
 wikipedia_url: "https://en.wikipedia.org/wiki/Biatah_language"
 translations:
   - translation_iso: ara

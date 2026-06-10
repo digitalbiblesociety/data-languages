@@ -1,14 +1,18 @@
 ---
 iso: nep
+iso639_1: ne
 name: Nepali
 autonym: नेपाली
 population: 15800000
 country_id: NP
 country_name: Nepal
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: 27.594703
 longitude: 87.620083
 scripts: [Deva]
+wikidata_id: Q33823
 wikipedia_url: "https://en.wikipedia.org/wiki/Nepali_language"
 translations:
   - translation_iso: ara

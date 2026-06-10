@@ -7,12 +7,15 @@ population: 45100
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.50885
 longitude: -16.55386
 glottocode: jola1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > Jola-Esulalu"
+wikidata_id: Q3446622
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasa_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: kvr
+macrolanguage_id: msa
 name: Kerinci
 autonym: Baso Kincai
 alt_names: [Kerinchi, Kerintji, Kinchai]
@@ -7,6 +8,8 @@ population: 285000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.93668
 longitude: 101.40285
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: keri1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Kerinci"
+wikidata_id: Q3195442
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerinci_language"
 translations:
   - translation_iso: ara

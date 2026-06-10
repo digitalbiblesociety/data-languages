@@ -1,5 +1,6 @@
 ---
 iso: vkk
+macrolanguage_id: msa
 name: Kaur
 autonym: Ka’ur
 alt_names: [Bintuhan, "Ka'ur", Mulak]
@@ -7,12 +8,15 @@ population: 40000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.6251
 longitude: 103.5116
 glottocode: kaur1269
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > South Sumatra Malay > Kaur"
+wikidata_id: Q6378867
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaur_language"
 translations:
   - translation_iso: ara

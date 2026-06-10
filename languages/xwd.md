@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
+wikidata_id: Q7959249
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadi_Wadi_dialect"
 translations:
   - translation_iso: ara

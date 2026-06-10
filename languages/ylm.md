@@ -6,12 +6,15 @@ population: 29000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.469
 longitude: 100.073
 glottocode: limi1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Unclassified Lipo-Lolopo > Limi"
+wikidata_id: Q12953327
 wikipedia_url: "https://en.wikipedia.org/wiki/Limi_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 2067900
 country_id: BJ
 country_name: Benin
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 7.154835
 longitude: 1.664945
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: fonn1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Fon"
+wikidata_id: Q33291
 wikipedia_url: "https://en.wikipedia.org/wiki/Fon_language"
 translations:
   - translation_iso: ara

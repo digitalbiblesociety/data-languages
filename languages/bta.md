@@ -7,12 +7,15 @@ population: 289500
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.68091
 longitude: 12.676965
 glottocode: bata1314
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Bata-Bwatiye > Bata"
+wikidata_id: Q56254
 wikipedia_url: "https://en.wikipedia.org/wiki/Bata_language"
 translations:
   - translation_iso: ara

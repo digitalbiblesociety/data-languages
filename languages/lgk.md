@@ -7,12 +7,15 @@ population: 1250
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.19856
 longitude: 167.4985
 glottocode: ling1265
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Central-Western Malakula > Neverver"
+wikidata_id: Q3241515
 wikipedia_url: "https://en.wikipedia.org/wiki/Neverver_language"
 translations:
   - translation_iso: ara

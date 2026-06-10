@@ -7,12 +7,15 @@ population: 11700
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.71937
 longitude: 29.99697
 glottocode: ngil1242
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Buram Hill Chain > Ngile"
+wikidata_id: Q36329
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngile_language"
 translations:
   - translation_iso: ara

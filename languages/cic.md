@@ -7,6 +7,8 @@ population: 1000
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 33.94523
 longitude: -97.13012
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: chic1270
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Western Muskogean > Chickasaw"
+wikidata_id: Q33192
 wikipedia_url: "https://en.wikipedia.org/wiki/Chickasaw_language"
 translations:
   - translation_iso: ara

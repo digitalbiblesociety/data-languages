@@ -7,12 +7,15 @@ population: 240
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 1.91649
 longitude: -66.82799
 glottocode: bare1276
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Medio Rio Negro > Bareic > Baré"
+wikidata_id: Q3504087
 wikipedia_url: "https://en.wikipedia.org/wiki/Bar%C3%A9_language"
 translations:
   - translation_iso: ara

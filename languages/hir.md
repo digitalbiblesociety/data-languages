@@ -7,12 +7,15 @@ population: 40
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.25217
 longitude: -64.70047
 glottocode: hima1247
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawan (Unattested) > Himarimã"
+wikidata_id: Q5765127
 wikipedia_url: "https://en.wikipedia.org/wiki/Himarim%C3%A3_language"
 translations:
   - translation_iso: ara

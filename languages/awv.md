@@ -7,12 +7,15 @@ population: 2300
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.79732
 longitude: 140.1037
 glottocode: jair1235
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Kia River Awyu"
+wikidata_id: Q16110177
 wikipedia_url: "https://en.wikipedia.org/wiki/Kia_Awyu"
 translations:
   - translation_iso: ara

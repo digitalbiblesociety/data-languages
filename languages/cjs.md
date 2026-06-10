@@ -7,6 +7,8 @@ population: 6210
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 52.32607
 longitude: 88.4344
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: shor1247
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Yenisey Turkic > Mrassu Shor-Tutal"
+wikidata_id: Q34139
 wikipedia_url: "https://en.wikipedia.org/wiki/Shor_language"
 translations:
   - translation_iso: ara

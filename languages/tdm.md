@@ -7,9 +7,12 @@ population: null
 country_id: GY
 country_name: Guyana
 status_id: null
+scope: individual
+language_type: living
 latitude: 1.666
 longitude: -58.653
 glottocode: taru1236
+wikidata_id: Q5559094
 wikipedia_url: "https://en.wikipedia.org/wiki/Taruma_language"
 translations:
   - translation_iso: ara

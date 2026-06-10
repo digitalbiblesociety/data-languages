@@ -6,12 +6,15 @@ population: 3500
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.008075
 longitude: 8.986221
 glottocode: pana1298
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > North-Central Jos > Boze-Loro > Panawa"
+wikidata_id: Q47385077
 wikipedia_url: "https://en.wikipedia.org/wiki/Panawa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.89752
 longitude: 150.67987
 glottocode: mang1403
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Bebeli-Mangseng > Mangseng"
+wikidata_id: Q6749147
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangseng_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 69200
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.65243
 longitude: -3.17735
 glottocode: laal1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Bwamu > Nuclear Bwamu > Láá Láá Bwamu"
+wikidata_id: Q11017275
 wikipedia_url: "https://en.wikipedia.org/wiki/L%C3%A1%C3%A1_L%C3%A1%C3%A1_Bwamu_language"
 translations:
   - translation_iso: ara

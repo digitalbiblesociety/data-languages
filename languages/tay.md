@@ -7,12 +7,15 @@ population: 92100
 country_id: TW
 country_name: Taiwan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.52089
 longitude: 121.38819
 glottocode: atay1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Atayalic > Atayal"
+wikidata_id: Q715766
 wikipedia_url: "https://en.wikipedia.org/wiki/Atayal_language"
 translations:
   - translation_iso: ara

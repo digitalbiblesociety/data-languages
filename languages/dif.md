@@ -7,12 +7,15 @@ population: 600
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -28.16666
 longitude: 137.99999
 glottocode: dier1241
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Pirlatapa-Dieric > Dieric > Dieri"
+wikidata_id: Q25559563
 wikipedia_url: "https://en.wikipedia.org/wiki/Diyari_language"
 translations:
   - translation_iso: ara

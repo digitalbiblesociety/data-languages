@@ -1,5 +1,6 @@
 ---
 iso: fij
+iso639_1: fj
 name: Fijian
 autonym: "Na vosa vaka-Viti"
 alt_names: [Boumaa, Boumaa Fijian, Boumaa dialect, Eastern Fijian, Ffijïeg, Fidji-Inseln, Fidjien, Fidschi, Fiji, Fijiansk, Fijianska, Fijisch, Kaiviti bhasa, Nadroga, Nadronga, Phiyi simi, Standard Fijian, Viti]
@@ -7,6 +8,8 @@ population: 334710
 country_id: FJ
 country_name: Fiji
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -18
 longitude: 178.33
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: fiji1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Viwa-Lomaiviti-East Viti Levu > Fijian"
+wikidata_id: Q33295
 wikipedia_url: "https://en.wikipedia.org/wiki/Fijian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 106000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.89504
 longitude: 9.15209
 glottocode: orok1266
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Bafawic-Bakweric > Bafawic > Oroko"
+wikidata_id: Q36278
 wikipedia_url: "https://en.wikipedia.org/wiki/Oroko_language"
 translations:
   - translation_iso: ara

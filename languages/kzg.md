@@ -7,12 +7,15 @@ population: 13066
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 28.31
 longitude: 129.98213
 glottocode: kika1239
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Kikai"
+wikidata_id: Q3196527
 wikipedia_url: "https://en.wikipedia.org/wiki/Kikai_language"
 translations:
   - translation_iso: ara

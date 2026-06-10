@@ -6,6 +6,9 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q35965
 wikipedia_url: "https://en.wikipedia.org/wiki/Cumbric"
 translations:
   - translation_iso: ara

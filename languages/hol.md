@@ -7,12 +7,15 @@ population: 28200
 country_id: AO
 country_name: Angola
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.147545
 longitude: 17.572
 glottocode: holu1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Holu (K.10) > Holu"
+wikidata_id: Q4121133
 wikipedia_url: "https://en.wikipedia.org/wiki/Holu_language"
 translations:
   - translation_iso: ara

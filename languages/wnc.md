@@ -7,12 +7,15 @@ population: 8000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -6.15216
 longitude: 146.51343
 glottocode: want1252
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Wantoat"
+wikidata_id: Q7968184
 wikipedia_url: "https://en.wikipedia.org/wiki/Wantoat_language"
 translations:
   - translation_iso: ara

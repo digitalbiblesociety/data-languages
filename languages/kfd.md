@@ -7,12 +7,15 @@ population: 14000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.91628
 longitude: 75.19999
 glottocode: korr1238
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Koraga > Korra Koraga"
+wikidata_id: Q12952655
 translations:
   - translation_iso: ara
     name: لغة كورا كوراغا

@@ -6,12 +6,15 @@ population: 299000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26
 longitude: 93.5
 glottocode: nyis1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Pre-Western Tani > Western Tani > Subansiri > Nyishi-Hill Miri"
+wikidata_id: Q56870
 wikipedia_url: "https://en.wikipedia.org/wiki/Nishi_language"
 translations:
   - translation_iso: ara

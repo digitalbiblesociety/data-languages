@@ -6,12 +6,15 @@ population: null
 country_id: NP
 country_name: Nepal
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 28.173
 longitude: 84.435
 glottocode: dura1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Dura"
+wikidata_id: Q3449842
 wikipedia_url: "https://en.wikipedia.org/wiki/Dura_language"
 translations:
   - translation_iso: ara

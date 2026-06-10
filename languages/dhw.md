@@ -7,12 +7,15 @@ population: 45800
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.54803
 longitude: 85.0074
 glottocode: koch1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Kochariya-East Danuwar"
+wikidata_id: Q3522797
 wikipedia_url: "https://en.wikipedia.org/wiki/Danwar_language"
 translations:
   - translation_iso: ara

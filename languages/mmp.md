@@ -7,12 +7,15 @@ population: 220
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.05312
 longitude: 141.4197
 glottocode: siaw1243
 glottolog_family_id: amto1249
 glottolog_family_name: Amto-Musan
 glottolog_classification: "Amto-Musan > Siawi"
+wikidata_id: Q2605703
 wikipedia_url: "https://en.wikipedia.org/wiki/Siawi_language"
 translations:
   - translation_iso: ara

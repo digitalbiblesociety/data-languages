@@ -7,12 +7,15 @@ population: 86000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.06664
 longitude: 13.334295
 glottocode: nzan1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Nzanyic > Nzanyi"
+wikidata_id: Q3441299
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzanyi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 400
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.54564
 longitude: 136.69383
 glottocode: demi1242
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Demisa"
+wikidata_id: Q56380
 wikipedia_url: "https://en.wikipedia.org/wiki/Demisa_language"
 translations:
   - translation_iso: ara

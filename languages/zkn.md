@@ -6,6 +6,9 @@ population: 9000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q54548740
 wikipedia_url: "https://en.wikipedia.org/wiki/Ganan_language"
 translations:
   - translation_iso: ara

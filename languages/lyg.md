@@ -7,12 +7,15 @@ population: 5000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.35
 longitude: 91.05
 glottocode: lyng1241
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Lyngngamic > India Lyngam"
+wikidata_id: Q12635902
 wikipedia_url: "https://en.wikipedia.org/wiki/Lyngngam_language"
 translations:
   - translation_iso: ara

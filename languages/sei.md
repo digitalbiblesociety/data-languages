@@ -7,10 +7,13 @@ population: 750
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.98767
 longitude: -112.38366
 scripts: [Latn]
 glottocode: seri1257
+wikidata_id: Q36583
 wikipedia_url: "https://en.wikipedia.org/wiki/Seri_language"
 translations:
   - translation_iso: ara

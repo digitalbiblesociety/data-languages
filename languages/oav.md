@@ -7,6 +7,9 @@ population: null
 country_id: AZ
 country_name: Azerbaijan
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q65455879
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Avar_language"
 translations:
   - translation_iso: ara

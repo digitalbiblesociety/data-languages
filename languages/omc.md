@@ -7,9 +7,12 @@ population: 1995
 country_id: PE
 country_name: Peru
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -8.016667
 longitude: -79
 glottocode: moch1259
+wikidata_id: Q1951641
 wikipedia_url: "https://en.wikipedia.org/wiki/Mochica_language"
 translations:
   - translation_iso: ara

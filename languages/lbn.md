@@ -7,12 +7,15 @@ population: 16700
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.88287
 longitude: 100.268065
 glottocode: lame1256
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Lamet"
+wikidata_id: Q3216723
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamet_language"
 translations:
   - translation_iso: ara

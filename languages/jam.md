@@ -7,6 +7,8 @@ population: 2948000
 country_id: JM
 country_name: Jamaica
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 18.13
 longitude: -77.2612
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: jama1262
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Jamaicanic > Jamaican Creole English"
+wikidata_id: Q35939
 wikipedia_url: "https://en.wikipedia.org/wiki/Jamaican_Patois"
 translations:
   - translation_iso: ara

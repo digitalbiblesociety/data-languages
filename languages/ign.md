@@ -7,12 +7,15 @@ population: 2000
 country_id: BO
 country_name: Bolivia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.11882
 longitude: -65.39934
 glottocode: igna1246
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Mojeño > Ignaciano"
+wikidata_id: Q3148190
 wikipedia_url: "https://en.wikipedia.org/wiki/Ignaciano_language"
 translations:
   - translation_iso: ara

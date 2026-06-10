@@ -7,12 +7,15 @@ population: 174000
 country_id: MX
 country_name: Mexico
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 21.6153
 longitude: -98.50276
 glottocode: huas1242
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Huastecan Mayan > Huastec"
+wikidata_id: Q35573
 wikipedia_url: "https://en.wikipedia.org/wiki/Huastec_language"
 translations:
   - translation_iso: ara

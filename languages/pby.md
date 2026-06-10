@@ -7,9 +7,12 @@ population: 100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.45003
 longitude: 141.01776
 glottocode: pyuu1245
+wikidata_id: Q2567925
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyu_language_(Papuan)"
 translations:
   - translation_iso: ara

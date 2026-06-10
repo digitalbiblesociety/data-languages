@@ -6,12 +6,15 @@ population: 15000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.38636
 longitude: 123.44173
 glottocode: ilea1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > North Lembata-Adonara > Ile Ape"
+wikidata_id: Q12473380
 wikipedia_url: "https://en.wikipedia.org/wiki/Ile_Ape_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6060
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.97773
 longitude: 106.798205
 glottocode: bulo1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Stieng > Bulo Stieng"
+wikidata_id: Q13018538
 translations:
   - translation_iso: ara
     name: اللغة بولو ستينج

@@ -7,6 +7,8 @@ population: 2380000
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.32668
 longitude: 37.75373
 scripts: [Ethi]
@@ -14,6 +16,7 @@ glottocode: wola1242
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Wolaytta"
+wikidata_id: Q36943
 wikipedia_url: "https://en.wikipedia.org/wiki/Wolaytta_language"
 translations:
   - translation_iso: ara

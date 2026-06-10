@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 41.316
 longitude: -104.45
 glottocode: nawa1259
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Arapahoic > Nawathinehena"
+wikidata_id: Q6982892
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawathinehena_language"
 translations:
   - translation_iso: ara

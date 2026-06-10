@@ -6,9 +6,12 @@ population: 20000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.35863
 longitude: 144.21446
 glottocode: wiru1244
+wikidata_id: Q8027044
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiru_language"
 translations:
   - translation_iso: ara

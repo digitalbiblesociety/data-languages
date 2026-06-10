@@ -7,12 +7,15 @@ population: 4600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.96532
 longitude: 131.5203
 glottocode: moii1235
 glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > Seget-Moi > Moi (Indonesia)"
+wikidata_id: Q11732459
 wikipedia_url: "https://en.wikipedia.org/wiki/Moi_language"
 translations:
   - translation_iso: ara

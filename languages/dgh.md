@@ -7,12 +7,15 @@ population: 30000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.05751
 longitude: 13.77847
 glottocode: dghw1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Dghwedeic > Dghwede"
+wikidata_id: Q56293
 wikipedia_url: "https://en.wikipedia.org/wiki/Dghwede_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.08721
 longitude: 142.66438
 glottocode: kwom1262
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Nukuma > Kwoma"
+wikidata_id: Q11732376
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwoma_language"
 translations:
   - translation_iso: ara

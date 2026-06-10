@@ -7,12 +7,15 @@ population: 3000
 country_id: MP
 country_name: Northern Mariana Islands
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 15.205
 longitude: 145.76498
 glottocode: caro1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Carolinian"
+wikidata_id: Q28427
 wikipedia_url: "https://en.wikipedia.org/wiki/Carolinian_language"
 translations:
   - translation_iso: ara

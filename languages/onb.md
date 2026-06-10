@@ -7,12 +7,15 @@ population: 600000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.86337
 longitude: 109.97126
 glottocode: ling1262
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Beic > Lingao > Western Ong-Be"
+wikidata_id: Q7093790
 wikipedia_url: "https://en.wikipedia.org/wiki/Be_languages"
 translations:
   - translation_iso: ara

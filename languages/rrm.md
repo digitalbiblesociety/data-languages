@@ -4,12 +4,15 @@ name: Moriori
 autonym: Ta Rē Moriori
 country_id: NZ
 country_name: New Zealand
+scope: individual
+language_type: extinct
 latitude: -44
 longitude: -176.5
 glottocode: mori1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Maoric > Moriori"
+wikidata_id: Q2741879
 wikipedia_url: "https://en.wikipedia.org/wiki/Moriori_language"
 translations:
   - translation_iso: ara

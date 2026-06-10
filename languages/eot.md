@@ -7,12 +7,15 @@ population: 200
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.26495
 longitude: -3.28627
 glottocode: beti1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Western Tano > Beti (Côte d'Ivoire)"
+wikidata_id: Q3915347
 wikipedia_url: "https://en.wikipedia.org/wiki/Eotile_language"
 translations:
   - translation_iso: ara

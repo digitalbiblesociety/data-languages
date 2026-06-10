@@ -7,12 +7,15 @@ population: 45000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.78646
 longitude: 106.68073
 glottocode: hoch1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Vietnamese Sign > Ho Chi Minh City Sign Language"
+wikidata_id: Q16111971
 wikipedia_url: "https://en.wikipedia.org/wiki/Saigon_Sign_Language"
 translations:
   - translation_iso: ara

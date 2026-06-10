@@ -7,12 +7,15 @@ population: 1240
 country_id: AU
 country_name: Australia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -13.99904
 longitude: 136.6415
 glottocode: anin1240
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Wubuy-Anindilyakwa > Anindilyakwa"
+wikidata_id: Q2714654
 wikipedia_url: "https://en.wikipedia.org/wiki/Anindilyakwa_language"
 translations:
   - translation_iso: ara

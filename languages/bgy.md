@@ -7,12 +7,15 @@ population: 350
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -3.13924
 longitude: 130.09068
 glottocode: beng1287
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Benggoi"
+wikidata_id: Q4887742
 wikipedia_url: "https://en.wikipedia.org/wiki/Benggoi_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: spy
+macrolanguage_id: kln
 name: Sabaot
 autonym: Sebei
 alt_names: ["Bong'om", Kony, Mt. Elgon Maasai, Pok, Sore-Sabaut]
@@ -7,12 +8,15 @@ population: 296000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.01297
 longitude: 34.66642
 glottocode: saba1262
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Elgon-Mau Kalenjin > Sabaot"
+wikidata_id: Q7395896
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabaot_language"
 translations:
   - translation_iso: ara

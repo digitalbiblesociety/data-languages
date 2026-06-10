@@ -7,12 +7,15 @@ population: 60000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.40859
 longitude: -5.51851
 glottocode: gagu1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Ben-Gban > Gban"
+wikidata_id: Q3913317
 wikipedia_url: "https://en.wikipedia.org/wiki/Gban_language"
 translations:
   - translation_iso: ara

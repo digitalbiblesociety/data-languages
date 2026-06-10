@@ -7,6 +7,8 @@ population: 1200000
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 26.14854
 longitude: 127.7816
 scripts: [Kana]
@@ -14,6 +16,7 @@ glottocode: cent2126
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Okinawa > Central Okinawan"
+wikidata_id: Q34233
 wikipedia_url: "https://en.wikipedia.org/wiki/Okinawan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 31
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -28.70501
 longitude: 135.44893
 glottocode: arab1267
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Palku > Arabana-Wangganguru > Arabana"
+wikidata_id: Q3507959
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabana_language"
 translations:
   - translation_iso: ara

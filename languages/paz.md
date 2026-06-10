@@ -7,9 +7,12 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -8.99999
 longitude: -37.01665
 glottocode: pank1250
+wikidata_id: Q7131310
 wikipedia_url: "https://en.wikipedia.org/wiki/Pankarar%C3%BA_language"
 translations:
   - translation_iso: ara

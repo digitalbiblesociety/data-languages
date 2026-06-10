@@ -7,12 +7,15 @@ population: 125000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.85828
 longitude: -99.00233
 glottocode: guer1241
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Central Guerrero Nahuatl"
+wikidata_id: Q5614980
 wikipedia_url: "https://en.wikipedia.org/wiki/Guerrero_Nahuatl"
 translations:
   - translation_iso: ara

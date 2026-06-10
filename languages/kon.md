@@ -1,12 +1,16 @@
 ---
 iso: kon
+iso639_1: kg
 name: Kongo
 autonym: kikongo
 population: 6932500
 country_id: CD
 country_name: DR Congo
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q33702
 wikipedia_url: "https://en.wikipedia.org/wiki/Kongo_language"
 translations:
   - translation_iso: ara

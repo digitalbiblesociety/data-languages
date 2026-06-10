@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -3.79772
 longitude: -48.66126
 glottocode: aman1266
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Arawetic > Amanayé"
+wikidata_id: Q3508053
 wikipedia_url: "https://en.wikipedia.org/wiki/Amanay%C3%A9_language"
 translations:
   - translation_iso: ara

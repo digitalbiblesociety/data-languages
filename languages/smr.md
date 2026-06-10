@@ -7,12 +7,15 @@ population: 30000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.50288
 longitude: 96.27569
 glottocode: sime1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Simeulue"
+wikidata_id: Q2992833
 wikipedia_url: "https://en.wikipedia.org/wiki/Simeulue_language"
 translations:
   - translation_iso: ara

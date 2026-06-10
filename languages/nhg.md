@@ -7,12 +7,15 @@ population: 3500
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.88539
 longitude: -98.89301
 glottocode: tete1251
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Tetelcingo Nahuatl"
+wikidata_id: Q3450252
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetelcingo_Nahuatl"
 translations:
   - translation_iso: ara

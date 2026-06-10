@@ -7,12 +7,15 @@ population: 1000
 country_id: CD
 country_name: DR Congo
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 3.18438
 longitude: 29.98416
 glottocode: beek1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Bali-Beeke > Beeke"
+wikidata_id: Q3441375
 wikipedia_url: "https://en.wikipedia.org/wiki/Beeke_language"
 translations:
   - translation_iso: ara

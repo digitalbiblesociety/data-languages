@@ -1,5 +1,6 @@
 ---
 iso: ayl
+macrolanguage_id: ara
 name: Libyan Arabic
 autonym: ليبي
 alt_names: [Arabeg Libia, Arabic, Arabic (Cyrenaican Libyan), Arabic (East Libyan), Arabic (Eastern Libyan), Arabic (Western), "Arabic, Libyan", "Arabic, Libyan Spoken", Bedawi, Libijski arapski, Libyan Spoken Arabic, Libyan Vernacular Arabic, Maghrebi Arabic, Maghrebine, Sulaimitian, Sulaimitian Arabic, Árabe libio, Árabe líbio, لهجة ليبية]
@@ -7,12 +8,15 @@ population: 5036000
 country_id: LY
 country_name: Libya
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 22.00324
 longitude: 15.00136
 glottocode: liby1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Libyan Arabic"
+wikidata_id: Q56503
 wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Arabic"
 translations:
   - translation_iso: ara

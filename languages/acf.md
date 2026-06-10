@@ -7,12 +7,15 @@ population: 689000
 country_id: LC
 country_name: Saint Lucia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.39466
 longitude: -61.36413
 glottocode: sain1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Lesser Antillean French Creole > Saint Lucian Creole French"
+wikidata_id: Q3006285
 wikipedia_url: "https://en.wikipedia.org/wiki/Saint_Lucian_Creole"
 translations:
   - translation_iso: ara

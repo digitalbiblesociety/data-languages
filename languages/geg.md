@@ -6,8 +6,11 @@ population: 4000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.8956
 longitude: 11.95269
+wikidata_id: Q3438345
 wikipedia_url: "https://en.wikipedia.org/wiki/Gengle_language"
 translations:
   - translation_iso: ara

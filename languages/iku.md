@@ -1,12 +1,16 @@
 ---
 iso: iku
+iso639_1: iu
 name: Inuktitut
 autonym: ᐃᓄᒃᑎᑐᑦ
 population: 36220
 country_id: CA
 country_name: Canada
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cans, Latn]
+wikidata_id: Q29921
 wikipedia_url: "https://en.wikipedia.org/wiki/Inuktitut"
 translations:
   - translation_iso: ara

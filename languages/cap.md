@@ -7,12 +7,15 @@ population: 1800
 country_id: BO
 country_name: Bolivia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -18.73951
 longitude: -67.89633
 glottocode: chip1262
 glottolog_family_id: uruc1242
 glottolog_family_name: Uru-Chipaya
 glottolog_classification: "Uru-Chipaya > Chipaya"
+wikidata_id: Q35235
 wikipedia_url: "https://en.wikipedia.org/wiki/Chipaya_language"
 translations:
   - translation_iso: ara

@@ -5,8 +5,11 @@ autonym: Papiá Tugu
 alt_names: [Batavian Portuguese Creole, "Creole, Batavian Portuguese", "Creole, Mardijker", Mardijker Creole]
 country_id: ID
 country_name: Indonesia
+scope: individual
+language_type: extinct
 latitude: -7.72555
 longitude: 126.7
+wikidata_id: Q7132812
 wikipedia_url: "https://en.wikipedia.org/wiki/Mardijker_Creole"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1300
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.38076
 longitude: 84.92999
 glottocode: kuta1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Kutang Ghale"
+wikidata_id: Q6448337
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutang_language"
 translations:
   - translation_iso: ara

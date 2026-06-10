@@ -7,6 +7,8 @@ population: 200
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 48.07505
 longitude: -122.02898
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: halk1245
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Halkomelem"
+wikidata_id: Q35388
 wikipedia_url: "https://en.wikipedia.org/wiki/Halkomelem"
 translations:
   - translation_iso: ara

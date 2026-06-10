@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 43.77025
 longitude: -70.73891
 glottocode: mart1251
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > OKSLic > Martha's Vineyard Sign Language"
+wikidata_id: Q33494
 wikipedia_url: "https://en.wikipedia.org/wiki/Martha%27s_Vineyard_Sign_Language"
 translations:
   - translation_iso: ara

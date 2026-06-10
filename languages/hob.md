@@ -7,12 +7,15 @@ population: 810
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.97399
 longitude: 145.82807
 glottocode: mari1429
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Upper Markham > Mountain Upper Markham > Mari (Madang Province)"
+wikidata_id: Q6760941
 wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language_(Madang_Province)"
 translations:
   - translation_iso: ara

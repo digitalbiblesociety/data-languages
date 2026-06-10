@@ -7,12 +7,15 @@ population: 21000
 country_id: SS
 country_name: South Sudan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 7.4145
 longitude: 27.99183
 glottocode: bong1285
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Bongo"
+wikidata_id: Q2910067
 wikipedia_url: "https://en.wikipedia.org/wiki/Bongo_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 750
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.13467
 longitude: 144.76523
 glottocode: aiom1240
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Aian > Aiome"
+wikidata_id: Q56735
 wikipedia_url: "https://en.wikipedia.org/wiki/Aiome_language"
 translations:
   - translation_iso: ara

@@ -7,8 +7,11 @@ population: 180000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.38236
 longitude: 76.52555
+wikidata_id: Q56589
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurumba_languages"
 translations:
   - translation_iso: ara

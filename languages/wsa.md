@@ -7,12 +7,15 @@ population: 600
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -1.65941
 longitude: 137.5662
 glottocode: ware1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Lower Mamberamo > Warembori"
+wikidata_id: Q56459
 wikipedia_url: "https://en.wikipedia.org/wiki/Warembori_language"
 translations:
   - translation_iso: ara

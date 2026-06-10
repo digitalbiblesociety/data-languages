@@ -6,7 +6,10 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab]
+wikidata_id: Q112670533
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahnda"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 29.04001
 longitude: -114.07703
 glottocode: coch1272
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Cochimic > Cochimi"
+wikidata_id: Q3915551
 wikipedia_url: "https://en.wikipedia.org/wiki/Cochim%C3%AD_language"
 translations:
   - translation_iso: ara

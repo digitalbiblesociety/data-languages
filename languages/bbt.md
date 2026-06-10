@@ -7,12 +7,15 @@ population: 12000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.92756
 longitude: 9.81365
 glottocode: mbur1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Mburku"
+wikidata_id: Q3441324
 wikipedia_url: "https://en.wikipedia.org/wiki/Mburku_language"
 translations:
   - translation_iso: ara

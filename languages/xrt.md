@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 28.65425
 longitude: -97.38526
 glottocode: aran1265
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Aranama"
+wikidata_id: Q2859505
 wikipedia_url: "https://en.wikipedia.org/wiki/Aranama_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 15000
 country_id: CF
 country_name: Central African Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.6515
 longitude: 17.2713
 glottocode: yaka1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Bwamba-Ngondi-Pande-Mbati-Aka > Yaka (Central African Republic)"
+wikidata_id: Q11010149
 wikipedia_url: "https://en.wikipedia.org/wiki/Aka_language"
 translations:
   - translation_iso: ara

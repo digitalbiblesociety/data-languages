@@ -6,9 +6,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 28.908168
 longitude: -96.485596
 glottocode: kara1289
+wikidata_id: Q3192947
 wikipedia_url: "https://en.wikipedia.org/wiki/Karankawa_language"
 translations:
   - translation_iso: ara

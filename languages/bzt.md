@@ -6,10 +6,13 @@ population: null
 country_id: NZ
 country_name: New Zealand
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: brit1244
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Brithenig"
+wikidata_id: Q161281
 wikipedia_url: "https://en.wikipedia.org/wiki/Brithenig"
 translations:
   - translation_iso: ara

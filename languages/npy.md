@@ -6,12 +6,15 @@ population: 6240
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.43707
 longitude: 120.33786
 glottocode: napu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Napu"
+wikidata_id: Q12953768
 wikipedia_url: "https://en.wikipedia.org/wiki/Napu_language"
 translations:
   - translation_iso: ara

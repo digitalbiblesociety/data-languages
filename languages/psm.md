@@ -7,12 +7,15 @@ population: 2017
 country_id: BO
 country_name: Bolivia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -12.85527
 longitude: -63.19031
 glottocode: paus1244
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Warázu"
+wikidata_id: Q2912846
 wikipedia_url: "https://en.wikipedia.org/wiki/War%C3%A1zu_language"
 translations:
   - translation_iso: ara

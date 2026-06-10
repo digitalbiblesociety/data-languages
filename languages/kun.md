@@ -7,9 +7,12 @@ population: 244430
 country_id: ER
 country_name: Eritrea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 14.58789
 longitude: 37.529195
 glottocode: kuna1268
+wikidata_id: Q36041
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunama_language"
 translations:
   - translation_iso: ara

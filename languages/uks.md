@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.54091
 longitude: -46.42134
 glottocode: urub1243
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Urubú-Kaapor Sign Language"
+wikidata_id: Q3322101
 wikipedia_url: "https://en.wikipedia.org/wiki/Ka%CA%BCapor_Sign_Language"
 translations:
   - translation_iso: ara

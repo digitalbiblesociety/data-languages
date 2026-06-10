@@ -7,12 +7,15 @@ population: 2230
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.33848
 longitude: 9.80096
 glottocode: nkon1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Nkongho"
+wikidata_id: Q35863
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkongho_language"
 translations:
   - translation_iso: ara

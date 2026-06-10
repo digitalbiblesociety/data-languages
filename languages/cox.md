@@ -7,12 +7,15 @@ population: 480
 country_id: PE
 country_name: Peru
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -12.10185
 longitude: -72.35066
 glottocode: nant1250
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Matsi-Nan > Nanti"
+wikidata_id: Q15342275
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanti_language"
 translations:
   - translation_iso: ara

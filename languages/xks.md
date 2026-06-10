@@ -7,12 +7,15 @@ population: 3400
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.34485
 longitude: 123.15407
 glottocode: kumb1274
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Muna-Buton > Nuclear Muna-Buton > Butonic > East Buton > Kumbewaha"
+wikidata_id: Q6443722
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumbewaha_language"
 translations:
   - translation_iso: ara

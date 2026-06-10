@@ -6,12 +6,15 @@ population: 21600
 country_id: BD
 country_name: Bangladesh
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.31851
 longitude: 92.50734
 glottocode: tang1330
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Southeastern Bengali > Tangchangya"
+wikidata_id: Q7682361
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanchangya_language"
 translations:
   - translation_iso: ara

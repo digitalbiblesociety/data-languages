@@ -6,12 +6,15 @@ population: 1000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.311235
 longitude: 103.48591
 glottocode: padi1241
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > White Tai > Pa Di"
+wikidata_id: Q3359940
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa_Di_language"
 translations:
   - translation_iso: ara

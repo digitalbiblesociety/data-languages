@@ -7,6 +7,8 @@ population: 10300000
 country_id: BD
 country_name: Bangladesh
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 24.83724
 longitude: 92.25347
 scripts: [Beng, Sylo]
@@ -14,6 +16,7 @@ glottocode: sylh1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Eastern Bengali > Sylheti"
+wikidata_id: Q2044560
 wikipedia_url: "https://en.wikipedia.org/wiki/Sylheti_language"
 translations:
   - translation_iso: ara

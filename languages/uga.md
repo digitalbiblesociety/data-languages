@@ -7,6 +7,8 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 35.6
 longitude: 35.78
 scripts: [Ugar]
@@ -14,6 +16,7 @@ glottocode: ugar1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Ugarito-Phoenician > Ugaritic"
+wikidata_id: Q36928
 wikipedia_url: "https://en.wikipedia.org/wiki/Ugaritic"
 translations:
   - translation_iso: ara

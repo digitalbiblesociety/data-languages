@@ -1,16 +1,20 @@
 ---
 iso: vol
+iso639_1: vo
 name: Volapük
 autonym: Volapük nulik
 population: 20
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 scripts: [Latn]
 glottocode: vola1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Volapük"
+wikidata_id: Q36986
 wikipedia_url: "https://en.wikipedia.org/wiki/Volap%C3%BCk"
 translations:
   - translation_iso: ara

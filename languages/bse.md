@@ -7,12 +7,15 @@ population: 25000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.07415
 longitude: 10.60354
 glottocode: wush1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > South Ring > Wushi"
+wikidata_id: Q36973
 wikipedia_url: "https://en.wikipedia.org/wiki/Wushi_language"
 translations:
   - translation_iso: ara

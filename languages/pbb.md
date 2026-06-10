@@ -7,9 +7,12 @@ population: 243000
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.61516
 longitude: -76.31254
 glottocode: paez1247
+wikidata_id: Q33677
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A1ez_language"
 translations:
   - translation_iso: ara

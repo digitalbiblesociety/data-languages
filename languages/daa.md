@@ -7,12 +7,15 @@ population: 60000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.15165
 longitude: 18.38502
 glottocode: dang1274
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Dangaleat"
+wikidata_id: Q942591
 wikipedia_url: "https://en.wikipedia.org/wiki/Dangal%C3%A9at_language"
 translations:
   - translation_iso: ara

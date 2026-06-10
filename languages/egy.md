@@ -7,6 +7,8 @@ population: null
 country_id: EG
 country_name: Egypt
 status_id: null
+scope: individual
+language_type: historical
 latitude: 28.381735
 longitude: 30.834959
 scripts: [Egyp]
@@ -14,6 +16,7 @@ glottocode: egyp1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Egyptian > Egyptian (Ancient)"
+wikidata_id: Q50868
 wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_language"
 translations:
   - translation_iso: ara

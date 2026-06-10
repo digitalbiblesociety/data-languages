@@ -7,12 +7,15 @@ population: 40610
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.49875
 longitude: -4.52253
 glottocode: east2398
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Karaboro > Eastern Karaboro"
+wikidata_id: Q35716
 wikipedia_url: "https://en.wikipedia.org/wiki/Kar_language"
 translations:
   - translation_iso: ara

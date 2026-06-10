@@ -1,5 +1,6 @@
 ---
 iso: kmr
+macrolanguage_id: kur
 name: "Northern Kurdish - Kurmanji"
 autonym: Northern Kurdish
 alt_names: [Badinani, Bahdini, Behdini, Eastern Kurmanji, Kermancî, Khorasani, Khorasani Kurmanji, Kirmanciya Jori, Kirmancî, Kirmanji, Kordi, Kurdi, Kurdisch, Kurdish, Kurdish (Central), Kurdish (Kurmanji), Kurdish (Northern), "Kurdish, Northern", Kurdî, Kurmancî, Kurmanji, Western Kurdish, Zaza, Êzdîkî]
@@ -7,12 +8,15 @@ population: 14600000
 country_id: TR
 country_name: Turkey
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 37
 longitude: 43
 glottocode: nort2641
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Laki-Kurdish > Kurdish > Northern Kurdish"
+wikidata_id: Q36163
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurmanji"
 translations:
   - translation_iso: ara

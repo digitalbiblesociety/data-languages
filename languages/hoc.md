@@ -7,6 +7,8 @@ population: 1420000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.95959
 longitude: 87.118775
 scripts: [Deva, Wara]
@@ -14,6 +16,7 @@ glottocode: hooo1248
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Ho-Mundari > Ho"
+wikidata_id: Q33270
 wikipedia_url: "https://en.wikipedia.org/wiki/Ho_language"
 translations:
   - translation_iso: ara

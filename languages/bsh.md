@@ -7,12 +7,15 @@ population: 15000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.41447
 longitude: 70.982585
 glottocode: kati1270
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Ashkun-Kate > Katë"
+wikidata_id: Q2605045
 wikipedia_url: "https://en.wikipedia.org/wiki/Kat%C3%AB_language"
 translations:
   - translation_iso: ara

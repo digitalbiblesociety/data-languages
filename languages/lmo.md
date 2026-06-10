@@ -7,6 +7,8 @@ population: 3600000
 country_id: IT
 country_name: Italy
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 45.88171
 longitude: 9.395095
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lomb1257
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Piemontese-Lombard > Lombard"
+wikidata_id: Q33754
 wikipedia_url: "https://en.wikipedia.org/wiki/Lombard_language"
 translations:
   - translation_iso: ara

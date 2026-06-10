@@ -7,9 +7,12 @@ population: 9000
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.92388
 longitude: 156.66311
 glottocode: bilu1245
+wikidata_id: Q35003
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilua_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5580
 country_id: SL
 country_name: Sierra Leone
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 9.27518
 longitude: -11.59696
 glottocode: bomk1234
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Bullom > Northern Bullom > Bom-Kim"
+wikidata_id: Q35088
 wikipedia_url: "https://en.wikipedia.org/wiki/Bom_language"
 translations:
   - translation_iso: ara

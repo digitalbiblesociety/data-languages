@@ -7,12 +7,15 @@ population: 1930
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.69948
 longitude: -64.56152
 glottocode: wari1268
 glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Waric > Wanham-Wari-Oro Win > Wari-Oro Win > Wari'"
+wikidata_id: Q3027909
 wikipedia_url: "https://en.wikipedia.org/wiki/Wari%CA%BC_language"
 translations:
   - translation_iso: ara

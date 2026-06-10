@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
 latitude: -12.032
 longitude: 141.846
 glottocode: yang1305
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Albatross Bay > Anguthimri-Yangathimri-Yuputhimri > Anguthimri-Yangathimri > Yangathimri"
+wikidata_id: Q57457608
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangathimri_language"
 translations:
   - translation_iso: ara

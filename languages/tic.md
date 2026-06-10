@@ -7,12 +7,15 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 11.09635
 longitude: 30.8092
 glottocode: tira1254
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Western Heibanic > Tira"
+wikidata_id: Q36677
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiro_language"
 translations:
   - translation_iso: ara

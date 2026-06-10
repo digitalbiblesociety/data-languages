@@ -7,6 +7,8 @@ population: 57700
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.0869
 longitude: 88.572587
 scripts: [Lepc]
@@ -14,6 +16,7 @@ glottocode: lepc1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Lepcha"
+wikidata_id: Q35990
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepcha_language"
 translations:
   - translation_iso: ara

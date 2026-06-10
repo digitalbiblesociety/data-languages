@@ -7,6 +7,8 @@ population: 890000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -1.58463
 longitude: 112.79357
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ngaj1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > South West Greater Barito > Ngaju"
+wikidata_id: Q2992872
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngaju_language"
 translations:
   - translation_iso: ara

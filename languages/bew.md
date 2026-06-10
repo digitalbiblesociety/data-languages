@@ -7,6 +7,8 @@ population: 6800000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.21174
 longitude: 107.02181
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: beta1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Betawic > Betawi"
+wikidata_id: Q33014
 wikipedia_url: "https://en.wikipedia.org/wiki/Betawi_language"
 translations:
   - translation_iso: ara

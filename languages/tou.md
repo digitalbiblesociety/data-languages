@@ -7,12 +7,15 @@ population: 75000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.3563
 longitude: 105.36278
 glottocode: thoo1240
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Cuoi > Tho"
+wikidata_id: Q22694631
 translations:
   - translation_iso: ara
     name: ثو

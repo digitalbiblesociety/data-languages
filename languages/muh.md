@@ -7,12 +7,15 @@ population: 25800
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.22755
 longitude: 29.996665
 glottocode: mund1326
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mündü"
+wikidata_id: Q35981
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%BCnd%C3%BC_language"
 translations:
   - translation_iso: ara

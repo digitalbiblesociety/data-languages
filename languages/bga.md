@@ -7,12 +7,15 @@ population: 16000
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 11.8081
 longitude: 5.07897
 glottocode: gwam1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Dukaic > Main-Gwamhi > Gwamhi-Wuri"
+wikidata_id: Q6707102
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwamhi-Wuri_language"
 translations:
   - translation_iso: ara

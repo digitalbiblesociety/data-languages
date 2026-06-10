@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.30928
 longitude: 142.11683
 glottocode: sepi1255
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Iwamic > Sepik Iwam"
+wikidata_id: Q16893603
 wikipedia_url: "https://en.wikipedia.org/wiki/Sepik_Iwam_language"
 translations:
   - translation_iso: ara

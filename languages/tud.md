@@ -7,9 +7,12 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -12.04999
 longitude: -41.16665
 glottocode: tuxa1239
+wikidata_id: Q7857217
 wikipedia_url: "https://en.wikipedia.org/wiki/Tux%C3%A1_language"
 translations:
   - translation_iso: ara

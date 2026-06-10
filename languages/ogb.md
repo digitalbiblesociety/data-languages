@@ -6,12 +6,15 @@ population: 374000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.75352
 longitude: 6.34034
 glottocode: ogbi1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Central Delta > Kugboic > Ogbia"
+wikidata_id: Q3813400
 wikipedia_url: "https://en.wikipedia.org/wiki/Ogbia_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: VE
 country_name: Venezuela
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 5.32692
 longitude: -66.276
 glottocode: yaba1248
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Mapoyo-Yawarana > Yabarana"
+wikidata_id: Q3571238
 translations:
   - translation_iso: ara
     name: يابارانا

@@ -7,12 +7,15 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.733939
 longitude: 43.315428
 glottocode: hurr1240
 glottolog_family_id: hurr1239
 glottolog_family_name: Hurro-Urartian
 glottolog_classification: "Hurro-Urartian > Hurrian"
+wikidata_id: Q35740
 wikipedia_url: "https://en.wikipedia.org/wiki/Hurrian_language"
 translations:
   - translation_iso: ara

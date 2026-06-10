@@ -7,12 +7,15 @@ population: 47100
 country_id: UG
 country_name: Uganda
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.81206
 longitude: 30.001415
 glottocode: amba1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Komoic > Amba (Uganda)"
+wikidata_id: Q788423
 wikipedia_url: "https://en.wikipedia.org/wiki/Amba_language_(Bantu)"
 translations:
   - translation_iso: ara

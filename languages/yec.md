@@ -7,12 +7,15 @@ population: 16000
 country_id: DE
 country_name: Germany
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 48.24834
 longitude: 8.47267
 glottocode: yeni1236
 glottolog_family_id: mixe1287
 glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > German-Yiddish-Romani-Rotwelsch > Yeniche"
+wikidata_id: Q1365342
 wikipedia_url: "https://en.wikipedia.org/wiki/Yenish_language"
 translations:
   - translation_iso: ara

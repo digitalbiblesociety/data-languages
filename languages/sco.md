@@ -7,6 +7,8 @@ population: 99200
 country_id: GB
 country_name: United Kingdom
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 55.54104
 longitude: -6.00241
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: scot1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Scots"
+wikidata_id: Q14549
 wikipedia_url: "https://en.wikipedia.org/wiki/Scots_language"
 translations:
   - translation_iso: ara

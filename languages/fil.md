@@ -7,6 +7,8 @@ population: 90000000
 country_id: PH
 country_name: Philippines
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 12.265
 longitude: 123.464
 scripts: [Latn, Tglg]
@@ -14,6 +16,7 @@ glottocode: fili1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Tagalogic > Tagalog-Filipino > Filipino"
+wikidata_id: Q33298
 wikipedia_url: "https://en.wikipedia.org/wiki/Filipino_language"
 translations:
   - translation_iso: ara

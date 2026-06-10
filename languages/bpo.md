@@ -6,8 +6,11 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.73908
 longitude: 137.71617
+wikidata_id: Q11207813
 translations:
   - translation_iso: ara
     name: أناسي

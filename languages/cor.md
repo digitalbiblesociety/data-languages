@@ -1,5 +1,6 @@
 ---
 iso: cor
+iso639_1: kw
 name: Cornish
 autonym: Kernewek
 alt_names: [An Choirnis, Bororo, Cernyweg, Cornic, Cornique, Cornisch, Cornish leid, Curnoack, Còrnais, Còrnic, Córnico, Córnicu, Kernevekçe, Kerneveureg, Kernowek, Koornsche Spraak, Korni, Kornies, Kornisch, Kornisk, Korniska, Kornubiera, Kornysk, Korníska, Luenga córnica, Łéngua còrnega, Παού σάους, קורנית]
@@ -7,6 +8,8 @@ population: 600
 country_id: GB
 country_name: United Kingdom
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 50.52332
 longitude: -4.18619
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: corn1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Southwestern Brythonic > Middle-Modern Southwestern Brythonic > Cornish"
+wikidata_id: Q25289
 wikipedia_url: "https://en.wikipedia.org/wiki/Cornish_language"
 translations:
   - translation_iso: ara

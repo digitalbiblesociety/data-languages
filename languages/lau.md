@@ -6,8 +6,11 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.66675
 longitude: 127.58349
+wikidata_id: Q12952694
 translations:
   - translation_iso: ara
     name: لابا

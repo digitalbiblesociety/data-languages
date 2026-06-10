@@ -7,12 +7,15 @@ population: 4000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.86056
 longitude: -94.95308
 glottocode: sayu1241
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Sayula Popoluca"
+wikidata_id: Q5908722
 wikipedia_url: "https://en.wikipedia.org/wiki/Sayula_Popoluca"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 800
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.76714
 longitude: 84.22852
 glottocode: narp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Manangba-Nar-Phu > Nar Phu"
+wikidata_id: Q4926353
 wikipedia_url: "https://en.wikipedia.org/wiki/Nar_Phu_language"
 translations:
   - translation_iso: ara

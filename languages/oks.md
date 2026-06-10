@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.53908
 longitude: 6.15725
 glottocode: okoe1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Oko-Eni-Osayen"
+wikidata_id: Q36302
 wikipedia_url: "https://en.wikipedia.org/wiki/Oko_language"
 translations:
   - translation_iso: ara

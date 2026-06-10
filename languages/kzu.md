@@ -7,12 +7,15 @@ population: 573
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -2.54415
 longitude: 140.62585
 glottocode: kayu1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Jayapura Bay > Eastern Jayapura Bay > Kayupulau"
+wikidata_id: Q6380723
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayupulau_language"
 translations:
   - translation_iso: ara

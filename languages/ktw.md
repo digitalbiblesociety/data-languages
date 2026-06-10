@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 39.70019
 longitude: -123.43244
 glottocode: kato1244
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > California Athabaskan > Kato"
+wikidata_id: Q20831
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahto_language"
 translations:
   - translation_iso: ara

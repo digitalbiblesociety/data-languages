@@ -1,12 +1,16 @@
 ---
 iso: ful
+iso639_1: ff
 name: Fulah
 autonym: Pulaar
 population: 24000000
 country_id: SN
 country_name: Senegal
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Adlm, Latn]
+wikidata_id: Q33454
 wikipedia_url: "https://en.wikipedia.org/wiki/Fula_language"
 translations:
   - translation_iso: ara

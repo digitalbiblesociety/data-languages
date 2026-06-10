@@ -7,12 +7,15 @@ population: 1000
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 62.82351
 longitude: -136.64414
 glottocode: nort2941
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tutchone > Northern Tutchone"
+wikidata_id: Q20822
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Tutchone_language"
 translations:
   - translation_iso: ara

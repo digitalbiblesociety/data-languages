@@ -7,12 +7,15 @@ population: 13360
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.61045
 longitude: 117.056
 glottocode: molb1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Southern Palawanic > Molbog-Palawan > Molbog"
+wikidata_id: Q6895718
 wikipedia_url: "https://en.wikipedia.org/wiki/Molbog_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 120000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.37979
 longitude: -97.61589
 glottocode: high1243
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Lowland-Sierra Totonacan > Sierra Totonacan > Highland Totonac"
+wikidata_id: Q56451
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Totonac_language"
 translations:
   - translation_iso: ara

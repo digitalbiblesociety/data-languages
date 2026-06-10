@@ -7,12 +7,15 @@ population: 80000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.21816
 longitude: 108.74318
 glottocode: cunn1236
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Nuclear Hlaic > Cun-Nadou"
+wikidata_id: Q2475478
 wikipedia_url: "https://en.wikipedia.org/wiki/Cun_language"
 translations:
   - translation_iso: ara

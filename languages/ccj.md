@@ -7,12 +7,15 @@ population: 690
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 12.41733
 longitude: -15.94127
 glottocode: kasa1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Buy > Kasanga"
+wikidata_id: Q35542
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasanga_language"
 translations:
   - translation_iso: ara

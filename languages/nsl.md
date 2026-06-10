@@ -7,12 +7,15 @@ population: 4000
 country_id: "NO"
 country_name: Norway
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 60.77328
 longitude: 10.24198
 glottocode: norw1255
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > West Scandinavian Sign > Norwegian Sign > Norwegian Sign Language"
+wikidata_id: Q1781613
 wikipedia_url: "https://en.wikipedia.org/wiki/Norwegian_Sign_Language"
 translations:
   - translation_iso: ara

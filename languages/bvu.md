@@ -1,5 +1,6 @@
 ---
 iso: bvu
+macrolanguage_id: msa
 name: Bukit Malay
 autonym: بهاس بنجر
 alt_names: [Bukit, "Malay, Bukit", Meratus]
@@ -7,12 +8,15 @@ population: 59000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.75049
 longitude: 115.63974
 glottocode: buki1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Banjar-Bukit Malay > Bukit Malay"
+wikidata_id: Q9230148
 translations:
   - translation_iso: ara
     name: بوكيت مالاي

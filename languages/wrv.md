@@ -7,12 +7,15 @@ population: 600
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.23565
 longitude: 142.46979
 glottocode: waru1267
 glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Ari-Waruna > Waruna"
+wikidata_id: Q7971078
 wikipedia_url: "https://en.wikipedia.org/wiki/Waruna_language"
 translations:
   - translation_iso: ara

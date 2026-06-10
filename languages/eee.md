@@ -7,12 +7,15 @@ population: 7000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.72616
 longitude: 109.06274
 glottocode: eeee1240
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Unclassified Northern Tai > E"
+wikidata_id: Q35386
 wikipedia_url: "https://en.wikipedia.org/wiki/E_language"
 translations:
   - translation_iso: deu

@@ -7,12 +7,15 @@ population: 5000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 13.350055
 longitude: -3.36685
 glottocode: pana1295
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Pana (Burkina Faso)"
+wikidata_id: Q7129739
 wikipedia_url: "https://en.wikipedia.org/wiki/Pana_language_(Gur)"
 translations:
   - translation_iso: ara

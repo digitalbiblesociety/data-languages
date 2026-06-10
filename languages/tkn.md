@@ -7,12 +7,15 @@ population: 5100
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.77365
 longitude: 128.96117
 glottocode: toku1246
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Toku-No-Shima"
+wikidata_id: Q3530484
 wikipedia_url: "https://en.wikipedia.org/wiki/Tokunoshima_language"
 translations:
   - translation_iso: ara

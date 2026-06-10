@@ -7,12 +7,15 @@ population: 950
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.74765
 longitude: 145.8806
 glottocode: kena1250
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Unclassified Kainantu-Goroka > Kenati"
+wikidata_id: Q4219330
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenati_language"
 translations:
   - translation_iso: deu

@@ -1,5 +1,6 @@
 ---
 iso: cqd
+macrolanguage_id: hmn
 name: Chuanqiandian Cluster Miao
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: ["Miao, Chuanqiandian Cluster"]
@@ -7,12 +8,15 @@ population: 1400000
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.563832
 longitude: 101.950052
 glottocode: chua1256
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Far Western Miao > Chuanqiandian Cluster Miao"
+wikidata_id: Q121627627
 translations:
   - translation_iso: ara
     name: مجموعة تشوانتشيانديان ميايو

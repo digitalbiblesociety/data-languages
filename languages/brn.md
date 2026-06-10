@@ -7,12 +7,15 @@ population: 1000
 country_id: CR
 country_name: Costa Rica
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 8.88093
 longitude: -83.2124
 glottocode: boru1252
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Boruca"
+wikidata_id: Q4946773
 wikipedia_url: "https://en.wikipedia.org/wiki/Boruca_language"
 translations:
   - translation_iso: ara

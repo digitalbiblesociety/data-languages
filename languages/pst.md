@@ -1,5 +1,6 @@
 ---
 iso: pst
+macrolanguage_id: pus
 name: Central Pashto
 autonym: Mahsudi
 alt_names: [Pakhto, Pashto, "Pashto, Central", Peshwari]
@@ -7,12 +8,15 @@ population: 6520000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.9153
 longitude: 69.45294
 glottocode: cent1973
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Nuclear Pashto > Central Pashto"
+wikidata_id: Q5061628
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Pashto"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 68
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -18.65975
 longitude: 123.7694
 glottocode: mang1383
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Marrngu > Mangala"
+wikidata_id: Q6748664
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangarla_language"
 translations:
   - translation_iso: ara

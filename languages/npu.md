@@ -7,8 +7,11 @@ population: 3000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.29726
 longitude: 93.73443
+wikidata_id: Q7259044
 wikipedia_url: "https://en.wikipedia.org/wiki/Puimei_language"
 translations:
   - translation_iso: ara

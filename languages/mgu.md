@@ -7,12 +7,15 @@ population: 8500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.36574
 longitude: 149.52086
 glottocode: mail1248
 glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Mailu"
+wikidata_id: Q3278246
 wikipedia_url: "https://en.wikipedia.org/wiki/Mailu_language"
 translations:
   - translation_iso: ara

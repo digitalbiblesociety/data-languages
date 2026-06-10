@@ -7,12 +7,15 @@ population: 4000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.49451
 longitude: 11.06982
 glottocode: bura1271
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Burak-Loo > Burak"
+wikidata_id: Q4998097
 wikipedia_url: "https://en.wikipedia.org/wiki/Burak_language"
 translations:
   - translation_iso: ara

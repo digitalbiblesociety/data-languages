@@ -7,6 +7,8 @@ population: 18500
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -27.76708
 longitude: -52.53937
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kain1272
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Southern Je > Kaingang-Xokleng > Kaingangic > Kaingang"
+wikidata_id: Q2665734
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaingang_language"
 translations:
   - translation_iso: ara

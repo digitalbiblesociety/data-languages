@@ -7,6 +7,8 @@ population: 6434200
 country_id: CH
 country_name: Switzerland
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 47.05157
 longitude: 8.46419
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: swis1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > South Alemannic > Central Alemannic"
+wikidata_id: Q131339
 wikipedia_url: "https://en.wikipedia.org/wiki/Alemannic_German"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 13000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.21369
 longitude: 35.96295
 glottocode: buru1320
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > South Cushitic > Greater West Rift South Cushitic > West Rift South Cushitic > Burunge"
+wikidata_id: Q56617
 wikipedia_url: "https://en.wikipedia.org/wiki/Burunge_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 38000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.18114
 longitude: -2.72732
 glottocode: maya1281
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Mande Samo > Maya Samo"
+wikidata_id: Q10950421
 translations:
   - translation_iso: ara
     name: مايا سامو

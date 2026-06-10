@@ -6,12 +6,15 @@ alt_names: [Ampika, Bolanchi, Bolawa, Bole, Bolewa, Borpika]
 population: 100
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.30573
 longitude: 10.73936
 glottocode: daza1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Giiwo-Daza > Daza"
+wikidata_id: Q3914922
 wikipedia_url: "https://en.wikipedia.org/wiki/Dazawa_language"
 translations:
   - translation_iso: ara

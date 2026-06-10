@@ -7,12 +7,15 @@ population: 50000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.8798
 longitude: 29.29185
 glottocode: lese1243
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Nuclear Baleseic > Lese"
+wikidata_id: Q11033939
 wikipedia_url: "https://en.wikipedia.org/wiki/Lese_language"
 translations:
   - translation_iso: ara

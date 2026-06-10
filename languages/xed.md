@@ -7,12 +7,15 @@ population: 29000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.94202
 longitude: 13.68811
 glottocode: hdii1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Hdi"
+wikidata_id: Q56246
 wikipedia_url: "https://en.wikipedia.org/wiki/Hdi_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: zeh
+macrolanguage_id: zha
 name: Eastern Hongshuihe Zhuang
 autonym: null
 alt_names: [Chuang, Hongshuihe, Zhuang, Zhuang (Northern), "Zhuang, Eastern Hongshuihe"]
@@ -7,12 +8,15 @@ population: 1200000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.68182
 longitude: 107.18368
 glottocode: east2363
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Hongshui He > Western Hongshui He > Eastern Hongshuihe Zhuang"
+wikidata_id: Q13634282
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Hongshuihe_Zhuang"
 translations:
   - translation_iso: ara

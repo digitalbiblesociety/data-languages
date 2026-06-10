@@ -7,12 +7,15 @@ population: 300
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 31.60625
 longitude: -115.87053
 glottocode: paip1241
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > Pai > Paipai"
+wikidata_id: Q56726
 wikipedia_url: "https://en.wikipedia.org/wiki/Paipai_language"
 translations:
   - translation_iso: ara

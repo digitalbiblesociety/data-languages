@@ -1,5 +1,6 @@
 ---
 iso: acx
+macrolanguage_id: ara
 name: Omani Arabic
 autonym: اللهجة العمانية
 alt_names: [Arabic, "Arabic, Omani", "Arabic, Omani Spoken", Omani Hadari Arabic, Omanski arapski, Omanī]
@@ -7,12 +8,15 @@ population: 2851200
 country_id: OM
 country_name: Oman
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.25
 longitude: 58.5
 glottocode: oman1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Omani Arabic"
+wikidata_id: Q56630
 wikipedia_url: "https://en.wikipedia.org/wiki/Omani_Arabic"
 translations:
   - translation_iso: ara

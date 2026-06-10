@@ -7,12 +7,15 @@ population: 790
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.95505
 longitude: 150.93502
 glottocode: tian1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Tiang"
+wikidata_id: Q3528020
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiang_language"
 translations:
   - translation_iso: ara

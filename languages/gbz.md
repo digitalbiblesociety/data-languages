@@ -7,6 +7,8 @@ population: 11500
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 31.8161
 longitude: 54.44689
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: zoro1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Yazdi-Kermani-Nayini > Zoroastrian Yazdi"
+wikidata_id: Q32389
 wikipedia_url: "https://en.wikipedia.org/wiki/Zoroastrian_Dari_language"
 translations:
   - translation_iso: ara

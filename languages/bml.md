@@ -6,12 +6,15 @@ population: 2500
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.99315
 longitude: 18.5131
 glottocode: bomb1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Bombomic > Bomboli-Bozaba"
+wikidata_id: Q35055
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomboli%E2%80%93Bozaba_language"
 translations:
   - translation_iso: ara

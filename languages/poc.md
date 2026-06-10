@@ -7,12 +7,15 @@ population: 8600
 country_id: GT
 country_name: Guatemala
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.73252
 longitude: -89.73796
 glottocode: poqo1253
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Poqom > Poqomam"
+wikidata_id: Q36416
 wikipedia_url: "https://en.wikipedia.org/wiki/Poqomam_language"
 translations:
   - translation_iso: ara

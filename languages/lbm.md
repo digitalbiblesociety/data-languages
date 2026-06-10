@@ -7,12 +7,15 @@ population: 25000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.89542
 longitude: 84.94628
 glottocode: lodh1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Lodhi"
+wikidata_id: Q6666374
 wikipedia_url: "https://en.wikipedia.org/wiki/Lodhi_language"
 translations:
   - translation_iso: ara

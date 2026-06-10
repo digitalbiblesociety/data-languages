@@ -7,6 +7,8 @@ population: 827000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.73463
 longitude: 105.03657
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lamp1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Lampungic > Pesisir > Lampung Api"
+wikidata_id: Q49215
 wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
 translations:
   - translation_iso: ara

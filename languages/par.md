@@ -7,12 +7,15 @@ population: 100
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 36.00073
 longitude: -117.90139
 glottocode: pana1305
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Central Numic > Panamint"
+wikidata_id: Q33926
 wikipedia_url: "https://en.wikipedia.org/wiki/Timbisha_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1490
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.060433
 longitude: 10.677973
 glottocode: yasa1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Yasa-Kombe > Yasa"
+wikidata_id: Q36899
 wikipedia_url: "https://en.wikipedia.org/wiki/Yasa_language"
 translations:
   - translation_iso: ara

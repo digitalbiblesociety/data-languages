@@ -7,12 +7,15 @@ population: 126000
 country_id: JP
 country_name: Japan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 36.02213
 longitude: 139.07918
 glottocode: japa1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > JSLic > Japanese Sign Language"
+wikidata_id: Q35601
 wikipedia_url: "https://en.wikipedia.org/wiki/Japanese_Sign_Language"
 translations:
   - translation_iso: ara

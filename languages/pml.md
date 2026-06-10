@@ -7,12 +7,15 @@ population: null
 country_id: TN
 country_name: Tunisia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 33.86126
 longitude: 10.85313
 glottocode: ling1242
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Italian-based pidgin > Mediterranean Lingua Franca"
+wikidata_id: Q636479
 wikipedia_url: "https://en.wikipedia.org/wiki/Mediterranean_Lingua_Franca"
 translations:
   - translation_iso: ara

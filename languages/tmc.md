@@ -7,12 +7,15 @@ population: 25200
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.43747
 longitude: 17.42159
 glottocode: tuma1260
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.1 > Sumrayic > Ndam-Tumak > Tumak"
+wikidata_id: Q3121045
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumak_language"
 translations:
   - translation_iso: ara

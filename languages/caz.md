@@ -7,9 +7,12 @@ population: 2004
 country_id: BO
 country_name: Bolivia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -18.83
 longitude: -63.42
 glottocode: cani1243
+wikidata_id: Q2936374
 wikipedia_url: "https://en.wikipedia.org/wiki/Canichana_language"
 translations:
   - translation_iso: ara

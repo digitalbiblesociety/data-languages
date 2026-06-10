@@ -7,12 +7,15 @@ population: 10000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.69085
 longitude: 78.59361
 glottocode: sout1549
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Kolami-Naiki > Southeastern Kolami"
+wikidata_id: Q56767
 wikipedia_url: "https://en.wikipedia.org/wiki/Naiki_language"
 translations:
   - translation_iso: ara

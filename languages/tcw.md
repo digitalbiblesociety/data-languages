@@ -7,12 +7,15 @@ population: 540
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 20.2957
 longitude: -97.84358
 glottocode: tecp1235
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Necaxan > Tecpatlán Totonac"
+wikidata_id: Q7692795
 wikipedia_url: "https://en.wikipedia.org/wiki/Tecpatl%C3%A1n_Totonac"
 translations:
   - translation_iso: ara

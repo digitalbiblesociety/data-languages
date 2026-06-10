@@ -7,12 +7,15 @@ population: 200
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.71263
 longitude: -53.06572
 glottocode: para1310
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Xinguan > Pará Arára"
+wikidata_id: Q56807
 wikipedia_url: "https://en.wikipedia.org/wiki/Par%C3%A1_Ar%C3%A1ra_language"
 translations:
   - translation_iso: ara

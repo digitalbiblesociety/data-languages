@@ -6,7 +6,10 @@ population: 2500000
 country_id: PH
 country_name: Philippines
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q35455
 wikipedia_url: "https://en.wikipedia.org/wiki/Bikol_languages"
 translations:
   - translation_iso: ara

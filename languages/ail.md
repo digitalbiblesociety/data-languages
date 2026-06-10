@@ -7,12 +7,15 @@ population: 140
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -6.68656
 longitude: 142.65551
 glottocode: aime1238
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Aimele"
+wikidata_id: Q3327418
 wikipedia_url: "https://en.wikipedia.org/wiki/Aimele_language"
 translations:
   - translation_iso: ara

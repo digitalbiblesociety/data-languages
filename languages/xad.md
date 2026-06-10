@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 31.631402
 longitude: -92.005921
 glottocode: adai1235
+wikidata_id: Q346744
 wikipedia_url: "https://en.wikipedia.org/wiki/Adai_language"
 translations:
   - translation_iso: ara

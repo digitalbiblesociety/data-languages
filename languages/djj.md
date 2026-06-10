@@ -7,12 +7,15 @@ population: 100
 country_id: AU
 country_name: Australia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -12.01331
 longitude: 134.09666
 glottocode: djee1236
 glottolog_family_id: mani1293
 glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Nakkara-Ndjebbana > Djeebbana"
+wikidata_id: Q5285274
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndj%C3%A9bbana_language"
 translations:
   - translation_iso: ara

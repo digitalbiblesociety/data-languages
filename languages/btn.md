@@ -7,12 +7,15 @@ population: 2000
 country_id: PH
 country_name: Philippines
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 12.27848
 longitude: 121.18703
 glottocode: rata1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Datagnon-Santa Teresa-Semirara > Ratagnon"
+wikidata_id: Q13197
 wikipedia_url: "https://en.wikipedia.org/wiki/Ratagnon_language"
 translations:
   - translation_iso: ara

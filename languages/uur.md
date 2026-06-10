@@ -7,12 +7,15 @@ population: null
 country_id: VU
 country_name: Vanuatu
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -18.67465
 longitude: 169.08428
 glottocode: urav1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Erromanga > Ura (Vanuatu)"
+wikidata_id: Q7899531
 wikipedia_url: "https://en.wikipedia.org/wiki/Ura_language_(Vanuatu)"
 translations:
   - translation_iso: ara

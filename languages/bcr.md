@@ -7,12 +7,15 @@ population: 2200
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 55.09968
 longitude: -126.41041
 glottocode: babi1235
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central British Columbia Athabaskan > Carrieric > Witsuwit'en-Babine"
+wikidata_id: Q27864
 wikipedia_url: "https://en.wikipedia.org/wiki/Babine-Witsuwit%CA%BCen_language"
 translations:
   - translation_iso: ara

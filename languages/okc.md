@@ -6,6 +6,9 @@ population: 50000
 country_id: CD
 country_name: DR Congo
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q105198744
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.4621
 longitude: 144.91557
 glottocode: tang1355
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tangu-Igom > Tanggu"
+wikidata_id: Q7682930
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanggu_language"
 translations:
   - translation_iso: ara

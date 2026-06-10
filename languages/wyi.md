@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -37.64264501
 longitude: 145.5879962
 glottocode: woiw1237
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Kulin > Nuclear Kulin > Woiwurrung-Thagungwurrung"
+wikidata_id: Q137642156
 wikipedia_url: "https://en.wikipedia.org/wiki/Woiwurrung_language"
 translations:
   - translation_iso: ara

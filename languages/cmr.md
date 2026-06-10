@@ -7,12 +7,15 @@ population: 200000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 19.71
 longitude: 93.995
 glottocode: mroc1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Khomic > Mro Chin"
+wikidata_id: Q16306748
 wikipedia_url: "https://en.wikipedia.org/wiki/Mro-Khimi_language"
 translations:
   - translation_iso: ara

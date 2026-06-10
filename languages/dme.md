@@ -7,12 +7,15 @@ population: 5000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.75203
 longitude: 14.21344
 glottocode: dugw1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Dugwor-Merey > Dugwor"
+wikidata_id: Q56313
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%8Augwor_language"
 translations:
   - translation_iso: ara

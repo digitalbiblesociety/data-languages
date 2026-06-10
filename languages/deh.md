@@ -7,12 +7,15 @@ population: 13000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.52046
 longitude: 66.59775
 glottocode: dehw1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Dehwari"
+wikidata_id: Q5704314
 wikipedia_url: "https://en.wikipedia.org/wiki/Dehwari_language"
 translations:
   - translation_iso: ara

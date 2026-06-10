@@ -7,6 +7,8 @@ population: 60000
 country_id: SE
 country_name: Sweden
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 67.252745
 longitude: 23.06596
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: torn1244
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Nuclear Finnish > Meänkieli"
+wikidata_id: Q13357
 wikipedia_url: "https://en.wikipedia.org/wiki/Me%C3%A4nkieli"
 translations:
   - translation_iso: ara

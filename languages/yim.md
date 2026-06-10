@@ -7,12 +7,15 @@ population: 83300
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.76745
 longitude: 94.80874
 glottocode: yimc1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Yimchingric > Yimchungru Naga"
+wikidata_id: Q56348
 wikipedia_url: "https://en.wikipedia.org/wiki/Yimkhiungr%C3%BC_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 350000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.33056
 longitude: 102.43359
 scripts: [Latn, Rjng]
@@ -14,6 +16,7 @@ glottocode: reja1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Rejang"
+wikidata_id: Q3056339
 wikipedia_url: "https://en.wikipedia.org/wiki/Rejang_language"
 translations:
   - translation_iso: ara

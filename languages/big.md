@@ -6,12 +6,15 @@ population: 6230
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.33882
 longitude: 146.76483
 glottocode: bian1252
 glottolog_family_id: kuni1270
 glottolog_family_name: Kunimaipan
 glottolog_classification: "Kunimaipan > Biangai"
+wikidata_id: Q8842027
 translations:
   - translation_iso: ara
     name: بيانجايي

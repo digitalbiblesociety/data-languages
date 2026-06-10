@@ -7,12 +7,15 @@ population: 80000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.56709
 longitude: -97.25539
 glottocode: papa1238
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Lowland-Sierra Totonacan > Papantla Totonac"
+wikidata_id: Q56329
 wikipedia_url: "https://en.wikipedia.org/wiki/Papantla_Totonac"
 translations:
   - translation_iso: ara

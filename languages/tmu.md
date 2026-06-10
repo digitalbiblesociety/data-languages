@@ -7,12 +7,15 @@ population: 1500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.14537
 longitude: 137.68981
 glottocode: iauu1242
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Central Tariku > Iau"
+wikidata_id: Q56867
 wikipedia_url: "https://en.wikipedia.org/wiki/Iau_language"
 translations:
   - translation_iso: ara

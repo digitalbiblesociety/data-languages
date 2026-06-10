@@ -7,12 +7,15 @@ population: 22800
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.36423
 longitude: 6.31058
 glottocode: ikaa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Central-Northern Igbo > Ika"
+wikidata_id: Q35406
 wikipedia_url: "https://en.wikipedia.org/wiki/Ika_language_(Nigeria)"
 translations:
   - translation_iso: ara

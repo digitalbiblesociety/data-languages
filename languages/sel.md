@@ -7,6 +7,8 @@ population: 1640
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 59.94093
 longitude: 82.30036
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: selk1253
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Kamas-Selkup > Selkup"
+wikidata_id: Q34008
 wikipedia_url: "https://en.wikipedia.org/wiki/Selkup_languages"
 translations:
   - translation_iso: ara

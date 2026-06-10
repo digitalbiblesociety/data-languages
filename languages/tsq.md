@@ -6,12 +6,15 @@ population: 200000
 country_id: TH
 country_name: Thailand
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 13.7837
 longitude: 100.44545
 glottocode: thai1240
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Thai Sign Language"
+wikidata_id: Q7709156
 wikipedia_url: "https://en.wikipedia.org/wiki/Thai_Sign_Language"
 translations:
   - translation_iso: ara

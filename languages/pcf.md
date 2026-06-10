@@ -7,12 +7,15 @@ population: 9520
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.08696
 longitude: 77.1863
 glottocode: pali1274
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Tamil-Paliyan > Paliyan"
+wikidata_id: Q7127643
 wikipedia_url: "https://en.wikipedia.org/wiki/Paliyan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 8400
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.63062
 longitude: 26.45082
 glottocode: bwel1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Mongala > Bwela"
+wikidata_id: Q5003678
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwela_language"
 translations:
   - translation_iso: ara

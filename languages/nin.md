@@ -7,12 +7,15 @@ population: 35000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.95791
 longitude: 8.47328
 glottocode: ninz1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Rukubic > Mada-Ninzam > Ninzo"
+wikidata_id: Q3914021
 wikipedia_url: "https://en.wikipedia.org/wiki/Ninzo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: YE
 country_name: Yemen
 status_id: null
+scope: individual
+language_type: historical
 latitude: 15.528
 longitude: 47.603
 glottocode: hadr1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Sayhadic > Hadrami"
+wikidata_id: Q1032453
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadramautic_language"
 translations:
   - translation_iso: ara

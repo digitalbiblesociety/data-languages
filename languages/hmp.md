@@ -1,5 +1,6 @@
 ---
 iso: hmp
+macrolanguage_id: hmn
 name: Northern Mashan Hmong
 autonym: Mashan Miao
 alt_names: [Hmo, Hmong, "Hmong, Northern Mashan", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Mashan", Northern Mashan Miao]
@@ -7,12 +8,15 @@ population: 35000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.77231
 longitude: 106.53044
 glottocode: nort1546
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Mashan > Northern Mashan Hmong"
+wikidata_id: Q12953564
 translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الشمالية

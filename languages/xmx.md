@@ -7,12 +7,15 @@ population: 600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.05325
 longitude: 130.83335
 glottocode: made1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Maya-Salawati > Salawati-Batta > Salawati"
+wikidata_id: Q12952756
 wikipedia_url: "https://en.wikipedia.org/wiki/Salawati_language"
 translations:
   - translation_iso: ara

@@ -3,12 +3,15 @@ iso: ukv
 name: Kuku
 country_id: SS
 country_name: South Sudan
+scope: individual
+language_type: living
 latitude: 3.9613
 longitude: 31.537
 glottocode: kuku1285
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Barian > Nuclear Barian > Kuku"
+wikidata_id: Q3200300
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuku_dialect"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: aeb
+macrolanguage_id: ara
 name: Tunisian Arabic
 autonym: "تونسي "
 alt_names: [Arabe tunisiano, Arabe tunisien, Arabeg Tunizia, Arabic, Arabic (Tunis), Arabic (Tunisian), Arabic (Western), "Arabic, Tunisian", "Arabic, Tunisian Spoken", Tunesisch-Arabisch, Tunisian, Tunisian Darija, Tunisian Spoken, Tunisisk arabiska, Tuniski arapski, Árabe tunecino, Туніська арабська, لهجة تونسية]
@@ -7,6 +8,8 @@ population: 11600000
 country_id: TN
 country_name: Tunisia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 33.79658
 longitude: 9.56156
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: tuni1259
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Malta-Tunisian Arabic > Tunisian Arabic"
+wikidata_id: Q56240
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunisian_Arabic"
 translations:
   - translation_iso: ara

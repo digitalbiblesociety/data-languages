@@ -7,12 +7,15 @@ population: 7500
 country_id: VU
 country_name: Vanuatu
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -19.50195
 longitude: 169.38113
 glottocode: whit1269
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Whitesands-North Tanna linkage > Whitesands"
+wikidata_id: Q3063761
 wikipedia_url: "https://en.wikipedia.org/wiki/Whitesands_language"
 translations:
   - translation_iso: ara

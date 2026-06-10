@@ -7,12 +7,15 @@ population: 315000
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.15904
 longitude: 34.21591
 glottocode: topo1242
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Toposa"
+wikidata_id: Q3033588
 wikipedia_url: "https://en.wikipedia.org/wiki/Toposa_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: qxt
+macrolanguage_id: que
 name: Santa Ana de Tusi Pasco Quechua
 autonym: Kichwa
 alt_names: ["Quechua, Santa Ana de Tusi Pasco"]
@@ -7,8 +8,11 @@ population: 10000
 country_id: PE
 country_name: Peru
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.33016
 longitude: -76.27527
+wikidata_id: Q12953831
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا سانتا آنا دي توسي باسكو

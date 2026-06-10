@@ -6,12 +6,15 @@ population: 14400
 country_id: ZM
 country_name: Zambia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -15.51343
 longitude: 28.98984
 glottocode: zamb1239
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Zambian Sign Language"
+wikidata_id: Q8065713
 wikipedia_url: "https://en.wikipedia.org/wiki/Zambian_Sign_Language"
 translations:
   - translation_iso: ara

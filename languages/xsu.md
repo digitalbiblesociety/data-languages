@@ -7,12 +7,15 @@ population: 3500
 country_id: VE
 country_name: Venezuela
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.31875
 longitude: -67.64978
 glottocode: sanu1240
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Sanumá"
+wikidata_id: Q251728
 wikipedia_url: "https://en.wikipedia.org/wiki/San%C3%B6ma_language"
 translations:
   - translation_iso: ara

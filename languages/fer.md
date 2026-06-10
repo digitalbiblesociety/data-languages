@@ -7,12 +7,15 @@ population: 8000
 country_id: SS
 country_name: South Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 8.61612
 longitude: 25.7171
 glottocode: fero1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Feroge-Mangaya > Feroge"
+wikidata_id: Q35287
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaligi_language"
 translations:
   - translation_iso: ara

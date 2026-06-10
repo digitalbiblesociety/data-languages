@@ -7,12 +7,15 @@ population: 20000
 country_id: IQ
 country_name: Iraq
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 33.94978
 longitude: 42.98673
 glottocode: baje1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Gorani > Shabak-Bajalani > Bajelani"
+wikidata_id: Q4848866
 wikipedia_url: "https://en.wikipedia.org/wiki/Bajelani_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3545
 country_id: MY
 country_name: Malaysia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.1217
 longitude: 102.81572
 glottocode: sema1265
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Semaq Beri"
+wikidata_id: Q7449119
 wikipedia_url: "https://en.wikipedia.org/wiki/Semaq_Beri_language"
 translations:
   - translation_iso: ara

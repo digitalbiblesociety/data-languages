@@ -6,7 +6,10 @@ population: 36000000
 country_id: IN
 country_name: India
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Deva]
+wikidata_id: Q13196
 wikipedia_url: "https://en.wikipedia.org/wiki/Rajasthani_languages"
 translations:
   - translation_iso: ara

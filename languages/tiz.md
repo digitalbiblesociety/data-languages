@@ -7,12 +7,15 @@ population: 85000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.3088
 longitude: 102.58554
 glottocode: taih1246
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Wuding-Yuanyang Tai > Tai Hongjin"
+wikidata_id: Q3915716
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Hongjin_language"
 translations:
   - translation_iso: ara

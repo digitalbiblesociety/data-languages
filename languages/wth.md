@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -37.68777565
 longitude: 144.1013148
 glottocode: wath1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Kulin-Bunganditj > Kulin > Nuclear Kulin > Wathawurrung"
+wikidata_id: Q7974656
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadawurrung_language"
 translations:
   - translation_iso: ara

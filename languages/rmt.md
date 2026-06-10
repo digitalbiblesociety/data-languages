@@ -7,6 +7,8 @@ population: 28500
 country_id: EG
 country_name: Egypt
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32
 longitude: 35
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: doma1258
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Domari"
+wikidata_id: Q35394
 wikipedia_url: "https://en.wikipedia.org/wiki/Domari_language"
 translations:
   - translation_iso: ara

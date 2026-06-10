@@ -7,6 +7,8 @@ population: 25040
 country_id: WF
 country_name: "Wallis & Futuna"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -13.290304
 longitude: -176.207027
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: wall1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > East Uvean"
+wikidata_id: Q36979
 wikipedia_url: "https://en.wikipedia.org/wiki/Wallisian_language"
 translations:
   - translation_iso: ara

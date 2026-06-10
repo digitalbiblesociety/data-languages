@@ -7,12 +7,15 @@ population: 120000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.013
 longitude: 26.6083
 glottocode: zimb1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Mituku-Lega > Songola-Binja > Zimba"
+wikidata_id: Q8071960
 wikipedia_url: "https://en.wikipedia.org/wiki/Zimba_language"
 translations:
   - translation_iso: ara

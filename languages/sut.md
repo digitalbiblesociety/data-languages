@@ -7,12 +7,15 @@ population: null
 country_id: NI
 country_name: Nicaragua
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 12.46666
 longitude: -86.91665
 glottocode: subt1250
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Subtiaba"
+wikidata_id: Q3915405
 wikipedia_url: "https://en.wikipedia.org/wiki/Subtiaba_language"
 translations:
   - translation_iso: ara

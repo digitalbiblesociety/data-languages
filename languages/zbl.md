@@ -7,10 +7,13 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: blis1239
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Blissymbols"
+wikidata_id: Q609817
 wikipedia_url: "https://en.wikipedia.org/wiki/Blissymbols"
 translations:
   - translation_iso: ara

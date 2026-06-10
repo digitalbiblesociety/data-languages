@@ -7,12 +7,15 @@ population: 2000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.24284
 longitude: -97.92019
 glottocode: sanm1298
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Trique > San Martín Itunyoso Triqui"
+wikidata_id: Q12953934
 translations:
   - translation_iso: ara
     name: تريكي سان مارتين إيتونيوسو

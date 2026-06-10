@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.304
 longitude: 11.196
 glottocode: pang1286
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Mumuyic > Pangseng"
+wikidata_id: Q3914027
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangseng_language"
 translations:
   - translation_iso: ara

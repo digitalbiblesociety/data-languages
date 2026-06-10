@@ -6,12 +6,15 @@ population: 26900
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.32586
 longitude: 8.01629
 glottocode: akpa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Yatye-Akpa > Akpa"
+wikidata_id: Q34801
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpa_language"
 translations:
   - translation_iso: ara

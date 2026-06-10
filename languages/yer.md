@@ -7,12 +7,15 @@ population: 494000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.98356
 longitude: 10.02885
 glottocode: taro1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Yangkam-Tarok-Pe > Tarok-Pe > Tarok"
+wikidata_id: Q3914953
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarok_language"
 translations:
   - translation_iso: ara

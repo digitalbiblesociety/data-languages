@@ -6,12 +6,15 @@ population: 350
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.43705
 longitude: 136.09604
 glottocode: auye1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Auye-Dao > Auye"
+wikidata_id: Q4827334
 wikipedia_url: "https://en.wikipedia.org/wiki/Auye-Dao_language"
 translations:
   - translation_iso: ara

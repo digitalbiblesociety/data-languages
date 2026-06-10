@@ -7,12 +7,15 @@ population: 399
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.66826
 longitude: 157.99717
 glottocode: vang1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Marovo-Vangunu > Vangunu"
+wikidata_id: Q3554582
 wikipedia_url: "https://en.wikipedia.org/wiki/Vangunu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2660
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.430453
 longitude: 102.133203
 glottocode: mang1378
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mangic > Mang"
+wikidata_id: Q720192
 wikipedia_url: "https://en.wikipedia.org/wiki/M%E1%BA%A3ng_language"
 translations:
   - translation_iso: ara

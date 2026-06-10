@@ -7,12 +7,15 @@ population: 13000
 country_id: NG
 country_name: Nigeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.48469
 longitude: 9.59527
 glottocode: labi1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jaku-Gubi > Labir"
+wikidata_id: Q1990210
 wikipedia_url: "https://en.wikipedia.org/wiki/Labir_language"
 translations:
   - translation_iso: ara

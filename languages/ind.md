@@ -1,5 +1,7 @@
 ---
 iso: ind
+iso639_1: id
+macrolanguage_id: msa
 name: Indonesian
 autonym: bahasa Indonesia
 alt_names: [Bahsa Indônèsia, Endonezce, Fiteny indonezianina, Indon esian, Indoneseg, Indonesek, Indonesi, Indonesiera, Indonesisch, Indonesisk, Indonesiska, Indonezeg, Indoneziýa dilleri, Indonésien, Indunisya simi, Tonda, Ìn-nî-gí, אינדונזית, ھىندونېزىيە تىلى, बहासा इण्डोनेशिया]
@@ -7,6 +9,8 @@ population: 43000000
 country_id: ID
 country_name: Indonesia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -7.33458
 longitude: 109.71572
 scripts: [Arab, Latn]
@@ -14,6 +18,7 @@ glottocode: indo1316
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Standard Malay-Indonesian > Standard Indonesian"
+wikidata_id: Q9240
 wikipedia_url: "https://en.wikipedia.org/wiki/Indonesian_language"
 translations:
   - translation_iso: ara

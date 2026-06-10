@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 44.98615
 longitude: -123.92463
 glottocode: kala1400
 glottolog_family_id: kala1402
 glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Central Kalapuya"
+wikidata_id: Q3192120
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kalapuya_language"
 translations:
   - translation_iso: ara

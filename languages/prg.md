@@ -7,6 +7,8 @@ population: 50
 country_id: PL
 country_name: Poland
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 52.394
 longitude: 14.757
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: prus1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Old Prussian"
+wikidata_id: Q35501
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Prussian_language"
 translations:
   - translation_iso: ara

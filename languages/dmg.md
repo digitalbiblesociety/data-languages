@@ -7,12 +7,15 @@ population: 5000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.31911
 longitude: 116.90097
 glottocode: uppe1427
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Upper Kinabatangan"
+wikidata_id: Q16109975
 translations:
   - translation_iso: ara
     name: أبر كينابتانجان

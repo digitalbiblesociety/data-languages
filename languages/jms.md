@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.91719
 longitude: 10.27783
 glottocode: mash1269
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Nakic > Mashi (Nigeria)"
+wikidata_id: Q11028619
 translations:
   - translation_iso: ara
     name: لغة ماشي

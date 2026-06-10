@@ -7,12 +7,15 @@ population: null
 country_id: ET
 country_name: Ethiopia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 11.94153
 longitude: 35.63369
 glottocode: weyt1237
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Weyto"
+wikidata_id: Q3915918
 wikipedia_url: "https://en.wikipedia.org/wiki/Weyto_language"
 translations:
   - translation_iso: ara

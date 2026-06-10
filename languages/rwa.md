@@ -7,12 +7,15 @@ population: 640
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.84201
 longitude: 141.603
 glottocode: rawo1244
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Rawo-Main Serra > Rawo"
+wikidata_id: Q3504269
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawo_language"
 translations:
   - translation_iso: ara

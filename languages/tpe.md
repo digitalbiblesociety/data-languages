@@ -7,12 +7,15 @@ population: 85000
 country_id: BD
 country_name: Bangladesh
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.58637
 longitude: 92.07473
 glottocode: tipp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Tippera"
+wikidata_id: Q16115423
 wikipedia_url: "https://en.wikipedia.org/wiki/Tippera_language"
 translations:
   - translation_iso: ara

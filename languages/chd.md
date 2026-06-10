@@ -7,12 +7,15 @@ population: 3600
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.18489
 longitude: -95.73011
 glottocode: high1242
 glottolog_family_id: tequ1244
 glottolog_family_name: Tequistlatecan
 glottolog_classification: "Tequistlatecan > Highland Oaxaca Chontal"
+wikidata_id: Q2964457
 wikipedia_url: "https://en.wikipedia.org/wiki/Highland_Oaxaca_Chontal"
 translations:
   - translation_iso: ara

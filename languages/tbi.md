@@ -7,12 +7,15 @@ population: 104000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.46742
 longitude: 33.97968
 glottocode: gaam1241
 glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Gaam"
+wikidata_id: Q35338
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaam_language"
 translations:
   - translation_iso: ara

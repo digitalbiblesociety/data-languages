@@ -6,12 +6,15 @@ population: 85000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.65656
 longitude: -4.58421
 glottocode: abid1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Agneby > Abidji"
+wikidata_id: Q34781
 wikipedia_url: "https://en.wikipedia.org/wiki/Abidji_language"
 translations:
   - translation_iso: ara

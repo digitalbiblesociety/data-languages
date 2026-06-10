@@ -7,12 +7,15 @@ population: 24080
 country_id: VE
 country_name: Venezuela
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.97031
 longitude: -61.40329
 glottocode: pemo1248
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Pemon"
+wikidata_id: Q10729616
 wikipedia_url: "https://en.wikipedia.org/wiki/Pemon_language"
 translations:
   - translation_iso: ara

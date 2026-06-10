@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -22.51278
 longitude: 137.3515
 glottocode: ande1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Central-Eastern Arrernte > Andegerebinha"
+wikidata_id: Q3508123
 wikipedia_url: "https://en.wikipedia.org/wiki/Andegerebinha_dialect"
 translations:
   - translation_iso: ara

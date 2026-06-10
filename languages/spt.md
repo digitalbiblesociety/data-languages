@@ -7,12 +7,15 @@ population: 10000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.526
 longitude: 77.833
 glottocode: spit1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Spiti-Jad > Spiti Bhoti"
+wikidata_id: Q22080879
 wikipedia_url: "https://en.wikipedia.org/wiki/Spiti_Bhoti"
 translations:
   - translation_iso: ara

@@ -6,10 +6,13 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: laad1235
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Láadan"
+wikidata_id: Q35757
 wikipedia_url: "https://en.wikipedia.org/wiki/L%C3%A1adan"
 translations:
   - translation_iso: ara

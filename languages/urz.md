@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.91762
 longitude: -63.80859
 glottocode: urue1240
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Amondava-Uru-Eu-Wau-Wau > Uru-Eu-Wau-Wau"
+wikidata_id: Q10266012
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru-Eu-Wau-Wau_dialect"
 translations:
   - translation_iso: ara

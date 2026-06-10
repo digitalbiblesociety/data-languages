@@ -6,12 +6,15 @@ population: 1500
 country_id: TH
 country_name: Thailand
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 8.16761
 longitude: 98.31762
 glottocode: mokl1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Moken-Moklen > Moklen"
+wikidata_id: Q3319380
 wikipedia_url: "https://en.wikipedia.org/wiki/Moklen_language"
 translations:
   - translation_iso: ara

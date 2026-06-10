@@ -7,12 +7,15 @@ population: 986000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.25725
 longitude: 96.385495
 glottocode: tase1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > North Patkaian > Tangsa > Pangwa Naga"
+wikidata_id: Q56350
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangsa_language"
 translations:
   - translation_iso: ara

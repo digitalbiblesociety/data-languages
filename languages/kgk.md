@@ -7,12 +7,15 @@ population: 18000
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -24.58898
 longitude: -54.681455
 glottocode: kaiw1246
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Kaiowa > Kaiwá"
+wikidata_id: Q3111883
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiw%C3%A1_language"
 translations:
   - translation_iso: ara

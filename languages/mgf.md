@@ -7,12 +7,15 @@ population: 120
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.74424
 longitude: 139.27339
 glottocode: makl1246
 glottolog_family_id: bula1259
 glottolog_family_name: Bulaka River
 glottolog_classification: "Bulaka River > Maklew"
+wikidata_id: Q6739816
 wikipedia_url: "https://en.wikipedia.org/wiki/Maklew_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 73000
 country_id: LK
 country_name: Sri Lanka
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.10588
 longitude: 79.85696
 glottocode: sril1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > Sri Lankan Sign Language"
+wikidata_id: Q3915466
 wikipedia_url: "https://en.wikipedia.org/wiki/Sri_Lankan_Sign_Language"
 translations:
   - translation_iso: ara

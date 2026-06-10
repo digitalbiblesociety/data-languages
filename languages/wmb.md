@@ -7,12 +7,15 @@ population: 43
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -17.49595
 longitude: 135.68289
 glottocode: wamb1258
 glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Ngurlun > Wambayan"
+wikidata_id: Q2083197
 wikipedia_url: "https://en.wikipedia.org/wiki/Wambaya_language"
 translations:
   - translation_iso: ara

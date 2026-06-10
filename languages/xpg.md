@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 39.613
 longitude: 31.28
 glottocode: phry1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Phrygian"
+wikidata_id: Q36751
 wikipedia_url: "https://en.wikipedia.org/wiki/Phrygian_language"
 translations:
   - translation_iso: ara

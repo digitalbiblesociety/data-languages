@@ -7,12 +7,15 @@ population: 510000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.78685
 longitude: 18.07767
 glottocode: naba1253
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Morom-Jaya-Naba > Naba-Berakou > Naba"
+wikidata_id: Q760732
 wikipedia_url: "https://en.wikipedia.org/wiki/Naba_language"
 translations:
   - translation_iso: ara

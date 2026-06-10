@@ -6,12 +6,15 @@ population: 7810
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.66062
 longitude: 150.20977
 glottocode: suau1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > Suauic > Suau chain > Suau"
+wikidata_id: Q3502368
 wikipedia_url: "https://en.wikipedia.org/wiki/Suau_language"
 translations:
   - translation_iso: ara

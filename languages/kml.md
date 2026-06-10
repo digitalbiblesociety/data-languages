@@ -7,12 +7,15 @@ population: 11200
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.34407
 longitude: 121.31148
 glottocode: lowe1412
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Southeastern Kalinga > Tanudan Kalinga"
+wikidata_id: Q18753307
 translations:
   - translation_iso: ara
     name: لغة تانودان كالينجا

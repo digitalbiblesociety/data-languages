@@ -7,12 +7,15 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -13.921
 longitude: 143.32815
 glottocode: umbi1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umbindhamuic > Umbindhamu"
+wikidata_id: Q7881346
 wikipedia_url: "https://en.wikipedia.org/wiki/Umpithamu_language"
 translations:
   - translation_iso: ara

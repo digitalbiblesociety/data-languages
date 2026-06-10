@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 34.27
 longitude: 108.9
 glottocode: midd1344
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Middle Chinese"
+wikidata_id: Q2016252
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Chinese"
 translations:
   - translation_iso: ara

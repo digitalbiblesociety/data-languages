@@ -1,5 +1,6 @@
 ---
 iso: aar
+iso639_1: aa
 name: Afar
 autonym: Qafar af
 alt_names: ["\"Danakil\"", "\"Denkel\"", Adal, Afaraf, Afareg, Afariko, Danakäli, Qafar, Qafár af, "`Afar Af"]
@@ -7,6 +8,8 @@ population: 2541000
 country_id: ET
 country_name: Ethiopia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 12.228107
 longitude: 41.808293
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: afar1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Saho-Afar > Afar"
+wikidata_id: Q27811
 wikipedia_url: "https://en.wikipedia.org/wiki/Afar_language"
 translations:
   - translation_iso: ara

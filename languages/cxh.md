@@ -5,12 +5,15 @@ alt_names: [Caari, Chaari, Chari, Cààrí, Danche, Danshe]
 population: 400
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.00982
 longitude: 9.20784
 glottocode: dans1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zeemic > Nuclear Zeemic > Chaari"
+wikidata_id: Q50934243
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaari_language"
 translations:
   - translation_iso: ara

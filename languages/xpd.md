@@ -7,9 +7,12 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -42.307378
 longitude: 147.50061
 glottocode: oyst1235
+wikidata_id: Q7136678
 wikipedia_url: "https://en.wikipedia.org/wiki/Paredarerme_language"
 translations:
   - translation_iso: ara

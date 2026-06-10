@@ -7,12 +7,15 @@ population: 1400
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.38855
 longitude: 29.5803
 glottocode: tese1238
 glottolog_family_id: teme1251
 glottolog_family_name: Temeinic
 glottolog_classification: "Temeinic > Tese"
+wikidata_id: Q16887296
 wikipedia_url: "https://en.wikipedia.org/wiki/Tese_language"
 translations:
   - translation_iso: ara

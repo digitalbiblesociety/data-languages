@@ -6,7 +6,10 @@ population: 2400000
 country_id: IN
 country_name: India
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Deva, Telu]
+wikidata_id: Q1775361
 wikipedia_url: "https://en.wikipedia.org/wiki/Gondi_language"
 translations:
   - translation_iso: ara

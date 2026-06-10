@@ -6,12 +6,15 @@ population: 605
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.19922
 longitude: 155.49575
 glottocode: tora1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Mono-Uruavan > Torau"
+wikidata_id: Q3532208
 wikipedia_url: "https://en.wikipedia.org/wiki/Torau_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: bre
+iso639_1: br
 name: Breton
 autonym: brezhoneg
 alt_names: [An Bhriotáinis, Breatannais, Bretainiera, Bretoens, Breton leid, Bretonagiella, Bretonca, Bretonek, Bretoni, Bretonisch, Bretonisk, Bretons, Bretonsk, Bretonska, Brettonish, Bretun, Bretó, Bretón, Bretónska, Britaanish, Britun simi, Burton, Lenghe bretone, Llydaweg, Luenga bretona, Łéngoa brètona, ברטונית, برېتون تىلى]
@@ -7,6 +8,8 @@ population: 206000
 country_id: FR
 country_name: France
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 48.24523
 longitude: -3.78934
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: bret1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Southwestern Brythonic > Middle-Modern Southwestern Brythonic > Bretonic > Breton"
+wikidata_id: Q12107
 wikipedia_url: "https://en.wikipedia.org/wiki/Breton_language"
 translations:
   - translation_iso: ara

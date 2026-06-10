@@ -6,8 +6,11 @@ population: 2360
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.06837
 longitude: 101.21064
+wikidata_id: Q6414519
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiorr_language"
 translations:
   - translation_iso: ara

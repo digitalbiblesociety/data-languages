@@ -7,12 +7,15 @@ population: 18000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.30027
 longitude: 108.31809
 glottocode: sout3010
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Chruic > Southern Roglai"
+wikidata_id: Q12953069
 translations:
   - translation_iso: ara
     name: ساذرن روجلاي

@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.41642
 longitude: 136.70289
 glottocode: wola1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Paniai Lakes > Mee-Wodani > Wolani"
+wikidata_id: Q8029704
 wikipedia_url: "https://en.wikipedia.org/wiki/Wolani_language"
 translations:
   - translation_iso: ara

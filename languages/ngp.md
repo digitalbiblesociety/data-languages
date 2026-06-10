@@ -7,12 +7,15 @@ population: 215000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.79734
 longitude: 37.68227
 glottocode: ngul1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Seuta > Zigua-Nguu > Ngulu"
+wikidata_id: Q7193332
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngulu_language"
 translations:
   - translation_iso: ara

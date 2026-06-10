@@ -7,12 +7,15 @@ population: 48400
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.49464
 longitude: 127.08042
 glottocode: fata1247
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > East Timor > Fataluku-Oirata > Fataluku"
+wikidata_id: Q35353
 wikipedia_url: "https://en.wikipedia.org/wiki/Fataluku_language"
 translations:
   - translation_iso: ara

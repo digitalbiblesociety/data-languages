@@ -1,5 +1,6 @@
 ---
 iso: spv
+macrolanguage_id: ori
 name: Sambalpuri
 autonym: Dom
 alt_names: [Kosli]
@@ -7,12 +8,15 @@ population: 2630000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 21.2233
 longitude: 83.9315
 glottocode: samb1325
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Sambalpuri"
+wikidata_id: Q6433240
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambalpuri_language"
 translations:
   - translation_iso: ara

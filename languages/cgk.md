@@ -7,12 +7,15 @@ population: 20000
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.46961
 longitude: 91.21954
 glottocode: choc1275
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Chocangacakha"
+wikidata_id: Q56604
 wikipedia_url: "https://en.wikipedia.org/wiki/Chochangachakha_language"
 translations:
   - translation_iso: ara

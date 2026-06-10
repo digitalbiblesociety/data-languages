@@ -7,12 +7,15 @@ population: 60000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.983995
 longitude: 10.70849
 glottocode: tigo1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Tigon Mbembe"
+wikidata_id: Q36518
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigon_language"
 translations:
   - translation_iso: ara

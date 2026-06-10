@@ -7,6 +7,8 @@ population: 862000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.50768
 longitude: -6.15264
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ceba1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > Senari"
+wikidata_id: Q10975121
 wikipedia_url: "https://en.wikipedia.org/wiki/Cebaara_language"
 translations:
   - translation_iso: ara

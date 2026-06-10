@@ -7,12 +7,15 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: historical
 latitude: 52.582
 longitude: -4.089
 glottocode: oldw1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Old-Modern Welsh > Old-Middle Welsh"
+wikidata_id: Q2266723
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Welsh"
 translations:
   - translation_iso: ara

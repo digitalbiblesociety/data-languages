@@ -7,12 +7,15 @@ population: 41400
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.52052
 longitude: 107.33902
 glottocode: maaa1253
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Koho-Maa > Maa"
+wikidata_id: Q12953680
 translations:
   - translation_iso: ara
     name: الماا

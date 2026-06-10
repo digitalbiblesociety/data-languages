@@ -1,12 +1,16 @@
 ---
 iso: mon
+iso639_1: mn
 name: Mongolian
 autonym: монгол хэл
 population: 3225000
 country_id: MN
 country_name: Mongolia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cyrl, Mong, Phag]
+wikidata_id: Q9246
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongolian_language"
 translations:
   - translation_iso: ara

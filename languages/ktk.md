@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -1.51777
 longitude: 145.08559
 glottocode: kani1282
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Anchorite > Kaniet"
+wikidata_id: Q3399050
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaniet_language"
 translations:
   - translation_iso: ara

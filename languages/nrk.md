@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
 latitude: -20.20748
 longitude: 119.30579
 glottocode: ngar1296
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Northern Ngayarda > Ngarla"
+wikidata_id: Q3915860
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarla_language"
 translations:
   - translation_iso: ara

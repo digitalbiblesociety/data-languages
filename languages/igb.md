@@ -7,12 +7,15 @@ population: 2000000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.15516
 longitude: 7.06183
 glottocode: ebir1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Ebira"
+wikidata_id: Q35363
 wikipedia_url: "https://en.wikipedia.org/wiki/Ebira_language"
 translations:
   - translation_iso: ara

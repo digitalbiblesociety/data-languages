@@ -6,12 +6,15 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.74322
 longitude: 140.59074
 glottocode: tofa1246
 glottolog_family_id: naml1239
 glottolog_family_name: Namla-Tofanma
 glottolog_classification: "Namla-Tofanma > Tofanma"
+wikidata_id: Q4461493
 wikipedia_url: "https://en.wikipedia.org/wiki/Tofanma_language"
 translations:
   - translation_iso: ara

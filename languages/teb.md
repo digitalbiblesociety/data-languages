@@ -6,8 +6,11 @@ population: null
 country_id: EC
 country_name: Ecuador
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -0.02668
 longitude: -76.5761
+wikidata_id: Q7706087
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetet%C3%A9_language"
 translations:
   - translation_iso: ara

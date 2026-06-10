@@ -7,12 +7,15 @@ population: 13200
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.93744
 longitude: 160.96526
 glottocode: kwai1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > Kwaio"
+wikidata_id: Q3200796
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwaio_language"
 translations:
   - translation_iso: ara

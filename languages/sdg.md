@@ -7,12 +7,15 @@ population: 3000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.30291
 longitude: 71.55567
 glottocode: savi1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Western Shinaic > Sauji"
+wikidata_id: Q3474654
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawi_language_(Dardic)"
 translations:
   - translation_iso: ara

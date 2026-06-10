@@ -7,12 +7,15 @@ population: 100
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.0839
 longitude: 9.76103
 glottocode: mang1416
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Boghomic > Kir-Mangas > Mangas"
+wikidata_id: Q3438780
 wikipedia_url: "https://en.wikipedia.org/wiki/Mantsi_language_(Nigeria)"
 translations:
   - translation_iso: ara

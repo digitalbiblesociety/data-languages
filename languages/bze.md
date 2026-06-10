@@ -7,6 +7,8 @@ population: 197000
 country_id: ML
 country_name: Mali
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.5
 longitude: -4
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: jena1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Bozo > Nuclear Bozo > Jenaama Bozo"
+wikidata_id: Q10950633
 translations:
   - translation_iso: ara
     name: جيناما بوزو

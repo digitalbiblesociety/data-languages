@@ -1,5 +1,6 @@
 ---
 iso: diq
+macrolanguage_id: zza
 name: Dimli
 autonym: Dimili
 alt_names: [Dimlī, Southern Zaza, Zaza, Zazaki]
@@ -7,12 +8,15 @@ population: 1280000
 country_id: TR
 country_name: Turkey
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 38.61469
 longitude: 39.63882
 glottocode: diml1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Zaza > Dimli"
+wikidata_id: Q3943996
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Zaza"
 translations:
   - translation_iso: ara

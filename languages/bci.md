@@ -7,6 +7,8 @@ population: 4645060
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.42509
 longitude: -4.76565
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: baou1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Baoulé"
+wikidata_id: Q35107
 wikipedia_url: "https://en.wikipedia.org/wiki/Baoul%C3%A9_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10000
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.37317
 longitude: 90.39465
 glottocode: nyen1254
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Upper Mangdep"
+wikidata_id: Q3695185
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyen_language"
 translations:
   - translation_iso: ara

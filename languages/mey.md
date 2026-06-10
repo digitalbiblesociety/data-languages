@@ -7,6 +7,8 @@ population: 9660400
 country_id: MR
 country_name: Mauritania
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 20.14644
 longitude: -2.40278
 scripts: [Arab, Latn]
@@ -14,6 +16,7 @@ glottocode: hass1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Hassaniyya"
+wikidata_id: Q56231
 wikipedia_url: "https://en.wikipedia.org/wiki/Hassaniya_Arabic"
 translations:
   - translation_iso: ara

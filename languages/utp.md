@@ -7,12 +7,15 @@ population: 590
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -11.29577
 longitude: 166.49752
 glottocode: amba1266
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Amba (Solomon Islands)"
+wikidata_id: Q2841465
 wikipedia_url: "https://en.wikipedia.org/wiki/Amba_language_(Solomon_Islands)"
 translations:
   - translation_iso: ara

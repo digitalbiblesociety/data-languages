@@ -7,12 +7,15 @@ population: 50200
 country_id: SN
 country_name: Senegal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.542075
 longitude: -13.176955
 glottocode: wame1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Wamey"
+wikidata_id: Q36935
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamey"
 translations:
   - translation_iso: ara

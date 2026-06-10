@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -2.935
 longitude: 132.294
 glottocode: ihab1241
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Iha-based pidgin > Iha-based Pidgin"
+wikidata_id: Q12639686
 translations:
   - translation_iso: ara
     name: إيها بيسد بيدجن

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -24.97935
 longitude: 151.69855
 glottocode: baya1257
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Rockhampton-Gladstone > Bayali"
+wikidata_id: Q4874263
 wikipedia_url: "https://en.wikipedia.org/wiki/Bayali_language"
 translations:
   - translation_iso: ara

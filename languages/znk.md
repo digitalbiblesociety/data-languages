@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.361
 longitude: 132.352
 glottocode: mana1248
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Iwaidjan Proper (Unattested) > Manangkari"
+wikidata_id: Q6746906
 wikipedia_url: "https://en.wikipedia.org/wiki/Manangkari_language"
 translations:
   - translation_iso: ara

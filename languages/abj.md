@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 12.37822
 longitude: 92.78178
 glottocode: akab1249
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > South Great Andamanese > Akabea"
+wikidata_id: Q2356391
 wikipedia_url: "https://en.wikipedia.org/wiki/Akabea"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 110520
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.8658
 longitude: 12.74729
 glottocode: momj1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Northern Samba-Duru > Vere-Gimme > Vere > Mom Jango"
+wikidata_id: Q35862
 wikipedia_url: "https://en.wikipedia.org/wiki/Vere_language"
 translations:
   - translation_iso: ara

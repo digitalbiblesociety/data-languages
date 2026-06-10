@@ -7,12 +7,15 @@ population: 2500
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.03239
 longitude: 83.89586
 glottocode: lowa1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Mustangic > Lowa"
+wikidata_id: Q12952744
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhowa_language"
 translations:
   - translation_iso: ara

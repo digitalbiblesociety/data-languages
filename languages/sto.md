@@ -7,12 +7,15 @@ population: 2300
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 51.19392
 longitude: -114.98424
 glottocode: ston1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Nakoda > Stoney"
+wikidata_id: Q3033570
 wikipedia_url: "https://en.wikipedia.org/wiki/Stoney_language"
 translations:
   - translation_iso: ara

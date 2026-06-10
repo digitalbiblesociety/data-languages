@@ -7,12 +7,15 @@ population: 1200
 country_id: CN
 country_name: China
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 50.63193
 longitude: 125.01685
 glottocode: oroq1238
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Oroqen"
+wikidata_id: Q1367309
 wikipedia_url: "https://en.wikipedia.org/wiki/Oroqen_language"
 translations:
   - translation_iso: ara

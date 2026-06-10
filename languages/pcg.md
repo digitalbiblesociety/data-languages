@@ -7,12 +7,15 @@ population: 22800
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.73182
 longitude: 76.07794
 glottocode: pani1256
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Ravulic > Paniya"
+wikidata_id: Q7131211
 wikipedia_url: "https://en.wikipedia.org/wiki/Paniya_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 36
 country_id: TD
 country_name: Chad
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 9.42495
 longitude: 17.91361
 glottocode: noyy1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Unclassified Riverine Bua > Noy"
+wikidata_id: Q36321
 wikipedia_url: "https://en.wikipedia.org/wiki/Noy_language"
 translations:
   - translation_iso: ara

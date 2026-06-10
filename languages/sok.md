@@ -7,12 +7,15 @@ population: 5000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.46343
 longitude: 17.64235
 glottocode: soko1263
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Saba-Sokoro-Tamki > Sokoro"
+wikidata_id: Q3441303
 wikipedia_url: "https://en.wikipedia.org/wiki/Sokoro_language"
 translations:
   - translation_iso: ara

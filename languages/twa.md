@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 47.7419
 longitude: -121.76538
 glottocode: twan1247
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Twana"
+wikidata_id: Q7857412
 wikipedia_url: "https://en.wikipedia.org/wiki/Twana_language"
 translations:
   - translation_iso: ara

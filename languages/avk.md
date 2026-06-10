@@ -6,11 +6,14 @@ population: 50
 country_id: FR
 country_name: France
 status_id: null
+scope: individual
+language_type: constructed
 scripts: [Latn]
 glottocode: kota1280
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Kotava"
+wikidata_id: Q1377116
 wikipedia_url: "https://en.wikipedia.org/wiki/Kotava"
 translations:
   - translation_iso: ara

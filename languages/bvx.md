@@ -7,12 +7,15 @@ population: 4000
 country_id: CG
 country_name: Congo
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.07773
 longitude: 17.23047
 glottocode: dibo1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Dibole"
+wikidata_id: Q35180
 wikipedia_url: "https://en.wikipedia.org/wiki/Bole_language_(Bantu)"
 translations:
   - translation_iso: ara

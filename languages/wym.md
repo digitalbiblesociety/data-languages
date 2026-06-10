@@ -7,12 +7,15 @@ population: 70
 country_id: PL
 country_name: Poland
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 49.91617
 longitude: 19.15195
 glottocode: wymy1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Wymysorys"
+wikidata_id: Q56485
 wikipedia_url: "https://en.wikipedia.org/wiki/Wymysorys"
 translations:
   - translation_iso: ara

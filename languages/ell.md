@@ -1,5 +1,6 @@
 ---
 iso: ell
+iso639_1: el
 name: Modern Greek
 autonym: Νέα Ελληνικά
 alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Novogréčtina, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), יוונית מודרנית]
@@ -7,6 +8,8 @@ population: 13500000
 country_id: GR
 country_name: Greece
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 42.322386
 longitude: 24.869938
 scripts: [Grek]
@@ -14,6 +17,7 @@ glottocode: mode1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Nuclear Modern Greek > Modern Greek"
+wikidata_id: Q36510
 wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Greek"
 translations:
   - translation_iso: ara

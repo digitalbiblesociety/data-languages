@@ -7,9 +7,12 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 28.258909
 longitude: -97.890015
 glottocode: coah1252
+wikidata_id: Q2008062
 wikipedia_url: "https://en.wikipedia.org/wiki/Coahuilteco_language"
 translations:
   - translation_iso: ara

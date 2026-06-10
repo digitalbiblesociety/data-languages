@@ -7,12 +7,15 @@ population: 1419
 country_id: TD
 country_name: Chad
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 13.1748
 longitude: 20.6354
 glottocode: kara1484
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Karanga"
+wikidata_id: Q713643
 wikipedia_url: "https://en.wikipedia.org/wiki/Karanga_language"
 translations:
   - translation_iso: ara

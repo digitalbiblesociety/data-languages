@@ -7,12 +7,15 @@ population: 1000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.65994
 longitude: 12.8574
 glottocode: kolc1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Western A80 > Makaaic > Southern Makaaic > Kol (Cameroon)"
+wikidata_id: Q35582
 wikipedia_url: "https://en.wikipedia.org/wiki/Kol_language_(Cameroon)"
 translations:
   - translation_iso: ara

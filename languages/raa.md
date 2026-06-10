@@ -7,12 +7,15 @@ population: 220
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.98127
 longitude: 87.33279
 glottocode: dung1252
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Dungmali"
+wikidata_id: Q56871
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungmali_language"
 translations:
   - translation_iso: ara

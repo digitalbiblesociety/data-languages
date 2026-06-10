@@ -7,12 +7,15 @@ population: 8
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -17.45162
 longitude: 145.5442
 glottocode: dyir1250
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Dyirbal"
+wikidata_id: Q35465
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyirbal_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 33000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.7801
 longitude: 143.05898
 glottocode: ambu1247
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Ambulas-Hanga-Hundi > Ambulas"
+wikidata_id: Q3508015
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambulas_language"
 translations:
   - translation_iso: ara

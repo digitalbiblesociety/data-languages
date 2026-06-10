@@ -6,12 +6,15 @@ population: 25000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.67567
 longitude: 11.52005
 glottocode: diji1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Tula-Longuda > Tula-Waja > Tulaic > Dijim-Bwilim"
+wikidata_id: Q3438350
 wikipedia_url: "https://en.wikipedia.org/wiki/Dikaka_language"
 translations:
   - translation_iso: ara

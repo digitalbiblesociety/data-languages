@@ -7,12 +7,15 @@ population: 76000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.85807
 longitude: 94.62794
 glottocode: sang1321
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Central Naga > Sangtam Naga"
+wikidata_id: Q7418144
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangtam_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 95900
 country_id: CG
 country_name: Congo
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.98028
 longitude: 13.86035
 glottocode: teke1281
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Teke-Tsaayi"
+wikidata_id: Q33123613
 translations:
   - translation_iso: ara
     name: تيكي تسعي

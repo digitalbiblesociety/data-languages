@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -17.491239
 longitude: 122.230025
 glottocode: ngum1253
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Unclassified Eastern Nyulnyulan > Ngumbarl"
+wikidata_id: Q7022690
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngumbarl_language"
 translations:
   - translation_iso: ara

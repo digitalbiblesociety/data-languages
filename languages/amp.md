@@ -7,12 +7,15 @@ population: 1530
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.66307
 longitude: 143.31576
 glottocode: alam1246
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Eastern Sepik Hill > Alamblak"
+wikidata_id: Q56688
 wikipedia_url: "https://en.wikipedia.org/wiki/Alamblak_language"
 translations:
   - translation_iso: ara

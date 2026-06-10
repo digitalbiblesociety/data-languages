@@ -6,7 +6,10 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: null
+scope: individual
+language_type: historical
 scripts: [Lina]
+wikidata_id: Q30972
 wikipedia_url: "https://en.wikipedia.org/wiki/Linear_A"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 72900
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.28528
 longitude: 108.49012
 scripts: [Arab, Cham]
@@ -14,6 +16,7 @@ glottocode: east2563
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Cham > Eastern Cham"
+wikidata_id: Q2948019
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Cham_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 670
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.56161
 longitude: 141.22623
 glottocode: blaf1238
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Mblafe-Ránmo"
+wikidata_id: Q12628007
 wikipedia_url: "https://en.wikipedia.org/wiki/Blafe_language"
 translations:
   - translation_iso: ara

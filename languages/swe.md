@@ -1,5 +1,6 @@
 ---
 iso: swe
+iso639_1: sv
 name: Swedish
 autonym: svenska
 alt_names: [An tSualainnis, Dalécarlien, Escaniano, Gutnisk, IsiSwidishi, Kiswidi, Roodsi kiil, Ruotsi, Ruoŧagiella, Scanien, Schwedisch, Soolynnish, Suainis, Suec, Suecu, Suediana linguo, Suediera, Suedés, Suwiri simi, Suèdouès, Suédois, Svedeg, Svedes, Svensk, Sverige-gí, Swadish leid, Swedeg, Swedek, Swedgbe, Sweeds, Sweedsk, Swêdki, Sænska, Sƿēonisc sprǣc, Västerbotten, Zweeds, İsveç tili, İsveççe, Łéngua svedexe, Забони шведӣ, Свє́ньскъ ѩꙁꙑ́къ, Швед йылме, Швед маз, Шведонь кяль, Шведэнь кель, Շվեդերեն, שבדית, שוועדיש, سونسکا, سويدى, شۋېتسىيە تىلى, ܠܫܢܐ ܣܘܝܕܝܐ, ސުވެޑިޝް, ᏑᏪᏗ, ᔅᕗᓐᔅᑭᑐᑦ]
@@ -7,6 +8,8 @@ population: 13055000
 country_id: SE
 country_name: Sweden
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 59.800634
 longitude: 17.389526
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: swed1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > North Scandinavian > East-Central Swedic > East Swedic > Swedish"
+wikidata_id: Q9027
 wikipedia_url: "https://en.wikipedia.org/wiki/Swedish_language"
 translations:
   - translation_iso: ara

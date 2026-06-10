@@ -7,12 +7,15 @@ population: 909000
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 56
 longitude: 44
 glottocode: russ1255
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Russian-Tajik Sign Language"
+wikidata_id: Q13210
 wikipedia_url: "https://en.wikipedia.org/wiki/Russian_Sign_Language"
 translations:
   - translation_iso: ara

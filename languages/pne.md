@@ -7,12 +7,15 @@ population: 3400
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.466695
 longitude: 114.522565
 glottocode: west2563
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Lowland Kenyah > Western Lowland Kenyah-Penan > Penan > Western Penan-Sebop > Western Penan"
+wikidata_id: Q12953808
 translations:
   - translation_iso: ara
     name: اللغة بينان الغربية

@@ -7,12 +7,15 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 38.63471
 longitude: 23.21639
 glottocode: roma1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Nuclear Modern Greek > Romano-Greek"
+wikidata_id: Q3915435
 wikipedia_url: "https://en.wikipedia.org/wiki/Romano-Greek"
 translations:
   - translation_iso: ara

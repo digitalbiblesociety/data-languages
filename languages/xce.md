@@ -7,12 +7,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: historical
 latitude: 41.279
 longitude: -2.53
 glottocode: celt1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Celtiberian"
+wikidata_id: Q37012
 wikipedia_url: "https://en.wikipedia.org/wiki/Celtiberian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 575000
 country_id: TR
 country_name: Turkey
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 37.1129
 longitude: 42.143185
 glottocode: clas1252
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Classical Syriac"
+wikidata_id: Q33538
 wikipedia_url: "https://en.wikipedia.org/wiki/Syriac_language"
 translations:
   - translation_iso: ara

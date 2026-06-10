@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 36.80439
 longitude: -96.85712
 glottocode: kans1243
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Osage-Kansa > Kansa"
+wikidata_id: Q3192772
 wikipedia_url: "https://en.wikipedia.org/wiki/Kansa_language"
 translations:
   - translation_iso: ara

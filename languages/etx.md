@@ -7,12 +7,15 @@ population: 40000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.73073
 longitude: 8.61443
 glottocode: eten1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Iten-Cara-Berom > Eten"
+wikidata_id: Q3915392
 wikipedia_url: "https://en.wikipedia.org/wiki/Eten_language"
 translations:
   - translation_iso: ara

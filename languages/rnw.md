@@ -7,12 +7,15 @@ population: 18000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.24959
 longitude: 31.76141
 glottocode: rung1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Fipaic > Maluwawaru > Rungwa"
+wikidata_id: Q7379873
 wikipedia_url: "https://en.wikipedia.org/wiki/Rungwa_language"
 translations:
   - translation_iso: ara

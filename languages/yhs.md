@@ -6,6 +6,9 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q61951665
 translations:
   - translation_iso: ara
     name: لغة يان-نهانغو الإشارة

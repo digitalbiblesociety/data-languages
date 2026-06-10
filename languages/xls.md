@@ -7,12 +7,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: historical
 latitude: 39.943975
 longitude: -8.105283
 glottocode: lusi1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Unclassified Italic > Lusitanian"
+wikidata_id: Q35960
 wikipedia_url: "https://en.wikipedia.org/wiki/Lusitanian_language"
 translations:
   - translation_iso: ara

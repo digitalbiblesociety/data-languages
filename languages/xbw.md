@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -8.16666
 longitude: -37.49999
 glottocode: kamb1239
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kambiwá"
+wikidata_id: Q9006744
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambiw%C3%A1_language"
 translations:
   - translation_iso: ara

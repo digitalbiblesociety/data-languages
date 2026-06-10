@@ -7,12 +7,15 @@ population: 9350
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 54.37681
 longitude: -124.32759
 glottocode: carr1249
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central British Columbia Athabaskan > Carrieric > Dakelh > Central Carrier"
+wikidata_id: Q20614
 wikipedia_url: "https://en.wikipedia.org/wiki/Carrier_language"
 translations:
   - translation_iso: ara

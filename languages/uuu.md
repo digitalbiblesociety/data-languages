@@ -7,12 +7,15 @@ population: 30000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 22.67668
 longitude: 101.77163
 glottocode: uuuu1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > U"
+wikidata_id: Q953082
 wikipedia_url: "https://en.wikipedia.org/wiki/U_language"
 translations:
   - translation_iso: ara

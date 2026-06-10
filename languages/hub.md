@@ -7,12 +7,15 @@ population: 10200
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.99109
 longitude: -77.97965
 glottocode: huam1247
 glottolog_family_id: jiva1245
 glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Shuaric > Huambisa-Shuar > Huambisa"
+wikidata_id: Q1526037
 wikipedia_url: "https://en.wikipedia.org/wiki/Huambisa_language"
 translations:
   - translation_iso: ara

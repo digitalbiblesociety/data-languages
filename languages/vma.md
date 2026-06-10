@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: extinct
 latitude: -20.92944
 longitude: 116.6074
 glottocode: mart1255
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Martuthunira"
+wikidata_id: Q975399
 wikipedia_url: "https://en.wikipedia.org/wiki/Martuthunira_language"
 translations:
   - translation_iso: ara

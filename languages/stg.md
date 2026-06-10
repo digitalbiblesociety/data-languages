@@ -7,12 +7,15 @@ population: 15000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.50022
 longitude: 107.51545
 glottocode: trie1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Triengic > Trieng"
+wikidata_id: Q13018603
 translations:
   - translation_iso: ara
     name: اللغة تريينج

@@ -6,12 +6,15 @@ population: 11000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.39956
 longitude: 28.31376
 glottocode: bang1345
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mayogo-Bangba > Bangba"
+wikidata_id: Q34895
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangba_language"
 translations:
   - translation_iso: ara

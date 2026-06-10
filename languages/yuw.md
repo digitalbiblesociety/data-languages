@@ -7,12 +7,15 @@ population: 2380
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.08274
 longitude: 146.84099
 glottocode: yaum1237
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Uruwa > Yau-Nungon"
+wikidata_id: Q12953319
 wikipedia_url: "https://en.wikipedia.org/wiki/Yau_language_(Trans%E2%80%93New_Guinea)"
 translations:
   - translation_iso: ara

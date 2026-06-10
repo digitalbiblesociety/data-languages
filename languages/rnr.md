@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q56525223
 wikipedia_url: "https://en.wikipedia.org/wiki/Nari-Nari_dialect"
 translations:
   - translation_iso: ara

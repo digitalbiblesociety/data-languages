@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -28.34583
 longitude: 152.85886
 glottocode: midd1357
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Greater Bandjalangic > Bandjalangic > Inland Bandjalang > Middle Clarence Bandjalang"
+wikidata_id: Q2980386
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugambeh%E2%80%93Bundjalung_languages"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ alt_names: [Bili, Bələ, Bɨlɨ, Polci]
 population: 22000
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.22809
 longitude: 9.77206
 glottocode: buli1260
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Buli (Bauchi State)"
+wikidata_id: Q116450348
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Nigeria)"
 translations:
   - translation_iso: ara

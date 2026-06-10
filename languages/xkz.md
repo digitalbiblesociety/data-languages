@@ -7,12 +7,15 @@ population: 10000
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.53654
 longitude: 90.98223
 glottocode: kurt1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Kurtokha"
+wikidata_id: Q3695193
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurt%C3%B6p_language"
 translations:
   - translation_iso: ara

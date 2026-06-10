@@ -7,12 +7,15 @@ population: 220
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -14.26798
 longitude: 131.23671
 glottocode: nang1259
 glottolog_family_id: sout2772
 glottolog_family_name: Southern Daly
 glottolog_classification: "Southern Daly > Nangikurrunggurr"
+wikidata_id: Q3298041
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngan%27gi_language"
 translations:
   - translation_iso: ara

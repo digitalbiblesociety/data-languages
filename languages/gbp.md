@@ -1,5 +1,6 @@
 ---
 iso: gbp
+macrolanguage_id: gba
 name: "Gbaya-Bossangoa"
 autonym: Gbaya de Bosangoa
 alt_names: [Gbaya, Gbaya of Borro, Gbaya of Bossangoa, Gbaya-Borro, Gbea, Gbeya, Gbeya Bossangoa, Gbeya-Bossangoa]
@@ -7,12 +8,15 @@ population: 200000
 country_id: CF
 country_name: Central African Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.61896
 longitude: 17.64498
 glottocode: gbay1287
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Gbeya > Gbeya-Suma > Gbaya-Bossangoa"
+wikidata_id: Q11011295
 translations:
   - translation_iso: ara
     name: جبايا-بوسانجوا

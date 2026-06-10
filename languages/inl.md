@@ -7,12 +7,15 @@ population: 810000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.908
 longitude: 112.378
 glottocode: indo1291
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Malaysian Sign > Indonesian Sign > Jakartan Sign Language"
+wikidata_id: Q3915477
 wikipedia_url: "https://en.wikipedia.org/wiki/Indonesian_Sign_Language"
 translations:
   - translation_iso: ara

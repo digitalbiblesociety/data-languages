@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 68.051787
 longitude: 162.958525
 glottocode: yuka1240
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Malyj Anjuj Omok"
+wikidata_id: Q4334657
 wikipedia_url: "https://en.wikipedia.org/wiki/Omok_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 11620
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.579755
 longitude: -69.57633
 glottocode: tuca1252
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Tucano"
+wikidata_id: Q3541834
 wikipedia_url: "https://en.wikipedia.org/wiki/Tucano_language"
 translations:
   - translation_iso: ara

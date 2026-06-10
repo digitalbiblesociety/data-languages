@@ -1,5 +1,6 @@
 ---
 iso: nya
+iso639_1: ny
 name: Nyanja
 autonym: Nyanja
 alt_names: [Cewa, Chewa, Chewa language, Chichewa, Chichewa simi, Chilankhulo cha Chichewa, Chinyanja, Tchitcheweg, Čeva, Ниянджа, Ньянджа]
@@ -7,6 +8,8 @@ population: 14381000
 country_id: MW
 country_name: Malawi
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -14.80472
 longitude: 32.810775
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: nyan1308
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Nyanjaic > Nyanja"
+wikidata_id: Q33273
 wikipedia_url: "https://en.wikipedia.org/wiki/Chewa_language"
 translations:
   - translation_iso: ara

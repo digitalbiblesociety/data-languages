@@ -7,12 +7,15 @@ population: 3240
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.95535
 longitude: 127.95318
 glottocode: boan1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > East Hoamoal > Boano (Maluku)"
+wikidata_id: Q4931255
 wikipedia_url: "https://en.wikipedia.org/wiki/Boano_language_(Maluku)"
 translations:
   - translation_iso: ara

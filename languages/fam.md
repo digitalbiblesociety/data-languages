@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.54277
 longitude: 10.50499
 glottocode: famm1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Unclassified Bantoid > Fam"
+wikidata_id: Q35290
 wikipedia_url: "https://en.wikipedia.org/wiki/Fam_language"
 translations:
   - translation_iso: ara

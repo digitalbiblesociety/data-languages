@@ -7,12 +7,15 @@ population: 458000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.17408
 longitude: 73.32069
 glottocode: kohi1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Kohistanic Shina > Kohistani Shina"
+wikidata_id: Q12953882
 wikipedia_url: "https://en.wikipedia.org/wiki/Kohistani_Shina"
 translations:
   - translation_iso: ara

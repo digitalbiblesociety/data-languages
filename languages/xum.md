@@ -6,6 +6,8 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 42.75
 longitude: 13.02
 scripts: [Ital, Latn]
@@ -13,6 +15,7 @@ glottocode: umbr1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Sabellic > Umbrian"
+wikidata_id: Q36957
 wikipedia_url: "https://en.wikipedia.org/wiki/Umbrian_language"
 translations:
   - translation_iso: ara

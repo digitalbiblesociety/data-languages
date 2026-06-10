@@ -7,12 +7,15 @@ population: 3000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.50481
 longitude: 126.40932
 glottocode: kara1489
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Eastern Mansakan > Mandaya"
+wikidata_id: Q6747925
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandaya_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -4.19566
 longitude: 152.18315
 glottocode: unse1236
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Global German > Unserdeutsch"
+wikidata_id: Q13244
 wikipedia_url: "https://en.wikipedia.org/wiki/Unserdeutsch"
 translations:
   - translation_iso: ara

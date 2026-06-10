@@ -7,12 +7,15 @@ population: 40000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.8704
 longitude: 121.25556
 glottocode: keoo1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Eastern Central Flores > Nage-Keo > Kéo"
+wikidata_id: Q3195346
 wikipedia_url: "https://en.wikipedia.org/wiki/K%C3%A9o_language"
 translations:
   - translation_iso: ara

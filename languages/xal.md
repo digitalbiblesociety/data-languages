@@ -7,6 +7,8 @@ population: 431800
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 46.75922
 longitude: 45.42443
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: kalm1243
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Eastern Mongolic > Khalkha-Buriat > Mongolian > Oirad-Kalmyk-Darkhat"
+wikidata_id: Q33634
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalmyk_Oirat"
 translations:
   - translation_iso: ara

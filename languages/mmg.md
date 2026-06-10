@@ -7,12 +7,15 @@ population: 5250
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -16.17409
 longitude: 168.13987
 glottocode: nort2839
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Ambrym > North Ambrym"
+wikidata_id: Q2842468
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Ambrym_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: qve
+macrolanguage_id: que
 name: Eastern Apurímac Quechua
 autonym: Qosqo runasimi
 alt_names: [East Apurimac Quechua, Eastern Apurimac Quechua, "Quechua, Eastern ApurÃ\u00admac", "Quechua, Eastern Apurímac"]
@@ -7,12 +8,15 @@ population: 200000
 country_id: PE
 country_name: Peru
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -14.17541
 longitude: -72.6686
 glottocode: east2551
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Cuscan Quechua > Eastern Apurímac Quechua"
+wikidata_id: Q12953838
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا أبورينتك الشرقية

@@ -7,12 +7,15 @@ population: 2800
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.57738
 longitude: -97.57591
 glottocode: ixta1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > Ixtayutla Mixtec"
+wikidata_id: Q6101163
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixtayutla_Mixtec"
 translations:
   - translation_iso: ara

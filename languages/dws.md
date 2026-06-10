@@ -6,10 +6,13 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: dutt1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Dutton World Speedwords"
+wikidata_id: Q2260786
 wikipedia_url: "https://en.wikipedia.org/wiki/Dutton_Speedwords"
 translations:
   - translation_iso: ara

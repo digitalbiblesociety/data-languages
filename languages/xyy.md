@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -35.9
 longitude: 145.01
 glottocode: yort1237
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Yorta Yorta"
+wikidata_id: Q8055849
 wikipedia_url: "https://en.wikipedia.org/wiki/Yorta_Yorta_language"
 translations:
   - translation_iso: ara

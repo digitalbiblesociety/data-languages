@@ -7,6 +7,8 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: historical
 latitude: 32
 longitude: 54
 scripts: [Xpeo]
@@ -14,6 +16,7 @@ glottocode: oldp1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Old Persian (ca. 600-400 B.C.)"
+wikidata_id: Q35225
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Persian"
 translations:
   - translation_iso: ara

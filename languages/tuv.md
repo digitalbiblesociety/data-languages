@@ -7,12 +7,15 @@ population: 1020000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.306875
 longitude: 35.71012
 glottocode: turk1308
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Turkana"
+wikidata_id: Q36958
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkana_language"
 translations:
   - translation_iso: ara

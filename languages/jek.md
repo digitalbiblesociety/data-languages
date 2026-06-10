@@ -7,12 +7,15 @@ population: 1500
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 9.3957
 longitude: -5.66717
 glottocode: jeri1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jeri > Jeli"
+wikidata_id: Q11031936
 translations:
   - translation_iso: ara
     name: لغة جيري كوو

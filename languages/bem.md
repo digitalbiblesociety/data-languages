@@ -7,6 +7,8 @@ population: 4110000
 country_id: ZM
 country_name: Zambia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: -10.612245
 longitude: 29.29926
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bemb1257
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bemba (M.40) > Bemba (Zambia)"
+wikidata_id: Q33052
 wikipedia_url: "https://en.wikipedia.org/wiki/Bemba_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 595
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -4.133
 longitude: -49.948
 glottocode: xipa1240
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Xipaya"
+wikidata_id: Q13226
 wikipedia_url: "https://en.wikipedia.org/wiki/Xipaya_language"
 translations:
   - translation_iso: ara

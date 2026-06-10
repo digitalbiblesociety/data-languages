@@ -1,5 +1,6 @@
 ---
 iso: vro
+macrolanguage_id: est
 name: Võro
 autonym: võro kiilʼ
 alt_names: [Dialekt von Võru, Voro, Voru, Vôru, Võro kiil, Võru, Werro]
@@ -7,6 +8,8 @@ population: 80000
 country_id: EE
 country_name: Estonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 57.85
 longitude: 27
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: sout2679
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > South Estonian"
+wikidata_id: Q13295
 wikipedia_url: "https://en.wikipedia.org/wiki/V%C3%B5ro_language"
 translations:
   - translation_iso: ara

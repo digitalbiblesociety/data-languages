@@ -7,9 +7,12 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 33.983333
 longitude: 40.333333
 glottocode: hatt1246
+wikidata_id: Q31107
 wikipedia_url: "https://en.wikipedia.org/wiki/Hattic_language"
 translations:
   - translation_iso: ara

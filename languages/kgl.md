@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -24.21819
 longitude: 143.22246
 glottocode: kung1258
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Kunggari"
+wikidata_id: Q10550184
 translations:
   - translation_iso: ara
     name: لغة كونغاري

@@ -7,12 +7,15 @@ population: 350
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.74255
 longitude: 145.3657
 glottocode: tauy1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Unclassified Rai Coast > Tauya"
+wikidata_id: Q7688978
 wikipedia_url: "https://en.wikipedia.org/wiki/Tauya_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 1810
 country_id: BO
 country_name: Bolivia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.74788
 longitude: -65.12241
 glottocode: yura1255
+wikidata_id: Q2640646
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuracar%C3%A9_language"
 translations:
   - translation_iso: ara

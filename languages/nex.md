@@ -6,12 +6,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.44877
 longitude: 141.84917
 glottocode: neme1244
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Neme"
+wikidata_id: Q12952941
 wikipedia_url: "https://en.wikipedia.org/wiki/Neme_language"
 translations:
   - translation_iso: ara

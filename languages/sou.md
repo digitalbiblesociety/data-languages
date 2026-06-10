@@ -7,6 +7,8 @@ population: 4508200
 country_id: TH
 country_name: Thailand
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.85668
 longitude: 99.7031
 scripts: [Thai]
@@ -14,6 +16,7 @@ glottocode: sout2746
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Lao-Thai > Southern Thai"
+wikidata_id: Q56508
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Thai_language"
 translations:
   - translation_iso: ara

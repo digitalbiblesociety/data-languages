@@ -7,12 +7,15 @@ population: 3530
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.01976
 longitude: 142.04893
 glottocode: siss1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sissanoic > Sissano"
+wikidata_id: Q7530937
 wikipedia_url: "https://en.wikipedia.org/wiki/Sissano_language"
 translations:
   - translation_iso: ara

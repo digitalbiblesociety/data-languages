@@ -7,12 +7,15 @@ population: 150
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.7922
 longitude: -69.90988
 glottocode: cara1245
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Carabayo"
+wikidata_id: Q3441762
 wikipedia_url: "https://en.wikipedia.org/wiki/Carabayo_language"
 translations:
   - translation_iso: ara

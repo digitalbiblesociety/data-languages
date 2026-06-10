@@ -7,9 +7,12 @@ population: null
 country_id: IQ
 country_name: Iraq
 status_id: null
+scope: individual
+language_type: historical
 latitude: 31.3
 longitude: 45.666667
 glottocode: sume1241
+wikidata_id: Q36790
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumerian_language"
 translations:
   - translation_iso: ara

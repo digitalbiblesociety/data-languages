@@ -7,12 +7,15 @@ population: 160
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 62.2976
 longitude: -155.95074
 glottocode: uppe1438
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Kuskokwim"
+wikidata_id: Q28062
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Kuskokwim_language"
 translations:
   - translation_iso: ara

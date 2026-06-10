@@ -1,14 +1,19 @@
 ---
 iso: bos
+iso639_1: bs
+macrolanguage_id: hbs
 name: Bosnian
 autonym: босански
 population: 3301000
 country_id: BA
 country_name: Bosnia and Herzegovina
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 42.93308
 longitude: 17.67044
 scripts: [Cyrl, Latn]
+wikidata_id: Q9303
 wikipedia_url: "https://en.wikipedia.org/wiki/Bosnian_language"
 translations:
   - translation_iso: ara

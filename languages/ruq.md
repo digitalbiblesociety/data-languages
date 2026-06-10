@@ -7,12 +7,15 @@ population: 3000
 country_id: GR
 country_name: Greece
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 41.11735
 longitude: 22.378175
 glottocode: megl1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Eastern Romanian > Megleno-Romanian"
+wikidata_id: Q13358
 wikipedia_url: "https://en.wikipedia.org/wiki/Megleno-Romanian_language"
 translations:
   - translation_iso: ara

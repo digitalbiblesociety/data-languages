@@ -7,12 +7,15 @@ population: 5000
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.85525
 longitude: -14.73717
 glottocode: mbul1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Mbulungish"
+wikidata_id: Q36003
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbulungish_language"
 translations:
   - translation_iso: ara

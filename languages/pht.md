@@ -7,12 +7,15 @@ population: null
 country_id: TH
 country_name: Thailand
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.754497
 longitude: 104.684233
 glottocode: phut1244
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Siamese > Phu Thai"
+wikidata_id: Q3626597
 wikipedia_url: "https://en.wikipedia.org/wiki/Phu_Thai_language"
 translations:
   - translation_iso: ara

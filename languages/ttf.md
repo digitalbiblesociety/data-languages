@@ -7,12 +7,15 @@ population: 1000
 country_id: CM
 country_name: Cameroon
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 4.65626
 longitude: 10.65924
 glottocode: tuot1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > West Mbam (A.40) > Tuotomb"
+wikidata_id: Q7853459
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuotomb_language"
 translations:
   - translation_iso: ara

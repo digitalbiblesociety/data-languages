@@ -1,5 +1,6 @@
 ---
 iso: spa
+iso639_1: es
 name: Spanish
 autonym: Castilian
 alt_names: [An Spáinnis, Bahsa Seupanyo, Castellano, Castellanu, Castellà, Castila, Castiliaans, Castilyan, Espagnol, Espanhòu, Español, Fiteny espaniola, Gaztelania, Hispaniana linguo, IsiSpanish, "Karaiñe'ẽ", Kastilla aru, Kastilla simi, Kihispania, Kinatsila, Lenghe spagnole, Lia-español, Lingwa Spanjola, Lispanyoli, Luenga española, Naakaii bizaad, Pagsasao nga Espaniol, Panyòl, Sbaeneg, Schbanisch, Se-pan-gâ-gí, Sipanishi, Spaainish, Spaans, Spaansche Spraak, Spaansk, Spagnoleg, Spagnö, Spainyie leid, Spangbe, Spanisch, Spanish bhasa, Spansk, Spanska, Spanum, Spaynek, Spoans, Spuenesch, Spàinntis, Spánskagiella, Spænska, Spēonisc sprǣc, Szpańelsko godka, Sî-pân-ngà-ngî, Tataramon na Espanyol, Tok Spen, castillan, sanbau, İspan tili, İspanyolca, Łéngoa spagnoła, Забони испанӣ, Испан йылме, Испан теле, Испан тыла, Իսպաներեն, ספרדית, שפאניש, ئىسپان تىلى, اسبانى, ܠܫܢܐ ܐܣܦܢܝܐ, އިސްޕެނިޝް, எசுப்பானியம், སེ་པན་སྐད།, ᏍᏆᏂ, ᓯᐸᐃᓂᑎᑐᑦ/sipainititut, ‘Ōlelo Sepania, 西班牙話, 𐌷𐌴𐌹𐍃𐍀𐌰𐌽𐍃𐌺𐍃]
@@ -7,6 +8,8 @@ population: 480000000
 country_id: ES
 country_name: Spain
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 40.441418
 longitude: -1.11788
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: stan1288
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > Spanish"
+wikidata_id: Q1321
 wikipedia_url: "https://en.wikipedia.org/wiki/Spanish_language"
 translations:
   - translation_iso: ara

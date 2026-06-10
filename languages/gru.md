@@ -7,12 +7,15 @@ population: 255000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.33561
 longitude: 38.47633
 glottocode: kist1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > N-Group > Kistane"
+wikidata_id: Q13273
 wikipedia_url: "https://en.wikipedia.org/wiki/Soddo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 26500
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.95763
 longitude: 16.59073
 glottocode: band1348
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Banda-Yangere"
+wikidata_id: Q8048561
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangere_language"
 translations:
   - translation_iso: ara

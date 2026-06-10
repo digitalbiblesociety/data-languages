@@ -7,12 +7,15 @@ population: 20200
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.1217
 longitude: 87.26985
 glottocode: kuma1274
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Malto > Kumarbhag Paharia"
+wikidata_id: Q3130374
 translations:
   - translation_iso: ara
     name: لغة كومارباج باهاريا

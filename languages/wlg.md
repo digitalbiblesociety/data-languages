@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.91327
 longitude: 133.72271
 glottocode: kunb1251
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Kunbarlang"
+wikidata_id: Q5618523
 wikipedia_url: "https://en.wikipedia.org/wiki/Gunbarlang_language"
 translations:
   - translation_iso: ara

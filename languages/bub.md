@@ -7,12 +7,15 @@ population: 7710
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.92491
 longitude: 18.08214
 glottocode: buaa1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Riverine Bua > Bua-Lua > Ba-Korom > Bua"
+wikidata_id: Q32928
 wikipedia_url: "https://en.wikipedia.org/wiki/Bua_language"
 translations:
   - translation_iso: ara

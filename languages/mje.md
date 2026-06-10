@@ -7,12 +7,15 @@ population: null
 country_id: TD
 country_name: Chad
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 11.5697
 longitude: 15.41126
 glottocode: musk1256
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Muskum"
+wikidata_id: Q3913334
 wikipedia_url: "https://en.wikipedia.org/wiki/Muskum_language"
 translations:
   - translation_iso: ara

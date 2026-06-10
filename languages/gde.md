@@ -7,12 +7,15 @@ population: 88000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.21381
 longitude: 13.403045
 glottocode: gude1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Fali-Gude > Gude"
+wikidata_id: Q3441230
 wikipedia_url: "https://en.wikipedia.org/wiki/Gude_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 23000
 country_id: IN
 country_name: India
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 30.074165
 longitude: 80.800455
 glottocode: rawa1264
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Raji-Raute > Raute-Rawat > Rawat"
+wikidata_id: Q7296948
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawat_language"
 translations:
   - translation_iso: ara

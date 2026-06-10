@@ -1,5 +1,6 @@
 ---
 iso: kaz
+iso639_1: kk
 name: Kazakh
 autonym: Kazak
 alt_names: [An Chasaicis, Cazac, Gazaqi, Hazake, Kaisak, Kasakhisk, Kasakska, Kazachs, Kazachsko godka, Kazakeg, Kazakhi, Kazakiska, Kazakça, Kazax, Kikazakhi, Kosach, Qasaq simi, Qazah tili, Qazaq, Qazaq tele, Qazaq tili, Qazaqi, Qozoq tili, Забони қазоқӣ, Казах тыла, Ҡазаҡ теле, קזחית, قازاق تىلى]
@@ -7,6 +8,8 @@ population: 12900000
 country_id: KZ
 country_name: Kazakhstan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 41.872878
 longitude: 65.770909
 scripts: [Arab, Cyrl]
@@ -14,6 +17,7 @@ glottocode: kaza1248
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > South Kipchak > Kazakh"
+wikidata_id: Q9252
 wikipedia_url: "https://en.wikipedia.org/wiki/Kazakh_language"
 translations:
   - translation_iso: ara

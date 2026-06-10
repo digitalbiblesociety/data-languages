@@ -7,12 +7,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.32531
 longitude: 134.63758
 glottocode: dobe1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Dobel-Koba > Dobel"
+wikidata_id: Q5286559
 wikipedia_url: "https://en.wikipedia.org/wiki/Dobel_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10800
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.100195
 longitude: -77.445325
 glottocode: woun1238
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Woun Meu"
+wikidata_id: Q3111873
 wikipedia_url: "https://en.wikipedia.org/wiki/Wounaan_language"
 translations:
   - translation_iso: ara

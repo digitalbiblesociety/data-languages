@@ -1,5 +1,6 @@
 ---
 iso: cjy
+macrolanguage_id: zho
 name: Jinyu Chinese
 autonym: 晋语 / 晉語
 alt_names: ["Chinese, Jinyu", "Chinese,Jinyu", Chino jin, Djineg, Jin, Jin Chinese, Jinish, Jinyu]
@@ -7,12 +8,15 @@ population: 63050000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 38.8284
 longitude: 111.27829
 glottocode: jiny1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Jinyu Chinese"
+wikidata_id: Q56479
 wikipedia_url: "https://en.wikipedia.org/wiki/Jin_Chinese"
 translations:
   - translation_iso: ara

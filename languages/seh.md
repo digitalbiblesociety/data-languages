@@ -7,6 +7,8 @@ population: 2030000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.79329
 longitude: 34.98294
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nucl1396
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Sena"
+wikidata_id: Q2964008
 wikipedia_url: "https://en.wikipedia.org/wiki/Sena_language"
 translations:
   - translation_iso: ara

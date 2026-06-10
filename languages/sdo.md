@@ -7,12 +7,15 @@ population: 49100
 country_id: MY
 country_name: Malaysia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.96817
 longitude: 110.657225
 glottocode: buka1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Bidayuh-Southern Land Dayak > Bidayuh > Bukar-Sadung Bidayuh"
+wikidata_id: Q2927799
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukar%E2%80%93Sadong_language"
 translations:
   - translation_iso: ara

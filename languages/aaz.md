@@ -7,12 +7,15 @@ population: 70000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.21751
 longitude: 123.96373
 glottocode: amar1273
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Amarasi"
+wikidata_id: Q4740192
 wikipedia_url: "https://en.wikipedia.org/wiki/Amarasi_language"
 translations:
   - translation_iso: ara

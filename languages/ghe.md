@@ -7,12 +7,15 @@ population: 2000
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.10603
 longitude: 84.85113
 glottocode: sout2715
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Nuclear Ghale > Southern Ghale"
+wikidata_id: Q12952453
 translations:
   - translation_iso: ara
     name: سووثإرن غآلإ

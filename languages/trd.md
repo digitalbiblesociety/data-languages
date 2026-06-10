@@ -6,12 +6,15 @@ population: 2000
 country_id: IN
 country_name: India
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 22.01224
 longitude: 84.47124
 glottocode: turi1246
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Turi"
+wikidata_id: Q7854914
 wikipedia_url: "https://en.wikipedia.org/wiki/Turi_language"
 translations:
   - translation_iso: ara

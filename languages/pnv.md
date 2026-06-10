@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -22.47294
 longitude: 116.53759
 glottocode: pini1244
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Pinigura"
+wikidata_id: Q10631927
 wikipedia_url: "https://en.wikipedia.org/wiki/Pinikura_language"
 translations:
   - translation_iso: ara

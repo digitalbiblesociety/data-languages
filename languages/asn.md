@@ -7,12 +7,15 @@ population: 110
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.13463
 longitude: -52.32101
 glottocode: xing1248
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup V > Xingú Asuriní"
+wikidata_id: Q8044571
 wikipedia_url: "https://en.wikipedia.org/wiki/Xingu_Asurini_language"
 translations:
   - translation_iso: ara

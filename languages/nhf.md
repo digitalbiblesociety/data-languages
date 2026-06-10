@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -21.38154
 longitude: 115.74542
 glottocode: nhuw1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Nhuwala"
+wikidata_id: Q10600396
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhuwala_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2520
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.0008
 longitude: 128.44294
 glottocode: buli1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Buli (Indonesia)"
+wikidata_id: Q2927952
 wikipedia_url: "https://en.wikipedia.org/wiki/Buli_language_(Indonesia)"
 translations:
   - translation_iso: ara

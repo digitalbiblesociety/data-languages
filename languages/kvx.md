@@ -7,6 +7,8 @@ population: 358000
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.48602
 longitude: 69.94228
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: park1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Parkari Koli"
+wikidata_id: Q3244176
 wikipedia_url: "https://en.wikipedia.org/wiki/Parkari_Koli_language"
 translations:
   - translation_iso: ara

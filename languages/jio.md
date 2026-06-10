@@ -7,12 +7,15 @@ population: 52300
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.55481
 longitude: 109.85372
 glottocode: jiam1236
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Jiamao"
+wikidata_id: Q3178570
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiamao_language"
 translations:
   - translation_iso: ara

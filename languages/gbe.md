@@ -7,12 +7,15 @@ population: 930
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.82581
 longitude: 142.45009
 glottocode: niks1238
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Western Sepik Hill > Hewa-April River > Niksek"
+wikidata_id: Q56375
 wikipedia_url: "https://en.wikipedia.org/wiki/Niksek_language"
 translations:
   - translation_iso: ara

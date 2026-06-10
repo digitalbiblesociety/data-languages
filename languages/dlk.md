@@ -7,12 +7,15 @@ population: 2500
 country_id: ER
 country_name: Eritrea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.732898
 longitude: 40.081897
 glottocode: daha1247
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Tigre-Dahalik > Dahalik"
+wikidata_id: Q32260
 wikipedia_url: "https://en.wikipedia.org/wiki/Dahalik_language"
 translations:
   - translation_iso: ara

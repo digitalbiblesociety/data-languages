@@ -7,12 +7,15 @@ population: 300
 country_id: VN
 country_name: Vietnam
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 19.349715
 longitude: 104.106145
 glottocode: oduu1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Phay-Pram > Pramic > O'du"
+wikidata_id: Q3347428
 wikipedia_url: "https://en.wikipedia.org/wiki/O%CA%BCdu_language"
 translations:
   - translation_iso: ara

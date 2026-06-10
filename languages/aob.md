@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.42448
 longitude: 142.84233
 glottocode: abom1238
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Abom"
+wikidata_id: Q3446647
 wikipedia_url: "https://en.wikipedia.org/wiki/Abom_language"
 translations:
   - translation_iso: ara

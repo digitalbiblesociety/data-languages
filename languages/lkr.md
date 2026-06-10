@@ -7,12 +7,15 @@ population: 79000
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.09472
 longitude: 32.48215
 glottocode: pari1256
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Päri"
+wikidata_id: Q36487
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A4ri_language"
 translations:
   - translation_iso: ara

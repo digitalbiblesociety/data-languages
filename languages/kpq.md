@@ -7,12 +7,15 @@ population: 8000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.53497
 longitude: 139.67832
 glottocode: koru1245
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Mek > Western Mek > Korupun-Sela"
+wikidata_id: Q6432769
 wikipedia_url: "https://en.wikipedia.org/wiki/Korupun_language"
 translations:
   - translation_iso: ara

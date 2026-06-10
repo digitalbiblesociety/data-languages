@@ -7,6 +7,8 @@ population: 20
 country_id: CN
 country_name: China
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 47.31225
 longitude: 126.55713
 scripts: [Mong]
@@ -14,6 +16,7 @@ glottocode: manc1252
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Manchu-Jurchen > Manchu-Xibe > Manchu"
+wikidata_id: Q33638
 wikipedia_url: "https://en.wikipedia.org/wiki/Manchu_language"
 translations:
   - translation_iso: ara

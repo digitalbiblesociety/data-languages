@@ -7,12 +7,15 @@ population: 11000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.677
 longitude: 13.82013
 glottocode: mefe1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mefele-Cuvok > Mefele"
+wikidata_id: Q3501871
 wikipedia_url: "https://en.wikipedia.org/wiki/Mefele_language"
 translations:
   - translation_iso: ara

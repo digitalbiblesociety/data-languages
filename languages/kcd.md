@@ -7,12 +7,15 @@ population: 150
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.87044
 longitude: 140.81838
 glottocode: ngka1235
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Ngkantr > Ngkontar Ngkolmpu"
+wikidata_id: Q12952566
 translations:
   - translation_iso: ara
     name: لغة نغكالمبو كانوم

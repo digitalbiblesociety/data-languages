@@ -7,12 +7,15 @@ population: 15000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 25.67173
 longitude: 107.30906
 glottocode: tenn1245
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > T'en"
+wikidata_id: Q3442330
 wikipedia_url: "https://en.wikipedia.org/wiki/Then_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 70
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.71886
 longitude: 136.06341
 glottocode: awer1241
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Awera"
+wikidata_id: Q56379
 wikipedia_url: "https://en.wikipedia.org/wiki/Awera_language"
 translations:
   - translation_iso: ara

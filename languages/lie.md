@@ -7,12 +7,15 @@ population: 8400
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.75106
 longitude: 19.02225
 glottocode: liki1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Riverain Ubangi > Ngiri Riverain Ubangi-Ripuaire > Libinzic > Libinza Ngiri > Balobo"
+wikidata_id: Q11011614
 translations:
   - translation_iso: ara
     name: لغة يكيلا

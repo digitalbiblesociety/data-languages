@@ -7,12 +7,15 @@ population: 570
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.60232
 longitude: 148.31167
 glottocode: moik1239
 glottolog_family_id: yare1250
 glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Doriri-Abia > Moikodi"
+wikidata_id: Q6894594
 wikipedia_url: "https://en.wikipedia.org/wiki/Moikodi_language"
 translations:
   - translation_iso: ara

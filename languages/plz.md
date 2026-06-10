@@ -7,12 +7,15 @@ population: 1000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.02715
 longitude: 116.34635
 glottocode: palu1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Paluan"
+wikidata_id: Q7128795
 wikipedia_url: "https://en.wikipedia.org/wiki/Paluan_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 7620000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.0317
 longitude: 87.818517
 scripts: [Beng, Deva, Latn, Olck, Orya]
@@ -14,6 +16,7 @@ glottocode: sant1410
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Santali"
+wikidata_id: Q33965
 wikipedia_url: "https://en.wikipedia.org/wiki/Santali_language"
 translations:
   - translation_iso: ara

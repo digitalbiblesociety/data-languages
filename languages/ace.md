@@ -7,6 +7,8 @@ population: 3500000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 3.90757
 longitude: 96.60325
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: achi1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Acehnese"
+wikidata_id: Q27683
 wikipedia_url: "https://en.wikipedia.org/wiki/Acehnese_language"
 translations:
   - translation_iso: ara

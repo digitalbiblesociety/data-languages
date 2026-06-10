@@ -7,12 +7,15 @@ population: 450
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.40416
 longitude: 36.1702
 glottocode: kweg1241
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Kwegu"
+wikidata_id: Q56723
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwegu_language"
 translations:
   - translation_iso: ara

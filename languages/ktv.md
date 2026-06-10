@@ -7,12 +7,15 @@ population: 62000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.85534
 longitude: 107.64367
 glottocode: east1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Katu > Nuclear Katu > Eastern Katu"
+wikidata_id: Q13018490
 translations:
   - translation_iso: ara
     name: كاتو الشرقية

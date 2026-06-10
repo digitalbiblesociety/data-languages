@@ -7,12 +7,15 @@ population: 6600
 country_id: SS
 country_name: South Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 8.72567
 longitude: 26.48576
 glottocode: thur1255
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Luwo-Thuri > Thuri"
+wikidata_id: Q7799291
 wikipedia_url: "https://en.wikipedia.org/wiki/Thuri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 22000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.46022
 longitude: 155.63218
 glottocode: naas1242
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > Central Nasioi > Naasioi"
+wikidata_id: Q56772
 wikipedia_url: "https://en.wikipedia.org/wiki/Naasioi_language"
 translations:
   - translation_iso: ara

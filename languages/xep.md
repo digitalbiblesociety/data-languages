@@ -6,6 +6,9 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q124257204
 translations:
   - translation_iso: ara
     name: يپيولميك

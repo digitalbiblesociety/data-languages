@@ -7,12 +7,15 @@ population: 44000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.43846
 longitude: -2.28724
 glottocode: degg1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Deg"
+wikidata_id: Q35183
 wikipedia_url: "https://en.wikipedia.org/wiki/Deg_language"
 translations:
   - translation_iso: ara

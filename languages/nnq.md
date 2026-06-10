@@ -7,12 +7,15 @@ population: 171000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.78145
 longitude: 37.98316
 glottocode: ngin1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Lwegu > Ndendeule-Ngindo-Nindi > Ngindo"
+wikidata_id: Q7022366
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngindo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3360
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.74311
 longitude: 158.75344
 glottocode: zaba1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > West Santa Isabel > Zabana"
+wikidata_id: Q379130
 wikipedia_url: "https://en.wikipedia.org/wiki/Zabana_language"
 translations:
   - translation_iso: ara

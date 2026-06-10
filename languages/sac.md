@@ -7,12 +7,15 @@ population: 250
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 40
 longitude: -94
 glottocode: mesk1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Fox > Meskwaki"
+wikidata_id: Q1440172
 wikipedia_url: "https://en.wikipedia.org/wiki/Fox_language"
 translations:
   - translation_iso: ara

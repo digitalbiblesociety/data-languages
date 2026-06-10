@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -22.96456
 longitude: 114.65757
 glottocode: burd1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Thalanyji-Burduna > Burduna"
+wikidata_id: Q4998313
 wikipedia_url: "https://en.wikipedia.org/wiki/Burduna_language"
 translations:
   - translation_iso: ara

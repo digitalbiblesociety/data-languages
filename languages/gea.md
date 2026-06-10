@@ -7,12 +7,15 @@ population: 9030
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.4775
 longitude: 9.78484
 glottocode: geru1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Gera-Geruma-Kubi-Deno > Gera-Geruma > Geruma"
+wikidata_id: Q3438789
 wikipedia_url: "https://en.wikipedia.org/wiki/Geruma_language"
 translations:
   - translation_iso: ara

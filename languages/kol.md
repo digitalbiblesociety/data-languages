@@ -7,9 +7,12 @@ population: 1300
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.21042
 longitude: 151.58274
 glottocode: kolp1236
+wikidata_id: Q4227542
 wikipedia_url: "https://en.wikipedia.org/wiki/Kol_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

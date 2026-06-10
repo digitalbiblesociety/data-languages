@@ -7,12 +7,15 @@ population: 6000
 country_id: TH
 country_name: Thailand
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.00483
 longitude: 99.63822
 glottocode: phra1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pwo > Northern Pwo Karen > Phrae Pwo Karen"
+wikidata_id: Q7187991
 wikipedia_url: "https://en.wikipedia.org/wiki/Phrae_Pwo_language"
 translations:
   - translation_iso: ara

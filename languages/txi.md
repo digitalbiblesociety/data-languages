@@ -7,12 +7,15 @@ population: 320
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.37822
 longitude: -53.49553
 glottocode: ikpe1245
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Pekodian > Xinguan > Ikpeng"
+wikidata_id: Q9344891
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikpeng_language"
 translations:
   - translation_iso: ara

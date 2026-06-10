@@ -6,12 +6,15 @@ population: 15000
 country_id: PY
 country_name: Paraguay
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -25.266667
 longitude: -57.666667
 glottocode: para1318
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Paraguayan Sign Language"
+wikidata_id: Q7134698
 wikipedia_url: "https://en.wikipedia.org/wiki/Paraguayan_Sign_Language"
 translations:
   - translation_iso: ara

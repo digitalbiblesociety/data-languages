@@ -6,6 +6,9 @@ population: null
 country_id: PL
 country_name: Poland
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q1190494
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Galindian_language"
 translations:
   - translation_iso: ara

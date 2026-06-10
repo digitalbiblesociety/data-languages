@@ -7,12 +7,15 @@ population: 2000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.74034
 longitude: 126.05874
 glottocode: kair1265
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Kairui-Midiki"
+wikidata_id: Q12953277
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairui-Midiki_language"
 translations:
   - translation_iso: ara

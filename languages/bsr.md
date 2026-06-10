@@ -7,12 +7,15 @@ population: 30000
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.33331
 longitude: 4.98331
 glottocode: bass1259
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Basa > Kontagora-Gumna-Koromba > Gumna-Kontagora > Bassa-Kontagora"
+wikidata_id: Q4866152
 wikipedia_url: "https://en.wikipedia.org/wiki/Basa-Kontagora_language"
 translations:
   - translation_iso: ara

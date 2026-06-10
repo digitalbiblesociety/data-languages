@@ -7,6 +7,8 @@ population: 6029500
 country_id: BE
 country_name: Belgium
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 51.075403
 longitude: 3.113453
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: vlaa1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Western Flemish"
+wikidata_id: Q100103
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Flemish"
 translations:
   - translation_iso: ara

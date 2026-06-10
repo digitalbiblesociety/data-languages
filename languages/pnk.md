@@ -7,12 +7,15 @@ population: 10
 country_id: BO
 country_name: Bolivia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -14.353747
 longitude: -63.086994
 glottocode: paun1241
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Mojeno-Paunaca > Paunaka"
+wikidata_id: Q2064378
 wikipedia_url: "https://en.wikipedia.org/wiki/Paunaka_language"
 translations:
   - translation_iso: ara

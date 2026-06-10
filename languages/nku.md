@@ -7,12 +7,15 @@ population: 29900
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.46011
 longitude: -2.746275
 glottocode: boun1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Kulango-Lorom > Kulango > Bouna Kulango"
+wikidata_id: Q20668241
 translations:
   - translation_iso: ara
     name: كولانغو بونا

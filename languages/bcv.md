@@ -6,12 +6,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.92577
 longitude: 10.96424
 glottocode: shoo1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Wurbo-Wannu > Wurbo > Shoo-Minda-Nye"
+wikidata_id: Q36548
 wikipedia_url: "https://en.wikipedia.org/wiki/Shoo-Minda-Nye_language"
 translations:
   - translation_iso: ara

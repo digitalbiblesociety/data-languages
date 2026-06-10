@@ -6,7 +6,10 @@ population: null
 country_id: CF
 country_name: Central African Republic
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q3099986
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbaya_languages"
 translations:
   - translation_iso: ara

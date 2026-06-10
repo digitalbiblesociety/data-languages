@@ -6,12 +6,15 @@ population: 1000
 country_id: GA
 country_name: Gabon
 status_id: null
+scope: individual
+language_type: living
 latitude: -0.012
 longitude: 13.61
 glottocode: osam1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Kotaic > Osamayi"
+wikidata_id: Q7408415
 wikipedia_url: "https://en.wikipedia.org/wiki/Samay_language"
 translations:
   - translation_iso: ara

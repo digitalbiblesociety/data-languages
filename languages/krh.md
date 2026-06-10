@@ -7,12 +7,15 @@ population: 40300
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.47663
 longitude: 7.93507
 glottocode: kura1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Kurama"
+wikidata_id: Q35593
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurama_language"
 translations:
   - translation_iso: ara

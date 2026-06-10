@@ -7,12 +7,15 @@ population: 100
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 45.72055
 longitude: -118.42416
 glottocode: wall1238
 glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Northern Sahaptin > Northeast Sahaptin"
+wikidata_id: Q12953960
 translations:
   - translation_iso: ara
     name: والا والا

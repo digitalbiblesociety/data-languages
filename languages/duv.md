@@ -7,12 +7,15 @@ population: 930
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.21832
 longitude: 137.96449
 glottocode: duvl1242
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > Duvle"
+wikidata_id: Q56364
 wikipedia_url: "https://en.wikipedia.org/wiki/Duvle_language"
 translations:
   - translation_iso: ara

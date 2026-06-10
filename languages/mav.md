@@ -7,12 +7,15 @@ population: 6220
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.63897
 longitude: -56.87489
 glottocode: sate1243
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Sateré-Mawé"
+wikidata_id: Q6794475
 wikipedia_url: "https://en.wikipedia.org/wiki/Maw%C3%A9_language"
 translations:
   - translation_iso: ara

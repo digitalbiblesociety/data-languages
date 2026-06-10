@@ -7,12 +7,15 @@ population: 3000
 country_id: LY
 country_name: Libya
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 29.23411
 longitude: 21.18188
 glottocode: awji1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Awjilah"
+wikidata_id: Q56398
 wikipedia_url: "https://en.wikipedia.org/wiki/Awjila_language"
 translations:
   - translation_iso: ara

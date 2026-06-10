@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.42805
 longitude: 134.71647
 glottocode: ngal1293
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Jala > Ngalakgan"
+wikidata_id: Q3913796
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngalakgan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 420
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.91705
 longitude: 146.88714
 glottocode: pona1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Ponam"
+wikidata_id: Q3396122
 wikipedia_url: "https://en.wikipedia.org/wiki/Ponam_language"
 translations:
   - translation_iso: ara

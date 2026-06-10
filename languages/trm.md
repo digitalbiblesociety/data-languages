@@ -7,12 +7,15 @@ population: 1000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.75482
 longitude: 70.96173
 glottocode: treg1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Nuristani Kalasha-Tregami > Tregami"
+wikidata_id: Q34081
 wikipedia_url: "https://en.wikipedia.org/wiki/Tregami_language"
 translations:
   - translation_iso: ara

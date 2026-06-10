@@ -7,12 +7,15 @@ population: 2050
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.65534
 longitude: 145.71416
 glottocode: awap1236
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Kainantu > Gauwa > Awa-Oweina > Awa (Papua New Guinea)"
+wikidata_id: Q2874650
 wikipedia_url: "https://en.wikipedia.org/wiki/Awa_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

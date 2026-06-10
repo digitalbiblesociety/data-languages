@@ -7,12 +7,15 @@ population: 310
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 19.32823
 longitude: -99.79677
 glottocode: tema1239
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > Temascaltepec Nahuatl"
+wikidata_id: Q2379405
 wikipedia_url: "https://en.wikipedia.org/wiki/Temascaltepec_Nahuatl"
 translations:
   - translation_iso: ara

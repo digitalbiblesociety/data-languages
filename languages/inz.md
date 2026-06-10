@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 34.616907
 longitude: -120.079937
 glottocode: ines1240
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Ineseño"
+wikidata_id: Q35443
 wikipedia_url: "https://en.wikipedia.org/wiki/Inese%C3%B1o_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 39.8155
 longitude: 21.91293
 scripts: [Grek]
@@ -14,6 +16,7 @@ glottocode: anci1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Ionic-Attic Ancient Greek"
+wikidata_id: Q35497
 wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_Greek"
 translations:
   - translation_iso: ara

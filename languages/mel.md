@@ -7,12 +7,15 @@ population: 113280
 country_id: MY
 country_name: Malaysia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 3.689805
 longitude: 113.188255
 glottocode: cent2101
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Central Melanau"
+wikidata_id: Q18638319
 translations:
   - translation_iso: ara
     name: لغة ميلانو الوسطية

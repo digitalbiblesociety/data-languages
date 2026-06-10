@@ -7,12 +7,15 @@ population: 4000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.3307
 longitude: 109.57641
 glottocode: beka1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Riuk Bekati'"
+wikidata_id: Q3441683
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakati%CA%BC_language"
 translations:
   - translation_iso: ara

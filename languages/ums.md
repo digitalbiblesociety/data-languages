@@ -7,12 +7,15 @@ population: 4500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.11396
 longitude: 119.86161
 glottocode: pend1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Southern Tomini > Pendau"
+wikidata_id: Q7162371
 wikipedia_url: "https://en.wikipedia.org/wiki/Pendau_language"
 translations:
   - translation_iso: ara

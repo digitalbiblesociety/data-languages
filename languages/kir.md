@@ -1,5 +1,6 @@
 ---
 iso: kir
+iso639_1: ky
 name: Kirghiz
 autonym: " قىرعىز تئلى"
 alt_names: [Fu-Yu, Fu-Yu Kirghiz, Fu-Yu Kyrgyz, Kara, Kara-Kirgiz, "Ke'erkez", Kirg(h)iz, Kirghizi, Kirgisischen, Kirgisisk, Kirgiz, Kirgizeg, Kirgizera, Kirgizisch, Kirgiziska, Kirgizysk, Kirkis simi, Kyrgyz, Kyrgyz language, Kırgızca, Qazaqisch, Qyrghyz, Qırğız tili, Takirgizit, Забони қирғизӣ, Кыргыз тыла, קירגיזית, قىرغىز تىلى]
@@ -7,6 +8,8 @@ population: 118000
 country_id: KG
 country_name: Kyrgyzstan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 42
 longitude: 74
 scripts: [Arab, Cyrl, Latn]
@@ -14,6 +17,7 @@ glottocode: kirg1245
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > East Kipchak > Kirghiz"
+wikidata_id: Q9255
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyrgyz_language"
 translations:
   - translation_iso: ara

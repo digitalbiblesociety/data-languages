@@ -6,7 +6,10 @@ population: 500000
 country_id: LT
 country_name: Lithuania
 status_id: null
+scope: individual
+language_type: living
 scripts: [Latn]
+wikidata_id: Q213434
 wikipedia_url: "https://en.wikipedia.org/wiki/Samogitian_language"
 translations:
   - translation_iso: ara

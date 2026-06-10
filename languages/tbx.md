@@ -7,12 +7,15 @@ population: 2350
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.05732
 longitude: 146.52882
 glottocode: kapi1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Buang linkage > Kapin"
+wikidata_id: Q6366665
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapin_language"
 translations:
   - translation_iso: ara

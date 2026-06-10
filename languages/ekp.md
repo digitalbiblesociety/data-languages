@@ -7,12 +7,15 @@ population: 30000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.06715
 longitude: 6.53362
 glottocode: ekpe1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Ekpeye"
+wikidata_id: Q35254
 wikipedia_url: "https://en.wikipedia.org/wiki/Ekpeye_language"
 translations:
   - translation_iso: ara

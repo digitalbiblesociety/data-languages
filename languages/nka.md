@@ -6,12 +6,15 @@ population: 36200
 country_id: ZM
 country_name: Zambia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.85131
 longitude: 24.76494
 glottocode: nkoy1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Nkoya"
+wikidata_id: Q7042633
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkoya_language"
 translations:
   - translation_iso: ara

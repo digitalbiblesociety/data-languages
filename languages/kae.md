@@ -7,12 +7,15 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 25.02571
 longitude: 121.42537
 glottocode: keta1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Northern East Formosan > Ketangalan"
+wikidata_id: Q2779411
 wikipedia_url: "https://en.wikipedia.org/wiki/Luilang_language"
 translations:
   - translation_iso: ara

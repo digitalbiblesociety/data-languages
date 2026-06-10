@@ -6,12 +6,15 @@ alt_names: [Kwanka, Tivaghat, Vaghat]
 population: 20000
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 9.4798
 longitude: 9.34795
 glottocode: vagh1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Kwangic > Vaghat > Kadung"
+wikidata_id: Q105198681
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadung_language"
 translations:
   - translation_iso: ara

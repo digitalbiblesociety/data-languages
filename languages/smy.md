@@ -7,12 +7,15 @@ population: 68700
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.5295
 longitude: 53.2868
 glottocode: semn1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Semnani-Biyabuneki"
+wikidata_id: Q14531212
 wikipedia_url: "https://en.wikipedia.org/wiki/Semnani_language"
 translations:
   - translation_iso: ara

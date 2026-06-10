@@ -7,12 +7,15 @@ population: 25000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.35215
 longitude: 13.631775
 glottocode: nucl1683
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Daba-Mazagway-Kola > Daba"
+wikidata_id: Q3913342
 wikipedia_url: "https://en.wikipedia.org/wiki/Daba_language"
 translations:
   - translation_iso: ara

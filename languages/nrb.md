@@ -7,9 +7,12 @@ population: 103000
 country_id: ER
 country_name: Eritrea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.32507
 longitude: 37.49899
 glottocode: nara1262
+wikidata_id: Q36179
 wikipedia_url: "https://en.wikipedia.org/wiki/Nara_language"
 translations:
   - translation_iso: ara

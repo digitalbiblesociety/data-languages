@@ -7,12 +7,15 @@ population: 14000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.56016
 longitude: 121.36984
 glottocode: mori1268
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > East Coast Bungku-Tolaki > Mori Bawah"
+wikidata_id: Q3324069
 wikipedia_url: "https://en.wikipedia.org/wiki/Mori_Bawah_language"
 translations:
   - translation_iso: ara

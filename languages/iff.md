@@ -7,12 +7,15 @@ population: null
 country_id: VU
 country_name: Vanuatu
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -18.76682
 longitude: 169.00732
 glottocode: ifoo1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Erromanga > Ifo"
+wikidata_id: Q7902545
 wikipedia_url: "https://en.wikipedia.org/wiki/Utaha_language"
 translations:
   - translation_iso: ara

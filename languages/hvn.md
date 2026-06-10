@@ -7,12 +7,15 @@ population: 110000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.5522
 longitude: 121.84682
 glottocode: sabu1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Hawu-Dhao > Hawu"
+wikidata_id: Q2319877
 wikipedia_url: "https://en.wikipedia.org/wiki/Hawu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 8000
 country_id: KE
 country_name: Kenya
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.66322
 longitude: 39.79304
 glottocode: ilwa1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Ilwana"
+wikidata_id: Q6001357
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilwana_language"
 translations:
   - translation_iso: ara

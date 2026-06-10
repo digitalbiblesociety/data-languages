@@ -6,12 +6,15 @@ population: 4940
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
 latitude: 7.25
 longitude: 80.67
 glottocode: dama1278
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Indo-Portuguesic > Northern Indo-Portuguesic > Daman-Diu Portuguese"
+wikidata_id: Q5211943
 wikipedia_url: "https://en.wikipedia.org/wiki/Daman_and_Diu_Portuguese_Creole"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 11400
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.31095
 longitude: 0.38008
 glottocode: tuwu1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kposo-Ahlo-Bowili > Tuwuli"
+wikidata_id: Q36974
 wikipedia_url: "https://en.wikipedia.org/wiki/Bowili_language"
 translations:
   - translation_iso: ara

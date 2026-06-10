@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.64805
 longitude: 129.88452
 glottocode: mand1416
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Maranunggu-Ame-Manda > Ame-Manda > Manda (Australia)"
+wikidata_id: Q18650060
 translations:
   - translation_iso: ara
     name: لغة ماندا الأسترالية

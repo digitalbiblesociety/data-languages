@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 52.12934
 longitude: 89.888
 glottocode: kama1351
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Kamas-Selkup > Kamas-Koibal"
+wikidata_id: Q35991
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamas_language"
 translations:
   - translation_iso: ara

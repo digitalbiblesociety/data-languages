@@ -7,12 +7,15 @@ population: 9000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.86337
 longitude: 29.12281
 glottocode: wali1262
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Western Kordofan Nubian > Wali (Sudan)"
+wikidata_id: Q30597440
 wikipedia_url: "https://en.wikipedia.org/wiki/Wali_language_(Sudan)"
 translations:
   - translation_iso: ara

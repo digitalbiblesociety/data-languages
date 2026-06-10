@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -25.44464
 longitude: 115.57998
 glottocode: ying1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Yinggarda"
+wikidata_id: Q3913777
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinggarda_language"
 translations:
   - translation_iso: ara

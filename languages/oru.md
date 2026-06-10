@@ -7,12 +7,15 @@ population: 1000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.68191
 longitude: 69.34442
 glottocode: ormu1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Ormuri-Parachi > Ormuri"
+wikidata_id: Q33740
 wikipedia_url: "https://en.wikipedia.org/wiki/Ormuri"
 translations:
   - translation_iso: ara

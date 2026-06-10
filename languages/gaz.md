@@ -1,5 +1,6 @@
 ---
 iso: gaz
+macrolanguage_id: orm
 name: West Central Oromo
 autonym: Afaan Oromoo
 alt_names: ["\"Galla\"", Afan Oromo, Galla, Oromiffa, Oromo, Oromo (Mechaa), Oromo (West-Central), Oromo (Western), Oromo Proper, "Oromo, West Central", Oromoo, West-Central]
@@ -7,12 +8,15 @@ population: 30000000
 country_id: ET
 country_name: Ethiopia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 8.81391
 longitude: 36.73647
 glottocode: west2721
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Nuclear Oromo > West Central Oromo"
+wikidata_id: Q12639015
 translations:
   - translation_iso: ara
     name: الأرومية الغربية الوسطى

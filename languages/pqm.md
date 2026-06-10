@@ -7,6 +7,8 @@ population: 410
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 45.494475
 longitude: -67.40805
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: male1292
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Micmacic > Malecite-Passamaquoddy"
+wikidata_id: Q3183144
 wikipedia_url: "https://en.wikipedia.org/wiki/Maliseet-Passamaquoddy_language"
 translations:
   - translation_iso: ara

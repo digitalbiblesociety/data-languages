@@ -7,12 +7,15 @@ population: 312
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -36.23007
 longitude: 140.15755
 glottocode: narr1259
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Lower Murray > Yaraldi-Keramin-Yitha > Narrinyeri"
+wikidata_id: Q7022091
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarrindjeri_language"
 translations:
   - translation_iso: ara

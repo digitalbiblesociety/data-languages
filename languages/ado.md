@@ -7,12 +7,15 @@ population: 3380
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.24027
 longitude: 144.47396
 glottocode: abuu1241
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Agoan > Abu"
+wikidata_id: Q56659
 wikipedia_url: "https://en.wikipedia.org/wiki/Adjora_language"
 translations:
   - translation_iso: ara

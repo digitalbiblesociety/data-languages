@@ -6,12 +6,15 @@ alt_names: ["Minyag, Western", Western Muya]
 population: 2000
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 29.444
 longitude: 101.418
 glottocode: west2417
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Muya > Western Muya"
+wikidata_id: Q105196607
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Minyag_language"
 translations:
   - translation_iso: ara

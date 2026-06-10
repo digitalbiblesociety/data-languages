@@ -1,5 +1,6 @@
 ---
 iso: zha
+iso639_1: za
 name: Zhuang
 autonym: Vahcuengh
 alt_names: [Chuang]
@@ -7,7 +8,10 @@ population: 16000000
 country_id: CN
 country_name: China
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Hans, Latn]
+wikidata_id: Q13216
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhuang_languages"
 translations:
   - translation_iso: ara

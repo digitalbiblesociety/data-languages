@@ -7,12 +7,15 @@ population: 950
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.4035
 longitude: 164.19283
 glottocode: kuma1276
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Kum-Nel-Yua-Cac > Kum-Nel-Yua > Nêlêmwa-Nixumwak"
+wikidata_id: Q3347266
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumak_language"
 translations:
   - translation_iso: ara

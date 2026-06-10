@@ -7,12 +7,15 @@ population: 2340
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.1868
 longitude: 145.35873
 glottocode: yawe1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Yaweyuha"
+wikidata_id: Q3571231
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaweyuha_language"
 translations:
   - translation_iso: ara

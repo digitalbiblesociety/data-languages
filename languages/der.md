@@ -7,12 +7,15 @@ population: 32400
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.86152
 longitude: 93.70572
 glottocode: deor1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Deori"
+wikidata_id: Q56478
 wikipedia_url: "https://en.wikipedia.org/wiki/Deori_language"
 translations:
   - translation_iso: ara

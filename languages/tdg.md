@@ -7,6 +7,8 @@ population: 323000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 28.02386
 longitude: 85.05628
 scripts: [Deva, Tibt]
@@ -14,6 +16,7 @@ glottocode: west2415
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Nuclear Tamang > Western Tamang"
+wikidata_id: Q12953178
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tamang"
 translations:
   - translation_iso: ara

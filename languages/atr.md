@@ -7,12 +7,15 @@ population: 930
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.61832
 longitude: -60.42595
 glottocode: waim1253
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Yawaperi > Waimiri-Atroari"
+wikidata_id: Q56865
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimiri-Atroar%C3%AD_language"
 translations:
   - translation_iso: ara

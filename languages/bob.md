@@ -7,12 +7,15 @@ population: 8000
 country_id: KE
 country_name: Kenya
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.40124
 longitude: 41.23402
 glottocode: awee1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Karre-Boni > Aweer"
+wikidata_id: Q56526
 wikipedia_url: "https://en.wikipedia.org/wiki/Aweer_language"
 translations:
   - translation_iso: ara

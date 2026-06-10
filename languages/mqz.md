@@ -7,12 +7,15 @@ population: 900
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.9401
 longitude: 147.05778
 glottocode: mala1487
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Malasanga"
+wikidata_id: Q14916889
 wikipedia_url: "https://en.wikipedia.org/wiki/Malasanga_language"
 translations:
   - translation_iso: ara

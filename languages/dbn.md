@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -1.38946
 longitude: 130.92525
 glottocode: duri1243
 glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Inanwatanic > Duriankere"
+wikidata_id: Q5316627
 wikipedia_url: "https://en.wikipedia.org/wiki/Duriankari_language"
 translations:
   - translation_iso: ara

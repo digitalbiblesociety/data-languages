@@ -6,12 +6,15 @@ population: 186700
 country_id: BD
 country_name: Bangladesh
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 21.453137
 longitude: 92.59659
 glottocode: marm1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Arakanese-Marma > Marma"
+wikidata_id: Q21403256
 wikipedia_url: "https://en.wikipedia.org/wiki/Marma_language"
 translations:
   - translation_iso: ara

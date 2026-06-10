@@ -7,12 +7,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.76869
 longitude: 139.25967
 glottocode: pass1247
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Pass Valley Yali"
+wikidata_id: Q12953309
 translations:
   - translation_iso: ara
     name: باس فالي يالي

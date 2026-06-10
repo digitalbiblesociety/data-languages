@@ -1,5 +1,6 @@
 ---
 iso: btj
+macrolanguage_id: msa
 name: Bacanese Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 alt_names: [Bacan, Batjan, "Malay, Bacanese"]
@@ -7,12 +8,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -0.62275
 longitude: 127.49047
 glottocode: baca1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Berau-Brunei Malay > Bruneic Malay > Brunei-Bacan Malay > Bacanese Malay"
+wikidata_id: Q8828608
 wikipedia_url: "https://en.wikipedia.org/wiki/Bacan_Malay"
 translations:
   - translation_iso: ara

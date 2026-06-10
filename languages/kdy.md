@@ -7,12 +7,15 @@ population: 370
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.03589
 longitude: 139.0811
 glottocode: kede1239
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Keder"
+wikidata_id: Q6383641
 wikipedia_url: "https://en.wikipedia.org/wiki/Keijar_language"
 translations:
   - translation_iso: ara

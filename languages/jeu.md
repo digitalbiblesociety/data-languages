@@ -7,12 +7,15 @@ population: 1500
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.50342
 longitude: 19.09535
 glottocode: jonk1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Unclassified Dangla > Jonkor Bourmataguil"
+wikidata_id: Q56269
 wikipedia_url: "https://en.wikipedia.org/wiki/Jonkor_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: kin
+iso639_1: rw
 name: Kinyarwanda
 autonym: Ikinyarwanda
 alt_names: [Orunyarwanda, Ruanda, Runyarwanda, Rwanda, Rwanda language, Rwanda simi, Rwandum, Urunyaruanda, Киняруанда, Руанда]
@@ -7,6 +8,8 @@ population: 12100000
 country_id: RW
 country_name: Rwanda
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -1.567707
 longitude: 29.644133
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: kiny1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > West Highlands Kivu > Kinyarwanda"
+wikidata_id: Q33573
 wikipedia_url: "https://en.wikipedia.org/wiki/Kinyarwanda"
 translations:
   - translation_iso: ara

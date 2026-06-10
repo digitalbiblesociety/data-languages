@@ -1,5 +1,6 @@
 ---
 iso: mup
+macrolanguage_id: raj
 name: Malvi
 autonym: Malavi
 alt_names: [Mallow, Malwada, Malwi, Ujjaini]
@@ -7,12 +8,15 @@ population: 5440000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.48797
 longitude: 75.56195
 glottocode: malv1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Malvi"
+wikidata_id: Q33413
 wikipedia_url: "https://en.wikipedia.org/wiki/Malvi_language"
 translations:
   - translation_iso: ara

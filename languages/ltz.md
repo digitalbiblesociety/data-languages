@@ -1,5 +1,6 @@
 ---
 iso: ltz
+iso639_1: lb
 name: Luxembourgish
 autonym: Lëtzebuergesch
 alt_names: [Francique mosellan, Franconio del Mosela, Frankish, German, Letzburgisch, Letzeburgesch, Lucsambuirgis, Lucsamburgais, Luksembourgeg, Lushaborgek, Lussimbordjwès, Luxemborjesh, Luxembourgeois, Luxembourgsk, Luxemburgeois, Luxemburggagiella, Luxemburgian, Luxemburgisch, Luxemburgish, Luxemburgiska, Luxemburgs, Luxemburguès, Luxemburgués, Luxembörgs, Luxenburgera, Luxnbuagisch, Lúxemborgíska, Lüksemburgca, Moselle Franconian, Platt, Taluksemburgit, Люксембург йылме, Լյուքսեմբուրգերեն, לוקסמבורגית, לוקסעמבורגיש, ليۇكسېمبۇرگ تىلى, 盧森堡話]
@@ -7,6 +8,8 @@ population: 427400
 country_id: LU
 country_name: Luxembourg
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 49.683948
 longitude: 6.149308
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: luxe1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Middle Franconian > Moselle Franconian"
+wikidata_id: Q9051
 wikipedia_url: "https://en.wikipedia.org/wiki/Luxembourgish"
 translations:
   - translation_iso: ara

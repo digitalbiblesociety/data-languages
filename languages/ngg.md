@@ -7,12 +7,15 @@ population: 29000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.30167
 longitude: 18.41189
 glottocode: ngba1287
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Manzaic > Ngbaka-Manza-Ali > Ngbaka Manza"
+wikidata_id: Q11033316
 translations:
   - translation_iso: ara
     name: نجبكا مانزا

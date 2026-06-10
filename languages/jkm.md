@@ -7,12 +7,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 19.0443
 longitude: 96.6027
 glottocode: mobw1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Mobwa Karen"
+wikidata_id: Q63234615
 translations:
   - translation_iso: ara
     name: لغة موبوا كارين

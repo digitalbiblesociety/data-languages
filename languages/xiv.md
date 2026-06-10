@@ -6,12 +6,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: historical
 latitude: 30.611
 longitude: 72.8929
 glottocode: hara1272
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Harappan"
+wikidata_id: Q3428279
 wikipedia_url: "https://en.wikipedia.org/wiki/Harappan_language"
 translations:
   - translation_iso: ara

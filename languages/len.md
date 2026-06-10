@@ -6,9 +6,12 @@ population: null
 country_id: HN
 country_name: Honduras
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 13.927755
 longitude: -88.042225
 scripts: [Latn]
+wikidata_id: Q36189
 wikipedia_url: "https://en.wikipedia.org/wiki/Lencan_languages"
 translations:
   - translation_iso: ara

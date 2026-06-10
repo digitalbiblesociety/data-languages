@@ -7,9 +7,12 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.5692
 longitude: 140.68788
 glottocode: moro1289
+wikidata_id: Q6913275
 wikipedia_url: "https://en.wikipedia.org/wiki/Morori_language"
 translations:
   - translation_iso: ara

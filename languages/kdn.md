@@ -7,12 +7,15 @@ population: 162760
 country_id: ZW
 country_name: Zimbabwe
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.73366
 longitude: 30.280383
 glottocode: kund1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Chikunda"
+wikidata_id: Q4121130
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunda_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 7000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.7489
 longitude: 133.16598
 glottocode: mpur1239
+wikidata_id: Q3327139
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpur_language"
 translations:
   - translation_iso: ara

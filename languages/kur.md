@@ -1,12 +1,16 @@
 ---
 iso: kur
+iso639_1: ku
 name: Kurdish
 autonym: کوردی
 population: 25100000
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab, Cyrl, Latn]
+wikidata_id: Q36368
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurdish_language"
 translations:
   - translation_iso: ara

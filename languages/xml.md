@@ -6,12 +6,15 @@ population: 58700
 country_id: MY
 country_name: Malaysia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.946
 longitude: 101.36596
 glottocode: mala1412
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Malaysian Sign > Malaysian Sign Language"
+wikidata_id: Q33420
 wikipedia_url: "https://en.wikipedia.org/wiki/Malaysian_Sign_Language"
 translations:
   - translation_iso: ara

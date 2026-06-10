@@ -7,8 +7,11 @@ population: 3000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.62373
 longitude: 98.46937
+wikidata_id: Q6480756
 wikipedia_url: "https://en.wikipedia.org/wiki/Lama_language_(Bai)"
 translations:
   - translation_iso: ara

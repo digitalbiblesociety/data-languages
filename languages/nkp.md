@@ -7,12 +7,15 @@ population: null
 country_id: TO
 country_name: Tonga
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -15.96596
 longitude: -173.74249
 glottocode: niua1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > East Uvean-Niuafo'ou > Niuatoputapu"
+wikidata_id: Q3399095
 wikipedia_url: "https://en.wikipedia.org/wiki/Niuatoputapu_language"
 translations:
   - translation_iso: ara

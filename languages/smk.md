@@ -7,12 +7,15 @@ population: 51200
 country_id: PH
 country_name: Philippines
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.30706
 longitude: 119.8527
 glottocode: boli1256
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Tina-Bolinao > Bolinao"
+wikidata_id: Q2669235
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolinao_language"
 translations:
   - translation_iso: ara

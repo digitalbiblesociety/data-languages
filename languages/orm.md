@@ -1,12 +1,16 @@
 ---
 iso: orm
+iso639_1: om
 name: Oromo
 autonym: Oromoo
 population: 24000000
 country_id: ET
 country_name: Ethiopia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Ethi, Latn]
+wikidata_id: Q33864
 wikipedia_url: "https://en.wikipedia.org/wiki/Oromo_language"
 translations:
   - translation_iso: ara

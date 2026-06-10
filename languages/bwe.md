@@ -7,12 +7,15 @@ population: 15700
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.97957
 longitude: 96.99363
 glottocode: bwek1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Geba-Bwe > Bwe Karen"
+wikidata_id: Q56994
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwe_Karen_language"
 translations:
   - translation_iso: ara

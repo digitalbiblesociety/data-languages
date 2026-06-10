@@ -7,12 +7,15 @@ population: 3000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.41314
 longitude: 120.20036
 glottocode: aben1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Abellen-Botolan > Abenlen Ayta"
+wikidata_id: Q3436621
 wikipedia_url: "https://en.wikipedia.org/wiki/Abellen_language"
 translations:
   - translation_iso: ara

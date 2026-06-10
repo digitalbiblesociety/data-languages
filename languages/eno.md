@@ -6,12 +6,15 @@ population: 1500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.38846
 longitude: 102.24509
 glottocode: engg1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Enggano"
+wikidata_id: Q2669164
 wikipedia_url: "https://en.wikipedia.org/wiki/Enggano_language"
 translations:
   - translation_iso: ara

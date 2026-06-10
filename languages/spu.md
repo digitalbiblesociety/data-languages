@@ -7,12 +7,15 @@ population: 2400
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.36919
 longitude: 106.84294
 glottocode: sapu1248
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Sapuan"
+wikidata_id: Q7421168
 wikipedia_url: "https://en.wikipedia.org/wiki/Sapuan_language"
 translations:
   - translation_iso: ara

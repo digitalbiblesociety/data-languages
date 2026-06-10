@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -12.6483
 longitude: 132.50752
 glottocode: ngur1260
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Umbugarla (Unattested) > Ngurmbur"
+wikidata_id: Q2591251
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngurmbur_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: tsn
+iso639_1: tn
 name: Tswana
 autonym: Setswana
 alt_names: [Beetjuans, Chuana, Chwana, Coana, Cuana, Rolon, Sechuana, Sestwana, Setsuana, Tshwana, Tsiwaha, Tsuana, Tswana simi, Tswaneg, Tswanum, Тсвана]
@@ -7,6 +8,8 @@ population: 5815730
 country_id: BW
 country_name: Botswana
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -24.36797
 longitude: 24.75867
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: tswa1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Central Sotho-Tswana > Tswana"
+wikidata_id: Q34137
 wikipedia_url: "https://en.wikipedia.org/wiki/Tswana_language"
 translations:
   - translation_iso: ara

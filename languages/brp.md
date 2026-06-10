@@ -6,12 +6,15 @@ population: 2500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.28732
 longitude: 137.0536
 glottocode: bara1375
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Barapasi"
+wikidata_id: Q56995
 wikipedia_url: "https://en.wikipedia.org/wiki/Baropasi_language"
 translations:
   - translation_iso: ara

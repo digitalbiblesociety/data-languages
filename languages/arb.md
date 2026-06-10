@@ -1,5 +1,6 @@
 ---
 iso: arb
+macrolanguage_id: ara
 name: Arabic
 autonym: عربي فصيح
 alt_names: [Al Arabiya, Al Fus-Ha, Al-Arabiyya, Al-FusHa, Arabe standard moderne, Arabeg unvan, "Arabic, Standard", Classical Arabic, "Fus'ha", Fusha, High Arabic, Koranic Arabic, Modern Literary Arabic, Modern Standard Arabic, "Qur'anic Arabic", Quranic Arabic, Standard, Standard Arabic, Standardni arapski, al-Fusḥa, Árabe estándar moderno, Árabe moderno padrão, عربى قياسى حديث, フスハー]
@@ -7,12 +8,15 @@ population: 350000000
 country_id: SA
 country_name: Saudi Arabia
 status_id: null
+scope: individual
+language_type: living
 latitude: 27.9625
 longitude: 43.8525
 glottocode: stan1318
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Standard Arabic"
+wikidata_id: Q122602987
 translations:
   - translation_iso: ara
     name: العربية الفصحى

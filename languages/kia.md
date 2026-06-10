@@ -7,12 +7,15 @@ population: 15400
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.79442
 longitude: 15.89359
 glottocode: kimm1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Kim-Besme-Goundo > Kim"
+wikidata_id: Q35685
 wikipedia_url: "https://en.wikipedia.org/wiki/Kim_language"
 translations:
   - translation_iso: ara

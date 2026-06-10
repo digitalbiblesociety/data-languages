@@ -6,12 +6,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 27.27784
 longitude: 88.46401
 glottocode: ahom1240
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Ahom"
+wikidata_id: Q34778
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahom_language"
 translations:
   - translation_iso: ara

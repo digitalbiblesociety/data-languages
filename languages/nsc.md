@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.22
 longitude: 10.58
 glottocode: nshi1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Nshi"
+wikidata_id: Q11129508
 translations:
   - translation_iso: ara
     name: نشي

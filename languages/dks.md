@@ -1,5 +1,6 @@
 ---
 iso: dks
+macrolanguage_id: din
 name: Southeastern Dinka
 autonym: Thuɔŋjäŋ
 alt_names: [Bor, Dinka, "Dinka, Southeastern", Eastern Dinka, Ost-Dinka]
@@ -7,12 +8,15 @@ population: 989120
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.02206
 longitude: 31.28501
 glottocode: sout2834
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Southeastern Dinka"
+wikidata_id: Q36538
 translations:
   - translation_iso: ara
     name: ساوثيسترن دينكا

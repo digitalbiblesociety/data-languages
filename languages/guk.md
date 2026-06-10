@@ -7,12 +7,15 @@ population: 249000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 11.28731
 longitude: 35.380345
 glottocode: gumu1244
 glottolog_family_id: gumu1250
 glottolog_family_name: Gumuz
 glottolog_classification: "Gumuz > Nuclear Gumuz > Northern Gumuz"
+wikidata_id: Q2396970
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumuz_language"
 translations:
   - translation_iso: ara

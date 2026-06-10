@@ -7,12 +7,15 @@ population: 330
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.7505
 longitude: 143.93014
 glottocode: elep1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Elepi-Kamasau-Marienberg > Elepi"
+wikidata_id: Q5359444
 wikipedia_url: "https://en.wikipedia.org/wiki/Elepi_language"
 translations:
   - translation_iso: ara

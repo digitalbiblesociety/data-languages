@@ -3,12 +3,15 @@ iso: lgs
 name: Guinea-Bissau Sign Language
 country_id: GW
 country_name: Guinea-Bissau
+scope: individual
+language_type: living
 latitude: 11.859297
 longitude: -15.591553
 glottocode: guin1260
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Guinea-Bissau Sign Language"
+wikidata_id: Q5616441
 wikipedia_url: "https://en.wikipedia.org/wiki/Guinea-Bissau_Sign_Language"
 translations:
   - translation_iso: ara

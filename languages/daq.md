@@ -7,12 +7,15 @@ population: 200000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.7475
 longitude: 81.35982
 glottocode: dand1238
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > South Bastar Gondi-Koya > Dandami Maria"
+wikidata_id: Q12952805
 translations:
   - translation_iso: ara
     name: داندامي ماريا

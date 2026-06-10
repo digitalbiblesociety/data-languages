@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.663
 longitude: -61.246
 glottocode: kepk1241
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Kepkiriwát"
+wikidata_id: Q3195366
 wikipedia_url: "https://en.wikipedia.org/wiki/Kepkiriw%C3%A1t_language"
 translations:
   - translation_iso: ara

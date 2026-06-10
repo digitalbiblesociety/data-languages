@@ -7,12 +7,15 @@ population: 8020
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.53487
 longitude: -74.43713
 glottocode: noma1263
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Nomatsiguenga"
+wikidata_id: Q3342992
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomatsiguenga_language"
 translations:
   - translation_iso: ara

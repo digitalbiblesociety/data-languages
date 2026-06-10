@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.48437
 longitude: 6.35806
 glottocode: kupa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Kupa"
+wikidata_id: Q3915336
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupa_language"
 translations:
   - translation_iso: ara

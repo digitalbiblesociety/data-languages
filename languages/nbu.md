@@ -7,12 +7,15 @@ population: 66700
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.09804
 longitude: 93.78689
 glottocode: rong1266
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Rongmei Naga"
+wikidata_id: Q12952912
 wikipedia_url: "https://en.wikipedia.org/wiki/Rongmei_language"
 translations:
   - translation_iso: ara

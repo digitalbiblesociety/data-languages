@@ -7,12 +7,15 @@ population: 35000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.60014
 longitude: 18.03518
 glottocode: alii1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Manzaic > Ngbaka-Manza-Ali > Ali"
+wikidata_id: Q34814
 wikipedia_url: "https://en.wikipedia.org/wiki/Ali_language"
 translations:
   - translation_iso: ara

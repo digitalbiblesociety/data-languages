@@ -7,12 +7,15 @@ population: 300
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.26738
 longitude: 103.92852
 glottocode: lagh1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Highland Phula > Muji > Laghuu-Core Muji > Laghuu"
+wikidata_id: Q6472114
 wikipedia_url: "https://en.wikipedia.org/wiki/Laghuu_language"
 translations:
   - translation_iso: ara

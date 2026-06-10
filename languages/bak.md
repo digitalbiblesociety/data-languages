@@ -1,5 +1,6 @@
 ---
 iso: bak
+iso639_1: ba
 name: Bashkir
 autonym: Башҡортса
 alt_names: [Bachkir, Bachkireg, Baixkir, Baschkirisch, Bashkiric, Bashkort, Bashqort, Basjkiers, Basjkiriska, Basjkirsk, Baskir, Basquort, Başkurtça, Başqort tele, Başqurt tili, Proto-Baschkirisch, Башкирэнь кель, Башко́ртьскъ ѩꙁꙑ́къ, Башҡорт теле, باشقۇرتچە]
@@ -7,6 +8,8 @@ population: 1235040
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 53.59671
 longitude: 56.55937
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: bash1264
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > North Kipchak > Bashkiric > Bashkir"
+wikidata_id: Q13389
 wikipedia_url: "https://en.wikipedia.org/wiki/Bashkir_language"
 translations:
   - translation_iso: ara

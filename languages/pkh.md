@@ -7,12 +7,15 @@ population: 2500
 country_id: BD
 country_name: Bangladesh
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.679653
 longitude: 92.9461
 glottocode: pank1249
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Pangkhua"
+wikidata_id: Q7130962
 wikipedia_url: "https://en.wikipedia.org/wiki/Pangkhu_language"
 translations:
   - translation_iso: ara

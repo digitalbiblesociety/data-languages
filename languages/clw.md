@@ -7,12 +7,15 @@ population: 270
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 54.32087
 longitude: 89.55414
 glottocode: chul1246
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Northern Altai-Lower Chulym > Lower Chulym Turkic"
+wikidata_id: Q33125
 wikipedia_url: "https://en.wikipedia.org/wiki/Chulym_language"
 translations:
   - translation_iso: ara

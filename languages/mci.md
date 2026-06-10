@@ -7,12 +7,15 @@ population: 4000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.56072
 longitude: 147.13705
 glottocode: mese1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Sankwep > Mese"
+wikidata_id: Q6821190
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesem_language"
 translations:
   - translation_iso: ara

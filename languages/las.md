@@ -7,12 +7,15 @@ population: 258000
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.669537
 longitude: 0.833293
 glottocode: lama1275
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Kabiyeic > Lama (Togo)"
+wikidata_id: Q35652
 wikipedia_url: "https://en.wikipedia.org/wiki/Lama_language"
 translations:
   - translation_iso: ara

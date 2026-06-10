@@ -6,12 +6,15 @@ population: 8400
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.47036
 longitude: 151.37257
 glottocode: meng1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Mengenic > Mamusa-Mengen > Mengen"
+wikidata_id: Q3305831
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengen_language"
 translations:
   - translation_iso: ara

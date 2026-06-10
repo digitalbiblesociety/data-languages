@@ -7,12 +7,15 @@ population: 300
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.7716
 longitude: 138.63752
 glottocode: wark1247
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Yaqayic > Warkay-Bipim"
+wikidata_id: Q4915439
 wikipedia_url: "https://en.wikipedia.org/wiki/Bipim_language"
 translations:
   - translation_iso: ara

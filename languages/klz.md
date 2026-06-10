@@ -7,12 +7,15 @@ population: 3900
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.17316
 longitude: 124.53869
 glottocode: kabo1247
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > West Alor > Kabola"
+wikidata_id: Q11732258
 translations:
   - translation_iso: ara
     name: لغة كابولا

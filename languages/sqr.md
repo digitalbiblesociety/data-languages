@@ -7,6 +7,9 @@ population: null
 country_id: MT
 country_name: Malta
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q1069489
 wikipedia_url: "https://en.wikipedia.org/wiki/Siculo-Arabic"
 translations:
   - translation_iso: ara

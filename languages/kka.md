@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.33931
 longitude: 6.55923
 glottocode: kaka1264
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Kakanda"
+wikidata_id: Q3915342
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakanda_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 109800
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.83555
 longitude: -7.85454
 glottocode: east2414
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Konoboic > Konobo-Eastern Krahn"
+wikidata_id: Q3915374
 wikipedia_url: "https://en.wikipedia.org/wiki/Konobo_language"
 translations:
   - translation_iso: ara

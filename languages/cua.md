@@ -7,12 +7,15 @@ population: 12000
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 15.16883
 longitude: 108.43092
 glottocode: cuaa1241
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > Cua"
+wikidata_id: Q3441115
 wikipedia_url: "https://en.wikipedia.org/wiki/Cua_language_(Austroasiatic)"
 translations:
   - translation_iso: ara

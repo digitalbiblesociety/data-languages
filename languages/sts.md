@@ -7,12 +7,15 @@ population: 1000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.47557
 longitude: 70.56956
 glottocode: shum1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Shumashtic > Shumashti"
+wikidata_id: Q33777
 wikipedia_url: "https://en.wikipedia.org/wiki/Shumashti_language"
 translations:
   - translation_iso: ara

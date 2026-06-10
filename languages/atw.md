@@ -7,12 +7,15 @@ population: 1350
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 40.42711
 longitude: -120.66125
 glottocode: atsu1245
 glottolog_family_id: pala1350
 glottolog_family_name: Palaihnihan
 glottolog_classification: "Palaihnihan > Atsugewi"
+wikidata_id: Q56718
 wikipedia_url: "https://en.wikipedia.org/wiki/Atsugewi_language"
 translations:
   - translation_iso: ara

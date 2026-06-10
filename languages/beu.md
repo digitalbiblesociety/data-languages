@@ -7,12 +7,15 @@ population: 11000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.31787
 longitude: 124.25117
 glottocode: blag1240
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Kaera-Straits > Blagaric > Blagar"
+wikidata_id: Q4923846
 wikipedia_url: "https://en.wikipedia.org/wiki/Blagar_language"
 translations:
   - translation_iso: ara

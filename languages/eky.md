@@ -7,6 +7,8 @@ population: 26000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.893875
 longitude: 98.33586
 scripts: [Kali]
@@ -14,6 +16,7 @@ glottocode: east2342
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayah-Yintale > Kayah > Eastern Kayah"
+wikidata_id: Q25559417
 translations:
   - translation_iso: ara
     name: لغة كايا الشرقية

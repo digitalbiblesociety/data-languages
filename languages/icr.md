@@ -7,12 +7,15 @@ population: 12000
 country_id: CO
 country_name: Colombia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.55352
 longitude: -81.70425
 glottocode: sana1297
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > San Andres Creole English"
+wikidata_id: Q2044587
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Andr%C3%A9s%E2%80%93Providencia_Creole"
 translations:
   - translation_iso: ara

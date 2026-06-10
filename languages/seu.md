@@ -6,12 +6,15 @@ population: 1200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.87766
 longitude: 136.25218
 glottocode: seru1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Central Yapen > Serui-Busami > Serui-Laut"
+wikidata_id: Q7455503
 wikipedia_url: "https://en.wikipedia.org/wiki/Serui-Laut_language"
 translations:
   - translation_iso: ara

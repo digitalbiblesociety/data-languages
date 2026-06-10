@@ -7,6 +7,8 @@ population: 2864800
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 28.534703
 longitude: 64.299057
 scripts: [Arab, Latn]
@@ -14,6 +16,7 @@ glottocode: brah1256
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Brahui"
+wikidata_id: Q33202
 wikipedia_url: "https://en.wikipedia.org/wiki/Brahvi_language"
 translations:
   - translation_iso: ara

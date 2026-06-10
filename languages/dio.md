@@ -7,12 +7,15 @@ population: 204000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.0611
 longitude: 6.3731
 glottocode: dibo1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Ebira-Nupoid > Macro-Nupoid > Nupoid > Dibo-Kupa > Abawa > Dibo"
+wikidata_id: Q3914891
 wikipedia_url: "https://en.wikipedia.org/wiki/Dibo_language"
 translations:
   - translation_iso: ara

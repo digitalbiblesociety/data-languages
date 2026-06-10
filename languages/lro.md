@@ -7,12 +7,15 @@ population: 40000
 country_id: SD
 country_name: Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 11.39154
 longitude: 30.38236
 glottocode: laro1243
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Ebang-Laru > Laru (North Sudan)"
+wikidata_id: Q35687
 wikipedia_url: "https://en.wikipedia.org/wiki/Laro_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 18000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.67682
 longitude: 141.03032
 glottocode: ngal1298
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Ngalum"
+wikidata_id: Q11732516
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngalum_language"
 translations:
   - translation_iso: ara

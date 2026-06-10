@@ -7,6 +7,8 @@ population: 17200
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.54263
 longitude: 118.49736
 scripts: [Latn, Tagb]
@@ -14,6 +16,7 @@ glottocode: tagb1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Palawanic > Northern Palawanic > Aborlanic > Tagbanwa"
+wikidata_id: Q3915475
 wikipedia_url: "https://en.wikipedia.org/wiki/Aborlan_Tagbanwa_language"
 translations:
   - translation_iso: ara

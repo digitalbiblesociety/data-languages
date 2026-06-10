@@ -6,12 +6,15 @@ population: 600
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.32551
 longitude: -73.3411
 glottocode: pisa1244
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Pano-Tacanan (Unattested) > Pisabo"
+wikidata_id: Q966883
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisabo_language"
 translations:
   - translation_iso: ara

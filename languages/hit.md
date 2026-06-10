@@ -7,6 +7,8 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40
 longitude: 35
 scripts: [Xsux]
@@ -14,6 +16,7 @@ glottocode: hitt1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Hittite"
+wikidata_id: Q35668
 wikipedia_url: "https://en.wikipedia.org/wiki/Hittite_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AL
 country_name: Albania
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.374444
 longitude: 47.126667
 glottocode: aghw1237
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Udi-Aghwan > Aghwan"
+wikidata_id: Q34931
 wikipedia_url: "https://en.wikipedia.org/wiki/Caucasian_Albanian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10000
 country_id: IL
 country_name: Israel
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 31.5279
 longitude: 34.76366
 glottocode: isra1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > DGSic > Israeli Sign Language"
+wikidata_id: Q2911863
 wikipedia_url: "https://en.wikipedia.org/wiki/Israeli_Sign_Language"
 translations:
   - translation_iso: ara

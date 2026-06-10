@@ -6,12 +6,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: null
+scope: individual
+language_type: living
 latitude: -5.6642
 longitude: 146.522
 glottocode: murp1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Korap linkage > Mur Pano"
+wikidata_id: Q16939373
 wikipedia_url: "https://en.wikipedia.org/wiki/Mur_Pano_language"
 translations:
   - translation_iso: ara

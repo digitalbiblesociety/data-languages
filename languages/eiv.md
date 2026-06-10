@@ -6,12 +6,15 @@ population: 1200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.22539
 longitude: 155.30733
 glottocode: asko1238
 glottolog_family_id: nort2933
 glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rotokas-Askopan > Askopan"
+wikidata_id: Q56324
 wikipedia_url: "https://en.wikipedia.org/wiki/Askopan_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: zhd
+macrolanguage_id: zha
 name: Dai Zhuang
 autonym: "Wen-Ma Southern Zhuang"
 alt_names: [Bu Dai, Kau Ndae, Khaau Daai, Thu Lao, Tu, Tuliao, Tuzu, Wen-Ma, Wenma, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Dai"]
@@ -7,12 +8,15 @@ population: 100200
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.83753
 longitude: 107.3622
 glottocode: daiz1235
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Dai Zhuang"
+wikidata_id: Q5209052
 wikipedia_url: "https://en.wikipedia.org/wiki/Dai_Zhuang_language"
 translations:
   - translation_iso: ara

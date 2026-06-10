@@ -7,12 +7,15 @@ population: 16000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.70149
 longitude: 121.71773
 glottocode: yoga1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Yogad"
+wikidata_id: Q8054343
 wikipedia_url: "https://en.wikipedia.org/wiki/Yogad_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 500000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.34954
 longitude: -6.31154
 glottocode: guro1248
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Guro-Yaoure > Guro"
+wikidata_id: Q35251
 wikipedia_url: "https://en.wikipedia.org/wiki/Guro_language"
 translations:
   - translation_iso: ara

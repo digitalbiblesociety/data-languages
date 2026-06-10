@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.51049
 longitude: 131.98485
 glottocode: tehi1237
 glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Tehit"
+wikidata_id: Q7694851
 wikipedia_url: "https://en.wikipedia.org/wiki/Tehit_language"
 translations:
   - translation_iso: ara

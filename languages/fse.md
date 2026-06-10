@@ -7,12 +7,15 @@ population: 5000
 country_id: FI
 country_name: Finland
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 60.66099
 longitude: 25.06767
 glottocode: finn1310
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Swedish Sign > Finnish Sign > Finnish Sign Language"
+wikidata_id: Q33225
 wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_Sign_Language"
 translations:
   - translation_iso: ara

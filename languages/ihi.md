@@ -6,8 +6,11 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.00917
 longitude: 6.08581
+wikidata_id: Q3441193
 wikipedia_url: "https://en.wikipedia.org/wiki/Ihievbe_language"
 translations:
   - translation_iso: ara

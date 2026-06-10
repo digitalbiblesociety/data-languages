@@ -7,12 +7,15 @@ population: 2700
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.18716
 longitude: 14.75061
 glottocode: bang1347
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Gbaya Meridional > Ngombe-Bangandu"
+wikidata_id: Q34938
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangandu_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 601000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.81307
 longitude: 122.2969
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kina1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kinarayan > Kinaray-a"
+wikidata_id: Q33720
 wikipedia_url: "https://en.wikipedia.org/wiki/Karay-a_language"
 translations:
   - translation_iso: ara

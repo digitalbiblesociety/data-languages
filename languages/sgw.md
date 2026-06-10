@@ -7,12 +7,15 @@ population: 2710000
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.11879
 longitude: 37.98907
 glottocode: seba1251
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > TT-Group > Sebat Bet Gurage"
+wikidata_id: Q2707343
 wikipedia_url: "https://en.wikipedia.org/wiki/Sebat_Bet_Gurage_language"
 translations:
   - translation_iso: ara

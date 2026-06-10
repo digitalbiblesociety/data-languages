@@ -7,12 +7,15 @@ population: 2680
 country_id: SD
 country_name: Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.73208
 longitude: 31.53992
 glottocode: kooo1244
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > Eastern Heibanic > Ko"
+wikidata_id: Q35693
 wikipedia_url: "https://en.wikipedia.org/wiki/Fungor_language"
 translations:
   - translation_iso: ara

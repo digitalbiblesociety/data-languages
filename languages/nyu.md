@@ -7,12 +7,15 @@ population: 490000
 country_id: MZ
 country_name: Mozambique
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -16.47566
 longitude: 33.02328
 glottocode: nyun1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Tumbuka-Sena-Nyanja > Sena-Nyanja > Senaic > Nyungweic > Nyungwe"
+wikidata_id: Q7071318
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyungwe_language"
 translations:
   - translation_iso: ara

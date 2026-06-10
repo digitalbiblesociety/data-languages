@@ -1,5 +1,6 @@
 ---
 iso: fuq
+macrolanguage_id: ful
 name: "Central-Eastern Niger Fulfulde"
 autonym: Fulani
 alt_names: [Fula, Fulah-Idiome, Fulbe, "Fulfulde, Central-Eastern Niger", Peul, Peulh]
@@ -7,6 +8,8 @@ population: 813000
 country_id: NE
 country_name: Niger
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.09071
 longitude: 8.43261
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: cent2018
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Eastern Fula > Central-Eastern Niger Fulfulde"
+wikidata_id: Q12628799
 wikipedia_url: "https://en.wikipedia.org/wiki/Central-Eastern_Niger_Fulfulde"
 translations:
   - translation_iso: ara

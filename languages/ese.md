@@ -7,12 +7,15 @@ population: 1110
 country_id: BO
 country_name: Bolivia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.72683
 longitude: -67.51496
 glottocode: esee1248
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Ese Ejja"
+wikidata_id: Q2980381
 wikipedia_url: "https://en.wikipedia.org/wiki/Ese_Ejja_language"
 translations:
   - translation_iso: ara

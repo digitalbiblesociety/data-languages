@@ -6,12 +6,15 @@ population: 1500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.31803
 longitude: 152.0052
 glottocode: mini1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Patpatar-Minigir-Tolai > Minigir-Tolai > Minigir"
+wikidata_id: Q17053237
 wikipedia_url: "https://en.wikipedia.org/wiki/Lungalunga_language"
 translations:
   - translation_iso: ara

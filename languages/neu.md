@@ -6,10 +6,13 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: neoa1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Neo (Artificial Language)"
+wikidata_id: Q606917
 wikipedia_url: "https://en.wikipedia.org/wiki/Neo_language"
 translations:
   - translation_iso: ara

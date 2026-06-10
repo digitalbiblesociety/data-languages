@@ -7,10 +7,13 @@ population: null
 country_id: DZ
 country_name: Algeria
 status_id: null
+scope: individual
+language_type: historical
 glottocode: numi1241
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Numidian"
+wikidata_id: Q35761
 wikipedia_url: "https://en.wikipedia.org/wiki/Numidian_language"
 translations:
   - translation_iso: ara

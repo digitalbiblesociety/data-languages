@@ -7,12 +7,15 @@ population: 3000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -2.01187
 longitude: 147.03608
 glottocode: kurt1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Kurti-Kele-Ere > Kurti-Elu > Kurti"
+wikidata_id: Q3200615
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurti_language"
 translations:
   - translation_iso: ara

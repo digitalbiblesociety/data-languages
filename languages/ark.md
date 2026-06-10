@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.48782
 longitude: -62.7261
 glottocode: arik1265
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Jabuti > Arikapú"
+wikidata_id: Q3446640
 wikipedia_url: "https://en.wikipedia.org/wiki/Arikap%C3%BA_language"
 translations:
   - translation_iso: ara

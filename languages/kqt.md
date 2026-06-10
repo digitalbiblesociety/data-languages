@@ -7,12 +7,15 @@ population: 1000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.39453
 longitude: 115.58186
 glottocode: klia1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Klias River Kadazan"
+wikidata_id: Q12953594
 wikipedia_url: "https://en.wikipedia.org/wiki/Klias_River_Kadazan_language"
 translations:
   - translation_iso: ara

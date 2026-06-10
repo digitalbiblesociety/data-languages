@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -17.09646
 longitude: 123.97143
 glottocode: warr1258
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Nyikinic > Warrwa"
+wikidata_id: Q7970852
 wikipedia_url: "https://en.wikipedia.org/wiki/Warrwa_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 297000
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 48.43595
 longitude: 92.669263
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: tuvi1240
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Sayan > Tuvinian"
+wikidata_id: Q34119
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuvan_language"
 translations:
   - translation_iso: ara

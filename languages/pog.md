@@ -6,8 +6,11 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -7.01666
 longitude: -37.99999
+wikidata_id: Q56722
 wikipedia_url: "https://en.wikipedia.org/wiki/Potiguara_dialect"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 41.65
 longitude: 82.9
 glottocode: tokh1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Tokharian > Tokharian B"
+wikidata_id: Q3199353
 wikipedia_url: "https://en.wikipedia.org/wiki/Tocharian_B"
 translations:
   - translation_iso: ara

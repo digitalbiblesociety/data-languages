@@ -7,12 +7,15 @@ population: 100
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.50635
 longitude: 10.99244
 glottocode: mbul1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Mbule"
+wikidata_id: Q35843
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbule_language"
 translations:
   - translation_iso: ara

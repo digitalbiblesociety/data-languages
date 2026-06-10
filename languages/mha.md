@@ -7,12 +7,15 @@ population: 4040
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.09622
 longitude: 83.67492
 glottocode: mand1413
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Manda-Kui > Manda-Pengo > Manda (India)"
+wikidata_id: Q56760
 wikipedia_url: "https://en.wikipedia.org/wiki/Manda_language_(India)"
 translations:
   - translation_iso: ara

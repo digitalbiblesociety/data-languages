@@ -7,12 +7,15 @@ population: 112
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 10.209
 longitude: -63.018
 glottocode: cuma1240
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Cumana > Cumanagoto"
+wikidata_id: Q5193784
 wikipedia_url: "https://en.wikipedia.org/wiki/Cumanagoto_language"
 translations:
   - translation_iso: ara

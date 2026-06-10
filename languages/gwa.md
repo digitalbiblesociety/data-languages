@@ -7,12 +7,15 @@ population: 25000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.34421
 longitude: -3.70421
 glottocode: mbat1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Potou > Mbato"
+wikidata_id: Q3914941
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbato_language"
 translations:
   - translation_iso: ara

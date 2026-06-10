@@ -7,12 +7,15 @@ population: 25100
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.77212
 longitude: 122.56737
 glottocode: koli1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Subanen > Western Subanen > Kolibugan Subanon"
+wikidata_id: Q18755617
 translations:
   - translation_iso: ara
     name: اللغة كوليبوجان سوبانون

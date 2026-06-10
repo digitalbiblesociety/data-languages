@@ -7,6 +7,8 @@ population: 395700
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.83195
 longitude: 14.4751
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mund1325
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Mundang"
+wikidata_id: Q36032
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundang_language"
 translations:
   - translation_iso: ara

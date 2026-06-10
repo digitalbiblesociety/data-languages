@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 2.69932
 longitude: -62.54131
 glottocode: xiri1243
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Bahuanaic > Xiriâna"
+wikidata_id: Q2028772
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahuana_language"
 translations:
   - translation_iso: ara

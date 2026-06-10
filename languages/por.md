@@ -1,5 +1,6 @@
 ---
 iso: por
+iso639_1: pt
 name: Portuguese
 autonym: português
 alt_names: [IsiPutukezi, Kimputulukesi, Kireno, Lenghe portughese, Lhéngua pertuesa, Lipulutugɛ́si, Luenga portuguesa, Phù-thò-â-ngî, Portagailis, Portegeesk, Portekizce, Portiwgaleg, Portoghés, Portugais, Portugal tili, Portugal-gú, Portugalana linguo, Portugaleg, Portugalsko godka, Portugees, Portugeesche Spraak, Portuges, Portugiesisch, Portugisesch, Portugisisk, Portugisiska, Portuguese bhasa, Portuguese leid, Portuguès, Portugués, Portugálagiella, Portyngalek, Portúgalska, "Poytugañe'ẽ", Purtuyis simi, Pɔtugisgbe, Łéngoa portoghexe, Забони португалӣ, Португаал тыла, Португал йылме, Պորտուգալերեն, פארטוגעזיש, פורטוגזית, زمانی پۆرتووگالی, پرتگالی, پرتگیزی, پورتۇگال تىلى, ޕޯޗުގީޒު]
@@ -7,6 +8,8 @@ population: 221000000
 country_id: PT
 country_name: Portugal
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 42.03412
 longitude: -4.18815
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: port1283
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Brazil-Portugal Portuguese > Portuguese"
+wikidata_id: Q5146
 wikipedia_url: "https://en.wikipedia.org/wiki/Portuguese_language"
 translations:
   - translation_iso: ara

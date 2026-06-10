@@ -7,12 +7,15 @@ population: 15000
 country_id: SS
 country_name: South Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.6242
 longitude: 31.91031
 glottocode: olub1238
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Olu'bo"
+wikidata_id: Q6589401
 wikipedia_url: "https://en.wikipedia.org/wiki/Olu%CA%BCbo_language"
 translations:
   - translation_iso: ara

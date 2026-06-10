@@ -7,12 +7,15 @@ population: 27700
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.17129
 longitude: -92.73666
 glottocode: taba1266
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chol-Chontal > Tabasco Chontal"
+wikidata_id: Q35175
 wikipedia_url: "https://en.wikipedia.org/wiki/Chontal_Maya_language"
 translations:
   - translation_iso: ara

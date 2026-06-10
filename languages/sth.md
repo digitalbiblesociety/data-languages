@@ -7,12 +7,15 @@ population: 6000
 country_id: IE
 country_name: Ireland
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 53.79071
 longitude: -7.73983
 glottocode: shel1236
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Irish-English > Shelta"
+wikidata_id: Q36705
 wikipedia_url: "https://en.wikipedia.org/wiki/Shelta"
 translations:
   - translation_iso: ara

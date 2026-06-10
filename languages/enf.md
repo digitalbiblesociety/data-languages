@@ -7,12 +7,15 @@ population: 198
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 69.98287
 longitude: 88.2121
 glottocode: fore1265
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Enets > Forest Enets"
+wikidata_id: Q30249597
 wikipedia_url: "https://en.wikipedia.org/wiki/Forest_Enets_language"
 translations:
   - translation_iso: ara

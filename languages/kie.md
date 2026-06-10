@@ -7,12 +7,15 @@ population: 18500
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.32054
 longitude: 20.87674
 glottocode: kibe1241
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Runga-Kibet > Kibet"
+wikidata_id: Q56893
 translations:
   - translation_iso: ara
     name: لغة كيبت

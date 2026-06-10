@@ -7,12 +7,15 @@ population: 1900
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -18.81812
 longitude: 169.16608
 glottocode: siee1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Erromanga > Sie"
+wikidata_id: Q426254
 wikipedia_url: "https://en.wikipedia.org/wiki/Erromanga_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 378000
 country_id: BD
 country_name: Bangladesh
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.00148
 longitude: 92.339
 scripts: [Beng, Cakm]
@@ -14,6 +16,7 @@ glottocode: chak1266
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Southeastern Bengali > Chakma"
+wikidata_id: Q32952
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakma_language"
 translations:
   - translation_iso: ara

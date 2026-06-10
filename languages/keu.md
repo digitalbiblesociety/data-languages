@@ -7,12 +7,15 @@ population: 73000
 country_id: TG
 country_name: Togo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.78365
 longitude: 0.77668
 glottocode: akeb1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Kebu-Animere > Akebu"
+wikidata_id: Q35026
 wikipedia_url: "https://en.wikipedia.org/wiki/Kebu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 48.07068
 longitude: -123.5115
 glottocode: clal1241
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Straits Salish > Clallam"
+wikidata_id: Q33404
 wikipedia_url: "https://en.wikipedia.org/wiki/Klallam_language"
 translations:
   - translation_iso: ara

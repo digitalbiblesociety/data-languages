@@ -7,6 +7,8 @@ population: 2130000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 2.13867
 longitude: 33.05527
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lang1324
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Lango-Kumam > Lango (Uganda)"
+wikidata_id: Q35670
 wikipedia_url: "https://en.wikipedia.org/wiki/Lango_language_(Uganda)"
 translations:
   - translation_iso: ara

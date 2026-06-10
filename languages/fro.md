@@ -7,6 +7,8 @@ population: null
 country_id: FR
 country_name: France
 status_id: null
+scope: individual
+language_type: historical
 latitude: 48.8
 longitude: 1.11
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: oldf1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Old French (842-ca. 1400)"
+wikidata_id: Q35222
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_French"
 translations:
   - translation_iso: ara

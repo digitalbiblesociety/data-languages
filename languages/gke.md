@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 8.09039
 longitude: 14.28884
 glottocode: ndai1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Dama-Galke > Ndai"
+wikidata_id: Q6983667
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndai_language"
 translations:
   - translation_iso: ara

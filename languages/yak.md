@@ -7,12 +7,15 @@ population: 3000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 46.26552
 longitude: -120.75587
 glottocode: yaki1237
 glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Sahaptin > Northern Sahaptin > Northwest Sahaptin"
+wikidata_id: Q35976053
 translations:
   - translation_iso: ara
     name: ياكاما

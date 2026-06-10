@@ -7,12 +7,15 @@ population: 185800
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.717835
 longitude: -3.58355
 glottocode: mark1256
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Marka"
+wikidata_id: Q36030
 wikipedia_url: "https://en.wikipedia.org/wiki/Marka_language"
 translations:
   - translation_iso: ara

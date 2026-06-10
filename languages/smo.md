@@ -1,5 +1,6 @@
 ---
 iso: smo
+iso639_1: sm
 name: Samoan
 autonym: Gagana faʻa Sāmoa
 alt_names: [Lea fakahaʻamoa, Samoa, Samoaans, Samoaeg, Samoansk, Samoanska, Samoà, Samwa simi, Samöeg, Σαμόα, ‘Ōlelo Sāmoa]
@@ -7,6 +8,8 @@ population: 421570
 country_id: WS
 country_name: Samoa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -13.92
 longitude: -171.83
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: samo1305
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Pukapukic > Samoan-Tokelauan > Samoan"
+wikidata_id: Q34011
 wikipedia_url: "https://en.wikipedia.org/wiki/Samoan_language"
 translations:
   - translation_iso: ara

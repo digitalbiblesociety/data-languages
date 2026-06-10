@@ -6,7 +6,10 @@ population: 326500
 country_id: MN
 country_name: Mongolia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cyrl]
+wikidata_id: Q33120
 wikipedia_url: "https://en.wikipedia.org/wiki/Buryat_language"
 translations:
   - translation_iso: ara

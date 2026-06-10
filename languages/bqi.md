@@ -7,6 +7,8 @@ population: 1240000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.01634
 longitude: 49.77132
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: bakh1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Bakhtiari-Southern Lori > Bakhtiari"
+wikidata_id: Q257829
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakhtiari_dialect"
 translations:
   - translation_iso: ara

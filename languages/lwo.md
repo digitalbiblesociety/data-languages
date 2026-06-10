@@ -7,12 +7,15 @@ population: 257000
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.35089
 longitude: 28.13775
 glottocode: luwo1239
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Luwo-Thuri > Luwo"
+wikidata_id: Q56362
 wikipedia_url: "https://en.wikipedia.org/wiki/Jur_language"
 translations:
   - translation_iso: ara

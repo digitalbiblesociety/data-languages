@@ -6,8 +6,11 @@ population: 36000
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.387
 longitude: 104.518
+wikidata_id: Q6488022
 wikipedia_url: "https://en.wikipedia.org/wiki/Laotian_sign_languages"
 translations:
   - translation_iso: ara

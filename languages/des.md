@@ -7,12 +7,15 @@ population: 3420
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.58157
 longitude: -69.495545
 glottocode: desa1247
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Yupua-Siriano-Desano > Siriano-Desano > Desano"
+wikidata_id: Q962392
 wikipedia_url: "https://en.wikipedia.org/wiki/Desano_language"
 translations:
   - translation_iso: ara

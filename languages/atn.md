@@ -7,12 +7,15 @@ population: 21100
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 37.74693
 longitude: 48.68083
 glottocode: asht1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Adharic > Tatic > Southern Tatic > Vafsic > Ashtiani"
+wikidata_id: Q3436590
 wikipedia_url: "https://en.wikipedia.org/wiki/Ashtiani_language"
 translations:
   - translation_iso: ara

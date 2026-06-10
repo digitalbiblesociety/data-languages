@@ -1,5 +1,6 @@
 ---
 iso: zad
+macrolanguage_id: zap
 name: Cajonos Zapotec
 autonym: "Zapoteco, Yaganiza"
 alt_names: [Rincón, Sierra de Villa Alta, Southern Sapoteko, Southern Villa Alta Zapotec, Villalta (non-preferred), Yalálog, Zapotec, "Zapotec, Cajonos", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro Cajonos, "Zapotèque d'Asunción Tlacolulita", dill xhon]
@@ -7,12 +8,15 @@ population: 5000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.14274
 longitude: -96.33521
 glottocode: cajo1238
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Cajonos Zapotec"
+wikidata_id: Q5017997
 wikipedia_url: "https://en.wikipedia.org/wiki/Cajonos_Zapotec"
 translations:
   - translation_iso: ara

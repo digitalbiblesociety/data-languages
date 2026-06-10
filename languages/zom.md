@@ -7,12 +7,15 @@ population: 87500
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.064925
 longitude: 93.92528
 glottocode: zouu1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Zou"
+wikidata_id: Q37011
 wikipedia_url: "https://en.wikipedia.org/wiki/Zou_language"
 translations:
   - translation_iso: ara

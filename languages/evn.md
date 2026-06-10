@@ -7,6 +7,8 @@ population: 1600
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 53.85003
 longitude: 108.625523
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: even1259
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Evenki"
+wikidata_id: Q30004
 wikipedia_url: "https://en.wikipedia.org/wiki/Evenki_language"
 translations:
   - translation_iso: ara

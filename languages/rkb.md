@@ -7,12 +7,15 @@ population: 910
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -11.18865
 longitude: -58.19424
 glottocode: rikb1245
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Rikbaktsa"
+wikidata_id: Q2585357
 wikipedia_url: "https://en.wikipedia.org/wiki/Rikbaktsa_language"
 translations:
   - translation_iso: ara

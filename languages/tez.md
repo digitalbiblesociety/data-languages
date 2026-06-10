@@ -6,12 +6,15 @@ population: 2000
 country_id: NE
 country_name: Niger
 status_id: null
+scope: individual
+language_type: living
 latitude: 14.973333
 longitude: 5.699722
 glottocode: tets1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Western Berber > Tetserret"
+wikidata_id: Q7706841
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetserret_language"
 translations:
   - translation_iso: ara

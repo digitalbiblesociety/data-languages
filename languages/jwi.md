@@ -6,12 +6,15 @@ population: 18000
 country_id: GH
 country_name: Ghana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.10752
 longitude: -2.10891
 glottocode: jwir1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Southern Bia > Jwira-Nzima > Jwira-Pepesa"
+wikidata_id: Q35467
 wikipedia_url: "https://en.wikipedia.org/wiki/Jwira%E2%80%93Pepesa_language"
 translations:
   - translation_iso: ara

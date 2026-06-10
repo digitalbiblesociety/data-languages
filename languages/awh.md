@@ -6,12 +6,15 @@ population: 100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.05875
 longitude: 139.72441
 glottocode: awbo1238
 glottolog_family_id: bayo1259
 glottolog_family_name: Bayono-Awbono
 glottolog_classification: "Bayono-Awbono > Awbono"
+wikidata_id: Q3446684
 wikipedia_url: "https://en.wikipedia.org/wiki/Awbono_language"
 translations:
   - translation_iso: ara

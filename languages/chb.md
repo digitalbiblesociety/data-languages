@@ -7,12 +7,15 @@ population: null
 country_id: CO
 country_name: Colombia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 6.24999
 longitude: -74.16665
 glottocode: chib1270
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Chibcha-Duit > Chibcha"
+wikidata_id: Q2356431
 wikipedia_url: "https://en.wikipedia.org/wiki/Muisca_language"
 translations:
   - translation_iso: ara

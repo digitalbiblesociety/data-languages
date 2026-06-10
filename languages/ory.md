@@ -1,17 +1,21 @@
 ---
 iso: ory
+macrolanguage_id: ori
 name: Odia
 autonym: ଓଡ଼ିଆ
 population: 34500000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 21
 longitude: 85
 glottocode: oriy1255
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Odia"
+wikidata_id: Q33810
 wikipedia_url: "https://en.wikipedia.org/wiki/Odia_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 230
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.39765
 longitude: 140.89701
 glottocode: yafi1240
 glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Yafi"
+wikidata_id: Q8074520
 wikipedia_url: "https://en.wikipedia.org/wiki/Yafi_language"
 translations:
   - translation_iso: ara

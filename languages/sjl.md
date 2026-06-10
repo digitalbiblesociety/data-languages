@@ -7,12 +7,15 @@ population: 6500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.65952
 longitude: 96.66328
 glottocode: saja1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Miji > Sajolang"
+wikidata_id: Q6845470
 translations:
   - translation_iso: ara
     name: اللغة ساجالونج

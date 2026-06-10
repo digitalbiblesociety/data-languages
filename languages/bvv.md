@@ -6,8 +6,11 @@ population: null
 country_id: VE
 country_name: Venezuela
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 5.26123
 longitude: -67.56327
+wikidata_id: Q3515198
 wikipedia_url: "https://en.wikipedia.org/wiki/Avane_language"
 translations:
   - translation_iso: ara

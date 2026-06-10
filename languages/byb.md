@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 6.74997
 longitude: 10.53331
 glottocode: biky1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Bikya"
+wikidata_id: Q33257
 wikipedia_url: "https://en.wikipedia.org/wiki/Bikya_language"
 translations:
   - translation_iso: ara

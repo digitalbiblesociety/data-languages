@@ -7,12 +7,15 @@ population: 3000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.70402
 longitude: -98.19468
 glottocode: tlac1235
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Tlachichilco Tepehua"
+wikidata_id: Q56330
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlachichilco_Tepehua"
 translations:
   - translation_iso: ara

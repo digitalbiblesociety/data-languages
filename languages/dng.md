@@ -7,6 +7,8 @@ population: 108400
 country_id: KG
 country_name: Kyrgyzstan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 42.729205
 longitude: 76.838225
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: dung1253
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Mandarinic > Zhongyuan > Dungan"
+wikidata_id: Q33050
 wikipedia_url: "https://en.wikipedia.org/wiki/Dungan_language"
 translations:
   - translation_iso: ara

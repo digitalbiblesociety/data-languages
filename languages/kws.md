@@ -7,12 +7,15 @@ population: 60000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.60445
 longitude: 18.57589
 glottocode: kwes1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Holu (K.10) > Pheende-Kwezo > Kwese"
+wikidata_id: Q3200846
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwese_language"
 translations:
   - translation_iso: ara

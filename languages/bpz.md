@@ -7,12 +7,15 @@ population: 7000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.6503
 longitude: 123.30668
 glottocode: bilb1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > Nuclear Rote > Central East Rote > Southeast Rote > Bilba"
+wikidata_id: Q8843362
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilba_language"
 translations:
   - translation_iso: ara

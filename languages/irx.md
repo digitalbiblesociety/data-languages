@@ -7,12 +7,15 @@ population: 1570
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.53189
 longitude: 133.51841
 glottocode: kamb1302
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Sabakor > Kamberau > North Kamrau"
+wikidata_id: Q6356317
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamberau_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 5.21504
 longitude: -3.05409
 glottocode: esum1241
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Esuma"
+wikidata_id: Q16927555
 wikipedia_url: "https://en.wikipedia.org/wiki/Esuma_language"
 translations:
   - translation_iso: ara

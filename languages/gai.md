@@ -7,12 +7,15 @@ population: 2090
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.08697
 longitude: 144.71548
 glottocode: bore1247
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Borei"
+wikidata_id: Q6799756
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbore_language"
 translations:
   - translation_iso: ara

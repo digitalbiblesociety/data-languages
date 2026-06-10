@@ -7,12 +7,15 @@ population: 60000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.97538
 longitude: 112.32587
 glottocode: dzao1238
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Mienic > Zaominic > Dzao Min"
+wikidata_id: Q3042189
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzao_Min_language"
 translations:
   - translation_iso: ara

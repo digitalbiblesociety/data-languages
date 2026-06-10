@@ -7,12 +7,15 @@ population: 22000
 country_id: SD
 country_name: Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.16012
 longitude: 34.229265
 glottocode: uduk1239
 glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Komo-Uduk > Uduk"
+wikidata_id: Q3182573
 wikipedia_url: "https://en.wikipedia.org/wiki/Uduk_language"
 translations:
   - translation_iso: ara

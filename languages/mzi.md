@@ -7,12 +7,15 @@ population: 8590
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.15308
 longitude: -96.57186
 glottocode: ixca1246
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Northern Baja Mazatec > Ixcatlán Mazatec"
+wikidata_id: Q6101049
 wikipedia_url: "https://en.wikipedia.org/wiki/Ixcatl%C3%A1n_Mazatec"
 translations:
   - translation_iso: ara

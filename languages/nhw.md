@@ -7,6 +7,8 @@ population: 400000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.3711
 longitude: -98.77114
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: west2624
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Huasteca Nahuatl > Western Huasteca Nahuatl"
+wikidata_id: Q2678840
 translations:
   - translation_iso: ara
     name: ويسترن هواستيكا ناهواتل

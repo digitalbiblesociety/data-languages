@@ -7,12 +7,15 @@ population: 128000
 country_id: ZM
 country_name: Zambia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.71918
 longitude: 28.25808
 glottocode: lenj1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Central Eastern Botatwe > Kafue > Lenje"
+wikidata_id: Q6522666
 wikipedia_url: "https://en.wikipedia.org/wiki/Lenje_language"
 translations:
   - translation_iso: ara

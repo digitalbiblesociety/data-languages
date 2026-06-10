@@ -7,12 +7,15 @@ population: 16000
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.6066
 longitude: 107.85923
 glottocode: reng1252
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Rengao"
+wikidata_id: Q6583692
 wikipedia_url: "https://en.wikipedia.org/wiki/Rengao_language"
 translations:
   - translation_iso: ara

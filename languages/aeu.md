@@ -7,12 +7,15 @@ population: 12400
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 22.1959
 longitude: 101.0823
 glottocode: akeu1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Akeuic > Akeu"
+wikidata_id: Q4700657
 wikipedia_url: "https://en.wikipedia.org/wiki/Akeu_language"
 translations:
   - translation_iso: ara

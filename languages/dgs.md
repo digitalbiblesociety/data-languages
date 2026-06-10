@@ -7,12 +7,15 @@ population: 9000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.04888
 longitude: -4.35805
 glottocode: dogo1294
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Dogoso-Khe > Dogoso"
+wikidata_id: Q35343
 wikipedia_url: "https://en.wikipedia.org/wiki/Dogoso_language"
 translations:
   - translation_iso: ara

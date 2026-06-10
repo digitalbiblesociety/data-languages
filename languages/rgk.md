@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 29.22776
 longitude: 80.08455
 glottocode: rang1266
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Rangkas"
+wikidata_id: Q7292645
 wikipedia_url: "https://en.wikipedia.org/wiki/Rangas_language"
 translations:
   - translation_iso: ara

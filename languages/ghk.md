@@ -7,12 +7,15 @@ population: 9500
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.67411
 longitude: 96.5308
 glottocode: geko1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Northern Karen > Geko Karen"
+wikidata_id: Q5530317
 wikipedia_url: "https://en.wikipedia.org/wiki/Geko_Karen_language"
 translations:
   - translation_iso: ara

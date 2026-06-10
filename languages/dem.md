@@ -7,9 +7,12 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.72183
 longitude: 137.63227
 glottocode: demm1245
+wikidata_id: Q5254989
 wikipedia_url: "https://en.wikipedia.org/wiki/Dem_language"
 translations:
   - translation_iso: ara

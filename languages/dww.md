@@ -7,12 +7,15 @@ population: 2280
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.16915
 longitude: 149.99865
 glottocode: dawa1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Kakabai linkage > Dawawa"
+wikidata_id: Q5242286
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawawa_language"
 translations:
   - translation_iso: ara

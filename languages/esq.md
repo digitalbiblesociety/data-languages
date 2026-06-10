@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 36.54726
 longitude: -121.86656
 glottocode: esse1238
+wikidata_id: Q1294243
 wikipedia_url: "https://en.wikipedia.org/wiki/Esselen_language"
 translations:
   - translation_iso: ara

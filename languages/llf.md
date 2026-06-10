@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -1.52891
 longitude: 145.07496
 glottocode: herm1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Hermit"
+wikidata_id: Q3134240
 wikipedia_url: "https://en.wikipedia.org/wiki/Hermit_language"
 translations:
   - translation_iso: ara

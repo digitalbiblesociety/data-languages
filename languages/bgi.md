@@ -7,12 +7,15 @@ population: 58500
 country_id: PH
 country_name: Philippines
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 6.99967
 longitude: 125.3591
 glottocode: gian1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Giangan"
+wikidata_id: Q4842057
 wikipedia_url: "https://en.wikipedia.org/wiki/Klata_language"
 translations:
   - translation_iso: ara

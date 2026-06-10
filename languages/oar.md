@@ -7,12 +7,15 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 32.84
 longitude: 37
 glottocode: olda1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Old Aramaic-Sam'alian"
+wikidata_id: Q3398392
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Aramaic"
 translations:
   - translation_iso: ara

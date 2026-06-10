@@ -1,5 +1,6 @@
 ---
 iso: hnj
+macrolanguage_id: hmn
 name: Hmong Njua
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Blue Hmong, Blue Meo, Blue Miao, Ching Miao, Green Hmong, Green Meo, Green Miao, Hmong Lens, Hmong Nzhua, Hmoob Leeg, Lu Miao, Meo Dam, Meo Lai, Mong Leng, Mong Njua, Mong Ntsua, Qing Miao, Red Miao, Tak Miao, White Miao]
@@ -7,6 +8,8 @@ population: 316750
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.563832
 longitude: 101.950052
 scripts: [Laoo]
@@ -14,6 +17,7 @@ glottocode: hmon1264
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Far Western Miao > Hmong Njua"
+wikidata_id: Q3138831
 translations:
   - translation_iso: ara
     name: لغة مهمونغ نجوا

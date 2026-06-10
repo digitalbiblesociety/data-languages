@@ -7,12 +7,15 @@ population: 39200
 country_id: LA
 country_name: Laos
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 20.799585
 longitude: 100.95699
 glottocode: phun1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Singsali-Bisu > Phunoi"
+wikidata_id: Q7188361
 wikipedia_url: "https://en.wikipedia.org/wiki/Phunoi_language"
 translations:
   - translation_iso: ara

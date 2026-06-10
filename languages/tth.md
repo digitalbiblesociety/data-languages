@@ -7,12 +7,15 @@ population: 49900
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.186515
 longitude: 107.056135
 glottocode: uppe1406
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Ong-Ta'oih > Upper Ta'oih"
+wikidata_id: Q3512660
 translations:
   - translation_iso: ara
     name: الطاعة العليا

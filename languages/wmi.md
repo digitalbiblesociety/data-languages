@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -18.37266
 longitude: 143.94347
 glottocode: wami1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Finasleigh Pama > Wamin"
+wikidata_id: Q7966934
 wikipedia_url: "https://en.wikipedia.org/wiki/Wamin_language"
 translations:
   - translation_iso: ara

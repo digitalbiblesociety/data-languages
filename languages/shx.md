@@ -7,12 +7,15 @@ population: 709000
 country_id: CN
 country_name: China
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 23.03995
 longitude: 114.81419
 glottocode: shee1238
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Jiongnai-Ho Ne > Ho Neic > She"
+wikidata_id: Q2605689
 wikipedia_url: "https://en.wikipedia.org/wiki/She_language"
 translations:
   - translation_iso: ara

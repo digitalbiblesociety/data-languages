@@ -7,12 +7,15 @@ population: 8220
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.07758
 longitude: 144.02814
 glottocode: ango1255
 glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Angoram"
+wikidata_id: Q56366
 wikipedia_url: "https://en.wikipedia.org/wiki/Angoram_language"
 translations:
   - translation_iso: ara

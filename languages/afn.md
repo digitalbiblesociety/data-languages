@@ -7,12 +7,15 @@ population: 200
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 4.58451
 longitude: 7.50186
 glottocode: defa1248
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Defaka"
+wikidata_id: Q35174
 wikipedia_url: "https://en.wikipedia.org/wiki/Defaka_language"
 translations:
   - translation_iso: ara

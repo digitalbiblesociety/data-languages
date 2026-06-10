@@ -6,12 +6,15 @@ population: 15000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.16163
 longitude: 147.27997
 glottocode: komb1273
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Cromwell > Kabwum > Selepet-Komba > Komba"
+wikidata_id: Q6428239
 wikipedia_url: "https://en.wikipedia.org/wiki/Komba_language"
 translations:
   - translation_iso: ara

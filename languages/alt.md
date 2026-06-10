@@ -7,6 +7,8 @@ population: 57400
 country_id: RU
 country_name: Russia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 50.13472
 longitude: 86.87051
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: sout2694
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > East Kipchak > Southern Altai"
+wikidata_id: Q1991779
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Altai_language"
 translations:
   - translation_iso: ara

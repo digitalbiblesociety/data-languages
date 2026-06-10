@@ -7,12 +7,15 @@ population: 4270
 country_id: LR
 country_name: Liberia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.232635
 longitude: -7.503175
 glottocode: glar1241
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Glaro-Twabo"
+wikidata_id: Q3915313
 wikipedia_url: "https://en.wikipedia.org/wiki/Glaro-Twabo_language"
 translations:
   - translation_iso: ara

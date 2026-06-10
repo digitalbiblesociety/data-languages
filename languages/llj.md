@@ -6,6 +6,9 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q6512694
 wikipedia_url: "https://en.wikipedia.org/wiki/Latji-Latji_dialect"
 translations:
   - translation_iso: ara

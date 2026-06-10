@@ -7,12 +7,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.324
 longitude: 95.427
 glottocode: chen1271
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Wanchoic > Chen Naga"
+wikidata_id: Q63283784
 translations:
   - translation_iso: ara
     name: كيان-كاريو ناغا

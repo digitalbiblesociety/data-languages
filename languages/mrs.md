@@ -7,12 +7,15 @@ population: 15
 country_id: VU
 country_name: Vanuatu
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -16.06954
 longitude: 167.3303
 glottocode: mara1399
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Western Malakula linkage > Peripheral Western Malakula > Northwestern Malakula > Maragus"
+wikidata_id: Q6754640
 wikipedia_url: "https://en.wikipedia.org/wiki/Tape_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 250000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.69219
 longitude: 51.09964
 glottocode: pers1244
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Zaban Eshareh Irani"
+wikidata_id: Q7170221
 wikipedia_url: "https://en.wikipedia.org/wiki/Iranian_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.25216
 longitude: 144.58514
 glottocode: kala1397
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > Kalam-Kobon > Etp-Ti Kalam > Kalam"
+wikidata_id: Q12952550
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalam_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: ayh
+macrolanguage_id: ara
 name: Hadrami Arabic
 autonym: Hadrami
 alt_names: [Arabic, "Arabic, Hadrami", "Arabic, Hadrami Spoken", Hadhrami, Hadhrami Arabic, Hadrami arapski, Hadromi, لهجة حضرمية]
@@ -7,12 +8,15 @@ population: 4943000
 country_id: YE
 country_name: Yemen
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.44676
 longitude: 48.65241
 glottocode: hadr1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Hadrami Arabic"
+wikidata_id: Q3510366
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadhrami_Arabic"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 10000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.55838
 longitude: 38.12529
+wikidata_id: Q6983793
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndonde_language"
 translations:
   - translation_iso: ara

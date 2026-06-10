@@ -1,5 +1,6 @@
 ---
 iso: ttq
+macrolanguage_id: tmh
 name: Tawallammat Tamajaq
 autonym: Tawəlləmmət
 alt_names: [Abinawa, Amazigh, Buzu, Tahoua, Tahoua Tamajeq, Tajag, Tamachek, Tamajaq, "Tamajaq, Tawallammat", Tamajeq, Tamashekin, Tamasheq, Tamazheq, Tawallammat, Tewellemet, Tomacheck, Touareg, Tourage, Tuareg]
@@ -7,12 +8,15 @@ population: 870000
 country_id: NE
 country_name: Niger
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.98783
 longitude: 4.47692
 glottocode: tawa1286
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Tuareg > Southern Tuareg > Tawallammat Tamajaq"
+wikidata_id: Q56390
 wikipedia_url: "https://en.wikipedia.org/wiki/Tawellemmet_language"
 translations:
   - translation_iso: ara

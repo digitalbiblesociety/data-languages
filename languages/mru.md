@@ -7,12 +7,15 @@ population: 300
 country_id: CM
 country_name: Cameroon
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 8.78372
 longitude: 14.22542
 glottocode: mono1269
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Northern Mbum > Tupuri-Mundang-Mambai > Mundangic > Mono (Cameroon)"
+wikidata_id: Q11031964
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(Cameroon)"
 translations:
   - translation_iso: ara

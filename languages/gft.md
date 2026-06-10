@@ -7,12 +7,15 @@ population: null
 country_id: ET
 country_name: Ethiopia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 11.57637
 longitude: 39.56049
 glottocode: gafa1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > N-Group > Gafat"
+wikidata_id: Q56910
 wikipedia_url: "https://en.wikipedia.org/wiki/Gafat_language"
 translations:
   - translation_iso: ara

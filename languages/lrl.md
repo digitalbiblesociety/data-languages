@@ -7,12 +7,15 @@ population: 118000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.6436
 longitude: 54.63449
 glottocode: lari1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Larestani"
+wikidata_id: Q4699526
 wikipedia_url: "https://en.wikipedia.org/wiki/Achomi_language"
 translations:
   - translation_iso: ara

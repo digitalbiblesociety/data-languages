@@ -1,5 +1,6 @@
 ---
 iso: aao
+macrolanguage_id: ara
 name: Algerian Saharan Arabic
 autonym: Saharan Arabic
 alt_names: [Arabe saharien, Arabic, "Arabic, Algerian Saharan", "Arabic, Algerian Saharan Spoken", Bedouin Saharan Dialects, Saharski arapski, Tamanghasset Arabic, Tamanrasset Arabic, Árabe sahariano]
@@ -7,12 +8,15 @@ population: 243000
 country_id: DZ
 country_name: Algeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.8884
 longitude: 4.80626
 glottocode: alge1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Algerian Saharan Arabic"
+wikidata_id: Q56725
 wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Saharan_Arabic"
 translations:
   - translation_iso: ara

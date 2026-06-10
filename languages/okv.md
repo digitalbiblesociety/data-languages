@@ -7,12 +7,15 @@ population: 35000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.79019
 longitude: 148.08954
 glottocode: orok1269
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Orokaivic > Orokaiva"
+wikidata_id: Q7103752
 wikipedia_url: "https://en.wikipedia.org/wiki/Orokaiva_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 21900
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 66.17749
 longitude: 71.02339
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: nene1249
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Samoyedic > Enets-Nenets > Nenets > Tundra Nenets"
+wikidata_id: Q36452
 wikipedia_url: "https://en.wikipedia.org/wiki/Nenets_languages"
 translations:
   - translation_iso: ara

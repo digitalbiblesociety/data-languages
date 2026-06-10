@@ -7,12 +7,15 @@ population: 129000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.42441
 longitude: -0.59545
 glottocode: awut1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > South Guang > Awutu"
+wikidata_id: Q34847
 wikipedia_url: "https://en.wikipedia.org/wiki/Awutu_language"
 translations:
   - translation_iso: ara

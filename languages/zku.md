@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
 latitude: -34.349661
 longitude: 138.480079
 glottocode: kaur1267
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Core Thura Yura > Southern Thura-Yura > Kaurna"
+wikidata_id: Q6378899
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaurna_language"
 translations:
   - translation_iso: ara

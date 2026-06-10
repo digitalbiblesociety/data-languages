@@ -6,8 +6,11 @@ population: 4780
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.08332
 longitude: 97.08332
+wikidata_id: Q12952740
 translations:
   - translation_iso: ara
     name: لغة وپي

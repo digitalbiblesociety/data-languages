@@ -7,12 +7,15 @@ population: 14600
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.371405
 longitude: 87.93063
 glottocode: yakk1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Yakkha-Athpariyic > Yakkha"
+wikidata_id: Q56666
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakkha_language"
 translations:
   - translation_iso: ara

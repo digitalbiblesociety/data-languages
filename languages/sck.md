@@ -7,6 +7,8 @@ population: 5131180
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 23.65853
 longitude: 84.81136
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: sadr1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Sadanic > Sadri-Panchpargania > India-Nepal-Bangladesh Sadri > Sadri"
+wikidata_id: Q765922
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagpuri_language"
 translations:
   - translation_iso: ara

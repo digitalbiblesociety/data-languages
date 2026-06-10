@@ -7,12 +7,15 @@ population: 100000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.84777
 longitude: 69.87341
 glottocode: sout2671
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Western Pashayi > Southwest Pashayi"
+wikidata_id: Q16112270
 translations:
   - translation_iso: ara
     name: اللغة بشاي الجنوبية الغربية

@@ -7,12 +7,15 @@ population: 580
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.96482
 longitude: -97.45367
 glottocode: taca1257
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Tacahua-Yolotepec Mixtec"
+wikidata_id: Q7673668
 wikipedia_url: "https://en.wikipedia.org/wiki/Tacahua_Mixtec"
 translations:
   - translation_iso: ara

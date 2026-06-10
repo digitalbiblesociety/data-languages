@@ -7,12 +7,15 @@ population: 10300
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.23123
 longitude: -6.51077
 glottocode: bakw1243
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Bakwe-Wane > Bakwé"
+wikidata_id: Q34899
 wikipedia_url: "https://en.wikipedia.org/wiki/Bakw%C3%A9_language"
 translations:
   - translation_iso: ara

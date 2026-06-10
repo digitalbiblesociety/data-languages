@@ -6,12 +6,15 @@ population: 12600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.18895
 longitude: 152.60632
 glottocode: lihi1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tabar linkage > Lihir"
+wikidata_id: Q6546938
 wikipedia_url: "https://en.wikipedia.org/wiki/Lihir_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 18000
 country_id: SD
 country_name: Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.72505
 longitude: 33.92099
 glottocode: buru1301
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Northern Burun"
+wikidata_id: Q35040
 wikipedia_url: "https://en.wikipedia.org/wiki/Burun_language"
 translations:
   - translation_iso: ara

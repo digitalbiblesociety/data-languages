@@ -4,8 +4,11 @@ name: Oli-Bodiman
 autonym: Duálá
 country_id: CM
 country_name: Cameroon
+scope: individual
+language_type: living
 latitude: 4.33
 longitude: 9.8
+wikidata_id: Q136563052
 wikipedia_url: "https://en.wikipedia.org/wiki/Oli-Bodiman_language"
 translations:
   - translation_iso: ara

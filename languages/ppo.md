@@ -7,12 +7,15 @@ population: 3200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.86321
 longitude: 144.45842
 glottocode: folo1238
 glottolog_family_id: tebe1251
 glottolog_family_name: Teberan
 glottolog_classification: "Teberan > Folopa"
+wikidata_id: Q5464843
 wikipedia_url: "https://en.wikipedia.org/wiki/Folopa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.41198
 longitude: 132.18174
 glottocode: gari1253
 glottolog_family_id: iwai1246
 glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Central Iwaidjic > Garig-Ilgar"
+wikidata_id: Q5997810
 wikipedia_url: "https://en.wikipedia.org/wiki/Garig-Ilgar_language"
 translations:
   - translation_iso: ara

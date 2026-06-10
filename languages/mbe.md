@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 44.556
 longitude: -122.857
 glottocode: mola1238
+wikidata_id: Q3319444
 wikipedia_url: "https://en.wikipedia.org/wiki/Molala_language"
 translations:
   - translation_iso: ara

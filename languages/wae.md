@@ -7,6 +7,8 @@ population: 10000
 country_id: CH
 country_name: Switzerland
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 46.69953
 longitude: 9.182663
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: wals1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Alemannic > South Alemannic > Walser"
+wikidata_id: Q680517
 wikipedia_url: "https://en.wikipedia.org/wiki/Walser_German"
 translations:
   - translation_iso: ara

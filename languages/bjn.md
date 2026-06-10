@@ -1,5 +1,6 @@
 ---
 iso: bjn
+macrolanguage_id: msa
 name: Banjar
 autonym: بهاس بنجر
 alt_names: [Bandjarese, Banjar Malay, Banjarese, Banjaresiska]
@@ -7,6 +8,8 @@ population: 3655000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 0.747105
 longitude: 115.789625
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: banj1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Banjar-Berau-Brunei Malay > Banjar-Bukit Malay > Banjar"
+wikidata_id: Q33151
 wikipedia_url: "https://en.wikipedia.org/wiki/Banjarese_language"
 translations:
   - translation_iso: ara

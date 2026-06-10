@@ -7,12 +7,15 @@ population: 10000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.05845
 longitude: 11.11402
 glottocode: lefa1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Nuclear Bafia (A.50) > Lefa-Bafia > Lefa"
+wikidata_id: Q35643
 wikipedia_url: "https://en.wikipedia.org/wiki/Fa%CA%BC_language"
 translations:
   - translation_iso: ara

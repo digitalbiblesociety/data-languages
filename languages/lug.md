@@ -1,5 +1,6 @@
 ---
 iso: lug
+iso639_1: lg
 name: Ganda
 autonym: Ganda
 alt_names: [Ganda simi, Gandaeg, Luganda, Луганда, לוגנדה]
@@ -7,6 +8,8 @@ population: 5614750
 country_id: UG
 country_name: Uganda
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 0.66884
 longitude: 32.15153
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: gand1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > Ganda"
+wikidata_id: Q33368
 wikipedia_url: "https://en.wikipedia.org/wiki/Luganda"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 430
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: living
 latitude: 1.720201
 longitude: -62.230225
 glottocode: yaro1235
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic
 glottolog_classification: "Yanomamic > Ninam-Yanomam-Yaroame > Yanomam-Yaroame > Yaroame"
+wikidata_id: Q24190396
 wikipedia_url: "https://en.wikipedia.org/wiki/%E1%BB%B8aroam%C3%AB_language"
 translations:
   - translation_iso: ara

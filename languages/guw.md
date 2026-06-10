@@ -7,12 +7,15 @@ population: 1139000
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.48529
 longitude: 2.767675
 glottocode: gunn1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Fongbeic > Gun"
+wikidata_id: Q3111668
 wikipedia_url: "https://en.wikipedia.org/wiki/Gun_language"
 translations:
   - translation_iso: ara

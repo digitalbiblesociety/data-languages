@@ -7,12 +7,15 @@ population: 36000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.418
 longitude: 104.85
 glottocode: nisi1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Unclassified Southeastern Ngwi > Nisi (China)"
+wikidata_id: Q12953326
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisi_language_(China)"
 translations:
   - translation_iso: ara

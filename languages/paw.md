@@ -7,12 +7,15 @@ population: 2500
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 36.28618
 longitude: -96.89367
 glottocode: pawn1254
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Pawnee-Kitsai > Pawnee-Arikara > Pawnee"
+wikidata_id: Q56751
 wikipedia_url: "https://en.wikipedia.org/wiki/Pawnee_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 46300
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.52325
 longitude: 11.70359
 glottocode: jara1274
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Western Tera > Jara"
+wikidata_id: Q56289
 wikipedia_url: "https://en.wikipedia.org/wiki/Jara_language"
 translations:
   - translation_iso: ara

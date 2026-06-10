@@ -7,12 +7,15 @@ population: 1940000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.70878
 longitude: 31.4846
 glottocode: haya1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > South Rutara > Haya"
+wikidata_id: Q35756
 wikipedia_url: "https://en.wikipedia.org/wiki/Haya_language"
 translations:
   - translation_iso: ara

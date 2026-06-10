@@ -7,12 +7,15 @@ population: 110
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -11.87014
 longitude: -64.32007
 glottocode: maku1278
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Makuráp"
+wikidata_id: Q3281037
 wikipedia_url: "https://en.wikipedia.org/wiki/Makurap_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 20000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.23532
 longitude: 109.96041
 glottocode: chad1240
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Maonan-Chadong > Chadong"
+wikidata_id: Q926742
 wikipedia_url: "https://en.wikipedia.org/wiki/Chadong_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 50000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.821855
 longitude: 12.25182
 glottocode: peer1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Peere"
+wikidata_id: Q36377
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutin_language"
 translations:
   - translation_iso: ara

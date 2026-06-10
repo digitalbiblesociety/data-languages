@@ -7,12 +7,15 @@ population: 2000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.9
 longitude: 99.9
 glottocode: tang1372
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Tanglang-Toloza"
+wikidata_id: Q7786695
 wikipedia_url: "https://en.wikipedia.org/wiki/Tholo_language"
 translations:
   - translation_iso: ara

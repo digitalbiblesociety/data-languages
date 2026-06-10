@@ -7,12 +7,15 @@ population: 10000
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 17.89374
 longitude: -94.88634
 glottocode: olut1240
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oluta Popoluca"
+wikidata_id: Q5908687
 wikipedia_url: "https://en.wikipedia.org/wiki/Oluta_Popoluca"
 translations:
   - translation_iso: ara

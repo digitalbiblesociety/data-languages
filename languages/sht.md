@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 41.75866
 longitude: -122.73821
 glottocode: shas1239
 glottolog_family_id: shas1238
 glottolog_family_name: Shastan
 glottolog_classification: "Shastan > Nuclear Shastan > Shasta"
+wikidata_id: Q56396
 wikipedia_url: "https://en.wikipedia.org/wiki/Shasta_language"
 translations:
   - translation_iso: ara

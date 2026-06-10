@@ -7,6 +7,8 @@ population: 600
 country_id: SE
 country_name: Sweden
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 62.880125
 longitude: 13.70062
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sout2674
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Southwestern Saami > South Saami"
+wikidata_id: Q13293
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_S%C3%A1mi"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 57400
 country_id: LK
 country_name: Sri Lanka
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.91603
 longitude: 79.86404
 glottocode: sril1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Sri Lanka Malay"
+wikidata_id: Q1089151
 wikipedia_url: "https://en.wikipedia.org/wiki/Sri_Lanka_Malay_language"
 translations:
   - translation_iso: ara

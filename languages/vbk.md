@@ -1,5 +1,6 @@
 ---
 iso: vbk
+macrolanguage_id: bnc
 name: Southwestern Bontok
 autonym: Finallig
 alt_names: ["Bontok, Southwestern"]
@@ -7,6 +8,9 @@ population: 2470
 country_id: PH
 country_name: Philippines
 status_id: 8a
+scope: individual
+language_type: living
+wikidata_id: Q63313677
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwestern_Bontoc"
 translations:
   - translation_iso: ara

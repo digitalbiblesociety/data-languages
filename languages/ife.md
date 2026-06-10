@@ -7,6 +7,8 @@ population: 170600
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.635685
 longitude: 1.584945
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ifee1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Ifè"
+wikidata_id: Q33606
 wikipedia_url: "https://en.wikipedia.org/wiki/If%C3%A8_language"
 translations:
   - translation_iso: ara

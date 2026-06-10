@@ -7,12 +7,15 @@ population: 14000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.92036
 longitude: 18.80649
 glottocode: bidi1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Bidiyo"
+wikidata_id: Q56258
 wikipedia_url: "https://en.wikipedia.org/wiki/Bidiyo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 7000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.494245
 longitude: -73.183565
 glottocode: ucay1237
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Ashe-Asha Norte > Ucayali-Yurúa Ashéninka"
+wikidata_id: Q3501858
 wikipedia_url: "https://en.wikipedia.org/wiki/Ucayali%E2%80%93Yur%C3%BAa_Ash%C3%A9ninka"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 258410
 country_id: CL
 country_name: Chile
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -38.73917
 longitude: -71.27701
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mapu1245
 glottolog_family_id: arau1255
 glottolog_family_name: Araucanian
 glottolog_classification: "Araucanian > Mapudungun"
+wikidata_id: Q33730
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapudungun"
 translations:
   - translation_iso: ara

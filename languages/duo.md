@@ -7,12 +7,15 @@ population: 1400
 country_id: PH
 country_name: Philippines
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.37477
 longitude: 122.18812
 glottocode: dupa1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Dupaninan Agta"
+wikidata_id: Q5315912
 wikipedia_url: "https://en.wikipedia.org/wiki/Dupaningan_Agta"
 translations:
   - translation_iso: ara

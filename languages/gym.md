@@ -7,12 +7,15 @@ population: 171840
 country_id: PA
 country_name: Panama
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.825105
 longitude: -82.391125
 glottocode: ngab1239
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Guaymiic > Ngäbere"
+wikidata_id: Q3915581
 wikipedia_url: "https://en.wikipedia.org/wiki/Ng%C3%A4bere"
 translations:
   - translation_iso: ara

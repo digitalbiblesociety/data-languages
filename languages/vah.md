@@ -7,12 +7,15 @@ population: 6970000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.7139
 longitude: 79.75164
 glottocode: varh1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Old-Modern Marathi > Modern Marathi > Varhadi-Nagpuri"
+wikidata_id: Q155645
 wikipedia_url: "https://en.wikipedia.org/wiki/Varhadi_dialect"
 translations:
   - translation_iso: ara

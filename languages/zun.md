@@ -7,10 +7,13 @@ population: 9620
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.00561
 longitude: -108.78197
 scripts: [Latn]
 glottocode: zuni1245
+wikidata_id: Q10188
 wikipedia_url: "https://en.wikipedia.org/wiki/Zuni_language"
 translations:
   - translation_iso: ara

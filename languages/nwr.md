@@ -6,12 +6,15 @@ population: 190
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -9.37935
 longitude: 148.23654
 glottocode: nawa1258
 glottolog_family_id: yare1250
 glottolog_family_name: Yareban
 glottolog_classification: "Yareban > Yareba-Bariji-Nawaru > Nawaru"
+wikidata_id: Q12638166
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawaru_language"
 translations:
   - translation_iso: ara

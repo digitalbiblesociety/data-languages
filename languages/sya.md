@@ -6,12 +6,15 @@ population: 60000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.38398
 longitude: 114.69349
 glottocode: sian1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North West Greater Barito > Siang"
+wikidata_id: Q3482903
 wikipedia_url: "https://en.wikipedia.org/wiki/Siang_language"
 translations:
   - translation_iso: ara

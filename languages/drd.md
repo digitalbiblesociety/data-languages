@@ -7,12 +7,15 @@ population: 1750
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 29.86292
 longitude: 80.543865
 glottocode: darm1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Darma-Byangsi > Zhangzhungic > Darma"
+wikidata_id: Q5224058
 wikipedia_url: "https://en.wikipedia.org/wiki/Darmiya_language"
 translations:
   - translation_iso: ara

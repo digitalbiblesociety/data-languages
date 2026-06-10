@@ -1,5 +1,6 @@
 ---
 iso: zyj
+macrolanguage_id: zha
 name: Youjiang Zhuang
 autonym: Gangjdoj
 alt_names: [Chuang, Youjiang, Yuchiang, Zhuang, Zhuang (Northern), "Zhuang, Youjiang"]
@@ -7,12 +8,15 @@ population: 870000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.68182
 longitude: 107.18368
 glottocode: youj1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Youjiang Zhuang"
+wikidata_id: Q8057765
 wikipedia_url: "https://en.wikipedia.org/wiki/Youjiang_Zhuang"
 translations:
   - translation_iso: ara

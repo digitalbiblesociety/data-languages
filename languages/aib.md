@@ -7,12 +7,15 @@ population: 6570
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 39.27141
 longitude: 76.42088
 glottocode: ainu1251
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Turkestan > Modern Turkestan > Uyghuric > Ainu (China)"
+wikidata_id: Q27927
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84ynu_language"
 translations:
   - translation_iso: ara

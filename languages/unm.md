@@ -1,5 +1,6 @@
 ---
 iso: unm
+macrolanguage_id: del
 name: Unami
 autonym: Delaware
 alt_names: [Lenape, Lenni-Lenape, Oklahoma Delaware, Tla Wilano, Unami Delaware, Unamí]
@@ -7,12 +8,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 35.02644
 longitude: -98.32013
 glottocode: unam1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Common Delaware > Unami"
+wikidata_id: Q3549180
 wikipedia_url: "https://en.wikipedia.org/wiki/Unami_language"
 translations:
   - translation_iso: ara

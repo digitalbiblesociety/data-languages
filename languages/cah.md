@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.72665
 longitude: -73.94688
 glottocode: cahu1268
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Cahuarano-Iquito > Cahuarano"
+wikidata_id: Q2933175
 wikipedia_url: "https://en.wikipedia.org/wiki/Cahuarano_language"
 translations:
   - translation_iso: ara

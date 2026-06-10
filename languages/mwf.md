@@ -7,12 +7,15 @@ population: 1430
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -14.74852
 longitude: 129.70152
 glottocode: murr1258
 glottolog_family_id: sout2772
 glottolog_family_name: Southern Daly
 glottolog_classification: "Southern Daly > Murriny Patha"
+wikidata_id: Q2980398
 wikipedia_url: "https://en.wikipedia.org/wiki/Murrinh-patha_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.61888
 longitude: -97.93472
 glottocode: hueh1236
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Huehuetla Tepehua"
+wikidata_id: Q56455
 wikipedia_url: "https://en.wikipedia.org/wiki/Huehuetla_Tepehua"
 translations:
   - translation_iso: ara

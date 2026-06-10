@@ -7,12 +7,15 @@ population: 1520
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.32393
 longitude: 164.35164
 glottocode: nyal1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Nyalayu > Belep"
+wikidata_id: Q303154
 wikipedia_url: "https://en.wikipedia.org/wiki/Ny%C3%A2layu_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: npi
+macrolanguage_id: nep
 name: Nepali
 autonym: " Nepalese"
 alt_names: [An Neipeailis, Eastern Pahari, Gorkhali, Gurkhali, Khas Kura, Khaskura, Lhotshammikha, Nepal leid, Nepalees, Nepaleg, Nepalesisk, Nepalska, Nepalès, Nipali simi, Népalais, Parbatiya, Забони непалӣ, نيبالية, نیپالی, نېپال تىلى, नेपाली, নেপালি ঠার, བལ་པོའི་སྐད།]
@@ -7,6 +8,8 @@ population: 24720300
 country_id: NP
 country_name: Nepal
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 28
 longitude: 85
 glottocode: nepa1254

@@ -7,12 +7,15 @@ population: 55700
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.95034
 longitude: 36.57211
 glottocode: gayi1237
 glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Aari-Gayil > Gayil"
+wikidata_id: Q5528771
 wikipedia_url: "https://en.wikipedia.org/wiki/Gayil_language"
 translations:
   - translation_iso: ara

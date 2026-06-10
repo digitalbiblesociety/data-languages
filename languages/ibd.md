@@ -7,12 +7,15 @@ population: 150
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -11.33788
 longitude: 132.45337
 glottocode: iwai1244
 glottolog_family_id: iwai1246
 glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Central Iwaidjic > Iwaidja"
+wikidata_id: Q1977429
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwaidja_language"
 translations:
   - translation_iso: ara

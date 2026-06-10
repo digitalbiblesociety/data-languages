@@ -7,12 +7,15 @@ population: 2020
 country_id: RU
 country_name: Russia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 62.17769
 longitude: 175.06969
 glottocode: kere1280
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > J-Koryakic > Kerek"
+wikidata_id: Q332792
 wikipedia_url: "https://en.wikipedia.org/wiki/Kerek_language"
 translations:
   - translation_iso: ara

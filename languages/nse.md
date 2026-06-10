@@ -7,12 +7,15 @@ population: 627100
 country_id: ZM
 country_name: Zambia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.39455
 longitude: 31.35442
 glottocode: nsen1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Nsenga"
+wikidata_id: Q3081996
 wikipedia_url: "https://en.wikipedia.org/wiki/Nsenga_language"
 translations:
   - translation_iso: ara

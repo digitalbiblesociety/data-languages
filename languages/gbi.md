@@ -7,12 +7,15 @@ population: 79000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.31461
 longitude: 128.44015
 glottocode: gale1259
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Galela-Loloda > Galela"
+wikidata_id: Q3094570
 wikipedia_url: "https://en.wikipedia.org/wiki/Galela_language"
 translations:
   - translation_iso: ara

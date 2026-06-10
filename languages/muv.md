@@ -7,12 +7,15 @@ population: 16800
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.3524
 longitude: 76.73276
 glottocode: muth1236
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Muthuvan-Mannan > Muthuvan"
+wikidata_id: Q3327420
 wikipedia_url: "https://en.wikipedia.org/wiki/Muthuvan_language"
 translations:
   - translation_iso: ara

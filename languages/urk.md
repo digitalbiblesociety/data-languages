@@ -1,5 +1,6 @@
 ---
 iso: urk
+macrolanguage_id: msa
 name: "Urak Lawoi'"
 autonym: อูรัก ลาโว้ย
 alt_names: [Chaw Talay, Chawnam, Lawoi, Lawta, "Orak Lawoi'"]
@@ -7,12 +8,15 @@ population: 3000
 country_id: TH
 country_name: Thailand
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 7.5258
 longitude: 99.07682
 glottocode: urak1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Urak Lawoi'"
+wikidata_id: Q2031144
 wikipedia_url: "https://en.wikipedia.org/wiki/Urak_Lawoi%CA%BC_language"
 translations:
   - translation_iso: ara

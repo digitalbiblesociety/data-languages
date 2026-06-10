@@ -7,12 +7,15 @@ population: 340
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -15.19852
 longitude: 167.03645
 glottocode: lore1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > Shark Bayic > Nethalp"
+wikidata_id: Q6680287
 wikipedia_url: "https://en.wikipedia.org/wiki/Nethalp_language"
 translations:
   - translation_iso: ara

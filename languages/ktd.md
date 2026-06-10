@@ -7,12 +7,15 @@ population: 16
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -31.20523
 longitude: 136.81262
 glottocode: koka1244
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Unclassified Wati > Kokata"
+wikidata_id: Q10547021
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokatha_dialect"
 translations:
   - translation_iso: ara

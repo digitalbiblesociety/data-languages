@@ -7,6 +7,8 @@ population: 456000
 country_id: TH
 country_name: Thailand
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.669807
 longitude: 104.91104
 scripts: [Thai]
@@ -14,6 +16,7 @@ glottocode: kuyy1240
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Kuy-Souei > Kuy"
+wikidata_id: Q56310
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuy_language"
 translations:
   - translation_iso: ara

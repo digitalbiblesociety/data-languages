@@ -6,12 +6,15 @@ population: 100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.35042
 longitude: 136.75309
 glottocode: tefa1238
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Tefaro"
+wikidata_id: Q7694618
 wikipedia_url: "https://en.wikipedia.org/wiki/Tefaro_language"
 translations:
   - translation_iso: ara

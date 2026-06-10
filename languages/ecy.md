@@ -7,6 +7,8 @@ population: null
 country_id: CY
 country_name: Cyprus
 status_id: null
+scope: individual
+language_type: historical
 latitude: 34.72103
 longitude: 33.1189
 scripts: [Cprt]
@@ -14,6 +16,7 @@ glottocode: eteo1240
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Eteocypriot"
+wikidata_id: Q35309
 wikipedia_url: "https://en.wikipedia.org/wiki/Eteocypriot_language"
 translations:
   - translation_iso: ara

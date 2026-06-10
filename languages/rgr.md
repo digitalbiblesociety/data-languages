@@ -7,12 +7,15 @@ population: 1
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -2.48139
 longitude: -71.35778
 glottocode: resi1247
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Caqueta > Resígaro"
+wikidata_id: Q3450504
 wikipedia_url: "https://en.wikipedia.org/wiki/Res%C3%ADgaro_language"
 translations:
   - translation_iso: ara

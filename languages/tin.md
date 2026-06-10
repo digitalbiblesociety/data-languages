@@ -7,12 +7,15 @@ population: 5000
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 42.33164
 longitude: 45.92268
 glottocode: tind1238
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Andic > Bagvalal-Tindi > Tindi"
+wikidata_id: Q36860
 wikipedia_url: "https://en.wikipedia.org/wiki/Tindi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -11.22974
 longitude: 153.1584
 glottocode: nimo1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Nimoa-Sudest > Nimoa"
+wikidata_id: Q7037729
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimoa_language"
 translations:
   - translation_iso: ara

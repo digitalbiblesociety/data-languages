@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 6.68152
 longitude: 9.78433
 glottocode: busu1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Busuu"
+wikidata_id: Q35046
 wikipedia_url: "https://en.wikipedia.org/wiki/Busuu_language"
 translations:
   - translation_iso: ara

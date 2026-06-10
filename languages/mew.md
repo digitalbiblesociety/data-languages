@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.50069
 longitude: 11.90347
 glottocode: maak1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Unclassified Boleic > Maaka"
+wikidata_id: Q3438764
 wikipedia_url: "https://en.wikipedia.org/wiki/Maaka_language"
 translations:
   - translation_iso: ara

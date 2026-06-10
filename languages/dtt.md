@@ -7,12 +7,15 @@ population: 2900
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.06437
 longitude: -2.22427
 glottocode: toro1253
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Toro Tegu Dogon"
+wikidata_id: Q3913924
 wikipedia_url: "https://en.wikipedia.org/wiki/Toro-tegu_Dogon"
 translations:
   - translation_iso: ara

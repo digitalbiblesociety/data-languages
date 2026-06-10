@@ -7,12 +7,15 @@ population: 2800
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.33014
 longitude: 75.48962
 glottocode: kudi1237
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Tuluic > Kudiya"
+wikidata_id: Q12952667
 wikipedia_url: "https://en.wikipedia.org/wiki/Kudiya_language"
 translations:
   - translation_iso: ara

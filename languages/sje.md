@@ -7,12 +7,15 @@ population: 2000
 country_id: SE
 country_name: Sweden
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 66.401085
 longitude: 17.42613
 glottocode: pite1240
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Central Western Saami > Lule-Pite Saami > Pite Saami"
+wikidata_id: Q56314
 wikipedia_url: "https://en.wikipedia.org/wiki/Pite_S%C3%A1mi"
 translations:
   - translation_iso: ara

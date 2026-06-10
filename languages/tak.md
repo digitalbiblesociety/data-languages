@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.23301
 longitude: 9.85457
 glottocode: tala1295
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Tala-Sho-Zangwal > Tala-Zamwar > Tala"
+wikidata_id: Q3914494
 wikipedia_url: "https://en.wikipedia.org/wiki/Tala_language"
 translations:
   - translation_iso: ara

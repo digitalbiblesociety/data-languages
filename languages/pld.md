@@ -7,12 +7,15 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 51.78662
 longitude: -1.39091
 glottocode: pola1249
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Polari"
+wikidata_id: Q1359130
 wikipedia_url: "https://en.wikipedia.org/wiki/Polari"
 translations:
   - translation_iso: ara

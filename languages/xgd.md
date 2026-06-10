@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -10.91613599
 longitude: 142.5768928
 glottocode: guda1244
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Gudang-Northeast Paman > Gudang"
+wikidata_id: Q5614528
 wikipedia_url: "https://en.wikipedia.org/wiki/Gudang_language"
 translations:
   - translation_iso: ara

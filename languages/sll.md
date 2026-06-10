@@ -7,12 +7,15 @@ population: 6500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.26519
 longitude: 145.02097
 glottocode: salt1242
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Golinic > Salt-Yui"
+wikidata_id: Q7405785
 wikipedia_url: "https://en.wikipedia.org/wiki/Salt-Yui_language"
 translations:
   - translation_iso: ara

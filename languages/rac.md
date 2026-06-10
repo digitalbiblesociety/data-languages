@@ -7,12 +7,15 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.37609
 longitude: 136.35237
 glottocode: rasa1243
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Far West Lakes Plain > Rasawa-Saponi > Rasawa"
+wikidata_id: Q56443
 wikipedia_url: "https://en.wikipedia.org/wiki/Rasawa_language"
 translations:
   - translation_iso: ara

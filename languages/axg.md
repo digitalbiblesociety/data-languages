@@ -7,9 +7,12 @@ population: 2008
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -13.175
 longitude: -55.869
 glottocode: mato1253
+wikidata_id: Q3446660
 wikipedia_url: "https://en.wikipedia.org/wiki/Mato_Grosso_Ar%C3%A1ra_language"
 translations:
   - translation_iso: ara

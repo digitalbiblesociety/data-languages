@@ -7,12 +7,15 @@ population: 4000
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.76747
 longitude: -14.60521
 glottocode: baga1270
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Baga Manduri"
+wikidata_id: Q35815
 translations:
   - translation_iso: ara
     name: باجا ماندوري

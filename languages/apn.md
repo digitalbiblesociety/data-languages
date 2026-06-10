@@ -7,12 +7,15 @@ population: 1500
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.10774
 longitude: -47.63153
 glottocode: apin1244
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Apinayé"
+wikidata_id: Q2858311
 wikipedia_url: "https://en.wikipedia.org/wiki/Apinay%C3%A9_language"
 translations:
   - translation_iso: ara

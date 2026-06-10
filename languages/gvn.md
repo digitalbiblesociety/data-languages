@@ -7,12 +7,15 @@ population: 320
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.00359
 longitude: 145.18837
 glottocode: kuku1273
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yimidhirr-Yalanji-Yidinic > Yalandyic > Kuku-Yalanji"
+wikidata_id: Q5621973
 wikipedia_url: "https://en.wikipedia.org/wiki/Guugu_Yalandji_language"
 translations:
   - translation_iso: ara

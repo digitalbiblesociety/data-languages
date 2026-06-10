@@ -7,12 +7,15 @@ population: 100
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 33.27479
 longitude: -105.81939
 glottocode: lipa1241
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Eastern Southwestern Apachean > Lipan Apache"
+wikidata_id: Q28269
 wikipedia_url: "https://en.wikipedia.org/wiki/Lipan_language"
 translations:
   - translation_iso: ara

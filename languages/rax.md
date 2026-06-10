@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.001
 longitude: 10.58
 glottocode: rang1269
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Mumuyic > Rang"
+wikidata_id: Q3913345
 wikipedia_url: "https://en.wikipedia.org/wiki/Rang_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 152000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.50666
 longitude: 38.44485
 glottocode: kwer1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Central East Ruvu > Kwere"
+wikidata_id: Q779632
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwere_language"
 translations:
   - translation_iso: ara

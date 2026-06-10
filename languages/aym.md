@@ -1,12 +1,16 @@
 ---
 iso: aym
+iso639_1: ay
 name: Aymara
 autonym: Aymar aru
 population: 1677100
 country_id: BO
 country_name: Bolivia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q4627
 wikipedia_url: "https://en.wikipedia.org/wiki/Aymara_language"
 translations:
   - translation_iso: ara

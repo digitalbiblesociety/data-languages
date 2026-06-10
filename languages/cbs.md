@@ -7,12 +7,15 @@ population: 7420
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.720265
 longitude: -71.1733
 glottocode: cash1254
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Cashinahua"
+wikidata_id: Q2591230
 wikipedia_url: "https://en.wikipedia.org/wiki/Kashinawa_language"
 translations:
   - translation_iso: ara

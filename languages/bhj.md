@@ -7,12 +7,15 @@ population: 10000
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.33227
 longitude: 86.39487
 glottocode: bahi1252
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Bahing-Sunwar > Bahing"
+wikidata_id: Q56442
 wikipedia_url: "https://en.wikipedia.org/wiki/Bahing_language"
 translations:
   - translation_iso: ara

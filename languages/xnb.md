@@ -7,12 +7,15 @@ population: 250
 country_id: TW
 country_name: Taiwan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 23.32349
 longitude: 120.88736
 glottocode: kana1286
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Kanakanavu-Saaroa > Kanakanavu"
+wikidata_id: Q172244
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanakanavu_language"
 translations:
   - translation_iso: ara

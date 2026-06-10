@@ -7,12 +7,15 @@ population: 60000
 country_id: AR
 country_name: Argentina
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -34.79695
 longitude: -59.17984
 glottocode: arge1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Argentine Sign Language"
+wikidata_id: Q3322073
 wikipedia_url: "https://en.wikipedia.org/wiki/Argentine_Sign_Language"
 translations:
   - translation_iso: ara

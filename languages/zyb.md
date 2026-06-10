@@ -1,5 +1,6 @@
 ---
 iso: zyb
+macrolanguage_id: zha
 name: Yongbei Zhuang
 autonym: Geographic Yongbei Zhuang
 alt_names: [Chuang, Wu-ming, Yongbei, Yungpei, Zhuang, Zhuang (Northern), "Zhuang, Yongbei"]
@@ -7,12 +8,15 @@ population: 1980000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.68182
 longitude: 107.18368
 glottocode: yong1276
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Yongnan-Yongbei > Yongbei Zhuang"
+wikidata_id: Q8054983
 wikipedia_url: "https://en.wikipedia.org/wiki/Yongbei_Zhuang"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 95
 country_id: CO
 country_name: Colombia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -0.505365
 longitude: -70.478211
 glottocode: yahu1241
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > South Eastern Tucanoan > Yahuna"
+wikidata_id: Q8050347
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahuna_language"
 translations:
   - translation_iso: ara

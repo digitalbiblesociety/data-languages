@@ -7,12 +7,15 @@ population: 20600
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.51924
 longitude: 117.50653
 glottocode: labu1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Rungus-Mangkaak-Labuk > Dumpas-Sukang > Labuk-Kinabatangan Kadazan"
+wikidata_id: Q5330240
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Kadazan_language"
 translations:
   - translation_iso: ara

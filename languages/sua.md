@@ -7,9 +7,12 @@ population: 3500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.03471
 longitude: 151.89079
 glottocode: sulk1246
+wikidata_id: Q7636341
 wikipedia_url: "https://en.wikipedia.org/wiki/Sulka_language"
 translations:
   - translation_iso: ara

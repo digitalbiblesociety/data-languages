@@ -1,5 +1,6 @@
 ---
 iso: fue
+macrolanguage_id: ful
 name: Borgu Fulfulde
 autonym: Fulani
 alt_names: [Benin-Togo Fulfulde, Fulah-Idiome, Fulbe-Borgu, "Fulfulde, Borgu", Peul, Peulh]
@@ -7,12 +8,15 @@ population: 730000
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.801
 longitude: 3.988
 glottocode: borg1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Borgu Fulfulde"
+wikidata_id: Q12952426
 wikipedia_url: "https://en.wikipedia.org/wiki/Borgu_Fulfulde"
 translations:
   - translation_iso: ara

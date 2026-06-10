@@ -7,12 +7,15 @@ population: 5000000
 country_id: GH
 country_name: Ghana
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 5.793241
 longitude: -0.283641
 glottocode: ghan1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Coastal Nigerian Krio > Nigerian-Ghanaian Krio > Ghanaian Pidgin English"
+wikidata_id: Q5555465
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghanaian_Pidgin_English"
 translations:
   - translation_iso: ara

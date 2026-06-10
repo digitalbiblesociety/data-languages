@@ -7,12 +7,15 @@ population: 5690
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.55149
 longitude: 103.86379
 glottocode: laha1250
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Southern Kra > Laha (Viet Nam)"
+wikidata_id: Q3112363
 wikipedia_url: "https://en.wikipedia.org/wiki/Laha_language"
 translations:
   - translation_iso: ara

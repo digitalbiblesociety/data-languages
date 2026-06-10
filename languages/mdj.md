@@ -7,12 +7,15 @@ population: 620000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.5511
 longitude: 27.0712
 glottocode: mang1394
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Mangbetu-Asua > Mangbetuic > Mangbetu"
+wikidata_id: Q56327
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangbetu_language"
 translations:
   - translation_iso: ara

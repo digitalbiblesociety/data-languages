@@ -1,11 +1,14 @@
 ---
 iso: bis
+iso639_1: bi
 name: Bislama
 autonym: Bichelamar
 population: 12570
 country_id: VU
 country_name: Vanuatu
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -19.99097
 longitude: 167.3719
 scripts: [Latn]
@@ -13,6 +16,7 @@ glottocode: bisl1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Early Melanesian Pidgin > Bislama"
+wikidata_id: Q35452
 wikipedia_url: "https://en.wikipedia.org/wiki/Bislama"
 translations:
   - translation_iso: ara

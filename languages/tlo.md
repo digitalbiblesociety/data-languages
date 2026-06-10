@@ -7,12 +7,15 @@ population: 1500
 country_id: SD
 country_name: Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.64529
 longitude: 30.48154
 glottocode: talo1250
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Nding-Tasomi > Tasomi-Tata"
+wikidata_id: Q36525
 wikipedia_url: "https://en.wikipedia.org/wiki/Talodi_language"
 translations:
   - translation_iso: ara

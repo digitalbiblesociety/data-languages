@@ -7,12 +7,15 @@ population: 1840
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 42.08076
 longitude: 46.13691
 glottocode: hunz1247
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > East Tsezic > Hunzib"
+wikidata_id: Q56564
 wikipedia_url: "https://en.wikipedia.org/wiki/Hunzib_language"
 translations:
   - translation_iso: ara

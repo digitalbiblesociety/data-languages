@@ -1,5 +1,6 @@
 ---
 iso: ina
+iso639_1: ia
 name: Interlingua
 autonym: Interlingua
 alt_names: [Antërlenga, Interlingua de Iala, Interlingva, Interlingvao, Interlíngua, Sí-Nterlingua, Ιντερλίνγκουα, Інтерлінгва, Интерлингва, אינטרלינגואה, إنترلنغوا, انترلينجوه, ინტერლინგუა, インターリングア, 인테르링구아]
@@ -7,6 +8,8 @@ population: 1500
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 latitude: 48.203
 longitude: 2.615
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: inte1239
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interlingua (International Auxiliary Language Association)"
+wikidata_id: Q35934
 wikipedia_url: "https://en.wikipedia.org/wiki/Interlingua"
 translations:
   - translation_iso: ara

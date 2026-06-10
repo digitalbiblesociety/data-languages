@@ -7,12 +7,15 @@ population: 2460
 country_id: SR
 country_name: Suriname
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.53616
 longitude: -55.759935
 glottocode: trio1238
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Tiriyoan > Trió"
+wikidata_id: Q56885
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiriy%C3%B3_language"
 translations:
   - translation_iso: ara

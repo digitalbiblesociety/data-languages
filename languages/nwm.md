@@ -7,12 +7,15 @@ population: 1200
 country_id: SS
 country_name: South Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.89708
 longitude: 30.36577
 glottocode: nyam1279
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Lori > Nyamusa-Molo"
+wikidata_id: Q12747951
 translations:
   - translation_iso: ara
     name: نييامووسا-مولو

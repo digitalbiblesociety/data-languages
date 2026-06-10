@@ -7,12 +7,15 @@ population: 15500
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.37545
 longitude: 28.32738
 glottocode: holo1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Greater Lega > Holoholo"
+wikidata_id: Q3139484
 wikipedia_url: "https://en.wikipedia.org/wiki/Holoholo_language"
 translations:
   - translation_iso: ara

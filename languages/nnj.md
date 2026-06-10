@@ -7,12 +7,15 @@ population: 24300
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.39809
 longitude: 35.62324
 glottocode: nyan1315
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Turkanic > Nyangatom"
+wikidata_id: Q4662604
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyangatom_language"
 translations:
   - translation_iso: ara

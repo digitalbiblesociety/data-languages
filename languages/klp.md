@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -6.96411
 longitude: 146.20897
 glottocode: kama1360
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Kamasa-Susuami > Kamasa"
+wikidata_id: Q6356107
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamasa_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: qvh
+macrolanguage_id: que
 name: "Huamalíes-Dos de Mayo Huánuco Quechua"
 autonym: Huaylay
 alt_names: [Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, Huallaga Quechua, Huamalies-Dos de Mayo Huanuco Quechua, Quechua, Quechua (Huallaga), "Quechua, Huamalíes-Dos de Mayo Huánuco"]
@@ -7,12 +8,15 @@ population: 80000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.15718
 longitude: -76.33719
 glottocode: huam1248
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Huamalíes-Dos de Mayo Huánuco Quechua"
+wikidata_id: Q25559676
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوامالييس-دوس دي مايو هوانوكو

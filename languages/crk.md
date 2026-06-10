@@ -1,5 +1,6 @@
 ---
 iso: crk
+macrolanguage_id: cre
 name: Plains Cree
 autonym: ᓀᐦᐃᔭᐍᐏᐣ / Nēhiyawēwin
 alt_names: [Clisteno de las llanuras, Cree, Cree (Plains), Cree des plaines, "Cree, Plains", "Kreeg ar c'hompezennoù", Nēhiyawēwin, Prærie-cree-språket, Western Cree, ᓀᐦᐃᔭᐍᐏᐣ]
@@ -7,6 +8,8 @@ population: 3170
 country_id: CA
 country_name: Canada
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 51.243685
 longitude: -110.4634
 scripts: [Cans]
@@ -14,6 +17,7 @@ glottocode: plai1258
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Cree > Plains Creeic > Plains Cree"
+wikidata_id: Q56699
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Cree_language"
 translations:
   - translation_iso: ara

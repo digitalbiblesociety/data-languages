@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -25.48006595
 longitude: 142.5485119
 glottocode: pirr1240
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Pirriya-Kungkari > Pirriya"
+wikidata_id: Q16978087
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirriya_language"
 translations:
   - translation_iso: ara

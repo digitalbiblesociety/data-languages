@@ -7,12 +7,15 @@ population: 126000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.54755
 longitude: 76.1796
 glottocode: cham1307
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Chambeali"
+wikidata_id: Q12953424
 wikipedia_url: "https://en.wikipedia.org/wiki/Chambeali"
 translations:
   - translation_iso: ara

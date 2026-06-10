@@ -7,12 +7,15 @@ population: 320
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.67915
 longitude: 164.79733
 glottocode: nemi1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Nmi-Fij-Fwa > Hyenghene > Nemi"
+wikidata_id: Q3338008
 wikipedia_url: "https://en.wikipedia.org/wiki/Nemi_language"
 translations:
   - translation_iso: ara

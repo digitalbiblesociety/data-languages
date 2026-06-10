@@ -7,12 +7,15 @@ population: 10
 country_id: NC
 country_name: New Caledonia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -21.28665
 longitude: 165.27269
 glottocode: arha1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Houailou > Arhâ"
+wikidata_id: Q4790085
 wikipedia_url: "https://en.wikipedia.org/wiki/Arh%C3%A2_language"
 translations:
   - translation_iso: ara

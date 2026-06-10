@@ -7,12 +7,15 @@ population: 10100
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.60452
 longitude: 37.40259
 glottocode: dira1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Konsoid > Gidole-Bussa > Dirasha"
+wikidata_id: Q56809
 wikipedia_url: "https://en.wikipedia.org/wiki/Dirasha_language"
 translations:
   - translation_iso: ara

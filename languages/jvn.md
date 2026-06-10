@@ -7,12 +7,15 @@ population: 78370
 country_id: SR
 country_name: Suriname
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.626945
 longitude: -54.63045
 glottocode: cari1276
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Global Javanese > Caribbean Javanese"
+wikidata_id: Q11732256
 wikipedia_url: "https://en.wikipedia.org/wiki/Caribbean_Javanese"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -2.84228
 longitude: 134.53168
 glottocode: tand1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Tandia"
+wikidata_id: Q7682454
 wikipedia_url: "https://en.wikipedia.org/wiki/Tandia_language"
 translations:
   - translation_iso: ara

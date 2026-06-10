@@ -7,12 +7,15 @@ population: 520
 country_id: AU
 country_name: Australia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -20.64791
 longitude: 134.37481
 glottocode: waru1265
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Warumungu"
+wikidata_id: Q1764544
 wikipedia_url: "https://en.wikipedia.org/wiki/Warumungu_language"
 translations:
   - translation_iso: ara

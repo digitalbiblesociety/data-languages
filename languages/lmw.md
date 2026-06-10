@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 39.00214
 longitude: -122.62132
 glottocode: lake1258
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Western Miwokan > Lake Miwok"
+wikidata_id: Q3216471
 wikipedia_url: "https://en.wikipedia.org/wiki/Lake_Miwok_language"
 translations:
   - translation_iso: ara

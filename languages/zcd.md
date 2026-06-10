@@ -1,13 +1,17 @@
 ---
 iso: zcd
+macrolanguage_id: zap
 name: Las Delicias Zapotec
 autonym: Didza Xidza
 alt_names: ["Zapotec, Las Delicias"]
 population: 41000
 country_id: MX
 country_name: Mexico
+scope: individual
+language_type: living
 latitude: 17.4451
 longitude: -96.3144
+wikidata_id: Q110737080
 wikipedia_url: "https://en.wikipedia.org/wiki/Las_Delicias_Zapotec"
 translations:
   - translation_iso: ara

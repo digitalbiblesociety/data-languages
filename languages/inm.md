@@ -7,12 +7,15 @@ population: null
 country_id: YE
 country_name: Yemen
 status_id: null
+scope: individual
+language_type: historical
 latitude: 16.166667
 longitude: 44.672778
 glottocode: mina1279
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Sayhadic > Minaean"
+wikidata_id: Q737784
 wikipedia_url: "https://en.wikipedia.org/wiki/Minaean_language"
 translations:
   - translation_iso: ara

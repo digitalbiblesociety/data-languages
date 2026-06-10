@@ -7,12 +7,15 @@ population: null
 country_id: AM
 country_name: Armenia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 38.592316
 longitude: 41.346422
 glottocode: clas1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Armenic > Classical-Middle Armenian"
+wikidata_id: Q181074
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Armenian"
 translations:
   - translation_iso: ara

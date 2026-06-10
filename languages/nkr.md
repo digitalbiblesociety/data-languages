@@ -7,12 +7,15 @@ population: 125
 country_id: FM
 country_name: Micronesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.83
 longitude: 155
 glottocode: nuku1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Carolinean Outlier Polynesian > Nukuoro"
+wikidata_id: Q2635961
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukuoro_language"
 translations:
   - translation_iso: ara

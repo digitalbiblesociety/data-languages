@@ -7,12 +7,15 @@ population: null
 country_id: NP
 country_name: Nepal
 status_id: null
+scope: individual
+language_type: living
 latitude: 27.362013
 longitude: 85.411517
 glottocode: dhan1265
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kuswaric > Dewas-Done Danuwar"
+wikidata_id: Q62663667
 translations:
   - translation_iso: ara
     name: ديواس راي

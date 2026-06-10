@@ -1,5 +1,6 @@
 ---
 iso: zat
+macrolanguage_id: zap
 name: Tabaa Zapotec
 autonym: "Zapotec, Tabaá"
 alt_names: [Cajonos Zapotec, Central Sapoteko, Central Villa Alta Zapotec, Rincón, Sierra de Villa Alta, Villalta (non-preferred), Yalálog, Zapotec, "Zapotec, Tabaa", Zapoteco de San Felipe Tejalápam, Zapoteco de Tabaa, Zapotèque de San Felipe Tejalapan, dill xhon]
@@ -7,12 +8,15 @@ population: 2000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.28215
 longitude: -96.2777
 glottocode: taba1268
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Tabaa Zapotec"
+wikidata_id: Q7672849
 wikipedia_url: "https://en.wikipedia.org/wiki/Taba%C3%A1_Zapotec"
 translations:
   - translation_iso: ara

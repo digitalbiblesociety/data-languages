@@ -7,12 +7,15 @@ population: 113020
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.144145
 longitude: -8.40954
 glottocode: west2488
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Western Krahn"
+wikidata_id: Q10975611
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Krahn_language"
 translations:
   - translation_iso: ara

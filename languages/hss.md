@@ -7,12 +7,15 @@ population: 600
 country_id: OM
 country_name: Oman
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 19.6511
 longitude: 56.15619
 glottocode: hars1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Hobyot-Western MSA > Western MSA > Harsusi"
+wikidata_id: Q33423
 wikipedia_url: "https://en.wikipedia.org/wiki/%E1%B8%A4arsusi_language"
 translations:
   - translation_iso: ara

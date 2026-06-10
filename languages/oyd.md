@@ -7,12 +7,15 @@ population: 14075
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.13322
 longitude: 36.85414
 glottocode: oyda1235
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Oyda"
+wikidata_id: Q7116251
 wikipedia_url: "https://en.wikipedia.org/wiki/Oyda_language"
 translations:
   - translation_iso: ara

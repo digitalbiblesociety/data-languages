@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.78269
 longitude: 115.82727
 glottocode: kaya1325
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Kayanic > Kayan River Kayan"
+wikidata_id: Q12473395
 translations:
   - translation_iso: ara
     name: كايان نهر كايان

@@ -7,12 +7,15 @@ population: 50400
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.56897
 longitude: 101.89865
 glottocode: taiy1242
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Wuding-Yuanyang Tai > Tai Ya"
+wikidata_id: Q3441122
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Ya_language"
 translations:
   - translation_iso: ara

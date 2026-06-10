@@ -7,12 +7,15 @@ population: 1207
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.86854
 longitude: -108.43724
 glottocode: huar1255
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tarahumara-Guarijio > Huarijio"
+wikidata_id: Q10974017
 wikipedia_url: "https://en.wikipedia.org/wiki/Huarijio_language"
 translations:
   - translation_iso: ara

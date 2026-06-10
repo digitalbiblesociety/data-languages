@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.55798
 longitude: 14.44451
 glottocode: zuma1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Unclassified North Masa > Zumaya"
+wikidata_id: Q56626
 wikipedia_url: "https://en.wikipedia.org/wiki/Zumaya_language"
 translations:
   - translation_iso: ara

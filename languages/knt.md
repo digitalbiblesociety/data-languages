@@ -7,12 +7,15 @@ population: 315
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.97456
 longitude: -71.56151
 glottocode: pano1254
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Panoan Katukína"
+wikidata_id: Q3194265
 wikipedia_url: "https://en.wikipedia.org/wiki/Waninawa_language"
 translations:
   - translation_iso: ara

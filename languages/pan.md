@@ -1,5 +1,6 @@
 ---
 iso: pan
+iso639_1: pa
 name: Panjabi
 autonym: ਪੰਜਾਬੀ
 alt_names: [Eastern Panjabi, Gurmukhi, Gurumukhi, Pandschabi, "Panjabi, Eastern", Punjabi, pendjabi]
@@ -7,6 +8,8 @@ population: 80500000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 30.036762
 longitude: 75.670166
 scripts: [Arab, Guru]
@@ -14,6 +17,7 @@ glottocode: panj1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Eastern Panjabic > Eastern Panjabi"
+wikidata_id: Q58635
 wikipedia_url: "https://en.wikipedia.org/wiki/Punjabi_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 32900
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.79201
 longitude: -16.92051
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: noon1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Noon-Lehar > Noon"
+wikidata_id: Q36304
 wikipedia_url: "https://en.wikipedia.org/wiki/Noon_language"
 translations:
   - translation_iso: ara

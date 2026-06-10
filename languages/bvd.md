@@ -7,12 +7,15 @@ population: 5900
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.49014
 longitude: 160.77123
 glottocode: baeg1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Central-Northern Malaita > North Malaitan > Baeggu"
+wikidata_id: Q2878850
 wikipedia_url: "https://en.wikipedia.org/wiki/Baeggu_language"
 translations:
   - translation_iso: ara

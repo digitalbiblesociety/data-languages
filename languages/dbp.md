@@ -7,12 +7,15 @@ population: 11400
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.80297
 longitude: 11.33668
 glottocode: duwa1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Duwai"
+wikidata_id: Q56301
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%8Auwai_language"
 translations:
   - translation_iso: ara

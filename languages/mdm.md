@@ -7,12 +7,15 @@ population: 100000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.79827
 longitude: 27.82816
 glottocode: mayo1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Mundu-Baka > Eastern Mundu-Baka > Mayogo-Bangba > Mayogo"
+wikidata_id: Q6797580
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayogo_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 1630000
 country_id: SL
 country_name: Sierra Leone
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 8.90294
 longitude: -12.33307
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: timn1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Timne"
+wikidata_id: Q36613
 wikipedia_url: "https://en.wikipedia.org/wiki/Temne_language"
 translations:
   - translation_iso: ara

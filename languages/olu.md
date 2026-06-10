@@ -6,12 +6,15 @@ population: null
 country_id: AO
 country_name: Angola
 status_id: null
+scope: individual
+language_type: living
 latitude: -15.3065
 longitude: 12.7148
 glottocode: kuva1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Kuvale"
+wikidata_id: Q6448765
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuvale_language"
 translations:
   - translation_iso: ara

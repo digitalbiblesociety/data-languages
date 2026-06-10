@@ -7,12 +7,15 @@ population: 60600
 country_id: NE
 country_name: Niger
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.19078
 longitude: 6.83992
 glottocode: tagd1238
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tagdal"
+wikidata_id: Q36570
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagdal_language"
 translations:
   - translation_iso: ara

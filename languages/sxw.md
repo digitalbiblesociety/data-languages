@@ -7,12 +7,15 @@ population: 284000
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.58269
 longitude: 1.92015
 glottocode: saxw1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Saxwe Gbe"
+wikidata_id: Q7428892
 wikipedia_url: "https://en.wikipedia.org/wiki/Saxwe_language"
 translations:
   - translation_iso: ara

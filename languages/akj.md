@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 13.15249
 longitude: 92.95043
 glottocode: akaj1239
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Jeru-Kora > Akajeru"
+wikidata_id: Q2919121
 wikipedia_url: "https://en.wikipedia.org/wiki/Akajeru"
 translations:
   - translation_iso: ara

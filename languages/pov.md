@@ -7,12 +7,15 @@ population: 319500
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 13.233507
 longitude: -15.33254
 glottocode: uppe1455
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Upper Guinea Portuguese > Upper Guinea Crioulo"
+wikidata_id: Q33339
 wikipedia_url: "https://en.wikipedia.org/wiki/Guinea-Bissau_Creole"
 translations:
   - translation_iso: ara

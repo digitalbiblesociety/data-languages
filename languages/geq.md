@@ -7,12 +7,15 @@ population: 550
 country_id: CF
 country_name: Central African Republic
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 8.48359
 longitude: 20.66112
 glottocode: geme1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Geme"
+wikidata_id: Q3915851
 wikipedia_url: "https://en.wikipedia.org/wiki/Geme_language"
 translations:
   - translation_iso: ara

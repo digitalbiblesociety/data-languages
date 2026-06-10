@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 13.49086
 longitude: 92.94855
 glottocode: akac1240
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Bo-Cari > Akacari"
+wikidata_id: Q2670418
 wikipedia_url: "https://en.wikipedia.org/wiki/Akacari"
 translations:
   - translation_iso: ara

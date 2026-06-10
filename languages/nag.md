@@ -7,12 +7,15 @@ population: 30000
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 25.25077
 longitude: 93.44376
 glottocode: naga1394
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Eastern Kamrupa > Naga Pidgin"
+wikidata_id: Q3503454
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagamese_creole"
 translations:
   - translation_iso: ara

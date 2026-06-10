@@ -6,12 +6,15 @@ population: 150000
 country_id: MZ
 country_name: Mozambique
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -19.811
 longitude: 34.613
 glottocode: moza1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Mozambican Sign Language"
+wikidata_id: Q6927809
 wikipedia_url: "https://en.wikipedia.org/wiki/Mozambican_Sign_Language"
 translations:
   - translation_iso: ara

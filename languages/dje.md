@@ -7,6 +7,8 @@ population: 4330100
 country_id: NE
 country_name: Niger
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.855377
 longitude: 2.411727
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: zarm1239
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Zarma-Kaado-Dendi > Zarma-Kaado"
+wikidata_id: Q36990
 wikipedia_url: "https://en.wikipedia.org/wiki/Zarma_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -4.137
 longitude: -46.792
 glottocode: aura1243
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Guaja-Aure-Aura > Aurê y Aurá"
+wikidata_id: Q3507995
 wikipedia_url: "https://en.wikipedia.org/wiki/Aur%C3%AA%E2%80%93Aur%C3%A1_language"
 translations:
   - translation_iso: ara

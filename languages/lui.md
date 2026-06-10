@@ -7,6 +7,8 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 33.31837
 longitude: -116.93868
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: luis1253
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Cupan > Luiseno-Juaneño"
+wikidata_id: Q56236
 wikipedia_url: "https://en.wikipedia.org/wiki/Luise%C3%B1o_language"
 translations:
   - translation_iso: ara

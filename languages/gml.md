@@ -7,12 +7,15 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: null
+scope: individual
+language_type: historical
 latitude: 53.14
 longitude: 9.67
 glottocode: midd1318
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Middle Low German"
+wikidata_id: Q505674
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Low_German"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -29.0647
 longitude: 117.2464
 glottocode: badi1246
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Kartu > Badimaya"
+wikidata_id: Q3442745
 wikipedia_url: "https://en.wikipedia.org/wiki/Badimaya_language"
 translations:
   - translation_iso: ara

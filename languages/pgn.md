@@ -6,6 +6,9 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q3832958
 wikipedia_url: "https://en.wikipedia.org/wiki/Paelignian_language"
 translations:
   - translation_iso: ara

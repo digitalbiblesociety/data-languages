@@ -7,12 +7,15 @@ population: 950
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -22.09465
 longitude: 166.53113
 glottocode: dumb1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Extreme Southern New Caledonian > Dumbea"
+wikidata_id: Q6983819
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndrumbea_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4500
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.65428
 longitude: -94.69125
 glottocode: chim1300
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chimalapa Zoque"
+wikidata_id: Q5099289
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimalapa_Zoque"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 13000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.27852
 longitude: 7.84105
 glottocode: ikug1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Iku-Gora-Ankwa"
+wikidata_id: Q3913940
 wikipedia_url: "https://en.wikipedia.org/wiki/Iku_language"
 translations:
   - translation_iso: ara

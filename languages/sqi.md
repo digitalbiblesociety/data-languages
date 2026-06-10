@@ -1,12 +1,16 @@
 ---
 iso: sqi
+iso639_1: sq
 name: Albanian
 autonym: shqip
 population: 5878700
 country_id: AL
 country_name: Albania
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Elba, Latn]
+wikidata_id: Q8748
 wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_language"
 translations:
   - translation_iso: ara

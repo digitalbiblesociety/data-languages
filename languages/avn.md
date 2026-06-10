@@ -7,12 +7,15 @@ population: 27200
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.8688
 longitude: 0.41314
 glottocode: avat1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Ka-Togo > Avatime-Nyangbo > Avatime"
+wikidata_id: Q34796
 wikipedia_url: "https://en.wikipedia.org/wiki/Avatime_language"
 translations:
   - translation_iso: ara

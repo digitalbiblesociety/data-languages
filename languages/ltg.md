@@ -1,12 +1,16 @@
 ---
 iso: ltg
+macrolanguage_id: lav
 name: Latgalian
 autonym: latgalīšu volūda
 population: 200000
 country_id: LV
 country_name: Latvia
 status_id: "4"
+scope: individual
+language_type: living
 scripts: [Latn]
+wikidata_id: Q36212
 wikipedia_url: "https://en.wikipedia.org/wiki/Latgalian_language"
 translations:
   - translation_iso: ara

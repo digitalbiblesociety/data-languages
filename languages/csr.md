@@ -6,12 +6,15 @@ population: 15000
 country_id: CR
 country_name: Costa Rica
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.8943
 longitude: -84.11803
 glottocode: cost1249
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Costa Rican Sign Language"
+wikidata_id: Q5174901
 wikipedia_url: "https://en.wikipedia.org/wiki/Costa_Rican_Sign_Language"
 translations:
   - translation_iso: ara

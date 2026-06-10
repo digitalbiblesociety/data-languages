@@ -7,12 +7,15 @@ population: 1990
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.56641
 longitude: 164.51038
 glottocode: yuag1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Extreme Northern New Caledonian > Kum-Nel-Yua-Cac > Kum-Nel-Yua > Yuaga"
+wikidata_id: Q3573088
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuanga_language"
 translations:
   - translation_iso: ara

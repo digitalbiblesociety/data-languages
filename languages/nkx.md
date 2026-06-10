@@ -7,12 +7,15 @@ population: 4550
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.57641
 longitude: 7.45802
 glottocode: nkor1239
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Nikio > Nkoroo"
+wikidata_id: Q36000
 wikipedia_url: "https://en.wikipedia.org/wiki/Nkoroo_language"
 translations:
   - translation_iso: ara

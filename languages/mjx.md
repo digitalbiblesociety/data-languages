@@ -7,12 +7,15 @@ population: 29400
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.1698
 longitude: 86.74451
 glottocode: maha1291
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Mahali"
+wikidata_id: Q12953686
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahali_language"
 translations:
   - translation_iso: ara

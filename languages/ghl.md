@@ -7,12 +7,15 @@ population: 16000
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.64319
 longitude: 29.81219
 glottocode: ghul1238
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Eastern Kordofan Nubian > Uncunwee"
+wikidata_id: Q16885737
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghulfan_language"
 translations:
   - translation_iso: ara

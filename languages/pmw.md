@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 38.03083
 longitude: -121.42161
 glottocode: plai1259
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Miwokan > Eastern Miwokan > Plains Miwok"
+wikidata_id: Q3391031
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Miwok_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 47
 longitude: 130
 glottocode: jurc1239
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Manchu-Jurchen > Jurchen"
+wikidata_id: Q56731
 wikipedia_url: "https://en.wikipedia.org/wiki/Jurchen_language"
 translations:
   - translation_iso: ara

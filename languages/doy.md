@@ -7,12 +7,15 @@ population: 965
 country_id: GH
 country_name: Ghana
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 8.182
 longitude: -2.295
 glottocode: domp1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Gonja-Dompo > Dompo"
+wikidata_id: Q35270
 wikipedia_url: "https://en.wikipedia.org/wiki/Dompo_language"
 translations:
   - translation_iso: ara

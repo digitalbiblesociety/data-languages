@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -27.425236
 longitude: 114.268044
 glottocode: nhan1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Nhanda"
+wikidata_id: Q3339380
 wikipedia_url: "https://en.wikipedia.org/wiki/Nhanda_language"
 translations:
   - translation_iso: ara

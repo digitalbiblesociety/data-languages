@@ -7,9 +7,12 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 26.133333
 longitude: -98.466667
 glottocode: come1251
+wikidata_id: Q609808
 wikipedia_url: "https://en.wikipedia.org/wiki/Comecrudo_language"
 translations:
   - translation_iso: ara

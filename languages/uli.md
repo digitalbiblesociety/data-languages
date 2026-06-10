@@ -7,6 +7,8 @@ population: 3000
 country_id: FM
 country_name: Micronesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10
 longitude: 140
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ulit1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Western Trukic > Ulithian"
+wikidata_id: Q36842
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulithian_language"
 translations:
   - translation_iso: ara

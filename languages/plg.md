@@ -7,12 +7,15 @@ population: 4000
 country_id: AR
 country_name: Argentina
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -25.00585
 longitude: -60.15372
 glottocode: pila1245
 glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Pilaga-Toba > Pilagá"
+wikidata_id: Q2748259
 wikipedia_url: "https://en.wikipedia.org/wiki/Pilag%C3%A1_language"
 translations:
   - translation_iso: ara

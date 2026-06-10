@@ -7,9 +7,12 @@ population: 1020
 country_id: EC
 country_name: Ecuador
 status_id: null
+scope: individual
+language_type: living
 latitude: 0.276675
 longitude: -77.064305
 glottocode: cofa1242
+wikidata_id: Q2669254
 wikipedia_url: "https://en.wikipedia.org/wiki/Cof%C3%A1n_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: quy
+macrolanguage_id: que
 name: Ayacucho Quechua
 autonym: Chanka runasimi
 alt_names: [Ayacucho, Ayacucho Kechua, Ayacucho-Chanka, Chanka, Chanka-Quechua, Chinchaysuyo, Northern Quechua, Quechua (Ayacucho), Quechua A, Quechua ayacuchano, "Quechua d'Ayacucho", Quechua de Ayacucho, "Quechua, Ayacucho", Runasimi, Аякучанский кечуа]
@@ -7,12 +8,15 @@ population: 900000
 country_id: PE
 country_name: Peru
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -13.84714
 longitude: -74.32246
 glottocode: ayac1239
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Ayacuchan Quechua > Ayacucho Quechua"
+wikidata_id: Q35145
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayacucho_Quechua"
 translations:
   - translation_iso: ara

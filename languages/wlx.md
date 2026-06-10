@@ -7,12 +7,15 @@ population: 70000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.02119
 longitude: -2.31263
 glottocode: wali1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Safaliba-Dagaare > Dagaaric > Central-South Dagaric > South Dagaric > Wali (Ghana)"
+wikidata_id: Q36895
 wikipedia_url: "https://en.wikipedia.org/wiki/Wali_language_(Gur)"
 translations:
   - translation_iso: ara

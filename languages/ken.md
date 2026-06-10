@@ -7,6 +7,8 @@ population: 65000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.58288
 longitude: 9.55918
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: keny1279
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Mamfe > Kenyang"
+wikidata_id: Q35650
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenyang_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 150000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.20529
 longitude: 125.00664
 glottocode: koro1310
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tboli-Blaan > Blaan > Koronadal Blaan"
+wikidata_id: Q16115430
 translations:
   - translation_iso: ara
     name: بلاان

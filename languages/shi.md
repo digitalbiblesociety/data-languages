@@ -7,6 +7,8 @@ population: 5118000
 country_id: MA
 country_name: Morocco
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 29.785385
 longitude: -7.778785
 scripts: [Arab, Latn, Tfng]
@@ -14,6 +16,7 @@ glottocode: tach1250
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Atlas Berber > Tachelhit"
+wikidata_id: Q34152
 wikipedia_url: "https://en.wikipedia.org/wiki/Shilha_language"
 translations:
   - translation_iso: ara

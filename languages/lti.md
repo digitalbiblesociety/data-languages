@@ -7,12 +7,15 @@ population: 7500
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -8.19808
 longitude: 127.67369
 glottocode: leti1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Luangic > Leti (Indonesia)"
+wikidata_id: Q3236912
 wikipedia_url: "https://en.wikipedia.org/wiki/Leti_language"
 translations:
   - translation_iso: ara

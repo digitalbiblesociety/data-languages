@@ -7,6 +7,8 @@ population: 11000
 country_id: DZ
 country_name: Algeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 29.11067
 longitude: 0.01992
 scripts: [Arab, Tfng]
@@ -14,6 +16,7 @@ glottocode: tazn1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Sud Oranais-Gourara"
+wikidata_id: Q3063974
 translations:
   - translation_iso: ara
     name: تآزنآتيت

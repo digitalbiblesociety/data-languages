@@ -7,12 +7,15 @@ population: 90000
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.81455
 longitude: 33.54035
 glottocode: maba1273
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Burun > Southern Burun > Mabaan"
+wikidata_id: Q20526385
 translations:
   - translation_iso: ara
     name: لغة مابان

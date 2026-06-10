@@ -7,12 +7,15 @@ population: 5000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.43149
 longitude: 155.41168
 glottocode: sibe1248
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Sibe (Nasioi)"
+wikidata_id: Q56806
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagovisi_language"
 translations:
   - translation_iso: ara

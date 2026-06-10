@@ -7,12 +7,15 @@ population: 950
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -5.16108
 longitude: 119.40752
 glottocode: maka1305
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Makassar Malay"
+wikidata_id: Q12952776
 wikipedia_url: "https://en.wikipedia.org/wiki/Makassar_Malay"
 translations:
   - translation_iso: ara

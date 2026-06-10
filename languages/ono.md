@@ -7,12 +7,15 @@ population: 18173
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 42.98638
 longitude: -78.04973
 glottocode: onon1246
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Onondaga"
+wikidata_id: Q1077450
 wikipedia_url: "https://en.wikipedia.org/wiki/Onondaga_language"
 translations:
   - translation_iso: ara

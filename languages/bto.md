@@ -1,5 +1,6 @@
 ---
 iso: bto
+macrolanguage_id: bik
 name: Rinconada Bikol
 autonym: Rinconada
 alt_names: ["Bicolano, Iriga", Bikol, "Bikol, Rinconada", Rinconada Bicolano]
@@ -7,6 +8,8 @@ population: 385000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.38959
 longitude: 123.3307
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: irig1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Inland Bikol > Iriga Bicolano"
+wikidata_id: Q12633026
 wikipedia_url: "https://en.wikipedia.org/wiki/Rinconada_Bikol_language"
 translations:
   - translation_iso: ara

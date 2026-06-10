@@ -7,12 +7,15 @@ population: 800
 country_id: IN
 country_name: India
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 26.88946
 longitude: 93.99325
 glottocode: kham1291
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Assam Tai B > Khamyang"
+wikidata_id: Q6583541
 wikipedia_url: "https://en.wikipedia.org/wiki/Khamyang_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 700
 country_id: KE
 country_name: Kenya
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 2.79312
 longitude: 36.76187
 glottocode: elmo1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Western Omo-Tana > El Molo"
+wikidata_id: Q56719
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Molo_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 52.89596
 longitude: 9.98388
+wikidata_id: Q10860505
 wikipedia_url: "https://en.wikipedia.org/wiki/Frankish_language"
 translations:
   - translation_iso: ara

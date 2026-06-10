@@ -7,12 +7,15 @@ population: 1050
 country_id: VU
 country_name: Vanuatu
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.87462
 longitude: 167.51587
 glottocode: vure1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Vurës"
+wikidata_id: Q3331111
 wikipedia_url: "https://en.wikipedia.org/wiki/Mwesen_language"
 translations:
   - translation_iso: ara

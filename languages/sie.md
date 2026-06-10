@@ -7,12 +7,15 @@ population: 19700
 country_id: ZM
 country_name: Zambia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.7434
 longitude: 22.64548
 glottocode: sima1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Western Greater Luyana > Simaaic > Simaa"
+wikidata_id: Q7517329
 wikipedia_url: "https://en.wikipedia.org/wiki/Simaa_language"
 translations:
   - translation_iso: ara

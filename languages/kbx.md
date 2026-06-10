@@ -7,12 +7,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.35147
 longitude: 144.08524
 glottocode: apma1241
 glottolog_family_id: kera1258
 glottolog_family_name: Keram
 glottolog_classification: "Keram > East Keram > Ap Ma"
+wikidata_id: Q56298
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambot_language"
 translations:
   - translation_iso: ara

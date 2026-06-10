@@ -7,12 +7,15 @@ population: 280
 country_id: PY
 country_name: Paraguay
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -21.98031
 longitude: -58.06545
 glottocode: guan1268
 glottolog_family_id: leng1261
 glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Guaná (Paraguay)"
+wikidata_id: Q3033534
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaskih%C3%A1_language"
 translations:
   - translation_iso: ara

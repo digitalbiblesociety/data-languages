@@ -7,12 +7,15 @@ population: 3200
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.53222
 longitude: 94.21644
 glottocode: mons1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Analic > Moyon-Monsang Naga > Monsang Naga"
+wikidata_id: Q6902496
 wikipedia_url: "https://en.wikipedia.org/wiki/Monsang_language"
 translations:
   - translation_iso: ara

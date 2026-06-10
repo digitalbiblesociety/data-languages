@@ -7,12 +7,15 @@ population: 1200
 country_id: US
 country_name: United States
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 63.43083
 longitude: -170.27166
 glottocode: cent2128
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Central Siberian Yupik"
+wikidata_id: Q27993
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Siberian_Yupik_language"
 translations:
   - translation_iso: ara

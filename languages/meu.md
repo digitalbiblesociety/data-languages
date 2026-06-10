@@ -7,12 +7,15 @@ population: 39000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.67492
 longitude: 147.42357
 glottocode: motu1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > West Central Papuan linkage > Motu"
+wikidata_id: Q33516
 wikipedia_url: "https://en.wikipedia.org/wiki/Motu_language"
 translations:
   - translation_iso: ara

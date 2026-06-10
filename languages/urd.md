@@ -1,5 +1,6 @@
 ---
 iso: urd
+iso639_1: ur
 name: Urdu
 autonym: اُردُو
 alt_names: [An Urdais, Fiteny urdu, Hindustani, Islami, Oerdoe, Ordo, Ourdou, Ourdoueg, Undri, Urdu simi, Urdu-gí, Urduca, Urdugiella, Urduo, Urdú, Urudu, Wrdw, Забони урду, Урду, אורדו, أردو, ئوردو تىلى, اردو, ܠܫܢܐ ܕܐܘܪܕܘ, އުރުދޫ, उर्दू, উর্দু ঠার, உருது, ಉರ್ದೂ, ഉർദു]
@@ -7,6 +8,8 @@ population: 68600000
 country_id: PK
 country_name: Pakistan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 25
 longitude: 67
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: urdu1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Hindustani > Urdu"
+wikidata_id: Q1617
 wikipedia_url: "https://en.wikipedia.org/wiki/Urdu"
 translations:
   - translation_iso: ara

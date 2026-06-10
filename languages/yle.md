@@ -7,9 +7,12 @@ population: 5000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.37963
 longitude: 154.12664
 glottocode: yele1255
+wikidata_id: Q36942
 wikipedia_url: "https://en.wikipedia.org/wiki/Yele_language"
 translations:
   - translation_iso: ara

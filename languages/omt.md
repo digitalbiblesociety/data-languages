@@ -7,12 +7,15 @@ population: 200
 country_id: KE
 country_name: Kenya
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -1.34401
 longitude: 35.62963
 glottocode: omot1239
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Tatoga-Omotik > Omotik"
+wikidata_id: Q36313
 wikipedia_url: "https://en.wikipedia.org/wiki/Omotik_language"
 translations:
   - translation_iso: ara

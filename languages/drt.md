@@ -6,8 +6,11 @@ population: 255000
 country_id: NL
 country_name: Netherlands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 52.9024
 longitude: 6.51539
+wikidata_id: Q2736709
 wikipedia_url: "https://en.wikipedia.org/wiki/Dr%C3%A8ents_dialects"
 translations:
   - translation_iso: ara

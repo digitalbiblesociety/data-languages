@@ -7,12 +7,15 @@ population: 972000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.38357
 longitude: 94.00354
 glottocode: maon1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Naga Maoic > Mao Naga"
+wikidata_id: Q12952905
 translations:
   - translation_iso: ara
     name: ماو ناجا

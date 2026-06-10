@@ -7,12 +7,15 @@ population: 1500
 country_id: PY
 country_name: Paraguay
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -25.01186
 longitude: -57.36935
 glottocode: maca1260
 glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo I > Maká"
+wikidata_id: Q3281043
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak%C3%A1_language"
 translations:
   - translation_iso: ara

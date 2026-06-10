@@ -6,12 +6,15 @@ population: 10
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.57026
 longitude: 141.78374
 glottocode: akkk1240
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Yellow River > Ak"
+wikidata_id: Q56654
 wikipedia_url: "https://en.wikipedia.org/wiki/Ak_language"
 translations:
   - translation_iso: ara

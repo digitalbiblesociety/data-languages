@@ -7,12 +7,15 @@ population: 2130
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.33983
 longitude: 133.35778
 glottocode: gunw1252
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Bininj Kun-Wok"
+wikidata_id: Q1406574
 wikipedia_url: "https://en.wikipedia.org/wiki/Bininj_Kunwok"
 translations:
   - translation_iso: ara

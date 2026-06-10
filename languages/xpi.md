@@ -7,12 +7,15 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: historical
 latitude: 56.374
 longitude: -3.9
 glottocode: pict1238
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Pictish"
+wikidata_id: Q856383
 wikipedia_url: "https://en.wikipedia.org/wiki/Pictish_language"
 translations:
   - translation_iso: ara

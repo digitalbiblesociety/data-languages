@@ -7,12 +7,15 @@ population: 1220
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.01962
 longitude: 105.07021
 glottocode: whit1267
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Southwestern Gelao > Duoluo Gelao"
+wikidata_id: Q8843040
 wikipedia_url: "https://en.wikipedia.org/wiki/Telue_language"
 translations:
   - translation_iso: ara

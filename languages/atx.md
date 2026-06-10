@@ -7,9 +7,12 @@ population: 5
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 4.20057
 longitude: -63.12023
 glottocode: arut1244
+wikidata_id: Q56609
 wikipedia_url: "https://en.wikipedia.org/wiki/Arutani_language"
 translations:
   - translation_iso: ara

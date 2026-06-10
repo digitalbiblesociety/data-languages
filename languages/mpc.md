@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -14.79818
 longitude: 133.80327
 glottocode: mang1381
 glottolog_family_id: mang1423
 glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Mangarrayi"
+wikidata_id: Q6748829
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangarrayi_language"
 translations:
   - translation_iso: ara

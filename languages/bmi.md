@@ -7,12 +7,15 @@ population: 44800
 country_id: TD
 country_name: Chad
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 11.52392
 longitude: 14.769495
 glottocode: bagi1246
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Bagirmic > Bagirmi"
+wikidata_id: Q34903
 wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 12.84943
 longitude: 92.82266
 glottocode: akak1252
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Akakede"
+wikidata_id: Q3436816
 wikipedia_url: "https://en.wikipedia.org/wiki/Akakede"
 translations:
   - translation_iso: ara

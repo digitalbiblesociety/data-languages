@@ -7,12 +7,15 @@ population: 14110
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 31.79725
 longitude: -111.994865
 glottocode: toho1245
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Piman > Tohono O'odham"
+wikidata_id: Q2393095
 wikipedia_url: "https://en.wikipedia.org/wiki/O%CA%BCodham_language"
 translations:
   - translation_iso: ara

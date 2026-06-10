@@ -7,6 +7,8 @@ population: 42610
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.73933
 longitude: 107.169385
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: khak1248
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Yenisey Turkic > Khakas"
+wikidata_id: Q33575
 wikipedia_url: "https://en.wikipedia.org/wiki/Khakas_language"
 translations:
   - translation_iso: ara

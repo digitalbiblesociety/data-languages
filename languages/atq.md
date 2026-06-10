@@ -6,12 +6,15 @@ population: 29300
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.78397
 longitude: 119.3193
 glottocode: aral1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Aralle-Tabulahan"
+wikidata_id: Q4783889
 wikipedia_url: "https://en.wikipedia.org/wiki/Aralle-Tabulahan_language"
 translations:
   - translation_iso: ara

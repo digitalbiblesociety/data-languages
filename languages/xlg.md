@@ -6,10 +6,13 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 glottocode: anci1248
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Ancient Ligurian"
+wikidata_id: Q36104
 wikipedia_url: "https://en.wikipedia.org/wiki/Ligurian_language_(ancient)"
 translations:
   - translation_iso: ara

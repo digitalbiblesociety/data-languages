@@ -7,12 +7,15 @@ population: null
 country_id: ET
 country_name: Ethiopia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 7.53825
 longitude: 37.57419
 glottocode: mesm1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > TT-Group > Peripheral Western Gurage > Mesmes"
+wikidata_id: Q3508617
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesmes_language"
 translations:
   - translation_iso: ara

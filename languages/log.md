@@ -6,12 +6,15 @@ population: 210000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.32608
 longitude: 29.88655
 glottocode: logo1259
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Logo"
+wikidata_id: Q2613477
 wikipedia_url: "https://en.wikipedia.org/wiki/Logo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 365
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.96952
 longitude: -67.25811
 glottocode: mapo1246
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Mapoyo-Yawarana > Mapoyo"
+wikidata_id: Q56946
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapoyo_language"
 translations:
   - translation_iso: ara

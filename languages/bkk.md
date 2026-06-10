@@ -7,12 +7,15 @@ population: 10000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.53077
 longitude: 76.60261
 glottocode: brok1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Shinaic > Brokskat"
+wikidata_id: Q2925988
 wikipedia_url: "https://en.wikipedia.org/wiki/Brokskat_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 45.02783
 longitude: -121.50876
 glottocode: wasc1239
 glottolog_family_id: chin1490
 glottolog_family_name: Chinookan
 glottolog_classification: "Chinookan > Upper Chinook"
+wikidata_id: Q12645081
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Chinook_language"
 translations:
   - translation_iso: ara

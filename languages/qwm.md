@@ -6,6 +6,9 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q1075050
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuman_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -16.41625
 longitude: 123.1856
 glottocode: djaw1238
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Western Nyulnyulan > Bardic > Djawi"
+wikidata_id: Q3913844
 wikipedia_url: "https://en.wikipedia.org/wiki/Jawi_dialect"
 translations:
   - translation_iso: ara

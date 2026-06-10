@@ -7,12 +7,15 @@ population: 570
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.15417
 longitude: -97.38989
 glottocode: sanj1282
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Yucuane-Teita > Teita-Tataltepec Mixtec"
+wikidata_id: Q32093049
 translations:
   - translation_iso: ara
     name: سان خوان تيتا ميكستيك

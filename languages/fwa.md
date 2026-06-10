@@ -7,12 +7,15 @@ population: 1130
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.68733
 longitude: 164.9009
 glottocode: fwai1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Nmi-Fij-Fwa > Hyenghene > Fwâi"
+wikidata_id: Q3091331
 wikipedia_url: "https://en.wikipedia.org/wiki/Fw%C3%A2i_language"
 translations:
   - translation_iso: deu

@@ -7,6 +7,8 @@ population: 457000
 country_id: SN
 country_name: Senegal
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.75752
 longitude: -15.735477
 scripts: [Arab, Latn]
@@ -14,6 +16,7 @@ glottocode: jola1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Jola-Fonyi"
+wikidata_id: Q3507832
 wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Fonyi_language"
 translations:
   - translation_iso: ara

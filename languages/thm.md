@@ -7,12 +7,15 @@ population: 2520
 country_id: TH
 country_name: Thailand
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.76548
 longitude: 104.228545
 glottocode: aheu1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > Thavung"
+wikidata_id: Q34780
 wikipedia_url: "https://en.wikipedia.org/wiki/Thavung_language"
 translations:
   - translation_iso: ara

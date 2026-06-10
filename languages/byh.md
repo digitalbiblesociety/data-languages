@@ -7,12 +7,15 @@ population: 3900
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 28.00836
 longitude: 84.50684
 glottocode: bujh1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Chepangic > Bujhyal"
+wikidata_id: Q56317
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhujel_language"
 translations:
   - translation_iso: ara

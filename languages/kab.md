@@ -7,6 +7,8 @@ population: 6819200
 country_id: DZ
 country_name: Algeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 36.41025
 longitude: 4.76137
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kaby1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Kabyle"
+wikidata_id: Q35853
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabyle_language"
 translations:
   - translation_iso: ara

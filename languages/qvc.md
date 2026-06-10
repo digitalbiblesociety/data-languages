@@ -1,5 +1,6 @@
 ---
 iso: qvc
+macrolanguage_id: que
 name: Cajamarca Quechua
 autonym: Kashamarka Runashimi
 alt_names: [Cajamarca, Cajamarca Kechua, Cajamarca-Quechua, Chinchaysuyo, Kashamarka rimay, Northern Quechua, Quechua, Quechua (Cajamarca), Quechua cajamarquino, "Quechua, Cajamarca"]
@@ -7,12 +8,15 @@ population: 30000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.09314
 longitude: -78.32141
 glottocode: caja1238
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Cajamarca-Lambayeque Quechua > Cajamarca Quechua"
+wikidata_id: Q35112
 wikipedia_url: "https://en.wikipedia.org/wiki/Cajamarca_Quechua"
 translations:
   - translation_iso: ara

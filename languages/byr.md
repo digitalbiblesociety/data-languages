@@ -7,12 +7,15 @@ population: 6600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.89261
 longitude: 145.81816
 glottocode: baru1267
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Baruya-Simbari > Baruya"
+wikidata_id: Q3450812
 wikipedia_url: "https://en.wikipedia.org/wiki/Yipma_language"
 translations:
   - translation_iso: ara

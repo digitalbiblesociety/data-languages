@@ -7,6 +7,8 @@ population: 2051
 country_id: SR
 country_name: Suriname
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 5.642953
 longitude: -56.924345
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: araw1276
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Lokono"
+wikidata_id: Q2655664
 wikipedia_url: "https://en.wikipedia.org/wiki/Lokono_language"
 translations:
   - translation_iso: ara

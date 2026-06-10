@@ -1,5 +1,6 @@
 ---
 iso: lao
+iso639_1: lo
 name: Lao
 autonym: ພາສາລາ
 alt_names: [Eastern Thai, Lao Kao, Lao Wiang, Lao-Lum, Lao-Noi, Lao-Tai, Laoca, Laotiaans, Laotian, Laotian Tai, Laotisk, Law simi, Lum Lao, Lأƒآ o, Phou Lao, Rong Kong, Tai Lao, Лао, لائوس تىلى]
@@ -7,6 +8,8 @@ population: 7169000
 country_id: LA
 country_name: Laos
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 16.07262
 longitude: 104.56848
 scripts: [Laoo]
@@ -14,6 +17,7 @@ glottocode: laoo1244
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Thai PH > Lao-Thai > Lao"
+wikidata_id: Q9211
 wikipedia_url: "https://en.wikipedia.org/wiki/Lao_language"
 translations:
   - translation_iso: ara

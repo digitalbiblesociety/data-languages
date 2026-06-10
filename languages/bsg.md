@@ -7,12 +7,15 @@ population: 7030
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 32
 longitude: 53
 glottocode: bash1263
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Bashkardi"
+wikidata_id: Q33030
 wikipedia_url: "https://en.wikipedia.org/wiki/Bashkardi_language"
 translations:
   - translation_iso: ara

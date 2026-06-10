@@ -7,6 +7,8 @@ population: 803650
 country_id: LA
 country_name: Laos
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.246292
 longitude: 101.67116
 scripts: [Laoo, Latn]
@@ -14,6 +16,7 @@ glottocode: khmu1256
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmuic > Khmu' > Khmu"
+wikidata_id: Q33335
 wikipedia_url: "https://en.wikipedia.org/wiki/Khmu_language"
 translations:
   - translation_iso: ara

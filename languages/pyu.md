@@ -7,12 +7,15 @@ population: 8487
 country_id: TW
 country_name: Taiwan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 22.64302
 longitude: 120.99631
 glottocode: puyu1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Puyuma"
+wikidata_id: Q716690
 wikipedia_url: "https://en.wikipedia.org/wiki/Puyuma_language"
 translations:
   - translation_iso: ara

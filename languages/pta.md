@@ -7,12 +7,15 @@ population: 15000
 country_id: PY
 country_name: Paraguay
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -23.15945
 longitude: -56.11758
 glottocode: pait1247
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.A > Paraguay-Brazil Guarani > Kaiowa > Pai Tavytera"
+wikidata_id: Q7124619
 wikipedia_url: "https://en.wikipedia.org/wiki/Pai_Tavytera_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 29.19568
 longitude: 83.29267
 glottocode: dolp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Dolpo-Tichurong > Dolpo"
+wikidata_id: Q12629969
 translations:
   - translation_iso: ara
     name: دولبو

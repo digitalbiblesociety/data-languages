@@ -7,12 +7,15 @@ population: 9600
 country_id: CG
 country_name: Congo
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.70044
 longitude: 17.37329
 glottocode: bomi1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Impfondoic > Bomitaba"
+wikidata_id: Q35063
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomitaba_language"
 translations:
   - translation_iso: ara

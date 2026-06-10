@@ -7,12 +7,15 @@ population: 300
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.15863
 longitude: 138.0273
 glottocode: trim1239
 glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Kwerbaic > Middle Mamberamo Kwerba > Kasonaic > Trimuris"
+wikidata_id: Q7842270
 wikipedia_url: "https://en.wikipedia.org/wiki/Trimuris_language"
 translations:
   - translation_iso: ara

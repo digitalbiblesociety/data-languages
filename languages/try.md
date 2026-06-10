@@ -7,12 +7,15 @@ population: 1000
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 26.34412
 longitude: 92.26757
 glottocode: turu1249
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Unclassified Sukaphic > Turung"
+wikidata_id: Q7856514
 wikipedia_url: "https://en.wikipedia.org/wiki/Turung_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6000
 country_id: GQ
 country_name: Equatorial Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 3.53638
 longitude: 8.68929
 glottocode: fern1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Pichi"
+wikidata_id: Q35288
 wikipedia_url: "https://en.wikipedia.org/wiki/Pichinglis"
 translations:
   - translation_iso: ara

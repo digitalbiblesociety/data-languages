@@ -7,12 +7,15 @@ population: 25000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.76004
 longitude: 119.80592
 glottocode: bent1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Nuclear Makassaric > Bentong"
+wikidata_id: Q4890644
 wikipedia_url: "https://en.wikipedia.org/wiki/Bentong_language"
 translations:
   - translation_iso: ara

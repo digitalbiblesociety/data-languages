@@ -7,6 +7,8 @@ population: 345500
 country_id: GE
 country_name: Georgia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 42.51289
 longitude: 41.87188
 scripts: [Geor]
@@ -14,6 +16,7 @@ glottocode: ming1252
 glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Zan > Mingrelian"
+wikidata_id: Q13359
 wikipedia_url: "https://en.wikipedia.org/wiki/Mingrelian_language"
 translations:
   - translation_iso: ara

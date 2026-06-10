@@ -7,6 +7,8 @@ population: 700000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.77284
 longitude: 124.14365
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: uabm1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Rote-Meto > West Rote > Dengka-Meto > Meto > Central Meto > Uab Meto"
+wikidata_id: Q3441962
 wikipedia_url: "https://en.wikipedia.org/wiki/Uab_Meto_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 5800
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.48
 longitude: 13.36
 glottocode: kiry1234
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Nkafa-Kirya-Bana > Nkafa-Kirya > Kirya-Konzel"
+wikidata_id: Q6416310
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirya-Konz%C9%99l_language"
 translations:
   - translation_iso: ara

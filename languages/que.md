@@ -1,12 +1,16 @@
 ---
 iso: que
+iso639_1: qu
 name: Quechua
 autonym: Runasimi
 population: 8900000
 country_id: PE
 country_name: Peru
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q5218
 wikipedia_url: "https://en.wikipedia.org/wiki/Quechuan_languages"
 translations:
   - translation_iso: ara

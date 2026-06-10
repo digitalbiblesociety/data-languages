@@ -7,12 +7,15 @@ population: 500
 country_id: PE
 country_name: Peru
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -3.31233
 longitude: -73.97046
 glottocode: iqui1243
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Cahuarano-Iquito > Iquito"
+wikidata_id: Q2669184
 wikipedia_url: "https://en.wikipedia.org/wiki/Iquito_language"
 translations:
   - translation_iso: ara

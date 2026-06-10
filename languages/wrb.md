@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -22.29092
 longitude: 138.73801
 glottocode: warl1256
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Ngarna > Southern Ngarna > Thawa > Warluwara"
+wikidata_id: Q3913761
 wikipedia_url: "https://en.wikipedia.org/wiki/Warluwarra_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -12.96
 longitude: 141.95
 glottocode: arit1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Arritinngithigh"
+wikidata_id: Q4796002
 wikipedia_url: "https://en.wikipedia.org/wiki/Arritinngithigh_language"
 translations:
   - translation_iso: ara

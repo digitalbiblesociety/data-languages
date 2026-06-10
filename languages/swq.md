@@ -7,12 +7,15 @@ population: 5100
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.14138
 longitude: 13.56571
 glottocode: shar1249
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Sharwa-Tsuvan > Sharwa"
+wikidata_id: Q56791
 wikipedia_url: "https://en.wikipedia.org/wiki/Sharwa_language"
 translations:
   - translation_iso: ara

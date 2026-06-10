@@ -1,5 +1,6 @@
 ---
 iso: zpn
+macrolanguage_id: zap
 name: Santa Inés Yatzechi Zapotec
 autonym: (Santa Inés Yatzeche)
 alt_names: [Eastern Sapoteko, Santa Ines Yatzechi Zapotec, Southeastern Zimatlán Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Santa Inés Yatzechi", Zapoteco de Asunción Tlacolulita, Zapoteco de Santa Inés Yatzechi, Zapoteco de Zegache, "Zapotèque d'Asunción Tlacolulita"]
@@ -7,12 +8,15 @@ population: 2240
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.88416
 longitude: -96.75273
 glottocode: sant1447
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Tilquiapanic > Santa Inés Yatzechi Zapotec"
+wikidata_id: Q8050300
 wikipedia_url: "https://en.wikipedia.org/wiki/Yatzeche_Zapotec"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3720
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.51015
 longitude: 87.21573
 glottocode: nort2727
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Lohorung"
+wikidata_id: Q6668040
 wikipedia_url: "https://en.wikipedia.org/wiki/Lohorung_language"
 translations:
   - translation_iso: ara

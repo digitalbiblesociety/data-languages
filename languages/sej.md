@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -6.3859
 longitude: 147.80729
 glottocode: sene1263
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Eastern Huon > Trans Vitiaz > Huon Tip > Sene"
+wikidata_id: Q7450252
 wikipedia_url: "https://en.wikipedia.org/wiki/Sene_language"
 translations:
   - translation_iso: ara

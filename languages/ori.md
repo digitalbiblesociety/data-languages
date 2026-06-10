@@ -1,14 +1,18 @@
 ---
 iso: ori
+iso639_1: or
 name: Oriya
 autonym: ଓଡ଼ିଆ
 population: 35000000
 country_id: IN
 country_name: India
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: 21.662595
 longitude: 86.8563
 scripts: [Orya]
+wikidata_id: Q7102899
 wikipedia_url: "https://en.wikipedia.org/wiki/Odia_dialects_and_varieties"
 translations:
   - translation_iso: ara

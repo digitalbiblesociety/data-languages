@@ -7,12 +7,15 @@ population: 72800
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -11.13767
 longitude: 34.71269
 glottocode: mpot1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Matengo-Rufiji > South Mbinda > Mpoto"
+wikidata_id: Q6928303
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpoto_language"
 translations:
   - translation_iso: ara

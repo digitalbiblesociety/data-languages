@@ -6,12 +6,15 @@ population: 50
 country_id: PG
 country_name: Papua New Guinea
 status_id: null
+scope: individual
+language_type: living
 latitude: -5.1385
 longitude: 145.1091
 glottocode: magi1243
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Sogeram > East Sogeram > Aisian > Magi"
+wikidata_id: Q55621742
 wikipedia_url: "https://en.wikipedia.org/wiki/Mag%C9%A8_language"
 translations:
   - translation_iso: ara

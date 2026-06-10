@@ -7,12 +7,15 @@ population: 20000
 country_id: EG
 country_name: Egypt
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.20228
 longitude: 25.51974
 glottocode: siwi1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Libyan-Egyptian Oases Berber > Siwi"
+wikidata_id: Q36814
 wikipedia_url: "https://en.wikipedia.org/wiki/Siwi_language"
 translations:
   - translation_iso: ara

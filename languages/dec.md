@@ -7,12 +7,15 @@ population: 61000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.583
 longitude: 29.94036
 glottocode: dagi1241
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Buram Hill Chain > Dagik"
+wikidata_id: Q35125
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagik_language"
 translations:
   - translation_iso: ara

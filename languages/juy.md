@@ -7,12 +7,15 @@ population: 801000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.09102
 longitude: 84.12038
 glottocode: jura1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Sora-Juray > Juray"
+wikidata_id: Q6314963
 wikipedia_url: "https://en.wikipedia.org/wiki/Juray_language"
 translations:
   - translation_iso: ara

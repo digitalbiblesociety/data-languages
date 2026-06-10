@@ -7,6 +7,8 @@ population: 7000
 country_id: TH
 country_name: Thailand
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.01364
 longitude: 98.76132
 scripts: [Thai]
@@ -14,6 +16,7 @@ glottocode: east2330
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Lawa > Eastern Lawa"
+wikidata_id: Q18644464
 translations:
   - translation_iso: ara
     name: لغة ياستيرن اوا

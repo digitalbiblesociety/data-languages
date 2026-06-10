@@ -1,5 +1,6 @@
 ---
 iso: mwk
+macrolanguage_id: man
 name: Kita Maninkakan
 autonym: Central Malinke
 alt_names: [Kita Maninka, Malinke, "Maninkakan, Kita", Nandi]
@@ -7,6 +8,8 @@ population: 434000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.1798
 longitude: -9.49151
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: kita1249
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Kita-Kagoro > Kita Maninkakan"
+wikidata_id: Q3015523
 wikipedia_url: "https://en.wikipedia.org/wiki/Kita_Maninka_language"
 translations:
   - translation_iso: ara

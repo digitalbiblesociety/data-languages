@@ -7,12 +7,15 @@ population: 1800
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.72467
 longitude: 116.7886
 glottocode: tamp1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Paitanic > Upper Kinabatangan-Lobu > Tampias Lobu"
+wikidata_id: Q12953674
 translations:
   - translation_iso: ara
     name: لغة امپياس وبو

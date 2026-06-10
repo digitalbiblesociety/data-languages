@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -10.21666
 longitude: 149.28333
 glottocode: yoba1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Magoric > Yoba"
+wikidata_id: Q8054220
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoba_language"
 translations:
   - translation_iso: ara

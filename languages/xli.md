@@ -6,6 +6,9 @@ population: null
 country_id: HR
 country_name: Croatia
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q35835
 wikipedia_url: "https://en.wikipedia.org/wiki/Liburnian_language"
 translations:
   - translation_iso: ara

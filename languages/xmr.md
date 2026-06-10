@@ -6,10 +6,13 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: null
+scope: individual
+language_type: historical
 latitude: 16.933333
 longitude: 33.733333
 scripts: [Merc]
 glottocode: mero1237
+wikidata_id: Q13366
 wikipedia_url: "https://en.wikipedia.org/wiki/Meroitic_language"
 translations:
   - translation_iso: ara

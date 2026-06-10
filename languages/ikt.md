@@ -1,5 +1,6 @@
 ---
 iso: ikt
+macrolanguage_id: iku
 name: Inuinnaqtun
 autonym: Western Canadian Inuktitut
 alt_names: [Canadian Eskimo, Canadian Inuit, Central-Northern, Eskimo, Inuit, Inuktitut (Rankin Inlet), "Inuktitut, Western Canadian", Inupiat, Inuvialuktun, Kangiryuarmiut, Kangiryuarmiut Eskimo, Mackenzie Coast, Natsilingmiutut, Siglitun, Western Canadian Eskimo, Western Canadian Inuit, Western Canadian Inuktun, Инувиалуктун]
@@ -7,6 +8,8 @@ population: 4000
 country_id: CA
 country_name: Canada
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 64.34861
 longitude: -96.14797
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: west2618
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Western Canadian Inuktitut"
+wikidata_id: Q16653174
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Canadian_Inuktitut"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 7790
 country_id: FM
 country_name: Micronesia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 5.5
 longitude: 163
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kosr1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Kosraean-Nauruan > Kosraean"
+wikidata_id: Q33464
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosraean_language"
 translations:
   - translation_iso: ara

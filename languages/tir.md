@@ -1,5 +1,6 @@
 ---
 iso: tir
+iso639_1: ti
 name: Tigrinya
 autonym: ትግርኛ tigriññā
 alt_names: [Kitigrinya, Tigray, Tigrigneg, Tigrinja, Tigrinska, Tigrinyera, Tigriña, Tigriňa, Tiri, Tîrî, tigrigna, Тигринья, Тигриня, Тигриња, Тїгрі́ньскъ ѩꙁꙑ́къ, תיגרינית, تىگرىنىيەچە]
@@ -7,6 +8,8 @@ population: 9878000
 country_id: ET
 country_name: Ethiopia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 15.335942
 longitude: 38.926563
 scripts: [Ethi]
@@ -14,6 +17,7 @@ glottocode: tigr1271
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > Tigrinya"
+wikidata_id: Q34124
 wikipedia_url: "https://en.wikipedia.org/wiki/Tigrinya_language"
 translations:
   - translation_iso: ara

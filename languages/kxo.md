@@ -7,9 +7,12 @@ population: 5
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -12.17894
 longitude: -64.58121
 glottocode: kano1245
+wikidata_id: Q4356223
 wikipedia_url: "https://en.wikipedia.org/wiki/Kano%C3%AA_language"
 translations:
   - translation_iso: ara

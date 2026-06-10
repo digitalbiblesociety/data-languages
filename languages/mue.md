@@ -7,12 +7,15 @@ population: 1000
 country_id: EC
 country_name: Ecuador
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.04518
 longitude: -78.53916
 glottocode: medi1245
 glottolog_family_id: mixe1287
 glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > Spanish-Quechua > Media Lengua"
+wikidata_id: Q36066
 wikipedia_url: "https://en.wikipedia.org/wiki/Media_Lengua"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 482000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.73235
 longitude: 34.03408
 glottocode: adho1243
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Adhola-Luo > Adhola"
+wikidata_id: Q1971400
 wikipedia_url: "https://en.wikipedia.org/wiki/Adhola_dialect"
 translations:
   - translation_iso: ara

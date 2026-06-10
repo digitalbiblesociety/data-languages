@@ -7,12 +7,15 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 35.798
 longitude: 36.798
 glottocode: ebla1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > East Semitic > Eblaite"
+wikidata_id: Q35345
 wikipedia_url: "https://en.wikipedia.org/wiki/Eblaite_language"
 translations:
   - translation_iso: ara

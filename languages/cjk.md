@@ -7,12 +7,15 @@ population: 2491700
 country_id: AO
 country_name: Angola
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -9.660823
 longitude: 21.399183
 glottocode: chok1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Chokwe-Lwena > Chokwe"
+wikidata_id: Q2422065
 wikipedia_url: "https://en.wikipedia.org/wiki/Chokwe_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 23100
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.52875
 longitude: 106.10205
 glottocode: tali1257
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Triengic > Talieng"
+wikidata_id: Q13018524
 translations:
   - translation_iso: ara
     name: تاليينج

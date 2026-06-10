@@ -7,12 +7,15 @@ population: 1400
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 60.78227
 longitude: -136.57324
 glottocode: sout2957
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tutchone > Southern Tutchone"
+wikidata_id: Q31091048
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tutchone_language"
 translations:
   - translation_iso: ara

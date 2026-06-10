@@ -7,12 +7,15 @@ population: 1000
 country_id: BF
 country_name: Burkina Faso
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.71843
 longitude: -4.52619
 glottocode: tief1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tiefoic > Tiefo-Daramandugu"
+wikidata_id: Q3914874
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiefo_language"
 translations:
   - translation_iso: ara

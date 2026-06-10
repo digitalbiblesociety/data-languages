@@ -7,12 +7,15 @@ population: 15000
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 6.9183
 longitude: 9.977695
 glottocode: yuku1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Yukuben"
+wikidata_id: Q3915846
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukuben_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 66900
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.43358
 longitude: 94.95357
 glottocode: chan1313
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Chang Naga"
+wikidata_id: Q5071694
 wikipedia_url: "https://en.wikipedia.org/wiki/Chang_language"
 translations:
   - translation_iso: ara

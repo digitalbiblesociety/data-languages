@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.52902
 longitude: 143.78882
 glottocode: mbar1253
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Lamalamic > Rimanggudhinma"
+wikidata_id: Q3915672
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbariman-Gudhinma_language"
 translations:
   - translation_iso: ara

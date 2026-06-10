@@ -7,12 +7,15 @@ population: 85
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.32114
 longitude: 141.45002
 glottocode: bopa1235
 glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Iteri-Bo > Bo (Papua New Guinea)"
+wikidata_id: Q56770
 wikipedia_url: "https://en.wikipedia.org/wiki/Bo_language_(New_Guinea)"
 translations:
   - translation_iso: ara

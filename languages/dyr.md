@@ -5,12 +5,15 @@ alt_names: [Dyarim Tə, Dyarum, Dyàrìm Tə́, Kaiwari, Kayaurinci, Ndyarim T
 population: 400
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.03
 longitude: 9.065
 glottocode: dyar1234
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Dyarim"
+wikidata_id: Q52395140
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyarim_language"
 translations:
   - translation_iso: ara

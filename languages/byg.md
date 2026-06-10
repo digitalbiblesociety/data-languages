@@ -7,12 +7,15 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 11.13
 longitude: 25.22
 glottocode: bayg1239
 glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Nyala Dajuic > Baygo"
+wikidata_id: Q56836
 wikipedia_url: "https://en.wikipedia.org/wiki/Beigo_language"
 translations:
   - translation_iso: ara

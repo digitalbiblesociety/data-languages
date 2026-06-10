@@ -7,12 +7,15 @@ population: 474000
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 12.21453
 longitude: 123.63579
 glottocode: masb1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Masbate-Sorsogon > Masbatenyo"
+wikidata_id: Q33948
 wikipedia_url: "https://en.wikipedia.org/wiki/Masbate%C3%B1o_language"
 translations:
   - translation_iso: ara

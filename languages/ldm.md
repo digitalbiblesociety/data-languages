@@ -7,12 +7,15 @@ population: 14400
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.87529
 longitude: -14.08947
 glottocode: land1256
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Northern Mel > Landoma"
+wikidata_id: Q35568
 wikipedia_url: "https://en.wikipedia.org/wiki/Landoma_language"
 translations:
   - translation_iso: ara

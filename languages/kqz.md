@@ -7,12 +7,15 @@ population: null
 country_id: ZA
 country_name: South Africa
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -30.42065
 longitude: 19.77108
 glottocode: kora1292
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > South Khoekhoe > Korana"
+wikidata_id: Q2756709
 wikipedia_url: "https://en.wikipedia.org/wiki/Khoemana"
 translations:
   - translation_iso: ara

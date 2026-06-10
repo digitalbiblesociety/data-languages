@@ -7,12 +7,15 @@ population: 9720
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 25.76381
 longitude: 110.47396
 glottocode: youn1235
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Paheng-Younuo > Younuo Bunu"
+wikidata_id: Q56299
 wikipedia_url: "https://en.wikipedia.org/wiki/Younuo_language"
 translations:
   - translation_iso: ara

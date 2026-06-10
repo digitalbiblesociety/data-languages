@@ -7,12 +7,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.09451
 longitude: 148.37594
 glottocode: esee1247
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Ese"
+wikidata_id: Q5397551
 wikipedia_url: "https://en.wikipedia.org/wiki/Ese_language"
 translations:
   - translation_iso: ara

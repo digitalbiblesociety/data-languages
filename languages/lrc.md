@@ -7,6 +7,8 @@ population: 1820000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.54384
 longitude: 47.91602
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: nort2645
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Northern Luri"
+wikidata_id: Q19933293
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Luri_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 2080000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 29.562155
 longitude: 80.0171
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: kuma1273
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Indo-Aryan Northern zone > Central Pahari > Kumaoni"
+wikidata_id: Q33529
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumaoni_language"
 translations:
   - translation_iso: ara

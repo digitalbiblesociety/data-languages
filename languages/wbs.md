@@ -6,6 +6,9 @@ population: 450000
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q32096511
 translations:
   - translation_iso: ara
     name: لغة الإشارة بنغال الغربية

@@ -7,12 +7,15 @@ population: 1700
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.88368
 longitude: 123.17408
 glottocode: andi1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Andio"
+wikidata_id: Q4754487
 wikipedia_url: "https://en.wikipedia.org/wiki/Andio_language"
 translations:
   - translation_iso: ara

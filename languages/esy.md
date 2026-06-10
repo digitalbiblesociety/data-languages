@@ -6,10 +6,13 @@ population: 550
 country_id: PH
 country_name: Philippines
 status_id: null
+scope: individual
+language_type: living
 glottocode: eska1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Eskayan"
+wikidata_id: Q867086
 wikipedia_url: "https://en.wikipedia.org/wiki/Eskayan_language"
 translations:
   - translation_iso: ara

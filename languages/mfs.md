@@ -7,12 +7,15 @@ population: 130000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.74999
 longitude: -98.49999
 glottocode: mexi1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Mexican Sign Language"
+wikidata_id: Q3915511
 wikipedia_url: "https://en.wikipedia.org/wiki/Mexican_Sign_Language"
 translations:
   - translation_iso: ara

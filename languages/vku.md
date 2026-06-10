@@ -7,12 +7,15 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -22.21338
 longitude: 117.51025
 glottocode: kurr1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Yindjibarndi-Kurrama > Kurrama"
+wikidata_id: Q3915684
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurrama_language"
 translations:
   - translation_iso: ara

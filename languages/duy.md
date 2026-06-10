@@ -7,12 +7,15 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 17.88464
 longitude: 121.60564
 glottocode: dica1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Unclassified Northern Luzon > Dicamay Agta"
+wikidata_id: Q5272321
 wikipedia_url: "https://en.wikipedia.org/wiki/Dicamay_Agta_language"
 translations:
   - translation_iso: ara

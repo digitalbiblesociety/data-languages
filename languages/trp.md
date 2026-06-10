@@ -7,12 +7,15 @@ population: 958000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 23.19156
 longitude: 91.46733
 glottocode: kokb1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Kok Borok"
+wikidata_id: Q35947
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokborok"
 translations:
   - translation_iso: ara

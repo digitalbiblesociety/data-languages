@@ -7,6 +7,9 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q12642599
 translations:
   - translation_iso: ara
     name: لغة الحثيين الوسطى

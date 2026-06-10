@@ -7,12 +7,15 @@ population: 1590
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.02487
 longitude: 145.78187
 glottocode: remp1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Rempic > Rempi"
+wikidata_id: Q7312214
 wikipedia_url: "https://en.wikipedia.org/wiki/Rempi_language"
 translations:
   - translation_iso: ara

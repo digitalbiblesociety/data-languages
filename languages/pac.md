@@ -7,12 +7,15 @@ population: 16000
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.33533
 longitude: 107.09417
 glottocode: paco1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Pacoh"
+wikidata_id: Q3441136
 wikipedia_url: "https://en.wikipedia.org/wiki/Pacoh_language"
 translations:
   - translation_iso: ara

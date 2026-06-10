@@ -6,9 +6,12 @@ population: 20000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.41439
 longitude: 142.47498
 glottocode: duna1248
+wikidata_id: Q5314039
 wikipedia_url: "https://en.wikipedia.org/wiki/Duna_language"
 translations:
   - translation_iso: ara

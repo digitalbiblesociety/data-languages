@@ -7,12 +7,15 @@ population: null
 country_id: ZA
 country_name: South Africa
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -26.340684
 longitude: 30.402831
 glottocode: xegw1238
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Eastern !Ui > //Xegwi"
+wikidata_id: Q3509732
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%81Xegwi_language"
 translations:
   - translation_iso: ara

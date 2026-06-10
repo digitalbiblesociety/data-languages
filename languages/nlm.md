@@ -6,12 +6,15 @@ population: 500
 country_id: PK
 country_name: Pakistan
 status_id: null
+scope: individual
+language_type: living
 latitude: 34.2922
 longitude: 73.2505
 glottocode: mank1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Indus Kohistanic > Outer Indus Kohistani > Bateri-Mankiyali > Mankiyali"
+wikidata_id: Q47522426
 wikipedia_url: "https://en.wikipedia.org/wiki/Mankiyali_language"
 translations:
   - translation_iso: ara

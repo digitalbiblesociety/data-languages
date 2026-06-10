@@ -7,12 +7,15 @@ population: 19000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.273507
 longitude: 92.94342
 glottocode: biet1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Biete"
+wikidata_id: Q4904687
 wikipedia_url: "https://en.wikipedia.org/wiki/Biate_language"
 translations:
   - translation_iso: ara

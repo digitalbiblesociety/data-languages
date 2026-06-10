@@ -1,5 +1,6 @@
 ---
 iso: ile
+iso639_1: ie
 name: Interlingue
 autonym: Interlingue
 alt_names: [Occidental]
@@ -7,11 +8,14 @@ population: 50
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 scripts: [Latn]
 glottocode: inte1260
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interlingue (Occidental)"
+wikidata_id: Q35850
 wikipedia_url: "https://en.wikipedia.org/wiki/Interlingue"
 translations:
   - translation_iso: ara

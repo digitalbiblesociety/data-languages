@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 39.15128
 longitude: -123.28378
 glottocode: wail1244
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > California Athabaskan > Eel River Athabaskan"
+wikidata_id: Q20832
 wikipedia_url: "https://en.wikipedia.org/wiki/Wailaki_language"
 translations:
   - translation_iso: ara

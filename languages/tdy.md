@@ -7,12 +7,15 @@ population: 4150
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.02115
 longitude: 121.30537
 glottocode: tady1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Tadyawan"
+wikidata_id: Q7674700
 wikipedia_url: "https://en.wikipedia.org/wiki/Tadyawan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 143000
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.51774
 longitude: 2.43226
 glottocode: tofi1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Eastern Phla-Phera > Tofin Gbe"
+wikidata_id: Q3530330
 wikipedia_url: "https://en.wikipedia.org/wiki/Tofin_language"
 translations:
   - translation_iso: ara

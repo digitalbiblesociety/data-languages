@@ -7,12 +7,15 @@ population: 300
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -16.68067
 longitude: 143.52986
 glottocode: kunj1245
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Southwestern Alaya-Athima > Kunjen"
+wikidata_id: Q3200468
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunjen_language"
 translations:
   - translation_iso: ara

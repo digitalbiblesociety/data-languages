@@ -7,12 +7,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.52309
 longitude: 140.94739
 glottocode: dera1245
 glottolog_family_id: sena1264
 glottolog_family_name: Senagi
 glottolog_classification: "Senagi > Dera (Indonesia)"
+wikidata_id: Q5261289
 wikipedia_url: "https://en.wikipedia.org/wiki/Dera_language"
 translations:
   - translation_iso: ara

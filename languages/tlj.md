@@ -7,12 +7,15 @@ population: 131900
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.676185
 longitude: 29.949415
 glottocode: tali1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Talinga-Bwisi"
+wikidata_id: Q7679530
 wikipedia_url: "https://en.wikipedia.org/wiki/Talinga_language"
 translations:
   - translation_iso: ara

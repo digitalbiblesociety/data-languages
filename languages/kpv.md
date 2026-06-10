@@ -1,5 +1,6 @@
 ---
 iso: kpv
+macrolanguage_id: kom
 name: "Komi-Zyrian"
 autonym: Коми кыв
 alt_names: [Komi, Komi Zyryan, Komi-Syrjänisch, Komi-Zyryan, Syrjänisch, Syränisch, Yazva, Ziryene, Ziryene proper, Zyrian, Zyryan, komi-syrjänischer Dialekt, zyriène]
@@ -7,12 +8,15 @@ population: 228000
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 64.05268
 longitude: 54.94599
 glottocode: komi1268
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Permian > Komi > Komi-Zyrian"
+wikidata_id: Q34114
 wikipedia_url: "https://en.wikipedia.org/wiki/Komi-Zyryan_language"
 translations:
   - translation_iso: ara

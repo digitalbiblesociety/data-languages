@@ -1,5 +1,6 @@
 ---
 iso: gle
+iso639_1: ga
 name: Irish
 autonym: "Standard Irish: Gaeilge"
 alt_names: [An Ghaeilge, Donegal dialect, Erse, Erse leid, Gadhelisch, Gaeilge, Gaelana linguo, Gaelera, Gaelic, Gaelic (Irish), "Gaelic, Irish", Gaelicu Irlandiesu, Gaèlic irlandès, Gaèlico irlandês, Gwyddeleg, Gàidhlig na h-Èireann, Iers, Iers-Gaelies, Iersk, Iiri, Iirragiella, Ilanda simi, Irische Sproch, Irish Gaelic, Iriska, Irlandais, Irlandés, Irsk, Iwerdhonek, Iwerzhoneg, Lenghe irlandese, Munster, Tirlandit, Tok Aialan, Yernish, Írska, Īrisc sprǣc, İrlandaca, Łéngua irlandexe, Забони ирландӣ, Ирландхойн мотт, Эйринмудн келн, איריש, אירית, ئرېلاندىيە تىلى, ايرلاندى, زمانی ئیری]
@@ -7,6 +8,8 @@ population: 170290
 country_id: IE
 country_name: Ireland
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 53.21855
 longitude: -7.61509
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: iris1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Goidelic > Modern Goidelic > Irish"
+wikidata_id: Q9142
 wikipedia_url: "https://en.wikipedia.org/wiki/Irish_language"
 translations:
   - translation_iso: ara

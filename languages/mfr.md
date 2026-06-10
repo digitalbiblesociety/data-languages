@@ -7,12 +7,15 @@ population: 20
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.88184
 longitude: 130.23685
 glottocode: mari1424
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Marithielic > Marithiel"
+wikidata_id: Q6773014
 wikipedia_url: "https://en.wikipedia.org/wiki/Marrithiyel_language"
 translations:
   - translation_iso: ara

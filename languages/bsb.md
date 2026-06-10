@@ -7,12 +7,15 @@ population: 57600
 country_id: BN
 country_name: Brunei
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.60791
 longitude: 114.51713
 glottocode: brun1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Brunei Bisaya-Dusun"
+wikidata_id: Q3450611
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Bisaya_language"
 translations:
   - translation_iso: ara

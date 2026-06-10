@@ -7,12 +7,15 @@ population: 350000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 11.63201
 longitude: -5.87709
 glottocode: supy1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Supyiric > Supyire Senoufo"
+wikidata_id: Q56284
 wikipedia_url: "https://en.wikipedia.org/wiki/Supyire_language"
 translations:
   - translation_iso: ara

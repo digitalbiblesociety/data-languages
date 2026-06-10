@@ -7,9 +7,12 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.19328
 longitude: 136.13974
 glottocode: kehu1238
+wikidata_id: Q10994953
 wikipedia_url: "https://en.wikipedia.org/wiki/Keuw_language"
 translations:
   - translation_iso: ara

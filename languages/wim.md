@@ -7,12 +7,15 @@ population: 1050
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -13.98051
 longitude: 141.81611
 glottocode: wikm1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Kuku-Wik-Ep > Kuku-Wik > Mungkanic > Mungkan-Mungkanhu > Wik-Mungkan"
+wikidata_id: Q2092246
 wikipedia_url: "https://en.wikipedia.org/wiki/Wik_Mungkan_language"
 translations:
   - translation_iso: ara

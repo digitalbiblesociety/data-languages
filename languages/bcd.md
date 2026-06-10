@@ -7,12 +7,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.84311
 longitude: 129.74277
 glottocode: nort2860
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > North Babar"
+wikidata_id: Q7054041
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Babar_language"
 translations:
   - translation_iso: ara

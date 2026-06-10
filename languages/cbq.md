@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: living
 latitude: 10.260725
 longitude: 4.684594
 glottocode: cuba1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Oleran > Cuba"
+wikidata_id: Q62603062
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuba_language"
 translations:
   - translation_iso: ara

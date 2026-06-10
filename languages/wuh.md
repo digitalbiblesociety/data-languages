@@ -7,12 +7,15 @@ population: 2000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 35.26904
 longitude: 101.95654
 glottocode: wutu1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Northern Chinese > Mandarinic > Wutunhua"
+wikidata_id: Q1012917
 wikipedia_url: "https://en.wikipedia.org/wiki/Wutun_language"
 translations:
   - translation_iso: ara

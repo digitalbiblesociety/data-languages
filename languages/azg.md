@@ -7,12 +7,15 @@ population: 5200
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.51976
 longitude: -98.04643
 glottocode: sanp1260
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Amuzgoan > San Pedro Amuzgos Amuzgo"
+wikidata_id: Q60611109
 translations:
   - translation_iso: ara
     name: اللغة أموزجو سان بيدرو

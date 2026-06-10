@@ -7,12 +7,15 @@ population: 1890
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.02193
 longitude: -70.80803
 glottocode: bara1380
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Barasano-Eduria-Macuna > Barasana-Eduria"
+wikidata_id: Q2883843
 wikipedia_url: "https://en.wikipedia.org/wiki/Barasana-Eduria_language"
 translations:
   - translation_iso: ara

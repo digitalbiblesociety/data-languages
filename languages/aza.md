@@ -6,12 +6,15 @@ population: 53000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.9
 longitude: 104.15
 glottocode: azha1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Azha"
+wikidata_id: Q4832486
 wikipedia_url: "https://en.wikipedia.org/wiki/Azha_language"
 translations:
   - translation_iso: ara

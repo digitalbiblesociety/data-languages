@@ -7,9 +7,12 @@ population: 750
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.00633
 longitude: 17.61425
 glottocode: laal1242
+wikidata_id: Q33436
 wikipedia_url: "https://en.wikipedia.org/wiki/Laal_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 59000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.680315
 longitude: 92.03209
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: rian1262
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Dimasa-Kokborok > Tipperic > Riang (India)"
+wikidata_id: Q12953063
 wikipedia_url: "https://en.wikipedia.org/wiki/Riang_language_(India)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 12600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.76522
 longitude: 127.95608
 glottocode: lari1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Hoamoal > East Hoamoal > Larike-Wakasihu"
+wikidata_id: Q3217929
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakasihu_language"
 translations:
   - translation_iso: ara

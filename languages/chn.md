@@ -7,6 +7,8 @@ population: 1
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 55
 longitude: -125
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: chin1272
 glottolog_family_id: chin1490
 glottolog_family_name: Chinookan
 glottolog_classification: "Chinookan > Lower Chinookan > Creolized Grand Ronde Chinook Jargon"
+wikidata_id: Q35173
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinook_Jargon"
 translations:
   - translation_iso: ara

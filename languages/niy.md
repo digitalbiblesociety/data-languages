@@ -7,12 +7,15 @@ population: 100000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.30455
 longitude: 30.22421
 glottocode: ngit1239
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Ngiti"
+wikidata_id: Q7022396
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngiti_language"
 translations:
   - translation_iso: ara

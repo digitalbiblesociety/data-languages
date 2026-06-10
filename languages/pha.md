@@ -7,12 +7,15 @@ population: 10000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.80489
 longitude: 105.165125
 glottocode: pahn1237
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Paheng-Younuo > Paheng > Pa-Hng"
+wikidata_id: Q2625410
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa-Hng_language"
 translations:
   - translation_iso: ara

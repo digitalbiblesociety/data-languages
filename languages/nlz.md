@@ -7,12 +7,15 @@ population: 1500
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.8
 longitude: 165.8
 glottocode: nalo1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Reefs-Santa Cruz > Natugu-Nalogo > Nalögo"
+wikidata_id: Q20527138
 wikipedia_url: "https://en.wikipedia.org/wiki/Nal%C3%B6go_language"
 translations:
   - translation_iso: ara

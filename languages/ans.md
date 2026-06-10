@@ -6,12 +6,15 @@ population: 100
 country_id: CO
 country_name: Colombia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 6.24999
 longitude: -76.04999
 glottocode: anse1238
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Unclassified Chocoan > Anserma"
+wikidata_id: Q3446613
 wikipedia_url: "https://en.wikipedia.org/wiki/Anserma_language"
 translations:
   - translation_iso: ara

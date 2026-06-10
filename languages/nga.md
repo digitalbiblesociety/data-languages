@@ -7,12 +7,15 @@ population: 1016650
 country_id: CD
 country_name: DR Congo
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 2.988875
 longitude: 18.994025
 glottocode: ngba1285
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Manza-Ngbaka > Ngbaka Minagende"
+wikidata_id: Q36022
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngbaka_Minagende_language"
 translations:
   - translation_iso: ara

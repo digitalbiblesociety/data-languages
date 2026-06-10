@@ -7,12 +7,15 @@ population: 5150
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.44744
 longitude: 125.54843
 glottocode: mama1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Minamanwa"
+wikidata_id: Q3206623
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamanwa_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.533968
 longitude: 14.84133
 glottocode: sicu1234
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Sicula"
+wikidata_id: Q36667
 wikipedia_url: "https://en.wikipedia.org/wiki/Siculian"
 translations:
   - translation_iso: ara

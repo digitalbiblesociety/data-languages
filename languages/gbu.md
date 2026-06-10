@@ -7,9 +7,12 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.51761
 longitude: 132.64324
 glottocode: gaga1251
+wikidata_id: Q35677
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaagudju_language"
 translations:
   - translation_iso: ara

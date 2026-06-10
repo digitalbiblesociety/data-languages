@@ -7,12 +7,15 @@ population: 5400
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 55.19895
 longitude: -129.19163
 glottocode: nisg1240
 glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Nishga-Gitxsan > Nisga'a"
+wikidata_id: Q3342138
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisga%CA%BCa_language"
 translations:
   - translation_iso: ara

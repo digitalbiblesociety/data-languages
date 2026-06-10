@@ -7,12 +7,15 @@ population: 100
 country_id: PE
 country_name: Peru
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -3.526
 longitude: -69.166735
 glottocode: omag1248
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Omagua-Kokama > Omagua"
+wikidata_id: Q33663
 wikipedia_url: "https://en.wikipedia.org/wiki/Omagua_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -32.48064
 longitude: 152.10658
 glottocode: wori1245
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Hunter-Hastings > Worimi"
+wikidata_id: Q3914062
 wikipedia_url: "https://en.wikipedia.org/wiki/Gathang_language"
 translations:
   - translation_iso: ara

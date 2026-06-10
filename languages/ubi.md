@@ -6,12 +6,15 @@ population: 1100
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.80055
 longitude: 18.55796
 glottocode: ubii1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Ubi"
+wikidata_id: Q56264
 wikipedia_url: "https://en.wikipedia.org/wiki/Ubi_language"
 translations:
   - translation_iso: ara

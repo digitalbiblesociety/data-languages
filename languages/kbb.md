@@ -7,12 +7,15 @@ population: 12
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 2.17138
 longitude: -55.91008
 glottocode: kaxu1237
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Parukotoan > Kaxuiâna"
+wikidata_id: Q12953626
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikiana_language"
 translations:
   - translation_iso: ara

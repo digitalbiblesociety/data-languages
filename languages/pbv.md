@@ -7,12 +7,15 @@ population: 323000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.823745
 longitude: 92.262795
 glottocode: pnar1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Khasi-Pnar > Pnar"
+wikidata_id: Q3501850
 wikipedia_url: "https://en.wikipedia.org/wiki/Pnar_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4650
 country_id: PY
 country_name: Paraguay
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.220055
 longitude: -60.217495
 glottocode: ayor1240
 glottolog_family_id: zamu1243
 glottolog_family_name: Zamucoan
 glottolog_classification: "Zamucoan > Zamuco-Ayoreo > Ayoreo"
+wikidata_id: Q56634
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayoreo_language"
 translations:
   - translation_iso: ara

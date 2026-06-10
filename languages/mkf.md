@@ -7,12 +7,15 @@ population: 30000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.92343
 longitude: 9.71505
 glottocode: miya1266
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Miya"
+wikidata_id: Q43328
 wikipedia_url: "https://en.wikipedia.org/wiki/Miya_language"
 translations:
   - translation_iso: ara

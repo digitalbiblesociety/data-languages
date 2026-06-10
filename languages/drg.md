@@ -7,12 +7,15 @@ population: 55000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.83989
 longitude: 116.74264
 glottocode: rung1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Rungus-Mangkaak-Labuk > Rungus"
+wikidata_id: Q6897407
 wikipedia_url: "https://en.wikipedia.org/wiki/Momogun_language"
 translations:
   - translation_iso: ara

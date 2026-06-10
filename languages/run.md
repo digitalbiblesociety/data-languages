@@ -1,5 +1,6 @@
 ---
 iso: run
+iso639_1: rn
 name: Rundi
 autonym: Ikirundi
 alt_names: [Kirundi, Rundi simi, Rundum, Urundi, Кирунди, Рунди, קירונדי]
@@ -7,6 +8,8 @@ population: 10800000
 country_id: BI
 country_name: Burundi
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -1.441737
 longitude: 31.319093
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: rund1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > West Highlands Kivu > Rundic > Rundi"
+wikidata_id: Q33583
 wikipedia_url: "https://en.wikipedia.org/wiki/Kirundi"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.38875
 longitude: 34.60448
 glottocode: hozo1236
 glottolog_family_id: maoo1243
 glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > West Mao > Hozo-Seze > Hozo"
+wikidata_id: Q5923010
 wikipedia_url: "https://en.wikipedia.org/wiki/Hozo_language"
 translations:
   - translation_iso: ara

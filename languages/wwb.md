@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -20.82138
 longitude: 139.05905
 glottocode: waka1282
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Wakabunga"
+wikidata_id: Q7960748
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakabunga_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4180
 country_id: VE
 country_name: Venezuela
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.95035
 longitude: -65.84825
 glottocode: enap1235
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Panare"
+wikidata_id: Q56610
 wikipedia_url: "https://en.wikipedia.org/wiki/Panare_language"
 translations:
   - translation_iso: ara

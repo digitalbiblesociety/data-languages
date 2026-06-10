@@ -7,12 +7,15 @@ population: 730
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.66477
 longitude: 164.67594
 glottocode: jawe1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Jawe"
+wikidata_id: Q3163200
 wikipedia_url: "https://en.wikipedia.org/wiki/Jawe_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.90868
 longitude: 145.36113
 glottocode: yabe1255
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Karian-Usan-Yaben > Yaben"
+wikidata_id: Q8046372
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaben_language"
 translations:
   - translation_iso: ara

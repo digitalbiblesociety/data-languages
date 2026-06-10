@@ -7,12 +7,15 @@ population: 220
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.94448
 longitude: 138.16077
 glottocode: kaiy1239
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Kaiy"
+wikidata_id: Q6348709
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaiy_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 40.56
 longitude: -122.167
 glottocode: kark1259
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
 glottolog_classification: "Miwok-Costanoan > Costanoan > Karkin"
+wikidata_id: Q3193345
 wikipedia_url: "https://en.wikipedia.org/wiki/Karkin_language"
 translations:
   - translation_iso: ara

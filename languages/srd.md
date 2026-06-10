@@ -1,12 +1,16 @@
 ---
 iso: srd
+iso639_1: sc
 name: Sardinian
 autonym: sardu
 population: 1300000
 country_id: IT
 country_name: Italy
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q33976
 wikipedia_url: "https://en.wikipedia.org/wiki/Sardinian_language"
 translations:
   - translation_iso: ara

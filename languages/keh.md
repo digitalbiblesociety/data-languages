@@ -7,12 +7,15 @@ population: 6000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.987083
 longitude: 143.174088
 glottocode: keak1239
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Keak"
+wikidata_id: Q6382110
 wikipedia_url: "https://en.wikipedia.org/wiki/Keak_language"
 translations:
   - translation_iso: ara

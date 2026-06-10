@@ -7,12 +7,15 @@ population: 23000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.70775
 longitude: 94.31138
 glottocode: khez1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Angami-Mao > Khezha Naga"
+wikidata_id: Q6401519
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuzhami_language"
 translations:
   - translation_iso: ara

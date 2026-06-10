@@ -6,8 +6,11 @@ population: null
 country_id: FR
 country_name: France
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 45.56274
 longitude: 4.38771
+wikidata_id: Q36994
 wikipedia_url: "https://en.wikipedia.org/wiki/Zarphatic_language"
 translations:
   - translation_iso: ara

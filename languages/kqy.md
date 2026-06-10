@@ -7,12 +7,15 @@ population: 157000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 5.80545
 longitude: 37.86789
 glottocode: koor1239
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Koorete"
+wikidata_id: Q6430753
 wikipedia_url: "https://en.wikipedia.org/wiki/Koore_language"
 translations:
   - translation_iso: ara

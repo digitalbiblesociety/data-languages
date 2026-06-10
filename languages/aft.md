@@ -7,12 +7,15 @@ population: 4510
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 12.44598
 longitude: 30.76112
 glottocode: afit1238
 glottolog_family_id: nyim1244
 glottolog_family_name: Nyimang
 glottolog_classification: "Nyimang > Afitti"
+wikidata_id: Q3400829
 wikipedia_url: "https://en.wikipedia.org/wiki/Afitti_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 19.2343
 longitude: -101.72887
 glottocode: tepe1278
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Southern Tepehuan > Tepecano"
+wikidata_id: Q3915525
 wikipedia_url: "https://en.wikipedia.org/wiki/Tepecano_language"
 translations:
   - translation_iso: ara

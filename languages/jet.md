@@ -7,12 +7,15 @@ population: 500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.99145
 longitude: 141.01991
 glottocode: mane1266
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Manem"
+wikidata_id: Q6748412
 wikipedia_url: "https://en.wikipedia.org/wiki/Manem_language"
 translations:
   - translation_iso: ara

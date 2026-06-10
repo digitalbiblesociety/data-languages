@@ -7,12 +7,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.27
 longitude: 144.96477
 glottocode: sepa1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Manamic linkage > Bam-Manam > Manam-Sepa > Sepa (Papua New Guinea)"
+wikidata_id: Q7451725
 wikipedia_url: "https://en.wikipedia.org/wiki/Sepa_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

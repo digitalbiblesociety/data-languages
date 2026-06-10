@@ -7,6 +7,8 @@ population: 361000
 country_id: KM
 country_name: Comoros
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -12.21233
 longitude: 44.37088
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: ndzw1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Comorian Bantu > Shindzwani-Shimaore > Ndzwani Comorian"
+wikidata_id: Q2850262
 translations:
   - translation_iso: ara
     name: اللغة القمرية النزوانية

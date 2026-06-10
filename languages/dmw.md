@@ -7,12 +7,15 @@ population: 92
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -16.7694
 longitude: 132.329
 glottocode: mudb1240
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Eastern Ngumpin > Mudburra"
+wikidata_id: Q6931573
 wikipedia_url: "https://en.wikipedia.org/wiki/Mudburra_language"
 translations:
   - translation_iso: ara

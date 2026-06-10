@@ -7,6 +7,8 @@ population: 80200
 country_id: SC
 country_name: Seychelles
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -4.62314
 longitude: 55.4503
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sese1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Isle-de-France Creole > Seselwa Creole French"
+wikidata_id: Q34015
 wikipedia_url: "https://en.wikipedia.org/wiki/Seychellois_Creole"
 translations:
   - translation_iso: ara

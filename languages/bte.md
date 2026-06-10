@@ -6,12 +6,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 10.93457
 longitude: 9.24843
 glottocode: gamo1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Ningic > Gamo-Ningi"
+wikidata_id: Q5520366
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamo-Ningi_language"
 translations:
   - translation_iso: ara

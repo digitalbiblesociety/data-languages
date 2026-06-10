@@ -7,6 +7,8 @@ population: 430000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 16.96338
 longitude: -0.55187
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: koyr1242
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Koyraboro Senni Songhai"
+wikidata_id: Q35655
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyraboro_Senni"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 39.83891
 longitude: -123.29566
 glottocode: yuki1243
 glottolog_family_id: yuki1242
 glottolog_family_name: Yuki-Wappo
 glottolog_classification: "Yuki-Wappo > Northern Yukian"
+wikidata_id: Q36993
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Yukian_language"
 translations:
   - translation_iso: ara

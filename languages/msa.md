@@ -1,12 +1,16 @@
 ---
 iso: msa
+iso639_1: ms
 name: Malay
 autonym: Bahasa Melayu
 population: 77000000
 country_id: MY
 country_name: Malaysia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab, Latn]
+wikidata_id: Q9237
 wikipedia_url: "https://en.wikipedia.org/wiki/Malay_language"
 translations:
   - translation_iso: ara

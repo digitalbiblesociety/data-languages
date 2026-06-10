@@ -7,12 +7,15 @@ population: null
 country_id: BO
 country_name: Bolivia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -15.74923
 longitude: -63.20942
 glottocode: jora1240
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Jorá"
+wikidata_id: Q5393974
 wikipedia_url: "https://en.wikipedia.org/wiki/Jor%C3%A1_language"
 translations:
   - translation_iso: ara

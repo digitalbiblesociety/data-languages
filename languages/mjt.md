@@ -7,12 +7,15 @@ population: 242000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.81236
 longitude: 87.64317
 glottocode: saur1249
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > North Dravidian > Kurux-Malto > Malto > Sauria Paharia"
+wikidata_id: Q33907
 wikipedia_url: "https://en.wikipedia.org/wiki/Malto_language"
 translations:
   - translation_iso: ara

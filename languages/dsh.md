@@ -7,12 +7,15 @@ population: 66400
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.588785
 longitude: 35.98884
 glottocode: daas1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Western Omo-Tana > Daasanach"
+wikidata_id: Q56637
 wikipedia_url: "https://en.wikipedia.org/wiki/Daasanach_language"
 translations:
   - translation_iso: ara

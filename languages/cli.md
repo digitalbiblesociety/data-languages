@@ -6,12 +6,15 @@ population: 6000
 country_id: GH
 country_name: Ghana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 9.83446
 longitude: -1.90181
 glottocode: chak1271
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Western Grusi > Sisaala-Chakali > Chakalic > Chakali-Tamprusi-Vagala > Chakali-Tamprusi > Chakali"
+wikidata_id: Q35206
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakali_language"
 translations:
   - translation_iso: ara

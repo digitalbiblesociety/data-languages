@@ -7,12 +7,15 @@ population: 200000
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.62497
 longitude: -17.05679
 glottocode: saaf1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Cangin > Saafi-Noon-Lehar > Saafi-Saafi"
+wikidata_id: Q36308
 wikipedia_url: "https://en.wikipedia.org/wiki/Safen_language"
 translations:
   - translation_iso: ara

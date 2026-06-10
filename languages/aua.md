@@ -7,12 +7,15 @@ population: 10
 country_id: SB
 country_name: Solomon Islands
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.29693
 longitude: 166.49868
 glottocode: asum1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Asumboa"
+wikidata_id: Q4811870
 wikipedia_url: "https://en.wikipedia.org/wiki/Asumbuo_language"
 translations:
   - translation_iso: ara

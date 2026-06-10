@@ -7,12 +7,15 @@ population: 12500
 country_id: GY
 country_name: Guyana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.587435
 longitude: -59.80212
 glottocode: wapi1253
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Wapishanan > Wapishana-Atorai > Wapishana"
+wikidata_id: Q3450493
 wikipedia_url: "https://en.wikipedia.org/wiki/Wapishana_language"
 translations:
   - translation_iso: ara

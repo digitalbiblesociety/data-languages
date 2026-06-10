@@ -4,8 +4,11 @@ name: Old Malay
 alt_names: ["Malay, Old"]
 country_id: ID
 country_name: Indonesia
+scope: individual
+language_type: historical
 latitude: -0.648259
 longitude: 103.353479
+wikidata_id: Q31775823
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Malay_language"
 translations:
   - translation_iso: ara

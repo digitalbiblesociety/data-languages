@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 38.76429
 longitude: -122.54519
 glottocode: sout2984
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Southern Pomoan-Kashaya > Southern Pomo"
+wikidata_id: Q3396023
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Pomo_language"
 translations:
   - translation_iso: ara

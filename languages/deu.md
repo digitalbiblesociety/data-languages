@@ -1,5 +1,6 @@
 ---
 iso: deu
+iso639_1: de
 name: German
 autonym: Deutsch
 alt_names: ["German, Standard", Haut-allemand moderne, Mansfeldisch, Neuhochdeutsch, New High German, Nyhøytysk, Tedesco, Thuringian, allemand]
@@ -7,6 +8,8 @@ population: 76100000
 country_id: DE
 country_name: Germany
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 48.648954
 longitude: 12.467623
 scripts: [Latn, Runr]
@@ -14,6 +17,7 @@ glottocode: stan1295
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Global German > German"
+wikidata_id: Q188
 wikipedia_url: "https://en.wikipedia.org/wiki/German_language"
 translations:
   - translation_iso: ara

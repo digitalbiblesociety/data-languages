@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -28.136
 longitude: 143.929
 glottocode: kala1380
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Badjiri-Eastern Karnic > Eastern Karnic > Bulloo River"
+wikidata_id: Q5523396
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalali_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 520
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.82577
 longitude: 148.8148
 glottocode: bauw1240
 glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Bauwakic > Bauwaki"
+wikidata_id: Q4873607
 wikipedia_url: "https://en.wikipedia.org/wiki/Bauwaki_language"
 translations:
   - translation_iso: ara

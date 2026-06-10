@@ -6,12 +6,15 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.37697
 longitude: 146.84135
 glottocode: nekk1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Nek-Nuk > Nek"
+wikidata_id: Q6989781
 wikipedia_url: "https://en.wikipedia.org/wiki/Nek_language"
 translations:
   - translation_iso: ara

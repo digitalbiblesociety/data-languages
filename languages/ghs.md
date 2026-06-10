@@ -7,12 +7,15 @@ population: 12000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.99922
 longitude: 147.22844
 glottocode: guhu1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Guhu-Samane"
+wikidata_id: Q11732219
 wikipedia_url: "https://en.wikipedia.org/wiki/Guhu-Samane_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: obk
+macrolanguage_id: bnc
 name: Southern Bontok
 autonym: Finallig
 alt_names: ["Bontok, Southern"]
@@ -7,6 +8,9 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q63308144
 translations:
   - translation_iso: ara
     name: اللغة بونتوك الجنوبية

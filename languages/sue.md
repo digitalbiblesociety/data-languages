@@ -7,12 +7,15 @@ population: 3600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.76339
 longitude: 147.53436
 glottocode: suen1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > North Binanderean > Suena"
+wikidata_id: Q7634386
 wikipedia_url: "https://en.wikipedia.org/wiki/Suena_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 37400
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.169755
 longitude: 0.619185
 glottocode: adel1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Basila-Adele > Adele"
+wikidata_id: Q27740
 wikipedia_url: "https://en.wikipedia.org/wiki/Adele_language"
 translations:
   - translation_iso: ara

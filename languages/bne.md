@@ -6,12 +6,15 @@ population: 12000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.75069
 longitude: 123.48582
 glottocode: bint1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Gorontalo-Mongondow > Gorontalic > Bintauna"
+wikidata_id: Q4914533
 wikipedia_url: "https://en.wikipedia.org/wiki/Bintauna_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 577000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.64603
 longitude: 13.51362
 glottocode: kamw1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Nkafa-Kirya-Bana > Nkafa-Kirya > Kamwe"
+wikidata_id: Q56271
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamwe_language"
 translations:
   - translation_iso: ara

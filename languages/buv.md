@@ -6,12 +6,15 @@ population: 480
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.51885
 longitude: 143.89179
 glottocode: bunn1240
 glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Bun-Mundukumo > Bun"
+wikidata_id: Q56351
 wikipedia_url: "https://en.wikipedia.org/wiki/Bun_language"
 translations:
   - translation_iso: ara

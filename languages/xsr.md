@@ -7,6 +7,8 @@ population: 162000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.673953
 longitude: 86.999427
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: sher1255
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > South-Western Tibetic > Sherpa-Jirel > Sherpaic > Solu-Khumbu Sherpa"
+wikidata_id: Q36612
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherpa_language"
 translations:
   - translation_iso: ara

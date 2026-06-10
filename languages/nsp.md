@@ -6,12 +6,15 @@ population: 5743
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.6993
 longitude: 85.30407
 glottocode: nepa1250
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Indo-Pakistani-Nepalese Sign > Nepalese Sign Language"
+wikidata_id: Q3915492
 wikipedia_url: "https://en.wikipedia.org/wiki/Nepali_Sign_Language"
 translations:
   - translation_iso: ara

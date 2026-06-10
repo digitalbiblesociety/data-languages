@@ -7,12 +7,15 @@ population: 60000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.02645
 longitude: 7.98385
 glottocode: legb1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > East-West Central Delta Cross > Mbembe-Legbo > Legboic > Legbo"
+wikidata_id: Q35584
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbo_language"
 translations:
   - translation_iso: ara

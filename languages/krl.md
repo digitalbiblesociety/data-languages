@@ -7,6 +7,8 @@ population: 30600
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 65.16912
 longitude: 30.865535
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kare1335
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > Karelian"
+wikidata_id: Q33557
 wikipedia_url: "https://en.wikipedia.org/wiki/Karelian_language"
 translations:
   - translation_iso: ara

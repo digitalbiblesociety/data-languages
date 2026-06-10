@@ -1,5 +1,6 @@
 ---
 iso: krt
+macrolanguage_id: kau
 name: Tumari Kanuri
 autonym: Kànùrí
 alt_names: [Bornu, Kanambu, Kanembu, Kanuri, "Kanuri, Tumari"]
@@ -7,12 +8,15 @@ population: 40000
 country_id: NE
 country_name: Niger
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.25844
 longitude: 13.15705
 glottocode: tuma1248
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Tumari Kanuri"
+wikidata_id: Q11033658
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumari_Kanuri"
 translations:
   - translation_iso: ara

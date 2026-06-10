@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -13.09414
 longitude: 131.23575
 glottocode: wara1290
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Western Gunwinyguan > Warrayic > Warray"
+wikidata_id: Q7969971
 wikipedia_url: "https://en.wikipedia.org/wiki/Warray_language"
 translations:
   - translation_iso: ara

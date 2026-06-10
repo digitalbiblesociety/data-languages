@@ -7,12 +7,15 @@ population: 82
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.75236
 longitude: -74.51927
 glottocode: isco1239
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Poyanawa Subgroup > Isconahua"
+wikidata_id: Q3052971
 wikipedia_url: "https://en.wikipedia.org/wiki/Iskonawa_language"
 translations:
   - translation_iso: ara

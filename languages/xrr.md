@@ -6,10 +6,13 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 glottocode: raet1238
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Raetic"
+wikidata_id: Q36689
 wikipedia_url: "https://en.wikipedia.org/wiki/Rhaetic"
 translations:
   - translation_iso: ara

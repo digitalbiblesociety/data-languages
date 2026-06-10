@@ -7,12 +7,15 @@ population: 700
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.64518
 longitude: 119.4774
 glottocode: komo1261
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Komodo"
+wikidata_id: Q3198565
 wikipedia_url: "https://en.wikipedia.org/wiki/Komodo_language"
 translations:
   - translation_iso: ara

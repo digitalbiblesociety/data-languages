@@ -7,12 +7,15 @@ population: 22000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.429075
 longitude: 116.17655
 glottocode: taga1273
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tagal Murut"
+wikidata_id: Q7675300
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagol_language"
 translations:
   - translation_iso: ara

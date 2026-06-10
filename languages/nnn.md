@@ -7,12 +7,15 @@ population: 10000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.31902
 longitude: 15.29053
 glottocode: nget1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > South Masa > Peveic > Hede-Ngide > Ngete"
+wikidata_id: Q56625
 translations:
   - translation_iso: ara
     name: نجيتي

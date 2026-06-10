@@ -7,12 +7,15 @@ population: 18640
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.032055
 longitude: 35.08229
 glottocode: suri1267
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southeast Surmic > Pastoral Surmic > Tirma-Chai-Mursi > Tirma-Chai"
+wikidata_id: Q5364172
 wikipedia_url: "https://en.wikipedia.org/wiki/Suri_language"
 translations:
   - translation_iso: ara

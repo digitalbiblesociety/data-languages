@@ -7,12 +7,15 @@ population: 1220
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -8.09044
 longitude: 127.20105
 glottocode: oira1263
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > East Timor > Fataluku-Oirata > Oirata"
+wikidata_id: Q56738
 wikipedia_url: "https://en.wikipedia.org/wiki/Oirata_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 356980
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 52.85479
 longitude: 45.3901
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: erzy1239
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mordvin > Erzya"
+wikidata_id: Q29952
 wikipedia_url: "https://en.wikipedia.org/wiki/Erzya_language"
 translations:
   - translation_iso: ara

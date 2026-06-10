@@ -7,12 +7,15 @@ population: 19600
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.07758
 longitude: 94.05059
 glottocode: chin1478
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Chinbon Chin"
+wikidata_id: Q12952327
 translations:
   - translation_iso: ara
     name: تشينبون تشين

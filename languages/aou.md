@@ -6,12 +6,15 @@ population: 50
 country_id: CN
 country_name: China
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 26.8
 longitude: 105.85
 glottocode: aoua1234
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Northern Gelao > Ahouic > A'ou"
+wikidata_id: Q16109994
 wikipedia_url: "https://en.wikipedia.org/wiki/A%27ou_language"
 translations:
   - translation_iso: ara

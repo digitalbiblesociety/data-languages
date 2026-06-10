@@ -7,12 +7,15 @@ population: 31000
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 9.59006
 longitude: 9.22293
 glottocode: fyam1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Southeastern Benue-Congo Plateau > Horom-Fyem > Fyam"
+wikidata_id: Q3914025
 wikipedia_url: "https://en.wikipedia.org/wiki/Pyem_language"
 translations:
   - translation_iso: ara

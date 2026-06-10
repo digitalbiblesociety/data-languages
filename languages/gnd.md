@@ -7,12 +7,15 @@ population: 26000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.82696
 longitude: 14.05779
 glottocode: zulg1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Meri > Zulgo-Gemzek"
+wikidata_id: Q56800
 wikipedia_url: "https://en.wikipedia.org/wiki/Zulgo-Gemzek_language"
 translations:
   - translation_iso: ara

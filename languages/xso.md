@@ -6,10 +6,13 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 glottocode: sanf1266
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > San Francisco Solano"
+wikidata_id: Q2474492
 wikipedia_url: "https://en.wikipedia.org/wiki/Solano_language"
 translations:
   - translation_iso: ara

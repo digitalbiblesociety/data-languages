@@ -7,12 +7,15 @@ population: 150
 country_id: PW
 country_name: Palau
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 7.03081
 longitude: 134.2633
 glottocode: tobi1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Western Trukic > Sonsorol-Tobi > Tobian"
+wikidata_id: Q34022
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobian_language"
 translations:
   - translation_iso: ara

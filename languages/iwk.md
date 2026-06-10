@@ -7,12 +7,15 @@ population: 3260
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.30448
 longitude: 120.78633
 glottocode: iwak1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > I-Wak"
+wikidata_id: Q12632789
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwaak_language"
 translations:
   - translation_iso: ara

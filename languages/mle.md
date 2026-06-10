@@ -6,12 +6,15 @@ population: 2110
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.19082
 longitude: 142.86216
 glottocode: mana1298
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Manambu-Yalaku > Manambu"
+wikidata_id: Q11732406
 wikipedia_url: "https://en.wikipedia.org/wiki/Manambu_language"
 translations:
   - translation_iso: ara

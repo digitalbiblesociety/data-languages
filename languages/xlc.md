@@ -7,6 +7,8 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 36.517
 longitude: 29.764
 scripts: [Lyci]
@@ -14,6 +16,7 @@ glottocode: lyci1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Lyco-Carian > Lyco-Sidetic > Lycian A"
+wikidata_id: Q35969
 wikipedia_url: "https://en.wikipedia.org/wiki/Lycian_language"
 translations:
   - translation_iso: ara

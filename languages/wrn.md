@@ -7,12 +7,15 @@ population: 1100
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.59398
 longitude: 31.15736
 glottocode: warn1244
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > Eastern Heibanic > Warnang"
+wikidata_id: Q36971
 wikipedia_url: "https://en.wikipedia.org/wiki/Warnang_language"
 translations:
   - translation_iso: ara

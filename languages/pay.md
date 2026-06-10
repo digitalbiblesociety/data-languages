@@ -7,12 +7,15 @@ population: 2586
 country_id: HN
 country_name: Honduras
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 15.80331
 longitude: -85.55802
 glottocode: pech1241
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Pech"
+wikidata_id: Q4898889
 wikipedia_url: "https://en.wikipedia.org/wiki/Pech_language"
 translations:
   - translation_iso: ara

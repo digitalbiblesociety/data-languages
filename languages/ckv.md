@@ -7,12 +7,15 @@ population: 200
 country_id: TW
 country_name: Taiwan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 24.69475
 longitude: 121.64463
 glottocode: kava1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Northern East Formosan > Kavalan"
+wikidata_id: Q716627
 wikipedia_url: "https://en.wikipedia.org/wiki/Kavalan_language"
 translations:
   - translation_iso: ara

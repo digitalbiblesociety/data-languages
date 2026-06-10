@@ -7,12 +7,15 @@ population: 550
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 49.47575
 longitude: -123.76474
 glottocode: sech1246
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > North Georgia Central Salish > Sechelt"
+wikidata_id: Q7442898
 wikipedia_url: "https://en.wikipedia.org/wiki/Sechelt_language"
 translations:
   - translation_iso: ara

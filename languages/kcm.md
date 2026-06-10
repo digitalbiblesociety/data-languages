@@ -7,12 +7,15 @@ population: 13000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.49092
 longitude: 23.38051
 glottocode: gula1266
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Fer-Gula > Gula (Central African Republic)"
+wikidata_id: Q277963
 wikipedia_url: "https://en.wikipedia.org/wiki/Tar_Gula_language"
 translations:
   - translation_iso: ara

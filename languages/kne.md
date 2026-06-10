@@ -7,12 +7,15 @@ population: 261000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.8548
 longitude: 120.68924
 glottocode: kank1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Kankanaey"
+wikidata_id: Q18753329
 wikipedia_url: "https://en.wikipedia.org/wiki/Kankanaey_language"
 translations:
   - translation_iso: ara

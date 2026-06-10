@@ -7,6 +7,8 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.73
 longitude: 22.82
 scripts: [Linb]
@@ -14,6 +16,7 @@ glottocode: myce1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Achaean Greek"
+wikidata_id: Q668366
 wikipedia_url: "https://en.wikipedia.org/wiki/Mycenaean_Greek"
 translations:
   - translation_iso: ara

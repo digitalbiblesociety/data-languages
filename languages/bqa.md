@@ -7,12 +7,15 @@ population: 2500
 country_id: BJ
 country_name: Benin
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 8.43449
 longitude: 2.55627
 glottocode: tchu1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Chumbuli > Tchumbuli"
+wikidata_id: Q11008162
 wikipedia_url: "https://en.wikipedia.org/wiki/Tchumbuli_language"
 translations:
   - translation_iso: ara

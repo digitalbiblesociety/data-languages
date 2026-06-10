@@ -6,12 +6,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.40199
 longitude: 127.7524
 glottocode: modo1249
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Kao River > Modole"
+wikidata_id: Q11732457
 wikipedia_url: "https://en.wikipedia.org/wiki/Modole_language"
 translations:
   - translation_iso: ara

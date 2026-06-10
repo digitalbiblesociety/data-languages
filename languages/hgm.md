@@ -7,12 +7,15 @@ population: 18400
 country_id: NA
 country_name: Namibia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -19.76371
 longitude: 17.02985
 glottocode: haio1238
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Khoekhoe > North Khoekhoe > Hai//om-Akhoe"
+wikidata_id: Q2658760
 wikipedia_url: "https://en.wikipedia.org/wiki/Hai%C7%81om%E2%80%93%C7%82Aakhoe_dialect"
 translations:
   - translation_iso: ara

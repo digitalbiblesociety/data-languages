@@ -6,12 +6,15 @@ population: 790
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.14955
 longitude: 142.34587
 glottocode: tuml1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Ali-Tumleo > Tumleo"
+wikidata_id: Q7852641
 wikipedia_url: "https://en.wikipedia.org/wiki/Tumleo_language"
 translations:
   - translation_iso: ara

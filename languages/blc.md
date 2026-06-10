@@ -7,12 +7,15 @@ population: 700
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 52.34481
 longitude: -126.68948
 glottocode: bell1243
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Bella Coola"
+wikidata_id: Q977808
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuxalk_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 19800
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.44263
 longitude: 5.77303
 glottocode: uvbi1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Uvbie"
+wikidata_id: Q3441344
 wikipedia_url: "https://en.wikipedia.org/wiki/Uvbie_language"
 translations:
   - translation_iso: ara

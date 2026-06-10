@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 11.0808
 longitude: 5.4914
 glottocode: dama1268
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Northwestern Kainji > Clela-Damakawa > Damakawa"
+wikidata_id: Q1158134
 wikipedia_url: "https://en.wikipedia.org/wiki/Damakawa_language"
 translations:
   - translation_iso: ara

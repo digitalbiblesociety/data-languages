@@ -7,6 +7,8 @@ population: 12000
 country_id: RU
 country_name: Russia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 48.43426
 longitude: 134.797255
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: nana1257
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Central-Western Tungusic > Nanai"
+wikidata_id: Q13303
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanai_language"
 translations:
   - translation_iso: ara

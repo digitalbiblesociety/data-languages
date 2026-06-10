@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -24.75108713
 longitude: 143.5365228
 glottocode: kuun1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Pirriya-Kungkari > Kuungkari of Barcoo River"
+wikidata_id: Q6444526
 wikipedia_url: "https://en.wikipedia.org/wiki/Kungkari_language"
 translations:
   - translation_iso: ara

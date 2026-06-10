@@ -7,12 +7,15 @@ population: 630000
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.49999
 longitude: -47.99999
 glottocode: braz1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Brazilian Sign Language"
+wikidata_id: Q3436689
 wikipedia_url: "https://en.wikipedia.org/wiki/Brazilian_Sign_Language"
 translations:
   - translation_iso: ara

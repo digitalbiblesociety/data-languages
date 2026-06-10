@@ -7,12 +7,15 @@ population: 21800
 country_id: RU
 country_name: Russia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 70.6687
 longitude: 130.91417
 glottocode: even1260
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Northern Tungusic > Ewenic > Even"
+wikidata_id: Q29960
 wikipedia_url: "https://en.wikipedia.org/wiki/Even_language"
 translations:
   - translation_iso: ara

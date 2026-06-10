@@ -7,12 +7,15 @@ population: 1700
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.58643
 longitude: 127.42792
 glottocode: roma1332
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Kisaric > Roma"
+wikidata_id: Q4414831
 wikipedia_url: "https://en.wikipedia.org/wiki/Romang_language"
 translations:
   - translation_iso: ara

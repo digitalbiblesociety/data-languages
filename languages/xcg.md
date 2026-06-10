@@ -7,12 +7,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 45.2
 longitude: 8.93
 glottocode: cisa1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Cisalpine Celtic > Cisalpine Gaulish"
+wikidata_id: Q3832927
 wikipedia_url: "https://en.wikipedia.org/wiki/Cisalpine_Gaulish"
 translations:
   - translation_iso: ara

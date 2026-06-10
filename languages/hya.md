@@ -7,12 +7,15 @@ population: 940
 country_id: CM
 country_name: Cameroon
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.481395
 longitude: 13.525975
 glottocode: hyaa1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Higic > Hya"
+wikidata_id: Q56798
 wikipedia_url: "https://en.wikipedia.org/wiki/Hya_language"
 translations:
   - translation_iso: ara

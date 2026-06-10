@@ -7,6 +7,8 @@ population: 3973600
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.85088
 longitude: 38.80519
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: makh1264
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Makhuwa"
+wikidata_id: Q33882
 wikipedia_url: "https://en.wikipedia.org/wiki/Makhuwa_language"
 translations:
   - translation_iso: ara

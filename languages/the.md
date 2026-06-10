@@ -7,12 +7,15 @@ population: 285000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.58247
 longitude: 84.40825
 glottocode: chit1274
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Chitwania Tharu"
+wikidata_id: Q22083804
 translations:
   - translation_iso: ara
     name: تيتوانيا ثارو

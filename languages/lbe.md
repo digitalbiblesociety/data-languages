@@ -7,6 +7,8 @@ population: 156300
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 42.13275
 longitude: 47.0809
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: lakk1252
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lak"
+wikidata_id: Q36206
 wikipedia_url: "https://en.wikipedia.org/wiki/Lak_language"
 translations:
   - translation_iso: ara

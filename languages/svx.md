@@ -6,6 +6,9 @@ population: null
 country_id: LT
 country_name: Lithuania
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q3486125
 wikipedia_url: "https://en.wikipedia.org/wiki/Skalvian_language"
 translations:
   - translation_iso: ara

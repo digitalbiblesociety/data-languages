@@ -1,5 +1,6 @@
 ---
 iso: ekk
+macrolanguage_id: est
 name: Standard Estonian
 autonym: eesti keel
 alt_names: [Estonian, "Estonian, Standard", estonien]
@@ -7,12 +8,15 @@ population: 1160020
 country_id: EE
 country_name: Estonia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 58.55
 longitude: 25.82
 glottocode: esto1258
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > Central Finnic > Estonian"
+wikidata_id: Q12361545
 translations:
   - translation_iso: ara
     name: الإستونية

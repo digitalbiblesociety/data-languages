@@ -7,6 +7,8 @@ population: 1520
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.46639
 longitude: -83.16303
 scripts: [Cher]
@@ -14,6 +16,7 @@ glottocode: cher1273
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Cherokee"
+wikidata_id: Q33388
 wikipedia_url: "https://en.wikipedia.org/wiki/Cherokee_language"
 translations:
   - translation_iso: ara

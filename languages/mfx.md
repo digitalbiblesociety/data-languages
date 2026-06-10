@@ -7,12 +7,15 @@ population: 20200
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.53916
 longitude: 36.81096
 glottocode: melo1242
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Melo"
+wikidata_id: Q6813268
 wikipedia_url: "https://en.wikipedia.org/wiki/Melo_language"
 translations:
   - translation_iso: ara

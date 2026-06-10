@@ -6,12 +6,15 @@ population: 1750
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.3373
 longitude: 145.48294
 glottocode: kein1239
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kokon > Kein"
+wikidata_id: Q6383764
 wikipedia_url: "https://en.wikipedia.org/wiki/Kein_language"
 translations:
   - translation_iso: ara

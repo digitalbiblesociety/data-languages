@@ -7,6 +7,8 @@ population: 3380
 country_id: SN
 country_name: Senegal
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.75312
 longitude: -12.47963
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bedi1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Bassari-Bedik-Bapen > Bedik-Bapen > Bedik"
+wikidata_id: Q35096
 wikipedia_url: "https://en.wikipedia.org/wiki/Bedik_language"
 translations:
   - translation_iso: ara

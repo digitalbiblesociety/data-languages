@@ -7,12 +7,15 @@ population: 132000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 48
 longitude: 124
 glottocode: daur1238
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Dagur"
+wikidata_id: Q32430
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagur_language"
 translations:
   - translation_iso: ara

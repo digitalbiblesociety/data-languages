@@ -6,7 +6,10 @@ population: 1568800
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 scripts: [Latn]
+wikidata_id: Q1158971
 wikipedia_url: "https://en.wikipedia.org/wiki/Dan_language"
 translations:
   - translation_iso: ara

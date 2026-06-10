@@ -6,8 +6,11 @@ population: 29100
 country_id: AO
 country_name: Angola
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.821495
 longitude: 21.881345
+wikidata_id: Q2599826
 translations:
   - translation_iso: ara
     name: ياوما

@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -8.49999
 longitude: -38.33332
 glottocode: kapi1248
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kapinawá"
+wikidata_id: Q6366667
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapinaw%C3%A1_language"
 translations:
   - translation_iso: ara

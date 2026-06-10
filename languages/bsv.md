@@ -6,8 +6,11 @@ population: null
 country_id: GN
 country_name: Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 9.98865
 longitude: -13.90538
+wikidata_id: Q3450433
 translations:
   - translation_iso: ara
     name: باجا سوباني

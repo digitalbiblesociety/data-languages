@@ -7,6 +7,8 @@ population: 40000000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.57338
 longitude: 76.97168
 scripts: [Telu]
@@ -14,6 +16,7 @@ glottocode: lamb1269
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Lambadi"
+wikidata_id: Q33474
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambadi"
 translations:
   - translation_iso: ara

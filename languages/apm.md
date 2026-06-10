@@ -7,12 +7,15 @@ population: 1800
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 33.1291
 longitude: -105.56612
 glottocode: mesc1238
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Mescalero-Chiricahua Apache"
+wikidata_id: Q13368
 wikipedia_url: "https://en.wikipedia.org/wiki/Mescalero-Chiricahua_language"
 translations:
   - translation_iso: ara

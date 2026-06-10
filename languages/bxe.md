@@ -7,9 +7,12 @@ population: 12
 country_id: ET
 country_name: Ethiopia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.29807
 longitude: 37.02496
 glottocode: bira1253
+wikidata_id: Q36344
 wikipedia_url: "https://en.wikipedia.org/wiki/Ongota_language"
 translations:
   - translation_iso: ara

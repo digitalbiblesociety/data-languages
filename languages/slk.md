@@ -1,5 +1,6 @@
 ---
 iso: slk
+iso639_1: sk
 name: Slovak
 autonym: Slovakian
 alt_names: [An tSlóvaicis, Eslovac, Eslovaco oriental, Eslovacu, Eslovakiera, Isluwakya simi, Kislovakia, Slobhacais, Slovackish, Slovaco, Slovakeg, Slovakek, Slovakiana linguo, Slovakimiusut, Slovakisk, Slovakiska, Slovakki, Slovakça, Slovaque, Slovaque oriental, Slovákiagiella, Slowaaks, Slowaaksk, Slowaoks, Slóvakíska, Słowacczi jãzëk, Słowacko godka, Słowakska rěc, Tok Slovakia, Tschechisch-Slovakisch, Забони словакӣ, Карпа́тьскословѣ́ньскъ ѩꙁꙑ́къ, Словак йылме, Սլովակերեն, סלאוואקיש, סלובקית, سلوۋاك تىلى]
@@ -7,6 +8,8 @@ population: 5193800
 country_id: SK
 country_name: Slovakia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 48.545705
 longitude: 18.78479
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: slov1269
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Czech-Slovak > Slovak"
+wikidata_id: Q9058
 wikipedia_url: "https://en.wikipedia.org/wiki/Slovak_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10000
 country_id: BW
 country_name: Botswana
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -22.093905
 longitude: 20.745795
 glottocode: naro1249
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Naro-Ana > Naro"
+wikidata_id: Q2164778
 wikipedia_url: "https://en.wikipedia.org/wiki/Naro_language"
 translations:
   - translation_iso: ara

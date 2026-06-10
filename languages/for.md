@@ -6,12 +6,15 @@ population: 30190
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.64473
 longitude: 145.5065
 glottocode: fore1270
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Fore-Gimi > Fore"
+wikidata_id: Q3077126
 wikipedia_url: "https://en.wikipedia.org/wiki/Fore_language"
 translations:
   - translation_iso: ara

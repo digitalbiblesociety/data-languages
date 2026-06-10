@@ -7,12 +7,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.11832
 longitude: 129.89879
 glottocode: lian1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > East Seram > Setic > Liana-Seti"
+wikidata_id: Q6539924
 wikipedia_url: "https://en.wikipedia.org/wiki/Liana_language"
 translations:
   - translation_iso: ara

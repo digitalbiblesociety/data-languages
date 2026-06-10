@@ -7,12 +7,15 @@ population: 500
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.99724
 longitude: 87.27833
 glottocode: belh1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Yakkha-Athpariyic > Athpariyic > Belhariya"
+wikidata_id: Q32961
 wikipedia_url: "https://en.wikipedia.org/wiki/Belhare_language"
 translations:
   - translation_iso: ara

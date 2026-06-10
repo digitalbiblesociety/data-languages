@@ -7,6 +7,8 @@ population: 2920
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 49.066915
 longitude: -113.109275
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: siks1238
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Siksika"
+wikidata_id: Q33060
 wikipedia_url: "https://en.wikipedia.org/wiki/Blackfoot_language"
 translations:
   - translation_iso: ara

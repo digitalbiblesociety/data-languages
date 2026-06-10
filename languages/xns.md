@@ -7,12 +7,15 @@ population: 1400
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.28426
 longitude: 77.1553
 glottocode: kana1283
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Kanashi"
+wikidata_id: Q6360672
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanashi_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: NI
 country_name: Nicaragua
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.932292
 longitude: -83.581467
 glottocode: ulwa1239
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Sumuic > Ulwa"
+wikidata_id: Q2405552
 translations:
   - translation_iso: ara
     name: أولوا

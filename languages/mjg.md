@@ -7,12 +7,15 @@ population: 290000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 36.8177
 longitude: 102.11749
 glottocode: huzh1238
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Monguoric > Mongghul"
+wikidata_id: Q34214
 wikipedia_url: "https://en.wikipedia.org/wiki/Monguor_language"
 translations:
   - translation_iso: ara

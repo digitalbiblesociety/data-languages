@@ -7,12 +7,15 @@ population: 953
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -10.48043
 longitude: -69.76828
 glottocode: mach1268
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Yineic > Machinere"
+wikidata_id: Q12953681
 wikipedia_url: "https://en.wikipedia.org/wiki/Machinere_language"
 translations:
   - translation_iso: ara

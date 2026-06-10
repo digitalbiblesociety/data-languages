@@ -7,6 +7,8 @@ population: null
 country_id: SA
 country_name: Saudi Arabia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 29.044
 longitude: 39.776
 scripts: [Narb]
@@ -14,6 +16,7 @@ glottocode: anci1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Ancient North Arabian"
+wikidata_id: Q1472213
 wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_North_Arabian_languages"
 translations:
   - translation_iso: ara

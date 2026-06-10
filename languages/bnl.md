@@ -7,12 +7,15 @@ population: 60
 country_id: SO
 country_name: Somalia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 0.41988
 longitude: 43.12076
 glottocode: boon1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Unclassified East Cushitic > Boon"
+wikidata_id: Q56616
 wikipedia_url: "https://en.wikipedia.org/wiki/Boon_language"
 translations:
   - translation_iso: ara

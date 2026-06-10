@@ -7,12 +7,15 @@ population: 7000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.15651
 longitude: 140.00939
 glottocode: nucl1622
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Marindic > Marind"
+wikidata_id: Q6763970
 wikipedia_url: "https://en.wikipedia.org/wiki/Marind_language"
 translations:
   - translation_iso: ara

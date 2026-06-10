@@ -7,12 +7,15 @@ population: 2430
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 47.38755
 longitude: -77.52577
 glottocode: algo1255
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Severn-Algonquin > Algonquin"
+wikidata_id: Q28092
 wikipedia_url: "https://en.wikipedia.org/wiki/Algonquin_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.585
 longitude: 85.56115
 glottocode: birh1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Birhor"
+wikidata_id: Q3450469
 wikipedia_url: "https://en.wikipedia.org/wiki/Birhor_language"
 translations:
   - translation_iso: ara

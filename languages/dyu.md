@@ -7,6 +7,8 @@ population: 2226000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 10.45364
 longitude: -4.720073
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: dyul1238
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Dyula"
+wikidata_id: Q32706
 wikipedia_url: "https://en.wikipedia.org/wiki/Dyula_language"
 translations:
   - translation_iso: ara

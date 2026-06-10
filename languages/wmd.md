@@ -7,12 +7,15 @@ population: 300
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -13.23958
 longitude: -59.99245
 glottocode: mama1278
 glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Nambikwara Complex > Northern Nambiquaran > Mamaindé"
+wikidata_id: Q3284890
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamaind%C3%AA_language"
 translations:
   - translation_iso: ara

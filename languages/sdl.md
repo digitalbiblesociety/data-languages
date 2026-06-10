@@ -6,12 +6,15 @@ population: 100000
 country_id: SA
 country_name: Saudi Arabia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.61401
 longitude: 46.47139
 glottocode: saud1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Arab Sign > Saudi Arabian Sign Language"
+wikidata_id: Q3504160
 wikipedia_url: "https://en.wikipedia.org/wiki/Saudi_Sign_Language"
 translations:
   - translation_iso: ara

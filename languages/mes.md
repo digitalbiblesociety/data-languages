@@ -7,12 +7,15 @@ population: 45000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.07604
 longitude: 19.27686
 glottocode: masm1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Mubic > Masmaje"
+wikidata_id: Q3440448
 wikipedia_url: "https://en.wikipedia.org/wiki/Masmaje_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.42071
 longitude: 16.94232
 glottocode: kimr1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Gabri-Kimre > Kimre"
+wikidata_id: Q3441210
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimr%C3%A9_language"
 translations:
   - translation_iso: ara

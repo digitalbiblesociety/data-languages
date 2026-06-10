@@ -7,12 +7,15 @@ population: 10800
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.99964
 longitude: 94.42351
 glottocode: sumi1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Sumi Naga"
+wikidata_id: Q3478238
 wikipedia_url: "https://en.wikipedia.org/wiki/S%C3%BCmi_language"
 translations:
   - translation_iso: ara

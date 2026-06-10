@@ -1,5 +1,6 @@
 ---
 iso: cos
+iso639_1: co
 name: Corsican
 autonym: corsu
 alt_names: [Cors, Corse, Corseg, Corsi, Corsica-gí, Corsicaans, Corsicagiella, Corso, Còrs, Khô-sî-kâ-ngî, Korseg, Korsikaans, Korsikaca, Korsikan tili, Korsikansk, Korsikanska, Korsikera, Korsische Spraak, Korsičtina, Korsîkî, Łéngua corsa, كورسىكا تىلى]
@@ -7,6 +8,8 @@ population: 151000
 country_id: FR
 country_name: France
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 41.700015
 longitude: 9.255365
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: cors1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Central Italian Romance > Corsic > Corsican"
+wikidata_id: Q33111
 wikipedia_url: "https://en.wikipedia.org/wiki/Corsican_language"
 translations:
   - translation_iso: ara

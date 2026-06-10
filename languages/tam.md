@@ -1,5 +1,6 @@
 ---
 iso: tam
+iso639_1: ta
 name: Tamil
 autonym: தமிழ்
 alt_names: [Damulian, Kitamil, Tamal, Tamalsan, Tambul, Tamil bhasa, Tamil simi, Tamil-gí, Tamilce, Tamileg, Tamilek, Tamilera, Tamili, Tamilikani chhib, Tamilsk, Tamoul, Tamílska, Tinamil, Tàmil, טמילית, تامل, تامىل تىلى, तमिळ्‌, ತಮಿಳು, തമിഴ്]
@@ -7,6 +8,8 @@ population: 75000000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 10.520219
 longitude: 78.825989
 scripts: [Taml]
@@ -14,6 +17,7 @@ glottocode: tami1289
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Tamil-Paliyan > Tamil"
+wikidata_id: Q5885
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamil_language"
 translations:
   - translation_iso: ara

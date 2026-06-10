@@ -7,12 +7,15 @@ population: 35000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.68297
 longitude: 143.47352
 glottocode: boik1241
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Boikin"
+wikidata_id: Q56829
 wikipedia_url: "https://en.wikipedia.org/wiki/Boiken_language"
 translations:
   - translation_iso: ara

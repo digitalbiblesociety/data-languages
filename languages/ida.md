@@ -1,5 +1,6 @@
 ---
 iso: ida
+macrolanguage_id: luy
 name: "Idakho-Isukha-Tiriki"
 autonym: Luidakho
 alt_names: [Kenya, Luidakho-Luisukha-Lutirichi]
@@ -7,12 +8,15 @@ population: 156000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.21557
 longitude: 34.81704
 glottocode: idak1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Idakho-Isukha-Tiriki"
+wikidata_id: Q12952512
 wikipedia_url: "https://en.wikipedia.org/wiki/Idakho-Isukha-Tiriki_language"
 translations:
   - translation_iso: ara

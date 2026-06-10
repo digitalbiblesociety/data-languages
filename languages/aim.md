@@ -7,12 +7,15 @@ population: 2640
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.64368
 longitude: 94.35562
 glottocode: aimo1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Central Old Kuki > Aimol"
+wikidata_id: Q4697175
 wikipedia_url: "https://en.wikipedia.org/wiki/Aimol_language"
 translations:
   - translation_iso: ara

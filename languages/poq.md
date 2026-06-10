@@ -7,12 +7,15 @@ population: 15779
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 17.89257
 longitude: -94.80765
 glottocode: texi1237
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Texistepec-Ayapa Zoque > Texistepec Popoluca"
+wikidata_id: Q5908707
 wikipedia_url: "https://en.wikipedia.org/wiki/Texistepec_language"
 translations:
   - translation_iso: ara

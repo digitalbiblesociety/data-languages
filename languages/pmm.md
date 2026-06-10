@@ -7,12 +7,15 @@ population: 44130
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.83
 longitude: 16.17
 glottocode: pomo1271
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Pol"
+wikidata_id: Q36408
 wikipedia_url: "https://en.wikipedia.org/wiki/Pol_language"
 translations:
   - translation_iso: ara

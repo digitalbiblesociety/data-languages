@@ -1,5 +1,6 @@
 ---
 iso: bcl
+macrolanguage_id: bik
 name: Central Bikol
 autonym: Bikol Sentral
 alt_names: [Bicol, Bicolano (Central), "Bicolano, Central", Bikol, "Bikol, Central", Bikolano, Bikoleg, Central Bicolano, Central Bikolano, Pagsasao a Bikol, Tataramon na Bikol]
@@ -7,12 +8,15 @@ population: 3890000
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 13.75743
 longitude: 123.40331
 glottocode: cent2087
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Coastal Bikol > Coastal-Naga Bikol"
+wikidata_id: Q33284
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bikol"
 translations:
   - translation_iso: ara

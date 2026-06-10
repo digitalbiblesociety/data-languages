@@ -7,12 +7,15 @@ population: 22400
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.25558
 longitude: -96.72403
 glottocode: huau1238
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Central Mazatec > Huautla Mazatec"
+wikidata_id: Q63278779
 translations:
   - translation_iso: ara
     name: لغة مازاتك هواوتلا

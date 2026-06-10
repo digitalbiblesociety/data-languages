@@ -7,12 +7,15 @@ population: 116000
 country_id: SS
 country_name: South Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.32234
 longitude: 30.49451
 glottocode: reel1238
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Nuer-Reel > Reel"
+wikidata_id: Q7306882
 wikipedia_url: "https://en.wikipedia.org/wiki/Reel_language"
 translations:
   - translation_iso: ara

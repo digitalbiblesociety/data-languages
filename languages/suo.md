@@ -4,12 +4,15 @@ name: Bouni
 autonym: Sumo
 country_id: PG
 country_name: Papua New Guinea
+scope: individual
+language_type: living
 latitude: -3.067293
 longitude: 141.932259
 glottocode: boun1246
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Bouni-Bobe"
+wikidata_id: Q65043887
 wikipedia_url: "https://en.wikipedia.org/wiki/Bouni_language"
 translations:
   - translation_iso: ara

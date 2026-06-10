@@ -7,12 +7,15 @@ population: 4500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.97504
 longitude: 141.36524
 glottocode: kuni1265
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Kuni-Boazi"
+wikidata_id: Q2907551
 wikipedia_url: "https://en.wikipedia.org/wiki/Boazi_language"
 translations:
   - translation_iso: ara

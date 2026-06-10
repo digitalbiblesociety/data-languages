@@ -1,5 +1,6 @@
 ---
 iso: rmn
+macrolanguage_id: rom
 name: Balkan Romani
 autonym: Balkaniko Romanes
 alt_names: [Balkan, Bugurdz, Bugurdzi, Cigány, European Romany, Gypsy, Romani, Romani (Ajia Varvara), Romani (Bugurdzi), "Romani, Balkan", Romany, Zigeuner]
@@ -7,12 +8,15 @@ population: 602840
 country_id: RS
 country_name: Serbia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 42.67
 longitude: 21.17
 glottocode: balk1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Balkan Romani"
+wikidata_id: Q1256701
 wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Romani"
 translations:
   - translation_iso: ara

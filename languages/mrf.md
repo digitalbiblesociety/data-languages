@@ -7,9 +7,12 @@ population: 300
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.00176
 longitude: 140.41769
 glottocode: else1239
+wikidata_id: Q3915667
 wikipedia_url: "https://en.wikipedia.org/wiki/Elseng_language"
 translations:
   - translation_iso: ara

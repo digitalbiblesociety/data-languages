@@ -6,12 +6,15 @@ population: 3420
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.19382
 longitude: 10.12723
 glottocode: tita1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Unclassified Benue-Congo > Tita"
+wikidata_id: Q3914899
 wikipedia_url: "https://en.wikipedia.org/wiki/Tita_language"
 translations:
   - translation_iso: ara

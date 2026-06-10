@@ -7,12 +7,15 @@ population: 29000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.13188
 longitude: 145.24661
 glottocode: sian1257
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Siane"
+wikidata_id: Q7506812
 wikipedia_url: "https://en.wikipedia.org/wiki/Siane_language"
 translations:
   - translation_iso: ara

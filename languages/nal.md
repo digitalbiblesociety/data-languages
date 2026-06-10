@@ -7,12 +7,15 @@ population: 5140
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -2.94411
 longitude: 151.33183
 glottocode: nali1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Tungak-Nalik > Nalik"
+wikidata_id: Q3335387
 wikipedia_url: "https://en.wikipedia.org/wiki/Nalik_language"
 translations:
   - translation_iso: ara

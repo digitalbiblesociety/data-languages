@@ -7,12 +7,15 @@ population: 3000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.78
 longitude: -2.94
 glottocode: bent1238
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Nangan Dogon > Ben Tey Dogon"
+wikidata_id: Q4886561
 wikipedia_url: "https://en.wikipedia.org/wiki/Ben_Tey_Dogon"
 translations:
   - translation_iso: ara

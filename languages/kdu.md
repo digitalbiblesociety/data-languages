@@ -7,12 +7,15 @@ population: 7000
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 12.15545
 longitude: 30.2709
 glottocode: kada1282
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Eastern Kordofan Nubian > Kadaru"
+wikidata_id: Q35441
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadaru_language"
 translations:
   - translation_iso: ara

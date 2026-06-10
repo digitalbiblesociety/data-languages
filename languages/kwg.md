@@ -7,12 +7,15 @@ population: 40000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.03466
 longitude: 18.66068
 glottocode: sara1322
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Sara-Kaba > Sara Kaba Deme"
+wikidata_id: Q3915384
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaba_Deme_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 14600
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 13.09821
 longitude: 121.02197
 glottocode: alan1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Mangyan > Alangan"
+wikidata_id: Q3327423
 wikipedia_url: "https://en.wikipedia.org/wiki/Alangan_language"
 translations:
   - translation_iso: ara

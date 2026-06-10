@@ -7,12 +7,15 @@ population: 50
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 11.94803
 longitude: 28.59013
 glottocode: elhu1238
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Western Kordofan Nubian > El Hugeirat"
+wikidata_id: Q5351410
 wikipedia_url: "https://en.wikipedia.org/wiki/El_Hugeirat_language"
 translations:
   - translation_iso: ara

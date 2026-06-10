@@ -7,12 +7,15 @@ population: 10000
 country_id: IN
 country_name: India
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 25.346508
 longitude: 90.658722
 glottocode: aton1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Atong (India)"
+wikidata_id: Q5646
 wikipedia_url: "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)"
 translations:
   - translation_iso: ara

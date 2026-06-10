@@ -7,12 +7,15 @@ population: 1500
 country_id: TH
 country_name: Thailand
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 18.17175
 longitude: 100.20957
 glottocode: mpii1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Bi-Ka > Mpi"
+wikidata_id: Q6928276
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpi_language"
 translations:
   - translation_iso: ara

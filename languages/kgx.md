@@ -7,12 +7,15 @@ population: 3500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.15696
 longitude: 123.04494
 glottocode: kama1364
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Wolio-Kamaru > Kamaru"
+wikidata_id: Q12953604
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamaru_language"
 translations:
   - translation_iso: ara

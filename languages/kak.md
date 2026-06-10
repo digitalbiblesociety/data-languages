@@ -7,12 +7,15 @@ population: 15000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.321
 longitude: 120.90003
 glottocode: ahin1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Southern Cordilleran > West Southern Cordilleran > Nuclear Southern Cordilleran > Kalanguya > Ahin-Kayapa Kalanguya"
+wikidata_id: Q3192220
 translations:
   - translation_iso: ara
     name: لغة كالانغويا

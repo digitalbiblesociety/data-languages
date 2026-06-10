@@ -1,5 +1,6 @@
 ---
 iso: nld
+iso639_1: nl
 name: Dutch
 autonym: Nederlands
 alt_names: [Algemêen Nederlands, An Ollainnis, Bakratongo, Brabantic, Brabants, Duitsis, Dutch leid, Dutch-Flemish, Felemenk tili, Felemenkçe, Flemenki, Flemish, Hollands, Hollenska, Hollánddagiella, Holländische Sproch, Hò-làn-ngî, Inolandes, Iseldireg, Iseldiryek, IsiHolandi, Kiholanzi, Kē-tē-gí, Lifalamá, Nedderlandsche Spraak, Nederlaands, Nederlandana linguo, Nederlandeg, Nederlandera, Nederlandsk, Nederlandum, Nederlânsk, Nederländska, Neederländėsch, Neerlandès, Neerlandés, Netherlandic, Neyerlandès, Niederlaendische Schprooch, Niederloundisk, Niederländisch, Nirlindé, Niðerlandisc sprǣc, Néerlandais, Nêrlandês, Ollanish, Se-dutch, Urasuyu simi, Vlaam, flamand, Łéngua ołandexe, Голандонь кяль, Нидерланд йылме, Нидерланд теле, Հոլանդերեն, האלענדיש, הולנדית, گوللاندىيە تىلى, ޑަޗު, འཇར་མན་སྐད།, 荷蘭話]
@@ -7,6 +8,8 @@ population: 23100000
 country_id: NL
 country_name: Netherlands
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 52
 longitude: 5
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: dutc1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Dutch"
+wikidata_id: Q7411
 wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_language"
 translations:
   - translation_iso: ara

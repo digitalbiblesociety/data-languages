@@ -7,12 +7,15 @@ population: null
 country_id: VU
 country_name: Vanuatu
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -15.82653
 longitude: 168.18653
 glottocode: sowa1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > South Pentecost > Seke-Sowa > Sowa"
+wikidata_id: Q7571843
 wikipedia_url: "https://en.wikipedia.org/wiki/Sowa_language"
 translations:
   - translation_iso: ara

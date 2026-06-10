@@ -7,12 +7,15 @@ population: 14000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.63764
 longitude: -76.82525
 glottocode: chay1248
 glottolog_family_id: cahu1265
 glottolog_family_name: Cahuapanan
 glottolog_classification: "Cahuapanan > Shawi"
+wikidata_id: Q1526525
 wikipedia_url: "https://en.wikipedia.org/wiki/Shawi_language"
 translations:
   - translation_iso: ara

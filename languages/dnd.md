@@ -6,12 +6,15 @@ population: 170
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.31443
 longitude: 141.2198
 glottocode: daon1243
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Simog-Daonda > Daonda"
+wikidata_id: Q5221528
 wikipedia_url: "https://en.wikipedia.org/wiki/Daonda_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: DM
 country_name: Dominica
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 14.290585
 longitude: -61.239505
 glottocode: isla1278
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Island Carib-Garifuna > Island Carib"
+wikidata_id: Q3450735
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalinago_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: HT
 country_name: Haiti
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 18.911
 longitude: -72.394
 glottocode: hait1241
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Haitian Vodoun Culture Language"
+wikidata_id: Q3504239
 wikipedia_url: "https://en.wikipedia.org/wiki/Haitian_Vodoun_Culture_Language"
 translations:
   - translation_iso: ara

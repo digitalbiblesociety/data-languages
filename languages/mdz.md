@@ -7,12 +7,15 @@ population: 180
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.9271
 longitude: -48.58795
 glottocode: suru1261
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.A > Suruí Do Pará"
+wikidata_id: Q10322149
 wikipedia_url: "https://en.wikipedia.org/wiki/Suru%C3%AD_do_Par%C3%A1_language"
 translations:
   - translation_iso: ara

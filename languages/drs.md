@@ -7,12 +7,15 @@ population: 1410000
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.18469
 longitude: 38.2395
 glottocode: gede1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Sidaama-Gedeo > Gedeo"
+wikidata_id: Q56622
 wikipedia_url: "https://en.wikipedia.org/wiki/Gedeo_language"
 translations:
   - translation_iso: ara

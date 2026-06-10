@@ -7,12 +7,15 @@ population: 7500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.81309
 longitude: 145.33983
 glottocode: orok1267
 glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Western Eleman > Orokolo"
+wikidata_id: Q7103758
 wikipedia_url: "https://en.wikipedia.org/wiki/Orokolo_language"
 translations:
   - translation_iso: ara

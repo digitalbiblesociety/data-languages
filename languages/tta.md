@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 37.67
 longitude: -78.75
 glottocode: tute1247
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Tutelo"
+wikidata_id: Q2311602
 wikipedia_url: "https://en.wikipedia.org/wiki/Tutelo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: IT
 country_name: Italy
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 43.12845
 longitude: 11.47233
 glottocode: jude1255
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Judeo-Italian"
+wikidata_id: Q1145414
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Italian_dialects"
 translations:
   - translation_iso: ara

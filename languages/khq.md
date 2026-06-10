@@ -7,6 +7,8 @@ population: 200000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 16.19202
 longitude: -3.73962
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: koyr1240
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Koyra Chiini Songhay"
+wikidata_id: Q33600
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyra_Chiini_language"
 translations:
   - translation_iso: ara

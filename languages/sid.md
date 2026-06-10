@@ -7,6 +7,8 @@ population: 4343000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.74176
 longitude: 38.3729
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sida1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Sidaama-Hadiyya-Kambaata > Sidaama-Gedeo > Sidamo"
+wikidata_id: Q33786
 wikipedia_url: "https://en.wikipedia.org/wiki/Sidama_language"
 translations:
   - translation_iso: ara

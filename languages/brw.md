@@ -7,12 +7,15 @@ population: 1350
 country_id: IN
 country_name: India
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 12.58518
 longitude: 76.10249
 glottocode: bell1261
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Bellari"
+wikidata_id: Q4883496
 wikipedia_url: "https://en.wikipedia.org/wiki/Bellari_language"
 translations:
   - translation_iso: ara

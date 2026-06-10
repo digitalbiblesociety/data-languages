@@ -6,12 +6,15 @@ population: 54500
 country_id: UA
 country_name: Ukraine
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 50.41113
 longitude: 30.55304
 glottocode: ukra1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Central RSLic > Ukrainian Sign Language"
+wikidata_id: Q10322106
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukrainian_Sign_Language"
 translations:
   - translation_iso: ara

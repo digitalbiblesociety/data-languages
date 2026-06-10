@@ -1,5 +1,6 @@
 ---
 iso: xnr
+macrolanguage_id: doi
 name: Kangri
 autonym: कांगड़ी
 alt_names: [Kangra-Dogri, Pahari, Pahari Kangri]
@@ -7,6 +8,8 @@ population: 1120000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.915
 longitude: 76.366
 scripts: [Deva]
@@ -14,6 +17,7 @@ glottocode: kang1280
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Kangri-Dogri > Kangri"
+wikidata_id: Q2331560
 wikipedia_url: "https://en.wikipedia.org/wiki/Kangri_language"
 translations:
   - translation_iso: ara

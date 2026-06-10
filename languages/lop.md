@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.37555
 longitude: 4.67396
 glottocode: lopa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Oleran > Lopa"
+wikidata_id: Q3914875
 wikipedia_url: "https://en.wikipedia.org/wiki/Lopa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1000
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.2101
 longitude: 36.17093
 glottocode: karo1297
 glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Hamer-Karo > Karo (Ethiopia)"
+wikidata_id: Q3447116
 wikipedia_url: "https://en.wikipedia.org/wiki/Karo_language_(Ethiopia)"
 translations:
   - translation_iso: ara

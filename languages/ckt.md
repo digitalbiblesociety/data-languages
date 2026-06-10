@@ -7,6 +7,8 @@ population: 15900
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 68.64356
 longitude: 170.04503
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: chuk1273
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > Chukchi"
+wikidata_id: Q33170
 wikipedia_url: "https://en.wikipedia.org/wiki/Chukchi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 18800
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.70416
 longitude: 119.96795
 glottocode: umaa1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Uma-Sarudu > Uma"
+wikidata_id: Q7881036
 wikipedia_url: "https://en.wikipedia.org/wiki/Uma_language"
 translations:
   - translation_iso: ara

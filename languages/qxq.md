@@ -7,12 +7,15 @@ population: 1147600
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.25931
 longitude: 52.83349
 glottocode: qash1240
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > Qashqa'i"
+wikidata_id: Q13192
 wikipedia_url: "https://en.wikipedia.org/wiki/Qashqai_language"
 translations:
   - translation_iso: ara

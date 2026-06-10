@@ -7,12 +7,15 @@ population: 1000
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.13669
 longitude: -73.83307
 glottocode: muru1274
 glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nuclear Witotoan > Minica-Murui > Murui Huitoto"
+wikidata_id: Q2640935
 wikipedia_url: "https://en.wikipedia.org/wiki/Murui_Huitoto_language"
 translations:
   - translation_iso: ara

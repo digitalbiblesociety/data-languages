@@ -7,6 +7,8 @@ population: 131000
 country_id: GF
 country_name: French Guiana
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 4.94804
 longitude: -52.73359
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: guia1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Guyanic Creole French > Guianese Creole French"
+wikidata_id: Q1363072
 wikipedia_url: "https://en.wikipedia.org/wiki/French_Guianese_Creole"
 translations:
   - translation_iso: ara

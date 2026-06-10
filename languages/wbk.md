@@ -7,12 +7,15 @@ population: 1500
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.03578
 longitude: 70.97609
 glottocode: waig1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Ashkun-Kate-Waigali > Nuristani Kalasha-Tregami > Nuristani Kalasha"
+wikidata_id: Q34196
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuristani_Kalasha_language"
 translations:
   - translation_iso: ara

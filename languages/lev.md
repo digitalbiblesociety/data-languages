@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.52787
 longitude: 124.05661
 glottocode: lamm1241
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > Western Pantar"
+wikidata_id: Q6583582
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Pantar_language"
 translations:
   - translation_iso: ara

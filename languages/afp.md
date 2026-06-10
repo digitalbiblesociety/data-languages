@@ -7,12 +7,15 @@ population: 290
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.77763
 longitude: 143.33712
 glottocode: tape1242
 glottolog_family_id: araf1243
 glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Tapei"
+wikidata_id: Q16887371
 wikipedia_url: "https://en.wikipedia.org/wiki/Tapei_language"
 translations:
   - translation_iso: ara

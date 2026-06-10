@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 30.118
 longitude: -84.416
 glottocode: apal1237
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Alabaman-Koasati > Apalachee"
+wikidata_id: Q686501
 wikipedia_url: "https://en.wikipedia.org/wiki/Apalachee_language"
 translations:
   - translation_iso: ara

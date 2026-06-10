@@ -7,12 +7,15 @@ population: 470
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.28497
 longitude: 150.7623
 glottocode: guma1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Gumawana"
+wikidata_id: Q5618041
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumawana_language"
 translations:
   - translation_iso: ara

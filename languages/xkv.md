@@ -7,12 +7,15 @@ population: 65400
 country_id: BW
 country_name: Botswana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -25.9208
 longitude: 22.72016
 glottocode: kgal1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Kgalagadi"
+wikidata_id: Q2088743
 wikipedia_url: "https://en.wikipedia.org/wiki/Kgalagadi_language"
 translations:
   - translation_iso: ara

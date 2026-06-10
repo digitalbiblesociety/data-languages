@@ -7,6 +7,8 @@ population: 600000
 country_id: IT
 country_name: Italy
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 46.14732
 longitude: 13.04927
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: friu1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Friulian"
+wikidata_id: Q33441
 wikipedia_url: "https://en.wikipedia.org/wiki/Friulian_language"
 translations:
   - translation_iso: ara

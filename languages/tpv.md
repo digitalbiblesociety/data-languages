@@ -7,12 +7,15 @@ population: 4400
 country_id: MP
 country_name: Northern Mariana Islands
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 15.23702
 longitude: 145.75662
 glottocode: tana1281
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Satawalese-Carolinian > Macro-Carolinian > Murilo-Fanapanges > Tanapag"
+wikidata_id: Q3397371
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanapag_language"
 translations:
   - translation_iso: ara

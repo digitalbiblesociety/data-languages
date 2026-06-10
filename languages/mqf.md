@@ -7,9 +7,12 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.04431
 longitude: 139.26022
 glottocode: momu1241
+wikidata_id: Q6897518
 wikipedia_url: "https://en.wikipedia.org/wiki/Momuna_language"
 translations:
   - translation_iso: ara

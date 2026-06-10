@@ -6,12 +6,15 @@ population: 4350
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.36912
 longitude: 117.0118
 glottocode: buru1304
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tidung-Bulusu > Burusu"
+wikidata_id: Q5001028
 wikipedia_url: "https://en.wikipedia.org/wiki/Burusu_language"
 translations:
   - translation_iso: ara

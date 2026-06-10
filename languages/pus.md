@@ -1,5 +1,6 @@
 ---
 iso: pus
+iso639_1: ps
 name: Pushto
 autonym: پښتو
 alt_names: [Pashto]
@@ -7,7 +8,10 @@ population: 53130000
 country_id: AF
 country_name: Afghanistan
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab]
+wikidata_id: Q58680
 wikipedia_url: "https://en.wikipedia.org/wiki/Pashto"
 translations:
   - translation_iso: ara

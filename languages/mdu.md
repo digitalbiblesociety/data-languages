@@ -7,12 +7,15 @@ population: 47000
 country_id: CG
 country_name: Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.43541
 longitude: 14.79347
 glottocode: mbok1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Mboshi (C.20) > Mboko"
+wikidata_id: Q36058
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboko_language"
 translations:
   - translation_iso: ara

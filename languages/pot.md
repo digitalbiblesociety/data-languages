@@ -7,12 +7,15 @@ population: 1300
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 40.954965
 longitude: -89.18814
 glottocode: pota1247
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Potawatomi"
+wikidata_id: Q56749
 wikipedia_url: "https://en.wikipedia.org/wiki/Potawatomi_language"
 translations:
   - translation_iso: ara

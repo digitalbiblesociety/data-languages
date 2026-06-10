@@ -7,12 +7,15 @@ population: 146000
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.17037
 longitude: 0.58553
 glottocode: nawd1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Yom-Nawdm > Nawdm"
+wikidata_id: Q36085
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawdm_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.81055
 longitude: 8.03166
 glottocode: agwa1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Ubaghara-Kohumono > Kohumonoic > Agwagwune"
+wikidata_id: Q34736
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwune_language"
 translations:
   - translation_iso: ara

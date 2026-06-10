@@ -7,12 +7,15 @@ population: 265000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.40391
 longitude: -7.24617
 glottocode: weno1238
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Wobe-Wè Northern"
+wikidata_id: Q3915363
 wikipedia_url: "https://en.wikipedia.org/wiki/Wob%C3%A9_language"
 translations:
   - translation_iso: ara

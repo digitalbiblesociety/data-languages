@@ -7,12 +7,15 @@ population: 7500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.29363
 longitude: 139.69256
 glottocode: cent2118
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Awyu > Mappi-Digul Awyu > Central Awyu"
+wikidata_id: Q12628801
 translations:
   - translation_iso: ara
     name: اللغة أويو الوسطى

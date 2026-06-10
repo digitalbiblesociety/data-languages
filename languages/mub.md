@@ -7,12 +7,15 @@ population: 35300
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.68932
 longitude: 19.59024
 glottocode: mubi1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Mubic > Mubi"
+wikidata_id: Q3440518
 wikipedia_url: "https://en.wikipedia.org/wiki/Mubi_language"
 translations:
   - translation_iso: ara

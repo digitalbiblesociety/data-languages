@@ -7,12 +7,15 @@ population: 11400
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.58316
 longitude: 8.10047
 glottocode: ukpe1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Ukpet-Ehom"
+wikidata_id: Q36618
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpet_language"
 translations:
   - translation_iso: ara

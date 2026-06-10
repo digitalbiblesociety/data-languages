@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -28.96178
 longitude: 146.54642
 glottocode: muru1266
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Muruwaric > Muruwari"
+wikidata_id: Q3915442
 wikipedia_url: "https://en.wikipedia.org/wiki/Muruwari_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.22936
 longitude: 142.40054
 glottocode: woga1249
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Iwam-Wogamus > Wogamusin-Chenapian > Wogamusin"
+wikidata_id: Q56991
 wikipedia_url: "https://en.wikipedia.org/wiki/Wogamusin_language"
 translations:
   - translation_iso: ara

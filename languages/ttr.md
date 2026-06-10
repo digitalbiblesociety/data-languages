@@ -7,12 +7,15 @@ population: 101000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.0376
 longitude: 11.80953
 glottocode: tera1251
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Teraic > Western Tera > Tera"
+wikidata_id: Q56267
 wikipedia_url: "https://en.wikipedia.org/wiki/Tera_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 320
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -13.29598
 longitude: -53.69711
 glottocode: waur1244
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Waura-Mehinaku-Kustenau > Waura-Mehinaku > Waurá"
+wikidata_id: Q3450522
 wikipedia_url: "https://en.wikipedia.org/wiki/Waur%C3%A1_language"
 translations:
   - translation_iso: ara

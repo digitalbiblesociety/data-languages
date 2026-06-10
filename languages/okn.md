@@ -7,12 +7,15 @@ population: 3200
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.37384
 longitude: 128.6187
 glottocode: okin1246
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Nuclear Amami > Okinoerabu-Tokunoshima > Oki-No-Erabu"
+wikidata_id: Q3350036
 wikipedia_url: "https://en.wikipedia.org/wiki/Okinoerabu_dialect_cluster"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 62900
 country_id: YE
 country_name: Yemen
 status_id: null
+scope: individual
+language_type: living
 latitude: 16.9092
 longitude: 43.2416905
 glottocode: jaba1234
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Sayhadic > Modern Sayhadic > Jabal Razih"
+wikidata_id: Q16911222
 wikipedia_url: "https://en.wikipedia.org/wiki/Razihi_language"
 translations:
   - translation_iso: ara

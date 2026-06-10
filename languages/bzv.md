@@ -7,12 +7,15 @@ population: 2500
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.74825
 longitude: 10.5646
 glottocode: bebe1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Bebe"
+wikidata_id: Q34977
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebe_language"
 translations:
   - translation_iso: ara

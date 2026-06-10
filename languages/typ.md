@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.82924
 longitude: 143.32412
 glottocode: thay1248
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Thaypanic > Thaypan"
+wikidata_id: Q3915693
 wikipedia_url: "https://en.wikipedia.org/wiki/Gugu_Thaypan_language"
 translations:
   - translation_iso: ara

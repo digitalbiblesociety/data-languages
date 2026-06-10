@@ -6,12 +6,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 31.066667
 longitude: 81.3125
 glottocode: zhan1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Darma-Byangsi > Zhangzhungic > Zhangzhung"
+wikidata_id: Q3437292
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhang-Zhung_language"
 translations:
   - translation_iso: ara

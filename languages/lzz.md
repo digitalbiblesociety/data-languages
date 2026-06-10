@@ -7,6 +7,8 @@ population: 22000
 country_id: TR
 country_name: Turkey
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41.50039
 longitude: 41.909645
 scripts: [Geor, Latn]
@@ -14,6 +16,7 @@ glottocode: lazz1240
 glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Zan > Laz"
+wikidata_id: Q1160372
 wikipedia_url: "https://en.wikipedia.org/wiki/Laz_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1660
 country_id: BD
 country_name: Bangladesh
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.5318
 longitude: 88.337
 glottocode: kolb1241
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Santalic > Kol (Bangladesh)"
+wikidata_id: Q6426945
 wikipedia_url: "https://en.wikipedia.org/wiki/Kol_language_(Bangladesh)"
 translations:
   - translation_iso: ara

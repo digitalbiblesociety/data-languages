@@ -1,5 +1,6 @@
 ---
 iso: mfb
+macrolanguage_id: msa
 name: Bangka
 autonym: Bahasa Bangka
 alt_names: [Belom, Lom, Mapor, Maporese]
@@ -7,12 +8,15 @@ population: 340000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.73288
 longitude: 105.89719
 glottocode: bang1365
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Bangka-Belitung Malay > Bangka"
+wikidata_id: Q3258818
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangka_Malay"
 translations:
   - translation_iso: ara

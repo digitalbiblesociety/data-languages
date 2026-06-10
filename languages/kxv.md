@@ -7,6 +7,8 @@ population: 176000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.88319
 longitude: 83.75524
 scripts: [Deva, Latn, Orya, Telu]
@@ -14,6 +16,7 @@ glottocode: kuvi1243
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Manda-Kui > Kui-Kuvi > Kuvi"
+wikidata_id: Q3200721
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuvi_language"
 translations:
   - translation_iso: ara

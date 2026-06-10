@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -29.524
 longitude: 139.77
 glottocode: pirl1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Karnic > Central Karnic > Western Central Karnic > Pirlatapa-Dieric > Pirlatapa"
+wikidata_id: Q10632195
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirlatapa_language"
 translations:
   - translation_iso: ara

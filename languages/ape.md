@@ -7,12 +7,15 @@ population: 16200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.47169
 longitude: 143.11061
 glottocode: buki1249
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Bukiyip-Abu > Bukiyip"
+wikidata_id: Q3507895
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukiyip_language"
 translations:
   - translation_iso: ara

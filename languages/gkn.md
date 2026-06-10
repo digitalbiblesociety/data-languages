@@ -7,12 +7,15 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.61889
 longitude: 7.34457
 glottocode: goka1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > East Ogonoid > Gokana"
+wikidata_id: Q3075137
 wikipedia_url: "https://en.wikipedia.org/wiki/Gokana_language"
 translations:
   - translation_iso: ara

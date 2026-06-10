@@ -1,5 +1,6 @@
 ---
 iso: zpy
+macrolanguage_id: zap
 name: Mazaltepec Zapotec
 autonym: (Santo Tomás Mazaltepec)
 alt_names: [Etla Zapotec, Northern Sapoteko, Tejalapan, Tejalapan Zapotec, Zapotec, "Zapotec, Mazaltepec", Zapoteco de San Felipe Tejalapan, Zapoteco de Santo Tomás Mazaltepec, Zapoteco de Tejalápam]
@@ -7,12 +8,15 @@ population: 2200
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.15472
 longitude: -96.8791
 glottocode: maza1294
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Mazaltepec Zapotec"
+wikidata_id: Q6798223
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazaltepec_Zapotec"
 translations:
   - translation_iso: ara

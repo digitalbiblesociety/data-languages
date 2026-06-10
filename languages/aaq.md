@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 45.01121
 longitude: -68.66167
 glottocode: east2544
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Abenaki > Eastern Abenaki"
+wikidata_id: Q3515185
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Abenaki_language"
 translations:
   - translation_iso: ara

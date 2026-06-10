@@ -7,12 +7,15 @@ population: 20000
 country_id: BD
 country_name: Bangladesh
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.413375
 longitude: 92.595285
 glottocode: chak1270
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Luish > Chak"
+wikidata_id: Q7402721
 wikipedia_url: "https://en.wikipedia.org/wiki/Sak_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: ssw
+iso639_1: ss
 name: Swati
 autonym: siSwati
 alt_names: [Isiswazi, Phuthi, Siswazi, Suací, Swasi simi, Swatieg, Swatum, Swazi, Tekela, Tekeza, Thithiza, Yeyeza, Свази, Свати]
@@ -7,6 +8,8 @@ population: 2314500
 country_id: SZ
 country_name: Eswatini
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -26
 longitude: 31.5
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: swat1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Swatic > Swati"
+wikidata_id: Q34014
 wikipedia_url: "https://en.wikipedia.org/wiki/Swazi_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: zpu
+macrolanguage_id: zap
 name: Yalálag Zapotec
 autonym: "Zapotec, Yalálag"
 alt_names: [Cajonos Zapotec, Northern Sapoteko, Villalta (non-preferred), Yalalag Zapotec, Zapotec, dill xhon]
@@ -7,12 +8,15 @@ population: 3500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.2134
 longitude: -96.21834
 glottocode: yala1267
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Cajonosic > Yalálag Zapotec"
+wikidata_id: Q8047534
 wikipedia_url: "https://en.wikipedia.org/wiki/Yal%C3%A1lag_Zapotec"
 translations:
   - translation_iso: ara

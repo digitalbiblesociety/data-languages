@@ -7,12 +7,15 @@ population: 24200
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.755375
 longitude: 85.76568
 glottocode: than1259
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Thangmi-Baram > Thangmi"
+wikidata_id: Q7710314
 wikipedia_url: "https://en.wikipedia.org/wiki/Thangmi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 32.216815
 longitude: 77.959555
 glottocode: gahr1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Central-Eastern West Himalayish > Bunan"
+wikidata_id: Q5516952
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunan_language"
 translations:
   - translation_iso: ara

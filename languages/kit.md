@@ -7,12 +7,15 @@ population: 1437
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.08521
 longitude: 142.53159
 glottocode: agob1244
 glottolog_family_id: paho1240
 glottolog_family_name: Pahoturi
 glottolog_classification: "Pahoturi > Agob-Ende-Kawam"
+wikidata_id: Q3332143
 wikipedia_url: "https://en.wikipedia.org/wiki/Agob_languages"
 translations:
   - translation_iso: ara

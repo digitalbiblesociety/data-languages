@@ -7,12 +7,15 @@ population: 900
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.64681
 longitude: -50.06211
 glottocode: para1312
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup IV > Tupi-Guarani Subgroup IV.A > Parakanã"
+wikidata_id: Q12953804
 wikipedia_url: "https://en.wikipedia.org/wiki/Parakan%C3%A3_language"
 translations:
   - translation_iso: ara

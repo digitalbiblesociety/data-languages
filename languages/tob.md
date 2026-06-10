@@ -7,12 +7,15 @@ population: 31580
 country_id: AR
 country_name: Argentina
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -24.40253
 longitude: -60.447287
 glottocode: toba1269
 glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan
 glottolog_classification: "Guaicuruan > Guaicuru del Sur > Qom > Pilaga-Toba > Toba"
+wikidata_id: Q3113756
 wikipedia_url: "https://en.wikipedia.org/wiki/Toba_Qom_language"
 translations:
   - translation_iso: ara

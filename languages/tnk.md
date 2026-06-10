@@ -7,12 +7,15 @@ population: 3500
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.59545
 longitude: 169.44199
 glottocode: kwam1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Southern Tanna > Kwamera"
+wikidata_id: Q3200806
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwamera_language"
 translations:
   - translation_iso: ara

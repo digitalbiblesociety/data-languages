@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 26.574605
 longitude: 107.239537
 glottocode: gela1264
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Northern Gelao > Gelao Mulao"
+wikidata_id: Q11092831
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulao_language_(Kra)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3780
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -21.70338
 longitude: 165.99607
 glottocode: xara1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Mid-Southern New Caledonian > Xârâcùù"
+wikidata_id: Q3571097
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A2r%C3%A2c%C3%B9%C3%B9"
 translations:
   - translation_iso: ara

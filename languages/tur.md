@@ -1,5 +1,6 @@
 ---
 iso: tur
+iso639_1: tr
 name: Turkish
 autonym: Türkçe
 alt_names: [An Tuircis, Anatolian, Bahsa Tureuki, Durkkagiella, Kituruki, Lìngua turca, Osmanli, Osmanli Turkish, Thú-ngí-khì-ngî, Tinurkiya, Trouk, Turc, Turcu, Turecko godka, Turečtina, Turk tili, Turkeg, Turkek, Turki, Turkiana linguo, Turkiera, Turkish bhasa, Turkish leid, Turkiska, Turks, Turksk, Turku simi, Tyrceg, Tyrkisk, Tyrkneska, Törek tele, Törks, Türk tili, Türkisch, Türkiye-gí, Tırki, Анадолу Түркчөсү, Забони туркӣ, Туркань кяль, Туркойн мотт, Түрк тыла, Төрөк теле, Թուրքերեն, טורקית, توركى, تۈرك تىلى, ܠܫܢܐ ܛܘܪܩܝܐ]
@@ -7,6 +8,8 @@ population: 79400000
 country_id: TR
 country_name: Turkey
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 39.866667
 longitude: 32.866667
 scripts: [Arab, Latn]
@@ -14,6 +17,7 @@ glottocode: nucl1301
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > West Oghuz > Turkish"
+wikidata_id: Q256
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkish_language"
 translations:
   - translation_iso: ara

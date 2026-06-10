@@ -7,12 +7,15 @@ population: 6880
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.52158
 longitude: -106.45285
 glottocode: east1472
 glottolog_family_id: kere1287
 glottolog_family_name: Keresan
 glottolog_classification: "Keresan > Eastern Keres"
+wikidata_id: Q15649021
 translations:
   - translation_iso: ara
     name: لغة كيريس الشرقية

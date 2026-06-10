@@ -7,6 +7,8 @@ population: 2960000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 0.40456
 longitude: 33.3942
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: soga1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > South Kyoga > Soga-Kenyi > Soga"
+wikidata_id: Q33784
 wikipedia_url: "https://en.wikipedia.org/wiki/Soga_language"
 translations:
   - translation_iso: ara

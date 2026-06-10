@@ -7,12 +7,15 @@ population: 130
 country_id: AU
 country_name: Australia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -12.46201
 longitude: 134.82031
 glottocode: djin1253
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Western-Inland Yolngu > Djinang"
+wikidata_id: Q5285350
 wikipedia_url: "https://en.wikipedia.org/wiki/Djinang_language"
 translations:
   - translation_iso: ara

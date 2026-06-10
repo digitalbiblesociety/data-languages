@@ -7,12 +7,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.94317
 longitude: 132.09609
 glottocode: yaha1248
 glottolog_family_id: kond1302
 glottolog_family_name: Konda-Yahadian
 glottolog_classification: "Konda-Yahadian > Yahadian"
+wikidata_id: Q8046778
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahadian_language"
 translations:
   - translation_iso: ara

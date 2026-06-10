@@ -7,12 +7,15 @@ population: 103000
 country_id: TW
 country_name: Taiwan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.32714
 longitude: 120.80566
 glottocode: paiw1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Paiwan"
+wikidata_id: Q715755
 wikipedia_url: "https://en.wikipedia.org/wiki/Paiwan_language"
 translations:
   - translation_iso: ara

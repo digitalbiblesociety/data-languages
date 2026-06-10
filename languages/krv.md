@@ -6,8 +6,11 @@ population: 2380
 country_id: KH
 country_name: Cambodia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.17964
 longitude: 106.58579
+wikidata_id: Q12953649
 translations:
   - translation_iso: ara
     name: كافيت

@@ -6,12 +6,15 @@ population: 1500
 country_id: FM
 country_name: Micronesia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 1
 longitude: 154.67
 glottocode: kapi1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Carolinean Outlier Polynesian > Kapingamarangi"
+wikidata_id: Q35771
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapingamarangi_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 5000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.26979
 longitude: 9.77746
 glottocode: caka1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid B > Caka"
+wikidata_id: Q5018037
 wikipedia_url: "https://en.wikipedia.org/wiki/Caka_language"
 translations:
   - translation_iso: ara

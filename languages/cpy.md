@@ -7,12 +7,15 @@ population: 13000
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -11.221
 longitude: -73.001
 glottocode: sout3127
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Asheninka > South Ucayali Ashéninka"
+wikidata_id: Q3501868
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Ucayali_Ash%C3%A9ninka"
 translations:
   - translation_iso: ara

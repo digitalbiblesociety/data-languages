@@ -7,12 +7,15 @@ population: 84
 country_id: LT
 country_name: Lithuania
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 54.5534
 longitude: 25.10545
 glottocode: kara1464
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Karaim"
+wikidata_id: Q33725
 wikipedia_url: "https://en.wikipedia.org/wiki/Karaim_language"
 translations:
   - translation_iso: ara

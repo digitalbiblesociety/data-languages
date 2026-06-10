@@ -7,12 +7,15 @@ population: 433500
 country_id: GP
 country_name: Guadeloupe
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.49894
 longitude: -61.02281
 glottocode: guad1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Lesser Antillean French Creole > Guadeloupe-Martinique Creole French"
+wikidata_id: Q3006280
 wikipedia_url: "https://en.wikipedia.org/wiki/Guadeloupe_Creole"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.49915
 longitude: 96.94916
 glottocode: geba1237
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Geba-Bwe > Geba Karen"
+wikidata_id: Q12952581
 wikipedia_url: "https://en.wikipedia.org/wiki/Geba_Karen_language"
 translations:
   - translation_iso: ara

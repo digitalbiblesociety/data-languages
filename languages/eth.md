@@ -6,12 +6,15 @@ population: 250000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.9761
 longitude: 38.85339
 glottocode: ethi1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Ethiopian Sign Language"
+wikidata_id: Q3501903
 wikipedia_url: "https://en.wikipedia.org/wiki/Ethiopian_sign_languages"
 translations:
   - translation_iso: ara

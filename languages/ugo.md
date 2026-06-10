@@ -7,12 +7,15 @@ population: 500
 country_id: TH
 country_name: Thailand
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 14.24081
 longitude: 100.09778
 glottocode: ugon1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Ugong"
+wikidata_id: Q3448919
 wikipedia_url: "https://en.wikipedia.org/wiki/Gong_language"
 translations:
   - translation_iso: ara

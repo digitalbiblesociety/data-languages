@@ -7,12 +7,15 @@ population: 30
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -13.55727
 longitude: 130.0399
 glottocode: amii1238
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Maranunggu-Ame-Manda > Ame-Manda > Ami"
+wikidata_id: Q10408315
 wikipedia_url: "https://en.wikipedia.org/wiki/Ami_language_(Australia)"
 translations:
   - translation_iso: ara

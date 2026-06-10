@@ -6,12 +6,15 @@ population: 2825
 country_id: PK
 country_name: Pakistan
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 35.2655
 longitude: 72.68225
 glottocode: bade1240
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Indo-European (Unattested) > Badeshi"
+wikidata_id: Q33028
 wikipedia_url: "https://en.wikipedia.org/wiki/Badeshi"
 translations:
   - translation_iso: ara

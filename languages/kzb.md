@@ -6,12 +6,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.1603
 longitude: 128.21089
 glottocode: kaib1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Kaibobo"
+wikidata_id: Q6347565
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaibobo_language"
 translations:
   - translation_iso: ara

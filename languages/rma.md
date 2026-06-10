@@ -7,12 +7,15 @@ population: 900
 country_id: NI
 country_name: Nicaragua
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 11.50069
 longitude: -83.85714
 glottocode: rama1270
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Votic Chibchan > Rama"
+wikidata_id: Q3444486
 wikipedia_url: "https://en.wikipedia.org/wiki/Rama_language"
 translations:
   - translation_iso: ara

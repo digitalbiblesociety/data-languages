@@ -7,12 +7,15 @@ population: 62000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.52724
 longitude: 3.80058
 glottocode: boko1267
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Bokobaru"
+wikidata_id: Q9228931
 translations:
   - translation_iso: ara
     name: بوكوباروو

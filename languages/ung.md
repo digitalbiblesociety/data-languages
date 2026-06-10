@@ -7,12 +7,15 @@ population: 59
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -16.40063
 longitude: 126.43311
 glottocode: ngar1284
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Ngarinyin"
+wikidata_id: Q1284885
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarinyin_language"
 translations:
   - translation_iso: ara

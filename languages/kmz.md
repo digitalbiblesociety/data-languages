@@ -7,12 +7,15 @@ population: 936000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 36.4438
 longitude: 60.02772
 glottocode: khor1269
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > East Oghuz > Khorasan Turkic"
+wikidata_id: Q35373
 wikipedia_url: "https://en.wikipedia.org/wiki/Khorasani_Turkic"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1400
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 18.31999
 longitude: -99.71143
 glottocode: coat1240
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Western Periphery-North Guerrero Nahuatl > North Guerrero Nahuatl > Coatepec Nahuatl"
+wikidata_id: Q5138605
 wikipedia_url: "https://en.wikipedia.org/wiki/Coatepec_Nahuatl"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.37677
 longitude: 138.93161
 glottocode: kaya1328
 glottolog_family_id: kaya1327
 glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Kaygir-Tamagario > Kayagar"
+wikidata_id: Q6380394
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayagar_language"
 translations:
   - translation_iso: ara

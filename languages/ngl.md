@@ -7,6 +7,8 @@ population: 2520000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -16.03812
 longitude: 37.24366
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lomw1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Lomweic > Mozambique Lomwe"
+wikidata_id: Q35824
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomwe_language"
 translations:
   - translation_iso: ara

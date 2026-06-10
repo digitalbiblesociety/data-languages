@@ -7,12 +7,15 @@ population: 62400
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 22.11383
 longitude: 93.03875
 glottocode: mara1382
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Nuclear Maraic > Mara"
+wikidata_id: Q4175893
 wikipedia_url: "https://en.wikipedia.org/wiki/Mara_language"
 translations:
   - translation_iso: ara

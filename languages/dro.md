@@ -7,12 +7,15 @@ population: 2800
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.54435
 longitude: 111.53563
 glottocode: daro1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Melanau > Daro-Matu Melanau"
+wikidata_id: Q5224156
 wikipedia_url: "https://en.wikipedia.org/wiki/Daro-Matu_language"
 translations:
   - translation_iso: ara

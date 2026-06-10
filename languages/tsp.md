@@ -7,12 +7,15 @@ population: 1000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.13303
 longitude: -4.88274
 glottocode: nort2787
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Tusia > Northern Toussian"
+wikidata_id: Q11155635
 translations:
   - translation_iso: ara
     name: توسيان الشمالية

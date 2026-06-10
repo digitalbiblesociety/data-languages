@@ -7,12 +7,15 @@ population: 50000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.75478
 longitude: -4.92148
 glottocode: nane1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Nanerigé Sénoufo"
+wikidata_id: Q36002
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanerig%C3%A9_language"
 translations:
   - translation_iso: ara

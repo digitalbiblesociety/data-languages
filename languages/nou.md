@@ -7,12 +7,15 @@ population: 12000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.68756
 longitude: 148.40542
 glottocode: ewag1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Ewage-Notu"
+wikidata_id: Q5418860
 wikipedia_url: "https://en.wikipedia.org/wiki/Ewage_language"
 translations:
   - translation_iso: ara

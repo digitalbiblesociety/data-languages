@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -2.85543
 longitude: 128.51611
 glottocode: naka1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Ulat Inai > Naka'ela"
+wikidata_id: Q6960073
 wikipedia_url: "https://en.wikipedia.org/wiki/Naka%CA%BCela_language"
 translations:
   - translation_iso: ara

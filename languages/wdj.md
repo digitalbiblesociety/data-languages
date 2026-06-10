@@ -7,9 +7,12 @@ population: 5
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -12.85959
 longitude: 130.73661
 glottocode: wadj1254
+wikidata_id: Q7959489
 wikipedia_url: "https://en.wikipedia.org/wiki/Wadjiginy_language"
 translations:
   - translation_iso: ara

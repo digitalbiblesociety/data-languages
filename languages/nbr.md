@@ -7,12 +7,15 @@ population: 50000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.16563
 longitude: 8.4657
 glottocode: numa1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Numana"
+wikidata_id: Q5529310
 wikipedia_url: "https://en.wikipedia.org/wiki/Numana_language"
 translations:
   - translation_iso: ara

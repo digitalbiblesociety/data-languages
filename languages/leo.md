@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 4.57457
 longitude: 11.40498
 glottocode: leti1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Sanaga-West Mbam (A.40) > Sanaga (A.60) > Leti (Cameroon)"
+wikidata_id: Q1345684
 wikipedia_url: "https://en.wikipedia.org/wiki/Leti_language_(Cameroon)"
 translations:
   - translation_iso: ara

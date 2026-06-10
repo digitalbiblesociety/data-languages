@@ -4,8 +4,11 @@ name: Bhutanese Sign Language
 autonym: Drukgi Lagdai Khakay
 country_id: BT
 country_name: Bhutan
+scope: individual
+language_type: living
 latitude: 27.48405
 longitude: 89.33058
+wikidata_id: Q19882346
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhutanese_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 30000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.4656
 longitude: 119.87233
 glottocode: kaga1256
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kagayanen"
+wikidata_id: Q6346422
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagayanen_language"
 translations:
   - translation_iso: ara

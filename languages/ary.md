@@ -1,5 +1,6 @@
 ---
 iso: ary
+macrolanguage_id: ara
 name: Moroccan Arabic
 autonym: الدارجة Darija
 alt_names: [Arabe marocain, Arabe marokin, Arabe marroquí, Arabeg Maroko, Arabic, Arabic (Moroccan Spoken), Arabic (Moroccan), Arabic (Western), "Arabic, Moroccan", "Arabic, Moroccan Spoken", Maghrebi Arabic, Maghribi Colloquial Arabic, Marokanski arapski, Marokańska odmiana języka arabskiego, Marokkaans-Arabisch, Marokkanisch-Arabisch, Moroccan, Moroccan Colloquial Arabic, Moroccan Darija, Árabe marroquí, ערבית מרוקאית, لهجة مغربية, مغربى]
@@ -7,6 +8,8 @@ population: 27500000
 country_id: MA
 country_name: Morocco
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 32.5
 longitude: -7.5
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: moro1292
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Moroccan Arabic"
+wikidata_id: Q56426
 wikipedia_url: "https://en.wikipedia.org/wiki/Moroccan_Arabic"
 translations:
   - translation_iso: ara

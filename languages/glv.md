@@ -1,5 +1,6 @@
 ---
 iso: glv
+iso639_1: gv
 name: Manx
 autonym: Manx Gaelic
 alt_names: [Gadhelisch, Gaeilge Mhanann, Gaelg, Gailck, Gaèlic manx, Gaèlico manouès, Godka manx, Gàidhlig Mhanainn, Manaveg, Manaweg, Manisc sprǣc, Manks, Mannois, Manowek, Mansk, Manska, Manx Gaelic leid, Manx-Gaelies, Manx-Gaelisch, Manxera, מאנית, مانكسى]
@@ -7,6 +8,8 @@ population: 1660
 country_id: IM
 country_name: Isle of Man
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 54.26037
 longitude: -4.45437
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: manx1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Goidelic > Modern Goidelic > Eastern Goidelic > Manx"
+wikidata_id: Q12175
 wikipedia_url: "https://en.wikipedia.org/wiki/Manx_language"
 translations:
   - translation_iso: ara

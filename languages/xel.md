@@ -7,12 +7,15 @@ population: 200
 country_id: SD
 country_name: Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.92914
 longitude: 34.3816
 glottocode: kelo1246
 glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Kelo"
+wikidata_id: Q6386412
 wikipedia_url: "https://en.wikipedia.org/wiki/Kelo_language"
 translations:
   - translation_iso: ara

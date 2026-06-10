@@ -7,12 +7,15 @@ population: null
 country_id: PR
 country_name: Puerto Rico
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 18.283605
 longitude: -66.8042
 glottocode: tain1254
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Taino"
+wikidata_id: Q5232952
 wikipedia_url: "https://en.wikipedia.org/wiki/Ta%C3%ADno_language"
 translations:
   - translation_iso: ara

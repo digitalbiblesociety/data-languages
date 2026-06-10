@@ -7,12 +7,15 @@ population: 3000
 country_id: CN
 country_name: China
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 37.98815
 longitude: 101.76214
 glottocode: east2337
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > East Yugur"
+wikidata_id: Q29902
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Yugur_language"
 translations:
   - translation_iso: ara

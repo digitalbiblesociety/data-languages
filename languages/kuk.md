@@ -7,12 +7,15 @@ population: 10600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.58908
 longitude: 120.83973
 glottocode: kepo1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Manggaraiic > Kepo'"
+wikidata_id: Q6393217
 wikipedia_url: "https://en.wikipedia.org/wiki/Kepo%CA%BC_language"
 translations:
   - translation_iso: ara

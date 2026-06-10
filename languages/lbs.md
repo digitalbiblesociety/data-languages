@@ -6,12 +6,15 @@ population: 20000
 country_id: LY
 country_name: Libya
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.512
 longitude: 17.573
 glottocode: liby1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Arab Sign > Libyan Sign Language"
+wikidata_id: Q11775688
 wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Sign_Language"
 translations:
   - translation_iso: ara

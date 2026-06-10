@@ -7,12 +7,15 @@ population: 5130
 country_id: GT
 country_name: Guatemala
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.36484
 longitude: -90.88929
 glottocode: uspa1245
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Uspanteco"
+wikidata_id: Q36728
 wikipedia_url: "https://en.wikipedia.org/wiki/Uspantek_language"
 translations:
   - translation_iso: ara

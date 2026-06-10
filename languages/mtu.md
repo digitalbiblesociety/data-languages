@@ -7,12 +7,15 @@ population: 1020
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.15399
 longitude: -97.55969
 glottocode: tutu1243
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Tututepec Mixtec"
+wikidata_id: Q7857069
 wikipedia_url: "https://en.wikipedia.org/wiki/Tututepec_Mixtec"
 translations:
   - translation_iso: ara

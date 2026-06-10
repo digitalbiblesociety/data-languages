@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -31.71542
 longitude: 118.91114
 glottocode: kala1379
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Kalarko-Mirniny"
+wikidata_id: Q5517764
 wikipedia_url: "https://en.wikipedia.org/wiki/Galaagu_language"
 translations:
   - translation_iso: ara

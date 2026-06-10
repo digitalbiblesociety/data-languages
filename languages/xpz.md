@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -43.373112
 longitude: 147.247925
 glottocode: brun1235
 glottolog_family_id: sout1293
 glottolog_family_name: South-Eastern Tasmanian
 glottolog_classification: "South-Eastern Tasmanian > Bruny Island"
+wikidata_id: Q4979601
 wikipedia_url: "https://en.wikipedia.org/wiki/Bruny_Island_Tasmanian_language"
 translations:
   - translation_iso: ara

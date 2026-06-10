@@ -1,5 +1,6 @@
 ---
 iso: nle
+macrolanguage_id: luy
 name: East Nyala
 autonym: Luyia
 alt_names: ["Nyala, East"]
@@ -7,12 +8,15 @@ population: 227000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.38163
 longitude: 34.66264
 glottocode: east2409
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Saamia-Wanga > Central-Eastern Luyia > Kabarasi-Tachoni-Nyala East > East Nyala"
+wikidata_id: Q25559347
 translations:
   - translation_iso: ara
     name: نييالا الشرقية

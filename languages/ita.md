@@ -1,5 +1,6 @@
 ---
 iso: ita
+iso639_1: it
 name: Italian
 autonym: italiano
 alt_names: [An Iodáilis, Eadailtis, Eidaleg, Fiorentino, Iddaalish, Initalyano, IsItalian, Italek, Italia-gí, Italiaans, Italian leid, Italiana linguo, Italianeg, Italiany, Italiaons, Italieensch, Italien, Italienisch, Italiensk, Italienska, Italiera, Italiian, Italisc sprǣc, Italià, Italjaansk, Italo-Romance, Italsko godka, Italya simi, Itáliagiella, Kiitalia, Lenghe taliane, Lingwa Taljana, Luenga italiana, Lèngoa italiann-a, Tok Itali, Tuscan, Yi-thai-li-ngî, Étalien, Ítalska, İtalyan tili, İtalyanca, Łéngua itałiana, Забони итолиявӣ, Италиень кяль, Итальян йылме, Итальян теле, Իտալերեն, איטאליעניש, איטלקית, ئىتاليان تىلى, اطالوی, لغه طليانى, އިޓަލީ, ইতালীয় ঠার, ཡི་ཏ་ལིའི་སྐད།, 意大利話]
@@ -7,6 +8,8 @@ population: 55000000
 country_id: IT
 country_name: Italy
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 43.046411
 longitude: 12.648925
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: ital1282
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Central Italian Romance > Italian"
+wikidata_id: Q652
 wikipedia_url: "https://en.wikipedia.org/wiki/Italian_language"
 translations:
   - translation_iso: ara

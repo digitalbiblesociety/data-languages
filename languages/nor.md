@@ -1,5 +1,6 @@
 ---
 iso: nor
+iso639_1: "no"
 name: Norwegian
 autonym: norsk
 alt_names: [norvégien]
@@ -7,6 +8,8 @@ population: 5305910
 country_id: "NO"
 country_name: Norway
 status_id: "1"
+scope: macrolanguage
+language_type: living
 latitude: 59.92
 longitude: 10.71
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: norw1258
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > West Scandinavian > Norwegian"
+wikidata_id: Q9043
 wikipedia_url: "https://en.wikipedia.org/wiki/Norwegian_language"
 translations:
   - translation_iso: ara

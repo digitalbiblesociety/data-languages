@@ -7,12 +7,15 @@ population: null
 country_id: SB
 country_name: Solomon Islands
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -10.68653
 longitude: 165.92732
 glottocode: vano1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Lovono"
+wikidata_id: Q3211090
 wikipedia_url: "https://en.wikipedia.org/wiki/Lovono_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 42100
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.02759
 longitude: 119.20134
 glottocode: bamb1270
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Pitu Ulunna Salu > Matangnga-Aralle-Tabulahan > Bambam"
+wikidata_id: Q4853321
 wikipedia_url: "https://en.wikipedia.org/wiki/Bambam_language"
 translations:
   - translation_iso: ara

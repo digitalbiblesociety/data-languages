@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -16.74001
 longitude: 138.02317
 glottocode: nyan1300
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Kayardild-Yangkaal > Yangkaal"
+wikidata_id: Q10604331
 wikipedia_url: "https://en.wikipedia.org/wiki/Yangkaal_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 24.00168
 longitude: 120.58462
 glottocode: babu1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Central Western Plains > Babuza"
+wikidata_id: Q716615
 wikipedia_url: "https://en.wikipedia.org/wiki/Babuza_language"
 translations:
   - translation_iso: ara

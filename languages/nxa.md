@@ -7,12 +7,15 @@ population: 1000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.70733
 longitude: 126.74064
 glottocode: naue1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Nauete"
+wikidata_id: Q6981095
 wikipedia_url: "https://en.wikipedia.org/wiki/Naueti_language"
 translations:
   - translation_iso: ara

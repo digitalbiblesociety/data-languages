@@ -7,6 +7,8 @@ population: 57100
 country_id: YT
 country_name: Mayotte
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.96521
 longitude: 45.13678
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bush1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Kibosy Kiantalaotsy-Majunga"
+wikidata_id: Q5150795
 wikipedia_url: "https://en.wikipedia.org/wiki/Bushi_language"
 translations:
   - translation_iso: ara

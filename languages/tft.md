@@ -7,12 +7,15 @@ population: 42000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.80562
 longitude: 127.33347
 glottocode: tern1247
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Ternatean > Ternate"
+wikidata_id: Q3518492
 wikipedia_url: "https://en.wikipedia.org/wiki/Ternate_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 55100
 country_id: CG
 country_name: Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.710055
 longitude: 15.954575
 glottocode: bomw1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Bomwali"
+wikidata_id: Q34984
 wikipedia_url: "https://en.wikipedia.org/wiki/Bomwali_language"
 translations:
   - translation_iso: ara

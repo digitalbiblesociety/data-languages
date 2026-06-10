@@ -1,5 +1,6 @@
 ---
 iso: nav
+iso639_1: nv
 name: Navajo
 autonym: Diné bizaad
 alt_names: [Diné, Diné simi, "Navac'hoeg", Navachóis, Navaho, Navajóíska, Навахо, נאוואחו]
@@ -7,6 +8,8 @@ population: 300000
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 36.21057
 longitude: -110.08218
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: nava1243
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Apachean > Southwestern Apachean > Western Southwestern Apachean > Navajo"
+wikidata_id: Q13310
 wikipedia_url: "https://en.wikipedia.org/wiki/Navajo_language"
 translations:
   - translation_iso: ara

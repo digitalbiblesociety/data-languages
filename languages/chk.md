@@ -7,6 +7,8 @@ population: 56900
 country_id: FM
 country_name: Micronesia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 7.34083
 longitude: 151.59585
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: chuu1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Central Trukic > Eastern Trukic > Mortlockese-Trukese > Chuukese"
+wikidata_id: Q33161
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuukese_language"
 translations:
   - translation_iso: ara

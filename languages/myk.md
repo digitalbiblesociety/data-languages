@@ -7,12 +7,15 @@ population: 738000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.48714
 longitude: -5.28245
 glottocode: mama1271
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > North Senufo > Mamara Senoufo"
+wikidata_id: Q36187
 wikipedia_url: "https://en.wikipedia.org/wiki/Minyanka_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 400
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -7.4453
 longitude: 139.09633
 glottocode: yelm1242
 glottolog_family_id: bula1259
 glottolog_family_name: Bulaka River
 glottolog_classification: "Bulaka River > Jelmek > Southern Yelmek"
+wikidata_id: Q8052020
 wikipedia_url: "https://en.wikipedia.org/wiki/Yelmek_language"
 translations:
   - translation_iso: ara

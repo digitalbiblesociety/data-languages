@@ -7,12 +7,15 @@ population: 482000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.48224
 longitude: 12.30072
 glottocode: bura1292
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Bura-Pabir"
+wikidata_id: Q56552
 wikipedia_url: "https://en.wikipedia.org/wiki/Bura_language"
 translations:
   - translation_iso: ara

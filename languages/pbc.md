@@ -7,12 +7,15 @@ population: 4700
 country_id: GY
 country_name: Guyana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.75826
 longitude: -59.57716
 glottocode: pata1262
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Kapong > Patamona"
+wikidata_id: Q3915921
 translations:
   - translation_iso: ara
     name: اللغة باتاموناي

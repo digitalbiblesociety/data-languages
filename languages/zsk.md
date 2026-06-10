@@ -6,10 +6,13 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 glottocode: kask1240
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Kaskean"
+wikidata_id: Q6374586
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaskian_language"
 translations:
   - translation_iso: ara

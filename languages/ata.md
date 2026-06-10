@@ -7,9 +7,12 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.58045
 longitude: 151.05018
 glottocode: pele1245
+wikidata_id: Q56511
 wikipedia_url: "https://en.wikipedia.org/wiki/Ata_language"
 translations:
   - translation_iso: ara

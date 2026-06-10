@@ -7,12 +7,15 @@ population: 11
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -20.92352
 longitude: 117.203
 glottocode: ngar1287
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Ngarluma-Kariyarra > Ngarluma"
+wikidata_id: Q7022078
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngarluma_language"
 translations:
   - translation_iso: ara

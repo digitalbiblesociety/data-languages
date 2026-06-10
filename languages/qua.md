@@ -7,12 +7,15 @@ population: 159
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 36.94712
 longitude: -94.66336
 glottocode: quap1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Quapaw"
+wikidata_id: Q3412974
 wikipedia_url: "https://en.wikipedia.org/wiki/Quapaw_language"
 translations:
   - translation_iso: ara

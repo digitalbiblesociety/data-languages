@@ -6,12 +6,15 @@ population: 73000
 country_id: ZW
 country_name: Zimbabwe
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -17.91276
 longitude: 31.02158
 glottocode: zimb1247
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Zimbabwe Sign Language"
+wikidata_id: Q8072097
 wikipedia_url: "https://en.wikipedia.org/wiki/Zimbabwean_sign_languages"
 translations:
   - translation_iso: ara

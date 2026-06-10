@@ -7,12 +7,15 @@ population: 67000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.76747
 longitude: -7.33105
 glottocode: tour1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Dan-Toura > Toura-Goo > Toura (Côte d'Ivoire)"
+wikidata_id: Q7853636
 wikipedia_url: "https://en.wikipedia.org/wiki/Tura_language"
 translations:
   - translation_iso: ara

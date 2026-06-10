@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 0.93149
 longitude: 127.56682
 glottocode: tern1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Ternate-Zamboanga-Cavite > Ternateño"
+wikidata_id: Q7232597
 wikipedia_url: "https://en.wikipedia.org/wiki/Portugis"
 translations:
   - translation_iso: ara

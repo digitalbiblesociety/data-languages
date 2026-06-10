@@ -7,9 +7,12 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -12.93247
 longitude: 131.82455
 glottocode: umbu1235
+wikidata_id: Q2980392
 wikipedia_url: "https://en.wikipedia.org/wiki/Umbugarla_language"
 translations:
   - translation_iso: ara

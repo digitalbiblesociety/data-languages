@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 41.169
 longitude: -76.208
 glottocode: susq1241
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Susquehannock"
+wikidata_id: Q3505736
 wikipedia_url: "https://en.wikipedia.org/wiki/Susquehannock_language"
 translations:
   - translation_iso: ara

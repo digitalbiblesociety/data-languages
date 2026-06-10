@@ -7,12 +7,15 @@ population: 3100
 country_id: CK
 country_name: Cook Islands
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.67
 longitude: -165.58
 glottocode: puka1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Pukapukic > Pukapuka"
+wikidata_id: Q36447
 wikipedia_url: "https://en.wikipedia.org/wiki/Pukapukan_language"
 translations:
   - translation_iso: ara

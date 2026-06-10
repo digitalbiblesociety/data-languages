@@ -7,12 +7,15 @@ population: 8860
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.31277
 longitude: -16.05858
 glottocode: bain1259
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Wolof-BKK > Nyun > Bainounk > Bainounk-Gujaher"
+wikidata_id: Q35508
 translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيونو

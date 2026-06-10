@@ -6,12 +6,15 @@ population: 1340
 country_id: TD
 country_name: Chad
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.30721
 longitude: 18.49058
 glottocode: saba1276
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Saba-Sokoro-Tamki > Saba"
+wikidata_id: Q3914885
 wikipedia_url: "https://en.wikipedia.org/wiki/Saba_language"
 translations:
   - translation_iso: ara

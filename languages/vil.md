@@ -7,9 +7,12 @@ population: null
 country_id: AR
 country_name: Argentina
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -27.40626
 longitude: -58.96612
 glottocode: vile1241
+wikidata_id: Q3409297
 wikipedia_url: "https://en.wikipedia.org/wiki/Vilela_language"
 translations:
   - translation_iso: ara

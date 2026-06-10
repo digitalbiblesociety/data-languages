@@ -1,5 +1,6 @@
 ---
 iso: ron
+iso639_1: ro
 name: Romanian
 autonym: "Daco-Romanian"
 alt_names: [An Rómáinis, Balkan Romance, Daco-Rumanian, Errumaniera, Fiteny romana, Kiromania, Moldavan, Moldavian, Moldovan, Roemeens, Roemeensk, Romaanish, Roman tili, Romanès, Romanés, Romániagiella, România-gí, Română, Roumain, Roumaneg, Roumanek, Roumanian, Roumen, Roumin, Rumanian, Rumaniana linguo, Rumano, Rumanu, Rumanya simi, Rumence, Rumensk, Rumunikani chhib, Rumänisch, Rumänska, Rumäänsche Spraak, Rumænsk, Rumǣnisc sprǣc, Rwmaneg, Ròmainis, Rúmenska, moldave, Łéngoa rumena, Румын йылме, Ռումիներեն, רומנית, רומעניש, رومانى, رۇمىنىيە تىلى]
@@ -7,6 +8,8 @@ population: 24300000
 country_id: RO
 country_name: Romania
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 46.391292
 longitude: 24.22557
 scripts: [Cyrl, Latn]
@@ -14,6 +17,7 @@ glottocode: roma1327
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Northern Romanian > Eastern Romanian > Romanian"
+wikidata_id: Q7913
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_language"
 translations:
   - translation_iso: ara

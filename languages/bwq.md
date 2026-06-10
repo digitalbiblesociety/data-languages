@@ -7,12 +7,15 @@ population: 181000
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.54087
 longitude: -4.26497
 glottocode: sout2840
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Bobo > Southern Bobo Madaré"
+wikidata_id: Q11001714
 translations:
   - translation_iso: ara
     name: جنوب بوبو مادري

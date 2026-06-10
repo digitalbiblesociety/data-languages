@@ -7,12 +7,15 @@ population: 251500
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.869705
 longitude: 21.41641
 glottocode: ruun1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Lunda-Ruund-Kete > Ruund-Kete > Ruund"
+wikidata_id: Q7383564
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruund_language"
 translations:
   - translation_iso: ara

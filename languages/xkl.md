@@ -7,12 +7,15 @@ population: 52000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.54443
 longitude: 114.0389
 glottocode: main1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Kenyahic > Highland Kenyah > Usun Apau Kenyah"
+wikidata_id: Q6736761
 wikipedia_url: "https://en.wikipedia.org/wiki/Mainstream_Kenyah_language"
 translations:
   - translation_iso: ara

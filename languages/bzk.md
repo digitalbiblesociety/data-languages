@@ -7,12 +7,15 @@ population: 18400
 country_id: NI
 country_name: Nicaragua
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.44018
 longitude: -83.73859
 glottocode: nica1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > Belize-Miskito Creole English > Nicaragua Creole English"
+wikidata_id: Q3504097
 wikipedia_url: "https://en.wikipedia.org/wiki/Miskito_Coast_Creole"
 translations:
   - translation_iso: ara

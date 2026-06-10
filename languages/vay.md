@@ -7,12 +7,15 @@ population: 1740
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.30471
 longitude: 86.12266
 glottocode: wayu1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Northwestern Kiranti > Wayu"
+wikidata_id: Q7917585
 wikipedia_url: "https://en.wikipedia.org/wiki/Vayu_language"
 translations:
   - translation_iso: ara

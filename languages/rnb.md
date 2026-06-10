@@ -3,12 +3,15 @@ iso: rnb
 name: Brunca Sign Language
 country_id: CR
 country_name: Costa Rica
+scope: individual
+language_type: living
 latitude: 9.978549
 longitude: -84.821363
 glottocode: brun1247
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Brunca Sign Language"
+wikidata_id: Q4978850
 wikipedia_url: "https://en.wikipedia.org/wiki/Brunca_Sign_Language"
 translations:
   - translation_iso: ara

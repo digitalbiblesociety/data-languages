@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -9.68333
 longitude: 147.44999
 glottocode: mula1254
 glottolog_family_id: kwal1257
 glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Mulaha"
+wikidata_id: Q6933720
 wikipedia_url: "https://en.wikipedia.org/wiki/Mulaha_language"
 translations:
   - translation_iso: ara

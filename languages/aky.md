@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 12.73253
 longitude: 92.78661
 glottocode: akak1253
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okol-Opucikwar > Akakol"
+wikidata_id: Q3436784
 wikipedia_url: "https://en.wikipedia.org/wiki/Okol_language"
 translations:
   - translation_iso: ara

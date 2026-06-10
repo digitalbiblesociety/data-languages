@@ -7,12 +7,15 @@ population: 74400
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.06515
 longitude: 36.51761
 glottocode: hame1242
 glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > AHK > Hamer-Karo > Hamer-Banna"
+wikidata_id: Q35764
 wikipedia_url: "https://en.wikipedia.org/wiki/Hamer_language"
 translations:
   - translation_iso: ara

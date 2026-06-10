@@ -7,12 +7,15 @@ population: 40000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.52193
 longitude: 8.35562
 glottocode: liji1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Jilic-Eggonic > Jilic > Lijili"
+wikidata_id: Q3914497
 wikipedia_url: "https://en.wikipedia.org/wiki/Jili_language"
 translations:
   - translation_iso: ara

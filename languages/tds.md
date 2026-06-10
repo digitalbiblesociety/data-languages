@@ -7,12 +7,15 @@ population: 335
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.24832
 longitude: 138.21961
 glottocode: dout1240
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Doutai-Kai-Waritai > Doutai"
+wikidata_id: Q5302331
 wikipedia_url: "https://en.wikipedia.org/wiki/Doutai_language"
 translations:
   - translation_iso: ara

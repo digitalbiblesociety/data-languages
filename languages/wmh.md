@@ -7,12 +7,15 @@ population: 3000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.53416
 longitude: 126.31696
 glottocode: waim1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Kawaimina > Waima'a"
+wikidata_id: Q7960132
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimoa_language"
 translations:
   - translation_iso: ara

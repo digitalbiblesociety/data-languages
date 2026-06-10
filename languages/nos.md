@@ -7,12 +7,15 @@ population: 75000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 23.98431
 longitude: 102.69404
 glottocode: east2349
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nisu-Nyisu > Nisu > Nuclear Nisu > Northern Nisu > North-Central Nisu"
+wikidata_id: Q25559419
 translations:
   - translation_iso: ara
     name: نيسو الشرقية

@@ -6,12 +6,15 @@ population: 10000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.656
 longitude: 113.391
 glottocode: biao1253
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Lakkia-Biao > Biaoic > Shidong Biao"
+wikidata_id: Q4902547
 wikipedia_url: "https://en.wikipedia.org/wiki/Biao_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1100000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -24.83273
 longitude: 34.10973
 glottocode: chop1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Chopi (S.60) > Chopi"
+wikidata_id: Q3437616
 wikipedia_url: "https://en.wikipedia.org/wiki/Chopi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 96300
 country_id: KE
 country_name: Kenya
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.27065
 longitude: 37.36078
 glottocode: rend1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Rendille"
+wikidata_id: Q3447297
 wikipedia_url: "https://en.wikipedia.org/wiki/Rendille_language"
 translations:
   - translation_iso: ara

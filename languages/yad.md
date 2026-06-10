@@ -7,12 +7,15 @@ population: 5300
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.42913
 longitude: -72.21864
 glottocode: yagu1244
 glottolog_family_id: peba1241
 glottolog_family_name: Peba-Yagua
 glottolog_classification: "Peba-Yagua > Yagua"
+wikidata_id: Q3182567
 wikipedia_url: "https://en.wikipedia.org/wiki/Yagua_language"
 translations:
   - translation_iso: ara

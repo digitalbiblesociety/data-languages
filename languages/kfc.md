@@ -7,12 +7,15 @@ population: 60700
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.26754
 longitude: 82.93402
 glottocode: kond1295
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Konda-Kui > Konda-Dora"
+wikidata_id: Q35679
 wikipedia_url: "https://en.wikipedia.org/wiki/Konda_language_(Dravidian)"
 translations:
   - translation_iso: ara

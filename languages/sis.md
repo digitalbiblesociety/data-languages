@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 42.51107
 longitude: -124.3786
 glottocode: sius1254
+wikidata_id: Q2315424
 wikipedia_url: "https://en.wikipedia.org/wiki/Siuslaw_language"
 translations:
   - translation_iso: ara

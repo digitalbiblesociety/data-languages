@@ -7,12 +7,15 @@ population: 7000
 country_id: NG
 country_name: Nigeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 9.79715
 longitude: 10.92061
 glottocode: hone1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Jukunoid > Central Jukunoid > Jukun-Mbembe-Wurbo > Jukun > Kororofa > Kona > Hõne"
+wikidata_id: Q5964576
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%B5ne_language"
 translations:
   - translation_iso: ara

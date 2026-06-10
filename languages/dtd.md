@@ -7,12 +7,15 @@ population: null
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 48.67
 longitude: -124.75
 glottocode: diti1235
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Makah-Nitinat > Ditidaht"
+wikidata_id: Q13728042
 wikipedia_url: "https://en.wikipedia.org/wiki/Ditidaht_language"
 translations:
   - translation_iso: ara

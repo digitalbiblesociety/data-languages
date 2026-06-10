@@ -7,12 +7,15 @@ population: 25500
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.26818
 longitude: 26.71977
 glottocode: asoa1238
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Mangbetu-Asua > Mangbetuic > Asoa"
+wikidata_id: Q56296
 wikipedia_url: "https://en.wikipedia.org/wiki/Asoa_language"
 translations:
   - translation_iso: ara

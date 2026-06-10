@@ -7,12 +7,15 @@ population: 300000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.37832
 longitude: 7.95163
 glottocode: hyam1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Hyamic > Hyam"
+wikidata_id: Q35403
 wikipedia_url: "https://en.wikipedia.org/wiki/Hyam_language"
 translations:
   - translation_iso: ara

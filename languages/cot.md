@@ -7,12 +7,15 @@ population: 300
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.48125
 longitude: -73.44506
 glottocode: caqu1242
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Caquinte"
+wikidata_id: Q3915557
 wikipedia_url: "https://en.wikipedia.org/wiki/Caquinte_language"
 translations:
   - translation_iso: ara

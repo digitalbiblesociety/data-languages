@@ -7,12 +7,15 @@ population: 51900
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.748
 longitude: 121.3
 glottocode: salu1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Batui-Saluan > Saluan"
+wikidata_id: Q12953867
 wikipedia_url: "https://en.wikipedia.org/wiki/Saluan_language"
 translations:
   - translation_iso: ara

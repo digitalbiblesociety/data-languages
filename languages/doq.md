@@ -6,12 +6,15 @@ population: 32000
 country_id: DO
 country_name: Dominican Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.87983
 longitude: -71.17218
 glottocode: domi1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Dominican Sign Language"
+wikidata_id: Q5290820
 wikipedia_url: "https://en.wikipedia.org/wiki/Dominican_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2014
 country_id: AR
 country_name: Argentina
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -54
 longitude: -68.5
 glottocode: onaa1245
 glottolog_family_id: chon1288
 glottolog_family_name: Chonan
 glottolog_classification: "Chonan > Nuclear Chonan > Insular Chonan > Selk'nam"
+wikidata_id: Q2721227
 wikipedia_url: "https://en.wikipedia.org/wiki/Selk%CA%BCnam_language"
 translations:
   - translation_iso: ara

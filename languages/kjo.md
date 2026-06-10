@@ -7,12 +7,15 @@ population: 6330
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.784
 longitude: 77.064
 glottocode: hari1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Indo-Aryan Kinnauri"
+wikidata_id: Q5657463
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahari_Kinnauri_language"
 translations:
   - translation_iso: ara

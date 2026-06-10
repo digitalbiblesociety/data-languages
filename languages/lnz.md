@@ -6,8 +6,11 @@ population: 300
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.61444
 longitude: 16.72588
+wikidata_id: Q11002185
 translations:
   - translation_iso: ara
     name: لغة ونزو

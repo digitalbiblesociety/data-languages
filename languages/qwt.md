@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 46.111979
 longitude: -123.209332
 glottocode: kwal1258
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Kwalhioqua-Clatskanie"
+wikidata_id: Q20641
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwalhioqua%E2%80%93Clatskanie_language"
 translations:
   - translation_iso: ara

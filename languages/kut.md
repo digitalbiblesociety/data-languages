@@ -7,10 +7,13 @@ population: 100
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 48.789195
 longitude: -115.064765
 scripts: [Latn]
 glottocode: kute1249
+wikidata_id: Q33434
 wikipedia_url: "https://en.wikipedia.org/wiki/Kutenai_language"
 translations:
   - translation_iso: ara

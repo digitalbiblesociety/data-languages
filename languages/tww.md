@@ -7,12 +7,15 @@ population: 122
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.80315
 longitude: 142.09522
 glottocode: tuwa1242
 glottolog_family_id: wali1264
 glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Tuwari"
+wikidata_id: Q7857159
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuwari_language"
 translations:
   - translation_iso: ara

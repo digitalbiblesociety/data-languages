@@ -7,12 +7,15 @@ population: 268900
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.104755
 longitude: 9.058755
 glottocode: boky1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bokyi"
+wikidata_id: Q35087
 wikipedia_url: "https://en.wikipedia.org/wiki/Bokyi_language"
 translations:
   - translation_iso: ara

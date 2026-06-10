@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 39.27685
 longitude: -121.60762
 glottocode: yana1271
+wikidata_id: Q56419
 wikipedia_url: "https://en.wikipedia.org/wiki/Yana_language"
 translations:
   - translation_iso: ara

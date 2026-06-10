@@ -7,12 +7,15 @@ population: 2200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.86129
 longitude: 148.82509
 glottocode: solo1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > West Arawe > Solong"
+wikidata_id: Q7558834
 wikipedia_url: "https://en.wikipedia.org/wiki/Solong_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 58.5
 longitude: 92
 glottocode: pump1237
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Pumpokol"
+wikidata_id: Q2991985
 wikipedia_url: "https://en.wikipedia.org/wiki/Pumpokol_language"
 translations:
   - translation_iso: ara

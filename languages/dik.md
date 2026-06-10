@@ -1,5 +1,6 @@
 ---
 iso: dik
+macrolanguage_id: din
 name: Southwestern Dinka
 autonym: Thuɔŋjäŋ
 alt_names: [Dinka, "Dinka, Southwestern", Rek, West-Dinka, Western Dinka]
@@ -7,12 +8,15 @@ population: 1370000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 8.81115
 longitude: 28.06131
 glottocode: sout2832
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Southwestern Dinka"
+wikidata_id: Q36540
 translations:
   - translation_iso: ara
     name: ساوثويسترن دينكا

@@ -7,6 +7,8 @@ population: 463500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.112165
 longitude: 125.527665
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tetu1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Tetunic > Tetum"
+wikidata_id: Q34125
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetun_language"
 translations:
   - translation_iso: ara

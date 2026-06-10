@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.93238
 longitude: 142.5676
 glottocode: turu1250
 glottolog_family_id: doso1238
 glottolog_family_name: Doso-Turumsa
 glottolog_classification: "Doso-Turumsa > Turumsa"
+wikidata_id: Q7856508
 wikipedia_url: "https://en.wikipedia.org/wiki/Turumsa_language"
 translations:
   - translation_iso: ara

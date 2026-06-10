@@ -7,6 +7,8 @@ population: 82960
 country_id: UA
 country_name: Ukraine
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 48.717115
 longitude: 22.95787
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: rusy1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > East Slavic > Ukrainian-Rusyn > Rusyn"
+wikidata_id: Q26245
 wikipedia_url: "https://en.wikipedia.org/wiki/Rusyn_language"
 translations:
   - translation_iso: ara

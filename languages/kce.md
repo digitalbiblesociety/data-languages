@@ -6,12 +6,15 @@ population: 2320
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.43276
 longitude: 8.10795
 glottocode: kaiv1238
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Kaivi"
+wikidata_id: Q6348685
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaivi_language"
 translations:
   - translation_iso: ara

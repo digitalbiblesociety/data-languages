@@ -7,12 +7,15 @@ population: 3900
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.28361
 longitude: -94.57383
 glottocode: sanf1258
 glottolog_family_id: huav1256
 glottolog_family_name: Huavean
 glottolog_classification: "Huavean > San Francisco-Santa María Huave > San Francisco del Mar Huave"
+wikidata_id: Q25559715
 translations:
   - translation_iso: ara
     name: لغة هوافي سان فرانسيسكو ديل مار

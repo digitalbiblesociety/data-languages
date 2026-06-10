@@ -1,5 +1,6 @@
 ---
 iso: qul
+macrolanguage_id: que
 name: North Bolivian Quechua
 autonym: North La Paz Quechua
 alt_names: [Bolivia Quechua, Bolivian Quechua, Boliviano, Northern Bolivian Quechua, Quechua (Bolivian), Quechua boliviano meridional, Quechua boliviano septentrional, Quechua bolivien du nord, Quechua bolivien du sud, "Quechua, North Bolivian"]
@@ -7,12 +8,15 @@ population: 116000
 country_id: BO
 country_name: Bolivia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: -14.40136
 longitude: -68.78939
 glottocode: nort2976
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Bolivian-Argentinian Quechua > North Bolivian Quechua"
+wikidata_id: Q3409819
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Bolivian_Quechua"
 translations:
   - translation_iso: ara

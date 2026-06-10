@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -16.180953
 longitude: 141.608491
 glottocode: kokn1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kok-Nar"
+wikidata_id: Q6426526
 wikipedia_url: "https://en.wikipedia.org/wiki/Kok-Nar_language"
 translations:
   - translation_iso: ara

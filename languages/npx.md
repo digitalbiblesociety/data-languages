@@ -6,6 +6,9 @@ population: 5000
 country_id: SB
 country_name: Solomon Islands
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63283617
 wikipedia_url: "https://en.wikipedia.org/wiki/Noip%C3%A4_language"
 translations:
   - translation_iso: ara

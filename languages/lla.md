@@ -7,12 +7,15 @@ population: 46000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.89429
 longitude: 12.16902
 glottocode: lala1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bena-Mboi > Bena > Lala-Roba"
+wikidata_id: Q3914878
 wikipedia_url: "https://en.wikipedia.org/wiki/Lala-Roba_language"
 translations:
   - translation_iso: ara

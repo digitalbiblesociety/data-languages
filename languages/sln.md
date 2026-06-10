@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 37.66462
 longitude: -121.71773
 glottocode: sali1253
+wikidata_id: Q1568938
 wikipedia_url: "https://en.wikipedia.org/wiki/Salinan_language"
 translations:
   - translation_iso: ara

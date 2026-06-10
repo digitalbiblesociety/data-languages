@@ -7,7 +7,10 @@ population: 2700000
 country_id: MA
 country_name: Morocco
 status_id: "1"
+scope: individual
+language_type: living
 scripts: [Tfng]
+wikidata_id: Q7598268
 wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh"
 translations:
   - translation_iso: ara

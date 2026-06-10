@@ -7,6 +7,9 @@ population: null
 country_id: IE
 country_name: Ireland
 status_id: "9"
+scope: individual
+language_type: historical
+wikidata_id: Q36116
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Irish"
 translations:
   - translation_iso: ara

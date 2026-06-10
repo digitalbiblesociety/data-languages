@@ -7,6 +7,8 @@ population: 87100
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 43.59168
 longitude: 46.66178
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: noga1249
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > South Kipchak > Nogai"
+wikidata_id: Q33871
 wikipedia_url: "https://en.wikipedia.org/wiki/Nogai_language"
 translations:
   - translation_iso: ara

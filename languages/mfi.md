@@ -7,12 +7,15 @@ population: 43500
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.316935
 longitude: 13.899635
 glottocode: wand1278
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Wandala-Malgwa-Glavda > Wandala-Malgwa > Wandala"
+wikidata_id: Q3441249
 wikipedia_url: "https://en.wikipedia.org/wiki/Wandala_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 2000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 48.42
 longitude: -122.52874
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lush1252
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > Lushootseed-Puget > Northern Lushootseed"
+wikidata_id: Q33658
 wikipedia_url: "https://en.wikipedia.org/wiki/Lushootseed"
 translations:
   - translation_iso: ara

@@ -6,6 +6,9 @@ population: null
 country_id: FR
 country_name: France
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q500522
 wikipedia_url: "https://en.wikipedia.org/wiki/Aquitanian_language"
 translations:
   - translation_iso: ara

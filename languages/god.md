@@ -7,12 +7,15 @@ population: 26400
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.3944
 longitude: -5.82696
 glottocode: godi1239
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Godié"
+wikidata_id: Q3914412
 wikipedia_url: "https://en.wikipedia.org/wiki/Godi%C3%A9_language"
 translations:
   - translation_iso: ara

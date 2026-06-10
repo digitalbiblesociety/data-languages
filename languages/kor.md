@@ -1,5 +1,6 @@
 ---
 iso: kor
+iso639_1: ko
 name: Korean
 autonym: 한국어
 alt_names: [An Chóiréis, Chaoxian, Chosen·, Corean, Coreanu, Coreà, Coréen, Corëeg, Hanguk Mal, Hanguohua, Hankul, IsiKoriya, Koreaans, Koreana linguo, Koreaneg, Koreanisch, Koreano, Koreansk, Koreanska, Korece, Koreek, Koreera, Korêyî, Kuriya simi, Kòrejańsczi jãzëk, Kóreska, Tsêu-siên-ngî, Urkoreanisch, Забони кореягӣ, Кэриэй тыла, Կորեերեն, קוריאנית, كورىيەچە, ކޮރެޔާ ބަސް, ᎪᎵᎥ, ᑯᕆᐊᑎᑐᑦ/kuriatituq, 朝鮮話, 韓文]
@@ -7,6 +8,8 @@ population: 77300000
 country_id: KR
 country_name: South Korea
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 37.5
 longitude: 128
 scripts: [Kore]
@@ -14,6 +17,7 @@ glottocode: kore1280
 glottolog_family_id: kore1284
 glottolog_family_name: Koreanic
 glottolog_classification: "Koreanic > Korean"
+wikidata_id: Q9176
 wikipedia_url: "https://en.wikipedia.org/wiki/Korean_language"
 translations:
   - translation_iso: ara

@@ -6,9 +6,12 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -8.25
 longitude: 118
 glottocode: tamb1257
+wikidata_id: Q36711
 wikipedia_url: "https://en.wikipedia.org/wiki/Tambora_language"
 translations:
   - translation_iso: ara

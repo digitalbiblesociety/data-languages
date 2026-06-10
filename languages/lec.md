@@ -7,9 +7,12 @@ population: 20
 country_id: BO
 country_name: Bolivia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -15.00921
 longitude: -67.88181
 glottocode: leco1242
+wikidata_id: Q2625398
 wikipedia_url: "https://en.wikipedia.org/wiki/Leco_language"
 translations:
   - translation_iso: ara

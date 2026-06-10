@@ -7,9 +7,12 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -7.13333
 longitude: 143.11666
 glottocode: kara1497
+wikidata_id: Q11732281
 wikipedia_url: "https://en.wikipedia.org/wiki/Karami_language"
 translations:
   - translation_iso: ara

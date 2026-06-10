@@ -7,12 +7,15 @@ population: 3830
 country_id: VN
 country_name: Vietnam
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 17.68191
 longitude: 105.77322
 glottocode: chut1247
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Chut"
+wikidata_id: Q2967709
 wikipedia_url: "https://en.wikipedia.org/wiki/Chut_languages"
 translations:
   - translation_iso: ara

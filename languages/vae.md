@@ -7,12 +7,15 @@ population: 5400
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.49943
 longitude: 18.55852
 glottocode: vale1250
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Nduga-Luto > Vale"
+wikidata_id: Q3450194
 wikipedia_url: "https://en.wikipedia.org/wiki/Vale_language"
 translations:
   - translation_iso: ara

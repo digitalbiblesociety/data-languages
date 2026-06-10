@@ -7,12 +7,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.64917
 longitude: 141.52007
 glottocode: wara1294
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Eastern Tonda > Anta-Komnzo-Wára-Wérè-Kémä"
+wikidata_id: Q11732474
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Morehead_language"
 translations:
   - translation_iso: ara

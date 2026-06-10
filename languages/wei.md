@@ -7,12 +7,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.42194
 longitude: 142.44711
 glottocode: were1244
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Were"
+wikidata_id: Q7983230
 wikipedia_url: "https://en.wikipedia.org/wiki/Were_language"
 translations:
   - translation_iso: ara

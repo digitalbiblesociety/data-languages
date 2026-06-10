@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -3.40779
 longitude: 128.52599
 glottocode: kama1362
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Kamarian"
+wikidata_id: Q6356040
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamarian_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 4000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.7094
 longitude: 119.34941
 glottocode: saru1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Uma-Sarudu > Sarudu"
+wikidata_id: Q7424700
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarudu_language"
 translations:
   - translation_iso: ara

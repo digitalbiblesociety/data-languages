@@ -1,5 +1,6 @@
 ---
 iso: gan
+macrolanguage_id: zho
 name: Gan Chinese
 autonym: Gann
 alt_names: ["Chinese, Gan", "Chinese,Gan", Chino gan, Chinu gang, Chinês gan, Gan, Gan Dialect Family, Gan kineski, Gan language, Gan-Hakka, Gan-kiina, Ganeg, Ganish, Gàn, Gàn, Kan, Kàm-gí, Kàm-ngî, Гань, Ґань, كن, 江西話]
@@ -7,6 +8,8 @@ population: 22100000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.98958
 longitude: 115.16585
 scripts: [Hans]
@@ -14,6 +17,7 @@ glottocode: ganc1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Gan Chinese"
+wikidata_id: Q33475
 wikipedia_url: "https://en.wikipedia.org/wiki/Gan_Chinese"
 translations:
   - translation_iso: ara

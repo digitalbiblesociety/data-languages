@@ -7,12 +7,15 @@ population: 42500
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 3.56039
 longitude: 30.55598
 glottocode: keli1248
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Kalikoic > Keliko"
+wikidata_id: Q11275553
 wikipedia_url: "https://en.wikipedia.org/wiki/Keliko_language"
 translations:
   - translation_iso: ara

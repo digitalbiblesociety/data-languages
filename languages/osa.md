@@ -7,6 +7,8 @@ population: 11000
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 36.78282
 longitude: -96.29489
 scripts: [Latn, Osge]
@@ -14,6 +16,7 @@ glottocode: osag1243
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Osage-Kansa > Osage"
+wikidata_id: Q2600085
 wikipedia_url: "https://en.wikipedia.org/wiki/Osage_language"
 translations:
   - translation_iso: ara

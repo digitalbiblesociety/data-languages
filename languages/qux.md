@@ -1,5 +1,6 @@
 ---
 iso: qux
+macrolanguage_id: que
 name: Yauyos Quechua
 autonym: Huangáscar–Topará
 alt_names: [Huangascar-Topara-Yauyos Quechua, Huangascar-Topará, Quechua, Quechua de Yauyos, Quechua de Yauyos., "Quechua, Yauyos", Yauyos, Yauyos Kechua]
@@ -7,12 +8,15 @@ population: 6500
 country_id: PE
 country_name: Peru
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -13.11443
 longitude: -75.76589
 glottocode: yauy1235
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Yauyosic > Yauyos Quechua"
+wikidata_id: Q36964
 wikipedia_url: "https://en.wikipedia.org/wiki/Yauyos_Quechua"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.3679
 longitude: 132.59118
 glottocode: maib1239
 glottolog_family_id: mayb1237
 glottolog_family_name: Maybratic
 glottolog_classification: "Maybratic > Maybrat"
+wikidata_id: Q4830892
 wikipedia_url: "https://en.wikipedia.org/wiki/Maybrat_language"
 translations:
   - translation_iso: ara

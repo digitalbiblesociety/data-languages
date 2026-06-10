@@ -7,12 +7,15 @@ population: 290
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -5.78403
 longitude: -64.28035
 glottocode: paum1247
 glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Paumari"
+wikidata_id: Q389827
 wikipedia_url: "https://en.wikipedia.org/wiki/Paumar%C3%AD_language"
 translations:
   - translation_iso: ara

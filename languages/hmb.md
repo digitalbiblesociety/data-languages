@@ -7,12 +7,15 @@ population: 25000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.29481
 longitude: -1.69301
 glottocode: humb1243
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Humburi Senni Songhay"
+wikidata_id: Q35486
 wikipedia_url: "https://en.wikipedia.org/wiki/Humburi_Senni_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 113000
 country_id: LR
 country_name: Liberia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 6.423
 longitude: -10.52836
 glottocode: libe1240
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > English-based pidgin > Kru Pidgin English"
+wikidata_id: Q6541128
 wikipedia_url: "https://en.wikipedia.org/wiki/Liberian_Kreyol"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 3410
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.54137
 longitude: 150.83581
 glottocode: gale1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Dobu-Duau linkage > Boselewa-Galeya > Galeya"
+wikidata_id: Q5518509
 wikipedia_url: "https://en.wikipedia.org/wiki/Galeya_language"
 translations:
   - translation_iso: ara

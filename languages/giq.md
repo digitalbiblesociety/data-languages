@@ -7,12 +7,15 @@ population: 300
 country_id: VN
 country_name: Vietnam
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 22.5632
 longitude: 104.69783
 glottocode: gree1278
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Southwestern Gelao > Hagei Gelao"
+wikidata_id: Q12953525
 wikipedia_url: "https://en.wikipedia.org/wiki/Hagei_language"
 translations:
   - translation_iso: ara

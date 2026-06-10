@@ -7,12 +7,15 @@ population: 2000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.24877
 longitude: 6.74865
 glottocode: basa1281
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Basa > Kontagora-Gumna-Koromba > Basa-Gurmana"
+wikidata_id: Q6432515
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromba_language"
 translations:
   - translation_iso: ara

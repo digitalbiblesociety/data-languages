@@ -7,12 +7,15 @@ population: 84300
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.37869
 longitude: 37.2737
 glottocode: gaww1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Transversal Lowland East Cushitic > Dullay > Ale-Gawwada"
+wikidata_id: Q3032135
 wikipedia_url: "https://en.wikipedia.org/wiki/Ale_language"
 translations:
   - translation_iso: ara

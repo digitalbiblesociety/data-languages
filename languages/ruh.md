@@ -6,12 +6,15 @@ population: 10
 country_id: IN
 country_name: India
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 25.506
 longitude: 91.469
 glottocode: ruga1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Ruga"
+wikidata_id: Q7378127
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruga_language"
 translations:
   - translation_iso: ara

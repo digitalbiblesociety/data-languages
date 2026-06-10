@@ -7,12 +7,15 @@ population: 5000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 27.81965
 longitude: 95.81309
 glottocode: phak1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Sukaphic > Mogaung > Assam Tai A > Phake"
+wikidata_id: Q7675798
 wikipedia_url: "https://en.wikipedia.org/wiki/Phake_language"
 translations:
   - translation_iso: ara

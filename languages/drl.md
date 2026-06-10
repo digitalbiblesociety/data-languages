@@ -7,12 +7,15 @@ population: 110
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -32.70212
 longitude: 142.69519
 glottocode: darl1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yarli-Baagandji > Paakantyi"
+wikidata_id: Q5223941
 wikipedia_url: "https://en.wikipedia.org/wiki/Paakantyi_language"
 translations:
   - translation_iso: ara

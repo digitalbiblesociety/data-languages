@@ -7,12 +7,15 @@ population: 72000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.87615
 longitude: -6.84428
 glottocode: nyab1255
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Nyabwa"
+wikidata_id: Q33664
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyabwa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 940
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.70693
 longitude: 147.56221
 glottocode: hume1246
 glottolog_family_id: kwal1257
 glottolog_family_name: Kwalean
 glottolog_classification: "Kwalean > Humene-Kwale > Humene"
+wikidata_id: Q11732231
 wikipedia_url: "https://en.wikipedia.org/wiki/Humene_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -28.17608
 longitude: 117.15302
 glottocode: waja1257
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Kartu-Nhanda > Kartu > Wajarri"
+wikidata_id: Q3913856
 wikipedia_url: "https://en.wikipedia.org/wiki/Wajarri_language"
 translations:
   - translation_iso: ara

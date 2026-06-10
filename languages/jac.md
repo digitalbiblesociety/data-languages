@@ -7,12 +7,15 @@ population: 33130
 country_id: GT
 country_name: Guatemala
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.66095
 longitude: -91.66327
 glottocode: popt1235
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Kanjobal-Jacaltec > Popti'"
+wikidata_id: Q33393
 wikipedia_url: "https://en.wikipedia.org/wiki/Jakaltek_language"
 translations:
   - translation_iso: ara

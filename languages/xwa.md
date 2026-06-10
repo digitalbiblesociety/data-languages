@@ -7,9 +7,12 @@ population: 54
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.666667
 longitude: -61.183333
 glottocode: kwaz1243
+wikidata_id: Q3200839
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwaza_language"
 translations:
   - translation_iso: ara

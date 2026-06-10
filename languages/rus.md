@@ -1,5 +1,6 @@
 ---
 iso: rus
+iso639_1: ru
 name: Russian
 autonym: русский язык
 alt_names: [Biʼééʼ Łichííʼí bizaad, Eluosi, Errusiera, Fiteny rosy, Great Russian, IsiRashiya, Kirusi, Lang ris, Lō͘-se-a-gí, Ngò-ngî, Olossu, Rinuso, Rinusyan, Rooshish, Roushie leid, Ruiseis, Ruoššagiella, Rus, Rus tili, Rushan, Rusiana linguo, Rusianeg, Rusikani chhib, Ruski, Rusko godka, Ruso, Rusojska rěc, Russ, Russe, Russek, Russesch, Russi bhasa, Russies, Russisc sprǣc, Russisch, Russisk, Russit, Russki, Russo, Russysk, Russ’sche Spraak, Rusu, Rusu simi, Rusça, Rwseg, Ryska, Rúisis, Rússneska, Rüss, Tok Rasia, Urıs tele, Vinne kiil, rukybau, ГІурус мацI, Забони Русӣ, Нуучча тыла, Орсин келн, Оьрус маз, Роу́сьскъ ѩꙁꙑ́къ, Рузонь кель, Рузонь кяль, Руш йылме, Урыҫ теле, Ӟуч кыл, Ռուսերեն, רוסיש, רוסית, روسى, روسی, رۇس تىلى, زمانی ڕووسی, ܠܫܢܐ ܪܘܣܝܐ, ރޫސީ, ཨུ་རུ་སུའི་སྐད།, 俄文, 𐍂𐌿𐍃𐌰𐍂𐌰𐌶𐌳𐌰]
@@ -7,6 +8,8 @@ population: 154000000
 country_id: RU
 country_name: Russia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 53.919516
 longitude: 72.392575
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: russ1263
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > East Slavic > Russian"
+wikidata_id: Q7737
 wikipedia_url: "https://en.wikipedia.org/wiki/Russian_language"
 translations:
   - translation_iso: ara

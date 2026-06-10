@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.66632
 longitude: 139.24945
 glottocode: yaqa1246
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Yaqayic > Yaqay"
+wikidata_id: Q8049134
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaqay_language"
 translations:
   - translation_iso: ara

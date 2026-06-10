@@ -7,12 +7,15 @@ population: 910
 country_id: PY
 country_name: Paraguay
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -25.58653
 longitude: -56.46968
 glottocode: ache1246
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Aché"
+wikidata_id: Q383701
 wikipedia_url: "https://en.wikipedia.org/wiki/Ach%C3%A9_language"
 translations:
   - translation_iso: ara

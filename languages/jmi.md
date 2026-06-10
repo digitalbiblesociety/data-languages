@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.72987
 longitude: 9.8118
 glottocode: jimi1255
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Jimi (Nigeria)"
+wikidata_id: Q3502308
 wikipedia_url: "https://en.wikipedia.org/wiki/Jimi_language_(Nigeria)"
 translations:
   - translation_iso: ara

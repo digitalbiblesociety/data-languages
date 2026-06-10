@@ -7,12 +7,15 @@ population: 318000
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.324485
 longitude: -10.33767
 glottocode: sout2778
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mel > Southern Mel > Kissi > Southern Kisi"
+wikidata_id: Q11028974
 translations:
   - translation_iso: ara
     name: كيسي الجنوبية

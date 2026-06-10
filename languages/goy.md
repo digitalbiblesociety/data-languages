@@ -7,12 +7,15 @@ population: 30
 country_id: TD
 country_name: Chad
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 9.46683
 longitude: 16.25498
 glottocode: goun1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Kim-Besme-Goundo > Goundo"
+wikidata_id: Q317636
 wikipedia_url: "https://en.wikipedia.org/wiki/Goundo_language"
 translations:
   - translation_iso: ara

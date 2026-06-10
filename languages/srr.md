@@ -7,6 +7,8 @@ population: 1712300
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 13.8941
 longitude: -16.39165
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sere1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Sereer"
+wikidata_id: Q36284
 wikipedia_url: "https://en.wikipedia.org/wiki/Serer_language"
 translations:
   - translation_iso: ara

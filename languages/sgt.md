@@ -7,12 +7,15 @@ population: 2000
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.34381
 longitude: 91.99717
 glottocode: brok1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Brokpake"
+wikidata_id: Q56603
 wikipedia_url: "https://en.wikipedia.org/wiki/Brokpa_language"
 translations:
   - translation_iso: ara

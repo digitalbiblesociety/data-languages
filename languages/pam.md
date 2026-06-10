@@ -7,6 +7,8 @@ population: 2049670
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 14.96027
 longitude: 120.50183
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: pamp1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Pampanga"
+wikidata_id: Q36121
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapampangan_language"
 translations:
   - translation_iso: ara

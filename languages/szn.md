@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.30765
 longitude: 125.9656
 glottocode: sula1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > West Central Maluku > Sula-Buru > Sula"
+wikidata_id: Q3503403
 wikipedia_url: "https://en.wikipedia.org/wiki/Sula_language"
 translations:
   - translation_iso: ara

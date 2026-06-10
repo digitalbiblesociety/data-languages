@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -9.08
 longitude: -63.848
 glottocode: urum1250
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Ramarama > Urumi"
+wikidata_id: Q7901530
 wikipedia_url: "https://en.wikipedia.org/wiki/Urumi_language"
 translations:
   - translation_iso: ara

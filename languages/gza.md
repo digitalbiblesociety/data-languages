@@ -7,12 +7,15 @@ population: 5400
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.29907
 longitude: 35.13733
 glottocode: ganz1246
 glottolog_family_id: maoo1243
 glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > West Mao > Ganza"
+wikidata_id: Q5521556
 wikipedia_url: "https://en.wikipedia.org/wiki/Ganza_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 99200
 country_id: GB
 country_name: United Kingdom
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 39
 longitude: -78
 glottocode: angl1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Anglo-Northwestern Romani > British Romani > Archaic Angloromani"
+wikidata_id: Q541279
 wikipedia_url: "https://en.wikipedia.org/wiki/Angloromani"
 translations:
   - translation_iso: ara

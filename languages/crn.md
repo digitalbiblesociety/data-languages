@@ -7,12 +7,15 @@ population: 5370
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.40993
 longitude: -104.46744
 glottocode: elna1235
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Coran > El Nayar Cora"
+wikidata_id: Q12953454
 translations:
   - translation_iso: ara
     name: إل نايار كورا

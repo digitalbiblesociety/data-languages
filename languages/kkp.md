@@ -7,12 +7,15 @@ population: 18
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -15.42958
 longitude: 141.63541
 glottocode: gugu1254
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Coastal Southwest Paman > Dhawa-Kaber > Gugubera"
+wikidata_id: Q6426699
 wikipedia_url: "https://en.wikipedia.org/wiki/Koko-Bera_language"
 translations:
   - translation_iso: ara

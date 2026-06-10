@@ -7,12 +7,15 @@ population: 331700
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 1.479565
 longitude: 109.467415
 glottocode: kend1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Western Malayic Dayak > Kendayan-Belangin"
+wikidata_id: Q6388963
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendayan_language"
 translations:
   - translation_iso: ara

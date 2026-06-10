@@ -7,12 +7,15 @@ population: 1600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.76483
 longitude: 139.88989
 glottocode: orya1242
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Orya"
+wikidata_id: Q7105295
 wikipedia_url: "https://en.wikipedia.org/wiki/Orya_language"
 translations:
   - translation_iso: ara

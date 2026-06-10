@@ -7,12 +7,15 @@ population: 16500
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.26897
 longitude: 124.7923
 glottocode: kama1365
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > Central Alor > Abuic > Kamang"
+wikidata_id: Q8029096
 wikipedia_url: "https://en.wikipedia.org/wiki/Woisika_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.14063
 longitude: 8.66137
 glottocode: hash1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Hasha-Sambe > Hasha"
+wikidata_id: Q3915338
 wikipedia_url: "https://en.wikipedia.org/wiki/Hasha_language"
 translations:
   - translation_iso: ara

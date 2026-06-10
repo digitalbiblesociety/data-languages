@@ -7,12 +7,15 @@ population: 1200
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 51.70454
 longitude: -127.22139
 glottocode: heil1246
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Kwakiutlan > Heiltsuk-Oowekyala"
+wikidata_id: Q5699507
 wikipedia_url: "https://en.wikipedia.org/wiki/Heiltsuk%E2%80%93Oowekyala_language"
 translations:
   - translation_iso: ara

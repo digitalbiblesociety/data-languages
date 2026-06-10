@@ -7,12 +7,15 @@ population: 2000
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.97039
 longitude: 107.860385
 glottocode: hala1253
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Unclassified Kayong-Jeh-Halang > Halang Doan"
+wikidata_id: Q3914632
 wikipedia_url: "https://en.wikipedia.org/wiki/Duan_language_(Austroasiatic)"
 translations:
   - translation_iso: ara

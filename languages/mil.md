@@ -7,12 +7,15 @@ population: 5500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.06713
 longitude: -97.01013
 glottocode: peno1244
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Tlazoyal-Penoles > Peñoles Mixtec"
+wikidata_id: Q42411307
 translations:
   - translation_iso: ara
     name: لغة مازاتك بينيوليس

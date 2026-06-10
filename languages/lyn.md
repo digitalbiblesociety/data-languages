@@ -7,12 +7,15 @@ population: 12114
 country_id: ZM
 country_name: Zambia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -15.22208
 longitude: 18.80369
 glottocode: luya1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Greater Luyana > Eastern Greater Luyana > Luyi"
+wikidata_id: Q3268098
 wikipedia_url: "https://en.wikipedia.org/wiki/Luyana_language"
 translations:
   - translation_iso: ara

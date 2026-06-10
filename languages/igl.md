@@ -6,12 +6,15 @@ population: 1540000
 country_id: NG
 country_name: Nigeria
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.34325
 longitude: 7.17974
 glottocode: igal1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Igala"
+wikidata_id: Q35513
 wikipedia_url: "https://en.wikipedia.org/wiki/Igala_language"
 translations:
   - translation_iso: ara

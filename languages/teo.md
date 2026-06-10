@@ -7,6 +7,8 @@ population: 2778000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 1.18321
 longitude: 33.939385
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: teso1249
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Teso-Turkana > Teso"
+wikidata_id: Q29474
 wikipedia_url: "https://en.wikipedia.org/wiki/Teso_language"
 translations:
   - translation_iso: ara

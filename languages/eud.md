@@ -5,12 +5,15 @@ autonym: Dóhmenerít
 alt_names: [Dohema, Endeve, Heve, Opata-Eudeve, Opatan]
 country_id: MX
 country_name: Mexico
+scope: individual
+language_type: extinct
 latitude: 28.5
 longitude: -110
 glottocode: eude1234
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Opata-Eudeve > Eudeve"
+wikidata_id: Q7887299
 wikipedia_url: "https://en.wikipedia.org/wiki/Eudeve_language"
 translations:
   - translation_iso: ara

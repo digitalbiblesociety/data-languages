@@ -7,12 +7,15 @@ population: 17000
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.75845
 longitude: -98.52413
 glottocode: azoy1236
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Subtiaba-Tlapanec > Mephaa > Azoyú Me'phaa"
+wikidata_id: Q25559730
 translations:
   - translation_iso: ara
     name: ميفاع أزويو

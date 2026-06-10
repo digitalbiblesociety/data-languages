@@ -7,6 +7,8 @@ population: 2320000
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 36.24096
 longitude: 52.30089
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: maza1291
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Caspian > Mazanderani-Shahmirzadi > Mazanderani"
+wikidata_id: Q13356
 wikipedia_url: "https://en.wikipedia.org/wiki/Mazanderani_language"
 translations:
   - translation_iso: ara

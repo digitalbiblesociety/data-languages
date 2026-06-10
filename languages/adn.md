@@ -6,12 +6,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.18958
 longitude: 124.44812
 glottocode: adan1251
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > Nuclear Alor-Pantar > West Alor-Straits-Pantar > West Alor > Adang"
+wikidata_id: Q3398276
 wikipedia_url: "https://en.wikipedia.org/wiki/Adang_language"
 translations:
   - translation_iso: ara

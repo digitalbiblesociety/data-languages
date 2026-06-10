@@ -6,12 +6,15 @@ population: 8000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.53277
 longitude: 142.1046
 glottocode: auuu1241
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Au-Olo-Elkei > Au"
+wikidata_id: Q3446608
 wikipedia_url: "https://en.wikipedia.org/wiki/Au_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 6
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 31.75
 longitude: -91.33
 glottocode: natc1249
+wikidata_id: Q3111838
 wikipedia_url: "https://en.wikipedia.org/wiki/Natchez_language"
 translations:
   - translation_iso: ara

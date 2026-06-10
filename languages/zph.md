@@ -1,5 +1,6 @@
 ---
 iso: zph
+macrolanguage_id: zap
 name: Totomachapan Zapotec
 autonym: (San Pedro Totomachápam)
 alt_names: [Central Sapoteko, Totomachapam, Totomachapan, Western Zimatlán Zapotec, Zapotec, "Zapotec, Totomachapan", Zapoteco de San Felipe Tejalápam, Zapoteco de San Pedro Totomachapan, Zapotèque de San Felipe Tejalapan]
@@ -7,12 +8,15 @@ population: 1009
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 16.85537
 longitude: -97.08235
 glottocode: toto1308
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > West Zapotec > Totomachapan Zapotec"
+wikidata_id: Q7828390
 wikipedia_url: "https://en.wikipedia.org/wiki/Totomachapan_Zapotec"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20730
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.82181
 longitude: -15.920185
 glottocode: mans1259
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Mansoanka"
+wikidata_id: Q35814
 wikipedia_url: "https://en.wikipedia.org/wiki/Sua_language"
 translations:
   - translation_iso: ara

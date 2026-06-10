@@ -7,12 +7,15 @@ population: 1120
 country_id: MY
 country_name: Malaysia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 3.7519
 longitude: 114.4338
 glottocode: muri1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Kayan-Murik-Modang > Kayan-Murik > Murik (Malaysia)"
+wikidata_id: Q3328150
 wikipedia_url: "https://en.wikipedia.org/wiki/Murik_Kayan_language"
 translations:
   - translation_iso: ara

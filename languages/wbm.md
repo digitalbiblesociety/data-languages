@@ -7,12 +7,15 @@ population: 40700
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.10242
 longitude: 99.108045
 glottocode: nucl1290
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > Zhenkang Wa"
+wikidata_id: Q12644869
 translations:
   - translation_iso: ara
     name: وا

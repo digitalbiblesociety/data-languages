@@ -7,12 +7,15 @@ population: 50000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -8.58405
 longitude: 125.58265
 glottocode: tetu1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Eastern Timor > Central Timoric A > Tetunic > Tetun Dili"
+wikidata_id: Q12643484
 translations:
   - translation_iso: ara
     name: تيتون ديلي

@@ -7,6 +7,8 @@ population: 48900
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.11127
 longitude: 1.601685
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: anii1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Basila-Adele > Anii"
+wikidata_id: Q34838
 wikipedia_url: "https://en.wikipedia.org/wiki/Anii_language"
 translations:
   - translation_iso: ara

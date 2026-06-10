@@ -7,12 +7,15 @@ population: 10000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.383
 longitude: 68.368
 glottocode: gher1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Unclassified Western Hindi > Ghera-Gurgula > Ghera"
+wikidata_id: Q22808992
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghera_language"
 translations:
   - translation_iso: ara

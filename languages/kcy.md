@@ -7,12 +7,15 @@ population: 3000
 country_id: DZ
 country_name: Algeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 29.49571
 longitude: -2.48113
 glottocode: kora1291
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Korandje"
+wikidata_id: Q33427
 wikipedia_url: "https://en.wikipedia.org/wiki/Korandje_language"
 translations:
   - translation_iso: ara

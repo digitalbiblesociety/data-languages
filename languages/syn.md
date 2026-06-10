@@ -6,8 +6,11 @@ population: 460
 country_id: IR
 country_name: Iran
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 35.77764
 longitude: 51.43631
+wikidata_id: Q33914
 wikipedia_url: "https://en.wikipedia.org/wiki/Christian_Neo-Aramaic_dialect_of_Senaya"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 130
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 47.66312
 longitude: -102.37579
 glottocode: mand1446
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mandan"
+wikidata_id: Q1957120
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandan_language"
 translations:
   - translation_iso: ara

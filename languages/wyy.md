@@ -7,12 +7,15 @@ population: 18500
 country_id: FJ
 country_name: Fiji
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -17.83546
 longitude: 177.6574
 glottocode: west2519
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Western Fijian > Western Viti Levu-Yasawas Fijian"
+wikidata_id: Q3062751
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Fijian_language"
 translations:
   - translation_iso: ara

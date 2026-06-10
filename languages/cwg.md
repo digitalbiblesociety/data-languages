@@ -7,12 +7,15 @@ population: 660
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.83331
 longitude: 102.08116
 glottocode: chew1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Chewong"
+wikidata_id: Q646718
 wikipedia_url: "https://en.wikipedia.org/wiki/Cheq_Wong_language"
 translations:
   - translation_iso: ara

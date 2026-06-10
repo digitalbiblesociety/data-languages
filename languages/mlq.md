@@ -1,5 +1,6 @@
 ---
 iso: mlq
+macrolanguage_id: man
 name: Western Maninkakan
 autonym: Western Maninka
 alt_names: [Malinka, Malinke, Maninga, Maninka, Maninka (Western), Maninka-Western, Maninkakan (Western), "Maninkakan, Western", Northwestern Maninka, Western Malinke]
@@ -7,12 +8,15 @@ population: 2067260
 country_id: SN
 country_name: Senegal
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 13.56771
 longitude: -12.80088
 glottocode: west2500
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Xasonka > Western Maninkakan"
+wikidata_id: Q11028033
 translations:
   - translation_iso: ara
     name: لغة مانينكاكان الغربية

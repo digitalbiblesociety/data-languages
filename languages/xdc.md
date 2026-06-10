@@ -6,12 +6,15 @@ population: null
 country_id: RO
 country_name: Romania
 status_id: null
+scope: individual
+language_type: historical
 latitude: 46.2
 longitude: 23.3
 glottocode: daci1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Dacian"
+wikidata_id: Q682547
 wikipedia_url: "https://en.wikipedia.org/wiki/Dacian_language"
 translations:
   - translation_iso: ara

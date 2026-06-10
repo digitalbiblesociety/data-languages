@@ -7,12 +7,15 @@ population: 40
 country_id: JM
 country_name: Jamaica
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 17.99968
 longitude: -76.93205
 glottocode: jama1256
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Jamaican Country Sign Language"
+wikidata_id: Q6127418
 wikipedia_url: "https://en.wikipedia.org/wiki/Jamaican_Country_Sign_Language"
 translations:
   - translation_iso: ara

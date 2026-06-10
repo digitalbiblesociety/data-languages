@@ -7,12 +7,15 @@ population: 12500
 country_id: GT
 country_name: Guatemala
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 15.33066
 longitude: -91.31529
 glottocode: agua1252
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Mamean > Ixilan > Aguacateco"
+wikidata_id: Q35091
 wikipedia_url: "https://en.wikipedia.org/wiki/Awakatek_language"
 translations:
   - translation_iso: ara

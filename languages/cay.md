@@ -7,6 +7,8 @@ population: 3000
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 42.814285
 longitude: -79.44236
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: cayu1261
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Cayuga"
+wikidata_id: Q32967
 wikipedia_url: "https://en.wikipedia.org/wiki/Cayuga_language"
 translations:
   - translation_iso: ara

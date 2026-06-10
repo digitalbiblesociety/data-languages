@@ -7,12 +7,15 @@ population: 2300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.39399
 longitude: 155.74205
 glottocode: koro1313
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > South Nasioi > Koromira"
+wikidata_id: Q6432520
 wikipedia_url: "https://en.wikipedia.org/wiki/Koromira_language"
 translations:
   - translation_iso: ara

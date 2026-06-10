@@ -7,12 +7,15 @@ population: 54400
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.66002
 longitude: 70.43166
 glottocode: nort2666
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Pashayi > Eastern Pashayi > Northeast Pashayi"
+wikidata_id: Q12642198
 translations:
   - translation_iso: ara
     name: لغة نورثيست باشاي

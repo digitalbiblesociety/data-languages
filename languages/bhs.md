@@ -7,12 +7,15 @@ population: 7000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.61513
 longitude: 13.88377
 glottocode: buwa1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Buwal-Gavar > Buwal"
+wikidata_id: Q3515065
 wikipedia_url: "https://en.wikipedia.org/wiki/Buwal_language"
 translations:
   - translation_iso: ara

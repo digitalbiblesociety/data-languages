@@ -7,12 +7,15 @@ population: 12540
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.69618
 longitude: -67.50277
 glottocode: curr1243
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Baniwa-Curripaco-Tariano > Baniwa-Curripaco > Curripaco"
+wikidata_id: Q2882543
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurripako_language"
 translations:
   - translation_iso: ara

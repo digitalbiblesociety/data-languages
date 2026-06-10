@@ -7,6 +7,8 @@ population: 258000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.725115
 longitude: 84.63006
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: koch1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Kochila Tharu"
+wikidata_id: Q22083826
 wikipedia_url: "https://en.wikipedia.org/wiki/Kochila_Tharu"
 translations:
   - translation_iso: ara

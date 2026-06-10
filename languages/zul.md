@@ -1,5 +1,6 @@
 ---
 iso: zul
+iso639_1: zu
 name: Zulu
 autonym: isiZulu
 alt_names: [Kingoni, Kizulu, Lala, Ngoni, Språket zulu, Swlw, SíZulu, Súlúis, Sûloe, Zoeloe, Zoulou, Zulu simi, Zuluera, Zulum, Zunda, Зулу, زۇلۇچە]
@@ -7,6 +8,8 @@ population: 12100000
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -25.330502
 longitude: 31.351174
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: zulu1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Zulu"
+wikidata_id: Q10179
 wikipedia_url: "https://en.wikipedia.org/wiki/Zulu_language"
 translations:
   - translation_iso: ara

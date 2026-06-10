@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.5803
 longitude: 140.1793
 glottocode: nucl1633
 glottolog_family_id: nimb1257
 glottolog_family_name: Nimboranic
 glottolog_classification: "Nimboranic > Nimboran"
+wikidata_id: Q301116
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimboran_language"
 translations:
   - translation_iso: ara

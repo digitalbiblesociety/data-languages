@@ -7,12 +7,15 @@ population: 3500
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.64493
 longitude: 138.89162
 glottocode: tama1336
 glottolog_family_id: kaya1327
 glottolog_family_name: Kayagaric
 glottolog_classification: "Kayagaric > Kaygir-Tamagario > Tamagario"
+wikidata_id: Q7680531
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamagario_language"
 translations:
   - translation_iso: ara

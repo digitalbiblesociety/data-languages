@@ -7,6 +7,8 @@ population: 250000
 country_id: DE
 country_name: Germany
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 50.947
 longitude: 6.927
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kols1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Middle Franconian > Ripuarian > Kölsch"
+wikidata_id: Q4624
 wikipedia_url: "https://en.wikipedia.org/wiki/Colognian_dialect"
 translations:
   - translation_iso: ara

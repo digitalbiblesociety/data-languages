@@ -6,12 +6,15 @@ alt_names: [Yangon Sign Language, Yangoon Myanmar Sign Language]
 population: 270000
 country_id: MM
 country_name: Myanmar
+scope: individual
+language_type: living
 latitude: 16.78599
 longitude: 96.13867
 glottocode: yang1309
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Myanmar Sign > Yangon Myanmar Sign Language"
+wikidata_id: Q17027255
 wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_sign_language"
 translations:
   - translation_iso: ara

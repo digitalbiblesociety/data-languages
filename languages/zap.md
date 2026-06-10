@@ -6,7 +6,10 @@ population: 777000
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q13214
 wikipedia_url: "https://en.wikipedia.org/wiki/Zapotec_languages"
 translations:
   - translation_iso: ara

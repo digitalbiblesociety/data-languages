@@ -1,5 +1,6 @@
 ---
 iso: mlt
+iso639_1: mt
 name: Maltese
 autonym: Malti
 alt_names: [An Mháltais, Arabic, Kimalta, Lingwa Maltija, Malta, Malta simi, Malta-gí, Maltaca, Maltais, Maltana linguo, Maltańsko godka, Maltees, Malteesk, Malteg, Maltera, Maltesisk, Maltesiska, Maltish, Maltneska, Maltès, Maltés, bangrmalti, מלטית, مالتا تىلى, مالطى]
@@ -7,6 +8,8 @@ population: 533080
 country_id: MT
 country_name: Malta
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 35.8884
 longitude: 14.45082
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: malt1254
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Malta-Tunisian Arabic > Maltese"
+wikidata_id: Q9166
 wikipedia_url: "https://en.wikipedia.org/wiki/Maltese_language"
 translations:
   - translation_iso: ara

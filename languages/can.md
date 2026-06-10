@@ -7,12 +7,15 @@ population: 1700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.27831
 longitude: 143.09697
 glottocode: cham1313
 glottolog_family_id: lowe1423
 glottolog_family_name: Lower Sepik
 glottolog_classification: "Lower Sepik > Chambri"
+wikidata_id: Q5069707
 wikipedia_url: "https://en.wikipedia.org/wiki/Chambri_language"
 translations:
   - translation_iso: ara

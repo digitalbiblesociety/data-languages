@@ -7,12 +7,15 @@ population: 403
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -7.46909
 longitude: -73.07577
 glottocode: poya1241
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Poyanawa Subgroup > Poyanáwa"
+wikidata_id: Q3401023
 wikipedia_url: "https://en.wikipedia.org/wiki/Poyanawa_language"
 translations:
   - translation_iso: ara

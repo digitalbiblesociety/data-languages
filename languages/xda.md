@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -33.11470744
 longitude: 150.4952383
 glottocode: hawk1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > New South Wales Pama-Nyungan > Yuin-Kuri > Kuri > Sydney-Hawkesbury > Hawkesbury"
+wikidata_id: Q5223660
 wikipedia_url: "https://en.wikipedia.org/wiki/Darkinjung_language"
 translations:
   - translation_iso: ara

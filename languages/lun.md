@@ -7,6 +7,8 @@ population: 403000
 country_id: ZM
 country_name: Zambia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -11.179277
 longitude: 23.866193
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lund1266
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Ruund-Salampasu > Lunda-Ruund-Kete > Lunda"
+wikidata_id: Q33607
 wikipedia_url: "https://en.wikipedia.org/wiki/Lunda_language"
 translations:
   - translation_iso: ara

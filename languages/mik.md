@@ -7,12 +7,15 @@ population: 290
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.08142
 longitude: -80.90847
 glottocode: mika1239
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Mikasuki"
+wikidata_id: Q13316
 wikipedia_url: "https://en.wikipedia.org/wiki/Mikasuki_language"
 translations:
   - translation_iso: ara

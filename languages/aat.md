@@ -1,5 +1,6 @@
 ---
 iso: aat
+macrolanguage_id: sqi
 name: Arvanitika Albanian
 autonym: arbërishtαρbε̰ρίσ̈τ
 alt_names: [Albanesisch, Albanian, "Albanian, Arvanitika", Arber, Arberichte, Arbresh, Arnaut, Arvaniteg, Arvanitic, Arvanitico, Arvanitika, Arvanitiska, Arvaníska, Shqipēri, Shquipni, Škip]
@@ -7,12 +8,15 @@ population: 150000
 country_id: GR
 country_name: Greece
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 38.28299
 longitude: 23.37034
 glottocode: arva1236
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Albanian-Tosk > Southern Tosk > Arvanitika Albanian"
+wikidata_id: Q29347
 wikipedia_url: "https://en.wikipedia.org/wiki/Arvanitika"
 translations:
   - translation_iso: ara

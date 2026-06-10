@@ -7,12 +7,15 @@ population: 63600
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.22358
 longitude: 109.54741
 glottocode: caom1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Mulam-Kam > Kamic > Northern Kam > Cao Miao"
+wikidata_id: Q2936935
 wikipedia_url: "https://en.wikipedia.org/wiki/Cao_Miao_language"
 translations:
   - translation_iso: ara

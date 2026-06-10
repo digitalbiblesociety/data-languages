@@ -7,12 +7,15 @@ population: 2000
 country_id: MY
 country_name: Malaysia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.13257
 longitude: 101.47651
 glottocode: sema1266
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Semai"
+wikidata_id: Q3135426
 wikipedia_url: "https://en.wikipedia.org/wiki/Semai_language"
 translations:
   - translation_iso: ara

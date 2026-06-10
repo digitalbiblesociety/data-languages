@@ -7,12 +7,15 @@ population: 2710
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.83003
 longitude: 142.47056
 glottocode: heyo1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Heyo-Yahang > Heyo"
+wikidata_id: Q3504295
 wikipedia_url: "https://en.wikipedia.org/wiki/Heyo_language"
 translations:
   - translation_iso: ara

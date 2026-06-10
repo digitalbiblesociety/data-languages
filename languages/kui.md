@@ -7,12 +7,15 @@ population: 1110
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.3035
 longitude: -53.22611
 glottocode: kuik1246
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Kuikuroan > Nuclear Kuikuroan > Kuikúro-Kalapálo"
+wikidata_id: Q3915522
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuik%C3%BAro_language"
 translations:
   - translation_iso: ara

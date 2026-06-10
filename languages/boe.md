@@ -7,12 +7,15 @@ population: 1000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.59969
 longitude: 10.27042
 glottocode: mund1328
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Yemne-Kimbi > Ji > Mundabli-Mufu"
+wikidata_id: Q36127
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundabli-Mufu_language"
 translations:
   - translation_iso: ara

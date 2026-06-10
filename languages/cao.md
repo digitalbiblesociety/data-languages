@@ -7,12 +7,15 @@ population: 550
 country_id: BO
 country_name: Bolivia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -12.13298
 longitude: -66.71641
 glottocode: chac1251
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Bolivian Nawa > Chácobo"
+wikidata_id: Q2591202
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%C3%A1cobo_language"
 translations:
   - translation_iso: ara

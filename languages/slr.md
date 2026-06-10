@@ -7,12 +7,15 @@ population: 130000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.54568
 longitude: 102.81943
 glottocode: sala1264
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Salar"
+wikidata_id: Q33963
 wikipedia_url: "https://en.wikipedia.org/wiki/Salar_language"
 translations:
   - translation_iso: ara

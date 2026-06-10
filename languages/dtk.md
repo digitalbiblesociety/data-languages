@@ -7,12 +7,15 @@ population: 127000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.06755
 longitude: -3.37158
 glottocode: tene1248
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Western Plains Dogon > Tengou-Togo Dogon"
+wikidata_id: Q11018863
 translations:
   - translation_iso: ara
     name: تيني كان دوجون

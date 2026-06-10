@@ -7,12 +7,15 @@ population: 260000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.075455
 longitude: 119.379615
 glottocode: sout2918
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Sulu-Borneo > Inner Sulu Sama > Southern Sama"
+wikidata_id: Q3470594
 translations:
   - translation_iso: ara
     name: اللغة سما الجنوبية

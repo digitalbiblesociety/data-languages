@@ -7,12 +7,15 @@ population: 21000
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.55849
 longitude: -76.58197
 glottocode: guam1248
 glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Coconucan > Guambiano"
+wikidata_id: Q2744745
 wikipedia_url: "https://en.wikipedia.org/wiki/Guambiano_language"
 translations:
   - translation_iso: ara

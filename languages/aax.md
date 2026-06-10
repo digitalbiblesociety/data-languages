@@ -7,12 +7,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.69357
 longitude: 140.62376
 glottocode: mand1444
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Awyu-Dumut > Dumut > Mandobo > Mandobo Atas"
+wikidata_id: Q12636156
 translations:
   - translation_iso: ara
     name: لغة ماندوبو أتاس

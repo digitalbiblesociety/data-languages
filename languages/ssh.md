@@ -1,5 +1,6 @@
 ---
 iso: ssh
+macrolanguage_id: ara
 name: Shihhi Arabic
 autonym: "Al-Shihuh"
 alt_names: [Arabic, "Arabic, Shihhi", "Arabic, Shihhi Spoken", Shihhi, Shihhi arapski, Shihu, Shihuh, Árabe chíji]
@@ -7,12 +8,15 @@ population: 36900
 country_id: AE
 country_name: United Arab Emirates
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.93902
 longitude: 56.171125
 glottocode: shih1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Dhofaric > Ru'us al-Jibal"
+wikidata_id: Q56571
 wikipedia_url: "https://en.wikipedia.org/wiki/Shihhi_Arabic"
 translations:
   - translation_iso: ara

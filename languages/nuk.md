@@ -7,12 +7,15 @@ population: 280
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 49.67
 longitude: -126.67
 glottocode: nuuc1236
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Southern Wakashan > Nuu-chah-nulth"
+wikidata_id: Q2992876
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuu-chah-nulth_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 278000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.32008
 longitude: 119.30028
 glottocode: cuyo1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Kuyan > Cuyonon"
+wikidata_id: Q33153
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuyonon_language"
 translations:
   - translation_iso: ara

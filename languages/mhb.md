@@ -7,12 +7,15 @@ population: 1000
 country_id: GA
 country_name: Gabon
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 0.64356
 longitude: 14.04725
 glottocode: maho1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bantu B20A > Kotaic > Kota-Mahongwe > Mahongwe"
+wikidata_id: Q35816
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahongwe_language"
 translations:
   - translation_iso: ara

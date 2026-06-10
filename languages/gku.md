@@ -6,12 +6,15 @@ population: null
 country_id: ZA
 country_name: South Africa
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -28.11
 longitude: 24.86
 glottocode: dans1240
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > !Ui > Ghaap-Kalahari > Danster !Ui"
+wikidata_id: Q105627498
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%82Ungkue_language"
 translations:
   - translation_iso: ara

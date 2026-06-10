@@ -7,12 +7,15 @@ population: 30000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 16.66464
 longitude: 121.11348
 glottocode: tuwa1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Ifugaw > Tuwali Ifugao"
+wikidata_id: Q7857158
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuwali_language"
 translations:
   - translation_iso: ara

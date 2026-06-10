@@ -7,12 +7,15 @@ population: 1200
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.36931
 longitude: 131.21812
 glottocode: sege1235
 glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > Seget-Moi > Seget"
+wikidata_id: Q7446237
 wikipedia_url: "https://en.wikipedia.org/wiki/Seget_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6500
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.739145
 longitude: -72.628105
 glottocode: mats1244
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mayoruna Branch > Mayo Group > Matses subgroup > Matsés"
+wikidata_id: Q2981620
 wikipedia_url: "https://en.wikipedia.org/wiki/Mats%C3%A9s_language"
 translations:
   - translation_iso: ara

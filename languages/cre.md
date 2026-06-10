@@ -1,12 +1,16 @@
 ---
 iso: cre
+iso639_1: cr
 name: Cree
 autonym: "ᐃᔨᔨᐤ ᐊᔨᒧᐎᓐ'"
 population: 10875
 country_id: US
 country_name: United States
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cans, Latn]
+wikidata_id: Q33390
 wikipedia_url: "https://en.wikipedia.org/wiki/Cree_language"
 translations:
   - translation_iso: ara

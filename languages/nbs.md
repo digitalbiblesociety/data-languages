@@ -6,12 +6,15 @@ population: 8310
 country_id: NA
 country_name: Namibia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -22.6
 longitude: 17.048
 glottocode: nami1249
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > South African Sign > Namibian Sign Language"
+wikidata_id: Q6961792
 wikipedia_url: "https://en.wikipedia.org/wiki/Namibian_Sign_Language"
 translations:
   - translation_iso: ara

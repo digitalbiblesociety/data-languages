@@ -7,12 +7,15 @@ population: 45300
 country_id: ML
 country_name: Mali
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.34019
 longitude: -3.51468
 glottocode: donn1239
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Donno So Dogon"
+wikidata_id: Q111364656
 translations:
   - translation_iso: ara
     name: دونو سو دوجون

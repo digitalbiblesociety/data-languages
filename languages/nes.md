@@ -7,12 +7,15 @@ population: 6790
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.85031
 longitude: 78.5728
 glottocode: bhot1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Khunu-Töt"
+wikidata_id: Q21179921
 translations:
   - translation_iso: ara
     name: بهوتي كيناوري

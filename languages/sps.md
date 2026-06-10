@@ -6,12 +6,15 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.64103
 longitude: 154.73162
 glottocode: sapo1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Saposa-Tinputz > Saposa"
+wikidata_id: Q3473187
 wikipedia_url: "https://en.wikipedia.org/wiki/Saposa_language"
 translations:
   - translation_iso: ara

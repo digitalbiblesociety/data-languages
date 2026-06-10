@@ -7,12 +7,15 @@ population: 23500
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.95921
 longitude: 22.63932
 glottocode: assa1269
 glottolog_family_id: tama1329
 glottolog_family_name: Tamaic
 glottolog_classification: "Tamaic > Tama-Sungor-Miisiirii > Tama-Sungor > Assangori"
+wikidata_id: Q3502255
 wikipedia_url: "https://en.wikipedia.org/wiki/Sungor_language"
 translations:
   - translation_iso: ara

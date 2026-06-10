@@ -7,12 +7,15 @@ population: 2970
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.48467
 longitude: 142.69357
 glottocode: komb1272
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Kombio"
+wikidata_id: Q6428259
 wikipedia_url: "https://en.wikipedia.org/wiki/Kombio_language"
 translations:
   - translation_iso: ara

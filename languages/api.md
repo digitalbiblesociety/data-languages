@@ -7,12 +7,15 @@ population: 190
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.84711
 longitude: -57.91002
 glottocode: apia1248
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Apiaká"
+wikidata_id: Q3507941
 wikipedia_url: "https://en.wikipedia.org/wiki/Apiak%C3%A1_language"
 translations:
   - translation_iso: ara

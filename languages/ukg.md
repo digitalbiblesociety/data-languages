@@ -6,12 +6,15 @@ population: 170
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.94407
 longitude: 145.51442
 glottocode: ukur1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Yarawata-Parawen-Ukuriguma > Ukuriguma"
+wikidata_id: Q7878623
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukuriguma_language"
 translations:
   - translation_iso: ara

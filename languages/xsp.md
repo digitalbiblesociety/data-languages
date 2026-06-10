@@ -6,12 +6,15 @@ population: 180
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.12302
 longitude: 145.58617
 glottocode: silo1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Hanseman > Silopic > Silopi-Utu > Silopi"
+wikidata_id: Q7515533
 wikipedia_url: "https://en.wikipedia.org/wiki/Silopi_language"
 translations:
   - translation_iso: ara

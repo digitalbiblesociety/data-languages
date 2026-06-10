@@ -6,6 +6,9 @@ population: null
 country_id: JO
 country_name: Jordan
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q36385
 wikipedia_url: "https://en.wikipedia.org/wiki/Moabite_language"
 translations:
   - translation_iso: ara

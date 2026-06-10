@@ -7,12 +7,15 @@ population: 4700
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.71107
 longitude: -11.749605
 glottocode: east2387
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Limba > East Limba"
+wikidata_id: Q11034212
 translations:
   - translation_iso: ara
     name: لغة ياست يمبا

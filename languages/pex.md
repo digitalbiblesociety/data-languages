@@ -6,12 +6,15 @@ population: 6340
 country_id: PG
 country_name: Papua New Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -5.34068
 longitude: 154.59284
 glottocode: peta1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Petats"
+wikidata_id: Q3376353
 wikipedia_url: "https://en.wikipedia.org/wiki/Petats_language"
 translations:
   - translation_iso: ara

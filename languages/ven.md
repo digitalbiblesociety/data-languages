@@ -1,5 +1,6 @@
 ---
 iso: ven
+iso639_1: ve
 name: Venda
 autonym: Tshivenḓa
 alt_names: [Cevenda, Chivenda, Tshivenda, Vendeg, Vendum, Венда]
@@ -7,6 +8,8 @@ population: 1301400
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -22.187955
 longitude: 29.952345
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: vend1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Venda"
+wikidata_id: Q32704
 wikipedia_url: "https://en.wikipedia.org/wiki/Venda_language"
 translations:
   - translation_iso: ara

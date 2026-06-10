@@ -6,12 +6,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.72287
 longitude: 8.78768
 glottocode: lame1257
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Lame"
+wikidata_id: Q3913997
 wikipedia_url: "https://en.wikipedia.org/wiki/Lame_language"
 translations:
   - translation_iso: ara

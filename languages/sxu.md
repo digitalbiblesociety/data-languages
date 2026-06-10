@@ -7,12 +7,15 @@ population: 2000000
 country_id: DE
 country_name: Germany
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 51.152
 longitude: 12.692
 glottocode: uppe1400
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Central East Middle German"
+wikidata_id: Q699284
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Saxon_German"
 translations:
   - translation_iso: ara

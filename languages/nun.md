@@ -7,12 +7,15 @@ population: 400
 country_id: MM
 country_name: Myanmar
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 27.28866
 longitude: 98.73327
 glottocode: nung1282
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Gunong > Nung (Myanmar)"
+wikidata_id: Q2748232
 wikipedia_url: "https://en.wikipedia.org/wiki/Nung_language_(Sino-Tibetan)"
 translations:
   - translation_iso: ara

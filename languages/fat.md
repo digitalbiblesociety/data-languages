@@ -1,11 +1,15 @@
 ---
 iso: fat
+macrolanguage_id: aka
 name: Fanti
 autonym: Fante
 population: 2800000
 country_id: GH
 country_name: Ghana
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q35570
 wikipedia_url: "https://en.wikipedia.org/wiki/Fante_dialect"
 translations:
   - translation_iso: ara

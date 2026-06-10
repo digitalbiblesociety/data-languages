@@ -7,12 +7,15 @@ population: 5300
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.29126
 longitude: 145.68676
 glottocode: amel1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Amele"
+wikidata_id: Q3508025
 wikipedia_url: "https://en.wikipedia.org/wiki/Amele_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 15000
 country_id: BW
 country_name: Botswana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -22.17
 longitude: 28.33
 glottocode: birw1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Northern Sotho > Birwa"
+wikidata_id: Q3501019
 wikipedia_url: "https://en.wikipedia.org/wiki/Birwa_language"
 translations:
   - translation_iso: ara

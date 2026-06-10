@@ -6,12 +6,15 @@ population: 3510
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.04783
 longitude: 141.84239
 glottocode: suki1245
 glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Suki"
+wikidata_id: Q2089984
 wikipedia_url: "https://en.wikipedia.org/wiki/Suki_language"
 translations:
   - translation_iso: ara

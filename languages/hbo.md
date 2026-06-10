@@ -7,12 +7,15 @@ population: null
 country_id: IL
 country_name: Israel
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 31.77607
 longitude: 35.17248
 glottocode: anci1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Canaanite > Hebrewic > Ancient Hebrew"
+wikidata_id: Q1982248
 wikipedia_url: "https://en.wikipedia.org/wiki/Biblical_Hebrew"
 translations:
   - translation_iso: ara

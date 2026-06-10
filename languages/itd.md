@@ -7,12 +7,15 @@ population: 27000
 country_id: ID
 country_name: Indonesia
 status_id: null
+scope: individual
+language_type: living
 latitude: 4
 longitude: 117.75
 glottocode: sout3241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Sumambu-Tagal > Tidung-Bulusu > Tidung > Southern Tidung"
+wikidata_id: Q63214959
 wikipedia_url: "https://en.wikipedia.org/wiki/Nunukan_Tidung"
 translations:
   - translation_iso: ara

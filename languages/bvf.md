@@ -7,12 +7,15 @@ population: 100
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.09041
 longitude: 17.56478
 glottocode: boor1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Miltuic > Boor"
+wikidata_id: Q56250
 wikipedia_url: "https://en.wikipedia.org/wiki/Boor_language"
 translations:
   - translation_iso: ara

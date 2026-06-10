@@ -7,12 +7,15 @@ population: 8000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.55319
 longitude: 140.83996
 glottocode: nort2916
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Lowland Ok > Division A Lowland Ok > North Muyu"
+wikidata_id: Q20857698
 translations:
   - translation_iso: ara
     name: موي الشمالية

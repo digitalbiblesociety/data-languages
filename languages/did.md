@@ -7,12 +7,15 @@ population: 100000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 4.21489
 longitude: 33.68688
 glottocode: didi1258
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Didinga-Longarim > Didinga"
+wikidata_id: Q56365
 wikipedia_url: "https://en.wikipedia.org/wiki/Didinga_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 4420
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.51516
 longitude: 141.17783
 glottocode: aman1265
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Amanab"
+wikidata_id: Q3327399
 wikipedia_url: "https://en.wikipedia.org/wiki/Amanab_language"
 translations:
   - translation_iso: ara

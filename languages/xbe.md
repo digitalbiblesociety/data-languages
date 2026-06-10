@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -28.266
 longitude: 149.515
 glottocode: biga1237
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > East Queensland Border Pama Nyungan > Yugambalic > Yugambal-Bigambal > Bigambal"
+wikidata_id: Q16841801
 wikipedia_url: "https://en.wikipedia.org/wiki/Bigambul_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2460
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.16535
 longitude: 114.36735
 glottocode: kipu1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram A > Kiput"
+wikidata_id: Q3038653
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiput_language"
 translations:
   - translation_iso: ara

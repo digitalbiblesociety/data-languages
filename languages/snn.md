@@ -7,12 +7,15 @@ population: 300
 country_id: CO
 country_name: Colombia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 0.31733
 longitude: -76.02367
 glottocode: sion1247
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Sionan > Siona-Tetete"
+wikidata_id: Q3485116
 wikipedia_url: "https://en.wikipedia.org/wiki/Siona_language"
 translations:
   - translation_iso: ara

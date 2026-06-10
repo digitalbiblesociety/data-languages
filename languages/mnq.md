@@ -7,12 +7,15 @@ population: 160
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.01108
 longitude: 102.04727
 glottocode: minr1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > North Aslian > Maniq-Menraq-Batek > Menraq-Batek > Minriq"
+wikidata_id: Q2742268
 wikipedia_url: "https://en.wikipedia.org/wiki/Minriq_language"
 translations:
   - translation_iso: ara

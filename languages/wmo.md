@@ -7,12 +7,15 @@ population: 4260
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.5332
 longitude: 142.87008
 glottocode: womp1235
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wom (Papua New Guinea)"
+wikidata_id: Q8030620
 wikipedia_url: "https://en.wikipedia.org/wiki/Wom_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

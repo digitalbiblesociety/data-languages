@@ -7,9 +7,12 @@ population: null
 country_id: CL
 country_name: Chile
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -23
 longitude: -69
 glottocode: kunz1244
+wikidata_id: Q2669181
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunza_language"
 translations:
   - translation_iso: ara

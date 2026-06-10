@@ -7,12 +7,15 @@ population: 253000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.73286
 longitude: 121.5796
 glottocode: itaw1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Gaddangic > Itawit"
+wikidata_id: Q3915527
 wikipedia_url: "https://en.wikipedia.org/wiki/Itawis_language"
 translations:
   - translation_iso: ara

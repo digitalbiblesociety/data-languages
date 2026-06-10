@@ -7,12 +7,15 @@ population: 2000
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.92273
 longitude: 108.44694
 glottocode: kayo1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Kayong"
+wikidata_id: Q6380673
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayong_language_(Vietnam)"
 translations:
   - translation_iso: ara

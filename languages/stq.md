@@ -7,6 +7,8 @@ population: 5000
 country_id: DE
 country_name: Germany
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 53.117
 longitude: 7.721
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sate1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Ems-Weser Frisian"
+wikidata_id: Q27154
 wikipedia_url: "https://en.wikipedia.org/wiki/Saterland_Frisian_language"
 translations:
   - translation_iso: ara

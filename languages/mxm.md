@@ -7,12 +7,15 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.97468
 longitude: 151.52804
 glottocode: mera1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Nakanai-Meramera > Meramera"
+wikidata_id: Q6817936
 wikipedia_url: "https://en.wikipedia.org/wiki/Meramera_language"
 translations:
   - translation_iso: ara

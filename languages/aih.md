@@ -7,12 +7,15 @@ population: 2700
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 25.49083
 longitude: 107.84359
 glottocode: aich1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Ai-Cham"
+wikidata_id: Q2827749
 wikipedia_url: "https://en.wikipedia.org/wiki/Ai-Cham_language"
 translations:
   - translation_iso: ara

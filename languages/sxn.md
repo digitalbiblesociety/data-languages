@@ -7,6 +7,8 @@ population: 165000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.459695
 longitude: 125.604075
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: sang1336
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangir"
+wikidata_id: Q25714758
 wikipedia_url: "https://en.wikipedia.org/wiki/Sangir_language"
 translations:
   - translation_iso: ara

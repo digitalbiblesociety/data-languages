@@ -7,9 +7,12 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: living
 latitude: 18.1
 longitude: -100.5
 glottocode: cuit1236
+wikidata_id: Q2030998
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuitlatec_language"
 translations:
   - translation_iso: ara

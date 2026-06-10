@@ -7,12 +7,15 @@ population: 370
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.83927
 longitude: 133.18481
 glottocode: maun1240
 glottolog_family_id: iwai1246
 glottolog_family_name: Iwaidjan Proper
 glottolog_classification: "Iwaidjan Proper > Mawng"
+wikidata_id: Q6792550
 wikipedia_url: "https://en.wikipedia.org/wiki/Maung_language"
 translations:
   - translation_iso: ara

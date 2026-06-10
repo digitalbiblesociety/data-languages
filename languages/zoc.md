@@ -7,12 +7,15 @@ population: 10000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.21575
 longitude: -93.31825
 glottocode: copa1236
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Central-South Chiapas Zoque"
+wikidata_id: Q12954017
 translations:
   - translation_iso: ara
     name: سوكي كوبايناليا

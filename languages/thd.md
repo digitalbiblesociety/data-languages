@@ -7,12 +7,15 @@ population: 210
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -14.8159
 longitude: 142.03413
 glottocode: thay1249
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Southwest Pama > Upper Southwest Paman > Thayore"
+wikidata_id: Q6448718
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuuk_Thaayorre_language"
 translations:
   - translation_iso: ara

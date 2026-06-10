@@ -7,12 +7,15 @@ population: 20000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.36536
 longitude: -93.36326
 glottocode: fran1266
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Chiapas-Jitotolteco Zoque > Chiapas Zoque > Northern Chiapas Zoque"
+wikidata_id: Q12954011
 translations:
   - translation_iso: ara
     name: سوكي فرانثيسكو ليون

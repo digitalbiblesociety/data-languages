@@ -7,12 +7,15 @@ population: 750
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -13.81737
 longitude: 167.68893
 glottocode: mota1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Torres-Banks linkage > Mota"
+wikidata_id: Q3325052
 wikipedia_url: "https://en.wikipedia.org/wiki/Mota_language"
 translations:
   - translation_iso: ara

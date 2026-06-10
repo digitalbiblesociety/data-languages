@@ -7,12 +7,15 @@ population: 120
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.16088
 longitude: 10.42038
 glottocode: beel1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Ngamo-Bele > Bolanci-Bele > Beele"
+wikidata_id: Q56238
 wikipedia_url: "https://en.wikipedia.org/wiki/%C6%81eele_language"
 translations:
   - translation_iso: ara

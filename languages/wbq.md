@@ -7,6 +7,8 @@ population: 198000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.88375
 longitude: 77.1673
 scripts: [Telu]
@@ -14,6 +16,7 @@ glottocode: wadd1237
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Waddar"
+wikidata_id: Q6708569
 wikipedia_url: "https://en.wikipedia.org/wiki/Waddar_language"
 translations:
   - translation_iso: ara

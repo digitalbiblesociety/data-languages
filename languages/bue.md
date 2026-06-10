@@ -7,9 +7,12 @@ population: null
 country_id: CA
 country_name: Canada
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 48
 longitude: -57
 glottocode: beot1247
+wikidata_id: Q56234
 wikipedia_url: "https://en.wikipedia.org/wiki/Beothuk_language"
 translations:
   - translation_iso: ara

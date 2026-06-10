@@ -7,12 +7,15 @@ population: 13000
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 12.05423
 longitude: 29.20738
 glottocode: kark1256
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Western Kordofan Nubian > Karko"
+wikidata_id: Q35529
 wikipedia_url: "https://en.wikipedia.org/wiki/Karko_language_(Sudan)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 800
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.96758
 longitude: 9.36535
 glottocode: isuf1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Dualaic > Kole-Isubu > Isu (Fako Division)"
+wikidata_id: Q35431
 wikipedia_url: "https://en.wikipedia.org/wiki/Suwu_language"
 translations:
   - translation_iso: ara

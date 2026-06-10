@@ -7,6 +7,8 @@ population: 1650000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.05906
 longitude: 34.28286
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: masa1299
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Northern Luyia > Masaaba"
+wikidata_id: Q3740241
 wikipedia_url: "https://en.wikipedia.org/wiki/Masaba_language"
 translations:
   - translation_iso: ara

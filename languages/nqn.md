@@ -6,12 +6,15 @@ population: 250
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.62183
 longitude: 142.03236
 glottocode: nenn1238
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nen"
+wikidata_id: Q20816352
 wikipedia_url: "https://en.wikipedia.org/wiki/Nen_language_(Papuan)"
 translations:
   - translation_iso: ara

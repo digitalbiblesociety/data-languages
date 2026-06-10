@@ -1,11 +1,14 @@
 ---
 iso: mtr
+macrolanguage_id: mwr
 name: Mewari
 autonym: Mewadi
 population: 4210000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.57
 longitude: 73.68
 scripts: [Deva]
@@ -13,6 +16,7 @@ glottocode: mewa1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewaric > Mewari"
+wikidata_id: Q2992857
 wikipedia_url: "https://en.wikipedia.org/wiki/Mewari_language"
 translations:
   - translation_iso: ara

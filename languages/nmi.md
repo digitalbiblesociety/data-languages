@@ -6,12 +6,15 @@ population: 100
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 9.18024
 longitude: 10.83652
 glottocode: nyam1285
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Unclassified Boleic > Nyam"
+wikidata_id: Q3438738
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyam_language"
 translations:
   - translation_iso: ara

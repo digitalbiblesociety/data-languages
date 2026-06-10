@@ -7,12 +7,15 @@ population: 400
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.45498
 longitude: 132.7454
 glottocode: urua1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Uruangnirin"
+wikidata_id: Q7901389
 wikipedia_url: "https://en.wikipedia.org/wiki/Uruangnirin_language"
 translations:
   - translation_iso: ara

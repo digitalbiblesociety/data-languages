@@ -7,12 +7,15 @@ population: 510
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.53129
 longitude: 141.92796
 glottocode: awtu1239
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Awtuw"
+wikidata_id: Q3504217
 wikipedia_url: "https://en.wikipedia.org/wiki/Awtuw_language"
 translations:
   - translation_iso: ara

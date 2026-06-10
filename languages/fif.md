@@ -7,12 +7,15 @@ population: 50000
 country_id: SA
 country_name: Saudi Arabia
 status_id: null
+scope: individual
+language_type: living
 latitude: 17.292
 longitude: 43.148
 glottocode: faif1234
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Sayhadic > Modern Sayhadic > Faifi"
+wikidata_id: Q85760309
 wikipedia_url: "https://en.wikipedia.org/wiki/Faifi_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 486000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 28.64833
 longitude: 80.44188
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: rana1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Rana Tharu"
+wikidata_id: Q12953920
 wikipedia_url: "https://en.wikipedia.org/wiki/Rana_Tharu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 125000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 26.024
 longitude: 91.482
 glottocode: amri1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Karbic > Amri Karbi"
+wikidata_id: Q3508092
 wikipedia_url: "https://en.wikipedia.org/wiki/Amri_Karbi_language"
 translations:
   - translation_iso: ara

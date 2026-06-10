@@ -7,12 +7,15 @@ population: 5470
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.21565
 longitude: -96.0179
 glottocode: toto1305
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Totontepec Mixe"
+wikidata_id: Q7828400
 wikipedia_url: "https://en.wikipedia.org/wiki/Totontepec_Mixe"
 translations:
   - translation_iso: ara

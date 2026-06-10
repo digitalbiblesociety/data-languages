@@ -7,12 +7,15 @@ population: 12000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.81358
 longitude: 31.42886
 glottocode: pimb1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Mbozi > Mwika > Pimbwe"
+wikidata_id: Q3894132
 wikipedia_url: "https://en.wikipedia.org/wiki/Pimbwe_language"
 translations:
   - translation_iso: ara

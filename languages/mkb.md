@@ -7,12 +7,15 @@ population: 51000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.08704
 longitude: 87.35068
 glottocode: malp1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Mar Paharia of Dumka"
+wikidata_id: Q6583595
 wikipedia_url: "https://en.wikipedia.org/wiki/Mal_Paharia_language"
 translations:
   - translation_iso: ara

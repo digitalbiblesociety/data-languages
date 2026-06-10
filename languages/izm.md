@@ -4,12 +4,15 @@ name: Kizamani
 population: 1000
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.16457
 longitude: 8.26269
 glottocode: kiza1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Kauru > Kizamani"
+wikidata_id: Q116450533
 wikipedia_url: "https://en.wikipedia.org/wiki/Kizamani_language"
 translations:
   - translation_iso: ara

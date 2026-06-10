@@ -7,12 +7,15 @@ population: 14000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.00792
 longitude: 98.49449
 glottocode: drun1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Gunong > Drung"
+wikidata_id: Q56406
 wikipedia_url: "https://en.wikipedia.org/wiki/Derung_language"
 translations:
   - translation_iso: ara

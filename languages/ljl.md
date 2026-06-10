@@ -7,12 +7,15 @@ population: 105000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.68615
 longitude: 121.8322
 glottocode: lioo1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Eastern Central Flores > Ende-Lio > Li'o"
+wikidata_id: Q2697010
 wikipedia_url: "https://en.wikipedia.org/wiki/Lio_language"
 translations:
   - translation_iso: ara

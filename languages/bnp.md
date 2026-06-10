@@ -7,12 +7,15 @@ population: 13700
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.55792
 longitude: 150.09488
 glottocode: bola1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Bola-Bulu > Bola"
+wikidata_id: Q4938876
 wikipedia_url: "https://en.wikipedia.org/wiki/Bola_language_(Austronesian)"
 translations:
   - translation_iso: ara

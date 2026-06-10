@@ -6,9 +6,12 @@ population: null
 country_id: MY
 country_name: Malaysia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 3.154162
 longitude: 102.01596
 glottocode: kena1236
+wikidata_id: Q6388752
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenaboi_language"
 translations:
   - translation_iso: ara

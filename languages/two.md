@@ -7,12 +7,15 @@ population: 2000
 country_id: BW
 country_name: Botswana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -23.40552
 longitude: 27.42009
 glottocode: tswa1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Northern Sotho > Sepedic > Tswapong"
+wikidata_id: Q3446241
 wikipedia_url: "https://en.wikipedia.org/wiki/Tswapong_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: gmm
+macrolanguage_id: gba
 name: "Gbaya-Mbodomo"
 autonym: Mbódɔ̀mɔ̀
 alt_names: [Bodomo, Gbaya, Mbodomo, Mbondomo]
@@ -7,12 +8,15 @@ population: 20000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.700365
 longitude: 14.956865
 glottocode: gbay1281
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Mbodomo-Bofi > Gbaya-Mbodomo"
+wikidata_id: Q6799713
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbodomo_language"
 translations:
   - translation_iso: ara

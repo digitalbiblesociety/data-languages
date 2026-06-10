@@ -7,12 +7,15 @@ population: 90
 country_id: BO
 country_name: Bolivia
 status_id: 8a
+scope: individual
+language_type: extinct
 latitude: -12.29945
 longitude: -64.98409
 glottocode: iten1243
 glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran
 glottolog_classification: "Chapacuran > Moreic-Waric > Moreic > Kujubim-More > Itene"
+wikidata_id: Q3038640
 wikipedia_url: "https://en.wikipedia.org/wiki/Itene_language"
 translations:
   - translation_iso: ara

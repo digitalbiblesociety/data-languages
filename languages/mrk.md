@@ -7,12 +7,15 @@ population: 300
 country_id: NC
 country_name: New Caledonia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -20.92463
 longitude: 164.76804
 glottocode: hmwa1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Hmwaveke"
+wikidata_id: Q5873712
 wikipedia_url: "https://en.wikipedia.org/wiki/Hmwaveke_language"
 translations:
   - translation_iso: ara

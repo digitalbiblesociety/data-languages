@@ -7,12 +7,15 @@ population: 26900
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.80208
 longitude: 107.29291
 glottocode: chra1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Chrau"
+wikidata_id: Q5105629
 wikipedia_url: "https://en.wikipedia.org/wiki/Chrau_language"
 translations:
   - translation_iso: ara

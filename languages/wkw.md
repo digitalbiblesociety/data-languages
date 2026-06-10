@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -26.24803
 longitude: 151.868
 glottocode: waka1274
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Waka-Kabic > Western Waka-Kabic > Wakawaka"
+wikidata_id: Q10719110
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakka_Wakka_language"
 translations:
   - translation_iso: ara

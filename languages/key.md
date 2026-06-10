@@ -7,12 +7,15 @@ population: 6600
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.47079
 longitude: 79.51532
 glottocode: kupi1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Macro-Oriya > Kupia"
+wikidata_id: Q6445354
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupia_language"
 translations:
   - translation_iso: ara

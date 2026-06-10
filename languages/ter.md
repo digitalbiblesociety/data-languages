@@ -7,6 +7,8 @@ population: 15800
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -20.66136
 longitude: -56.03292
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tere1279
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Bolivian Arawakan > Terena-Kinikinao-Chane"
+wikidata_id: Q3314742
 wikipedia_url: "https://en.wikipedia.org/wiki/Ter%C3%AAna_language"
 translations:
   - translation_iso: ara

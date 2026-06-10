@@ -6,6 +6,8 @@ population: 740300
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.27501
 longitude: -11.54304
 scripts: [Bass, Latn]
@@ -13,6 +15,7 @@ glottocode: nucl1418
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Bassaic > Bassa-Gbee > Bassa"
+wikidata_id: Q34949
 wikipedia_url: "https://en.wikipedia.org/wiki/Bassa_language"
 translations:
   - translation_iso: ara

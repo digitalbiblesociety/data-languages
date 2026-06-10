@@ -6,12 +6,15 @@ population: 3500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.46246
 longitude: 147.89923
 glottocode: nucl1630
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Baraic > Barai-Namiae > Barai"
+wikidata_id: Q4858206
 wikipedia_url: "https://en.wikipedia.org/wiki/Barai_language"
 translations:
   - translation_iso: ara

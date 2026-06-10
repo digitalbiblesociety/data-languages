@@ -7,6 +7,8 @@ population: 335700
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 56.12921
 longitude: 52.63548
 scripts: [Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: udmu1245
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Permian > Udmurt"
+wikidata_id: Q13238
 wikipedia_url: "https://en.wikipedia.org/wiki/Udmurt_language"
 translations:
   - translation_iso: ara

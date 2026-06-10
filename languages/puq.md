@@ -7,9 +7,12 @@ population: null
 country_id: CA
 country_name: Canada
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -15.8992
 longitude: -69.96108
 glottocode: puqu1242
+wikidata_id: Q1207739
 wikipedia_url: "https://en.wikipedia.org/wiki/Puquina_language"
 translations:
   - translation_iso: ara

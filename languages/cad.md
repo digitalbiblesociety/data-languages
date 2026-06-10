@@ -7,6 +7,8 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 35.1826
 longitude: -98.26335
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: cadd1256
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Caddo"
+wikidata_id: Q56756
 wikipedia_url: "https://en.wikipedia.org/wiki/Caddo_language"
 translations:
   - translation_iso: ara

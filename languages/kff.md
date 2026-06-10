@@ -7,12 +7,15 @@ population: 455000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.6772
 longitude: 81.20964
 glottocode: koya1251
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > South Bastar Gondi-Koya > Koya"
+wikidata_id: Q33471
 wikipedia_url: "https://en.wikipedia.org/wiki/Koya_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 820
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.55894
 longitude: 129.68668
 glottocode: daii1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Babar > North Babaric > Dai"
+wikidata_id: Q5209056
 wikipedia_url: "https://en.wikipedia.org/wiki/Dai_language_(Austronesian)"
 translations:
   - translation_iso: ara

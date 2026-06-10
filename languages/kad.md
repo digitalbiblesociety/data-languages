@@ -7,12 +7,15 @@ population: 300000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.99696
 longitude: 7.45933
 glottocode: kada1284
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kadara"
+wikidata_id: Q3914011
 wikipedia_url: "https://en.wikipedia.org/wiki/Adara_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1300
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.90532
 longitude: -106.12405
 glottocode: tewa1260
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tewa > Rio Grande Tewa"
+wikidata_id: Q56492
 wikipedia_url: "https://en.wikipedia.org/wiki/Tewa_language"
 translations:
   - translation_iso: ara

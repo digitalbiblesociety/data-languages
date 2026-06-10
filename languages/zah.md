@@ -7,12 +7,15 @@ population: 100
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.22845
 longitude: 9.74694
 glottocode: zang1255
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Tala-Sho-Zangwal > Tala-Zamwar > Zangwal"
+wikidata_id: Q3441387
 wikipedia_url: "https://en.wikipedia.org/wiki/Zangwal_language"
 translations:
   - translation_iso: ara

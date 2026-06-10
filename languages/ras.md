@@ -7,12 +7,15 @@ population: 99000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.95226
 longitude: 31.11123
 glottocode: tega1236
 glottolog_family_id: rash1249
 glottolog_family_name: Rashad
 glottolog_classification: "Rashad > Tegali"
+wikidata_id: Q36522
 wikipedia_url: "https://en.wikipedia.org/wiki/Tegali_language"
 translations:
   - translation_iso: ara

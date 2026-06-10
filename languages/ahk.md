@@ -7,12 +7,15 @@ population: 616600
 country_id: MM
 country_name: Myanmar
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 21.230864
 longitude: 100.964344
 glottocode: akha1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Ha-Ya > Akhaic > Akha"
+wikidata_id: Q56643
 wikipedia_url: "https://en.wikipedia.org/wiki/Akha_language"
 translations:
   - translation_iso: ara

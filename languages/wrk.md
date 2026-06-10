@@ -7,12 +7,15 @@ population: 130
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -17.4504
 longitude: 137.72014
 glottocode: gara1269
 glottolog_family_id: garr1260
 glottolog_family_name: Garrwan
 glottolog_classification: "Garrwan > Garrwa"
+wikidata_id: Q2524022
 wikipedia_url: "https://en.wikipedia.org/wiki/Garrwa_language"
 translations:
   - translation_iso: ara

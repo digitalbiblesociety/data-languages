@@ -1,5 +1,6 @@
 ---
 iso: ayc
+macrolanguage_id: aym
 name: Southern Aymara
 autonym: Aymar aru
 alt_names: ["2 varieties: Aymara (Central)/Aymara (Southern)", Aimara, Aymara, "Aymara, Southern", Aymará, Southern, Tupe]
@@ -7,12 +8,15 @@ population: 213000
 country_id: PE
 country_name: Peru
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -17.14171
 longitude: -70.34424
 glottocode: sout2996
 glottolog_family_id: ayma1253
 glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Central-Southern Aymara > Southern Aymara"
+wikidata_id: Q3508036
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Aymara_language"
 translations:
   - translation_iso: ara

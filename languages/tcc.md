@@ -7,12 +7,15 @@ population: 161000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.4131
 longitude: 35.23207
 glottocode: dato1239
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Tatoga-Omotik > Gemein Datooga > North-Central Datooga > Barabayiiga-Gisamjanga"
+wikidata_id: Q35327
 wikipedia_url: "https://en.wikipedia.org/wiki/Datooga_language"
 translations:
   - translation_iso: ara

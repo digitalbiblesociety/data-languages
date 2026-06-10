@@ -7,12 +7,15 @@ population: 330
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.55582
 longitude: -70.53265
 glottocode: tatu1247
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Tatuyo"
+wikidata_id: Q2524007
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatuyo_language"
 translations:
   - translation_iso: ara

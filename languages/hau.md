@@ -1,5 +1,6 @@
 ---
 iso: hau
+iso639_1: ha
 name: Hausa
 autonym: " هَرْشَن هَوْسَ"
 alt_names: [Abakwariga, Habe, Haousaeg, Haoussa, Hausa Group, Hausa linguo, Hausawa, Haussa, Hawsa, Hawsa simi, Haúsa, Kado, Mgbakpa, Забони хауса, Хауса, האוסה, هوس, ھاوسا, ჰაუსა]
@@ -7,6 +8,8 @@ population: 60000000
 country_id: NG
 country_name: Nigeria
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 11.151274
 longitude: 8.780399
 scripts: [Arab, Latn]
@@ -14,6 +17,7 @@ glottocode: haus1257
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.1 > Hausa"
+wikidata_id: Q56475
 wikipedia_url: "https://en.wikipedia.org/wiki/Hausa_language"
 translations:
   - translation_iso: ara

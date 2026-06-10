@@ -7,6 +7,8 @@ population: 748070
 country_id: UZ
 country_name: Uzbekistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 39.98005
 longitude: 63.32233
 scripts: [Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: kara1467
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Southeast Kipchak > South Kipchak > Kara-Kalpak"
+wikidata_id: Q33541
 wikipedia_url: "https://en.wikipedia.org/wiki/Karakalpak_language"
 translations:
   - translation_iso: ara

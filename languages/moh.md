@@ -7,6 +7,8 @@ population: 2940
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 45.00064
 longitude: -74.624415
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: moha1258
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Iroquois > Mohawk-Oneida > Mohawk"
+wikidata_id: Q13339
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohawk_language"
 translations:
   - translation_iso: ara

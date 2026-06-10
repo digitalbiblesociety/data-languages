@@ -7,12 +7,15 @@ population: 3800
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.23684
 longitude: -1.54376
 glottocode: konn1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Buli-Koma > Konni"
+wikidata_id: Q35680
 wikipedia_url: "https://en.wikipedia.org/wiki/Konni_language"
 translations:
   - translation_iso: ara

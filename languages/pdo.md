@@ -7,12 +7,15 @@ population: 6000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.60642
 longitude: 121.23639
 glottocode: pado1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > Interior Bungku-Tolaki > Padoe"
+wikidata_id: Q3360370
 wikipedia_url: "https://en.wikipedia.org/wiki/Padoe_language"
 translations:
   - translation_iso: ara

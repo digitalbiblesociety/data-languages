@@ -7,12 +7,15 @@ population: 10000
 country_id: LY
 country_name: Libya
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 30.11683
 longitude: 10.01654
 glottocode: ghad1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Ghadames"
+wikidata_id: Q56747
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghadam%C3%A8s_language"
 translations:
   - translation_iso: ara

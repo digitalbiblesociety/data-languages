@@ -7,12 +7,15 @@ population: 200
 country_id: OM
 country_name: Oman
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 17.4485
 longitude: 53.119
 glottocode: bath1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Hobyot-Western MSA > Western MSA > Bathari"
+wikidata_id: Q2586893
 wikipedia_url: "https://en.wikipedia.org/wiki/Ba%E1%B9%AD%E1%B8%A5ari_language"
 translations:
   - translation_iso: ara

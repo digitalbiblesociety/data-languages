@@ -7,12 +7,15 @@ population: 26000
 country_id: SV
 country_name: El Salvador
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 13.7024
 longitude: -89.59881
 glottocode: salv1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Salvadoran Sign Language"
+wikidata_id: Q7406492
 wikipedia_url: "https://en.wikipedia.org/wiki/Salvadoran_Sign_Language"
 translations:
   - translation_iso: ara

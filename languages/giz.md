@@ -7,12 +7,15 @@ population: 60000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.28092
 longitude: 14.1931
 glottocode: sout3051
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Maroua > Giziga > South Giziga"
+wikidata_id: Q3502232
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Giziga_language"
 translations:
   - translation_iso: ara

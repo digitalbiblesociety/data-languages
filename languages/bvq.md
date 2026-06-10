@@ -7,12 +7,15 @@ population: 200
 country_id: CF
 country_name: Central African Republic
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 5.3328
 longitude: 27.0842
 glottocode: birr1240
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Birri"
+wikidata_id: Q56514
 wikipedia_url: "https://en.wikipedia.org/wiki/Birri_language"
 translations:
   - translation_iso: ara

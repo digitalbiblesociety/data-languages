@@ -7,12 +7,15 @@ population: 24700
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.90665
 longitude: -3.32636
 glottocode: bond1248
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Najamba-Kindige"
+wikidata_id: Q3912758
 wikipedia_url: "https://en.wikipedia.org/wiki/Bondum_Dogon"
 translations:
   - translation_iso: ara

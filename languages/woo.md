@@ -7,12 +7,15 @@ population: 7480
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.94468
 longitude: 134.3295
 glottocode: mano1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Manombai"
+wikidata_id: Q6751253
 wikipedia_url: "https://en.wikipedia.org/wiki/Manombai_language"
 translations:
   - translation_iso: ara

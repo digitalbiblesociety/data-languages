@@ -6,6 +6,9 @@ population: null
 country_id: UG
 country_name: Uganda
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63259501
 translations:
   - translation_iso: ara
     name: لغة ثور

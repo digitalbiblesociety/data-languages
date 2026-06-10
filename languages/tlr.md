@@ -7,12 +7,15 @@ population: 12500
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.76764
 longitude: 160.231
 glottocode: tali1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Guadalcanal-Nggelic > Southeast Guadalcanal > Talise"
+wikidata_id: Q3514510
 wikipedia_url: "https://en.wikipedia.org/wiki/Talise_language"
 translations:
   - translation_iso: ara

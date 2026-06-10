@@ -1,5 +1,6 @@
 ---
 iso: dzo
+iso639_1: dz
 name: Dzongkha
 autonym: Bhutanese
 alt_names: [Bhotia of Bhutan, Bhotia of Dukpa, Bhōṭiā of Bhutan, Bhōṭiā of Dukpa, Boutaneg, Butaanish, Butanés, Drukha, Drukke, Dukpa, Dzongka, Dzongke, Dzongkä, Dzonkha simi, Hloka, Jonkha, Lhoke, Lhoskad, Rdzongkha, Zongkhar, Дзонг-кэ, Дзонгкха, Дзонґ-ке, Ձոնգքհա, דזונגקה, जोंगखा, འབྲུག་པའི་སྐད།, རྫོང་ཁ་]
@@ -7,6 +8,8 @@ population: 315080
 country_id: BT
 country_name: Bhutan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 27.410786
 longitude: 89.581604
 scripts: [Tibt]
@@ -14,6 +17,7 @@ glottocode: dzon1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Nuclear Dzongkhic > Dzongkha"
+wikidata_id: Q33081
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzongkha"
 translations:
   - translation_iso: ara

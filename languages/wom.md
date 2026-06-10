@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.92708
 longitude: 12.45334
 glottocode: womn1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Samba-Duru > Southern Samba-Duru > Sambaic > Samba-Leko-Perema-Mumbake > Perema-Mumbake > Wom (Nigeria)"
+wikidata_id: Q3913378
 wikipedia_url: "https://en.wikipedia.org/wiki/Perema_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1350
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -16.50734
 longitude: 167.81794
 glottocode: mask1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Southeastern Malakula linkage > Maskelynes"
+wikidata_id: Q3297282
 wikipedia_url: "https://en.wikipedia.org/wiki/Maskelynes_language"
 translations:
   - translation_iso: ara

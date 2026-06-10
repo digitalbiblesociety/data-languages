@@ -1,5 +1,6 @@
 ---
 iso: qxu
+macrolanguage_id: que
 name: "Arequipa-La Unión Quechua"
 autonym: Chanka runasimi
 alt_names: [Arequipa-La Union Quechua, "Quechua, Arequipa-La Unión"]
@@ -7,12 +8,15 @@ population: 32000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.18063
 longitude: -72.63326
 glottocode: areq1237
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Southern Quechua > Ayacuchan Quechua > Arequipa-La Unión Quechua"
+wikidata_id: Q12953837
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا أريكويبا-لا أونيون

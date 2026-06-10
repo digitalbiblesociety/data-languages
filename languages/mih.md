@@ -7,12 +7,15 @@ population: 10000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.31585
 longitude: -97.81145
 glottocode: chay1249
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Coast Mixtec > East Coast Mixtec > Chayuco Mixtec"
+wikidata_id: Q13583510
 wikipedia_url: "https://en.wikipedia.org/wiki/Chayuco-Jamiltepec_Mixtec"
 translations:
   - translation_iso: ara

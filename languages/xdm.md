@@ -6,6 +6,9 @@ population: null
 country_id: IL
 country_name: Israel
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q2363529
 wikipedia_url: "https://en.wikipedia.org/wiki/Edomite_language"
 translations:
   - translation_iso: ara

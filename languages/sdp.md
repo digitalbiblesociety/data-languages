@@ -7,12 +7,15 @@ population: 3100
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.00345
 longitude: 92.57987
 glottocode: sher1257
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Sartang-Sherdukpen > Sherdukpen"
+wikidata_id: Q7494785
 wikipedia_url: "https://en.wikipedia.org/wiki/Sherdukpen_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 34
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.93116
 longitude: 145.55945
 glottocode: bila1257
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Numugenan > Karian-Usan-Yaben > Karen"
+wikidata_id: Q4907504
 wikipedia_url: "https://en.wikipedia.org/wiki/Karian_language"
 translations:
   - translation_iso: ara

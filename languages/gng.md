@@ -7,12 +7,15 @@ population: 217400
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.25232
 longitude: 0.70509
 glottocode: ngan1299
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Konkomba-Gangam > Ngangam"
+wikidata_id: Q35888
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngangam_language"
 translations:
   - translation_iso: ara

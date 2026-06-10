@@ -7,12 +7,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -5.42138
 longitude: 133.14183
 glottocode: band1355
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Banda (Indonesia)"
+wikidata_id: Q3504147
 wikipedia_url: "https://en.wikipedia.org/wiki/Banda_language_(Maluku)"
 translations:
   - translation_iso: ara

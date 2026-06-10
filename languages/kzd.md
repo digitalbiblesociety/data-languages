@@ -6,12 +6,15 @@ population: 350
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -1.74547
 longitude: 125.14217
 glottocode: kada1286
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Taliaboic > Kadai"
+wikidata_id: Q7679471
 translations:
   - translation_iso: ara
     name: كادي

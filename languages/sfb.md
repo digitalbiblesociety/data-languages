@@ -7,12 +7,15 @@ population: 4000
 country_id: BE
 country_name: Belgium
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.8021
 longitude: 4.31312
 glottocode: lang1248
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Belgian Sign > Langue des signes de Belgique Francophone"
+wikidata_id: Q3217332
 wikipedia_url: "https://en.wikipedia.org/wiki/French_Belgian_Sign_Language"
 translations:
   - translation_iso: ara

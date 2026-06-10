@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 45.327
 longitude: -122.955
 glottocode: tual1242
 glottolog_family_id: kala1402
 glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Tualatin-Yamhill"
+wikidata_id: Q3192121
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Kalapuya_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 160
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.5718
 longitude: 141.59654
 glottocode: guri1248
+wikidata_id: Q12631954
 wikipedia_url: "https://en.wikipedia.org/wiki/Guriaso_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 110000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.70998
 longitude: 121.55456
 glottocode: ende1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > West-Central Flores > Central Flores-Paluqe > Central Flores > Eastern Central Flores > Ende-Lio > Ende"
+wikidata_id: Q2067656
 wikipedia_url: "https://en.wikipedia.org/wiki/Ende_language_(Indonesia)"
 translations:
   - translation_iso: ara

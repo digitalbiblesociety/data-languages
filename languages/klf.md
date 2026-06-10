@@ -7,12 +7,15 @@ population: 1860
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 13.24447
 longitude: 21.53955
 glottocode: kend1253
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Kendeje"
+wikidata_id: Q56895
 wikipedia_url: "https://en.wikipedia.org/wiki/Kendeje_language"
 translations:
   - translation_iso: ara

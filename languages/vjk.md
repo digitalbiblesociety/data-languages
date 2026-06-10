@@ -6,6 +6,9 @@ population: 33000000
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q3636001
 wikipedia_url: "https://en.wikipedia.org/wiki/Bajjika"
 translations:
   - translation_iso: ara

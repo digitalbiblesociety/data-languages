@@ -7,12 +7,15 @@ population: 3380
 country_id: TW
 country_name: Taiwan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.055
 longitude: 121.54423
 glottocode: yami1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Yami-Itbayat > Yami"
+wikidata_id: Q715760
 wikipedia_url: "https://en.wikipedia.org/wiki/Yami_language"
 translations:
   - translation_iso: ara

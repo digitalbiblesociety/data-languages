@@ -7,12 +7,15 @@ population: 6750
 country_id: NC
 country_name: New Caledonia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -22.3001
 longitude: 166.4449
 glottocode: newc1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Javanesic > Modern Javanese > Global Javanese > New Caledonian Javanese"
+wikidata_id: Q12953527
 wikipedia_url: "https://en.wikipedia.org/wiki/New_Caledonian_Javanese"
 translations:
   - translation_iso: ara

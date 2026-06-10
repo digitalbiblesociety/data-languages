@@ -7,12 +7,15 @@ population: 3470
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.49256
 longitude: 1.74452
 glottocode: agun1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Western Gbe > Eweic > Aguna"
+wikidata_id: Q34733
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguna_language"
 translations:
   - translation_iso: ara

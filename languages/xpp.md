@@ -6,6 +6,9 @@ population: null
 country_id: KR
 country_name: South Korea
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q65455887
 translations:
   - translation_iso: ara
     name: بويو-بايكتشي

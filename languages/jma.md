@@ -7,12 +7,15 @@ population: 750
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.70322
 longitude: 149.60524
 glottocode: dima1252
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Dima"
+wikidata_id: Q5277140
 wikipedia_url: "https://en.wikipedia.org/wiki/Dima_language"
 translations:
   - translation_iso: ara

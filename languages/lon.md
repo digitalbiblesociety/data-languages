@@ -7,12 +7,15 @@ population: 3990000
 country_id: MW
 country_name: Malawi
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.56729
 longitude: 35.43347
 glottocode: mala1256
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Makua-Lomwe > Lomweic > Malawi Lomwe"
+wikidata_id: Q10975286
 wikipedia_url: "https://en.wikipedia.org/wiki/Malawi_Lomwe_language"
 translations:
   - translation_iso: ara

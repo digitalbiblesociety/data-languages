@@ -6,6 +6,9 @@ population: 8000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q35729
 wikipedia_url: "https://en.wikipedia.org/wiki/Makalero"
 translations:
   - translation_iso: ara

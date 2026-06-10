@@ -4,8 +4,11 @@ name: Middle Khmer
 alt_names: ["Khmer, Middle (1400 to 1850 CE)"]
 country_id: KH
 country_name: Cambodia
+scope: individual
+language_type: historical
 latitude: 12.0515
 longitude: 105.015
+wikidata_id: Q25226861
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Khmer"
 translations:
   - translation_iso: ara

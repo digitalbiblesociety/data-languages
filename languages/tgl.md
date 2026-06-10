@@ -1,5 +1,6 @@
 ---
 iso: tgl
+iso639_1: tl
 name: Tagalog
 autonym: ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔
 alt_names: [Filipino, Fiteny Tagalog, Pagsasao a Tagalog, Tagal, Tagala, Tagala Gruppe, Tagalogeg, Tagalu, Tagalu simi, Tagalòg, Takalotça, Tataramon na Tagalog, Tinag-alog, Tinagalog, Тагалог, تاگالوگ تىلى, تغالوغ, ടാഗലോഗ്]
@@ -7,12 +8,15 @@ population: 23600000
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 14.06
 longitude: 121.74695
 glottocode: taga1270
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Tagalogic > Tagalog-Filipino > Tagalog"
+wikidata_id: Q34057
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagalog_language"
 translations:
   - translation_iso: ara

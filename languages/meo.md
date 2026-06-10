@@ -1,5 +1,6 @@
 ---
 iso: meo
+macrolanguage_id: msa
 name: Kedah Malay
 autonym: بهاس ملايو قد/ حภาษามลายูไทรบุรี
 alt_names: ["Malay, Kedah", Satun Malay]
@@ -7,12 +8,15 @@ population: 2600000
 country_id: MY
 country_name: Malaysia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 5.933
 longitude: 100.492
 glottocode: keda1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Northeastern Peninsular Malay > Kedah-Perak Malay"
+wikidata_id: Q4925684
 wikipedia_url: "https://en.wikipedia.org/wiki/Kedah_Malay"
 translations:
   - translation_iso: ara

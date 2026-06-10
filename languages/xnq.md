@@ -4,12 +4,15 @@ name: Ngoni
 autonym: Xingoni
 country_id: MZ
 country_name: Mozambique
+scope: individual
+language_type: living
 latitude: -12.923
 longitude: 38.892
 glottocode: moza1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Southern Tanzania Highlands Bantu > Manda-Ngoni > Tanzania-Mozambique Ngoni > Mozambican Ngoni"
+wikidata_id: Q105198599
 wikipedia_url: "https://en.wikipedia.org/wiki/Mozambican_Ngoni_language"
 translations:
   - translation_iso: ara

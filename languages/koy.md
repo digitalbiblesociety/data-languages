@@ -7,12 +7,15 @@ population: 65
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 65.60927
 longitude: -154.22852
 glottocode: koyu1237
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Koyukon"
+wikidata_id: Q28304
 wikipedia_url: "https://en.wikipedia.org/wiki/Koyukon_language"
 translations:
   - translation_iso: ara

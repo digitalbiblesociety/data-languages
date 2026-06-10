@@ -1,5 +1,6 @@
 ---
 iso: gom
+macrolanguage_id: kok
 name: Goan Konkani
 autonym: कोंकणी
 alt_names: [Goan, Goanese, Gomataki, Konkan, Konkaneg, Konkani, Konkani language, "Konkani, Goan", "Konkani, Goanese", Konkanî, Конкани, קונקאני, ಕೊಂಕಣಿ, കൊങ്കണി]
@@ -7,12 +8,15 @@ population: 3707000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.27325
 longitude: 74.20979
 glottocode: goan1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Southern zone > Marathic > Marathi-Konkani > Goan Konkani"
+wikidata_id: Q5575236
 translations:
   - translation_iso: ara
     name: غوآن كونكآني

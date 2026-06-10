@@ -6,12 +6,15 @@ population: 6500
 country_id: HR
 country_name: Croatia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 45.502
 longitude: 16.796
 glottocode: croa1242
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Yugoslav Sign > Croatian Sign Language"
+wikidata_id: Q3507506
 wikipedia_url: "https://en.wikipedia.org/wiki/Croatian_Sign_Language"
 translations:
   - translation_iso: ara

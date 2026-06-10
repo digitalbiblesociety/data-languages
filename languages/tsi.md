@@ -7,6 +7,8 @@ population: 150
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 54.62138
 longitude: -130.496315
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nucl1649
 glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian
 glottolog_classification: "Tsimshian > Southern-Coastal Tsimshian"
+wikidata_id: Q20085721
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsimshian_language"
 translations:
   - translation_iso: ara

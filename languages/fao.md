@@ -1,5 +1,6 @@
 ---
 iso: fao
+iso639_1: fo
 name: Faroese
 autonym: føroyskt mál
 alt_names: [Faaroish, Faerana linguo, Faeroeg, Faeroese, Faeroyès, Faeröars, Faeröers, Faeröersk, Farer tili, Faroece, Faroeera, Faroese Islands, Faroisc sprǣc, Faroyek, Faroés, Faroëes, Fearagiella, Feroès, Feroés, Färöische Språch, Färöiska, Færeyska, Færøsk, Færøysk, Féroïen, Føroyskt, Lèngoa farœnse, Łéngua faroexe, Алифбои фароесӣ, Фарер йылме, فائېروس تىل, فاروئى]
@@ -7,6 +8,8 @@ population: 69000
 country_id: FO
 country_name: Faroe Islands
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 62.07316
 longitude: -6.88497
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: faro1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > North Germanic > West Scandinavian > Icelandic-Faroese > Faroese"
+wikidata_id: Q25258
 wikipedia_url: "https://en.wikipedia.org/wiki/Faroese_language"
 translations:
   - translation_iso: ara

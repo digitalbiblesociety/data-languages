@@ -1,5 +1,6 @@
 ---
 iso: hnd
+macrolanguage_id: lah
 name: Southern Hindko
 autonym: ہندکو
 alt_names: [Hindko, Hindko language, "Hindko, Southern", Lahnda, Northeastern Lahnda]
@@ -7,6 +8,8 @@ population: 1170000
 country_id: PK
 country_name: Pakistan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 33.21215
 longitude: 72.17018
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: sout2668
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Southern Hindko"
+wikidata_id: Q111326242
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Hindko_language"
 translations:
   - translation_iso: ara

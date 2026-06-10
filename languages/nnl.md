@@ -7,12 +7,15 @@ population: 13000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.4492
 longitude: 94.56834
 glottocode: nort2725
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Pochuri-Northern Rengma > Northern Rengma Naga"
+wikidata_id: Q7067615
 wikipedia_url: "https://en.wikipedia.org/wiki/Ntenyi_language"
 translations:
   - translation_iso: ara

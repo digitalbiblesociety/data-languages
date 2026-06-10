@@ -7,12 +7,15 @@ population: 1000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.42272
 longitude: 116.19843
 glottocode: keni1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Lowland Murut > Keningau Murut"
+wikidata_id: Q6389308
 wikipedia_url: "https://en.wikipedia.org/wiki/Keningau_Murut_language"
 translations:
   - translation_iso: ara

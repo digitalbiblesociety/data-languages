@@ -7,12 +7,15 @@ population: 8000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.4066
 longitude: 11.05109
 glottocode: looo1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Northern Bikwin-Jen > Burak-Loo > Loo"
+wikidata_id: Q3915378
 wikipedia_url: "https://en.wikipedia.org/wiki/Loo_language"
 translations:
   - translation_iso: ara

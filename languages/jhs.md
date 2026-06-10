@@ -6,12 +6,15 @@ population: null
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.933333
 longitude: 82.9
 glottocode: jhan1234
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Jhyankot Sign Language"
+wikidata_id: Q6190889
 wikipedia_url: "https://en.wikipedia.org/wiki/Jhankot_Sign_Language"
 translations:
   - translation_iso: ara

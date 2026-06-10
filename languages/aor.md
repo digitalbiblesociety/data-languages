@@ -6,12 +6,15 @@ population: null
 country_id: VU
 country_name: Vanuatu
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -15.57526
 longitude: 167.16614
 glottocode: aore1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > Nuclear Santo > South Santo > Aore"
+wikidata_id: Q12627129
 wikipedia_url: "https://en.wikipedia.org/wiki/Aore_language"
 translations:
   - translation_iso: ara

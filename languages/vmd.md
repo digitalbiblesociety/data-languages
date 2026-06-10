@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.62244
 longitude: 75.10613
 glottocode: mudu1241
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > South-Western Dravidian > Koraga > Mudu Koraga"
+wikidata_id: Q12952656
 translations:
   - translation_iso: ara
     name: موده كوراجا

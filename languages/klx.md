@@ -6,12 +6,15 @@ population: 900
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.42742
 longitude: 150.46185
 glottocode: kolu1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Koluwawa"
+wikidata_id: Q6427954
 wikipedia_url: "https://en.wikipedia.org/wiki/Koluwawa_language"
 translations:
   - translation_iso: ara

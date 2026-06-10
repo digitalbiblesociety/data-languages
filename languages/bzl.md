@@ -7,12 +7,15 @@ population: 2700
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.51152
 longitude: 120.99196
 glottocode: boan1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tolitoli > Boano (Sulawesi)"
+wikidata_id: Q4931258
 wikipedia_url: "https://en.wikipedia.org/wiki/Boano_language_(Sulawesi)"
 translations:
   - translation_iso: ara

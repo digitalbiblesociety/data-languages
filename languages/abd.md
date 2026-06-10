@@ -7,12 +7,15 @@ population: 150
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.15712
 longitude: 122.83497
 glottocode: cama1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Alabat-Manide Agta > Camarines Norte Agta"
+wikidata_id: Q3399682
 wikipedia_url: "https://en.wikipedia.org/wiki/Manide_language"
 translations:
   - translation_iso: ara

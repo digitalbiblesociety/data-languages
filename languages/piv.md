@@ -7,12 +7,15 @@ population: 1660
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.95114
 longitude: 167.20709
 glottocode: pile1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vaeakau-Taumako"
+wikidata_id: Q2976736
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaeakau-Taumako_language"
 translations:
   - translation_iso: ara

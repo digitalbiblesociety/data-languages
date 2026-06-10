@@ -7,12 +7,15 @@ population: 480
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -4.11998
 longitude: 141.58528
 glottocode: iter1241
 glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Iteri-Bo > Iteri"
+wikidata_id: Q2083185
 wikipedia_url: "https://en.wikipedia.org/wiki/Iteri_language"
 translations:
   - translation_iso: ara

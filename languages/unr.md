@@ -7,6 +7,8 @@ population: 1170280
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.03911
 longitude: 87.1792
 scripts: [Beng, Deva]
@@ -14,6 +16,7 @@ glottocode: mund1320
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Ho-Mundari > Mundari"
+wikidata_id: Q3327828
 wikipedia_url: "https://en.wikipedia.org/wiki/Mundari_language"
 translations:
   - translation_iso: ara

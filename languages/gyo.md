@@ -6,6 +6,9 @@ population: 200
 country_id: NP
 country_name: Nepal
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q53575940
 wikipedia_url: "https://en.wikipedia.org/wiki/Gyalsumdo_language"
 translations:
   - translation_iso: ara

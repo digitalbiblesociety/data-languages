@@ -7,12 +7,15 @@ population: 21020
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.08728
 longitude: 145.03242
 glottocode: sina1271
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Simbu > Nuclear Simbu > Golinic > Sinasina"
+wikidata_id: Q7521813
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinasina_language"
 translations:
   - translation_iso: ara

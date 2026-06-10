@@ -7,6 +7,8 @@ population: 47500000
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 9.65873
 longitude: 4.21068
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nige1257
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Coastal Nigerian Krio > Nigerian-Ghanaian Krio > Nigerian Pidgin"
+wikidata_id: Q33655
 wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Pidgin"
 translations:
   - translation_iso: ara

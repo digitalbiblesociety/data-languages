@@ -7,12 +7,15 @@ population: 850
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.7686
 longitude: 92.18383
 glottocode: chug1252
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kho-Bwa > Western Kho-Bwa > Chug-Lish > Duhumbi"
+wikidata_id: Q47683644
 wikipedia_url: "https://en.wikipedia.org/wiki/Chug_language"
 translations:
   - translation_iso: ara

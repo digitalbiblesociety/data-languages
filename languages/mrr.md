@@ -7,12 +7,15 @@ population: 165000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.78753
 longitude: 79.91438
 glottocode: mari1414
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Southeast Gondi > Maria (India)"
+wikidata_id: Q27602
 wikipedia_url: "https://en.wikipedia.org/wiki/Madiya_language"
 translations:
   - translation_iso: ara

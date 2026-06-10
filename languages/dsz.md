@@ -5,12 +5,15 @@ alt_names: [Dilsizce, Eski Işaretler]
 population: 40
 country_id: TR
 country_name: Turkey
+scope: individual
+language_type: living
 latitude: 37.316667
 longitude: 40.737778
 glottocode: mard1245
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Mardin Sign Language"
+wikidata_id: Q6758681
 wikipedia_url: "https://en.wikipedia.org/wiki/Mardin_Sign_Language"
 translations:
   - translation_iso: ara

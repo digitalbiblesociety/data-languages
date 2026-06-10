@@ -7,12 +7,15 @@ population: 108000
 country_id: VC
 country_name: "St. Vincent & Grenadines"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.24357
 longitude: -61.19632
 glottocode: vinc1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Vincent-Grenadian Creole > Vincentian Creole English"
+wikidata_id: Q3501785
 wikipedia_url: "https://en.wikipedia.org/wiki/Vincentian_Creole"
 translations:
   - translation_iso: ara

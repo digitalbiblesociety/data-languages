@@ -7,12 +7,15 @@ population: 20940
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 29.94463
 longitude: -110.68099
 glottocode: yaqu1251
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Cahitan > Yaqui"
+wikidata_id: Q34191
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaqui_language"
 translations:
   - translation_iso: ara

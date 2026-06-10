@@ -7,12 +7,15 @@ population: 70
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.62803
 longitude: 135.02456
 glottocode: ires1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Southwest Cenderawasih Bay > Yaur-Yerisiam > Yerisiam"
+wikidata_id: Q6069398
 wikipedia_url: "https://en.wikipedia.org/wiki/Yerisiam_language"
 translations:
   - translation_iso: ara

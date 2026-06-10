@@ -7,12 +7,15 @@ population: 35000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.925
 longitude: 99.656
 glottocode: nort2724
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Bai > Baic > Northern Bai"
+wikidata_id: Q12642165
 translations:
   - translation_iso: ara
     name: بانيي باي

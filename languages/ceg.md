@@ -7,12 +7,15 @@ population: 2000
 country_id: PY
 country_name: Paraguay
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -20.58988
 longitude: -58.20047
 glottocode: cham1315
 glottolog_family_id: zamu1243
 glottolog_family_name: Zamucoan
 glottolog_classification: "Zamucoan > Chamacoco"
+wikidata_id: Q3436637
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamacoco_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 90000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.56704
 longitude: 14.03144
 glottocode: mofu1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Mofu > Mofu-Gudur"
+wikidata_id: Q1365132
 wikipedia_url: "https://en.wikipedia.org/wiki/Mofu-Gudur_language"
 translations:
   - translation_iso: ara

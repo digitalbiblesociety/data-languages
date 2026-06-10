@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 43.22
 longitude: -123.36
 glottocode: uppe1436
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Upper Umpqua"
+wikidata_id: Q20607
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Umpqua_language"
 translations:
   - translation_iso: ara

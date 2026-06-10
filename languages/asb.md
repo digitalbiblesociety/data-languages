@@ -7,12 +7,15 @@ population: 250
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 49.292285
 longitude: -106.068105
 glottocode: assi1247
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dakotan > Nakoda > Assiniboine"
+wikidata_id: Q2591288
 wikipedia_url: "https://en.wikipedia.org/wiki/Assiniboine_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3850
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.18168
 longitude: 146.88795
 glottocode: tita1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > East Manus > Koro-Lele-Nali-Titan > Titan"
+wikidata_id: Q3445811
 wikipedia_url: "https://en.wikipedia.org/wiki/Titan_language"
 translations:
   - translation_iso: ara

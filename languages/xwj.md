@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q33110188
 translations:
   - translation_iso: ara
     name: واجوك

@@ -6,12 +6,15 @@ population: 1000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.35
 longitude: 103.33
 glottocode: kuam1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Laluba-Lavu > Kuansi-Kuamasi-Sonaga > Kuansi-Kuamasi > Kuamasi"
+wikidata_id: Q6441074
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuamasi_language"
 translations:
   - translation_iso: ara

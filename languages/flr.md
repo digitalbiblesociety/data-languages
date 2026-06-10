@@ -7,12 +7,15 @@ population: 400000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.04022
 longitude: 28.98646
 glottocode: fuli1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Fuliiric > Fuliiru-Vira > Fuliiru"
+wikidata_id: Q7166821
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuliiru_language"
 translations:
   - translation_iso: ara

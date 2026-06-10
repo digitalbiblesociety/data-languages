@@ -7,12 +7,15 @@ population: 380000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.50051
 longitude: 101.30185
 glottocode: lolo1259
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Lolopo"
+wikidata_id: Q56441
 wikipedia_url: "https://en.wikipedia.org/wiki/Lolopo_language"
 translations:
   - translation_iso: ara

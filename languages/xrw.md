@@ -6,12 +6,15 @@ population: 63
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.69933
 longitude: 142.01835
 glottocode: kara1495
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Ram > Pouye-Karawa > Karawa"
+wikidata_id: Q6368857
 wikipedia_url: "https://en.wikipedia.org/wiki/Karawa_language"
 translations:
   - translation_iso: ara

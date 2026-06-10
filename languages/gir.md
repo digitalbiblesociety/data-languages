@@ -7,12 +7,15 @@ population: 50
 country_id: VN
 country_name: Vietnam
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 23.18677
 longitude: 104.99252
 glottocode: redg1235
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Southwestern Kra > Western Kra > Gauic > Gelaoic > Northern Gelao > Ahouic > Red Gelao"
+wikidata_id: Q3100264
 wikipedia_url: "https://en.wikipedia.org/wiki/Vandu_language"
 translations:
   - translation_iso: ara

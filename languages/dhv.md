@@ -7,12 +7,15 @@ population: 13000
 country_id: NC
 country_name: New Caledonia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -20.88918
 longitude: 167.22924
 glottocode: dehu1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Dehu"
+wikidata_id: Q3039319
 wikipedia_url: "https://en.wikipedia.org/wiki/Drehu_language"
 translations:
   - translation_iso: ara

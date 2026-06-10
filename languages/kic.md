@@ -7,12 +7,15 @@ population: 1120
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41.655145
 longitude: -89.03034
 glottocode: kick1244
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Fox > Kickapoo"
+wikidata_id: Q20162127
 wikipedia_url: "https://en.wikipedia.org/wiki/Kickapoo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 799
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 44.97941
 longitude: -88.63948
 glottocode: meno1252
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Menominee"
+wikidata_id: Q13363
 wikipedia_url: "https://en.wikipedia.org/wiki/Menominee_language"
 translations:
   - translation_iso: ara

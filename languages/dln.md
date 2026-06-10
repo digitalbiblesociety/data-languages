@@ -6,12 +6,15 @@ population: 6000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.991965
 longitude: 91.333905
 glottocode: darl1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Darlong"
+wikidata_id: Q5224029
 wikipedia_url: "https://en.wikipedia.org/wiki/Darlong_language"
 translations:
   - translation_iso: ara

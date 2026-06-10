@@ -7,12 +7,15 @@ population: 1056
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.28569
 longitude: 94.21409
 glottocode: koir1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Kolhrengic > Nuclear Kolhrengic > Koireng"
+wikidata_id: Q6426342
 wikipedia_url: "https://en.wikipedia.org/wiki/Koireng_language"
 translations:
   - translation_iso: ara

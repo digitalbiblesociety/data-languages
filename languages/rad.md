@@ -7,12 +7,15 @@ population: 331000
 country_id: VN
 country_name: Vietnam
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.979
 longitude: 108.40989
 glottocode: rade1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Rade-Jarai > Rade"
+wikidata_id: Q3429088
 wikipedia_url: "https://en.wikipedia.org/wiki/Rade_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2800
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.0993
 longitude: -96.59516
 glottocode: ayau1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Valley Mazatec > Ayautlic > Ayautla Mazatec"
+wikidata_id: Q14916912
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayautla_Mazatec"
 translations:
   - translation_iso: ara

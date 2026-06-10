@@ -7,12 +7,15 @@ population: 431000
 country_id: AO
 country_name: Angola
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.064795
 longitude: 22.24366
 glottocode: luch1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Luchazi"
+wikidata_id: Q3265143
 wikipedia_url: "https://en.wikipedia.org/wiki/Luchazi"
 translations:
   - translation_iso: ara

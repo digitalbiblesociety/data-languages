@@ -7,12 +7,15 @@ population: 1200
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.72555
 longitude: 126.7001
 glottocode: tugu1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Tugun"
+wikidata_id: Q12953225
 translations:
   - translation_iso: ara
     name: توجون

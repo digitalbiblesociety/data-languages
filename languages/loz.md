@@ -7,6 +7,8 @@ population: 734000
 country_id: ZM
 country_name: Zambia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -17.705168
 longitude: 24.739778
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lozi1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Western Sotho-Tswana > Central Sotho-Tswana > Sesotho-Lozi > Lozi"
+wikidata_id: Q33628
 wikipedia_url: "https://en.wikipedia.org/wiki/Lozi_language"
 translations:
   - translation_iso: ara

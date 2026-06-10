@@ -7,12 +7,15 @@ population: 3000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.66
 longitude: -3.1
 glottocode: tebu1239
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Tebul Ure Dogon"
+wikidata_id: Q7692089
 wikipedia_url: "https://en.wikipedia.org/wiki/Tebul_Dogon"
 translations:
   - translation_iso: ara

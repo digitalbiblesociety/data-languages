@@ -7,12 +7,15 @@ population: 250
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.38649
 longitude: -72.2005
 glottocode: acha1250
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Piapoco-Achagua > Achagua"
+wikidata_id: Q2822982
 wikipedia_url: "https://en.wikipedia.org/wiki/Achagua_language"
 translations:
   - translation_iso: ara

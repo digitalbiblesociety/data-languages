@@ -7,12 +7,15 @@ population: 81300
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 31.53925
 longitude: 103.38351
 glottocode: sout2728
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Qiang > Southern Qiang"
+wikidata_id: Q56563
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Qiang_language"
 translations:
   - translation_iso: ara

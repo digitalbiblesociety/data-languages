@@ -6,12 +6,15 @@ population: 13000
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.039745
 longitude: -14.8188
 glottocode: nalu1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Nalu"
+wikidata_id: Q36026
 wikipedia_url: "https://en.wikipedia.org/wiki/Nalu_language"
 translations:
   - translation_iso: ara

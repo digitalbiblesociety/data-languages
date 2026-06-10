@@ -1,5 +1,6 @@
 ---
 iso: plt
+macrolanguage_id: mlg
 name: Plateau Malagasy
 autonym: malagasy
 alt_names: [Malagasi, "Malagasy, Plateau"]
@@ -7,12 +8,15 @@ population: 7646100
 country_id: MG
 country_name: Madagascar
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -19.59065
 longitude: 47.12111
 glottocode: plat1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Central-Eastern Malagasic > Plateau Malagasy"
+wikidata_id: Q15069308
 translations:
   - translation_iso: ara
     name: اللغة ملغاسية البلاتو

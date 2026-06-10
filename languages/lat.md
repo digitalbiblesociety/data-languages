@@ -1,5 +1,6 @@
 ---
 iso: lat
+iso639_1: la
 name: Latin
 autonym: lingua latīna
 alt_names: [An Laidin, Classical Latin, Kilatini, Ladjyn, Laideann, Laitin leid, Latein, Latien, Latiensche Spraak, Latiensk, Latijn, Latim, Latin simi, Latin-gí, Latina, "Latinañe'ẽ", Latince, Latinh, Latinki, Latinum, Latyn, Latynsk, Latäin, Latén, Latín, Latína, Lenghe latine, Linatin, Lladin, Llatí, Llatín, Lotin tili, Luenga latina, Lá-dĭng-ngṳ̄, Láhtengiella, Lâ-tên-ngî, Lǣden, Spoken Latin, Tataramon na Latin, Tok Latin, Vulgar Latin, Łacina, Łaćina, Łéngoa latina, Забони лотинӣ, Лати́ньскъ ѩꙁꙑ́къ, Латин йылме, Латин келн, Латин теле, Латыын тыла, Լատիներեն, לאטיין, לטינית, لاتىن تىلى, لاتينى, لاطینی, ܠܫܢܐ ܠܐܛܝܢܝܐ, இலத்தீன், లాటిన్, ಲ್ಯಾಟಿನ್, ലാറ്റിൻ, ሮማይስጥ, 拉丁文, 拉丁話]
@@ -7,6 +8,8 @@ population: null
 country_id: VA
 country_name: Holy See Vatican
 status_id: "3"
+scope: individual
+language_type: historical
 latitude: 41.90264
 longitude: 12.45021
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: lati1261
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Latin"
+wikidata_id: Q397
 wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
 translations:
   - translation_iso: ara

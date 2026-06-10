@@ -7,12 +7,15 @@ population: 21000
 country_id: CL
 country_name: Chile
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -32.78099
 longitude: -70.66979
 glottocode: chil1264
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Chilean Sign Language"
+wikidata_id: Q3322112
 wikipedia_url: "https://en.wikipedia.org/wiki/Chilean_Sign_Language"
 translations:
   - translation_iso: ara

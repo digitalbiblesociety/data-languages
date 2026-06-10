@@ -7,12 +7,15 @@ population: 3240
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.99427
 longitude: 147.70512
 glottocode: hula1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Sinagoro-Keapara > Hula-Keapara > Hula"
+wikidata_id: Q6382179
 wikipedia_url: "https://en.wikipedia.org/wiki/Hula_language"
 translations:
   - translation_iso: ara

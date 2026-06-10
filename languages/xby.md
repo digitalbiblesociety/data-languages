@@ -7,6 +7,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
+wikidata_id: Q31752631
 translations:
   - translation_iso: ara
     name: باتجالا

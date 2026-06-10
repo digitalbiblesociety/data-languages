@@ -7,12 +7,15 @@ population: 17000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.2969
 longitude: 129.66284
 glottocode: telu1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Eastern Littoral Piru Bay > Teluti"
+wikidata_id: Q12953194
 translations:
   - translation_iso: ara
     name: سو ناما

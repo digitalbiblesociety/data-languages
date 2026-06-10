@@ -7,12 +7,15 @@ population: 12000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.485005
 longitude: 20.644785
 glottocode: furu1242
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Peripherique > Barh Keita > Furu"
+wikidata_id: Q3441160
 wikipedia_url: "https://en.wikipedia.org/wiki/Furu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 590
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.02591
 longitude: 144.58253
 glottocode: wata1253
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Watam-Kaian > Watam"
+wikidata_id: Q3566597
 wikipedia_url: "https://en.wikipedia.org/wiki/Marangis_language"
 translations:
   - translation_iso: ara

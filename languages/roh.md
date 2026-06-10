@@ -1,5 +1,6 @@
 ---
 iso: roh
+iso639_1: rm
 name: Romansh
 autonym: rumantsch
 alt_names: [Erromantxera, Grishun, Kirumanj, Lenghe romanze, Reto-Roemaans, Reto-Romaans, Retoromaani, Retoromansk, Rhaeto-Romance, Rhaeto-Romansch, Rhaeto-Romansch (Scharans), Rheto-Romance, Rhäto-Romanisch, Romanch, Romanche, Romanisch, Romansch, Romanx, Romanşça, Romanš, Romaunsch, Romañcheg, Roumancho, Roumantche, Roumantsh, Rumancc, Rumanch, Rumantsch dal Grischun, Rumauntsch, Rätoromanesch, Rätoromanisch, Rätoromanska, Rætoromansk, Scharans, Scharans dialect, Surmeiran, Sursilvan, Ретороманонь кяль, Романш, רומאנש, ሮማንሽ]
@@ -7,6 +8,8 @@ population: 40000
 country_id: CH
 country_name: Switzerland
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 46.55377
 longitude: 9.92812
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: roma1326
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Romansh"
+wikidata_id: Q13199
 wikipedia_url: "https://en.wikipedia.org/wiki/Romansh_language"
 translations:
   - translation_iso: ara

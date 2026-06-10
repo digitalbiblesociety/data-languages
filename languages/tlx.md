@@ -7,12 +7,15 @@ population: 1600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.06626
 longitude: 146.74577
 glottocode: kheh1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus II > Likum-Levei > Khehek"
+wikidata_id: Q3196124
 wikipedia_url: "https://en.wikipedia.org/wiki/Khehek_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 250
 country_id: TZ
 country_name: Tanzania
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.97716
 longitude: 37.52801
 glottocode: ngas1238
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Ngasa"
+wikidata_id: Q56345
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngasa_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 214910
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.94295
 longitude: 13.81812
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mafa1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Matakam > Mafa"
+wikidata_id: Q35819
 wikipedia_url: "https://en.wikipedia.org/wiki/Mafa_language"
 translations:
   - translation_iso: ara

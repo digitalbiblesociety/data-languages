@@ -7,12 +7,15 @@ population: 1100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.48678
 longitude: 142.20124
 glottocode: goba1246
 glottolog_family_id: east2433
 glottolog_family_name: East Strickland
 glottolog_classification: "East Strickland > Kubo-Samo-Bibo > Gobasi"
+wikidata_id: Q5575414
 wikipedia_url: "https://en.wikipedia.org/wiki/Gobasi_language"
 translations:
   - translation_iso: ara

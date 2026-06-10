@@ -6,12 +6,15 @@ population: 3600
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.69674
 longitude: 143.79638
 glottocode: bung1270
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Bungain"
+wikidata_id: Q3450623
 wikipedia_url: "https://en.wikipedia.org/wiki/Bungain_language"
 translations:
   - translation_iso: ara

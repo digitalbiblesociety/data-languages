@@ -6,12 +6,15 @@ population: 200
 country_id: BO
 country_name: Bolivia
 status_id: null
+scope: individual
+language_type: living
 latitude: -13.30281
 longitude: -67.39312
 glottocode: toro1255
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Tacanan > Takanik-Chamik > Takanik > Araona-Toromono > Toromono"
+wikidata_id: Q510544
 wikipedia_url: "https://en.wikipedia.org/wiki/Toromona_language"
 translations:
   - translation_iso: ara

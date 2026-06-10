@@ -6,6 +6,9 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q1975271
 wikipedia_url: "https://en.wikipedia.org/wiki/Taivoan_language"
 translations:
   - translation_iso: ara

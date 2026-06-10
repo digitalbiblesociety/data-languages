@@ -1,5 +1,6 @@
 ---
 iso: ojs
+macrolanguage_id: oji
 name: Severn Ojibwa
 autonym: " ᐊᓂᔑᓂᓂᒧᐏᐣ"
 alt_names: [Anishininiimowin, Chippeway, Cree, Northern Ojibwa, Oji-Cree, Oji-Cree language, Ojibwa, Ojibwa (Severn), "Ojibwa, Severn", Ojibway, Ojibwe, Ojibweg Severn, Ojicree, Oyi-clisteno, Severn Ojibwe]
@@ -7,6 +8,8 @@ population: 12900
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 53.9092
 longitude: -89.93311
 scripts: [Cans]
@@ -14,6 +17,7 @@ glottocode: seve1240
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Severn-Algonquin > Severn Ojibwa"
+wikidata_id: Q56494
 wikipedia_url: "https://en.wikipedia.org/wiki/Oji-Cree_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 13.0472
 longitude: 92.87525
 glottocode: okoj1239
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > Middle Great Andamanese > Okojuwoi"
+wikidata_id: Q3436832
 wikipedia_url: "https://en.wikipedia.org/wiki/Okojuwoi"
 translations:
   - translation_iso: ara

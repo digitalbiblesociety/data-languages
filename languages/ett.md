@@ -7,10 +7,13 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 41.9
 longitude: 12.483333
 scripts: [Ital, Latn]
 glottocode: etru1241
+wikidata_id: Q35726
 wikipedia_url: "https://en.wikipedia.org/wiki/Etruscan_language"
 translations:
   - translation_iso: ara

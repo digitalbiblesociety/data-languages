@@ -7,12 +7,15 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 25.00456
 longitude: 121.85705
 glottocode: basa1287
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Northern East Formosan > Basay"
+wikidata_id: Q716647
 wikipedia_url: "https://en.wikipedia.org/wiki/Basay_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 30.40957
 longitude: -92.70902
 glottocode: koas1236
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Alabaman-Koasati > Koasati"
+wikidata_id: Q35162
 wikipedia_url: "https://en.wikipedia.org/wiki/Koasati_language"
 translations:
   - translation_iso: ara

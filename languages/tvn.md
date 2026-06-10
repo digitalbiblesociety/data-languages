@@ -7,12 +7,15 @@ population: 400000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.107809
 longitude: 98.19397
 glottocode: tavo1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Mranmaic > Nuclear Mranmaic > Tavoyan"
+wikidata_id: Q7689158
 wikipedia_url: "https://en.wikipedia.org/wiki/Tavoyan_dialects"
 translations:
   - translation_iso: ara

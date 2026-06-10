@@ -7,12 +7,15 @@ population: 250
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 43.44131
 longitude: -124.15962
 glottocode: coos1249
 glottolog_family_id: coos1248
 glottolog_family_name: Coosan
 glottolog_classification: "Coosan > Hanis"
+wikidata_id: Q3126783
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanis_language"
 translations:
   - translation_iso: ara

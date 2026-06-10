@@ -7,12 +7,15 @@ population: 13000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.17947
 longitude: -95.70318
 glottocode: nort2939
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Midland Mixe > North Central Mixe"
+wikidata_id: Q25559729
 translations:
   - translation_iso: ara
     name: شمال سنترال ميكسي

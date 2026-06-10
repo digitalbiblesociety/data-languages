@@ -7,12 +7,15 @@ population: 3890
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.70755
 longitude: 128.07305
 glottocode: laha1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Ambonic > Central Ambon > Laha (Indonesia)"
+wikidata_id: Q6473107
 wikipedia_url: "https://en.wikipedia.org/wiki/Laha_language_(Indonesia)"
 translations:
   - translation_iso: ara

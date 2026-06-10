@@ -7,12 +7,15 @@ population: 8000
 country_id: PF
 country_name: French Polynesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -23.38431
 longitude: -149.46195
 glottocode: aust1304
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Tahitian-Austral > Austral"
+wikidata_id: Q2669261
 wikipedia_url: "https://en.wikipedia.org/wiki/Austral_language"
 translations:
   - translation_iso: ara

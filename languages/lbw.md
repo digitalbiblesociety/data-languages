@@ -7,6 +7,8 @@ population: 238000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.03577
 longitude: 121.88825
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tola1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Tolaki"
+wikidata_id: Q3033597
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolaki_language"
 translations:
   - translation_iso: ara

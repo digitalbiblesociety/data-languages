@@ -7,12 +7,15 @@ population: 143000
 country_id: NI
 country_name: Nicaragua
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 15.157575
 longitude: -84.294175
 glottocode: misk1235
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Mískito"
+wikidata_id: Q1516803
 wikipedia_url: "https://en.wikipedia.org/wiki/Miskito_language"
 translations:
   - translation_iso: ara

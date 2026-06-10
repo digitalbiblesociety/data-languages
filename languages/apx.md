@@ -7,12 +7,15 @@ population: 150
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.84732
 longitude: 126.4958
 glottocode: aput1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Perai-Aputai > Aputai"
+wikidata_id: Q12473343
 translations:
   - translation_iso: ara
     name: اللغة أبوتاي

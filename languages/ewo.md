@@ -7,6 +7,8 @@ population: 578000
 country_id: CM
 country_name: Cameroon
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 4.21141
 longitude: 11.93646
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ewon1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Ewondo-Bebele > Ewondo"
+wikidata_id: Q35459
 wikipedia_url: "https://en.wikipedia.org/wiki/Ewondo_language"
 translations:
   - translation_iso: ara

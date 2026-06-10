@@ -7,6 +7,8 @@ population: 291000
 country_id: KH
 country_name: Cambodia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.477113
 longitude: 104.02566
 scripts: [Arab, Cham]
@@ -14,6 +16,7 @@ glottocode: west2650
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Cham > Western Cham"
+wikidata_id: Q241146
 wikipedia_url: "https://en.wikipedia.org/wiki/Cham_language"
 translations:
   - translation_iso: ara

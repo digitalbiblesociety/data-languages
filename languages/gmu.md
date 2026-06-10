@@ -6,12 +6,15 @@ population: 580
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.22189
 longitude: 145.61809
 glottocode: guma1255
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Gum > Gumalu"
+wikidata_id: Q5618027
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumalu_language"
 translations:
   - translation_iso: ara

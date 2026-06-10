@@ -7,12 +7,15 @@ population: 2460
 country_id: GA
 country_name: Gabon
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.17673
 longitude: 10.64985
 glottocode: vumb1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Central-Southern Kikongo > West Kikongo > Vilic > Lumbuic > Ngubi-Sangu-Sira-Punu > Sangu-Sira-Punu > Punu-Vungu > Vumbu"
+wikidata_id: Q36629
 wikipedia_url: "https://en.wikipedia.org/wiki/Vumbu_language"
 translations:
   - translation_iso: ara

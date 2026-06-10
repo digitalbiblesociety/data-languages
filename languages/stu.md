@@ -7,6 +7,8 @@ population: 9550
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.018475
 longitude: 99.257565
 scripts: [Lana, Tale]
@@ -14,6 +16,7 @@ glottocode: samt1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Bulangic > Samtao"
+wikidata_id: Q13018576
 translations:
   - translation_iso: ara
     name: اللغة سامتاو

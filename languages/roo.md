@@ -7,12 +7,15 @@ population: 4320
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.94339
 longitude: 155.15365
 glottocode: roto1249
 glottolog_family_id: nort2933
 glottolog_family_name: North Bougainville
 glottolog_classification: "North Bougainville > Rotokas-Askopan > Rotokas"
+wikidata_id: Q13203
 wikipedia_url: "https://en.wikipedia.org/wiki/Rotokas_language"
 translations:
   - translation_iso: ara

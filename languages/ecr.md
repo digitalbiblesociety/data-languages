@@ -7,10 +7,13 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: null
+scope: individual
+language_type: historical
 glottocode: eteo1236
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Eteocretan"
+wikidata_id: Q35461
 wikipedia_url: "https://en.wikipedia.org/wiki/Eteocretan_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 386360
 country_id: CA
 country_name: Canada
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.046615
 longitude: -81.35247
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: plau1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > Greater East Low German > Plautdietsch"
+wikidata_id: Q1751432
 wikipedia_url: "https://en.wikipedia.org/wiki/Plautdietsch"
 translations:
   - translation_iso: ara

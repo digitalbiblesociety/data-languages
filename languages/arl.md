@@ -7,12 +7,15 @@ population: 400
 country_id: PE
 country_name: Peru
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -1.96126
 longitude: -75.06117
 glottocode: arab1268
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Arabela-Andoa > Arabela"
+wikidata_id: Q2591221
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabela_language"
 translations:
   - translation_iso: ara

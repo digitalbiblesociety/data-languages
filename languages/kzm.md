@@ -7,12 +7,15 @@ population: 700
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -1.78077
 longitude: 132.31177
 glottocode: kais1235
 glottolog_family_id: sout3418
 glottolog_family_name: "South Bird's Head"
 glottolog_classification: "South Bird's Head > Nuclear South Bird's Head > Kais"
+wikidata_id: Q6348319
 wikipedia_url: "https://en.wikipedia.org/wiki/Kais_language"
 translations:
   - translation_iso: ara

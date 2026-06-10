@@ -7,12 +7,15 @@ population: 70000
 country_id: VN
 country_name: Vietnam
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.63132
 longitude: 107.30064
 glottocode: cent1992
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Mnong-Stieng-Chrau > Mnong > Southern-Central Mnong > Central Mnong"
+wikidata_id: Q13018551
 translations:
   - translation_iso: ara
     name: موغ الوسطى

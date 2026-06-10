@@ -7,12 +7,15 @@ population: null
 country_id: GE
 country_name: Georgia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 41.604313
 longitude: 43.06151
 glottocode: oldg1234
 glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Georgic > Old Georgian"
+wikidata_id: Q34834
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Georgian"
 translations:
   - translation_iso: ara

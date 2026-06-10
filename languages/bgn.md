@@ -1,5 +1,6 @@
 ---
 iso: bgn
+macrolanguage_id: bal
 name: Western Balochi
 autonym: بلۏچی  Balòci
 alt_names: ["Balochi, Western", Baloci, Baluchi, Baluci, Balutschi]
@@ -7,6 +8,8 @@ population: 2249850
 country_id: PK
 country_name: Pakistan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 37.83
 longitude: 62.17
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: west2368
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Southern-Western Balochi > Western Balochi"
+wikidata_id: Q12645561
 wikipedia_url: "https://en.wikipedia.org/wiki/Rakhshani_dialect"
 translations:
   - translation_iso: ara

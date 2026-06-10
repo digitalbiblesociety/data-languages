@@ -7,9 +7,12 @@ population: 2010
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -0.69386
 longitude: -75.21832
 glottocode: abis1238
+wikidata_id: Q2871740
 wikipedia_url: "https://en.wikipedia.org/wiki/Aewa_language"
 translations:
   - translation_iso: ara

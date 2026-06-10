@@ -6,8 +6,11 @@ population: 125
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.32646
 longitude: 167.61883
+wikidata_id: Q7313900
 wikipedia_url: "https://en.wikipedia.org/wiki/Repanbitip_language"
 translations:
   - translation_iso: ara

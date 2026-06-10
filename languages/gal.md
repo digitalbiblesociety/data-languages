@@ -7,12 +7,15 @@ population: 20080
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.61074
 longitude: 125.95904
 glottocode: galo1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Galoli-Talur"
+wikidata_id: Q35322
 wikipedia_url: "https://en.wikipedia.org/wiki/Galoli_language"
 translations:
   - translation_iso: ara

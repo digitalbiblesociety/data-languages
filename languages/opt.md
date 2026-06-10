@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 31.15211
 longitude: -110.06212
 glottocode: opat1246
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Opata-Eudeve > Teguima"
+wikidata_id: Q2304583
 wikipedia_url: "https://en.wikipedia.org/wiki/Opata_language"
 translations:
   - translation_iso: ara

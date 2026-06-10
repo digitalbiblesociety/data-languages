@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.06702
 longitude: 119.31384
 glottocode: topo1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Topoiyo"
+wikidata_id: Q7824977
 wikipedia_url: "https://en.wikipedia.org/wiki/Topoiyo_language"
 translations:
   - translation_iso: ara

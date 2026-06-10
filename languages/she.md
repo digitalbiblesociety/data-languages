@@ -7,12 +7,15 @@ population: 43820
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.05022
 longitude: 35.28257
 glottocode: shek1245
 glottolog_family_id: dizo1235
 glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Sheko"
+wikidata_id: Q3183355
 wikipedia_url: "https://en.wikipedia.org/wiki/Sheko_language"
 translations:
   - translation_iso: ara

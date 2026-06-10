@@ -7,12 +7,15 @@ population: 400
 country_id: NF
 country_name: Norfolk Island
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -25.07
 longitude: -130.08
 glottocode: pitc1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pitcairn-Norfolk"
+wikidata_id: Q36554
 wikipedia_url: "https://en.wikipedia.org/wiki/Pitkern"
 translations:
   - translation_iso: ara

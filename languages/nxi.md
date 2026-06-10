@@ -7,12 +7,15 @@ population: 100
 country_id: TZ
 country_name: Tanzania
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -11.25694
 longitude: 36.31156
 glottocode: nind1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Rufiji-Ruvuma > Rufijic > Lwegu > Ndendeule-Ngindo-Nindi > Nindi"
+wikidata_id: Q7038230
 wikipedia_url: "https://en.wikipedia.org/wiki/Nindi_language"
 translations:
   - translation_iso: ara

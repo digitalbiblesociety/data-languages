@@ -7,12 +7,15 @@ population: 20000
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.64941
 longitude: 90.80367
 glottocode: bumt1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Bumthangkha"
+wikidata_id: Q2786408
 wikipedia_url: "https://en.wikipedia.org/wiki/Bumthang_language"
 translations:
   - translation_iso: ara

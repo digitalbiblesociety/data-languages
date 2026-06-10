@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -3.29664
 longitude: -76.60558
 glottocode: ando1255
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan
 glottolog_classification: "Zaparoan > Iquito-Arabela > Arabela-Andoa > Andoa"
+wikidata_id: Q2846171
 wikipedia_url: "https://en.wikipedia.org/wiki/Andoa_language"
 translations:
   - translation_iso: ara

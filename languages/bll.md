@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 31.31999
 longitude: -89.19508
 glottocode: bilo1248
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Southeastern Siouan > Biloxi"
+wikidata_id: Q2903780
 wikipedia_url: "https://en.wikipedia.org/wiki/Biloxi_language"
 translations:
   - translation_iso: ara

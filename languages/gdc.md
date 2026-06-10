@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -18.49205
 longitude: 144.46003
 glottocode: gugu1253
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Northern Maric > Warungu-Gugu Badhun > Gugu Badhun"
+wikidata_id: Q10510360
 translations:
   - translation_iso: ara
     name: جوجو باضون

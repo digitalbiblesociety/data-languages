@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 41.9192
 longitude: -124.09955
 glottocode: tolo1259
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Tolowa-Chetco"
+wikidata_id: Q20827
 wikipedia_url: "https://en.wikipedia.org/wiki/Tolowa_language"
 translations:
   - translation_iso: ara

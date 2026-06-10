@@ -7,12 +7,15 @@ population: null
 country_id: VE
 country_name: Venezuela
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 5.248
 longitude: -66.082
 glottocode: pemo1245
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Mapoyo-Tamanaku > Mapoyo-Yawarana > Pémono"
+wikidata_id: Q3439012
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%A9mono_language"
 translations:
   - translation_iso: ara

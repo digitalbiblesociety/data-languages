@@ -7,12 +7,15 @@ population: 174300
 country_id: HN
 country_name: Honduras
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.352868
 longitude: -86.909058
 glottocode: gari1256
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Antillean Arawakan > Ineric > Island Carib-Garifuna > Garifuna"
+wikidata_id: Q35490
 wikipedia_url: "https://en.wikipedia.org/wiki/Garifuna_language"
 translations:
   - translation_iso: ara

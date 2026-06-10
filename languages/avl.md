@@ -1,5 +1,6 @@
 ---
 iso: avl
+macrolanguage_id: ara
 name: Eastern Egyptian Bedawi Arabic
 autonym: Bedawi
 alt_names: [Arabic, "Arabic, Eastern Egyptian Bedawi", "Arabic, Levantine Bedawi Spoken", Bedawi Arabic, Istočnoegipatski bedawi arapski, Levantine Bedawi Arabic, Western Bedouin Dialects]
@@ -7,12 +8,15 @@ population: 2435900
 country_id: EG
 country_name: Egypt
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 29.67415
 longitude: 33.61126
 glottocode: east2690
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Eastern Egyptian Bedawi Arabic"
+wikidata_id: Q56714
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Arabian_Arabic"
 translations:
   - translation_iso: ara

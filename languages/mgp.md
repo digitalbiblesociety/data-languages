@@ -7,6 +7,8 @@ population: 533700
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.413517
 longitude: 87.06171
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: east2352
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Magar > Eastern Magar"
+wikidata_id: Q12952758
 translations:
   - translation_iso: ara
     name: لغة مجار الشرقية

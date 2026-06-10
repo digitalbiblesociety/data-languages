@@ -7,12 +7,15 @@ population: 1800
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.59023
 longitude: -70.38531
 glottocode: tani1257
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > South Eastern Tucanoan > Tanimuca-Retuarã"
+wikidata_id: Q36535
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanimuca-Retuar%C3%A3_language"
 translations:
   - translation_iso: ara

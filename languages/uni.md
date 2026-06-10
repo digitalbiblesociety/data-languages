@@ -5,12 +5,15 @@ autonym: Ramo
 population: 670
 country_id: PG
 country_name: Papua New Guinea
+scope: individual
+language_type: living
 latitude: -3.09369
 longitude: 142.027703
 glottocode: unii1234
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Barupu Lagoon > Uni"
+wikidata_id: Q65043886
 wikipedia_url: "https://en.wikipedia.org/wiki/Uni_language"
 translations:
   - translation_iso: ara

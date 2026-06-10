@@ -6,12 +6,15 @@ population: 30000
 country_id: PG
 country_name: Papua New Guinea
 status_id: null
+scope: individual
+language_type: living
 latitude: -9.5
 longitude: 147.116667
 glottocode: papu1255
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > Auslanic > Papua New Guinean Sign Language"
+wikidata_id: Q25044405
 wikipedia_url: "https://en.wikipedia.org/wiki/Papua_New_Guinean_Sign_Language"
 translations:
   - translation_iso: ara

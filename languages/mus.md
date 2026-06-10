@@ -7,6 +7,8 @@ population: 4300
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 31
 longitude: -87.5
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: cree1270
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Creek"
+wikidata_id: Q523014
 wikipedia_url: "https://en.wikipedia.org/wiki/Muscogee_language"
 translations:
   - translation_iso: ara

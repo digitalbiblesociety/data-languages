@@ -7,12 +7,15 @@ population: 4200
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.76
 longitude: -3.7
 glottocode: tira1258
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > West Dogon > Tiranige Diga Dogon"
+wikidata_id: Q5313387
 wikipedia_url: "https://en.wikipedia.org/wiki/Duleri_Dogon"
 translations:
   - translation_iso: ara

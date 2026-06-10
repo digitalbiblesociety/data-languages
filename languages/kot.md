@@ -7,12 +7,15 @@ population: 1500
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.559215
 longitude: 14.98836
 glottocode: lagw1237
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Central > Lagwan"
+wikidata_id: Q3502264
 wikipedia_url: "https://en.wikipedia.org/wiki/Lagwan_language"
 translations:
   - translation_iso: ara

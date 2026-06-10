@@ -7,12 +7,15 @@ population: 280
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -14.26229
 longitude: 135.75267
 glottocode: nung1290
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Wubuy-Anindilyakwa > Wubuy"
+wikidata_id: Q1747811
 wikipedia_url: "https://en.wikipedia.org/wiki/Nunggubuyu_language"
 translations:
   - translation_iso: ara

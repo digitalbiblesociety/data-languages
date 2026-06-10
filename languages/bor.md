@@ -7,12 +7,15 @@ population: 1392
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.60295
 longitude: -55.20043
 glottocode: boro1282
 glottolog_family_id: boro1281
 glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Bororo-Otuke > Bororo"
+wikidata_id: Q32986
 wikipedia_url: "https://en.wikipedia.org/wiki/Bororo_language"
 translations:
   - translation_iso: ara

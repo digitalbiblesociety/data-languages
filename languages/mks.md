@@ -7,12 +7,15 @@ population: 18700
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.55407
 longitude: -98.11629
 glottocode: sila1250
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Central-Western Baja Mixtec > Silacayoapan Mixtec"
+wikidata_id: Q7514027
 wikipedia_url: "https://en.wikipedia.org/wiki/Silacayoapan_Mixtec"
 translations:
   - translation_iso: ara

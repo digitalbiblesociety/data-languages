@@ -7,12 +7,15 @@ population: 150
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.77208
 longitude: -55.50746
 glottocode: zoee1240
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Zoe-Emerillon > Zo'é"
+wikidata_id: Q8073148
 wikipedia_url: "https://en.wikipedia.org/wiki/Zo%CA%BC%C3%A9_language"
 translations:
   - translation_iso: ara

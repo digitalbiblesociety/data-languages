@@ -7,12 +7,15 @@ population: 196000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.40485
 longitude: 36.02706
 glottocode: ndam1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Kilombero > West Kilombero > Ndamba"
+wikidata_id: Q6983684
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndamba_language"
 translations:
   - translation_iso: ara

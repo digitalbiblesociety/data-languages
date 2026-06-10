@@ -6,12 +6,15 @@ population: 40
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -5.12217
 longitude: 140.03004
 glottocode: buru1307
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Kwer-Kopkaka-Burumakok > Kwer-Burumakok > Burumakok"
+wikidata_id: Q5000984
 wikipedia_url: "https://en.wikipedia.org/wiki/Burumakok_language"
 translations:
   - translation_iso: ara

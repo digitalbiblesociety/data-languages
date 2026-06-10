@@ -7,7 +7,10 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: historical
 scripts: [Mani]
+wikidata_id: Q65455886
 wikipedia_url: "https://en.wikipedia.org/wiki/Manichaean_Middle_Persian"
 translations:
   - translation_iso: ara

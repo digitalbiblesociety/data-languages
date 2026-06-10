@@ -7,6 +7,8 @@ population: 11600
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.19661
 longitude: 36.5362
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mbun1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Kilombero > West Kilombero > Mbunga"
+wikidata_id: Q6799817
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbunga_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 180
 country_id: PH
 country_name: Philippines
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 13.04255
 longitude: 124.16469
 glottocode: sors1239
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Austronesian (Unattested) > Sorsogon Ayta"
+wikidata_id: Q7563752
 wikipedia_url: "https://en.wikipedia.org/wiki/Sorsogon_Ayta_language"
 translations:
   - translation_iso: ara

@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q6928192
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpalitjanh_dialect"
 translations:
   - translation_iso: ara

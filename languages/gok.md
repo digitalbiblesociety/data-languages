@@ -6,8 +6,11 @@ population: 35000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.77263
 longitude: 77.37332
+wikidata_id: Q12953534
 translations:
   - translation_iso: ara
     name: غوولي

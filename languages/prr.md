@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -20.73288
 longitude: -43.60688
 glottocode: puri1262
 glottolog_family_id: puri1261
 glottolog_family_name: Puri-Coroado
 glottolog_classification: "Puri-Coroado > Puri"
+wikidata_id: Q7261687
 wikipedia_url: "https://en.wikipedia.org/wiki/Puri_language"
 translations:
   - translation_iso: ara

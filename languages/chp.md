@@ -7,6 +7,8 @@ population: 10700
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 58.36372
 longitude: -110.83177
 scripts: [Cans, Latn]
@@ -14,6 +16,7 @@ glottocode: chip1261
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Northwestern Canada Athabaskan > Chipewyan"
+wikidata_id: Q27692
 wikipedia_url: "https://en.wikipedia.org/wiki/Chipewyan_language"
 translations:
   - translation_iso: ara

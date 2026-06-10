@@ -7,6 +7,8 @@ population: null
 country_id: LV
 country_name: Latvia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 57.56599
 longitude: 22.02622
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: livv1244
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Liv"
+wikidata_id: Q33698
 wikipedia_url: "https://en.wikipedia.org/wiki/Livonian_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 100
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.19107
 longitude: 9.94759
 glottocode: dulb1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Jaku-Gubi > Dulbu"
+wikidata_id: Q5313310
 wikipedia_url: "https://en.wikipedia.org/wiki/Dulbu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.46878
 longitude: 141.6576
 glottocode: pare1271
 glottolog_family_id: kamu1264
 glottolog_family_name: Kamula-Elevala
 glottolog_classification: "Kamula-Elevala > Elevala > Pare"
+wikidata_id: Q3504757
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 1500
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 45.99412
 longitude: -65.576585
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mikm1235
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Micmacic > Mi'kmaq"
+wikidata_id: Q13321
 wikipedia_url: "https://en.wikipedia.org/wiki/Mi%27kmaq_language"
 translations:
   - translation_iso: ara

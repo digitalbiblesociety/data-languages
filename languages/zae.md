@@ -1,5 +1,6 @@
 ---
 iso: zae
+macrolanguage_id: zap
 name: Yareni Zapotec
 autonym: Etla Zapotec
 alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Western Sapoteko, Western Zapoteco, Zapotec, Zapotec (Juárez), "Zapotec, Yareni", Zapoteco ( Juarez Sierra), Zapoteco de Atepec]
@@ -7,12 +8,15 @@ population: 2900
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.34064
 longitude: -96.7052
 glottocode: yare1249
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Sierra Juarezic > Yareni Zapotec"
+wikidata_id: Q12645368
 translations:
   - translation_iso: ara
     name: لغة زابوتيك يارني

@@ -1,5 +1,6 @@
 ---
 iso: zaa
+macrolanguage_id: zap
 name: Sierra de Juárez Zapotec
 autonym: "Zapotec, Sierra de Juárez"
 alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Sapoteko, Serrano, Sierra de Juarez, Sierra de Juarez Zapotec, Sierra de Juárez, Zapotec, Zapotec (Juárez), Zapoteco ( Juarez Sierra), Zapoteco de Atepec]
@@ -7,12 +8,15 @@ population: 4000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.4219
 longitude: -96.61912
 glottocode: sier1250
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Sierra Juarezic > Sierra de Juárez Zapotec"
+wikidata_id: Q12645588
 translations:
   - translation_iso: ara
     name: لغة زابوتيك سيرا دي خواريز

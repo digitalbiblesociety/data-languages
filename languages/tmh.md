@@ -6,7 +6,10 @@ population: 1732900
 country_id: ML
 country_name: Mali
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q34065
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuareg_languages"
 translations:
   - translation_iso: ara

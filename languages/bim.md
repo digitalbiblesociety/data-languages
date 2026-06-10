@@ -7,12 +7,15 @@ population: 200000
 country_id: GH
 country_name: Ghana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.45746
 longitude: 0.06121
 glottocode: bimo1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma B > Gourmantche-Moba > Moba-Bimoba > Bimoba"
+wikidata_id: Q34971
 wikipedia_url: "https://en.wikipedia.org/wiki/Bimoba_language"
 translations:
   - translation_iso: ara

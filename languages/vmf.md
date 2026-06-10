@@ -7,6 +7,8 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.005
 longitude: 8.621
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: main1267
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Upper Franconian > Greater East Franconian > Ostfränkisch"
+wikidata_id: Q497345
 wikipedia_url: "https://en.wikipedia.org/wiki/Main-Franconian_dialects"
 translations:
   - translation_iso: ara

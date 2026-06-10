@@ -7,12 +7,15 @@ population: 22700
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.7789
 longitude: 125.4992
 glottocode: atam1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > East and Central Manobo > Central Manobo > Ata Manobo"
+wikidata_id: Q12627315
 wikipedia_url: "https://en.wikipedia.org/wiki/Ata_Manobo_language"
 translations:
   - translation_iso: ara

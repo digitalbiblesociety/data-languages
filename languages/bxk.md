@@ -1,5 +1,6 @@
 ---
 iso: bxk
+macrolanguage_id: luy
 name: Bukusu
 autonym: Lubukusu
 alt_names: [Boukousoueg]
@@ -7,12 +8,15 @@ population: 1227100
 country_id: KE
 country_name: Kenya
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 0.68043
 longitude: 34.77185
 glottocode: buku1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Greater Luyia > Luyia > Saamia-Wanga-Bukusu > Northern Luyia > Bukusu"
+wikidata_id: Q32930
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukusu_dialect"
 translations:
   - translation_iso: ara

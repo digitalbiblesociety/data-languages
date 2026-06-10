@@ -7,12 +7,15 @@ population: 600
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.33565
 longitude: 30.73307
 glottocode: lafo1243
 glottolog_family_id: tege1244
 glottolog_family_name: Tegem
 glottolog_classification: "Tegem > Lafofa"
+wikidata_id: Q35711
 wikipedia_url: "https://en.wikipedia.org/wiki/Lafofa_languages"
 translations:
   - translation_iso: ara

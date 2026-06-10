@@ -7,12 +7,15 @@ population: 570
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.98384
 longitude: 146.64176
 glottocode: sori1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > West Manus > West Manus I > Sori-Harengan"
+wikidata_id: Q36515
 wikipedia_url: "https://en.wikipedia.org/wiki/Sori-Harengan_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 4300000
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 6.88039
 longitude: 9.26287
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tivv1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > Central Tivoid > Central Tivoid A > Tiv-Evand > Tiv-Iyive-Otanga > Tiv"
+wikidata_id: Q34131
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiv_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 97000
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.136185
 longitude: 125.215825
 glottocode: buna1278
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Bunak"
+wikidata_id: Q35101
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunak_language"
 translations:
   - translation_iso: ara

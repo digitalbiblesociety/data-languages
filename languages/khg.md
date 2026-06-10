@@ -7,12 +7,15 @@ population: 1380300
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.93126
 longitude: 91.70618
 glottocode: kham1282
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Kham-Hor > Khams Tibetan"
+wikidata_id: Q56601
 wikipedia_url: "https://en.wikipedia.org/wiki/Khams_Tibetan"
 translations:
   - translation_iso: ara

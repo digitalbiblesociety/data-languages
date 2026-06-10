@@ -7,12 +7,15 @@ population: 400
 country_id: GF
 country_name: French Guiana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.23694
 longitude: -52.36986
 glottocode: emer1243
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Zoe-Emerillon > Teko"
+wikidata_id: Q3588942
 wikipedia_url: "https://en.wikipedia.org/wiki/Emerillon_language"
 translations:
   - translation_iso: ara

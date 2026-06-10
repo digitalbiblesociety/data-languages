@@ -7,12 +7,15 @@ population: 427000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.278085
 longitude: 119.376925
 glottocode: chav1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Ternate-Zamboanga-Cavite > Chavacano"
+wikidata_id: Q33281
 wikipedia_url: "https://en.wikipedia.org/wiki/Chavacano"
 translations:
   - translation_iso: ara

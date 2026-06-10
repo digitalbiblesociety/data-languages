@@ -1,5 +1,6 @@
 ---
 iso: bzc
+macrolanguage_id: mlg
 name: Southern Betsimisaraka Malagasy
 autonym: malagasy
 alt_names: ["Malagasy, Southern Betsimisaraka"]
@@ -7,12 +8,15 @@ population: null
 country_id: MG
 country_name: Madagascar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -22.8
 longitude: 47.82
 glottocode: sout2920
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Malagasic > North-Central Malagasic > Central-Eastern Malagasic > Southern Betsimisaraka Malagasy"
+wikidata_id: Q16112760
 translations:
   - translation_iso: ara
     name: جنوب بيتسيميسارا مالْجاشي

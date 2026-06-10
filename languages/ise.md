@@ -7,12 +7,15 @@ population: 40000
 country_id: IT
 country_name: Italy
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 42.72915
 longitude: 12.42949
 glottocode: ital1275
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Italian Sign > Italian Sign Language"
+wikidata_id: Q375619
 wikipedia_url: "https://en.wikipedia.org/wiki/Italian_Sign_Language"
 translations:
   - translation_iso: ara

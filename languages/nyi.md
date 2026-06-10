@@ -7,12 +7,15 @@ population: 158000
 country_id: SD
 country_name: Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.09934
 longitude: 29.43324
 glottocode: amas1236
 glottolog_family_id: nyim1244
 glottolog_family_name: Nyimang
 glottolog_classification: "Nyimang > Ama (Sudan)"
+wikidata_id: Q34846
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyimang_language"
 translations:
   - translation_iso: ara

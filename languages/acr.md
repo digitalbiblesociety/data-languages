@@ -7,12 +7,15 @@ population: 124000
 country_id: GT
 country_name: Guatemala
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.07303
 longitude: -90.35134
 glottocode: achi1256
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Quichean-Mamean > Greater Quichean > Core Quichean > Quiche-Achi > Achi"
+wikidata_id: Q34774
 wikipedia_url: "https://en.wikipedia.org/wiki/Achi_language"
 translations:
   - translation_iso: ara

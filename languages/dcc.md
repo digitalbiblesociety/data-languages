@@ -6,9 +6,12 @@ population: 12800000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.59186
 longitude: 75.71697
 scripts: [Arab]
+wikidata_id: Q86753925
 wikipedia_url: "https://en.wikipedia.org/wiki/Berar-Deccan_Marathi"
 translations:
   - translation_iso: ara

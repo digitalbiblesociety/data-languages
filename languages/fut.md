@@ -7,12 +7,15 @@ population: 1500
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.53033
 longitude: 170.21518
 glottocode: futu1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Vanuatu-Loyalty Outliers > Mele-Futuna > Futuna-Aniwa"
+wikidata_id: Q3064409
 wikipedia_url: "https://en.wikipedia.org/wiki/Futuna-Aniwa_language"
 translations:
   - translation_iso: ara

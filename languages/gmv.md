@@ -7,12 +7,15 @@ population: 1630000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.57645
 longitude: 37.13808
 glottocode: gamo1243
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dawro-Gofa-Gamo > Gamo"
+wikidata_id: Q16116386
 translations:
   - translation_iso: ara
     name: غآمو

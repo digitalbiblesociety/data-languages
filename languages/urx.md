@@ -6,12 +6,15 @@ population: 800
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.86066
 longitude: 143.70061
 glottocode: urim1251
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Marienberg > Elepi-Kamasau-Marienberg > Urimo"
+wikidata_id: Q7900611
 wikipedia_url: "https://en.wikipedia.org/wiki/Urimo_language"
 translations:
   - translation_iso: ara

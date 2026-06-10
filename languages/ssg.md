@@ -7,12 +7,15 @@ population: 1400
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -1.5297
 longitude: 145.074
 glottocode: seim1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Western Admiralty Islands > Seimat"
+wikidata_id: Q3182581
 wikipedia_url: "https://en.wikipedia.org/wiki/Seimat_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -6.39311
 longitude: 146.71937
 glottocode: numa1254
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Numanggang"
+wikidata_id: Q7069052
 wikipedia_url: "https://en.wikipedia.org/wiki/Numanggang_language"
 translations:
   - translation_iso: ara

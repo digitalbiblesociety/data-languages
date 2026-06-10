@@ -7,12 +7,15 @@ population: 8000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.58276
 longitude: 139.46085
 glottocode: cita1245
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Asmat-Kamrau Bay > Asmat-Kamoro > Asmat > Citak Asmat > Citak"
+wikidata_id: Q3447279
 wikipedia_url: "https://en.wikipedia.org/wiki/Citak_language"
 translations:
   - translation_iso: ara

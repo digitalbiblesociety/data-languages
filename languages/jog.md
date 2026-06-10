@@ -6,6 +6,9 @@ population: 50
 country_id: PK
 country_name: Pakistan
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q19572305
 wikipedia_url: "https://en.wikipedia.org/wiki/Jogi_language"
 translations:
   - translation_iso: ara

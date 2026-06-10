@@ -7,12 +7,15 @@ population: 930
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.19889
 longitude: 150.5058
 glottocode: lesi1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Arawe > East Arawe > Lesing-Gelimi"
+wikidata_id: Q12635445
 wikipedia_url: "https://en.wikipedia.org/wiki/Lesing-Gelimi_language"
 translations:
   - translation_iso: ara

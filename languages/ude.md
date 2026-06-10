@@ -7,6 +7,8 @@ population: 1657
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 46.63086
 longitude: 135.67762
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: udih1248
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic
 glottolog_classification: "Tungusic > Northeastern Tungusic > Central-Eastern Tungusic > Oroch-Udihe > Udihe"
+wikidata_id: Q13235
 wikipedia_url: "https://en.wikipedia.org/wiki/Udege_language"
 translations:
   - translation_iso: ara

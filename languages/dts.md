@@ -7,12 +7,15 @@ population: 50000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 14.40749
 longitude: -3.10006
 glottocode: toro1252
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Escarpment Dogon > Toro So Dogon"
+wikidata_id: Q11003311
 translations:
   - translation_iso: ara
     name: تورو سو دوجون

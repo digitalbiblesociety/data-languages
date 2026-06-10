@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -13.45592
 longitude: 135.25857
 glottocode: rita1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Ritharrngu"
+wikidata_id: Q7336730
 wikipedia_url: "https://en.wikipedia.org/wiki/Ritharrngu_language"
 translations:
   - translation_iso: ara

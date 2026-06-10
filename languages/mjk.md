@@ -6,12 +6,15 @@ population: 430
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.9078
 longitude: 145.77862
 glottocode: matu1261
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Matukar"
+wikidata_id: Q6791963
 wikipedia_url: "https://en.wikipedia.org/wiki/Matukar_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 43.568
 longitude: -123.466
 glottocode: yonc1234
 glottolog_family_id: kala1402
 glottolog_family_name: Kalapuyan
 glottolog_classification: "Kalapuyan > Yoncalla"
+wikidata_id: Q1568989
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoncalla_language"
 translations:
   - translation_iso: ara

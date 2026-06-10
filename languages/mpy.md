@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 0.91825
 longitude: 134.33572
 glottocode: mapi1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Trukic > Nuclear Trukic > Mapia"
+wikidata_id: Q3287224
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapia_language"
 translations:
   - translation_iso: ara

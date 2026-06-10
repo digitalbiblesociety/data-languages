@@ -7,6 +7,9 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: null
+scope: individual
+language_type: constructed
+wikidata_id: Q1353495
 wikipedia_url: "https://en.wikipedia.org/wiki/Balaibalan"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 268000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.59682
 longitude: -4.38497
 glottocode: abee1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Agneby > Abé"
+wikidata_id: Q34833
 wikipedia_url: "https://en.wikipedia.org/wiki/Ab%C3%A9_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 20000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.51408
 longitude: 13.61642
 glottocode: sout2782
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Unclassified Volta-Congo > Adamawa Fali > South Fali"
+wikidata_id: Q15637351
 translations:
   - translation_iso: ara
     name: فالي الجنوبية

@@ -7,12 +7,15 @@ population: 83000
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.44624
 longitude: 38.46462
 glottocode: burj1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Highland East Cushitic > Burji"
+wikidata_id: Q34999
 wikipedia_url: "https://en.wikipedia.org/wiki/Burji_language"
 translations:
   - translation_iso: ara

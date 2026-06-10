@@ -7,12 +7,15 @@ population: 10000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.165
 longitude: 96.9531
 glottocode: manu1255
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Central Karen > Kayaw-Manu > Manumanaw Karen"
+wikidata_id: Q12952592
 translations:
   - translation_iso: ara
     name: كارين مانوماناو

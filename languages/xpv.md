@@ -7,6 +7,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q7819095
 wikipedia_url: "https://en.wikipedia.org/wiki/Tommeginne_language"
 translations:
   - translation_iso: ara

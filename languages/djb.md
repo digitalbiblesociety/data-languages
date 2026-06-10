@@ -7,12 +7,15 @@ population: 53
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.93004
 longitude: 134.96743
 glottocode: djin1252
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Western-Inland Yolngu > Djinba"
+wikidata_id: Q5285351
 wikipedia_url: "https://en.wikipedia.org/wiki/Djinba_language"
 translations:
   - translation_iso: ara

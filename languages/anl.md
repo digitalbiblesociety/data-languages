@@ -7,12 +7,15 @@ population: 4000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 23.33942
 longitude: 98.5945
 glottocode: anuu1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Mruic > Anu-Hkongso"
+wikidata_id: Q4777679
 wikipedia_url: "https://en.wikipedia.org/wiki/Anu-Hkongso_language"
 translations:
   - translation_iso: ara

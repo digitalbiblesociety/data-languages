@@ -7,12 +7,15 @@ population: 12000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.52674
 longitude: 36.93162
 glottocode: vidu1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > West Ruvu > Vidunda-Sagala > Vidunda"
+wikidata_id: Q7928151
 wikipedia_url: "https://en.wikipedia.org/wiki/Vidunda_language"
 translations:
   - translation_iso: ara

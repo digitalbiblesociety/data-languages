@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -3.09359
 longitude: -40.20404
 glottocode: trem1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tremembé"
+wikidata_id: Q5246937
 wikipedia_url: "https://en.wikipedia.org/wiki/Trememb%C3%A9_language"
 translations:
   - translation_iso: ara

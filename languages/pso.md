@@ -6,12 +6,15 @@ population: 25000
 country_id: PL
 country_name: Poland
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 52.00414
 longitude: 20.76105
 glottocode: poli1259
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Polish Sign Language"
+wikidata_id: Q3915194
 wikipedia_url: "https://en.wikipedia.org/wiki/Polish_Sign_Language"
 translations:
   - translation_iso: ara

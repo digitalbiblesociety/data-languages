@@ -7,12 +7,15 @@ population: 130000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.13837
 longitude: -6.51291
 glottocode: guib1246
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Western Bete > Guiberoua Béte"
+wikidata_id: Q11019185
 translations:
   - translation_iso: ara
     name: غيبيروا بيتي

@@ -7,12 +7,15 @@ population: 10500
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.14852
 longitude: 7.96524
 glottocode: kutu1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Northern Benue-Congo Plateau > Nuclear Northern Benue-Congo Plateau > Kuturmi-Ajiya > Kuturmi"
+wikidata_id: Q3914490
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuturmi_language"
 translations:
   - translation_iso: ara

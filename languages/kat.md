@@ -1,5 +1,6 @@
 ---
 iso: kat
+iso639_1: ka
 name: Georgian
 autonym: Kartuli
 alt_names: [Georgiera, Georgisch, Georgisk, Georgiska, Georgià, Georgíska, Gruzia-gí, Gruzijski, Gruzinski, Gurciki, Géorgien, Gürcüce, Jorjieg, Kartul simi, Nuclear Georgian, Seoirsis, Забони гурҷӣ, Վրացերեն, גאורגית, گرۇزىن تىلى, گورجی زوون, ܠܫܢܐ ܓܘܪܓܝܐ]
@@ -7,6 +8,8 @@ population: 3898550
 country_id: GE
 country_name: Georgia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 39.370453
 longitude: 45.80661
 scripts: [Geor]
@@ -14,6 +17,7 @@ glottocode: nucl1302
 glottolog_family_id: kart1248
 glottolog_family_name: Kartvelian
 glottolog_classification: "Kartvelian > Georgian-Zan > Georgic > Georgian"
+wikidata_id: Q8108
 wikipedia_url: "https://en.wikipedia.org/wiki/Georgian_language"
 translations:
   - translation_iso: ara

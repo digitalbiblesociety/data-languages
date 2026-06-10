@@ -7,12 +7,15 @@ population: 99000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 24.75338
 longitude: 93.54971
 glottocode: hmar1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Hmar"
+wikidata_id: Q2992841
 wikipedia_url: "https://en.wikipedia.org/wiki/Hmar_language"
 translations:
   - translation_iso: ara

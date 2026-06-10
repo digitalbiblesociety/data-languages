@@ -7,12 +7,15 @@ population: 1720
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.63216
 longitude: 87.04413
 glottocode: yamp1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Lohorung-Yamphu > Yamphuic > Yamphu"
+wikidata_id: Q56316
 wikipedia_url: "https://en.wikipedia.org/wiki/Yamphu_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: ars
+macrolanguage_id: ara
 name: Najdi Arabic
 autonym: اللهجة النجدية‎
 alt_names: [Arabeg nadjiek, Arabic, "Arabic, Najdi", "Arabic, Najdi Spoken", Bedawi, Najdi arapski, لهجة نجدية]
@@ -7,6 +8,8 @@ population: 18236000
 country_id: SA
 country_name: Saudi Arabia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 30.337142
 longitude: 42.177266
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: najd1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Najdi Arabic"
+wikidata_id: Q56574
 wikipedia_url: "https://en.wikipedia.org/wiki/Najdi_Arabic"
 translations:
   - translation_iso: ara

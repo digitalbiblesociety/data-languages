@@ -7,9 +7,12 @@ population: 800
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.83115
 longitude: 35.04583
 glottocode: hadz1240
+wikidata_id: Q33411
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadza_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: pel
+macrolanguage_id: msa
 name: Pekal
 autonym: bahasa Pekal
 alt_names: [Indonesia]
@@ -7,12 +8,15 @@ population: 30000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.02248
 longitude: 101.69111
 glottocode: peka1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Northern Sumatra Malay > Kerinci-Minangkabau > Minangkabauic > Pekal"
+wikidata_id: Q3241781
 wikipedia_url: "https://en.wikipedia.org/wiki/Pekal_language"
 translations:
   - translation_iso: ara

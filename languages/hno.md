@@ -1,5 +1,6 @@
 ---
 iso: hno
+macrolanguage_id: lah
 name: Northern Hindko
 autonym: ہندکو
 alt_names: [Hazara Hindko, Hindki, "Hindko, Northern", Kagani, Kaghani, Lahnda, Northeastern Lahnda]
@@ -7,6 +8,8 @@ population: 3570000
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 34.32024
 longitude: 73.3844
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: nort2662
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Hindko-Siraiki > Hindko > Northern Hindko"
+wikidata_id: Q112812073
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Hindko_language"
 translations:
   - translation_iso: ara

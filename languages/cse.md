@@ -6,12 +6,15 @@ population: 10000
 country_id: CZ
 country_name: Czechia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.01201
 longitude: 14.4774
 glottocode: czec1253
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Czech Sign Language"
+wikidata_id: Q5201809
 wikipedia_url: "https://en.wikipedia.org/wiki/Czech_Sign_Language"
 translations:
   - translation_iso: ara

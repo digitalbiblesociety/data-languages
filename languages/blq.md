@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.5604
 longitude: 147.28194
 glottocode: balu1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > South-East Admiralty > Lou-Paluai > Paluai"
+wikidata_id: Q2881675
 wikipedia_url: "https://en.wikipedia.org/wiki/Baluan-Pam_language"
 translations:
   - translation_iso: ara

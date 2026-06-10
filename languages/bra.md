@@ -7,6 +7,8 @@ population: 1560000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.4758
 longitude: 78.08125
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: braj1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Western Hindi > Haryanvic > Braj"
+wikidata_id: Q35243
 wikipedia_url: "https://en.wikipedia.org/wiki/Braj_Bhasha"
 translations:
   - translation_iso: ara

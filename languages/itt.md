@@ -7,12 +7,15 @@ population: 18000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.24531
 longitude: 120.71816
 glottocode: maen1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Nuclear Cordilleran > Bontok-Kankanay > Kankanay > Maeng-Northern Kankanay > Maeng Itneg"
+wikidata_id: Q18748761
 translations:
   - translation_iso: ara
     name: مايينغ إيتنيغ

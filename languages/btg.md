@@ -7,12 +7,15 @@ population: 150000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.10051
 longitude: -5.9701
 glottocode: gagn1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Eastern Bete > Gagnoa Bété"
+wikidata_id: Q5005069
 translations:
   - translation_iso: ara
     name: جاجْنوا بيتي

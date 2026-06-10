@@ -7,12 +7,15 @@ population: 550
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.335
 longitude: 110.03632
 glottocode: trin1273
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Tring"
+wikidata_id: Q7842360
 wikipedia_url: "https://en.wikipedia.org/wiki/Tring_language"
 translations:
   - translation_iso: ara

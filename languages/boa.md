@@ -7,12 +7,15 @@ population: 1350
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.91467
 longitude: -68.90929
 glottocode: bora1263
 glottolog_family_id: bora1262
 glottolog_family_name: Boran
 glottolog_classification: "Boran > Bora"
+wikidata_id: Q2375468
 wikipedia_url: "https://en.wikipedia.org/wiki/Bora_language"
 translations:
   - translation_iso: ara

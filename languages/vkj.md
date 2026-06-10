@@ -7,9 +7,12 @@ population: 1000
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.74732
 longitude: 22.19559
 glottocode: kuja1239
+wikidata_id: Q33448
 wikipedia_url: "https://en.wikipedia.org/wiki/Kujarg%C3%A9_language"
 translations:
   - translation_iso: ara

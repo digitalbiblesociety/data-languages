@@ -7,12 +7,15 @@ population: 14200
 country_id: NA
 country_name: Namibia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -18.26747
 longitude: 18.18637
 glottocode: vase1234
 glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Ju-Kung > Northern Ju"
+wikidata_id: Q56528
 wikipedia_url: "https://en.wikipedia.org/wiki/Sekele_language"
 translations:
   - translation_iso: ara

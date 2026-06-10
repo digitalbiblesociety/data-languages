@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 42.17888
 longitude: -72.85251
 glottocode: loup1245
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Mahican-Woronoco-Pojassick > Loup B"
+wikidata_id: Q13108281
 translations:
   - translation_iso: ara
     name: لوب باء

@@ -7,12 +7,15 @@ population: 9000
 country_id: GA
 country_name: Gabon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.55469
 longitude: 11.13589
 glottocode: tsog1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > B10-B30 > Okani (B.30) > Southern Okani > Tsogo"
+wikidata_id: Q36674
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsogo_language"
 translations:
   - translation_iso: ara

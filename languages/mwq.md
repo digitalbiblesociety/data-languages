@@ -7,12 +7,15 @@ population: 15000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.28901
 longitude: 94.39293
 glottocode: munc1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Daai-Nghmoye-Muun-Kaang > Mün Chin"
+wikidata_id: Q331340
 wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCch%C3%B2_language"
 translations:
   - translation_iso: ara

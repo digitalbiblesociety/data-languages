@@ -7,6 +7,8 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 51.06
 longitude: -1.31
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: olde1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Old English (ca. 450-1100)"
+wikidata_id: Q42365
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_English"
 translations:
   - translation_iso: ara

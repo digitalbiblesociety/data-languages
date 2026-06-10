@@ -6,6 +6,9 @@ population: 240
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q50934914
 wikipedia_url: "https://en.wikipedia.org/wiki/Goreng_language"
 translations:
   - translation_iso: ara

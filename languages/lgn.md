@@ -7,12 +7,15 @@ population: 1000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.475265
 longitude: 33.852955
 glottocode: opuu1239
 glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Central Koman > Dana-Opo > Opo"
+wikidata_id: Q3354339
 wikipedia_url: "https://en.wikipedia.org/wiki/Opuo_language"
 translations:
   - translation_iso: ara

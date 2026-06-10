@@ -6,12 +6,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 4.78618
 longitude: 8.25236
 glottocode: ilue1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > West Lower Cross > Ilue"
+wikidata_id: Q3813301
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilue_language"
 translations:
   - translation_iso: ara

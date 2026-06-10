@@ -6,12 +6,15 @@ population: 58200
 country_id: IN
 country_name: India
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 25.29769
 longitude: 77.22129
 glottocode: bazi1237
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Bazigar"
+wikidata_id: Q8829558
 wikipedia_url: "https://en.wikipedia.org/wiki/Bazigar_language"
 translations:
   - translation_iso: ara

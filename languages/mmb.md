@@ -6,8 +6,11 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.812
 longitude: 139.8208
+wikidata_id: Q6897297
 wikipedia_url: "https://en.wikipedia.org/wiki/Momina_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 240000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.88447
 longitude: 120.23531
 glottocode: kamb1299
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Sumba-Hawu > Sumba > Central-East Sumbanese > Kambera"
+wikidata_id: Q3053279
 wikipedia_url: "https://en.wikipedia.org/wiki/Kambera_language"
 translations:
   - translation_iso: ara

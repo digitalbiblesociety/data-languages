@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 54.813
 longitude: 31.827
 glottocode: oldr1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > East Slavic > Old Russian"
+wikidata_id: Q35228
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_East_Slavic"
 translations:
   - translation_iso: ara

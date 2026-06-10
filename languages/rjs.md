@@ -7,6 +7,8 @@ population: 147000
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.383363
 longitude: 88.4536
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: rajb1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Kamta > Western Kamta > Rajbanshi"
+wikidata_id: Q12640969
 wikipedia_url: "https://en.wikipedia.org/wiki/Rajbanshi_language_(Nepal)"
 translations:
   - translation_iso: ara

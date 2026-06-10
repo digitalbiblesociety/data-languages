@@ -1,5 +1,6 @@
 ---
 iso: adf
+macrolanguage_id: ara
 name: Dhofari Arabic
 autonym: Dhofari
 alt_names: [Arabic, "Arabic, Dhofari", "Arabic, Dhofari Spoken", Dhofari arapski, Zofari]
@@ -7,12 +8,15 @@ population: 125000
 country_id: OM
 country_name: Oman
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.07958
 longitude: 54.48936
 glottocode: dhof1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > North Arabian Beduin Arabic > Dhofaric > Dhofari Arabic"
+wikidata_id: Q56565
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhofari_Arabic"
 translations:
   - translation_iso: ara

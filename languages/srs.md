@@ -7,12 +7,15 @@ population: 600
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 50.8822
 longitude: -114.301
 glottocode: sars1236
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Sarsi"
+wikidata_id: Q20825
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsuut%CA%BCina_language"
 translations:
   - translation_iso: ara

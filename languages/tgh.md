@@ -7,12 +7,15 @@ population: 300000
 country_id: TT
 country_name: Trinidad and Tobago
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.23879
 longitude: -60.67915
 glottocode: toba1282
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Vincent-Grenadian Creole > Grenada-Tobago Creole > Tobagonian Creole English"
+wikidata_id: Q7811541
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobagonian_Creole"
 translations:
   - translation_iso: ara

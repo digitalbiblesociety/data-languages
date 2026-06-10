@@ -7,12 +7,15 @@ population: 3620
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.80331
 longitude: 33.33117
 glottocode: nari1240
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Didinga-Longarim > Narim"
+wikidata_id: Q56353
 wikipedia_url: "https://en.wikipedia.org/wiki/Laarim_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 159800
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 16.685
 longitude: 2.32653
 glottocode: tada1238
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Northwest Songhay > Northern Songhay > Tadaksahak"
+wikidata_id: Q36568
 wikipedia_url: "https://en.wikipedia.org/wiki/Tadaksahak"
 translations:
   - translation_iso: ara

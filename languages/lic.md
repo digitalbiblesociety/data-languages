@@ -7,12 +7,15 @@ population: 667000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.80621
 longitude: 109.4587
 glottocode: hlai1239
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Hlaic > Nuclear Hlaic > Hlai"
+wikidata_id: Q934738
 wikipedia_url: "https://en.wikipedia.org/wiki/Hlai_language"
 translations:
   - translation_iso: ara

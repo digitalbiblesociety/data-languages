@@ -7,12 +7,15 @@ population: 17000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.82422
 longitude: -4.75524
 glottocode: bolo1266
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Bolon"
+wikidata_id: Q3913301
 wikipedia_url: "https://en.wikipedia.org/wiki/Bolon_language"
 translations:
   - translation_iso: ara

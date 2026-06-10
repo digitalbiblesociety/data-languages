@@ -7,12 +7,15 @@ population: 196000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.69756
 longitude: 33.988035
 glottocode: murl1244
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > South Surmic > Southwest Surmic > Didinga-Murle > Murle"
+wikidata_id: Q56727
 wikipedia_url: "https://en.wikipedia.org/wiki/Murle_language"
 translations:
   - translation_iso: ara

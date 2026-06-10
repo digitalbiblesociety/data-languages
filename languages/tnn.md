@@ -7,12 +7,15 @@ population: 5000
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -19.37332
 longitude: 169.30251
 glottocode: nort2847
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > Southern Vanuatu > Tanna > Northern Tanna linkage > Whitesands-North Tanna linkage > North Tanna"
+wikidata_id: Q957945
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Tanna_language"
 translations:
   - translation_iso: ara

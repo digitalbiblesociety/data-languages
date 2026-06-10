@@ -7,12 +7,15 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 22.97767
 longitude: 120.31451
 glottocode: sira1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Sirayaic"
+wikidata_id: Q716604
 wikipedia_url: "https://en.wikipedia.org/wiki/Siraya_language"
 translations:
   - translation_iso: ara

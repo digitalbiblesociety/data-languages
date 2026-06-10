@@ -7,12 +7,15 @@ population: 25200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.07231
 longitude: 146.20608
 glottocode: toar1246
 glottolog_family_id: nucl1580
 glottolog_family_name: Eleman
 glottolog_classification: "Eleman > Eastern Eleman > Toaripi"
+wikidata_id: Q7811403
 wikipedia_url: "https://en.wikipedia.org/wiki/Toaripi_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: phr
+macrolanguage_id: lah
 name: "Pahari-Potwari"
 autonym: Potwari
 alt_names: [Chibhali, Dhundi-Kairali, Pothohari, Potohari, Potwareg, Western Pahari, بوتهواري, پوٹھواری]
@@ -7,12 +8,15 @@ population: 3541900
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 33.6424
 longitude: 73.80708
 glottocode: paha1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Paharic > Pahari Potwari"
+wikidata_id: Q115823263
 translations:
   - translation_iso: ara
     name: اللغة باهاري-بوتواري

@@ -6,12 +6,15 @@ population: 6000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.24195
 longitude: 19.00221
 glottocode: dzan1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Bamweic > Dzando"
+wikidata_id: Q5319622
 wikipedia_url: "https://en.wikipedia.org/wiki/Dzando_language"
 translations:
   - translation_iso: ara

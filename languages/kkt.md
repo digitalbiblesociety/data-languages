@@ -7,12 +7,15 @@ population: 2640
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.19407
 longitude: 86.85308
 glottocode: koii1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Koi"
+wikidata_id: Q6426194
 wikipedia_url: "https://en.wikipedia.org/wiki/Koi_language"
 translations:
   - translation_iso: ara

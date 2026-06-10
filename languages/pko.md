@@ -1,5 +1,6 @@
 ---
 iso: pko
+macrolanguage_id: kln
 name: Pökoot
 autonym: Pakot
 alt_names: [Peukouteg, Pokoot, Pokot, Pökot, Suk]
@@ -7,6 +8,8 @@ population: 883000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.57023
 longitude: 35.23183
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: poko1263
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Northern Kalenjin > Pökoot"
+wikidata_id: Q36323
 wikipedia_url: "https://en.wikipedia.org/wiki/P%C3%B6koot_language"
 translations:
   - translation_iso: ara

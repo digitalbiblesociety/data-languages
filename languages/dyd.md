@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -17.90595
 longitude: 122.40831
 glottocode: dyug1238
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan
 glottolog_classification: "Nyulnyulan > Eastern Nyulnyulan > Yawuric > Dyugun"
+wikidata_id: Q3913785
 wikipedia_url: "https://en.wikipedia.org/wiki/Djukun_language"
 translations:
   - translation_iso: ara

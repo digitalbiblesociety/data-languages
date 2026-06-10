@@ -7,12 +7,15 @@ population: null
 country_id: HU
 country_name: Hungary
 status_id: null
+scope: individual
+language_type: historical
 latitude: 47.46
 longitude: 18.99
 glottocode: oldh1242
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Hungaric > Old Hungarian"
+wikidata_id: Q65455880
 translations:
   - translation_iso: ara
     name: اللغة المجرية القديمة

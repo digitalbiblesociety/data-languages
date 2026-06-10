@@ -6,12 +6,15 @@ population: 130
 country_id: SR
 country_name: Suriname
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.1323
 longitude: -56.12663
 glottocode: kwin1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Eastern Maroons > Ndyuka > Kwinti"
+wikidata_id: Q721182
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwinti_language"
 translations:
   - translation_iso: ara

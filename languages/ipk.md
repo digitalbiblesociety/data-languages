@@ -1,12 +1,16 @@
 ---
 iso: ipk
+iso639_1: ik
 name: Inupiaq
 autonym: Iñupiatun
 population: 5580
 country_id: CA
 country_name: Canada
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q27183
 wikipedia_url: "https://en.wikipedia.org/wiki/I%C3%B1upiaq_language"
 translations:
   - translation_iso: ara

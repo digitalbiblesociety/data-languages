@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -2.37997
 longitude: 136.51899
 glottocode: wori1246
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Woria"
+wikidata_id: Q8034514
 wikipedia_url: "https://en.wikipedia.org/wiki/Woria_language"
 translations:
   - translation_iso: ara

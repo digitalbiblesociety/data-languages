@@ -7,9 +7,12 @@ population: 5090
 country_id: BO
 country_name: Bolivia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.80431
 longitude: -64.35748
 glottocode: iton1250
+wikidata_id: Q950585
 wikipedia_url: "https://en.wikipedia.org/wiki/Itonama_language"
 translations:
   - translation_iso: ara

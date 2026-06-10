@@ -7,12 +7,15 @@ population: 1500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.791
 longitude: 96.163
 glottocode: naaa1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Pre-Western Tani > Western Tani > Subansiri > Bangni-Tagin > Na"
+wikidata_id: Q12952895
 wikipedia_url: "https://en.wikipedia.org/wiki/Na_dialect"
 translations:
   - translation_iso: ara

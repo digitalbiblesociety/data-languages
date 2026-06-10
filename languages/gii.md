@@ -5,12 +5,15 @@ autonym: Af Girirra
 population: 50000
 country_id: ET
 country_name: Ethiopia
+scope: individual
+language_type: living
 latitude: 5.76
 longitude: 42.17
 glottocode: giri1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Girirra"
+wikidata_id: Q5564288
 wikipedia_url: "https://en.wikipedia.org/wiki/Girirra_language"
 translations:
   - translation_iso: ara

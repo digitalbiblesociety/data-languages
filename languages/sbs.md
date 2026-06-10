@@ -7,12 +7,15 @@ population: 39570
 country_id: NA
 country_name: Namibia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -17.569585
 longitude: 24.886675
 glottocode: subi1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Western Botatwe > Machili > Subiya"
+wikidata_id: Q6442073
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuhane_language"
 translations:
   - translation_iso: ara

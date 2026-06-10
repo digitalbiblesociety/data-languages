@@ -7,12 +7,15 @@ population: 72000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.34549
 longitude: 0.50746
 glottocode: lele1264
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Lelemi-Akpafu > Lelemi"
+wikidata_id: Q35585
 wikipedia_url: "https://en.wikipedia.org/wiki/Lelemi_language"
 translations:
   - translation_iso: ara

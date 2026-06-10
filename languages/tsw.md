@@ -7,12 +7,15 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.2882
 longitude: 5.11073
 glottocode: tsis1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Kambari-Cicipu > Kambaric > East Kambaric > Salka-Tsishingini"
+wikidata_id: Q13123571
 translations:
   - translation_iso: ara
     name: تشيشينجيني

@@ -7,12 +7,15 @@ population: 900
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.6692
 longitude: 149.82236
 glottocode: anuk1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Anuki"
+wikidata_id: Q3508132
 wikipedia_url: "https://en.wikipedia.org/wiki/Anuki_language"
 translations:
   - translation_iso: ara

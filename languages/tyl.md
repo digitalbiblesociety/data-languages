@@ -6,8 +6,11 @@ population: 200
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.75275
 longitude: 104.25078
+wikidata_id: Q12953921
 translations:
   - translation_iso: ara
     name: تو لاو

@@ -7,12 +7,15 @@ population: 10000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.61425
 longitude: -97.06568
 glottocode: apas1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northeastern Alta Mixtec > Apasco-Apoala Mixtec"
+wikidata_id: Q13583505
 wikipedia_url: "https://en.wikipedia.org/wiki/Apoala_Mixtec"
 translations:
   - translation_iso: ara

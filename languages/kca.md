@@ -7,6 +7,8 @@ population: 9580
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 62.43083
 longitude: 66.12177
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: khan1273
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Khantyic > Northern Khanty > Kazym-Berezover-Suryskarer Khanty"
+wikidata_id: Q33563
 wikipedia_url: "https://en.wikipedia.org/wiki/Khanty_languages"
 translations:
   - translation_iso: ara

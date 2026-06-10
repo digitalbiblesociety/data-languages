@@ -7,12 +7,15 @@ population: 610
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 46.30731
 longitude: -116.40787
 glottocode: nezp1238
 glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian
 glottolog_classification: "Sahaptian > Nez Perce"
+wikidata_id: Q3339226
 wikipedia_url: "https://en.wikipedia.org/wiki/Nez_Perce_language"
 translations:
   - translation_iso: ara

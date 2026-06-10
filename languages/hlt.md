@@ -7,12 +7,15 @@ population: 40000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.312
 longitude: 92.83
 glottocode: ngal1291
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > South Peripheral Kuki-Chin > Choic > Nga La"
+wikidata_id: Q12952942
 wikipedia_url: "https://en.wikipedia.org/wiki/Nga_La_language"
 translations:
   - translation_iso: ara

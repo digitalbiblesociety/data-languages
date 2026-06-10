@@ -7,12 +7,15 @@ population: 258000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.10246
 longitude: 107.71137
 glottocode: buna1273
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Bu-Nao-Bunu > Bunu"
+wikidata_id: Q56411
 wikipedia_url: "https://en.wikipedia.org/wiki/Bu%E2%80%93Nao_languages"
 translations:
   - translation_iso: ara

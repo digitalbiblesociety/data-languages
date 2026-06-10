@@ -7,6 +7,8 @@ population: 1500
 country_id: SE
 country_name: Sweden
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 67.275885
 longitude: 17.80575
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lule1254
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Central Western Saami > Lule-Pite Saami > Lule Saami"
+wikidata_id: Q56322
 wikipedia_url: "https://en.wikipedia.org/wiki/Lule_S%C3%A1mi"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 33000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.46204
 longitude: 22.58912
 glottocode: yela1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Yela-Kela"
+wikidata_id: Q8051428
 wikipedia_url: "https://en.wikipedia.org/wiki/Yela_language"
 translations:
   - translation_iso: ara

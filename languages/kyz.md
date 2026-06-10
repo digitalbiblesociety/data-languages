@@ -7,12 +7,15 @@ population: 1000
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.27468
 longitude: -55.54792
 glottocode: kaya1329
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kayabí"
+wikidata_id: Q6380372
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayabi_language"
 translations:
   - translation_iso: ara

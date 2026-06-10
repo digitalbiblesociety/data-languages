@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 65.17
 longitude: 167.96
 glottocode: chuv1256
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Kolymic > Chuvantsy"
+wikidata_id: Q3516641
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuvan_language"
 translations:
   - translation_iso: ara

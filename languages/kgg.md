@@ -7,9 +7,12 @@ population: 164
 country_id: NP
 country_name: Nepal
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 29.17663
 longitude: 80.63092
 glottocode: kusu1250
+wikidata_id: Q33630
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusunda_language"
 translations:
   - translation_iso: ara

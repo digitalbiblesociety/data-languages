@@ -7,12 +7,15 @@ population: 20000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.68215
 longitude: 152.69631
 glottocode: misi1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Kilivila-Misima > Misima-Paneati"
+wikidata_id: Q6875666
 wikipedia_url: "https://en.wikipedia.org/wiki/Misima_language"
 translations:
   - translation_iso: ara

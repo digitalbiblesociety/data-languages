@@ -7,12 +7,15 @@ population: 12000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.52883
 longitude: 9.02603
 glottocode: ukpe1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bukpic > Ukpe-Bayobiri"
+wikidata_id: Q3914470
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukpe-Bayobiri_language"
 translations:
   - translation_iso: ara

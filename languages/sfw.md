@@ -7,12 +7,15 @@ population: 305000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.3172
 longitude: -2.73146
 glottocode: sehw1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Sehwi"
+wikidata_id: Q36593
 wikipedia_url: "https://en.wikipedia.org/wiki/Sehwi_language"
 translations:
   - translation_iso: ara

@@ -1,12 +1,16 @@
 ---
 iso: uzb
+iso639_1: uz
 name: Uzbek
 autonym: Ўзбек тили
 population: 27000000
 country_id: UZ
 country_name: Uzbekistan
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab, Cyrl, Latn]
+wikidata_id: Q9264
 wikipedia_url: "https://en.wikipedia.org/wiki/Uzbek_language"
 translations:
   - translation_iso: ara

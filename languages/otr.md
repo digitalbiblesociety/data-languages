@@ -7,12 +7,15 @@ population: 10000
 country_id: SD
 country_name: Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.11873
 longitude: 30.57302
 glottocode: otor1240
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Central Heibanic > Ebang-Logol > Otoro"
+wikidata_id: Q36328
 wikipedia_url: "https://en.wikipedia.org/wiki/Otoro_language"
 translations:
   - translation_iso: ara

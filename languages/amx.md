@@ -7,12 +7,15 @@ population: 640
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -22.28531
 longitude: 133.28584
 glottocode: anma1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Arandic > South Arandic > Upper Arrernte > Anmatyerre"
+wikidata_id: Q10412317
 translations:
   - translation_iso: ara
     name: لغة أنماتييري

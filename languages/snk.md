@@ -7,6 +7,8 @@ population: 2189250
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 13.127263
 longitude: -11.71778
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: soni1259
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Soninkean > Soninke"
+wikidata_id: Q36660
 wikipedia_url: "https://en.wikipedia.org/wiki/Soninke_language"
 translations:
   - translation_iso: ara

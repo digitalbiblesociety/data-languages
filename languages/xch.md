@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 47.91457
 longitude: -123.139145
 glottocode: chim1310
 glottolog_family_id: chim1311
 glottolog_family_name: Chimakuan
 glottolog_classification: "Chimakuan > Chimakum"
+wikidata_id: Q56397
 wikipedia_url: "https://en.wikipedia.org/wiki/Chemakum_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10500
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.4737
 longitude: 139.39045
 glottocode: nini1235
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Ngalik-Nduga > Yalic > Ninia Yali"
+wikidata_id: Q12953310
 translations:
   - translation_iso: ara
     name: نينيا يالي

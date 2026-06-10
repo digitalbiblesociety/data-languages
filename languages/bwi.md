@@ -7,12 +7,15 @@ population: 1000
 country_id: VE
 country_name: Venezuela
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.178585
 longitude: -67.77038
 glottocode: bani1255
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Baniwa-Curripaco-Tariano > Baniwa-Curripaco > Baniwa do Icana"
+wikidata_id: Q3501735
 wikipedia_url: "https://en.wikipedia.org/wiki/Baniwa_of_I%C3%A7ana"
 translations:
   - translation_iso: ara

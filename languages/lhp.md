@@ -7,12 +7,15 @@ population: 2500
 country_id: BT
 country_name: Bhutan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.91347
 longitude: 89.30994
 glottocode: lhok1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Lhokpu"
+wikidata_id: Q3436603
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhokpu_language"
 translations:
   - translation_iso: ara

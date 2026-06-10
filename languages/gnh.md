@@ -7,12 +7,15 @@ population: 16328
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.47891
 longitude: 8.93337
 glottocode: lere1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Lere"
+wikidata_id: Q3915319
 wikipedia_url: "https://en.wikipedia.org/wiki/Lere_language"
 translations:
   - translation_iso: ara

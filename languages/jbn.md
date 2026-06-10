@@ -7,12 +7,15 @@ population: 283000
 country_id: LY
 country_name: Libya
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 33.43983
 longitude: 9.83329
 glottocode: nafu1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Nafusi"
+wikidata_id: Q36151
 wikipedia_url: "https://en.wikipedia.org/wiki/Nafusi_language"
 translations:
   - translation_iso: ara

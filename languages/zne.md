@@ -7,12 +7,15 @@ population: 1792000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.62047
 longitude: 26.715677
 glottocode: zand1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Zandic > Zande-Nzakara > Zande"
+wikidata_id: Q35015
 wikipedia_url: "https://en.wikipedia.org/wiki/Zande_language"
 translations:
   - translation_iso: ara

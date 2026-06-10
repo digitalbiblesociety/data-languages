@@ -7,6 +7,8 @@ population: 118620
 country_id: KI
 country_name: Kiribati
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 0.64049
 longitude: 173.219604
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: gilb1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Gilbertese"
+wikidata_id: Q30898
 wikipedia_url: "https://en.wikipedia.org/wiki/Gilbertese_language"
 translations:
   - translation_iso: ara

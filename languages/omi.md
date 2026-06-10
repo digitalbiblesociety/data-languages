@@ -7,12 +7,15 @@ population: 91000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.2542
 longitude: 30.5385
 glottocode: omii1238
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Kalikoic > Omi"
+wikidata_id: Q56795
 wikipedia_url: "https://en.wikipedia.org/wiki/Omi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 48000
 country_id: SS
 country_name: South Sudan
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 7.73028
 longitude: 27.55877
 glottocode: ndog1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Sereic > Sere-Indri > Ndogoic > Ndogo"
+wikidata_id: Q35983
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndogo_language"
 translations:
   - translation_iso: ara

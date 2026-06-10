@@ -7,9 +7,12 @@ population: 150
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.66946
 longitude: -60.53527
 glottocode: aika1237
+wikidata_id: Q3409307
 wikipedia_url: "https://en.wikipedia.org/wiki/Aikan%C3%A3_language"
 translations:
   - translation_iso: ara

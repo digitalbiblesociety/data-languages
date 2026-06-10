@@ -6,12 +6,15 @@ population: 450
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.35479
 longitude: 144.98971
 glottocode: lila1246
 glottolog_family_id: monu1249
 glottolog_family_name: Bogia
 glottolog_classification: "Bogia > Lilau"
+wikidata_id: Q6547570
 wikipedia_url: "https://en.wikipedia.org/wiki/Lilau_language"
 translations:
   - translation_iso: ara

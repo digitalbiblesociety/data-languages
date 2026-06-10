@@ -6,12 +6,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 42.3
 longitude: 12.345
 glottocode: fali1291
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Faliscan"
+wikidata_id: Q35669
 wikipedia_url: "https://en.wikipedia.org/wiki/Faliscan_language"
 translations:
   - translation_iso: ara

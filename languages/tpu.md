@@ -7,12 +7,15 @@ population: 31100
 country_id: KH
 country_name: Cambodia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 13.56447
 longitude: 107.24544
 glottocode: tamp1251
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Tampuon-Bahnar > Tampuan"
+wikidata_id: Q3514882
 wikipedia_url: "https://en.wikipedia.org/wiki/Tampuan_language"
 translations:
   - translation_iso: ara

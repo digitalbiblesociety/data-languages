@@ -7,12 +7,15 @@ population: 1950
 country_id: TL
 country_name: "Timor-Leste"
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.40372
 longitude: 127.23865
 glottocode: maku1277
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Maku'a"
+wikidata_id: Q35790
 wikipedia_url: "https://en.wikipedia.org/wiki/Makuva_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 12000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.12852
 longitude: -4.58203
 glottocode: seek1238
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Seeku"
+wikidata_id: Q36274
 wikipedia_url: "https://en.wikipedia.org/wiki/Sembla_language"
 translations:
   - translation_iso: ara

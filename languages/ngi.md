@@ -7,12 +7,15 @@ population: 80000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.10505
 longitude: 11.0178
 glottocode: ngiz1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.1 > Ngizim-Southwestern Bade > Ngizim"
+wikidata_id: Q3914924
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngizim_language"
 translations:
   - translation_iso: ara

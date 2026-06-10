@@ -7,12 +7,15 @@ population: 1140
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.74954
 longitude: 141.09822
 glottocode: kark1258
 glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Karkar-Yuri"
+wikidata_id: Q2992906
 wikipedia_url: "https://en.wikipedia.org/wiki/Karkar_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 60500
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.77321
 longitude: 124.12673
 glottocode: tiru1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bilic > Tiruray"
+wikidata_id: Q7809425
 wikipedia_url: "https://en.wikipedia.org/wiki/Teduray_language"
 translations:
   - translation_iso: ara

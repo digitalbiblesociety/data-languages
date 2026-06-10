@@ -7,12 +7,15 @@ population: 66000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.54975
 longitude: 146.22672
 glottocode: hamt1247
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Kapau-Menya > Hamtai"
+wikidata_id: Q5646436
 wikipedia_url: "https://en.wikipedia.org/wiki/Hamtai_language"
 translations:
   - translation_iso: ara

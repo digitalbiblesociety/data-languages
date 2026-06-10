@@ -7,6 +7,8 @@ population: 379100
 country_id: PK
 country_name: Pakistan
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 36
 longitude: 72
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: khow1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Khowar"
+wikidata_id: Q938216
 wikipedia_url: "https://en.wikipedia.org/wiki/Khowar"
 translations:
   - translation_iso: ara

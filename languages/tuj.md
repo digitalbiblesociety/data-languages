@@ -7,12 +7,15 @@ population: 2590
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.5806
 longitude: 128.22346
 glottocode: tugu1246
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Tobelo-Tugutil > Tugutil"
+wikidata_id: Q12953228
 wikipedia_url: "https://en.wikipedia.org/wiki/Tugutil_language"
 translations:
   - translation_iso: ara

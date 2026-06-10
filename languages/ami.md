@@ -7,12 +7,15 @@ population: 214000
 country_id: TW
 country_name: Taiwan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.09172
 longitude: 121.34791
 glottocode: amis1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > East Formosan > Central East Formosan > Amis"
+wikidata_id: Q35132
 wikipedia_url: "https://en.wikipedia.org/wiki/Amis_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 3000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.44006
 longitude: -75.42107
 glottocode: urar1246
+wikidata_id: Q1579560
 wikipedia_url: "https://en.wikipedia.org/wiki/Urarina_language"
 translations:
   - translation_iso: ara

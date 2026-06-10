@@ -7,12 +7,15 @@ population: 1951
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.884597
 longitude: -71.596433
 glottocode: yami1256
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Yaminahua"
+wikidata_id: Q3026110
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaminawa_language"
 translations:
   - translation_iso: ara

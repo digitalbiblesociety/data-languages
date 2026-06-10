@@ -6,12 +6,15 @@ population: 290
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.51156
 longitude: 142.46152
 glottocode: ambr1239
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Yangum-Ambrak > Ambrak"
+wikidata_id: Q4741706
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambrak_language"
 translations:
   - translation_iso: ara

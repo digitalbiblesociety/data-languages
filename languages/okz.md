@@ -4,8 +4,11 @@ name: Old Khmer
 alt_names: ["Khmer, Old"]
 country_id: KH
 country_name: Cambodia
+scope: individual
+language_type: historical
 latitude: 13.4125
 longitude: 103.866667
+wikidata_id: Q31745045
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Khmer"
 translations:
   - translation_iso: ara

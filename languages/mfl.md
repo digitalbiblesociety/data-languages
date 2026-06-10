@@ -7,12 +7,15 @@ population: 50
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.83854
 longitude: 12.99521
 glottocode: puta1243
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Bura-Marghi > Buraic > Putai"
+wikidata_id: Q56291
 wikipedia_url: "https://en.wikipedia.org/wiki/Putai_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5500
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.49808
 longitude: 115.55311
 glottocode: tata1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Tatana"
+wikidata_id: Q18643518
 wikipedia_url: "https://en.wikipedia.org/wiki/Tatana_language"
 translations:
   - translation_iso: ara

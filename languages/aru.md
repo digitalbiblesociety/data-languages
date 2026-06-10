@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -5.5
 longitude: -67.98
 glottocode: arua1263
 glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Arawá (Amazonas State)"
+wikidata_id: Q2746221
 wikipedia_url: "https://en.wikipedia.org/wiki/Araw%C3%A1_language"
 translations:
   - translation_iso: ara

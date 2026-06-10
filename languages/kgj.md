@@ -7,12 +7,15 @@ population: 1000
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.41102
 longitude: 82.6749
 glottocode: gama1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kham-Magar-Chepang > Kham > Gamale-Parbate > Gamale Kham"
+wikidata_id: Q22236996
 translations:
   - translation_iso: ara
     name: لغة جامالي خام

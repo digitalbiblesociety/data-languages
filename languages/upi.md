@@ -6,12 +6,15 @@ population: 290
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.34565
 longitude: 141.15692
 glottocode: umed1238
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Waina-Punda > Umeda-Punda"
+wikidata_id: Q7881465
 wikipedia_url: "https://en.wikipedia.org/wiki/Umeda_language"
 translations:
   - translation_iso: ara

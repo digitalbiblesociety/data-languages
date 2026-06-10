@@ -7,12 +7,15 @@ population: 21100
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.32432
 longitude: 145.38785
 glottocode: yaga1260
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Yagaria"
+wikidata_id: Q8046690
 wikipedia_url: "https://en.wikipedia.org/wiki/Yagaria_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: sme
+iso639_1: se
 name: Northern Sami
 autonym: davvisámegiella
 alt_names: ["\"Lapp\"", "\"Northern Lapp\"", "\"Northern Lappish\"", "\"Norwegian Lapp\"", Central, Cohkkiras (Jukkasjarvi) variety, Davvin, Kuzeylapça, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, N Saami, Noord-Samisch, Nordsamisk, Nordsamiska, North Saami, North Sámi (sápmi or sámegiella), Northern, Northern Lapp, Northern Lappish, Northern Saami, Norwegian, Norwegian Saami, Norwegian Sami, Norwegisch-Lappisch, Norðursamíska, Ruija, Ruija Lapp, Saame, Saameg gogleddol, Saami, Saami (North), Saami (Northern), Saami nord, "Saami, North", Saamish Hwoaie, Saamí septentrional, Same, Same du Nord, Sami, Sami septentrional, "Sami, Northern", Samic, Samieg an Norzh, Sámegiella, Tornio Lappish, Western, Westlappisch, lapon, lappisk, lopary, lpTornio, pohjoissaame, sabme, same-, sami du Nord, sāme-giellâ, westlappischer Dialekt, Къилбаседе-саами мотт]
@@ -7,6 +8,8 @@ population: 25700
 country_id: "NO"
 country_name: Norway
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 68.724997
 longitude: 22.11129
 scripts: [Cyrl, Latn]
@@ -14,6 +17,7 @@ glottocode: nort2671
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Western Saami > Central Western Saami > North Saami"
+wikidata_id: Q33947
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_S%C3%A1mi"
 translations:
   - translation_iso: ara

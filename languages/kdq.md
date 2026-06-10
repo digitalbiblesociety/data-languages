@@ -7,12 +7,15 @@ population: 42400
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.796235
 longitude: 90.25658
 glottocode: koch1250
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Kochic > Koch"
+wikidata_id: Q56431
 wikipedia_url: "https://en.wikipedia.org/wiki/Koch_language"
 translations:
   - translation_iso: ara

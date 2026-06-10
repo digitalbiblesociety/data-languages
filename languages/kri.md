@@ -6,6 +6,8 @@ population: 641900
 country_id: SL
 country_name: Sierra Leone
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 10.881135
 longitude: -14.320425
 scripts: [Latn]
@@ -13,6 +15,7 @@ glottocode: krio1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Krio"
+wikidata_id: Q35744
 wikipedia_url: "https://en.wikipedia.org/wiki/Krio_language"
 translations:
   - translation_iso: ara

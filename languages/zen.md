@@ -7,6 +7,8 @@ population: 200
 country_id: MR
 country_name: Mauritania
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 16.81997
 longitude: -16.17106
 scripts: [Tfng]
@@ -14,6 +16,7 @@ glottocode: zena1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Western Berber > Zenaga"
+wikidata_id: Q37005
 wikipedia_url: "https://en.wikipedia.org/wiki/Zenaga_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 8000
 country_id: CA
 country_name: Canada
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 45.99654
 longitude: -74.87193
 glottocode: queb1245
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Quebec Sign Language"
+wikidata_id: Q13193
 wikipedia_url: "https://en.wikipedia.org/wiki/Quebec_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 16000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.460927
 longitude: 14.583313
 glottocode: mpad1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Kotoko Septentrional > Kotoko Septentrional 2 > Mpade"
+wikidata_id: Q3280670
 wikipedia_url: "https://en.wikipedia.org/wiki/Mpade_language"
 translations:
   - translation_iso: ara

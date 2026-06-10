@@ -7,9 +7,12 @@ population: 377000
 country_id: ET
 country_name: Ethiopia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 10.647405
 longitude: 34.70415
 glottocode: bert1248
+wikidata_id: Q33178
 wikipedia_url: "https://en.wikipedia.org/wiki/Berta_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 230000
 country_id: CM
 country_name: Cameroon
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.2596
 longitude: 10.3348
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: komc1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Komic > Kom (Cameroon)"
+wikidata_id: Q1656595
 wikipedia_url: "https://en.wikipedia.org/wiki/Kom_language_(Cameroon)"
 translations:
   - translation_iso: ara

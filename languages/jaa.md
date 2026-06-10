@@ -7,12 +7,15 @@ population: 780
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -7.62223
 longitude: -66.56619
 glottocode: jama1261
 glottolog_family_id: araw1282
 glottolog_family_name: Arawan
 glottolog_classification: "Arawan > Madi-Madiha > Madi"
+wikidata_id: Q3053275
 wikipedia_url: "https://en.wikipedia.org/wiki/Mad%C3%AD_language"
 translations:
   - translation_iso: ara

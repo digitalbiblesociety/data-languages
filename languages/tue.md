@@ -7,12 +7,15 @@ population: 1440
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.39441
 longitude: -70.043515
 glottocode: tuyu1244
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Pisamira-Yuruti > Tuyuca-Yuruti > Tuyuca"
+wikidata_id: Q2520538
 wikipedia_url: "https://en.wikipedia.org/wiki/Tuyuca_language"
 translations:
   - translation_iso: ara

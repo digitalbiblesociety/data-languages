@@ -7,12 +7,15 @@ population: 830
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.34188
 longitude: 134.87903
 glottocode: lola1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Lola"
+wikidata_id: Q6668867
 wikipedia_url: "https://en.wikipedia.org/wiki/Lola_language"
 translations:
   - translation_iso: ara

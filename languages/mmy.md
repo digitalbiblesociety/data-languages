@@ -7,12 +7,15 @@ population: 2000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.23667
 longitude: 18.9614
 glottocode: miga1249
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Dangla > Migaama"
+wikidata_id: Q56259
 wikipedia_url: "https://en.wikipedia.org/wiki/Migaama_language"
 translations:
   - translation_iso: ara

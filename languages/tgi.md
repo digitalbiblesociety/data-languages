@@ -7,12 +7,15 @@ population: 550
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.15201
 longitude: 155.12887
 glottocode: lawu1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Banoni-Piva > Lawunuia"
+wikidata_id: Q3219937
 wikipedia_url: "https://en.wikipedia.org/wiki/Lawunuia_language"
 translations:
   - translation_iso: ara

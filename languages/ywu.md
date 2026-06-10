@@ -7,12 +7,15 @@ population: 200000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.574
 longitude: 103.646
 glottocode: wume1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Nisoid > Nuclear Nisoid > Nasu-Nosu > Nesu-Nasu > Nesu > Wumeng Nasu"
+wikidata_id: Q25559442
 translations:
   - translation_iso: ara
     name: لغة ووميج ناسو

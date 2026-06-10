@@ -7,12 +7,15 @@ population: 710
 country_id: MY
 country_name: Malaysia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.971943
 longitude: 114.564972
 glottocode: cent2098
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Berawan > Central-East Berawan > Central Berawan"
+wikidata_id: Q2891902
 translations:
   - translation_iso: ara
     name: لغة بيراوان الوسطى

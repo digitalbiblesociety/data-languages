@@ -7,12 +7,15 @@ population: 2810
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.89671
 longitude: 149.65773
 glottocode: uman1240
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Umanakaina"
+wikidata_id: Q7881084
 wikipedia_url: "https://en.wikipedia.org/wiki/Umanakaina_language"
 translations:
   - translation_iso: ara

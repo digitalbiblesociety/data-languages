@@ -7,6 +7,8 @@ population: 31000
 country_id: IT
 country_name: Italy
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 46.60651
 longitude: 11.89498
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ladi1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Italian Romance > Ladin"
+wikidata_id: Q36202
 wikipedia_url: "https://en.wikipedia.org/wiki/Ladin_language"
 translations:
   - translation_iso: ara

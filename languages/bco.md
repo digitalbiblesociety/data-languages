@@ -6,12 +6,15 @@ population: 3100
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.45932
 longitude: 142.78806
 glottocode: kalu1248
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi
 glottolog_classification: "Bosavi > Bosavi Watershed > Kaluli-Sunia > Kaluli"
+wikidata_id: Q6354586
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaluli_language"
 translations:
   - translation_iso: ara

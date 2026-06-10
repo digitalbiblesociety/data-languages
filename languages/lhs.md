@@ -7,12 +7,15 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 37.03108
 longitude: 41.22092
 glottocode: mlah1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > Turoyo-Mlahso > Mlahsô"
+wikidata_id: Q3393063
 wikipedia_url: "https://en.wikipedia.org/wiki/Mla%E1%B8%A5s%C3%B4_language"
 translations:
   - translation_iso: ara

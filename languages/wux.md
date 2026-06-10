@@ -7,12 +7,15 @@ population: 1981
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.30224
 longitude: 131.26054
 glottocode: wuln1239
 glottolog_family_id: limi1242
 glottolog_family_name: Limilngan-Wulna
 glottolog_classification: "Limilngan-Wulna > Wulna"
+wikidata_id: Q13591670
 wikipedia_url: "https://en.wikipedia.org/wiki/Wulna_language"
 translations:
   - translation_iso: ara

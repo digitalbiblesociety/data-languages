@@ -7,6 +7,8 @@ population: 150000
 country_id: DZ
 country_name: Algeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 32.50135
 longitude: 3.85035
 scripts: [Arab, Latn]
@@ -14,6 +16,7 @@ glottocode: tumz1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Northern Saharan Oasis Berber > Tumzabt"
+wikidata_id: Q36149
 wikipedia_url: "https://en.wikipedia.org/wiki/Mozabite_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -11.29459
 longitude: -62.7226
 glottocode: urup1235
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Uru-Pa-In"
+wikidata_id: Q7901376
 wikipedia_url: "https://en.wikipedia.org/wiki/Uru-Pa-In_language"
 translations:
   - translation_iso: ara

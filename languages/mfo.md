@@ -7,12 +7,15 @@ population: 14300
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.57067
 longitude: 8.82998
 glottocode: mbee1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Mbe"
+wikidata_id: Q36075
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbe_language"
 translations:
   - translation_iso: ara

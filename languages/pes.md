@@ -1,5 +1,6 @@
 ---
 iso: pes
+macrolanguage_id: fas
 name: Iranian Persian
 autonym: فارسی
 alt_names: [Farsi, Farsi (Western), "Farsi, Persian", "Farsi, Western", Irani, Neupersisch, New Persian, Parsi, Persian, "Persian, Iranian", Tehrani Persian]
@@ -7,12 +8,15 @@ population: 52800000
 country_id: IR
 country_name: Iran
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 28.659283
 longitude: 55.158607
 glottocode: west2369
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Western Farsi"
+wikidata_id: Q3513637
 wikipedia_url: "https://en.wikipedia.org/wiki/Iranian_Persian"
 translations:
   - translation_iso: ara

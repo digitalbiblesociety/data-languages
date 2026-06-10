@@ -7,12 +7,15 @@ population: 5000
 country_id: GA
 country_name: Gabon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.16762
 longitude: 12.32251
 glottocode: bubi1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > B10-B30 > Okani (B.30) > Southern Okani > Bubi"
+wikidata_id: Q35017
 wikipedia_url: "https://en.wikipedia.org/wiki/Vove_language"
 translations:
   - translation_iso: ara

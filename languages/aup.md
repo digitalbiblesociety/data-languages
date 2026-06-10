@@ -7,12 +7,15 @@ population: 1300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.37312
 longitude: 142.70555
 glottocode: maka1315
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Tirio > Nuclear Tirio > Makayam"
+wikidata_id: Q6738863
 wikipedia_url: "https://en.wikipedia.org/wiki/Makayam_language"
 translations:
   - translation_iso: ara

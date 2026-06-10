@@ -7,12 +7,15 @@ population: 2500
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 27.296
 longitude: 95.606
 glottocode: sing1264
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Jingpho-Luish > Jingpho > Northern Jinghpaw"
+wikidata_id: Q7524158
 wikipedia_url: "https://en.wikipedia.org/wiki/Singpho_dialect"
 translations:
   - translation_iso: ara

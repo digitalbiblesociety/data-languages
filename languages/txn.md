@@ -7,12 +7,15 @@ population: 6480
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.62046
 longitude: 134.16821
 glottocode: west2538
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > West Tarangan"
+wikidata_id: Q3515594
 translations:
   - translation_iso: ara
     name: تارانغان الغربية

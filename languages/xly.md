@@ -6,12 +6,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.94139
 longitude: 12.83222
 glottocode: elym1237
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Elymian"
+wikidata_id: Q35329
 wikipedia_url: "https://en.wikipedia.org/wiki/Elymian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 785
 country_id: UA
 country_name: Ukraine
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 39.84121
 longitude: 66.3805
 glottocode: krym1236
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Crimean Tatar-Urum > Crimeaic > Krymchak"
+wikidata_id: Q33723
 wikipedia_url: "https://en.wikipedia.org/wiki/Krymchak_language"
 translations:
   - translation_iso: ara

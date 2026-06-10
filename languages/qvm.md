@@ -1,5 +1,6 @@
 ---
 iso: qvm
+macrolanguage_id: que
 name: "Margos-Yarowilca-Lauricocha Quechua"
 autonym: kichwa
 alt_names: [Alto Marañón, Alto Marañón Quechua, Alto Pativilca, "Quechua, Margos-Yarowilca-Lauricocha", Upper Marañón Quechua]
@@ -7,12 +8,15 @@ population: 32100
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.84463
 longitude: -76.49806
 glottocode: marg1254
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > AP-AM-AH > Panao-Union > Margos-Yarowilca-Lauricocha Quechua"
+wikidata_id: Q25559675
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا ماركوس-يارويلكا-لاوريكوتشا

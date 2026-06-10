@@ -7,7 +7,10 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 scripts: [Orkh]
+wikidata_id: Q34988
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Turkic"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 240
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.90948
 longitude: -71.00362
 glottocode: play1240
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Guahibo-Playero > Playero"
+wikidata_id: Q3027923
 wikipedia_url: "https://en.wikipedia.org/wiki/Playero_language"
 translations:
   - translation_iso: ara

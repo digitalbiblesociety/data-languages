@@ -7,12 +7,15 @@ population: 4000
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 18.38647
 longitude: -97.85991
 glottocode: sant1454
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Ixcatec-Chocho-Popolocan > Chocho-Popolocan > Popolocan > Southwestern Popolocan > Tepexi-Zapotitlan > Santa Inés Ahuatempan Popoloca"
+wikidata_id: Q42365276
 translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سانتا إينيس أهواتيمبان

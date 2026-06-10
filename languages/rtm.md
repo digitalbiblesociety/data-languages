@@ -7,6 +7,8 @@ population: 2500
 country_id: FJ
 country_name: Fiji
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.50082
 longitude: 177.06614
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: rotu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Rotuman"
+wikidata_id: Q36754
 wikipedia_url: "https://en.wikipedia.org/wiki/Rotuman_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: bel
+iso639_1: be
 name: Belarusian
 autonym: беларуская мова biełaruskaja mova
 alt_names: [An Bhealarúisis, Bealaruisis, Belarooshish, Belarusan, Belarussek, Belorussian, Beyaz Rusça, Bielorrusiera, Bielorruso, Bielorrusu, Bielorusiana linguo, Bielorussian, Bielorús, Bilurusu simi, Bièlorusso, Biélorusse, Byelorussian, Běłoruska rěc, Hviterussisk, Kibelarus, Vitryska, White Russian, White Ruthenian, Wit-Russies, Wit-Russisch, Witrussisch, "Wittruss'sch", Белорузонь кель, Белорус йылме, Бѣлороу́сьскъ ѩꙁꙑ́къ, Забони Беларусӣ, בלארוסית, בעלארוסיש, بېلورۇس تىل]
@@ -7,6 +8,8 @@ population: 2637920
 country_id: BY
 country_name: Belarus
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 53.230655
 longitude: 25.603835
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: bela1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > East Slavic > Belarusian"
+wikidata_id: Q9091
 wikipedia_url: "https://en.wikipedia.org/wiki/Belarusian_language"
 translations:
   - translation_iso: ara

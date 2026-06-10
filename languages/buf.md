@@ -7,12 +7,15 @@ population: 155000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.69463
 longitude: 21.45558
 glottocode: bush1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Inner Basin Bantu > Cuvette > Nkutsuic > Bushoong-Wongo-Lele > Bushoong"
+wikidata_id: Q3449964
 wikipedia_url: "https://en.wikipedia.org/wiki/Bushong_language"
 translations:
   - translation_iso: ara

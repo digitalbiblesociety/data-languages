@@ -7,12 +7,15 @@ population: 101000
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: living
 latitude: 57.4921
 longitude: 72.5642
 glottocode: sibe1250
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > North Kipchak > Siberian Tatar"
+wikidata_id: Q4418344
 wikipedia_url: "https://en.wikipedia.org/wiki/Siberian_Tatar_language"
 translations:
   - translation_iso: ara

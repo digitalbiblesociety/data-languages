@@ -7,12 +7,15 @@ population: 61400
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.25957
 longitude: 18.464805
 glottocode: ngam1269
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Logone-Chari > Sido > Ngam"
+wikidata_id: Q3915446
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngam_language"
 translations:
   - translation_iso: ara

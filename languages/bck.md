@@ -7,12 +7,15 @@ population: 160
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -17.82967
 longitude: 125.63098
 glottocode: buna1275
 glottolog_family_id: buna1274
 glottolog_family_name: Bunaban
 glottolog_classification: "Bunaban > Bunaba"
+wikidata_id: Q580923
 wikipedia_url: "https://en.wikipedia.org/wiki/Bunuba_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.60769
 longitude: 12.24389
 glottocode: mbul1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Jarawan > Nigerian Jarawan > Numan > Mbula-Bwazza"
+wikidata_id: Q3913324
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbula-Bwazza_language"
 translations:
   - translation_iso: ara

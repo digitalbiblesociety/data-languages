@@ -1,16 +1,20 @@
 ---
 iso: luh
+macrolanguage_id: zho
 name: Leizhou Chinese
 alt_names: ["Chinese, Leizhou", Lei Hua, Leizhou, Li Hua]
 population: 2800000
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 20.693497
 longitude: 110.022914
 glottocode: leiz1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Southern Min > Leiqiong > Leizhou Chinese"
+wikidata_id: Q1988433
 wikipedia_url: "https://en.wikipedia.org/wiki/Leizhou_Min"
 translations:
   - translation_iso: ara

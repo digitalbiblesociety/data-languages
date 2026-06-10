@@ -6,12 +6,15 @@ population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 8.020857
 longitude: -2.811213
 glottocode: gbin1239
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Nwa-Ben > Unclassified Nwa-Ben > Gbin"
+wikidata_id: Q16934745
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbin_language"
 translations:
   - translation_iso: ara

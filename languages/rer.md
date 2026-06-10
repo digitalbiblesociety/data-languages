@@ -7,12 +7,15 @@ population: null
 country_id: ET
 country_name: Ethiopia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 4.11661
 longitude: 41.70648
 glottocode: rerb1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Rer Bare"
+wikidata_id: Q12953857
 translations:
   - translation_iso: ara
     name: رير بير

@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 10.21005
 longitude: 9.89205
 glottocode: ajaw1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Western West Chadic B.2 > Ajawa"
+wikidata_id: Q56645
 wikipedia_url: "https://en.wikipedia.org/wiki/Ajawa_language"
 translations:
   - translation_iso: ara

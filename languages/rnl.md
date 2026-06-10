@@ -6,12 +6,15 @@ population: 8000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.789283
 longitude: 92.325463
 glottocode: rang1267
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Western Northwestern Kuki-Chin > Halam"
+wikidata_id: Q7292878
 wikipedia_url: "https://en.wikipedia.org/wiki/Ranglong_language"
 translations:
   - translation_iso: ara

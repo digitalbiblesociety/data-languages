@@ -7,12 +7,15 @@ population: 3500
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.56429
 longitude: 121.04991
 glottocode: bana1288
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Northern Kalinga > Northwest Kalinga > Banao Itneg"
+wikidata_id: Q12627559
 translations:
   - translation_iso: ara
     name: بناو إيتنج

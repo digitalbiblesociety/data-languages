@@ -7,12 +7,15 @@ population: 20800
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.25237
 longitude: 37.55537
 glottocode: dorz1235
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > North-West Ometo > Central Ometo > Dorze"
+wikidata_id: Q56336
 wikipedia_url: "https://en.wikipedia.org/wiki/Dorze_language"
 translations:
   - translation_iso: ara

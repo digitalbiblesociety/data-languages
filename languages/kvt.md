@@ -7,8 +7,11 @@ population: 9550
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.17968
 longitude: 97.37906
+wikidata_id: Q12952582
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahta_language"
 translations:
   - translation_iso: ara

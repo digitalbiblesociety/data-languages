@@ -7,6 +7,8 @@ population: 63000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.63067
 longitude: 10.23704
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ngom1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > West Bamileke > Ngomba"
+wikidata_id: Q36287
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngomba_language"
 translations:
   - translation_iso: ara

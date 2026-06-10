@@ -7,6 +7,8 @@ population: 1000
 country_id: DE
 country_name: Germany
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.771
 longitude: 6.092
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nort2627
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > Greater East Low German > Eastern Low German"
+wikidata_id: Q25433
 wikipedia_url: "https://en.wikipedia.org/wiki/Low_German"
 translations:
   - translation_iso: ara

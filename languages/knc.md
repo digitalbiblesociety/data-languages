@@ -1,5 +1,6 @@
 ---
 iso: knc
+macrolanguage_id: kau
 name: Central Kanuri
 autonym: Kànùrí
 alt_names: ["\"Baribari\"", "\"Beriberi\"", Aga, Beriberi, Bornouan, Bornouans, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Central", Kole, Kolere, Sirata, Yerwa Kanuri]
@@ -7,12 +8,15 @@ population: 7925500
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 11.886274
 longitude: 16.391838
 glottocode: cent2050
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Central Kanuri"
+wikidata_id: Q15637215
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kanuri"
 translations:
   - translation_iso: ara

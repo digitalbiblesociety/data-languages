@@ -6,12 +6,15 @@ population: 350
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -3.32519
 longitude: 134.87891
 glottocode: yaur1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Southwest Cenderawasih Bay > Yaur-Yerisiam > Yaur"
+wikidata_id: Q8050346
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaur_language"
 translations:
   - translation_iso: ara

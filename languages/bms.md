@@ -7,12 +7,15 @@ population: 20000
 country_id: NE
 country_name: Niger
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.10003
 longitude: 13.06649
 glottocode: bilm1238
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanuric > East Kanuri > Bilma-Mowar Kanuri"
+wikidata_id: Q8843523
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilma_Kanuri"
 translations:
   - translation_iso: ara

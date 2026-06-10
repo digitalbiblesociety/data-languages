@@ -7,12 +7,15 @@ population: 1050
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.63282
 longitude: 150.32311
 glottocode: bebe1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Bebeli-Mangseng > Bebeli"
+wikidata_id: Q4878430
 wikipedia_url: "https://en.wikipedia.org/wiki/Bebeli_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 8000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.62201
 longitude: 133.14488
 glottocode: mosk1236
 glottolog_family_id: east1459
 glottolog_family_name: "East Bird's Head"
 glottolog_classification: "East Bird's Head > Meax > Moskona"
+wikidata_id: Q11288953
 wikipedia_url: "https://en.wikipedia.org/wiki/Moskona_language"
 translations:
   - translation_iso: ara

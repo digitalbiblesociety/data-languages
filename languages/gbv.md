@@ -7,12 +7,15 @@ population: 95000
 country_id: CF
 country_name: Central African Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.28183
 longitude: 17.38868
 glottocode: gban1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Oriental > Gbanu-Manza-Ngbaka > Gbanu"
+wikidata_id: Q3914945
 wikipedia_url: "https://en.wikipedia.org/wiki/Gbanu_language"
 translations:
   - translation_iso: ara

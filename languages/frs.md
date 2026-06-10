@@ -7,6 +7,8 @@ population: 2000
 country_id: DE
 country_name: Germany
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 52.97134
 longitude: 7.73549
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nort2628
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > West Low German > North Low Saxon > German Northern Low Saxon"
+wikidata_id: Q149208
 wikipedia_url: "https://en.wikipedia.org/wiki/East_Frisian_Low_Saxon"
 translations:
   - translation_iso: ara

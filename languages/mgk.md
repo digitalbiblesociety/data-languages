@@ -7,9 +7,12 @@ population: 850
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.36944
 longitude: 139.7523
 glottocode: mawe1251
+wikidata_id: Q6794395
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawes_language"
 translations:
   - translation_iso: ara

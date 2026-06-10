@@ -7,12 +7,15 @@ population: 90
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -29.81891
 longitude: 152.91311
 glottocode: kumb1268
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > North Coast Pama-Nyungan > Gumbaynggiric > Kumbainggar"
+wikidata_id: Q3915412
 wikipedia_url: "https://en.wikipedia.org/wiki/Gumbaynggirr_language"
 translations:
   - translation_iso: ara

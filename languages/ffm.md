@@ -1,5 +1,6 @@
 ---
 iso: ffm
+macrolanguage_id: ful
 name: Maasina Fulfulde
 autonym: Maasinankoore
 alt_names: ["Ful (East Maasina), Ful (West Maasina)", Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde (Maasina), "Fulfulde, Maasina", Maacina, Macina, Peul]
@@ -7,6 +8,8 @@ population: 1523240
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 11.132407
 longitude: -3.647633
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: maas1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Maasina Fulfulde"
+wikidata_id: Q3915322
 wikipedia_url: "https://en.wikipedia.org/wiki/Maasina_Fulfulde"
 translations:
   - translation_iso: ara

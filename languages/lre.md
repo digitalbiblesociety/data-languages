@@ -7,12 +7,15 @@ population: null
 country_id: CA
 country_name: Canada
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 45.33
 longitude: -72.5
 glottocode: laur1250
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Lake Iroquoian > Greater Iroquois > Laurentian"
+wikidata_id: Q1790301
 wikipedia_url: "https://en.wikipedia.org/wiki/Laurentian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1730
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.5501
 longitude: 142.99792
 glottocode: muba1238
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Mubami"
+wikidata_id: Q6930815
 wikipedia_url: "https://en.wikipedia.org/wiki/Mubami_language"
 translations:
   - translation_iso: ara

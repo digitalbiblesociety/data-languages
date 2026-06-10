@@ -1,5 +1,6 @@
 ---
 iso: ztx
+macrolanguage_id: zap
 name: Zaachila Zapotec
 autonym: San Raymundo Jalpan Zapotec
 alt_names: [Central Sapoteko, Zapotec, "Zapotec, Zaachila", Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
@@ -7,12 +8,15 @@ population: 10000
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 17.00245
 longitude: -96.82337
 glottocode: zaac1239
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Zaachila Zapotec"
+wikidata_id: Q8063390
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaachila_Zapotec"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 100
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -18.40733
 longitude: 126.351
 glottocode: goon1238
 glottolog_family_id: buna1274
 glottolog_family_name: Bunaban
 glottolog_classification: "Bunaban > Gooniyandi"
+wikidata_id: Q2669219
 wikipedia_url: "https://en.wikipedia.org/wiki/Gooniyandi_language"
 translations:
   - translation_iso: ara

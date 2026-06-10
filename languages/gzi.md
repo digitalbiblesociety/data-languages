@@ -6,12 +6,15 @@ population: 7030
 country_id: IR
 country_name: Iran
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 34.03574
 longitude: 49.45528
 glottocode: gazi1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Gazic"
+wikidata_id: Q5529130
 wikipedia_url: "https://en.wikipedia.org/wiki/Gazi_language"
 translations:
   - translation_iso: ara

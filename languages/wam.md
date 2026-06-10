@@ -7,12 +7,15 @@ population: 400
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 41.70504
 longitude: -73.31478
 glottocode: wamp1249
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Southern New England Algonquian > Wampanoag"
+wikidata_id: Q56519
 wikipedia_url: "https://en.wikipedia.org/wiki/Massachusett_language"
 translations:
   - translation_iso: ara

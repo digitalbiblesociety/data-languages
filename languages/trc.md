@@ -7,12 +7,15 @@ population: 30000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.15414
 longitude: -97.98262
 glottocode: copa1237
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Trique > Copala Triqui"
+wikidata_id: Q12953935
 wikipedia_url: "https://en.wikipedia.org/wiki/Copala_Triqui"
 translations:
   - translation_iso: ara

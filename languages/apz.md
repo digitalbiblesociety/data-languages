@@ -7,12 +7,15 @@ population: 2390
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.05417
 longitude: 146.08961
 glottocode: safe1240
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Safeyoka"
+wikidata_id: Q7398693
 wikipedia_url: "https://en.wikipedia.org/wiki/Safeyoka_language"
 translations:
   - translation_iso: ara

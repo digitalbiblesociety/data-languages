@@ -7,12 +7,15 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.77796
 longitude: 53.32002
 glottocode: shah1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Caspian > Mazanderani-Shahmirzadi > Shahmirzadi"
+wikidata_id: Q12953126
 translations:
   - translation_iso: ara
     name: اللغة شاهميرزادي

@@ -7,9 +7,12 @@ population: 400
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.02099
 longitude: 93.80636
 glottocode: shom1245
+wikidata_id: Q1039346
 wikipedia_url: "https://en.wikipedia.org/wiki/Shompen_language"
 translations:
   - translation_iso: ara

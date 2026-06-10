@@ -7,6 +7,8 @@ population: 11600
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.63958
 longitude: 121.20976
 scripts: [Buhd, Latn]
@@ -14,6 +16,7 @@ glottocode: buhi1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > South Mangyan > Buhid-Taubuid > Buhid"
+wikidata_id: Q1002956
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhid_language"
 translations:
   - translation_iso: ara

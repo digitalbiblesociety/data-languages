@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: historical
 latitude: 48.48
 longitude: 39.46
 glottocode: oldo1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Ossetic > Old Ossetic"
+wikidata_id: Q65455882
 translations:
   - translation_iso: ara
     name: اللغة الأوسيتية القديمة

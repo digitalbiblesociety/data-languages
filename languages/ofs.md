@@ -7,12 +7,15 @@ population: null
 country_id: NL
 country_name: Netherlands
 status_id: null
+scope: individual
+language_type: historical
 latitude: 53.35
 longitude: 6.8
 glottocode: oldf1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Old Frisian"
+wikidata_id: Q35133
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Frisian"
 translations:
   - translation_iso: ara

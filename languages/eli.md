@@ -6,12 +6,15 @@ population: 400
 country_id: SD
 country_name: Sudan
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 10.27415
 longitude: 30.73055
 glottocode: ndin1245
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Nding-Tasomi > Nding"
+wikidata_id: Q36176
 wikipedia_url: "https://en.wikipedia.org/wiki/Nding_language"
 translations:
   - translation_iso: ara

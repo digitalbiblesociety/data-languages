@@ -7,9 +7,12 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -8.06666
 longitude: -36.58332
 glottocode: xuku1239
+wikidata_id: Q9096758
 wikipedia_url: "https://en.wikipedia.org/wiki/Xukuru_language"
 translations:
   - translation_iso: ara

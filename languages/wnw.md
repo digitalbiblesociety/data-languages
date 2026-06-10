@@ -6,6 +6,9 @@ population: 5
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
+wikidata_id: Q56754
 wikipedia_url: "https://en.wikipedia.org/wiki/Wintu_language"
 translations:
   - translation_iso: ara

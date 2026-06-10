@@ -7,12 +7,15 @@ population: 19750
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.62827
 longitude: 88.379815
 glottocode: dhim1246
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Dhimal-Lhokpu-Toto > Dhimal"
+wikidata_id: Q35229
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhimal_language"
 translations:
   - translation_iso: ara

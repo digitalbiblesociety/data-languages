@@ -1,10 +1,14 @@
 ---
 iso: vsn
+macrolanguage_id: san
 name: Vedic Sanskrit
 country_id: IN
 country_name: India
+scope: individual
+language_type: historical
 latitude: 20
 longitude: 77
+wikidata_id: Q36858
 wikipedia_url: "https://en.wikipedia.org/wiki/Vedic_Sanskrit"
 translations:
   - translation_iso: ara

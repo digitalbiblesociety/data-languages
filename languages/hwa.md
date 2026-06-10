@@ -7,12 +7,15 @@ population: 2100
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.85171
 longitude: -6.44406
 glottocode: wane1242
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Bakwe-Wane > Wané"
+wikidata_id: Q3914887
 wikipedia_url: "https://en.wikipedia.org/wiki/Wan%C3%A9_language"
 translations:
   - translation_iso: ara

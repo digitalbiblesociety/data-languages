@@ -7,12 +7,15 @@ population: 60
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.47256
 longitude: 142.43607
 glottocode: yapu1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > West Palai > Agi-Yeri > Yeri"
+wikidata_id: Q11044384
 wikipedia_url: "https://en.wikipedia.org/wiki/Yapunda_language"
 translations:
   - translation_iso: ara

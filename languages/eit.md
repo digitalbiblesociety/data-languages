@@ -7,12 +7,15 @@ population: 500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.51561
 longitude: 142.55536
 glottocode: eiti1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Kombioic > Eitiep"
+wikidata_id: Q5350030
 wikipedia_url: "https://en.wikipedia.org/wiki/Eitiep_language"
 translations:
   - translation_iso: ara

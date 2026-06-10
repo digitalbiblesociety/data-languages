@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.518
 longitude: -61.42
 glottocode: tuku1240
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Tupian (Unattested) > Tukumanféd"
+wikidata_id: Q6346712
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagwahiva_language"
 translations:
   - translation_iso: ara

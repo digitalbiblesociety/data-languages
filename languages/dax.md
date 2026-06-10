@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -13.18057
 longitude: 136.21967
 glottocode: dayi1244
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dayi"
+wikidata_id: Q10467281
 translations:
   - translation_iso: ara
     name: دايي

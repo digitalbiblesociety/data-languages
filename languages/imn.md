@@ -6,12 +6,15 @@ population: 250
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.31228
 longitude: 141.1713
 glottocode: imon1245
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Imonda"
+wikidata_id: Q6005721
 wikipedia_url: "https://en.wikipedia.org/wiki/Imonda_language"
 translations:
   - translation_iso: ara

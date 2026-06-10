@@ -7,12 +7,15 @@ population: 750
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.583
 longitude: 77
 glottocode: lahu1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Kangric-Chamealic-Bhattiyali > Chamealic > Bhadrawahi-Bhalesi-Curahi > Bhadarwahic > Chinali-Lahul Lohar > Lahul Lohar"
+wikidata_id: Q12953672
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahul_Lohar_language"
 translations:
   - translation_iso: ara

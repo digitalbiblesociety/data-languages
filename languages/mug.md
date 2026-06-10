@@ -7,12 +7,15 @@ population: 164400
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.84388
 longitude: 15.1065
 glottocode: musg1254
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Musguic > Musgu-Mbara > Musgu"
+wikidata_id: Q3123545
 wikipedia_url: "https://en.wikipedia.org/wiki/Musgu_language"
 translations:
   - translation_iso: ara

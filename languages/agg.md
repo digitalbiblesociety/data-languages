@@ -7,12 +7,15 @@ population: 1500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.7167
 longitude: 141.19901
 glottocode: ango1254
 glottolog_family_id: sena1264
 glottolog_family_name: Senagi
 glottolog_classification: "Senagi > Angor"
+wikidata_id: Q3508100
 wikipedia_url: "https://en.wikipedia.org/wiki/Angor_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 100
 country_id: NP
 country_name: Nepal
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 27.35802
 longitude: 86.98242
+wikidata_id: Q12629033
 translations:
   - translation_iso: ara
     name: الشوكوا

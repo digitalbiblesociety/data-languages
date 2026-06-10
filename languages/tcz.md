@@ -7,12 +7,15 @@ population: 346100
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 24.09604
 longitude: 93.72203
 glottocode: thad1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Thado Chin"
+wikidata_id: Q6583558
 wikipedia_url: "https://en.wikipedia.org/wiki/Thadou_language"
 translations:
   - translation_iso: ara

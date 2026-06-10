@@ -6,8 +6,11 @@ population: 420
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.94252
 longitude: -46.75038
+wikidata_id: Q3199710
 translations:
   - translation_iso: ara
     name: كريكاتي-تيمبيرا

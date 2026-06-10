@@ -7,12 +7,15 @@ population: 300
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -11.88837
 longitude: -62.2544
 glottocode: tupa1250
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Wayoro-Tupari > Tuparí"
+wikidata_id: Q3542217
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupari_language"
 translations:
   - translation_iso: ara

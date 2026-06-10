@@ -1,5 +1,6 @@
 ---
 iso: azb
+macrolanguage_id: aze
 name: South Azerbaijani
 autonym: " آذربایجان دیلی"
 alt_names: [Aderbeidjanisch, Afghanistan Oghuz, Azarbaydjanian, Azari (Iranian), Azerbaijani, Azerbaijani (South), "Azerbaijani, South", Azeri, South Azeri language, Southern Iranian, Torki]
@@ -7,12 +8,15 @@ population: 13800000
 country_id: IR
 country_name: Iran
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 36.513664
 longitude: 48.43018
 glottocode: sout2697
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > Central Oghuz > South Azerbaijani"
+wikidata_id: Q3449805
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Azerbaijani_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 5840
 country_id: VE
 country_name: Venezuela
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.10677
 longitude: -67.59958
 glottocode: pume1238
+wikidata_id: Q3121835
 wikipedia_url: "https://en.wikipedia.org/wiki/Pum%C3%A9_language"
 translations:
   - translation_iso: ara

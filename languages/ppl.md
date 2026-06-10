@@ -7,6 +7,8 @@ population: 11100
 country_id: SV
 country_name: El Salvador
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 13.89305
 longitude: -89.44302
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: pipi1250
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Pipil"
+wikidata_id: Q1186896
 wikipedia_url: "https://en.wikipedia.org/wiki/Nawat_language"
 translations:
   - translation_iso: ara

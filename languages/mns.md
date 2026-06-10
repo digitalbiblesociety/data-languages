@@ -7,6 +7,8 @@ population: 12300
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 64.41179
 longitude: 61.34397
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: mans1258
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Mansic > North-Central Mansi > Northern Mansi"
+wikidata_id: Q33759
 wikipedia_url: "https://en.wikipedia.org/wiki/Mansi_languages"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 9140
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.5672
 longitude: 108.11401
 glottocode: todr1244
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Todrah"
+wikidata_id: Q7812881
 wikipedia_url: "https://en.wikipedia.org/wiki/Todrah_language"
 translations:
   - translation_iso: ara

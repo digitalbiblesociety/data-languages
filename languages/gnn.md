@@ -7,12 +7,15 @@ population: 120
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -12.25254
 longitude: 136.83042
 glottocode: guma1253
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Yuulngu > Southern Yolngu > Southern-Eastern Yolngu > Dhuwal-Dhuwala > Western Dhuwal-Dhuwala > Gumatj"
+wikidata_id: Q10510745
 translations:
   - translation_iso: ara
     name: غومآتج

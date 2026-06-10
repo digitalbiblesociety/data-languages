@@ -6,6 +6,9 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q63339949
 wikipedia_url: "https://en.wikipedia.org/wiki/Ararandew%C3%A1ra_language"
 translations:
   - translation_iso: ara

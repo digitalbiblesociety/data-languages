@@ -7,12 +7,15 @@ population: 4785
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.20951
 longitude: 36.33293
 glottocode: dime1235
 glottolog_family_id: sout2845
 glottolog_family_name: South Omotic
 glottolog_classification: "South Omotic > Dime"
+wikidata_id: Q35311
 wikipedia_url: "https://en.wikipedia.org/wiki/Dime_language"
 translations:
   - translation_iso: ara

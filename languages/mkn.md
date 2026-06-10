@@ -7,12 +7,15 @@ population: 200000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -10.25257
 longitude: 123.62974
 glottocode: kupa1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Kupang Malay"
+wikidata_id: Q18458203
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupang_Malay"
 translations:
   - translation_iso: ara

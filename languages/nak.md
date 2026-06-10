@@ -7,12 +7,15 @@ population: 30000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.59931
 longitude: 150.88772
 glottocode: naka1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Nakanai-Meramera > Nakanai"
+wikidata_id: Q6528669
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakanai_language"
 translations:
   - translation_iso: ara

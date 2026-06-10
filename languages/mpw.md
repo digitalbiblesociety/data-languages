@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 1.9145
 longitude: -59.6155
 glottocode: mapi1252
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Mapidian-Mawayana"
+wikidata_id: Q6753812
 wikipedia_url: "https://en.wikipedia.org/wiki/Mapidian_language"
 translations:
   - translation_iso: ara

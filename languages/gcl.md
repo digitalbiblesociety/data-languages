@@ -7,12 +7,15 @@ population: 102000
 country_id: GD
 country_name: Grenada
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.0067
 longitude: -61.69894
 glottocode: gren1247
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Vincent-Grenadian Creole > Grenada-Tobago Creole > Grenadian Creole English"
+wikidata_id: Q4252500
 wikipedia_url: "https://en.wikipedia.org/wiki/Grenadian_Creole_English"
 translations:
   - translation_iso: ara

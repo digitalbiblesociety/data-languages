@@ -7,12 +7,15 @@ population: 2000
 country_id: RU
 country_name: Russia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 52.59001
 longitude: 140.68089
 glottocode: gily1242
 glottolog_family_id: nivk1234
 glottolog_family_name: Nivkh
 glottolog_classification: "Nivkh > Amur Nivkh"
+wikidata_id: Q36464
 wikipedia_url: "https://en.wikipedia.org/wiki/Nivkh_languages"
 translations:
   - translation_iso: ara

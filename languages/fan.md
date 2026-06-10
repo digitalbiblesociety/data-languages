@@ -7,6 +7,8 @@ population: 1061800
 country_id: GQ
 country_name: Equatorial Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 1.723965
 longitude: 11.61454
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: fang1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Fang (Equatorial Guinea)"
+wikidata_id: Q33484
 wikipedia_url: "https://en.wikipedia.org/wiki/Fang_language"
 translations:
   - translation_iso: ara

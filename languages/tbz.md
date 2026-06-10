@@ -7,12 +7,15 @@ population: 245300
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.16143
 longitude: 1.18045
 glottocode: dita1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Waama-Tayari-Ditammari > Tayari-Ditammari > Ditammaric > Ditammari"
+wikidata_id: Q35186
 wikipedia_url: "https://en.wikipedia.org/wiki/Tammari_language"
 translations:
   - translation_iso: ara

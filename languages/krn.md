@@ -7,12 +7,15 @@ population: 66700
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.69555
 longitude: -8.49229
 glottocode: sapo1251
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Guere-Krahn > Sapo"
+wikidata_id: Q3915386
 wikipedia_url: "https://en.wikipedia.org/wiki/Sapo_language"
 translations:
   - translation_iso: ara

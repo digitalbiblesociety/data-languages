@@ -7,12 +7,15 @@ population: 37000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.71141
 longitude: -4.92082
 glottocode: turk1306
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kirma-Tyurama > Turka"
+wikidata_id: Q36643
 wikipedia_url: "https://en.wikipedia.org/wiki/Turka_language"
 translations:
   - translation_iso: ara

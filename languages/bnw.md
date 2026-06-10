@@ -6,12 +6,15 @@ population: 500
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.46238
 longitude: 143.0581
 glottocode: bisi1244
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Mari-Bisis > Bisis"
+wikidata_id: Q56356
 wikipedia_url: "https://en.wikipedia.org/wiki/Bisis_language"
 translations:
   - translation_iso: ara

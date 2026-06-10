@@ -6,12 +6,15 @@ population: 1090
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.13554
 longitude: 144.83607
 glottocode: awar1249
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Bosngun-Awar > Awar"
+wikidata_id: Q56876
 wikipedia_url: "https://en.wikipedia.org/wiki/Awar_language"
 translations:
   - translation_iso: ara

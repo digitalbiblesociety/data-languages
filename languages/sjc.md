@@ -1,17 +1,21 @@
 ---
 iso: sjc
+macrolanguage_id: zho
 name: Shaojiang Chinese
 autonym: 邵將 / 邵将
 alt_names: ["Chinese, Shaojiang", Shaojiang]
 population: 850000
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 27.18529
 longitude: 117.49351
 glottocode: shao1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Inland Min > Min Beic > Shaojiang Chinese"
+wikidata_id: Q3431451
 wikipedia_url: "https://en.wikipedia.org/wiki/Shao%E2%80%93Jiang_Min"
 translations:
   - translation_iso: ara

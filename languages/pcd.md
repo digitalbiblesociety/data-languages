@@ -7,6 +7,8 @@ population: 700000
 country_id: FR
 country_name: France
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.28307
 longitude: 3.250855
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: pica1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Picard"
+wikidata_id: Q34024
 wikipedia_url: "https://en.wikipedia.org/wiki/Picard_language"
 translations:
   - translation_iso: ara

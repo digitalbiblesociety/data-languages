@@ -6,12 +6,15 @@ population: 2000
 country_id: LV
 country_name: Latvia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 56.93354
 longitude: 24.4931
 glottocode: latv1245
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Latvian Sign Language"
+wikidata_id: Q6497414
 wikipedia_url: "https://en.wikipedia.org/wiki/Latvian_Sign_Language"
 translations:
   - translation_iso: ara

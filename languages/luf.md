@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -10.16145
 longitude: 149.25747
 glottocode: laua1245
 glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Laua"
+wikidata_id: Q6497673
 wikipedia_url: "https://en.wikipedia.org/wiki/Laua_language"
 translations:
   - translation_iso: ara

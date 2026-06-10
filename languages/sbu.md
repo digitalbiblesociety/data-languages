@@ -7,12 +7,15 @@ population: 2500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.497
 longitude: 77.116
 glottocode: stod1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Lahauli-Spiti > Stod Bhoti"
+wikidata_id: Q15622700
 wikipedia_url: "https://en.wikipedia.org/wiki/Stod_Bhoti"
 translations:
   - translation_iso: ara

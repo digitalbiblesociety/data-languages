@@ -6,12 +6,15 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -30.245
 longitude: 120.223
 glottocode: kala1401
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Kalaamaya"
+wikidata_id: Q6349988
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalaamaya_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 270050
 country_id: BJ
 country_name: Benin
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 11.66822
 longitude: 3.49109
 glottocode: dend1243
 glottolog_family_id: song1307
 glottolog_family_name: Songhay
 glottolog_classification: "Songhay > Eastern Songhay > Zarma-Kaado-Dendi > Dendi (Benin)"
+wikidata_id: Q35164
 wikipedia_url: "https://en.wikipedia.org/wiki/Dendi_language"
 translations:
   - translation_iso: ara

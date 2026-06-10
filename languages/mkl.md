@@ -7,12 +7,15 @@ population: 35900
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.04385
 longitude: 3.05998
 glottocode: moko1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Mokole"
+wikidata_id: Q36047
 wikipedia_url: "https://en.wikipedia.org/wiki/Mokole_language_(Benin)"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 1780
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.05569
 longitude: 159.11878
 glottocode: lavu1241
+wikidata_id: Q770547
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavukaleve_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1300
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.234
 longitude: 87.479
 glottocode: koda1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Koda"
+wikidata_id: Q6425038
 wikipedia_url: "https://en.wikipedia.org/wiki/Koda_language"
 translations:
   - translation_iso: ara

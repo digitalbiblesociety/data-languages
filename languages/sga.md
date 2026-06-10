@@ -7,6 +7,8 @@ population: null
 country_id: IE
 country_name: Ireland
 status_id: null
+scope: individual
+language_type: historical
 latitude: 53
 longitude: -8
 scripts: [Latn, Ogam]
@@ -14,6 +16,7 @@ glottocode: oldi1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Goidelic > Early Irish"
+wikidata_id: Q35308
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Irish"
 translations:
   - translation_iso: ara

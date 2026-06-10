@@ -7,12 +7,15 @@ population: 60000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.94184
 longitude: 17.75291
 glottocode: mbat1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Likouala-Sangha > Bwamba-Ngondi-Pande-Mbati-Aka > Mbati"
+wikidata_id: Q36165
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbati_language"
 translations:
   - translation_iso: ara

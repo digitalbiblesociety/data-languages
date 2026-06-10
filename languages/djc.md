@@ -7,12 +7,15 @@ population: 60000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.11866
 longitude: 18.79962
 glottocode: dard1243
 glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Dar Daju Daju"
+wikidata_id: Q5209890
 wikipedia_url: "https://en.wikipedia.org/wiki/Daju_Mongo_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6630
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.57759
 longitude: 8.09838
 glottocode: mala1471
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Mala (Nigeria)"
+wikidata_id: Q3913381
 wikipedia_url: "https://en.wikipedia.org/wiki/Mala_language_(Nigeria)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2800
 country_id: GR
 country_name: Greece
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 38.73
 longitude: 35.45
 glottocode: capp1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Pontic-Cappadocian Greek > Cappadocian Greek"
+wikidata_id: Q853414
 wikipedia_url: "https://en.wikipedia.org/wiki/Cappadocian_Greek"
 translations:
   - translation_iso: ara

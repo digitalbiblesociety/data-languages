@@ -7,12 +7,15 @@ population: 299000
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.91585
 longitude: -9.69906
 glottocode: loma1260
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Loma > Loma (Liberia)"
+wikidata_id: Q35885
 wikipedia_url: "https://en.wikipedia.org/wiki/Loma_language"
 translations:
   - translation_iso: ara

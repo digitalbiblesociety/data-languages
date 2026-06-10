@@ -6,12 +6,15 @@ population: 1970
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.88607
 longitude: 141.19097
 glottocode: kilm1241
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Kilmeri"
+wikidata_id: Q6408020
 wikipedia_url: "https://en.wikipedia.org/wiki/Kilmeri_language"
 translations:
   - translation_iso: ara

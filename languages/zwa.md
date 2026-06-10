@@ -7,12 +7,15 @@ population: 4880
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 8.01148
 longitude: 38.82583
 glottocode: zayy1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Harari-East Gurage > Zay"
+wikidata_id: Q10195
 wikipedia_url: "https://en.wikipedia.org/wiki/Zay_language"
 translations:
   - translation_iso: ara

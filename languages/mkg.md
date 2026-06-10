@@ -7,12 +7,15 @@ population: 10000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 25.59464
 longitude: 107.72616
 glottocode: makc1235
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Mak-Ai-Cham > Mak (China)"
+wikidata_id: Q3280623
 wikipedia_url: "https://en.wikipedia.org/wiki/Mak_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 300
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.91473
 longitude: 136.29569
 glottocode: sawe1240
 glottolog_family_id: yawa1259
 glottolog_family_name: Yawa-Saweru
 glottolog_classification: "Yawa-Saweru > Saweru"
+wikidata_id: Q3474649
 wikipedia_url: "https://en.wikipedia.org/wiki/Saweru_language"
 translations:
   - translation_iso: ara

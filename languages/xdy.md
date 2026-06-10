@@ -7,12 +7,15 @@ population: 520000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.78384
 longitude: 111.13647
 glottocode: mala1480
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Malayic Dayak"
+wikidata_id: Q12473440
 translations:
   - translation_iso: ara
     name: مالاييك داياك

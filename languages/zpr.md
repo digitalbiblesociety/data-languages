@@ -1,5 +1,6 @@
 ---
 iso: zpr
+macrolanguage_id: zap
 name: Santiago Xanica Zapotec
 autonym: (zapoteco de Santiago Xánica)
 alt_names: [Southern Sapoteko, Xanica Zapotec, Zapotec, "Zapotec, Santiago Xanica", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
@@ -7,12 +8,15 @@ population: 2500
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 15.88362
 longitude: -96.21859
 glottocode: sant1452
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Cisyautepequeño > Santiago Xanica Zapotec"
+wikidata_id: Q8042924
 wikipedia_url: "https://en.wikipedia.org/wiki/X%C3%A1nica_Zapotec"
 translations:
   - translation_iso: ara

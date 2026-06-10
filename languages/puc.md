@@ -6,8 +6,11 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.10143
 longitude: 116.25113
+wikidata_id: Q7259895
 wikipedia_url: "https://en.wikipedia.org/wiki/Merap_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 43.321506
 longitude: -124.258175
 glottocode: milu1241
 glottolog_family_id: coos1248
 glottolog_family_name: Coosan
 glottolog_classification: "Coosan > Miluk"
+wikidata_id: Q3314550
 wikipedia_url: "https://en.wikipedia.org/wiki/Miluk_language"
 translations:
   - translation_iso: ara

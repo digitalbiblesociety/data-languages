@@ -7,12 +7,15 @@ population: 4100
 country_id: KH
 country_name: Cambodia
 status_id: 8a
+scope: individual
+language_type: extinct
 latitude: 12.24296
 longitude: 103.1387
 glottocode: somr1240
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Somray of Battambang-Somre of Siem Reap"
+wikidata_id: Q6583612
 wikipedia_url: "https://en.wikipedia.org/wiki/Somray_language"
 translations:
   - translation_iso: ara

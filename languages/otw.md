@@ -1,5 +1,6 @@
 ---
 iso: otw
+macrolanguage_id: oji
 name: Ottawa
 autonym: Nishnaabemwin
 alt_names: [Chippewa, Chippeway, Eastern Ojibwa, Odaawaa, Odawa, Ojibwa, Ojibway, Ojibwe, Oyibua odahua (Isla de Walpole)]
@@ -7,12 +8,15 @@ population: 7360
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 44.598835
 longitude: -83.22595
 glottocode: otta1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Ottawa"
+wikidata_id: Q133678
 wikipedia_url: "https://en.wikipedia.org/wiki/Ottawa_dialect"
 translations:
   - translation_iso: ara

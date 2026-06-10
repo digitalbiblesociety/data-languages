@@ -6,12 +6,15 @@ population: 24600
 country_id: RO
 country_name: Romania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 44.92922
 longitude: 26.2924
 glottocode: roma1324
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Romanian Sign Language"
+wikidata_id: Q7362575
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_Sign_Language"
 translations:
   - translation_iso: ara

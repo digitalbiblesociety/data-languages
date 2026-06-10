@@ -7,12 +7,15 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: historical
 latitude: 50.61436
 longitude: -4.34409
 glottocode: oldc1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Insular Celtic > Brythonic > Southwestern Brythonic > Old South-West British"
+wikidata_id: Q48304520
 translations:
   - translation_iso: ara
     name: اللغة الكورنية القديمة

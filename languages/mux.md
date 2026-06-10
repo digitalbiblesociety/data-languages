@@ -7,12 +7,15 @@ population: 30000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.8626
 longitude: 144.08649
 glottocode: boun1245
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Hagen > Melpa-Tembagla > Bo-Ung"
+wikidata_id: Q15831607
 wikipedia_url: "https://en.wikipedia.org/wiki/Tembagla_language"
 translations:
   - translation_iso: ara

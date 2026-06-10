@@ -7,6 +7,8 @@ population: 31200
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.452907
 longitude: -13.349513
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bass1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Tenda > Bassari-Bedik-Bapen > Bassari-Tanda"
+wikidata_id: Q35098
 wikipedia_url: "https://en.wikipedia.org/wiki/Bassari_language"
 translations:
   - translation_iso: ara

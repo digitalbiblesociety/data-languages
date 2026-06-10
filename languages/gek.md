@@ -7,12 +7,15 @@ population: 14100
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.97395
 longitude: 9.78757
 glottocode: yiwo1237
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Goemaic > Yiwom"
+wikidata_id: Q3441277
 wikipedia_url: "https://en.wikipedia.org/wiki/Yiwom_language"
 translations:
   - translation_iso: ara

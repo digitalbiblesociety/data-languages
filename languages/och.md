@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 36.12
 longitude: 114.32
 glottocode: oldc1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Old Chinese"
+wikidata_id: Q35137
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Chinese"
 translations:
   - translation_iso: ara

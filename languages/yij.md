@@ -7,12 +7,15 @@ population: 380
 country_id: AU
 country_name: Australia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -21.53794
 longitude: 117.00104
 glottocode: yind1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Yindjibarndi-Kurrama > Yindjibarndi"
+wikidata_id: Q3121073
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinjibarndi_language"
 translations:
   - translation_iso: ara

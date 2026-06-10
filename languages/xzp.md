@@ -7,6 +7,9 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q65455892
 translations:
   - translation_iso: ara
     name: زابوتيك القديمة

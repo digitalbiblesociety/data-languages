@@ -7,12 +7,15 @@ population: 8700
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.25534
 longitude: -104.68847
 glottocode: sout2977
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tepiman > Tepehuan > Southern Tepehuan > Southwestern Tepehuan"
+wikidata_id: Q3518245
 translations:
   - translation_iso: ara
     name: تيبيهوان الجنوبية الغربية

@@ -7,12 +7,15 @@ population: null
 country_id: MY
 country_name: Malaysia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 3.11331
 longitude: 102.91576
 glottocode: temo1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > South Aslian > Semelai-Semaq > Temoq"
+wikidata_id: Q7698205
 wikipedia_url: "https://en.wikipedia.org/wiki/Temoq_language"
 translations:
   - translation_iso: ara

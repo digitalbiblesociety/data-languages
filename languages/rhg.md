@@ -7,6 +7,8 @@ population: 2529250
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.831
 longitude: 93.1695
 scripts: [Arab, Latn, Rohg]
@@ -14,6 +16,7 @@ glottocode: rohi1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Rohingya"
+wikidata_id: Q3241177
 wikipedia_url: "https://en.wikipedia.org/wiki/Rohingya_language"
 translations:
   - translation_iso: ara

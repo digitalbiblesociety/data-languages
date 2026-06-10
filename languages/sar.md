@@ -7,12 +7,15 @@ population: null
 country_id: BO
 country_name: Bolivia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -11.94232
 longitude: -65.39446
 glottocode: sara1331
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Saraveca"
+wikidata_id: Q3450556
 wikipedia_url: "https://en.wikipedia.org/wiki/Saraveca_language"
 translations:
   - translation_iso: ara

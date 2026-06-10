@@ -7,6 +7,9 @@ population: 4
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q6873793
 wikipedia_url: "https://en.wikipedia.org/wiki/Mirning_language"
 translations:
   - translation_iso: ara

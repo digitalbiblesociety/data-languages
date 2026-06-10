@@ -7,12 +7,15 @@ population: 100000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.60164
 longitude: 38.50373
 glottocode: saga1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Kilimanjaro-Taita > Taita-Sagalla > Sagalla"
+wikidata_id: Q12953082
 wikipedia_url: "https://en.wikipedia.org/wiki/Sagalla_language"
 translations:
   - translation_iso: ara

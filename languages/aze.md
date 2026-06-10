@@ -1,12 +1,16 @@
 ---
 iso: aze
+iso639_1: az
 name: Azerbaijani
 autonym: Azərbaycan dili
 population: 23000000
 country_id: AZ
 country_name: Azerbaijan
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab, Cyrl, Latn]
+wikidata_id: Q9292
 wikipedia_url: "https://en.wikipedia.org/wiki/Azerbaijani_language"
 translations:
   - translation_iso: ara

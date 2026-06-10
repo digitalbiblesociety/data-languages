@@ -7,12 +7,15 @@ population: 33000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.89355
 longitude: 93.80869
 glottocode: sent1260
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Senthang Chin"
+wikidata_id: Q7451223
 wikipedia_url: "https://en.wikipedia.org/wiki/Senthang_language"
 translations:
   - translation_iso: ara

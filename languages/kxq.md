@@ -7,12 +7,15 @@ population: 150
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.91812
 longitude: 140.89703
 glottocode: smar1235
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Smärky Kanum"
+wikidata_id: Q12952569
 wikipedia_url: "https://en.wikipedia.org/wiki/Smerki_language"
 translations:
   - translation_iso: ara

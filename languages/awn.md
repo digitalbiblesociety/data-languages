@@ -7,12 +7,15 @@ population: 489000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.98191
 longitude: 36.69164
 glottocode: awng1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Awngi"
+wikidata_id: Q34934
 wikipedia_url: "https://en.wikipedia.org/wiki/Awngi_language"
 translations:
   - translation_iso: ara

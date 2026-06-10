@@ -1,17 +1,21 @@
 ---
 iso: hnm
+macrolanguage_id: zho
 name: Hainanese
 autonym: 海南話, Hhai3 nam2 ue1, Hái-nâm-oe
 alt_names: [Hainan]
 population: 1100000
 country_id: CN
 country_name: China
+scope: individual
+language_type: living
 latitude: 19.78383
 longitude: 110.68759
 glottocode: hain1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Min > Coastal Min > Southern Min-Pu-Xian > Southern Min > Leiqiong > Hainanese"
+wikidata_id: Q934541
 wikipedia_url: "https://en.wikipedia.org/wiki/Hainanese"
 translations:
   - translation_iso: ara

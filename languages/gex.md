@@ -7,12 +7,15 @@ population: 685600
 country_id: SO
 country_name: Somalia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.29633
 longitude: 44.68618
 glottocode: garr1259
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Karre-Boni > Garre"
+wikidata_id: Q56618
 wikipedia_url: "https://en.wikipedia.org/wiki/Garre_language"
 translations:
   - translation_iso: ara

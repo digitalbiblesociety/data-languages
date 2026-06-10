@@ -7,12 +7,15 @@ population: 100000
 country_id: ZM
 country_name: Zambia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.629545
 longitude: 29.01676
 glottocode: aush1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bemba (M.40) > Aushi"
+wikidata_id: Q2872082
 wikipedia_url: "https://en.wikipedia.org/wiki/Aushi_language"
 translations:
   - translation_iso: ara

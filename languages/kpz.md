@@ -7,12 +7,15 @@ population: 274000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.33197
 longitude: 34.59914
 glottocode: kups1238
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Elgon-Mau Kalenjin > Kupsabiny"
+wikidata_id: Q56445
 wikipedia_url: "https://en.wikipedia.org/wiki/Kupsabiny_language"
 translations:
   - translation_iso: ara

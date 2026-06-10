@@ -7,12 +7,15 @@ population: 183000
 country_id: TD
 country_name: Chad
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 8.50634
 longitude: 17.87848
 glottocode: sarr1246
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Saraic > Sara Central > Sara Central Chari > Sar"
+wikidata_id: Q56850
 wikipedia_url: "https://en.wikipedia.org/wiki/Sar_language"
 translations:
   - translation_iso: ara

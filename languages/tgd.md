@@ -7,12 +7,15 @@ population: 2000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.88806
 longitude: 9.88558
 glottocode: ciwo1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Ciwogai"
+wikidata_id: Q3438799
 wikipedia_url: "https://en.wikipedia.org/wiki/Ciwogai_language"
 translations:
   - translation_iso: ara

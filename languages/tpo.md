@@ -7,12 +7,15 @@ population: 3300
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.55623
 longitude: 104.65808
 glottocode: taip1250
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Red Tai > Tai Muong > Tai Pao"
+wikidata_id: Q7675795
 wikipedia_url: "https://en.wikipedia.org/wiki/Tai_Pao_language"
 translations:
   - translation_iso: ara

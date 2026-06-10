@@ -7,12 +7,15 @@ population: 10000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.9747
 longitude: 149.26296
 glottocode: daga1275
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Central Dagan > Southwest Dagan > Daga"
+wikidata_id: Q5208442
 wikipedia_url: "https://en.wikipedia.org/wiki/Daga_language"
 translations:
   - translation_iso: ara

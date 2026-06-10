@@ -1,5 +1,6 @@
 ---
 iso: xmm
+macrolanguage_id: msa
 name: Manado Malay
 autonym: Bahasa Manado
 alt_names: [Malais de Manado, Malay, Malay (Eastern), Malay (Manadonese), "Malay, Manado", Manadonese, Manadonese Malay, Minahasan Malay]
@@ -7,12 +8,15 @@ population: 1820000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 1.48099
 longitude: 124.8433
 glottocode: mala1481
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > Manado Malay"
+wikidata_id: Q1068112
 wikipedia_url: "https://en.wikipedia.org/wiki/Manado_Malay"
 translations:
   - translation_iso: ara

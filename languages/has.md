@@ -7,12 +7,15 @@ population: 1000
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 53.96401
 longitude: -128.60159
 glottocode: hais1244
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Haisla"
+wikidata_id: Q3107399
 wikipedia_url: "https://en.wikipedia.org/wiki/Haisla_language"
 translations:
   - translation_iso: ara

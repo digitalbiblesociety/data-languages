@@ -7,12 +7,15 @@ population: 45
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -17.92695
 longitude: 122.23344
 glottocode: broo1238
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Malay-based pidgin > Broome Pearling Lugger Pidgin"
+wikidata_id: Q4975277
 wikipedia_url: "https://en.wikipedia.org/wiki/Broome_Pearling_Lugger_Pidgin"
 translations:
   - translation_iso: ara

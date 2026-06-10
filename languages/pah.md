@@ -7,12 +7,15 @@ population: 360
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.92626
 longitude: -61.93599
 glottocode: tenh1241
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Tenharim-Parintintin-Diahoi"
+wikidata_id: Q10266010
 translations:
   - translation_iso: ara
     name: اللغة تينهاريم

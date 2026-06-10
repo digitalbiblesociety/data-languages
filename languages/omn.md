@@ -6,12 +6,15 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: null
+scope: individual
+language_type: historical
 latitude: 35.2072
 longitude: 24.99936
 glottocode: mino1236
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Minoan"
+wikidata_id: Q1669994
 wikipedia_url: "https://en.wikipedia.org/wiki/Minoan_language"
 translations:
   - translation_iso: ara

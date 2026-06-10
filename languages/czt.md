@@ -7,12 +7,15 @@ population: 40000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.52977
 longitude: 93.28998
 glottocode: zotu1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Zotung Chin"
+wikidata_id: Q8074599
 wikipedia_url: "https://en.wikipedia.org/wiki/Zotung_language"
 translations:
   - translation_iso: ara

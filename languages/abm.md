@@ -7,12 +7,15 @@ population: 12500
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.30619
 longitude: 8.63055
 glottocode: aban1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Abanyom-Nkem-Nkum > Abanyom"
+wikidata_id: Q7502
 wikipedia_url: "https://en.wikipedia.org/wiki/Abanyom_language"
 translations:
   - translation_iso: ara

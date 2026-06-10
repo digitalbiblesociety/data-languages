@@ -7,12 +7,15 @@ population: 5500
 country_id: GQ
 country_name: Equatorial Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.8897
 longitude: 9.40336
 glottocode: beng1282
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Benga"
+wikidata_id: Q34952
 wikipedia_url: "https://en.wikipedia.org/wiki/Benga_language"
 translations:
   - translation_iso: ara

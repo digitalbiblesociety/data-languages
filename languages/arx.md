@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -12.11857
 longitude: -62.43568
 glottocode: arua1261
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Aruá (Rondonia State)"
+wikidata_id: Q3507907
 wikipedia_url: "https://en.wikipedia.org/wiki/Aru%C3%A1_language_(Rond%C3%B4nia)"
 translations:
   - translation_iso: ara

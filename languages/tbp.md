@@ -7,12 +7,15 @@ population: 140
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.43455
 longitude: 139.06064
 glottocode: tawo1244
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > East Lakes Plain > Taworta"
+wikidata_id: Q7689337
 wikipedia_url: "https://en.wikipedia.org/wiki/Taworta_language"
 translations:
   - translation_iso: ara

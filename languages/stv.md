@@ -7,12 +7,15 @@ population: 881000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.77004
 longitude: 38.14491
 glottocode: silt1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Harari-East Gurage > Silte-Wolane > Silt'e"
+wikidata_id: Q33880
 wikipedia_url: "https://en.wikipedia.org/wiki/Silt%CA%BCe_language"
 translations:
   - translation_iso: ara

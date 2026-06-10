@@ -7,12 +7,15 @@ population: 25000
 country_id: OM
 country_name: Oman
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.29154
 longitude: 53.99526
 glottocode: sheh1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Modern South Arabian > Eastern MSA > Jibbali"
+wikidata_id: Q33445
 wikipedia_url: "https://en.wikipedia.org/wiki/Shehri_language"
 translations:
   - translation_iso: ara

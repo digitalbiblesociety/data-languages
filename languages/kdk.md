@@ -7,12 +7,15 @@ population: 1810
 country_id: NC
 country_name: New Caledonia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -22.26887
 longitude: 166.70499
 glottocode: nume1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Southern New Caledonian > Extreme Southern New Caledonian > Numee"
+wikidata_id: Q3346774
 wikipedia_url: "https://en.wikipedia.org/wiki/Num%C3%A8%C3%A8_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 10
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -4.921615
 longitude: -75.915695
 glottocode: omur1241
+wikidata_id: Q1957612
 wikipedia_url: "https://en.wikipedia.org/wiki/Omurano_language"
 translations:
   - translation_iso: ara

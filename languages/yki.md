@@ -7,12 +7,15 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.68798
 longitude: 138.02774
 glottocode: yoke1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Lower Mamberamo > Yoke-Pauwi > Yoke"
+wikidata_id: Q3832977
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoke_language"
 translations:
   - translation_iso: ara

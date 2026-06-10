@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 35.28733
 longitude: -120.669251
 glottocode: obis1242
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Obispeño"
+wikidata_id: Q1288385
 wikipedia_url: "https://en.wikipedia.org/wiki/Obispe%C3%B1o_language"
 translations:
   - translation_iso: ara

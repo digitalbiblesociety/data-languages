@@ -7,12 +7,15 @@ population: 280
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -19.72293
 longitude: 126.11319
 glottocode: walm1241
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Walmajarri-Juwaliny"
+wikidata_id: Q2232696
 wikipedia_url: "https://en.wikipedia.org/wiki/Walmajarri_language"
 translations:
   - translation_iso: ara

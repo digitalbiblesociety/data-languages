@@ -7,12 +7,15 @@ population: 59200
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.25812
 longitude: 94.89365
 glottocode: wanc1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Wanchoic > Wancho Naga"
+wikidata_id: Q7967085
 wikipedia_url: "https://en.wikipedia.org/wiki/Wancho_language"
 translations:
   - translation_iso: ara

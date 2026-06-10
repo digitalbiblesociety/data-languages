@@ -7,12 +7,15 @@ population: 350
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 2.72734
 longitude: 113.94739
 glottocode: laha1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Melanau-Kajang > Kajang > Kajaman-Lahanan > Lahanan"
+wikidata_id: Q12953660
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahanan_language"
 translations:
   - translation_iso: ara

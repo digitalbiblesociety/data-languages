@@ -7,12 +7,15 @@ population: 2000
 country_id: CL
 country_name: Chile
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -40.06939
 longitude: -72.76697
 glottocode: huil1244
 glottolog_family_id: arau1255
 glottolog_family_name: Araucanian
 glottolog_classification: "Araucanian > Huilliche"
+wikidata_id: Q35531
 wikipedia_url: "https://en.wikipedia.org/wiki/Huilliche_language"
 translations:
   - translation_iso: ara

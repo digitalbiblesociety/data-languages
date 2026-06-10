@@ -7,12 +7,15 @@ population: 10000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.07158
 longitude: 120.0938
 glottocode: cala1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Palawanic-Kalamian > Kalamian > Calamian Tagbanwa"
+wikidata_id: Q3915487
 wikipedia_url: "https://en.wikipedia.org/wiki/Calamian_Tagbanwa_language"
 translations:
   - translation_iso: ara

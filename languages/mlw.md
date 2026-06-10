@@ -7,12 +7,15 @@ population: 8500
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.79332
 longitude: 14.25209
 glottocode: molo1266
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mofuic > Tokombere > Moloko"
+wikidata_id: Q1965222
 wikipedia_url: "https://en.wikipedia.org/wiki/Moloko_language"
 translations:
   - translation_iso: ara

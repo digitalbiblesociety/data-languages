@@ -7,6 +7,9 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q7085214
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Tibetan"
 translations:
   - translation_iso: ara

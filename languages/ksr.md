@@ -7,12 +7,15 @@ population: 2070
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.56688
 longitude: 147.511
 glottocode: boro1279
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Huon > Western Huon > Rawlinson > Pindiu > Kosorong-Burum-Mindik > Borong"
+wikidata_id: Q4946263
 wikipedia_url: "https://en.wikipedia.org/wiki/Borong_language"
 translations:
   - translation_iso: ara

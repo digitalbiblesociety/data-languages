@@ -7,12 +7,15 @@ population: 900
 country_id: SS
 country_name: South Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 8.70752
 longitude: 26.11474
 glottocode: njal1239
 glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Western Dajuic > Njalgulgule"
+wikidata_id: Q56679
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyolge_language"
 translations:
   - translation_iso: ara

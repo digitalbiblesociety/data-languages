@@ -1,5 +1,6 @@
 ---
 iso: zgm
+macrolanguage_id: zha
 name: Minz Zhuang
 autonym: Minz
 alt_names: ["Zhuang, Minz"]
@@ -7,12 +8,15 @@ population: 2600
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.33
 longitude: 105.5
 glottocode: minz1236
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Minz Zhuang"
+wikidata_id: Q6862618
 wikipedia_url: "https://en.wikipedia.org/wiki/Min_Zhuang_language"
 translations:
   - translation_iso: ara

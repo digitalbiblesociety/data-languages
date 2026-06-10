@@ -7,12 +7,15 @@ population: 400
 country_id: CN
 country_name: China
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 25.012
 longitude: 102.2
 glottocode: sama1295
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Kazhouish > Samatao"
+wikidata_id: Q7408902
 wikipedia_url: "https://en.wikipedia.org/wiki/Samu_language"
 translations:
   - translation_iso: ara

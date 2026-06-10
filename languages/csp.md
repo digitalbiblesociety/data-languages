@@ -1,5 +1,6 @@
 ---
 iso: csp
+macrolanguage_id: zho
 name: "Southern Ping Chinese\r"
 autonym: null
 alt_names: ["Chinese, Southern Ping", "Pinghua, Southern", Southern Ping Chinese, Southern Pinghua]
@@ -7,12 +8,15 @@ population: 2370000
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: living
 latitude: 23.011
 longitude: 108.093
 glottocode: sout3250
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Yue-Pinghua > Pinghua > Southern Pinghua"
+wikidata_id: Q84302019
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Pinghua"
 translations:
   - translation_iso: ara

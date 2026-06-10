@@ -6,8 +6,11 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.065
 longitude: 10.47
+wikidata_id: Q11010279
 translations:
   - translation_iso: ara
     name: ندي جبيتي

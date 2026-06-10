@@ -7,12 +7,15 @@ population: 3250
 country_id: NZ
 country_name: New Zealand
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -39.29225
 longitude: 175.77257
 glottocode: newz1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > New Zealand Sign Language"
+wikidata_id: Q36239
 wikipedia_url: "https://en.wikipedia.org/wiki/New_Zealand_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 114000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.24429
 longitude: 75.91608
 glottocode: koda1255
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Kodava"
+wikidata_id: Q33531
 wikipedia_url: "https://en.wikipedia.org/wiki/Kodava_language"
 translations:
   - translation_iso: ara

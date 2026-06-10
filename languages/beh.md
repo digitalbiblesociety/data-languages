@@ -7,12 +7,15 @@ population: 166080
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.038205
 longitude: 1.082595
 glottocode: bial1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Oti-Volta Oriental > Biali"
+wikidata_id: Q34961
 wikipedia_url: "https://en.wikipedia.org/wiki/Berba_language"
 translations:
   - translation_iso: ara

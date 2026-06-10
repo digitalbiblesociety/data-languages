@@ -7,6 +7,8 @@ population: 5939000
 country_id: NG
 country_name: Nigeria
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 5.15279
 longitude: 7.86688
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ibib1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Lower Cross > Nuclear Lower Cross > Central Lower Cross > Efikic > Okop Usem > Efik-Ibibio > Ibibio"
+wikidata_id: Q33792
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibibio_language"
 translations:
   - translation_iso: ara

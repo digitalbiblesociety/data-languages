@@ -7,12 +7,15 @@ population: 2007
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -7.339
 longitude: -73.50436
 glottocode: nuku1263
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Poyanawa Subgroup > Nukuini"
+wikidata_id: Q3346231
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukini_language"
 translations:
   - translation_iso: ara

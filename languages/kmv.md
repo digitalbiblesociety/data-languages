@@ -7,12 +7,15 @@ population: 1710
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.42825
 longitude: -51.68875
 glottocode: kari1301
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Circum-Caribbean French > Guyanic Creole French > Uaçá Creole French"
+wikidata_id: Q2523999
 wikipedia_url: "https://en.wikipedia.org/wiki/Karip%C3%BAna_French_Creole"
 translations:
   - translation_iso: ara

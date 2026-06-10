@@ -7,12 +7,15 @@ population: 740
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.37841
 longitude: 142.71539
 glottocode: arue1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Kombio-Yambes > Unclassified Kombio-Yambes > Aruek"
+wikidata_id: Q3504279
 wikipedia_url: "https://en.wikipedia.org/wiki/Aruek_language"
 translations:
   - translation_iso: ara

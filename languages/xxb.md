@@ -6,12 +6,15 @@ population: null
 country_id: GH
 country_name: Ghana
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 7.496728
 longitude: 0.362291
 glottocode: boro1283
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Boro"
+wikidata_id: Q16844787
 wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(Ghana)"
 translations:
   - translation_iso: ara

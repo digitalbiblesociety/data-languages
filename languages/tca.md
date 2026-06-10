@@ -7,12 +7,15 @@ population: 48580
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.66289
 longitude: -69.87233
 glottocode: ticu1245
 glottolog_family_id: ticu1244
 glottolog_family_name: Ticuna-Yuri
 glottolog_classification: "Ticuna-Yuri > Ticuna"
+wikidata_id: Q1815205
 wikipedia_url: "https://en.wikipedia.org/wiki/Ticuna_language"
 translations:
   - translation_iso: ara

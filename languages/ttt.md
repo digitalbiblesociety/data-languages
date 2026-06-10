@@ -7,6 +7,8 @@ population: 18000
 country_id: AZ
 country_name: Azerbaijan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 38.87186
 longitude: 49.33837
 scripts: [Arab, Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: musl1236
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Caucasian Tat > Muslim Tat"
+wikidata_id: Q56489
 wikipedia_url: "https://en.wikipedia.org/wiki/Tat_language_(Caucasus)"
 translations:
   - translation_iso: ara

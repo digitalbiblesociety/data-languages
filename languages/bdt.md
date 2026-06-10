@@ -1,5 +1,6 @@
 ---
 iso: bdt
+macrolanguage_id: gba
 name: Bokoto
 autonym: Bhogoto
 alt_names: ["'Bokoto", Bogodo, Bogoto, Bokodo, Bokpoto, Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
@@ -7,12 +8,15 @@ population: 130000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.75111
 longitude: 16.67208
 glottocode: boko1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Bokoto-Gbeya > Bokoto"
+wikidata_id: Q4938812
 wikipedia_url: "https://en.wikipedia.org/wiki/Bokoto_language"
 translations:
   - translation_iso: ara

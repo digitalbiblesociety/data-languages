@@ -7,12 +7,15 @@ population: 29800
 country_id: TD
 country_name: Chad
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 13.51572
 longitude: 19.73483
 glottocode: mass1262
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Massalat"
+wikidata_id: Q759984
 translations:
   - translation_iso: ara
     name: لغة ماسالات

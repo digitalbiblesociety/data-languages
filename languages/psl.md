@@ -7,12 +7,15 @@ population: 10000
 country_id: PR
 country_name: Puerto Rico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.45917
 longitude: -66.09192
 glottocode: puer1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Puerto Rican Sign Language"
+wikidata_id: Q7258608
 wikipedia_url: "https://en.wikipedia.org/wiki/Puerto_Rican_Sign_Language"
 translations:
   - translation_iso: ara

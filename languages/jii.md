@@ -7,12 +7,15 @@ population: 23000
 country_id: SO
 country_name: Somalia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.84353
 longitude: 44.12938
 glottocode: jiid1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Baiso-Jiiddu > Jiiddu"
+wikidata_id: Q56769
 wikipedia_url: "https://en.wikipedia.org/wiki/Jiiddu_language"
 translations:
   - translation_iso: ara

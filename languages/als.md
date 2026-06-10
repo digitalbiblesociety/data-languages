@@ -1,5 +1,6 @@
 ---
 iso: als
+macrolanguage_id: sqi
 name: Tosk Albanian
 autonym: toskë
 alt_names: [Albanesisch, Albanian, "Albanian, Tosk", Albanés tosco, Arber, Arbresh, Arnaut, Dialectul Tosk, Kosovë, Ship, Shkip, Shqip, Shqiperë, Shqipēri, Shquipni, Skchip, Tosk, Toskisch, Toskiska, Tosque, Ukrainian Albanian, Zhgabe, Škip, Τοσκική διάλεκτος, Тоски, Тоскский диалект албанского языка, トスク方言]
@@ -7,12 +8,15 @@ population: 1826830
 country_id: AL
 country_name: Albania
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 41
 longitude: 20
 glottocode: tosk1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Albanian > Albanian-Tosk > Northern Tosk Albanian"
+wikidata_id: Q180937
 wikipedia_url: "https://en.wikipedia.org/wiki/Tosk_Albanian"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 750
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.6025
 longitude: 76.1225
 glottocode: kala1255
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Kalanadic > Kalanadi"
+wikidata_id: Q6350515
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalanadi_language"
 translations:
   - translation_iso: ara

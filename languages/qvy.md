@@ -7,12 +7,15 @@ population: 7000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 30.31133
 longitude: 100.8126
 glottocode: quey1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Qiangic > Queyu"
+wikidata_id: Q3414352
 wikipedia_url: "https://en.wikipedia.org/wiki/Choyo_language"
 translations:
   - translation_iso: ara

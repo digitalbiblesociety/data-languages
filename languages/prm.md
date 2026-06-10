@@ -7,9 +7,12 @@ population: 1100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.45276
 longitude: 144.29554
 glottocode: kibi1239
+wikidata_id: Q56745
 wikipedia_url: "https://en.wikipedia.org/wiki/Porome_language"
 translations:
   - translation_iso: ara

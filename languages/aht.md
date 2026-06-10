@@ -7,12 +7,15 @@ population: 500
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 61.70684
 longitude: -144.88894
 glottocode: ahte1237
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Southern Alaskan Athabaskan > Ahtena"
+wikidata_id: Q21058
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahtna_language"
 translations:
   - translation_iso: ara

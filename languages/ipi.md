@@ -7,12 +7,15 @@ population: 26000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.42586
 longitude: 143.08884
 glottocode: ipil1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Enga-Kewa-Huli > Engan > Ipili"
+wikidata_id: Q6065141
 wikipedia_url: "https://en.wikipedia.org/wiki/Ipili_language"
 translations:
   - translation_iso: ara

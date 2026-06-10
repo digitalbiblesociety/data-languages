@@ -1,5 +1,6 @@
 ---
 iso: pga
+macrolanguage_id: ara
 name: Sudanese Creole Arabic
 autonym: Sudanese Creole Arabic
 alt_names: ["Arabic, Sudanese Creole", "Creole Arabic, Sudanese", Juba Arabic, Pidgin Arabic, Southern Sudan Arabic]
@@ -7,12 +8,15 @@ population: 20000
 country_id: SS
 country_name: South Sudan
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 5.654
 longitude: 28.774
 glottocode: suda1237
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Egyptic Arabic > Egypto-Sudanic Arabic > Sudanese-Chadian Arabic > East Sudanic Arabic > South Sudanese Creole Arabic"
+wikidata_id: Q1262143
 wikipedia_url: "https://en.wikipedia.org/wiki/Juba_Arabic"
 translations:
   - translation_iso: ara

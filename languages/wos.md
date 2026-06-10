@@ -7,12 +7,15 @@ population: 7200
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.90364
 longitude: 142.84869
 glottocode: hang1263
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Ambulas-Hanga-Hundi > Hanga Hundi"
+wikidata_id: Q6450232
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwasengen_language"
 translations:
   - translation_iso: ara

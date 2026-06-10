@@ -6,12 +6,15 @@ population: 151000
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.33532
 longitude: -75.44639
 glottocode: colo1249
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Colombian Sign Language"
+wikidata_id: Q2748229
 wikipedia_url: "https://en.wikipedia.org/wiki/Colombian_Sign_Language"
 translations:
   - translation_iso: ara

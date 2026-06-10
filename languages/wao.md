@@ -7,12 +7,15 @@ population: 1994
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 38.25
 longitude: -122.49999
 glottocode: wapp1239
 glottolog_family_id: yuki1242
 glottolog_family_name: Yuki-Wappo
 glottolog_classification: "Yuki-Wappo > Wappo"
+wikidata_id: Q56530
 wikipedia_url: "https://en.wikipedia.org/wiki/Wappo_language"
 translations:
   - translation_iso: ara

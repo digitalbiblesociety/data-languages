@@ -6,12 +6,15 @@ population: 30
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.58
 longitude: 140.66
 glottocode: naml1240
 glottolog_family_id: naml1239
 glottolog_family_name: Namla-Tofanma
 glottolog_classification: "Namla-Tofanma > Namla"
+wikidata_id: Q3508760
 wikipedia_url: "https://en.wikipedia.org/wiki/Namla_language"
 translations:
   - translation_iso: ara

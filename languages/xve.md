@@ -7,12 +7,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 45.601
 longitude: 12.059
 glottocode: vene1257
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Venetic"
+wikidata_id: Q36871
 wikipedia_url: "https://en.wikipedia.org/wiki/Venetic_language"
 translations:
   - translation_iso: ara

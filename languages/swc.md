@@ -1,5 +1,6 @@
 ---
 iso: swc
+macrolanguage_id: swa
 name: Congo Swahili
 autonym: Kiswahili
 alt_names: ["Swahili, Congo", Zaïre Swahili]
@@ -7,12 +8,15 @@ population: 2043000
 country_id: CD
 country_name: DR Congo
 status_id: "2"
+scope: individual
+language_type: living
 latitude: -7.2692
 longitude: 27.41958
 glottocode: cong1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Congo Swahili"
+wikidata_id: Q10961696
 wikipedia_url: "https://en.wikipedia.org/wiki/Congo_Swahili"
 translations:
   - translation_iso: ara

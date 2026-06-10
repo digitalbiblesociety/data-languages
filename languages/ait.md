@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -8.924
 longitude: -63.742
 glottocode: arik1264
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Arikemic > Arikem"
+wikidata_id: Q3446679
 wikipedia_url: "https://en.wikipedia.org/wiki/Arikem_language"
 translations:
   - translation_iso: ara

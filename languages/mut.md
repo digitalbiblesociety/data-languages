@@ -7,12 +7,15 @@ population: 400000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.2384
 longitude: 80.70059
 glottocode: west2408
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Gondi > Northwest Gondi > Southwest Gondi > Muria > Western Muria"
+wikidata_id: Q12952886
 translations:
   - translation_iso: ara
     name: لغة موريا الغربية

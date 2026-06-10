@@ -7,12 +7,15 @@ population: 6600
 country_id: GQ
 country_name: Equatorial Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.43033
 longitude: 5.61879
 glottocode: fada1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Gulf Guinea Creole Portuguese > Bantu Layer Gulf Guinea Creole Portuguese > Annobonese"
+wikidata_id: Q34992
 wikipedia_url: "https://en.wikipedia.org/wiki/Annobonese_Creole"
 translations:
   - translation_iso: ara

@@ -6,6 +6,9 @@ population: 1932
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q36708
 wikipedia_url: "https://en.wikipedia.org/wiki/Norn_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: gax
+macrolanguage_id: orm
 name: "Borana-Arsi-Guji Oromo"
 autonym: Borana
 alt_names: ["\"Galla\"", "\"Galligna\"", "\"Gallinya\"", Afan Oromo, Booran, Boraan, Boraana, Boran, Borena, Galla, Oromo, Oromo (Boraana), Oromo Proper, "Oromo, Borana-Arsi-Guji", Southern Oromo]
@@ -7,12 +8,15 @@ population: 8449000
 country_id: ET
 country_name: Ethiopia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.05676
 longitude: 37.88195
 glottocode: bora1271
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Oromoid > Nuclear Oromo > Central-Eastern Oromo > Central-Tana Oromo > Borana-Arsi-Guji Oromo"
+wikidata_id: Q2910610
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Oromo_language"
 translations:
   - translation_iso: ara

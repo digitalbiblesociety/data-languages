@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: historical
 latitude: 19.72
 longitude: -96.97
 glottocode: clas1250
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Western Nahuatl > Central Nahuatl > Classical Nahuatl"
+wikidata_id: Q559242
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Nahuatl"
 translations:
   - translation_iso: ara

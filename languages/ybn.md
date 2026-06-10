@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 0.58332
 longitude: -65.49999
 glottocode: yaba1249
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Medio Rio Negro > Marauia-Castana > Yabaâna-Mainatari"
+wikidata_id: Q3450534
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaba%C3%A2na_language"
 translations:
   - translation_iso: ara

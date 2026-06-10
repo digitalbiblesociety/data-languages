@@ -6,6 +6,9 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
+wikidata_id: Q3319130
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohegan-Pequot_language"
 translations:
   - translation_iso: ara

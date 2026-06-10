@@ -7,12 +7,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.75976
 longitude: 132.06232
 glottocode: onin1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuclear Tanimbar-Bomberai > Yamdena-Onin > Oninic > Onin"
+wikidata_id: Q7093910
 wikipedia_url: "https://en.wikipedia.org/wiki/Onin_language"
 translations:
   - translation_iso: ara

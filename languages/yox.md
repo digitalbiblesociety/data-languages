@@ -7,12 +7,15 @@ population: 950
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.04068
 longitude: 128.4281
 glottocode: yoro1243
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Northern Ryukyuan > Amami > Yoron"
+wikidata_id: Q2424943
 wikipedia_url: "https://en.wikipedia.org/wiki/Yoron_language"
 translations:
   - translation_iso: ara

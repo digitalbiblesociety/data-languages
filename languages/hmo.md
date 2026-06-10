@@ -1,5 +1,6 @@
 ---
 iso: hmo
+iso639_1: ho
 name: Hiri Motu
 autonym: Police Motu
 alt_names: [Hiri, Hirimotoueg, "Motu, Hiri", Pidgin Motu, Хири моту, Хири-моту, 히리 모투]
@@ -7,6 +8,8 @@ population: 120000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -9.33333
 longitude: 147.08332
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: hiri1237
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Motu-based pidgin > Hiri Motu"
+wikidata_id: Q33617
 wikipedia_url: "https://en.wikipedia.org/wiki/Hiri_Motu"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 10100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.88126
 longitude: 136.52587
 glottocode: amba1265
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Ambai"
+wikidata_id: Q1875885
 wikipedia_url: "https://en.wikipedia.org/wiki/Ambai_language"
 translations:
   - translation_iso: ara

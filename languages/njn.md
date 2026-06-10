@@ -7,12 +7,15 @@ population: 49800
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.16002
 longitude: 93.54197
 glottocode: lian1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Nuclear Zemeic > Liangmai Naga"
+wikidata_id: Q14194500
 wikipedia_url: "https://en.wikipedia.org/wiki/Liangmai_language"
 translations:
   - translation_iso: ara

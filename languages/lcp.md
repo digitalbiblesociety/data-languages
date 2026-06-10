@@ -7,6 +7,8 @@ population: 8000
 country_id: TH
 country_name: Thailand
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.867805
 longitude: 99.205745
 scripts: [Thai]
@@ -14,6 +16,7 @@ glottocode: west2396
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Lawa > Western Lawa"
+wikidata_id: Q18644465
 translations:
   - translation_iso: ara
     name: لاوا الغربية

@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -12.69447
 longitude: -61.30635
 glottocode: wayo1238
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Arikem-Tupari > Tuparic > Nuclear Tuparic > Wayoro-Tupari > Wayoró"
+wikidata_id: Q2875044
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayor%C3%B3_language"
 translations:
   - translation_iso: ara

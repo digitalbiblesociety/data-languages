@@ -7,12 +7,15 @@ population: 99300
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.85002
 longitude: -8.25793
 glottocode: kono1267
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Kpelle > Kono (Guinea)"
+wikidata_id: Q3198703
 translations:
   - translation_iso: ara
     name: لغة كونو

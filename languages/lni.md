@@ -7,12 +7,15 @@ population: 600
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.43363
 longitude: 155.74759
 glottocode: daan1235
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Central Nasioi > South Nasioi > Daantanai'"
+wikidata_id: Q5207384
 wikipedia_url: "https://en.wikipedia.org/wiki/Daantanai%CA%BC_language"
 translations:
   - translation_iso: ara

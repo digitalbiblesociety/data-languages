@@ -7,12 +7,15 @@ population: 44000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.77046
 longitude: 4.62395
 glottocode: resh1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Reshe"
+wikidata_id: Q36258
 wikipedia_url: "https://en.wikipedia.org/wiki/Reshe_language"
 translations:
   - translation_iso: ara

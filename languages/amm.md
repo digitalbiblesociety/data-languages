@@ -7,12 +7,15 @@ population: 480
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.20192
 longitude: 141.65793
 glottocode: amap1240
 glottolog_family_id: left1242
 glottolog_family_name: Left May
 glottolog_classification: "Left May > Western Left May > Ama (Papua New Guinea)"
+wikidata_id: Q3446626
 wikipedia_url: "https://en.wikipedia.org/wiki/Ama_language_(New_Guinea)"
 translations:
   - translation_iso: ara

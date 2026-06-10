@@ -7,12 +7,15 @@ population: 1310
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.21903
 longitude: 151.72789
 glottocode: lava1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > Madak linkage > Lavatbura-Lamusong"
+wikidata_id: Q2405981
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavatbura-Lamusong_language"
 translations:
   - translation_iso: ara

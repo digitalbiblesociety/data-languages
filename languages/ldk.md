@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.29145
 longitude: 11.1636
 glottocode: leel1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Bikwin-Jen > Southern Bikwin-Jen > Bambuka-Gomu-Leelau > Leelau"
+wikidata_id: Q3914465
 wikipedia_url: "https://en.wikipedia.org/wiki/Leelau_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2500
 country_id: VE
 country_name: Venezuela
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.5621
 longitude: -66.58126
 glottocode: maco1239
 glottolog_family_id: sali1297
 glottolog_family_name: Saliban
 glottolog_classification: "Saliban > Maco-Piaroa > Maco"
+wikidata_id: Q12953684
 wikipedia_url: "https://en.wikipedia.org/wiki/Wir%C3%B6_language"
 translations:
   - translation_iso: ara

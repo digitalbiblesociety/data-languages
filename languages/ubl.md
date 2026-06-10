@@ -1,5 +1,6 @@
 ---
 iso: ubl
+macrolanguage_id: bik
 name: "Buhi'non Bikol"
 autonym: Bikol Buhi
 alt_names: ["Bikol, Buhi'non"]
@@ -7,6 +8,9 @@ population: 73600
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q18664494
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhi%27non_Bikol_language"
 translations:
   - translation_iso: ara

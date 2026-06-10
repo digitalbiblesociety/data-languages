@@ -1,5 +1,6 @@
 ---
 iso: sro
+macrolanguage_id: srd
 name: Campidanese Sardinian
 autonym: Sard
 alt_names: [Campidanese, Campidanian Sardinian, Campidanien, Campidese, Sardinian, Sardinian (Campidanese), "Sardinian, Campidanese", Sardo campidanés, Sardu, South Sardinian]
@@ -7,12 +8,15 @@ population: 500000
 country_id: IT
 country_name: Italy
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 39.05656
 longitude: 9.03935
 glottocode: camp1261
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Southern Romance > Campidanese Sardinian"
+wikidata_id: Q35348
 wikipedia_url: "https://en.wikipedia.org/wiki/Campidanese_Sardinian"
 translations:
   - translation_iso: ara

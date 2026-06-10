@@ -1,5 +1,6 @@
 ---
 iso: taq
+macrolanguage_id: tmh
 name: Tamasheq
 autonym: " Tamashekin"
 alt_names: ["\"Tuareg\"", Amäšey, Kidal, Kidal Tamasheq, Tamaceq, Tamacheq tahoua, "Tamasheq, Kidal", Tamäšeq, Timbuktu, Tomacheck, Tuareg]
@@ -7,12 +8,15 @@ population: 500000
 country_id: ML
 country_name: Mali
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 14.20384
 longitude: -2.41269
 glottocode: tama1365
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Tuareg > Southern Tuareg > Tamasheq"
+wikidata_id: Q4670066
 wikipedia_url: "https://en.wikipedia.org/wiki/Tamasheq_language"
 translations:
   - translation_iso: ara

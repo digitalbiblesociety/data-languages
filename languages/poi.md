@@ -7,12 +7,15 @@ population: 37700
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.19804
 longitude: -94.91088
 glottocode: high1276
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Zoque > Gulf Zoque > Highland Popoluca"
+wikidata_id: Q7511556
 wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Popoluca"
 translations:
   - translation_iso: ara

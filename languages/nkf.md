@@ -7,12 +7,15 @@ population: 54200
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.87608
 longitude: 93.80956
 glottocode: inpu1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Zemeic > Inpui Naga"
+wikidata_id: Q21481817
 wikipedia_url: "https://en.wikipedia.org/wiki/Inpui_language"
 translations:
   - translation_iso: ara

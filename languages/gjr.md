@@ -6,12 +6,15 @@ population: 25
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
 latitude: -17.4484
 longitude: 130.833
 glottocode: guri1249
 glottolog_family_id: mixe1287
 glottolog_family_name: Mixed Language
 glottolog_classification: "Mixed Language > Gurindji-Kriol > Gurindji Kriol"
+wikidata_id: Q5620091
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurindji_Kriol_language"
 translations:
   - translation_iso: ara

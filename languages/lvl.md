@@ -4,12 +4,15 @@ name: Lwel
 autonym: Di
 country_id: CD
 country_name: DR Congo
+scope: individual
+language_type: living
 latitude: -4.38475
 longitude: 20.6314
 glottocode: lwel1234
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Lwel"
+wikidata_id: Q93936908
 wikipedia_url: "https://en.wikipedia.org/wiki/Lwel_language"
 translations:
   - translation_iso: ara

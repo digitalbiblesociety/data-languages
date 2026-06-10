@@ -7,12 +7,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.85301
 longitude: 140.75291
 glottocode: badi1247
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Ngkantr > Ngkontar Baedi"
+wikidata_id: Q20888004
 translations:
   - translation_iso: ara
     name: لغة بيدي كانوم

@@ -7,12 +7,15 @@ population: 1310
 country_id: CO
 country_name: Colombia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 5.30115
 longitude: -69.38426
 glottocode: sali1298
 glottolog_family_id: sali1297
 glottolog_family_name: Saliban
 glottolog_classification: "Saliban > Sáliba"
+wikidata_id: Q3441097
 wikipedia_url: "https://en.wikipedia.org/wiki/Saliba_language"
 translations:
   - translation_iso: ara

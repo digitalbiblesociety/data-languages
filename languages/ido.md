@@ -1,16 +1,20 @@
 ---
 iso: ido
+iso639_1: io
 name: Ido
 autonym: Ido
 population: 150
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 scripts: [Latn]
 glottocode: idoo1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Esperantic > Ido"
+wikidata_id: Q35224
 wikipedia_url: "https://en.wikipedia.org/wiki/Ido"
 translations:
   - translation_iso: ara

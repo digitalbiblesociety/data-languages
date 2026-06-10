@@ -7,12 +7,15 @@ population: 2000000
 country_id: CM
 country_name: Cameroon
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 5.43932
 longitude: 9.80166
 glottocode: came1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > West African Creole English > Coastal Nigerian Krio > Cameroon Pidgin"
+wikidata_id: Q35541
 wikipedia_url: "https://en.wikipedia.org/wiki/Cameroonian_Pidgin_English"
 translations:
   - translation_iso: ara

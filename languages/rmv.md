@@ -6,10 +6,13 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: roma1338
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Romanova"
+wikidata_id: Q1298715
 wikipedia_url: "https://en.wikipedia.org/wiki/Romanova_language"
 translations:
   - translation_iso: ara

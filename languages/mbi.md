@@ -7,12 +7,15 @@ population: 14600
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.34448
 longitude: 124.76579
 glottocode: ilia1236
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > Central and Southern Manobo > East-West-Central Manobo > West Manobo > WBM-Livunganen-Ilianen > Ilianen Manobo"
+wikidata_id: Q14916911
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilianen_language"
 translations:
   - translation_iso: ara

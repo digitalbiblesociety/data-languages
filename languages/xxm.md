@@ -6,9 +6,12 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -17.736653
 longitude: 139.541931
 glottocode: mink1237
+wikidata_id: Q6867836
 wikipedia_url: "https://en.wikipedia.org/wiki/Minkin_language"
 translations:
   - translation_iso: ara

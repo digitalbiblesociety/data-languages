@@ -7,12 +7,15 @@ population: null
 country_id: SR
 country_name: Suriname
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 2.94789
 longitude: -56.01815
 glottocode: ndyu1241
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Trio-based pidgin > Ndyuka-Trio Pidgin"
+wikidata_id: Q13591205
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndyuka-Tiriy%C3%B3_Pidgin"
 translations:
   - translation_iso: ara

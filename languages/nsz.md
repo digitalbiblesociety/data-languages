@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 38.047
 longitude: -120.393
 glottocode: nise1244
 glottolog_family_id: maid1262
 glottolog_family_name: Maiduan
 glottolog_classification: "Maiduan > Nisenan"
+wikidata_id: Q33665
 wikipedia_url: "https://en.wikipedia.org/wiki/Nisenan_language"
 translations:
   - translation_iso: ara

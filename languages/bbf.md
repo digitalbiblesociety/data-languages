@@ -6,12 +6,15 @@ population: 340
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.42672
 longitude: 141.34536
 glottocode: baib1251
 glottolog_family_id: baib1250
 glottolog_family_name: Baibai-Fas
 glottolog_classification: "Baibai-Fas > Baibai"
+wikidata_id: Q56902
 wikipedia_url: "https://en.wikipedia.org/wiki/Baibai_language"
 translations:
   - translation_iso: ara

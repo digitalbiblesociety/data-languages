@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 38.569
 longitude: -75.463
 glottocode: pidg1246
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Delaware-based pidgin > Pidgin Delaware"
+wikidata_id: Q1183938
 wikipedia_url: "https://en.wikipedia.org/wiki/Pidgin_Delaware"
 translations:
   - translation_iso: ara

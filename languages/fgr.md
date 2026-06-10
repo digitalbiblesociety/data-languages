@@ -6,8 +6,11 @@ population: 1000
 country_id: TD
 country_name: Chad
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 11.31789
 longitude: 22.56115
+wikidata_id: Q3437645
 wikipedia_url: "https://en.wikipedia.org/wiki/Fongoro_language"
 translations:
   - translation_iso: ara

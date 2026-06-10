@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: living
 latitude: 9.57325
 longitude: 9.47875
 glottocode: yaaa1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Kwangic > Tiyaa"
+wikidata_id: Q105198683
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiyaa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 180000
 country_id: MX
 country_name: Mexico
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 19.53924
 longitude: -102.154
 glottocode: west2631
 glottolog_family_id: tara1323
 glottolog_family_name: Tarascan
 glottolog_classification: "Tarascan > Western Highland Purepecha"
+wikidata_id: Q16114351
 translations:
   - translation_iso: ara
     name: لغة بوريبيتشا الجبلية الغربية

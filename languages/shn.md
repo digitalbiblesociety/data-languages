@@ -7,6 +7,8 @@ population: 4658000
 country_id: MM
 country_name: Myanmar
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 21.599497
 longitude: 98.034223
 scripts: [Mymr]
@@ -14,6 +16,7 @@ glottocode: shan1277
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Shan"
+wikidata_id: Q56482
 wikipedia_url: "https://en.wikipedia.org/wiki/Shan_language"
 translations:
   - translation_iso: ara

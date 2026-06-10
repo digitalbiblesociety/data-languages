@@ -7,12 +7,15 @@ population: 100
 country_id: SD
 country_name: Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 10.79304
 longitude: 33.56769
 glottocode: molo1257
 glottolog_family_id: east2386
 glottolog_family_name: Eastern Jebel
 glottolog_classification: "Eastern Jebel > Aka-Kelo-Molo > Molo"
+wikidata_id: Q15974357
 wikipedia_url: "https://en.wikipedia.org/wiki/Molo_language"
 translations:
   - translation_iso: ara

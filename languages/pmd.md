@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -36.08
 longitude: 146.91
 glottocode: pall1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Victorian Pama-Nyungan > Eastern Victoria > Dhudhuroa-Pallanganmiddang > Pallanganmiddang"
+wikidata_id: Q7127734
 wikipedia_url: "https://en.wikipedia.org/wiki/Pallanganmiddang_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 62.72662
 longitude: -159.83143
 glottocode: holi1241
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Koyukonic > Holikachuk"
+wikidata_id: Q28508
 wikipedia_url: "https://en.wikipedia.org/wiki/Holikachuk_language"
 translations:
   - translation_iso: ara

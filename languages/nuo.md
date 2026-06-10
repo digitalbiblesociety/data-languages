@@ -7,12 +7,15 @@ population: 20000
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.72429
 longitude: 105.93241
 glottocode: nguo1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Viet-Muong > Muongic > Nguôn"
+wikidata_id: Q3915785
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngu%E1%BB%93n_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: ZA
 country_name: South Africa
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -25.54522
 longitude: 20.588827
 glottocode: lowe1407
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu
 glottolog_classification: "Tuu > Hua > Lower-Nosop"
+wikidata_id: Q6693681
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Nossob_language"
 translations:
   - translation_iso: ara

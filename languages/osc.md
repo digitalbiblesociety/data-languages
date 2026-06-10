@@ -6,6 +6,8 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.98
 longitude: 15.67
 scripts: [Ital, Latn]
@@ -13,6 +15,7 @@ glottocode: osca1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Sabellic > Oscan"
+wikidata_id: Q36653
 wikipedia_url: "https://en.wikipedia.org/wiki/Oscan_language"
 translations:
   - translation_iso: ara

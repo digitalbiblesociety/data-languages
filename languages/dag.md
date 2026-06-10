@@ -7,12 +7,15 @@ population: 1160000
 country_id: GH
 country_name: Ghana
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 9.64745
 longitude: -0.43227
 glottocode: dagb1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Southeast Western Oti-Volta > Mampruli-Dagbani > Dagbani"
+wikidata_id: Q32238
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagbani_language"
 translations:
   - translation_iso: ara

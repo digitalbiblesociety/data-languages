@@ -6,12 +6,15 @@ population: 3150
 country_id: AM
 country_name: Armenia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 40.10023
 longitude: 44.47668
 glottocode: arme1259
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Baraninsky Armenian Sign Language"
+wikidata_id: Q3446604
 wikipedia_url: "https://en.wikipedia.org/wiki/Armenian_Sign_Language"
 translations:
   - translation_iso: ara

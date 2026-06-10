@@ -7,12 +7,15 @@ population: 38500
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.71399
 longitude: 10.33765
 glottocode: meng1264
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Southern Mbam-Nkam > Bamileke > West Bamileke > Mengaka"
+wikidata_id: Q36017
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengaka_language"
 translations:
   - translation_iso: ara

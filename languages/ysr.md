@@ -7,12 +7,15 @@ population: 2010
 country_id: RU
 country_name: Russia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 64.5192
 longitude: -173.925
 glottocode: sire1246
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Old Sirenik"
+wikidata_id: Q28156
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirenik_language"
 translations:
   - translation_iso: ara

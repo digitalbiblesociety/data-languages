@@ -7,12 +7,15 @@ population: 500
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.43572
 longitude: 8.20774
 glottocode: vono1238
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Atlantic-Congo (Unattested) > Vono"
+wikidata_id: Q3913920
 wikipedia_url: "https://en.wikipedia.org/wiki/Vono_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 300
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.65436
 longitude: 90.64796
 glottocode: brok1249
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dur Brokkat"
+wikidata_id: Q56605
 wikipedia_url: "https://en.wikipedia.org/wiki/Brokkat_language"
 translations:
   - translation_iso: ara

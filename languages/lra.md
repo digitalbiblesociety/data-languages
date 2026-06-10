@@ -7,12 +7,15 @@ population: 11300
 country_id: MY
 country_name: Malaysia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.270265
 longitude: 109.538965
 glottocode: rara1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benyadu-Bekati > Bakati' > Rara-Sara Bakati' > Rara Bakati'"
+wikidata_id: Q3419746
 wikipedia_url: "https://en.wikipedia.org/wiki/Lara%CA%BC_language"
 translations:
   - translation_iso: ara

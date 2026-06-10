@@ -7,12 +7,15 @@ population: 6600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.6429
 longitude: 155.45177
 glottocode: siwa1245
 glottolog_family_id: sout2948
 glottolog_family_name: South Bougainville
 glottolog_classification: "South Bougainville > Buinic > Siwai"
+wikidata_id: Q7532519
 wikipedia_url: "https://en.wikipedia.org/wiki/Motuna_language"
 translations:
   - translation_iso: ara

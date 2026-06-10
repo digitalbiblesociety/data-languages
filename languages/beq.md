@@ -7,12 +7,15 @@ population: 100000
 country_id: CG
 country_name: Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.95895
 longitude: 14.10001
 glottocode: beem1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Beembe"
+wikidata_id: Q3196320
 wikipedia_url: "https://en.wikipedia.org/wiki/Bembe_language_(Kibembe)"
 translations:
   - translation_iso: ara

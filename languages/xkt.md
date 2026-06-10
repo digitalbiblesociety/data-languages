@@ -7,12 +7,15 @@ population: 2300
 country_id: GH
 country_name: Ghana
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.970305
 longitude: -1.928075
 glottocode: kant1249
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Mossi-Farefare > Mossic > Kantosi"
+wikidata_id: Q35651
 wikipedia_url: "https://en.wikipedia.org/wiki/Kantosi_language"
 translations:
   - translation_iso: ara

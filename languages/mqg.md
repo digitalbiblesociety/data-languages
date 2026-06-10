@@ -1,5 +1,6 @@
 ---
 iso: mqg
+macrolanguage_id: msa
 name: Kota Bangun Kutai Malay
 autonym: null
 alt_names: ["Malay, Kota Bangun Kutai"]
@@ -7,12 +8,15 @@ population: 80000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.27049
 longitude: 116.29736
 glottocode: kota1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > East Borneo Malay > Kota Bangun Kutai Malay"
+wikidata_id: Q12952778
 translations:
   - translation_iso: ara
     name: لغة كوتا بانجون كوتاي مالاي

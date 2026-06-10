@@ -7,12 +7,15 @@ population: 1200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.66403
 longitude: 141.70611
 glottocode: nama1266
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Nambu > Nama-Dre > Nama (Papua New Guinea)"
+wikidata_id: Q20812287
 wikipedia_url: "https://en.wikipedia.org/wiki/Nama_language_(Papuan)"
 translations:
   - translation_iso: ara

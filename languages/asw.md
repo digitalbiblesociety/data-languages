@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -25
 longitude: 135
 glottocode: aust1253
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Australian Aborigines Sign Language"
+wikidata_id: Q955216
 wikipedia_url: "https://en.wikipedia.org/wiki/Australian_Aboriginal_sign_languages"
 translations:
   - translation_iso: ara

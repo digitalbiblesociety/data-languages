@@ -7,12 +7,15 @@ population: 5000
 country_id: KR
 country_name: South Korea
 status_id: null
+scope: individual
+language_type: living
 latitude: 33.3805
 longitude: 126.5554
 glottocode: jeju1234
 glottolog_family_id: kore1284
 glottolog_family_name: Koreanic
 glottolog_classification: "Koreanic > Jejueo"
+wikidata_id: Q129648
 wikipedia_url: "https://en.wikipedia.org/wiki/Jeju_language"
 translations:
   - translation_iso: ara

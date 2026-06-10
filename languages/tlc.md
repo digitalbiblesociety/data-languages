@@ -7,12 +7,15 @@ population: 500
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 20.1765
 longitude: -96.87408
 glottocode: yecu1235
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Yecuatla Totonac"
+wikidata_id: Q56460
 wikipedia_url: "https://en.wikipedia.org/wiki/Misantla_Totonac"
 translations:
   - translation_iso: ara

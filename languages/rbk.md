@@ -1,5 +1,6 @@
 ---
 iso: rbk
+macrolanguage_id: bnc
 name: Northern Bontok
 autonym: Finallig
 alt_names: ["Bontok, Northern"]
@@ -7,6 +8,9 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: 8a
+scope: individual
+language_type: living
+wikidata_id: Q63311016
 translations:
   - translation_iso: ara
     name: نورذرن بونتوك

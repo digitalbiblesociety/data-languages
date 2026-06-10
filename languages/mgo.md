@@ -7,6 +7,8 @@ population: 83000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.88942
 longitude: 9.87416
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: meta1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Momo > Widikum-Tadkon > Meta'"
+wikidata_id: Q36054
 wikipedia_url: "https://en.wikipedia.org/wiki/Meta%CA%BC_language"
 translations:
   - translation_iso: ara

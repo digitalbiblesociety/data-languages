@@ -7,12 +7,15 @@ population: 131
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.30416
 longitude: -70.164405
 glottocode: waim1255
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan I > Bara-Tatuyo > Waimaha"
+wikidata_id: Q2883738
 wikipedia_url: "https://en.wikipedia.org/wiki/Waimaj%C3%A3_language"
 translations:
   - translation_iso: ara

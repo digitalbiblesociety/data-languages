@@ -6,6 +6,9 @@ population: null
 country_id: CZ
 country_name: Czechia
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q56384
 wikipedia_url: "https://en.wikipedia.org/wiki/Knaanic_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6260
 country_id: CO
 country_name: Colombia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 1.32382
 longitude: -70.193935
 glottocode: cube1242
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Western Eastern Tucanoan > Cubeo-Desano > Cubeo"
+wikidata_id: Q3006705
 wikipedia_url: "https://en.wikipedia.org/wiki/Cubeo_language"
 translations:
   - translation_iso: ara

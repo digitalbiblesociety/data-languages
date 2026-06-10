@@ -6,12 +6,15 @@ population: 4000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.39374
 longitude: 123.58557
 glottocode: lama1279
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Timur > Lamatuka"
+wikidata_id: Q6480982
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamatuka_language"
 translations:
   - translation_iso: ara

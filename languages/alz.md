@@ -7,12 +7,15 @@ population: 1735000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 2.36213
 longitude: 31.001635
 glottocode: alur1250
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Adhola-Alur-Luo > Alur"
+wikidata_id: Q56507
 wikipedia_url: "https://en.wikipedia.org/wiki/Alur_language"
 translations:
   - translation_iso: ara

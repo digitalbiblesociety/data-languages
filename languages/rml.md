@@ -1,5 +1,6 @@
 ---
 iso: rml
+macrolanguage_id: rom
 name: Baltic Romani
 autonym: "Romani, Baltic"
 alt_names: [Baltic, European Romany, Romani, Romani (North Russian), Romany, Zigeuner]
@@ -7,12 +8,15 @@ population: 34010
 country_id: PL
 country_name: Poland
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 60
 longitude: 38
 glottocode: balt1257
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Indo-Aryan Central zone > Romani > Baltic Romani"
+wikidata_id: Q513736
 wikipedia_url: "https://en.wikipedia.org/wiki/Baltic_Romani"
 translations:
   - translation_iso: ara

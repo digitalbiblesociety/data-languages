@@ -1,5 +1,6 @@
 ---
 iso: ben
+iso639_1: bn
 name: Bengali
 autonym: বাংলা
 alt_names: [Banga-Bhasa, Bangala, Bangla, Banglaeg, Banla simi, Begali, Bengaals, Bengalce, Bengaleg, Bengalek, Bengalera, Bengalgiella, Bengali bhasa, Bengali leid, Bengali linguo, Bengali-Assamese, Bengalin, Bengalisc sprǣc, Bengalska, Bengalí, Bengalî, Binengali, Fiteny bengali, Kibengali, Бенгалмудин келн, Забони банголӣ, בנגלית, بنگالی, بنگلہ, بينجالى, بېنگال تىلى, ބެންގާލީ, बाङगला, বাংলা ঠার, ବାଂଲା ଭାଷା, ಬಂಗಾಳಿ, ബംഗാളി]
@@ -7,6 +8,8 @@ population: 228000000
 country_id: BD
 country_name: Bangladesh
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 24
 longitude: 90
 scripts: [Beng]
@@ -14,6 +17,7 @@ glottocode: beng1280
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Gauda-Banga > Bengali"
+wikidata_id: Q9610
 wikipedia_url: "https://en.wikipedia.org/wiki/Bengali_language"
 translations:
   - translation_iso: ara

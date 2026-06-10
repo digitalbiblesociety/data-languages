@@ -7,7 +7,10 @@ population: null
 country_id: FR
 country_name: France
 status_id: "9"
+scope: individual
+language_type: historical
 scripts: [Latn]
+wikidata_id: Q1473289
 wikipedia_url: "https://en.wikipedia.org/wiki/Middle_French"
 translations:
   - translation_iso: ara

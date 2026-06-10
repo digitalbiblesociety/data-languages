@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -22.19598
 longitude: 114.93718
 glottocode: dhal1245
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Thalanyji-Burduna > Dhalandji"
+wikidata_id: Q5268787
 wikipedia_url: "https://en.wikipedia.org/wiki/Thalanyji_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3620
 country_id: CO
 country_name: Colombia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.08497
 longitude: -72.935255
 glottocode: bari1297
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Southern Magdalenic > Barí"
+wikidata_id: Q2886281
 wikipedia_url: "https://en.wikipedia.org/wiki/Bar%C3%AD_language"
 translations:
   - translation_iso: ara

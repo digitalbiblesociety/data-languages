@@ -7,12 +7,15 @@ population: 3189
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 56.77984
 longitude: 156.90623
 glottocode: itel1242
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Kamchatkan > West Itelmen"
+wikidata_id: Q33624
 wikipedia_url: "https://en.wikipedia.org/wiki/Itelmen_language"
 translations:
   - translation_iso: ara

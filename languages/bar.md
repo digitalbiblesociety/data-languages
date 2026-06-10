@@ -7,6 +7,8 @@ population: 14100000
 country_id: AT
 country_name: Austria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 47.923164
 longitude: 13.246026
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: bava1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Middle-Modern High German > Modern High German > Bairisch > Bavarian"
+wikidata_id: Q29540
 wikipedia_url: "https://en.wikipedia.org/wiki/Bavarian_language"
 translations:
   - translation_iso: ara

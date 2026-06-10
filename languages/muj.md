@@ -7,12 +7,15 @@ population: null
 country_id: TD
 country_name: Chad
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 11.69795
 longitude: 18.62822
 glottocode: mabi1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.1 > Dangla-Mabire-Birgit > Mabire"
+wikidata_id: Q3440437
 wikipedia_url: "https://en.wikipedia.org/wiki/Mabire_language"
 translations:
   - translation_iso: ara

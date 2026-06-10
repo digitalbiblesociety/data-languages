@@ -7,12 +7,15 @@ population: 200
 country_id: BW
 country_name: Botswana
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -23.93447
 longitude: 24.69828
 glottocode: hoaa1235
 glottolog_family_id: kxaa1236
 glottolog_family_name: Kxa
 glottolog_classification: "Kxa > Amkoe"
+wikidata_id: Q2053913
 wikipedia_url: "https://en.wikipedia.org/wiki/%C7%82%CA%BCAmkoe_language"
 translations:
   - translation_iso: ara

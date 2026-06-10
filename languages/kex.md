@@ -6,8 +6,11 @@ population: 417000
 country_id: IN
 country_name: India
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 20.5657
 longitude: 73.57127
+wikidata_id: Q5031131
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Saraswat_Konkani"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 12100
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.33713
 longitude: 86.76116
 glottocode: caml1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Camling"
+wikidata_id: Q3436664
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamling_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1500
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.96099
 longitude: 87.18994
 glottocode: chhi1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Chintang"
+wikidata_id: Q32994
 wikipedia_url: "https://en.wikipedia.org/wiki/Chintang_language"
 translations:
   - translation_iso: ara

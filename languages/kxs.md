@@ -6,12 +6,15 @@ population: 430
 country_id: CN
 country_name: China
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 35.043
 longitude: 101.254
 glottocode: kang1281
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Kangjia"
+wikidata_id: Q3182570
 wikipedia_url: "https://en.wikipedia.org/wiki/Kangjia_language"
 translations:
   - translation_iso: ara

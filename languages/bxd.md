@@ -7,12 +7,15 @@ population: 1000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 24.21422
 longitude: 97.91833
 glottocode: pela1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Northern Burmish > Maruic > Pela"
+wikidata_id: Q57000
 wikipedia_url: "https://en.wikipedia.org/wiki/Pela_language"
 translations:
   - translation_iso: ara

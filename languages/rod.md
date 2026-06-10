@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.56
 longitude: 6.946
 glottocode: rogo1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Shiroro-Kamuku > Kamuku-Hungwarya > Kamuku > Rogo-Sagamuk-Sama-Sambuga > Rogo"
+wikidata_id: Q3914894
 wikipedia_url: "https://en.wikipedia.org/wiki/Rogo_language"
 translations:
   - translation_iso: ara

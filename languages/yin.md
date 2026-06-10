@@ -7,12 +7,15 @@ population: 12000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 20.08332
 longitude: 97.91665
 glottocode: yinc1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > West Palaungic > Riang > Yinchia"
+wikidata_id: Q12953981
 translations:
   - translation_iso: ara
     name: لغة ريانج لاي

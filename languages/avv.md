@@ -7,12 +7,15 @@ population: 14
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.60814
 longitude: -48.13356
 glottocode: avac1239
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Guaja-Kaapor-Ava > Avá-Canoeiro"
+wikidata_id: Q4829584
 wikipedia_url: "https://en.wikipedia.org/wiki/Av%C3%A1-Canoeiro_language"
 translations:
   - translation_iso: ara

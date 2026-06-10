@@ -7,12 +7,15 @@ population: 54800
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.069225
 longitude: 14.44918
 glottocode: budu1265
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Kotoko-Buduma > Buduma"
+wikidata_id: Q56287
 wikipedia_url: "https://en.wikipedia.org/wiki/Yedina_language"
 translations:
   - translation_iso: ara

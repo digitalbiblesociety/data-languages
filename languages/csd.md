@@ -7,12 +7,15 @@ population: 10
 country_id: TH
 country_name: Thailand
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 18.86295
 longitude: 99.03901
 glottocode: chia1237
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Old Chiangmai-Bangkok Sign > Chiangmai Sign Language"
+wikidata_id: Q5095211
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiangmai_Sign_Language"
 translations:
   - translation_iso: ara

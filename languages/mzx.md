@@ -6,8 +6,11 @@ population: 2
 country_id: GY
 country_name: Guyana
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 1.98815
 longitude: -58.50461
+wikidata_id: Q6794377
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawayana_language"
 translations:
   - translation_iso: ara

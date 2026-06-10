@@ -1,12 +1,16 @@
 ---
 iso: grn
+iso639_1: gn
 name: Guarani
 autonym: "Avañe'ẽ"
 population: 4500000
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q35876
 wikipedia_url: "https://en.wikipedia.org/wiki/Guarani_dialects"
 translations:
   - translation_iso: ara

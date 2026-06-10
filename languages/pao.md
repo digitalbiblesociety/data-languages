@@ -7,12 +7,15 @@ population: 700
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 40.0799
 longitude: -119.53609
 glottocode: nort2954
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Western Numic > Northern Paiute"
+wikidata_id: Q3360656
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Paiute_language"
 translations:
   - translation_iso: ara

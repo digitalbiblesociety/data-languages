@@ -7,6 +7,8 @@ population: 1027000
 country_id: MU
 country_name: Mauritius
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -20.26134
 longitude: 57.55174
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mori1278
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Central Oil > Macro-French > Isle-de-France Creole > Morisyen"
+wikidata_id: Q33661
 wikipedia_url: "https://en.wikipedia.org/wiki/Mauritian_Creole"
 translations:
   - translation_iso: ara

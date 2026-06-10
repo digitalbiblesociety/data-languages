@@ -7,12 +7,15 @@ population: 8000
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.41095
 longitude: -57.69099
 glottocode: mund1330
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Mundurukuic > Mundurukú"
+wikidata_id: Q746723
 wikipedia_url: "https://en.wikipedia.org/wiki/Munduruku_language"
 translations:
   - translation_iso: ara

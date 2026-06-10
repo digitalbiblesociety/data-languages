@@ -7,12 +7,15 @@ population: 7160
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -18.135
 longitude: 137.669
 glottocode: krio1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Kriol"
+wikidata_id: Q35671
 wikipedia_url: "https://en.wikipedia.org/wiki/Australian_Kriol"
 translations:
   - translation_iso: ara

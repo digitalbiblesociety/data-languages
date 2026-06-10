@@ -6,12 +6,15 @@ population: 1500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.20938
 longitude: 146.98309
 glottocode: iwal1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Iwal"
+wikidata_id: Q3156391
 wikipedia_url: "https://en.wikipedia.org/wiki/Iwal_language"
 translations:
   - translation_iso: ara

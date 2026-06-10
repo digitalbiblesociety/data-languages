@@ -7,12 +7,15 @@ population: 1700
 country_id: OM
 country_name: Oman
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 26.16023
 longitude: 56.42019
 glottocode: kumz1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Kumzari"
+wikidata_id: Q36158
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumzari_language"
 translations:
   - translation_iso: ara

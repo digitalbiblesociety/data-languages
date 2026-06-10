@@ -7,6 +7,8 @@ population: 3628900
 country_id: AF
 country_name: Afghanistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 33.3708
 longitude: 64.510477
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: haza1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Hazaragi"
+wikidata_id: Q33398
 wikipedia_url: "https://en.wikipedia.org/wiki/Hazaragi_dialects"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 750
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.29593
 longitude: 141.44504
 glottocode: aram1253
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Morehead-Maro > Tonda > Arammba"
+wikidata_id: Q3502094
 wikipedia_url: "https://en.wikipedia.org/wiki/Aramba_language"
 translations:
   - translation_iso: ara

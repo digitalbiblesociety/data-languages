@@ -7,6 +7,8 @@ population: 3500
 country_id: RU
 country_name: Russia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 63.89771
 longitude: 166.69474
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: kory1246
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan
 glottolog_classification: "Chukotko-Kamchatkan > Chukotian > R-Koryakic > J-Koryakic > Koryak"
+wikidata_id: Q36199
 wikipedia_url: "https://en.wikipedia.org/wiki/Koryak_language"
 translations:
   - translation_iso: ara

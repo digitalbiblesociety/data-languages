@@ -7,12 +7,15 @@ population: 1310
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 26.91065
 longitude: 87.21331
 glottocode: chhu1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Tamar > Chhulung"
+wikidata_id: Q5116126
 wikipedia_url: "https://en.wikipedia.org/wiki/Chulung_language"
 translations:
   - translation_iso: ara

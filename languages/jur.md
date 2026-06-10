@@ -7,12 +7,15 @@ population: 278
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.93541
 longitude: -53.34717
 glottocode: juru1256
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Jurunic > Yudja"
+wikidata_id: Q4023175
 wikipedia_url: "https://en.wikipedia.org/wiki/Juruna_language"
 translations:
   - translation_iso: ara

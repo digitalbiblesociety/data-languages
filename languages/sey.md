@@ -7,12 +7,15 @@ population: 1005
 country_id: EC
 country_name: Ecuador
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.459785
 longitude: -75.554725
 glottocode: seco1241
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Siona-Secoya > Secoya"
+wikidata_id: Q3477218
 wikipedia_url: "https://en.wikipedia.org/wiki/Secoya_language"
 translations:
   - translation_iso: ara

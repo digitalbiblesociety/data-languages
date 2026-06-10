@@ -7,6 +7,8 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.287
 longitude: 28.599
 scripts: [Lydi]
@@ -14,6 +16,7 @@ glottocode: lydi1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Lydian"
+wikidata_id: Q36095
 wikipedia_url: "https://en.wikipedia.org/wiki/Lydian_language"
 translations:
   - translation_iso: ara

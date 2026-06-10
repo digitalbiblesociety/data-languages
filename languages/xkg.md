@@ -7,12 +7,15 @@ population: 15000
 country_id: ML
 country_name: Mali
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.05464
 longitude: -9.96404
 glottocode: kago1248
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Kita-Kagoro > Kagoro"
+wikidata_id: Q11159524
 translations:
   - translation_iso: ara
     name: كاجورو

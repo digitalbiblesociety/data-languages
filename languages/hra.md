@@ -7,12 +7,15 @@ population: 18700
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.455925
 longitude: 93.351035
 glottocode: hran1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Hmaric > Hrangkhol"
+wikidata_id: Q5923435
 wikipedia_url: "https://en.wikipedia.org/wiki/Hrangkhol_language"
 translations:
   - translation_iso: ara

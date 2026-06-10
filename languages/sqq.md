@@ -7,12 +7,15 @@ population: 2360
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.687
 longitude: 106.53974
 glottocode: souu1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Nuclear West Bahnaric > Loven-Suq > Sou"
+wikidata_id: Q13018608
 wikipedia_url: "https://en.wikipedia.org/wiki/Su%27_language"
 translations:
   - translation_iso: ara

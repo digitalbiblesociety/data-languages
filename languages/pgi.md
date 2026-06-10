@@ -7,12 +7,15 @@ population: 2140
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.04649
 longitude: 141.24636
 glottocode: pagi1244
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Bewani > Pagi-Kilmeri > Pagi"
+wikidata_id: Q7124354
 wikipedia_url: "https://en.wikipedia.org/wiki/Pagi_language"
 translations:
   - translation_iso: ara

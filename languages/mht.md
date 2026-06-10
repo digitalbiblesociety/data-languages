@@ -7,12 +7,15 @@ population: 3000
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 1.06636
 longitude: -66.723105
 glottocode: mand1448
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Northeast Japura-Colombia > Cassiquiare > Mandahuaca"
+wikidata_id: Q6747924
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandawaca_language"
 translations:
   - translation_iso: ara

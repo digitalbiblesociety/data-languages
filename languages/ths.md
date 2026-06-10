@@ -7,12 +7,15 @@ population: 12973
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 28.70139
 longitude: 83.64661
 glottocode: thak1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Gurungic > Thakali-Chantyal > Thakali"
+wikidata_id: Q7709348
 wikipedia_url: "https://en.wikipedia.org/wiki/Thakali_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 122000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.15933
 longitude: 124.89245
 glottocode: binu1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Manobo > North Manobo > Kinamiguin-Bukidnon > Bukidnon > Talaandig-Binukid"
+wikidata_id: Q4914553
 wikipedia_url: "https://en.wikipedia.org/wiki/Bukid_language"
 translations:
   - translation_iso: ara

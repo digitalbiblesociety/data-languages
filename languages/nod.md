@@ -7,6 +7,8 @@ population: 6000000
 country_id: TH
 country_name: Thailand
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 18.857495
 longitude: 100.20739
 scripts: [Lana]
@@ -14,6 +16,7 @@ glottocode: nort2740
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Shanic > Southern Shanic > Yuanic > Northern Thai"
+wikidata_id: Q565110
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Thai_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 40000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.31083
 longitude: 111.07699
 glottocode: mual1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Ibanic > Iban-Mualang-Seberuang > Mualang"
+wikidata_id: Q3073458
 wikipedia_url: "https://en.wikipedia.org/wiki/Mualang_language"
 translations:
   - translation_iso: ara

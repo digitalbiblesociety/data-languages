@@ -7,12 +7,15 @@ population: 337000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.38204
 longitude: 37.05341
 glottocode: kagu1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > Kagulu"
+wikidata_id: Q11732264
 wikipedia_url: "https://en.wikipedia.org/wiki/Kagulu_language"
 translations:
   - translation_iso: ara

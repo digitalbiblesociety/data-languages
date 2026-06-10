@@ -7,12 +7,15 @@ population: 30000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.6843
 longitude: 35.02277
 glottocode: maja1242
 glottolog_family_id: surm1244
 glottolog_family_name: Surmic
 glottolog_classification: "Surmic > Majang"
+wikidata_id: Q56724
 wikipedia_url: "https://en.wikipedia.org/wiki/Majang_language"
 translations:
   - translation_iso: ara

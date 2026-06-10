@@ -1,5 +1,6 @@
 ---
 iso: zpg
+macrolanguage_id: zap
 name: Guevea De Humboldt Zapotec
 autonym: Guevea de Humboldt Zapotec
 alt_names: [Eastern Zapotec, Northern Isthmus Zapotec, Northern Sapoteko, Petapa, Petapa Zapotec, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Guevea de Humboldt", Zapoteco de Guevea de Humboldt, Zapoteco de Santa María Petapa]
@@ -7,12 +8,15 @@ population: 4720
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.73118
 longitude: -95.36408
 glottocode: guev1238
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Transyautepecan > Northeast Tehuantepec > Guevea De Humboldt Zapotec"
+wikidata_id: Q13459953
 wikipedia_url: "https://en.wikipedia.org/wiki/Guevea_Zapotec"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 30
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -34.07423
 longitude: 145.99414
 glottocode: wira1262
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Southeastern Pama-Nyungan > Wiradhuric > Wiradhuri"
+wikidata_id: Q3913840
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiradjuri_language"
 translations:
   - translation_iso: ara

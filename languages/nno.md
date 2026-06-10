@@ -1,12 +1,17 @@
 ---
 iso: nno
+iso639_1: nn
+macrolanguage_id: nor
 name: Norwegian Nynorsk
 autonym: nynorsk
 population: 4320000
 country_id: "NO"
 country_name: Norway
 status_id: null
+scope: individual
+language_type: living
 scripts: [Latn]
+wikidata_id: Q25164
 wikipedia_url: "https://en.wikipedia.org/wiki/Nynorsk"
 translations:
   - translation_iso: ara

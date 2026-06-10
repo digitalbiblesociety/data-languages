@@ -7,12 +7,15 @@ population: null
 country_id: BO
 country_name: Bolivia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -11.99684
 longitude: -65.55679
 glottocode: paca1246
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Bolivian Nawa > Pacahuara"
+wikidata_id: Q2591165
 wikipedia_url: "https://en.wikipedia.org/wiki/Pakawara_language"
 translations:
   - translation_iso: ara

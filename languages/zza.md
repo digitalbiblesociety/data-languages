@@ -7,7 +7,10 @@ population: 1640000
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q10199
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaza_language"
 translations:
   - translation_iso: ara

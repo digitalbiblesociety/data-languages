@@ -6,12 +6,15 @@ population: 2000
 country_id: GA
 country_name: Gabon
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.03393
 longitude: 13.60008
 glottocode: tchi1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Mbere (B.60) > Tsitsekeic > Tchitchege"
+wikidata_id: Q36595
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsege_language"
 translations:
   - translation_iso: ara

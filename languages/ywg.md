@@ -7,12 +7,15 @@ population: 12
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -22.9178
 longitude: 117.5628
 glottocode: yinh1234
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Panytyima-Yinhawangka > Yinhawangka"
+wikidata_id: Q8053734
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinhawangka_language"
 translations:
   - translation_iso: ara

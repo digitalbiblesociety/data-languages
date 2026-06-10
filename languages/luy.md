@@ -6,9 +6,12 @@ population: 3312200
 country_id: KE
 country_name: Kenya
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: 0.40013
 longitude: 34.228015
 scripts: [Latn]
+wikidata_id: Q35893
 wikipedia_url: "https://en.wikipedia.org/wiki/Luhya_language"
 translations:
   - translation_iso: ara

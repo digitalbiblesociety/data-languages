@@ -7,12 +7,15 @@ population: 250000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.21045
 longitude: 11.39348
 glottocode: eton1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Yaunde-Fang (A.70) > Eton-Mengisa"
+wikidata_id: Q35317
 wikipedia_url: "https://en.wikipedia.org/wiki/Eton_language"
 translations:
   - translation_iso: ara

@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
+wikidata_id: Q4683034
 wikipedia_url: "https://en.wikipedia.org/wiki/Adithinngithigh_language"
 translations:
   - translation_iso: ara

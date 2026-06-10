@@ -7,12 +7,15 @@ population: 25000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.54189
 longitude: 13.40867
 glottocode: fali1285
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Gude-Jimi-Zizilivakan > Fali-Gude > Fali"
+wikidata_id: Q56244
 wikipedia_url: "https://en.wikipedia.org/wiki/Fali_of_Mubi"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 2611110
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 11.49115
 longitude: 125.01203
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: wara1300
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Warayan > Samar-Waray > Waray (Philippines)"
+wikidata_id: Q34279
 wikipedia_url: "https://en.wikipedia.org/wiki/Waray_language"
 translations:
   - translation_iso: ara

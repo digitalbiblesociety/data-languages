@@ -7,12 +7,15 @@ population: 1
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 10.84271
 longitude: -71.83993
 glottocode: para1316
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Guajiro-Paraujano > Paraujano"
+wikidata_id: Q3501747
 wikipedia_url: "https://en.wikipedia.org/wiki/Paraujano_language"
 translations:
   - translation_iso: ara

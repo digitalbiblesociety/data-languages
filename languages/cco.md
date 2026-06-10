@@ -7,12 +7,15 @@ population: 2000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.59088
 longitude: -96.44501
 glottocode: coma1246
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Chinantecan > Chinantec Group V > Comaltepec Chinantec"
+wikidata_id: Q2963735
 translations:
   - translation_iso: ara
     name: الكوماتيبك تشينانتك

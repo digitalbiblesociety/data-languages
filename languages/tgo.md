@@ -7,12 +7,15 @@ population: 2000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.52292
 longitude: 153.48807
 glottocode: sude1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Nimoa-Sudest > Sudest"
+wikidata_id: Q7675351
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudest_language"
 translations:
   - translation_iso: ara

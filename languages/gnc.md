@@ -7,12 +7,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 28
 longitude: -15.5
 glottocode: guan1277
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Unclassified Berber > Guanche"
+wikidata_id: Q35762
 wikipedia_url: "https://en.wikipedia.org/wiki/Guanche_language"
 translations:
   - translation_iso: ara

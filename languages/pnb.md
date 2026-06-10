@@ -1,5 +1,6 @@
 ---
 iso: pnb
+macrolanguage_id: lah
 name: Western Panjabi
 autonym: ਪੰਜਾਬੀ
 alt_names: [Hindki, Lahanda, Lahnda, Lahndi, Pandschabi, "Panjabi, Western", Standard Lahnda, Western Punjabi]
@@ -7,12 +8,15 @@ population: 31100000
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 30.09484
 longitude: 75.347425
 glottocode: west2386
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Greater Panjabic > Western Panjabi"
+wikidata_id: Q1389492
 translations:
   - translation_iso: ara
     name: بنجابية غربية

@@ -6,12 +6,15 @@ population: 1442
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.02977
 longitude: 149.69988
 glottocode: ginu1240
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Southeast Dagan > Ginuman"
+wikidata_id: Q11732210
 wikipedia_url: "https://en.wikipedia.org/wiki/Ginuman_language"
 translations:
   - translation_iso: ara

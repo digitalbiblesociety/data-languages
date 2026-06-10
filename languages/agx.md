@@ -7,12 +7,15 @@ population: 29300
 country_id: RU
 country_name: Russia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 41.92418
 longitude: 47.58429
 glottocode: aghu1253
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Tabasaran-Aghul-Lezgi > Aghul-Lezgi > Aghulic > Aghul"
+wikidata_id: Q36498
 wikipedia_url: "https://en.wikipedia.org/wiki/Aghul_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 54400
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 26.47146
 longitude: 94.74761
 glottocode: phom1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southwestern Patkaian > Chang-Phom-Konyak > Konyak-Phom > Phom Naga"
+wikidata_id: Q7187109
 wikipedia_url: "https://en.wikipedia.org/wiki/Phom_language"
 translations:
   - translation_iso: ara

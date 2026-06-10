@@ -7,12 +7,15 @@ population: 13770
 country_id: VE
 country_name: Venezuela
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.418045
 longitude: -67.75745
 glottocode: piar1243
 glottolog_family_id: sali1297
 glottolog_family_name: Saliban
 glottolog_classification: "Saliban > Maco-Piaroa > Piaroa"
+wikidata_id: Q3382207
 wikipedia_url: "https://en.wikipedia.org/wiki/Piaroa_language"
 translations:
   - translation_iso: ara

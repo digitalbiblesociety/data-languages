@@ -6,8 +6,11 @@ population: 15100
 country_id: CG
 country_name: Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.75341
 longitude: 13.61701
+wikidata_id: Q36407
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbama_language"
 translations:
   - translation_iso: ara

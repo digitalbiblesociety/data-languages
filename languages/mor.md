@@ -6,12 +6,15 @@ population: 72000
 country_id: SD
 country_name: Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.91939
 longitude: 30.21384
 glottocode: moro1285
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Western Heibanic > Moro"
+wikidata_id: Q36172
 wikipedia_url: "https://en.wikipedia.org/wiki/Moro_language"
 translations:
   - translation_iso: ara

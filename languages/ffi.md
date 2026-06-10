@@ -6,6 +6,9 @@ population: 180
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
+wikidata_id: Q8564176
 wikipedia_url: "https://en.wikipedia.org/wiki/Foia_Foia_language"
 translations:
   - translation_iso: ara

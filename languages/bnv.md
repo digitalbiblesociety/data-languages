@@ -7,12 +7,15 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.09529
 longitude: 139.20752
 glottocode: bone1255
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Bonerif"
+wikidata_id: Q4941733
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonerif_language"
 translations:
   - translation_iso: ara

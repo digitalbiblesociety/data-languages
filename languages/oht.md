@@ -7,6 +7,9 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q41499994
 translations:
   - translation_iso: ara
     name: اللغة الحيثية القديمة

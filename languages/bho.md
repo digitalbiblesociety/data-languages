@@ -7,6 +7,8 @@ population: 52200000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 26.458455
 longitude: 84.817115
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: bhoj1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Bhojpuric > Bhojpuri"
+wikidata_id: Q33268
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhojpuri_language"
 translations:
   - translation_iso: ara

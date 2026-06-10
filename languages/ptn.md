@@ -7,12 +7,15 @@ population: 10600
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.34096
 longitude: 128.63354
 glottocode: pata1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > South Halmahera > Gebeic > Central-Eastern South Halmahera > Gamrange > Southern Gamrange > Patani"
+wikidata_id: Q7144242
 wikipedia_url: "https://en.wikipedia.org/wiki/Patani_language"
 translations:
   - translation_iso: ara

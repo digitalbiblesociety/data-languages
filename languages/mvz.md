@@ -7,12 +7,15 @@ population: 25000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.10617
 longitude: 38.33863
 glottocode: mesq1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Ethiosemitic > South Ethiopic > Outer South Ethiopic > TT-Group > Mesqan"
+wikidata_id: Q6821677
 wikipedia_url: "https://en.wikipedia.org/wiki/Mesqan_language"
 translations:
   - translation_iso: ara

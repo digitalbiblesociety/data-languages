@@ -6,6 +6,9 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q1067986
 wikipedia_url: "https://en.wikipedia.org/wiki/Khazar_language"
 translations:
   - translation_iso: ara

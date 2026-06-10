@@ -7,12 +7,15 @@ population: 25000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.12581
 longitude: 10.25422
 glottocode: gala1264
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Galambu"
+wikidata_id: Q2598797
 wikipedia_url: "https://en.wikipedia.org/wiki/Galambu_language"
 translations:
   - translation_iso: ara

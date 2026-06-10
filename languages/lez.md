@@ -7,6 +7,8 @@ population: 623700
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 41.51572
 longitude: 47.89507
 scripts: [Aghb, Cyrl]
@@ -14,6 +16,7 @@ glottocode: lezg1247
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Tabasaran-Aghul-Lezgi > Aghul-Lezgi > Lezgian"
+wikidata_id: Q31746
 wikipedia_url: "https://en.wikipedia.org/wiki/Lezgian_language"
 translations:
   - translation_iso: ara

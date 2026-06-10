@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -27.06423
 longitude: 145.86184
 glottocode: guny1241
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Margany-Gunya > Gunya"
+wikidata_id: Q10511001
 translations:
   - translation_iso: ara
     name: غونيآ

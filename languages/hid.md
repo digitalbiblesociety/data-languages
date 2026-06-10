@@ -7,12 +7,15 @@ population: 1200
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 47.75341
 longitude: -102.52777
 glottocode: hida1246
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Missouri River Siouan > Hidatsa"
+wikidata_id: Q3135234
 wikipedia_url: "https://en.wikipedia.org/wiki/Hidatsa_language"
 translations:
   - translation_iso: ara

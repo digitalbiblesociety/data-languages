@@ -7,6 +7,9 @@ population: null
 country_id: NP
 country_name: Nepal
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q65455877
 translations:
   - translation_iso: ara
     name: نيوار الوسطى

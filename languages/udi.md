@@ -7,12 +7,15 @@ population: 4200
 country_id: AZ
 country_name: Azerbaijan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 40.9
 longitude: 47.7236
 glottocode: udii1243
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Eastern Samur > Udi-Aghwan > Udi"
+wikidata_id: Q36867
 wikipedia_url: "https://en.wikipedia.org/wiki/Udi_language"
 translations:
   - translation_iso: ara

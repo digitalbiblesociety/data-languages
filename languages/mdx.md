@@ -7,12 +7,15 @@ population: 33900
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 6.1405
 longitude: 35.57631
 glottocode: dizi1235
 glottolog_family_id: dizo1235
 glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Dizin"
+wikidata_id: Q35313
 wikipedia_url: "https://en.wikipedia.org/wiki/Dizin_language"
 translations:
   - translation_iso: ara

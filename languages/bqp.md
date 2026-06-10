@@ -7,12 +7,15 @@ population: 15000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.91074
 longitude: 4.39929
 glottocode: busa1253
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Bisa-Busa > Samo-Busa > Busan > Boko-Busa > Busa"
+wikidata_id: Q35185
 wikipedia_url: "https://en.wikipedia.org/wiki/Busa_language_(Mande)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 200
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 34.88661
 longitude: -114.59926
 glottocode: moha1256
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > River Yuman > Mohave"
+wikidata_id: Q56510
 wikipedia_url: "https://en.wikipedia.org/wiki/Mojave_language"
 translations:
   - translation_iso: ara

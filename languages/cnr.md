@@ -1,11 +1,15 @@
 ---
 iso: cnr
+macrolanguage_id: hbs
 name: Montenegrin
 autonym: црногорски језик
 population: 232600
 country_id: ME
 country_name: Montenegro
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q8821
 wikipedia_url: "https://en.wikipedia.org/wiki/Montenegrin_language"
 translations:
   - translation_iso: ara

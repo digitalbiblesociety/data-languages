@@ -7,12 +7,15 @@ population: null
 country_id: GY
 country_name: Guyana
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 2.481
 longitude: -60.286
 glottocode: ator1244
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Negro-Roraima > Pidjanan > Wapishanan > Wapishana-Atorai > Atorada"
+wikidata_id: Q3507932
 wikipedia_url: "https://en.wikipedia.org/wiki/Atorada_language"
 translations:
   - translation_iso: ara

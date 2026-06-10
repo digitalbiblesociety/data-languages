@@ -1,5 +1,6 @@
 ---
 iso: dip
+macrolanguage_id: din
 name: Northeastern Dinka
 autonym: Thuɔŋjäŋ
 alt_names: [Agar, Dinka, "Dinka, Northeastern", Jieng (Dinka), Nord-Dinka, Padang, White Nile Dinka]
@@ -7,12 +8,15 @@ population: 923000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 9.27995
 longitude: 31.83923
 glottocode: nort2815
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Northeastern Dinka"
+wikidata_id: Q36246
 translations:
   - translation_iso: ara
     name: نورثيسترن دينكا

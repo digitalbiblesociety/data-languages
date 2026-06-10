@@ -7,9 +7,12 @@ population: null
 country_id: VE
 country_name: Venezuela
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 3.969231
 longitude: -64.235892
 glottocode: maku1246
+wikidata_id: Q2032882
 wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%A1ku_language_of_Auari"
 translations:
   - translation_iso: ara

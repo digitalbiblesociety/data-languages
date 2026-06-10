@@ -7,12 +7,15 @@ population: 141000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 30.05005
 longitude: 67.83272
 glottocode: wane1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Pashto > Waneci"
+wikidata_id: Q7967334
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanetsi"
 translations:
   - translation_iso: ara

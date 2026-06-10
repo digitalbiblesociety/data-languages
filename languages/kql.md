@@ -7,12 +7,15 @@ population: 1250
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.66964
 longitude: 143.85512
 glottocode: kyen1243
 glottolog_family_id: yuat1252
 glottolog_family_name: Yuat
 glottolog_classification: "Yuat > Miyak-Bun-Biwat > Kyenele"
+wikidata_id: Q11732453
 wikipedia_url: "https://en.wikipedia.org/wiki/Kyenele_language"
 translations:
   - translation_iso: ara

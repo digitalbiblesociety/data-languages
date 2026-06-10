@@ -7,12 +7,15 @@ population: 350
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
 latitude: 11.08031
 longitude: 76.65928
 glottocode: alla1247
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Malayalamoid > Allar"
+wikidata_id: Q3393634
 wikipedia_url: "https://en.wikipedia.org/wiki/Allar_language"
 translations:
   - translation_iso: ara

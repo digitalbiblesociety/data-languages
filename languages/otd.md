@@ -7,12 +7,15 @@ population: 78800
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.3955
 longitude: 113.46875
 glottocode: otda1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > North West Greater Barito > Ot Danum"
+wikidata_id: Q3033781
 wikipedia_url: "https://en.wikipedia.org/wiki/Ot_Danum_language"
 translations:
   - translation_iso: ara

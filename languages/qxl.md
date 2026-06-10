@@ -1,5 +1,6 @@
 ---
 iso: qxl
+macrolanguage_id: que
 name: Salasaca Highland Quichua
 autonym: Kichwa Shimi
 alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Ecuador, Ecuador Quechua, Highland Kichua, Kichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Salasaca Highland", Salasaca, Salasaca Quichua, Tungurahua Highland Quichua, Tungurahua Quichua]
@@ -7,12 +8,15 @@ population: 14300
 country_id: EC
 country_name: Ecuador
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.35447
 longitude: -78.39531
 glottocode: sala1272
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua A > Tungurahua Highland Quichua"
+wikidata_id: Q12953847
 translations:
   - translation_iso: ara
     name: اللغة كيتشوا سالاساكا الجبلية

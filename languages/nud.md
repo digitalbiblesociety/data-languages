@@ -7,12 +7,15 @@ population: 180
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.26628
 longitude: 142.50024
 glottocode: ngal1300
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Ngala"
+wikidata_id: Q7021893
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggala_language"
 translations:
   - translation_iso: ara

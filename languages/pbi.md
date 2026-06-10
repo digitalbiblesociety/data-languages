@@ -7,12 +7,15 @@ population: 30000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.02063
 longitude: 14.09644
 glottocode: park1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Margi-Mandara-Mofu > Mandaraic > Podoko > Parkwa"
+wikidata_id: Q3515096
 wikipedia_url: "https://en.wikipedia.org/wiki/Parkwa_language"
 translations:
   - translation_iso: ara

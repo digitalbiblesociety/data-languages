@@ -7,12 +7,15 @@ population: 1530000
 country_id: ZM
 country_name: Zambia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: -17.422325
 longitude: 27.103495
 glottocode: tong1318
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Botatwe > Greater Eastern Botatwe > Central Eastern Botatwe > Kafue > Tonga (Zambia)"
+wikidata_id: Q34101
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Zambia_and_Zimbabwe)"
 translations:
   - translation_iso: ara

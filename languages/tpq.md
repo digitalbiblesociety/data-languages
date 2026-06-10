@@ -6,8 +6,11 @@ population: 610
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.4925
 longitude: 78.16268
+wikidata_id: Q12953230
 wikipedia_url: "https://en.wikipedia.org/wiki/Tukpa_language"
 translations:
   - translation_iso: ara

@@ -1,12 +1,16 @@
 ---
 iso: zho
+iso639_1: zh
 name: Chinese
 autonym: 中文
 population: 1299877520
 country_id: CN
 country_name: China
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Bopo, Hans, Hant, Latn, Phag]
+wikidata_id: Q7850
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_language"
 translations:
   - translation_iso: ara

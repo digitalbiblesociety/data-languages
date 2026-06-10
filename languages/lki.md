@@ -7,6 +7,8 @@ population: 1240000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.01025
 longitude: 47.93976
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: laki1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Laki-Kurdish > Laki"
+wikidata_id: Q56483
 wikipedia_url: "https://en.wikipedia.org/wiki/Laki_language"
 translations:
   - translation_iso: ara

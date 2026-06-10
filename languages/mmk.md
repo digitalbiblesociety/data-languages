@@ -7,12 +7,15 @@ population: 29700
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.44672
 longitude: 81.56633
 glottocode: mukh1238
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Mukha-Dora"
+wikidata_id: Q6933447
 wikipedia_url: "https://en.wikipedia.org/wiki/Mukha-Dora_language"
 translations:
   - translation_iso: ara

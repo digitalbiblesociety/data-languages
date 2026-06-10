@@ -7,12 +7,15 @@ population: 13000
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.8275
 longitude: 29.3898
 glottocode: nucl1339
 glottolog_family_id: teme1251
 glottolog_family_name: Temeinic
 glottolog_classification: "Temeinic > Temein"
+wikidata_id: Q7698064
 wikipedia_url: "https://en.wikipedia.org/wiki/Temein_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1650
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.45399
 longitude: -68.7678
 glottocode: kana1291
 glottolog_family_id: katu1274
 glottolog_family_name: Katukinan
 glottolog_classification: "Katukinan > Katukína-Kanamarí"
+wikidata_id: Q3438373
 wikipedia_url: "https://en.wikipedia.org/wiki/Katuk%C3%ADna-Kanamar%C3%AD_language"
 translations:
   - translation_iso: ara

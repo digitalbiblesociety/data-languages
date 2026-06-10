@@ -7,6 +7,8 @@ population: 2000
 country_id: GR
 country_name: Greece
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 37.14054
 longitude: 22.73411
 scripts: [Grek]
@@ -14,6 +16,7 @@ glottocode: tsak1248
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > North Greek > Tsakonian"
+wikidata_id: Q220607
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsakonian_Greek"
 translations:
   - translation_iso: ara

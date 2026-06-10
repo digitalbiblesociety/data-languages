@@ -7,12 +7,15 @@ population: 50
 country_id: GA
 country_name: Gabon
 status_id: null
+scope: individual
+language_type: living
 latitude: -1.22
 longitude: 10.58
 glottocode: eviy1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > B10-B30 > Okani (B.30) > Southern Okani > Viya"
+wikidata_id: Q7937974
 wikipedia_url: "https://en.wikipedia.org/wiki/Viya_language"
 translations:
   - translation_iso: ara

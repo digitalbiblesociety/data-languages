@@ -7,12 +7,15 @@ population: 8800
 country_id: IL
 country_name: Israel
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 31.77445
 longitude: 35.22249
 glottocode: lish1247
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Northwestern Jewish Neo-Aramaic > Lishana Deni"
+wikidata_id: Q3436461
 wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Zakho"
 translations:
   - translation_iso: ara

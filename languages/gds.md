@@ -6,12 +6,15 @@ population: 20
 country_id: NP
 country_name: Nepal
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 28.377
 longitude: 83.807
 glottocode: ghan1245
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Ghandruk Sign Language"
+wikidata_id: Q15971577
 wikipedia_url: "https://en.wikipedia.org/wiki/Ghandruk_Sign_Language"
 translations:
   - translation_iso: ara

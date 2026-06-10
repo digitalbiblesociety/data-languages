@@ -7,12 +7,15 @@ population: 900
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.4978
 longitude: 76.93865
 glottocode: kota1263
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Kota (India)"
+wikidata_id: Q33483
 wikipedia_url: "https://en.wikipedia.org/wiki/Kota_language_(India)"
 translations:
   - translation_iso: ara

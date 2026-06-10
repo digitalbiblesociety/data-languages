@@ -7,6 +7,8 @@ population: 311700
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 43.56504
 longitude: 42.26059
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: kara1465
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Kaukasus Kipchak > Karachay-Balkar"
+wikidata_id: Q33714
 wikipedia_url: "https://en.wikipedia.org/wiki/Karachay-Balkar"
 translations:
   - translation_iso: ara

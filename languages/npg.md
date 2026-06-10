@@ -7,12 +7,15 @@ population: 4500
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.35
 longitude: 95.25
 glottocode: pony1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Lainongic > Khiamniungic > Pounyiu-Gongvan Naga"
+wikidata_id: Q7228475
 wikipedia_url: "https://en.wikipedia.org/wiki/Ponyo_language"
 translations:
   - translation_iso: ara

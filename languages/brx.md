@@ -7,6 +7,8 @@ population: 1474380
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 26.725455
 longitude: 89.333235
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: bodo1269
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Bodo-Mech-Kachari > Bodo-Mech"
+wikidata_id: Q33223
 wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(India)"
 translations:
   - translation_iso: ara

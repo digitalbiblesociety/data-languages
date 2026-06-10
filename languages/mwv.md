@@ -7,6 +7,8 @@ population: 58000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.41092
 longitude: 98.94011
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ment1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Mentawai"
+wikidata_id: Q13365
 wikipedia_url: "https://en.wikipedia.org/wiki/Mentawai_language"
 translations:
   - translation_iso: ara

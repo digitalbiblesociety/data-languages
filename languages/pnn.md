@@ -7,12 +7,15 @@ population: 600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.12624
 longitude: 144.13744
 glottocode: pina1252
 glottolog_family_id: piaw1238
 glottolog_family_name: Piawi
 glottolog_classification: "Piawi > Pinai-Hagahai"
+wikidata_id: Q5638511
 wikipedia_url: "https://en.wikipedia.org/wiki/Hagahai_language"
 translations:
   - translation_iso: ara

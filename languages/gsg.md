@@ -7,12 +7,15 @@ population: 80600
 country_id: DE
 country_name: Germany
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 50.81543
 longitude: 7.30478
 glottocode: germ1281
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > DGSic > German Sign Language"
+wikidata_id: Q33282
 wikipedia_url: "https://en.wikipedia.org/wiki/German_Sign_Language"
 translations:
   - translation_iso: ara

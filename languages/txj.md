@@ -6,12 +6,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: living
 latitude: 11.852298
 longitude: 13.157959
 glottocode: tarj1235
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Kanuri-Kanembu > Kanembuic > Tarjumo"
+wikidata_id: Q24906088
 wikipedia_url: "https://en.wikipedia.org/wiki/Tarjumo_language"
 translations:
   - translation_iso: ara

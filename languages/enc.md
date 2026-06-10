@@ -7,12 +7,15 @@ population: 200
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.83859
 longitude: 106.1667
 glottocode: ennn1243
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern Buyang > En"
+wikidata_id: Q3504110
 wikipedia_url: "https://en.wikipedia.org/wiki/En_language"
 translations:
   - translation_iso: deu

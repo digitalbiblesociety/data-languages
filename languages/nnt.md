@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 39.67781
 longitude: -74.98648
 glottocode: nant1249
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Nanticoke-Conoy > Nanticoke"
+wikidata_id: Q3915517
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanticoke_language"
 translations:
   - translation_iso: ara

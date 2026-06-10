@@ -7,12 +7,15 @@ population: 4500
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.69577
 longitude: 10.49838
 glottocode: keme1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Beboid > Eastern Beboid > Bebe-Kemezung > Naki-Kemezung > Kemezung"
+wikidata_id: Q35562
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemezung_language"
 translations:
   - translation_iso: ara

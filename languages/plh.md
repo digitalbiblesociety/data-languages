@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -3.25404
 longitude: 128.77917
 glottocode: paul1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Paulohi"
+wikidata_id: Q7155331
 wikipedia_url: "https://en.wikipedia.org/wiki/Paulohi_language"
 translations:
   - translation_iso: ara

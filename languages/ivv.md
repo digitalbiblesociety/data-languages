@@ -7,12 +7,15 @@ population: 35000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.38479
 longitude: 121.97521
 glottocode: ivat1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Batanic > Yami-Itbayat > Itbayat"
+wikidata_id: Q3547080
 wikipedia_url: "https://en.wikipedia.org/wiki/Ivatan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.91093
 longitude: 131.6405
 glottocode: nung1291
 glottolog_family_id: mirn1241
 glottolog_family_name: Mirndi
 glottolog_classification: "Mirndi > Yirram > Nungali"
+wikidata_id: Q7069826
 wikipedia_url: "https://en.wikipedia.org/wiki/Nungali_language"
 translations:
   - translation_iso: ara

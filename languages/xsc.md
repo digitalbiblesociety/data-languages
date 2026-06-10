@@ -6,6 +6,9 @@ population: null
 country_id: KZ
 country_name: Kazakhstan
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q749834
 wikipedia_url: "https://en.wikipedia.org/wiki/Scythian_languages"
 translations:
   - translation_iso: ara

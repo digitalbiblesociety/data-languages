@@ -7,12 +7,15 @@ population: 2266
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.05102
 longitude: 155.75964
 glottocode: mono1273
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Mono-Uruavan > Mono-Alu"
+wikidata_id: Q33503
 wikipedia_url: "https://en.wikipedia.org/wiki/Mono-Alu_language"
 translations:
   - translation_iso: ara

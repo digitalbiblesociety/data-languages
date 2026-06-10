@@ -7,12 +7,15 @@ population: 3000
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.3037
 longitude: 95.6045
 glottocode: maky1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Makyamic"
+wikidata_id: Q6740516
 wikipedia_url: "https://en.wikipedia.org/wiki/Makyam_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 800
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 47.29583
 longitude: -116.71512
 glottocode: coeu1236
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Coeur d'Alene"
+wikidata_id: Q32915
 wikipedia_url: "https://en.wikipedia.org/wiki/Coeur_d%27Alene_language"
 translations:
   - translation_iso: ara

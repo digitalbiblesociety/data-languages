@@ -7,6 +7,8 @@ population: 580000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.83116
 longitude: 7.97167
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: jjuu1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Zaric > Nuclear Zaric > Katabic > Jju"
+wikidata_id: Q35401
 wikipedia_url: "https://en.wikipedia.org/wiki/Jju_language"
 translations:
   - translation_iso: ara

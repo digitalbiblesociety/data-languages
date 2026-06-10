@@ -6,12 +6,15 @@ population: 230000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 5.1232
 longitude: 30.32873
 glottocode: moru1253
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Moru"
+wikidata_id: Q6915014
 wikipedia_url: "https://en.wikipedia.org/wiki/Moru_language"
 translations:
   - translation_iso: ara

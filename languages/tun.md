@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 30.98879
 longitude: -92.54026
 glottocode: tuni1252
+wikidata_id: Q56619
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunica_language"
 translations:
   - translation_iso: ara

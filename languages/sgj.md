@@ -6,6 +6,9 @@ population: 1740000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q24952038
 wikipedia_url: "https://en.wikipedia.org/wiki/Surgujia_dialect"
 translations:
   - translation_iso: ara

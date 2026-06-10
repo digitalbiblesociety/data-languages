@@ -7,12 +7,15 @@ population: 18500
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.667445
 longitude: 15.6675
 glottocode: nzak1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Central Mbum > Karangic > Nzakambay"
+wikidata_id: Q36374
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzakambay_language"
 translations:
   - translation_iso: ara

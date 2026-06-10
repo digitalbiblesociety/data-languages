@@ -7,12 +7,15 @@ population: 289000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.53072
 longitude: 12.04157
 glottocode: baca1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Bata-Bwatiye > Bacama"
+wikidata_id: Q56274
 wikipedia_url: "https://en.wikipedia.org/wiki/Bacama_language"
 translations:
   - translation_iso: ara

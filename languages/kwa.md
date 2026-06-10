@@ -7,12 +7,15 @@ population: 142
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.1177
 longitude: -67.29341
 glottocode: daww1239
 glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Eastern Naduhup > Dâw"
+wikidata_id: Q3042278
 wikipedia_url: "https://en.wikipedia.org/wiki/D%C3%A2w_language"
 translations:
   - translation_iso: ara

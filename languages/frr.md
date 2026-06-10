@@ -7,6 +7,8 @@ population: 10000
 country_id: DE
 country_name: Germany
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 54.64087
 longitude: 8.58489
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nort2626
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Northern Frisian"
+wikidata_id: Q28224
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Frisian_language"
 translations:
   - translation_iso: ara

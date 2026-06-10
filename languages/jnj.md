@@ -7,12 +7,15 @@ population: 160000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.79821
 longitude: 37.44117
 glottocode: yems1235
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Yemsa"
+wikidata_id: Q36873
 wikipedia_url: "https://en.wikipedia.org/wiki/Yemsa_language"
 translations:
   - translation_iso: ara

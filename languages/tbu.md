@@ -6,12 +6,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 29.99999
 longitude: -110.99999
 glottocode: tuba1279
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Tubar"
+wikidata_id: Q56730
 wikipedia_url: "https://en.wikipedia.org/wiki/Tubar_language"
 translations:
   - translation_iso: ara

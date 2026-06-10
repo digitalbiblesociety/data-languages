@@ -7,12 +7,15 @@ population: 200
 country_id: NG
 country_name: Nigeria
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 7.03256
 longitude: 10.09794
 glottocode: kapy1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Kapya"
+wikidata_id: Q6367410
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapya_language"
 translations:
   - translation_iso: ara

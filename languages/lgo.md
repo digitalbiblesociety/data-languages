@@ -5,8 +5,11 @@ autonym: Lango–Logire–Logir
 population: 38000
 country_id: SS
 country_name: South Sudan
+scope: individual
+language_type: living
 latitude: 4.04948
 longitude: 33.0412
+wikidata_id: Q223306
 wikipedia_url: "https://en.wikipedia.org/wiki/Lango_language_(South_Sudan)"
 translations:
   - translation_iso: ara

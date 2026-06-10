@@ -7,12 +7,15 @@ population: 107900
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.789283
 longitude: 92.325463
 glottocode: fala1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Falamic > Falam Chin"
+wikidata_id: Q56815
 wikipedia_url: "https://en.wikipedia.org/wiki/Falam_language"
 translations:
   - translation_iso: ara

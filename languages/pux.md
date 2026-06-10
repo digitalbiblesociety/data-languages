@@ -7,12 +7,15 @@ population: 35
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.90121
 longitude: 141.71469
 glottocode: puar1240
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Puare"
+wikidata_id: Q3507983
 wikipedia_url: "https://en.wikipedia.org/wiki/Puari_language"
 translations:
   - translation_iso: ara

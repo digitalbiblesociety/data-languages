@@ -7,9 +7,12 @@ population: 140
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -4.95072
 longitude: 141.97768
 glottocode: suar1238
+wikidata_id: Q7630513
 wikipedia_url: "https://en.wikipedia.org/wiki/Suarmin_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 96460
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.261507
 longitude: -15.74389
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mank1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Mankanya"
+wikidata_id: Q35789
 wikipedia_url: "https://en.wikipedia.org/wiki/Mankanya_language"
 translations:
   - translation_iso: ara

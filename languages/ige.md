@@ -7,12 +7,15 @@ population: 438000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.95522
 longitude: 8.27362
 glottocode: iged1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Igede"
+wikidata_id: Q35420
 wikipedia_url: "https://en.wikipedia.org/wiki/Igede_language"
 translations:
   - translation_iso: ara

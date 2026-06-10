@@ -6,10 +6,13 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 glottocode: mich1247
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Michigamea"
+wikidata_id: Q12636809
 wikipedia_url: "https://en.wikipedia.org/wiki/Mitchigamea_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2500
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.45068
 longitude: 29.10797
 glottocode: tuli1249
 glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Tulishi"
+wikidata_id: Q12911106
 wikipedia_url: "https://en.wikipedia.org/wiki/Tulishi_language"
 translations:
   - translation_iso: ara

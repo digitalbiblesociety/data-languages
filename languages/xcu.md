@@ -6,6 +6,9 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q35857
 wikipedia_url: "https://en.wikipedia.org/wiki/Curonian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6560
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.74608
 longitude: 18.2999
 glottocode: mawa1270
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Mawa (Chad)"
+wikidata_id: Q3441333
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawa_language_(Chad)"
 translations:
   - translation_iso: ara

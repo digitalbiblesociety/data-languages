@@ -6,9 +6,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 25.911609
 longitude: -97.39563
 glottocode: coto1248
+wikidata_id: Q56889
 wikipedia_url: "https://en.wikipedia.org/wiki/Cotoname_language"
 translations:
   - translation_iso: ara

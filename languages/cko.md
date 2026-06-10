@@ -7,12 +7,15 @@ population: 177200
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.283893
 longitude: 0.56021
 glottocode: anuf1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Bia > Northern Bia > Anufo"
+wikidata_id: Q34845
 wikipedia_url: "https://en.wikipedia.org/wiki/Anufo_language"
 translations:
   - translation_iso: ara

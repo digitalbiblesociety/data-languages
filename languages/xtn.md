@@ -7,12 +7,15 @@ population: 5790
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.48058
 longitude: -97.8349
 glottocode: nort2985
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Northern Tlaxiaco Mixtec"
+wikidata_id: Q25559585
 translations:
   - translation_iso: ara
     name: ميكستيك تلاكسياكو الشمالية

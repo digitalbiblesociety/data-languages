@@ -7,12 +7,15 @@ population: 3
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.98572
 longitude: -60.33498
 glottocode: saba1268
 glottolog_family_id: namb1299
 glottolog_family_name: Nambiquaran
 glottolog_classification: "Nambiquaran > Sabanê"
+wikidata_id: Q3460478
 wikipedia_url: "https://en.wikipedia.org/wiki/Saban%C3%AA_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1250
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.88037
 longitude: 149.55656
 glottocode: miuu1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Southwest New Britain linkage > Arawe-Pasismanua > Pasismanua > Miu"
+wikidata_id: Q6883668
 wikipedia_url: "https://en.wikipedia.org/wiki/Miu_language"
 translations:
   - translation_iso: ara

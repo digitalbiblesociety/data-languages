@@ -7,12 +7,15 @@ population: 280
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.62349
 longitude: 126.57638
 glottocode: pera1257
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Wetar-Atauro > Wetar > Perai-Tugun-Aputai > Perai-Aputai > Perai"
+wikidata_id: Q12953035
 translations:
   - translation_iso: ara
     name: پيراي

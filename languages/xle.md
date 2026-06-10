@@ -6,10 +6,13 @@ population: null
 country_id: GR
 country_name: Greece
 status_id: null
+scope: individual
+language_type: historical
 glottocode: lemn1237
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Lemnian"
+wikidata_id: Q36203
 wikipedia_url: "https://en.wikipedia.org/wiki/Lemnian_language"
 translations:
   - translation_iso: ara

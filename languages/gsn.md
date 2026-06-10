@@ -6,12 +6,15 @@ population: 790
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.28998
 longitude: 146.67886
 glottocode: gusa1246
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Gusan"
+wikidata_id: Q11732224
 wikipedia_url: "https://en.wikipedia.org/wiki/Nema_language"
 translations:
   - translation_iso: ara

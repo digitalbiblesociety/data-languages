@@ -7,12 +7,15 @@ population: 6170
 country_id: AU
 country_name: Australia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -11.066
 longitude: 142.692
 glottocode: torr1261
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Early Melanesian Pidgin > Torres Strait-Lockhart River Creole"
+wikidata_id: Q36648
 wikipedia_url: "https://en.wikipedia.org/wiki/Torres_Strait_Creole"
 translations:
   - translation_iso: ara

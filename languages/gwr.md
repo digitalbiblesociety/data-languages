@@ -7,12 +7,15 @@ population: 621000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.11392
 longitude: 33.82265
 glottocode: gwer1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > North Nyanza > South Kyoga > East Kyoga > Gwere"
+wikidata_id: Q5623559
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwere_language"
 translations:
   - translation_iso: ara

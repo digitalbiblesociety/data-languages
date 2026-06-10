@@ -7,12 +7,15 @@ population: 250000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 25.226
 longitude: 101.302
 glottocode: lipo1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Lipo-Lolopo > Lipo-Micha > Lipo"
+wikidata_id: Q56921
 wikipedia_url: "https://en.wikipedia.org/wiki/Lipo_language"
 translations:
   - translation_iso: ara

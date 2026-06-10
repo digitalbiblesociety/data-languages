@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -25.55498
 longitude: 146.14726
 glottocode: bidy1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Southern Maric > Bidyaric > Bidyara"
+wikidata_id: Q8842355
 translations:
   - translation_iso: ara
     name: بيجاارا

@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.71731
 longitude: 143.93712
 glottocode: nanu1240
 glottolog_family_id: araf1243
 glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Nanubae-Imangae"
+wikidata_id: Q6964416
 wikipedia_url: "https://en.wikipedia.org/wiki/Nanubae_language"
 translations:
   - translation_iso: ara

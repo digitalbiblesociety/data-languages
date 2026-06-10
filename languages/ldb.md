@@ -7,12 +7,15 @@ population: 78000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.12585
 longitude: 7.77525
 glottocode: idun1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > West-Central Benue-Congo Plateau > Northwestern Benue-Congo Plateau > Koroic > Duyaic > Dũya"
+wikidata_id: Q3914441
 wikipedia_url: "https://en.wikipedia.org/wiki/Idun_language"
 translations:
   - translation_iso: ara

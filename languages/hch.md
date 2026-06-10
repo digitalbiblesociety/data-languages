@@ -7,12 +7,15 @@ population: 52500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.95399
 longitude: -104.06228
 glottocode: huic1243
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Huichol"
+wikidata_id: Q35575
 wikipedia_url: "https://en.wikipedia.org/wiki/Huichol_language"
 translations:
   - translation_iso: ara

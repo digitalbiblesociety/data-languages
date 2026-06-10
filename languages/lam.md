@@ -7,6 +7,8 @@ population: 201000
 country_id: ZM
 country_name: Zambia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -12.336595
 longitude: 27.90262
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lamb1271
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Central Sabi > Bisa-Lamba (M.50) > Lamba"
+wikidata_id: Q36098
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamba_language"
 translations:
   - translation_iso: ara

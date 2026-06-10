@@ -7,12 +7,15 @@ population: 4280
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 45.368
 longitude: -107.87403
 glottocode: crow1244
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Missouri River Siouan > Crow"
+wikidata_id: Q1207611
 wikipedia_url: "https://en.wikipedia.org/wiki/Crow_language"
 translations:
   - translation_iso: ara

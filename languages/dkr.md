@@ -7,12 +7,15 @@ population: 7910
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.47179
 longitude: 116.10842
 glottocode: kuij1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kuijau"
+wikidata_id: Q13580777
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuijau_language"
 translations:
   - translation_iso: ara

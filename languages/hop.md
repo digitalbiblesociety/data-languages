@@ -7,6 +7,8 @@ population: 6080
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.76526
 longitude: -110.53483
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: hopi1249
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Hopi"
+wikidata_id: Q56421
 wikipedia_url: "https://en.wikipedia.org/wiki/Hopi_language"
 translations:
   - translation_iso: ara

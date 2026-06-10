@@ -7,12 +7,15 @@ population: 50500
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.881655
 longitude: 15.14194
 glottocode: kera1255
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.3 > Kera"
+wikidata_id: Q56251
 wikipedia_url: "https://en.wikipedia.org/wiki/Kera_language"
 translations:
   - translation_iso: ara

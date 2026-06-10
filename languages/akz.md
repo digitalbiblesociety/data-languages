@@ -7,6 +7,8 @@ population: 100
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 30.76738
 longitude: -94.62848
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: alab1237
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean
 glottolog_classification: "Muskogean > Alabaman-Koasati > Alabama"
+wikidata_id: Q1815020
 wikipedia_url: "https://en.wikipedia.org/wiki/Alabama_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1060
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.2965
 longitude: 78.52868
 glottocode: chit1279
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Chhitkul-Rakchham"
+wikidata_id: Q15615982
 wikipedia_url: "https://en.wikipedia.org/wiki/Chitkuli_Kinnauri_language"
 translations:
   - translation_iso: ara

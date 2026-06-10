@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -32
 longitude: 134
 glottocode: wira1265
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Arandic-Thura-Yura > Thura-Yura > Wirangu"
+wikidata_id: Q2092286
 wikipedia_url: "https://en.wikipedia.org/wiki/Wirangu_language"
 translations:
   - translation_iso: ara

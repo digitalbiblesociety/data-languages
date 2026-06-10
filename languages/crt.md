@@ -7,12 +7,15 @@ population: 800
 country_id: AR
 country_name: Argentina
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -22.1896
 longitude: -63.23831
 glottocode: iyoj1235
 glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Chorote > Riverine Chorote"
+wikidata_id: Q3504118
 wikipedia_url: "https://en.wikipedia.org/wiki/Iyojwa%CA%BCja_Chorote"
 translations:
   - translation_iso: ara

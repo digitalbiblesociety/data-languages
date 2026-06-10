@@ -7,12 +7,15 @@ population: 5000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.23655
 longitude: 9.52275
 glottocode: bass1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Lundu-Balong (A.10) > Greater Manenguba > Bafaw-Balong-Manenguba > Manenguba > Bassossi"
+wikidata_id: Q34940
 wikipedia_url: "https://en.wikipedia.org/wiki/Sosi_language"
 translations:
   - translation_iso: ara

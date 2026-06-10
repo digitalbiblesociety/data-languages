@@ -7,12 +7,15 @@ population: 4440
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.23323
 longitude: 84.92899
 glottocode: nort2709
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Ghale > Nuclear Ghale > Northern Ghale"
+wikidata_id: Q22662104
 translations:
   - translation_iso: ara
     name: نورثإرن غآلإ

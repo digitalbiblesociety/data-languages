@@ -1,5 +1,6 @@
 ---
 iso: liw
+macrolanguage_id: msa
 name: Col
 autonym: Base Lembak
 alt_names: [Co, Cor, Cul, Dot, Kol, Kor, Lembak, Linggau, Sindang, Yot]
@@ -7,12 +8,15 @@ population: 145000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.52245
 longitude: 103.45136
 glottocode: coll1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Central Sumatran Malay > Music > Col"
+wikidata_id: Q2981948
 wikipedia_url: "https://en.wikipedia.org/wiki/Col_language"
 translations:
   - translation_iso: ara

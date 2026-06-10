@@ -7,6 +7,8 @@ population: 410000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.12127
 longitude: 84.19005
 scripts: [Latn, Sora]
@@ -14,6 +16,7 @@ glottocode: sora1254
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Sora-Juray-Gorum > Sora-Juray > Sora"
+wikidata_id: Q13284
 wikipedia_url: "https://en.wikipedia.org/wiki/Sora_language"
 translations:
   - translation_iso: ara

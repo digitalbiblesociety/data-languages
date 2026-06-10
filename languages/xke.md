@@ -7,12 +7,15 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.64649
 longitude: 113.64401
 glottocode: kere1285
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Muller-Schwaner > Hovongan-Kereho > Kereho"
+wikidata_id: Q6437086
 wikipedia_url: "https://en.wikipedia.org/wiki/Krio_Dayak_language"
 translations:
   - translation_iso: ara

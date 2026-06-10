@@ -7,12 +7,15 @@ population: 30000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.43829
 longitude: 11.41953
 glottocode: came1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Eastern Mambila > Donga Mambila"
+wikidata_id: Q19359039
 translations:
   - translation_iso: ara
     name: لغة مامبيلا الكاميرون

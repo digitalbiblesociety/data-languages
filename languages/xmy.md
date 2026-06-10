@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -18.11468
 longitude: 140.33745
 glottocode: maya1280
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Mayabic > Mayaguduna"
+wikidata_id: Q3436736
 wikipedia_url: "https://en.wikipedia.org/wiki/Mayi-Kutuna_language"
 translations:
   - translation_iso: ara

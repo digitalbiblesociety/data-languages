@@ -7,12 +7,15 @@ population: 5000
 country_id: TH
 country_name: Thailand
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 12.52181
 longitude: 102.513715
 glottocode: chon1284
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Pearic > Western Pearic > Chong of Chanthaburi"
+wikidata_id: Q3914630
 wikipedia_url: "https://en.wikipedia.org/wiki/Chong_language"
 translations:
   - translation_iso: ara

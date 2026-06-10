@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.29959
 longitude: 135.7048
 glottocode: wand1263
 glottolog_family_id: mang1423
 glottolog_family_name: Mangarrayi-Maran
 glottolog_classification: "Mangarrayi-Maran > Maran > Wandarang"
+wikidata_id: Q3913767
 wikipedia_url: "https://en.wikipedia.org/wiki/Warndarrang_language"
 translations:
   - translation_iso: ara

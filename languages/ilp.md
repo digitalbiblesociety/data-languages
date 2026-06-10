@@ -6,6 +6,9 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63214936
 translations:
   - translation_iso: ara
     name: إيرانون

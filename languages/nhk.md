@@ -7,12 +7,15 @@ population: 5140
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 17.94005
 longitude: -94.73466
 glottocode: isth1240
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Isthmus-Cosoleacaque Nahuatl"
+wikidata_id: Q12953757
 translations:
   - translation_iso: ara
     name: إستموس كوسوليكاكاوي ناهواتل

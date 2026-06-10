@@ -7,6 +7,8 @@ population: 416000
 country_id: CO
 country_name: Colombia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.22515
 longitude: -71.81012
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: wayu1243
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Caribbean Arawakan > Guajiro-Paraujano > Wayuu"
+wikidata_id: Q891085
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayuu_language"
 translations:
   - translation_iso: ara

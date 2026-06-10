@@ -7,12 +7,15 @@ population: 120
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 63.40459
 longitude: -143.3381
 glottocode: tana1290
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Tanana-Tutchone > Tananaic > Upper Tananaic > Tanacross"
+wikidata_id: Q28268
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanacross_language"
 translations:
   - translation_iso: ara

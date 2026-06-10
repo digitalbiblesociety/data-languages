@@ -7,12 +7,15 @@ population: 320
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.30338
 longitude: 134.40953
 glottocode: lora1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Central Aru > Lorang"
+wikidata_id: Q6678781
 wikipedia_url: "https://en.wikipedia.org/wiki/Lorang_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 700
 country_id: TH
 country_name: Thailand
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 20.85416
 longitude: 99.98623
 glottocode: bisu1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Bisoid > Singsali-Bisu > Bisu-Pyen-Laomian > Bisu"
+wikidata_id: Q56852
 wikipedia_url: "https://en.wikipedia.org/wiki/Bisu_language"
 translations:
   - translation_iso: ara

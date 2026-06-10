@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 38
 longitude: 36
 glottocode: cune1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Luvian > Cuneiform Luwian"
+wikidata_id: Q12634577
 wikipedia_url: "https://en.wikipedia.org/wiki/Cuneiform_Luwian"
 translations:
   - translation_iso: ara

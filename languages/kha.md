@@ -7,6 +7,8 @@ population: 1050000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 24.97703
 longitude: 91.999805
 scripts: [Beng, Latn]
@@ -14,6 +16,7 @@ glottocode: khas1269
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Khasian > Khasi-Pnar-Lyngngam > Khasi-Pnar > Khasi"
+wikidata_id: Q33584
 wikipedia_url: "https://en.wikipedia.org/wiki/Khasi_language"
 translations:
   - translation_iso: ara

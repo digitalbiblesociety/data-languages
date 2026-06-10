@@ -6,6 +6,9 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
+wikidata_id: Q3343229
 wikipedia_url: "https://en.wikipedia.org/wiki/Nomlaki_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.203
 longitude: 28.182
 scripts: [Cari]
@@ -14,6 +16,7 @@ glottocode: cari1274
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Lyco-Carian > Milyan-Carian > Carian"
+wikidata_id: Q35929
 wikipedia_url: "https://en.wikipedia.org/wiki/Carian_language"
 translations:
   - translation_iso: ara

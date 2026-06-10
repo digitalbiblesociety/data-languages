@@ -7,12 +7,15 @@ population: 6530
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.82967
 longitude: 84.13573
 glottocode: kumh1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Unclassified Bihari > Kumhali"
+wikidata_id: Q13580783
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumhali_language"
 translations:
   - translation_iso: ara

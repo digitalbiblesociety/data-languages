@@ -7,12 +7,15 @@ population: 8000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.28957
 longitude: 144.84163
 glottocode: arua1260
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ruboni > Mikarewan > Aruamu"
+wikidata_id: Q3501809
 wikipedia_url: "https://en.wikipedia.org/wiki/Aruamu_language"
 translations:
   - translation_iso: ara

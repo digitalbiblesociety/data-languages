@@ -7,12 +7,15 @@ population: 10
 country_id: ID
 country_name: Indonesia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -3.67727
 longitude: 128.7762
 glottocode: nusa1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > East Piru Bay > Solehua > Seram Straits > Uliase > Hatuhaha > Saparuan > Elpaputi > Nusa Laut"
+wikidata_id: Q7070332
 wikipedia_url: "https://en.wikipedia.org/wiki/Nusa_Laut_language"
 translations:
   - translation_iso: ara

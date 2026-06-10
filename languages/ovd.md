@@ -6,6 +6,9 @@ population: 2000
 country_id: SE
 country_name: Sweden
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q254950
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96vdalian"
 translations:
   - translation_iso: ara

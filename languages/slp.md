@@ -7,12 +7,15 @@ population: 225000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -8.36439
 longitude: 122.80341
 glottocode: lama1277
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Barat > Flores Lamaholot > Lamaholot"
+wikidata_id: Q6480777
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamaholot_language"
 translations:
   - translation_iso: ara

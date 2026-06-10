@@ -7,12 +7,15 @@ population: 2500
 country_id: CO
 country_name: Colombia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 13.35
 longitude: -81.37
 glottocode: prov1243
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Providencia-Cayman Sign > Providencia Sign Language"
+wikidata_id: Q3322084
 wikipedia_url: "https://en.wikipedia.org/wiki/Providence_Island_Sign_Language"
 translations:
   - translation_iso: ara

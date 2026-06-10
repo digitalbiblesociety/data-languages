@@ -7,12 +7,15 @@ population: 15400
 country_id: SN
 country_name: Senegal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.77612
 longitude: -16.50265
 glottocode: gusi1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Gusilay-Bandial > Gusilay"
+wikidata_id: Q35439
 wikipedia_url: "https://en.wikipedia.org/wiki/Gusilay_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 22300
 country_id: AZ
 country_name: Azerbaijan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41.59156
 longitude: 46.88585
 scripts: [Cyrl, Latn]
@@ -14,6 +16,7 @@ glottocode: tsak1249
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Western Samur > Tsakhur"
+wikidata_id: Q36853
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsakhur_language"
 translations:
   - translation_iso: ara

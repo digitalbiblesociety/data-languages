@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 12.36294
 longitude: 92.80108
 glottocode: akab1248
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > North Andamanese-Akakede > Northern Great Andamanese > Bo-Cari > Akabo"
+wikidata_id: Q35361
 wikipedia_url: "https://en.wikipedia.org/wiki/Akabo_dialect"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 100
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.79301
 longitude: 136.03841
 glottocode: bura1276
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Burate-Wate > Burate"
+wikidata_id: Q56900
 wikipedia_url: "https://en.wikipedia.org/wiki/Burate_language"
 translations:
   - translation_iso: ara

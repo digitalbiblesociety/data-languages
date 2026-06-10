@@ -7,9 +7,12 @@ population: null
 country_id: CO
 country_name: Colombia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 2.74999
 longitude: -75.99999
 glottocode: anda1286
+wikidata_id: Q2846078
 wikipedia_url: "https://en.wikipedia.org/wiki/Andaqui_language"
 translations:
   - translation_iso: ara

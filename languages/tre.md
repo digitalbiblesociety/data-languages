@@ -7,12 +7,15 @@ population: 3780
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.76213
 longitude: 134.2884
 glottocode: east2465
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > East Tarangan"
+wikidata_id: Q18609750
 translations:
   - translation_iso: ara
     name: تارانغان الشرقية

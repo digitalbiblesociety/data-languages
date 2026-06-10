@@ -7,12 +7,15 @@ population: 2000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.26847
 longitude: -4.47303
 glottocode: mobu1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Aizi > Mobumrin Aizi"
+wikidata_id: Q35967
 wikipedia_url: "https://en.wikipedia.org/wiki/Mobu_language"
 translations:
   - translation_iso: ara

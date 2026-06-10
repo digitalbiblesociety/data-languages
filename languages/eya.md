@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 60.4232
 longitude: -144.76186
 glottocode: eyak1241
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Eyak"
+wikidata_id: Q27480
 wikipedia_url: "https://en.wikipedia.org/wiki/Eyak_language"
 translations:
   - translation_iso: ara

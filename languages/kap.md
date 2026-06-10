@@ -7,12 +7,15 @@ population: 6200
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 42.1206
 longitude: 46.03319
 glottocode: bezh1248
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > East Tsezic > Bezhta"
+wikidata_id: Q33054
 wikipedia_url: "https://en.wikipedia.org/wiki/Bezhta_language"
 translations:
   - translation_iso: ara

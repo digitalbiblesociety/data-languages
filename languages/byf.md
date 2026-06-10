@@ -6,12 +6,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 7.02128
 longitude: 9.74302
 glottocode: bete1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Yukubenic > Bete-Lufu > Bete (Yukubenic)"
+wikidata_id: Q32932
 wikipedia_url: "https://en.wikipedia.org/wiki/Bete_language_(Nigeria)"
 translations:
   - translation_iso: ara

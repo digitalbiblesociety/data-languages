@@ -7,12 +7,15 @@ population: 75
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 38.39406
 longitude: -99.24989
 glottocode: plai1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Plains Indian Sign Language"
+wikidata_id: Q2380124
 wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language"
 translations:
   - translation_iso: ara

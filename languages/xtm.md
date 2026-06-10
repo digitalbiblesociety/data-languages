@@ -7,12 +7,15 @@ population: 7350
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.28374
 longitude: -97.54133
 glottocode: magd1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Tlaxiacic > Magdalena Peñasco Mixtec"
+wikidata_id: Q7179700
 wikipedia_url: "https://en.wikipedia.org/wiki/Pe%C3%B1asco_Mixtec"
 translations:
   - translation_iso: ara

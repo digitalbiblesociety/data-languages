@@ -7,12 +7,15 @@ population: 2700
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.36877
 longitude: 147.07916
 glottocode: koit1244
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Koita-Koiari > Koitabu"
+wikidata_id: Q6426363
 wikipedia_url: "https://en.wikipedia.org/wiki/Koita_language"
 translations:
   - translation_iso: ara

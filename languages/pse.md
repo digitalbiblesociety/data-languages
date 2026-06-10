@@ -1,5 +1,6 @@
 ---
 iso: pse
+macrolanguage_id: msa
 name: Central Malay
 autonym: Middle Malay
 alt_names: [Bengkulu, Besemah, Enim, Lintang, "Malay, Central", Midden Maleisch, Ogan, Pasemah, Semendo, Serawai]
@@ -7,12 +8,15 @@ population: 1590000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.79673
 longitude: 103.13721
 glottocode: cent2053
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > South Sumatra Malay > South Barisan Malay"
+wikidata_id: Q3367751
 wikipedia_url: "https://en.wikipedia.org/wiki/South_Barisan_Malay"
 translations:
   - translation_iso: ara

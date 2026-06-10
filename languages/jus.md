@@ -6,12 +6,15 @@ population: 100
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 29.275278
 longitude: 82.183333
 glottocode: juml1239
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Jumla Sign Language"
+wikidata_id: Q6310991
 wikipedia_url: "https://en.wikipedia.org/wiki/Jumla_Sign_Language"
 translations:
   - translation_iso: ara

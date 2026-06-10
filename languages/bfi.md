@@ -7,12 +7,15 @@ population: 87090
 country_id: GB
 country_name: United Kingdom
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 51.66878
 longitude: -0.4431
 glottocode: brit1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > BANZSL > British Sign Language"
+wikidata_id: Q33000
 wikipedia_url: "https://en.wikipedia.org/wiki/British_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2000
 country_id: FM
 country_name: Micronesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.20743
 longitude: 160.71064
 glottocode: ping1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Micronesian > Central Micronesian > Western Micronesian > Chuukic-Ponapeic > Ponapeic > Pingelapese"
+wikidata_id: Q36421
 wikipedia_url: "https://en.wikipedia.org/wiki/Pingelapese_language"
 translations:
   - translation_iso: ara

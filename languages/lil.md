@@ -7,6 +7,8 @@ population: 200
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 50.72722
 longitude: -122.04027
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: lill1248
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Lillooet"
+wikidata_id: Q34154
 wikipedia_url: "https://en.wikipedia.org/wiki/Lillooet_language"
 translations:
   - translation_iso: ara

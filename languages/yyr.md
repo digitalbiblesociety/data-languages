@@ -6,6 +6,8 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 translations:
   - translation_iso: ara
     name: لغة يير يورونت

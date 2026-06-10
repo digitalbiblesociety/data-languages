@@ -7,12 +7,15 @@ population: 300
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.24449
 longitude: -66.30681
 glottocode: nade1244
 glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
 glottolog_classification: "Naduhup > Nadëb"
+wikidata_id: Q3335011
 wikipedia_url: "https://en.wikipedia.org/wiki/Nad%C3%ABb_language"
 translations:
   - translation_iso: ara

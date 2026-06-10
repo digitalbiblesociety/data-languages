@@ -7,12 +7,15 @@ population: 147000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.72582
 longitude: -7.6104
 glottocode: woje1238
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > East Manding > Maninka-Mori > Wojenaka"
+wikidata_id: Q11029540
 translations:
   - translation_iso: ara
     name: لغة وويينياكا

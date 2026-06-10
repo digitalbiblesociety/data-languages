@@ -6,10 +6,13 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 glottocode: yugu1250
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Mangarrayi-Maran (Unattested) > Yugul"
+wikidata_id: Q8060437
 wikipedia_url: "https://en.wikipedia.org/wiki/Yugul_language"
 translations:
   - translation_iso: ara

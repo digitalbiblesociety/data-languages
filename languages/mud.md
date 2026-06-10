@@ -7,12 +7,15 @@ population: 3
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 54.66014
 longitude: 167.78194
 glottocode: medn1235
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Aleutic > Mednyj Aleut"
+wikidata_id: Q1977419
 wikipedia_url: "https://en.wikipedia.org/wiki/Mednyj_Aleut_language"
 translations:
   - translation_iso: ara

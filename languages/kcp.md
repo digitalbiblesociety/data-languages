@@ -7,12 +7,15 @@ population: 8000
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.01742
 longitude: 29.34628
 glottocode: kang1288
 glottolog_family_id: kadu1256
 glottolog_family_name: Kadugli-Krongo
 glottolog_classification: "Kadugli-Krongo > Central-Western Kadugli-Krongo > Katcha-Kadugli-Miri-Kanga > Kanga"
+wikidata_id: Q6362384
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanga_language"
 translations:
   - translation_iso: ara

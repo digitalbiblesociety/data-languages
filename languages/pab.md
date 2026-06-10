@@ -7,12 +7,15 @@ population: 1800
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -14.59295
 longitude: -57.40595
 glottocode: pare1272
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xaray > Parecis-Nawe > Parecís"
+wikidata_id: Q3504312
 wikipedia_url: "https://en.wikipedia.org/wiki/Paresi_language"
 translations:
   - translation_iso: ara

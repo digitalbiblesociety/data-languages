@@ -7,12 +7,15 @@ population: 100
 country_id: "NO"
 country_name: Norway
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 62.62172
 longitude: 9.48913
 glottocode: trav1236
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Indo-European Speech Register > Scandinavian Romani > Traveller Norwegian"
+wikidata_id: Q3177352
 wikipedia_url: "https://en.wikipedia.org/wiki/Rodi_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 2.13058
 longitude: 128.26063
 glottocode: gora1261
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > Gorap"
+wikidata_id: Q3110816
 wikipedia_url: "https://en.wikipedia.org/wiki/Gorap_language"
 translations:
   - translation_iso: ara

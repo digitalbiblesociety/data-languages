@@ -6,10 +6,13 @@ population: 9000
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: constructed
 glottocode: klin1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Klingon"
+wikidata_id: Q10134
 wikipedia_url: "https://en.wikipedia.org/wiki/Klingon_language"
 translations:
   - translation_iso: ara

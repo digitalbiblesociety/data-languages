@@ -7,12 +7,15 @@ population: 1010
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.34582
 longitude: -71.2671
 glottocode: maca1259
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Hitnu"
+wikidata_id: Q3273980
 wikipedia_url: "https://en.wikipedia.org/wiki/Macagu%C3%A1n_language"
 translations:
   - translation_iso: ara

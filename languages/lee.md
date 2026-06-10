@@ -7,12 +7,15 @@ population: 213000
 country_id: BF
 country_name: Burkina Faso
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.4305
 longitude: -2.59229
 glottocode: lyel1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Lyélé"
+wikidata_id: Q3089032
 wikipedia_url: "https://en.wikipedia.org/wiki/Ly%C3%A9l%C3%A9_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -15.538
 longitude: 143.349
 glottocode: ikar1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Central Alaya-Athima > Ikaranggal"
+wikidata_id: Q5995402
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikarranggal_language"
 translations:
   - translation_iso: ara

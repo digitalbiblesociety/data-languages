@@ -7,12 +7,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.56324
 longitude: 5.89556
 glottocode: arig1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Arigidi"
+wikidata_id: Q34829
 wikipedia_url: "https://en.wikipedia.org/wiki/Akoko_language"
 translations:
   - translation_iso: ara

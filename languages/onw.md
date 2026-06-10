@@ -7,12 +7,15 @@ population: null
 country_id: EG
 country_name: Egypt
 status_id: null
+scope: individual
+language_type: historical
 latitude: 18.760713
 longitude: 31.748657
 glottocode: oldn1245
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Nile Nubian > Nobiin Nubian > Old Nubian"
+wikidata_id: Q2268
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Nubian"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 24700
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.63304
 longitude: 10.99428
 glottocode: mfum1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Mbam-Nkam > Nkambe > Mfumteic > Central-Southern Mfumte > Southern Mfumte"
+wikidata_id: Q6826794
 wikipedia_url: "https://en.wikipedia.org/wiki/Mfumte_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: null
 country_id: IQ
 country_name: Iraq
 status_id: null
+scope: individual
+language_type: historical
 latitude: 33.1
 longitude: 44.1
 scripts: [Xsux]
@@ -14,6 +16,7 @@ glottocode: akka1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > East Semitic > Akkadian"
+wikidata_id: Q35518
 wikipedia_url: "https://en.wikipedia.org/wiki/Akkadian_language"
 translations:
   - translation_iso: ara

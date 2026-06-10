@@ -1,5 +1,6 @@
 ---
 iso: csw
+macrolanguage_id: cre
 name: Swampy Cree
 autonym: ᓀᐦᐃᓇᐍᐏᐣ / Nêhinawêwin
 alt_names: ["Cree, Swampy", Kreeg ar gwernioù, Myr-cree-språket]
@@ -7,6 +8,8 @@ population: 4500
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 56
 longitude: -95
 scripts: [Cans]
@@ -14,6 +17,7 @@ glottocode: swam1239
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Cree > Swampy Cree"
+wikidata_id: Q56696
 wikipedia_url: "https://en.wikipedia.org/wiki/Swampy_Cree_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: tah
+iso639_1: ty
 name: Tahitian
 autonym: Reo TahitiReo Māꞌohi
 alt_names: [Tahiti, Tahiti simi, Tahitiaans, Tahitieg, Tahitien, Tahitisk, Tahitiska, Tahitià, Tahityan, Tahitïeg, ‘Ōlelo Kahiki]
@@ -7,6 +8,8 @@ population: 68610
 country_id: PF
 country_name: French Polynesia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -17.648472
 longitude: -149.450226
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: tahi1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > East Polynesian > East Polynesian Proximal > Southern East Polynesian Proximal > Tahitian-Austral > Tahitian"
+wikidata_id: Q34128
 wikipedia_url: "https://en.wikipedia.org/wiki/Tahitian_language"
 translations:
   - translation_iso: ara

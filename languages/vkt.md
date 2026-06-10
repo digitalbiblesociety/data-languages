@@ -1,5 +1,6 @@
 ---
 iso: vkt
+macrolanguage_id: msa
 name: Tenggarong Kutai Malay
 autonym: Kutai
 alt_names: [Malay, Malay (Tenggarong Kutai), "Malay, Tenggarong Kutai", Tenggarong]
@@ -7,12 +8,15 @@ population: 210000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.71803
 longitude: 117.64535
 glottocode: teng1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Tenggarong Kutai Malay"
+wikidata_id: Q12683226
 translations:
   - translation_iso: ara
     name: تيناجارونج كوتاي ملايو

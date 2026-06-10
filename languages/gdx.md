@@ -7,12 +7,15 @@ population: 3000000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 24.885
 longitude: 72.846
 glottocode: godw1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewati-Gojri > Godwari"
+wikidata_id: Q3540922
 wikipedia_url: "https://en.wikipedia.org/wiki/Godwari_dialect"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1250
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.26505
 longitude: 145.76404
 glottocode: bilb1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Bilibil"
+wikidata_id: Q4907473
 wikipedia_url: "https://en.wikipedia.org/wiki/Bilibil_language"
 translations:
   - translation_iso: ara

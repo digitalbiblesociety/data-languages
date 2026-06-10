@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -13.47664
 longitude: 133.0231
 glottocode: urni1239
 glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
 glottolog_classification: "Giimbiyu > Urninganggic > Urningangg"
+wikidata_id: Q10710522
 translations:
   - translation_iso: ara
     name: أورننجانج

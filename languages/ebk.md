@@ -1,5 +1,6 @@
 ---
 iso: ebk
+macrolanguage_id: bnc
 name: Eastern Bontok
 autonym: Finallig
 alt_names: ["Bontok, Eastern"]
@@ -7,6 +8,9 @@ population: 6170
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
+wikidata_id: Q62664215
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Bontok_language"
 translations:
   - translation_iso: ara

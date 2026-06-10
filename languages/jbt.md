@@ -7,12 +7,15 @@ population: 40
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.03802
 longitude: -64.66937
 glottocode: djeo1235
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Jabuti > Djeoromitxí"
+wikidata_id: Q2060023
 wikipedia_url: "https://en.wikipedia.org/wiki/Djeoromitx%C3%AD_language"
 translations:
   - translation_iso: ara

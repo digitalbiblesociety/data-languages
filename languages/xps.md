@@ -6,12 +6,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.273
 longitude: 31.28
 glottocode: pisi1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Unclassified Luvic > Pisidian"
+wikidata_id: Q36580
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisidian_language"
 translations:
   - translation_iso: ara

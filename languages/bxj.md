@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -23.38088
 longitude: 114.10784
 glottocode: bayu1240
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Kanyara > Bayungu"
+wikidata_id: Q10427485
 wikipedia_url: "https://en.wikipedia.org/wiki/Bayungu_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ alt_names: [Interslavic zonal constructed language, medžuslovjansky jezyk, ме
 population: 7000
 country_id: CZ
 country_name: Czechia
+scope: individual
+language_type: constructed
 latitude: 49.07835
 longitude: 17.44454
 glottocode: inte1263
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > Interslavic zonal constructed language"
+wikidata_id: Q148971
 wikipedia_url: "https://en.wikipedia.org/wiki/Interslavic"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 347000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.16662
 longitude: 79.77728
 glottocode: pard1245
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Pardhan"
+wikidata_id: Q7133207
 wikipedia_url: "https://en.wikipedia.org/wiki/Pardhan_language"
 translations:
   - translation_iso: ara

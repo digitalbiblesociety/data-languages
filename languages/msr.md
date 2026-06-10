@@ -6,12 +6,15 @@ population: 10000
 country_id: MN
 country_name: Mongolia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 48.68518
 longitude: 107.5282
 glottocode: mong1264
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > RSLic > Nuclear RSLic > Mongolian Sign Language"
+wikidata_id: Q3915499
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongolian_Sign_Language"
 translations:
   - translation_iso: ara

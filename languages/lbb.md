@@ -6,12 +6,15 @@ population: 150
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.46971
 longitude: 152.67791
 glottocode: labe1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Label-Bilur > Label"
+wikidata_id: Q3214296
 wikipedia_url: "https://en.wikipedia.org/wiki/Label_language"
 translations:
   - translation_iso: ara

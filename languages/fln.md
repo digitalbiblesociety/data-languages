@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.18123
 longitude: 144.25927
 glottocode: flin1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Wik > Flinders-Barrow > Flinders Island"
+wikidata_id: Q3915702
 wikipedia_url: "https://en.wikipedia.org/wiki/Flinders_Island_language"
 translations:
   - translation_iso: ara

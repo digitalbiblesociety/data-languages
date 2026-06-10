@@ -7,12 +7,15 @@ population: 2900
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -1.62663
 longitude: 121.26817
 glottocode: batu1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Western Saluan-Banggai > Saluanic > Batui-Saluan > Batui"
+wikidata_id: Q16839143
 wikipedia_url: "https://en.wikipedia.org/wiki/Batui_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 1850
 country_id: SN
 country_name: Senegal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 12.5053
 longitude: -15.99689
+wikidata_id: Q36390
 translations:
   - translation_iso: ara
     name: اللغة بايانوك-ساميك

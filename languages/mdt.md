@@ -7,6 +7,8 @@ population: 151500
 country_id: CG
 country_name: Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -0.477445
 longitude: 14.287675
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mber1257
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > Kwilu-Ngounie > Kasai-Ngounie > Moyen Kasai-Ngounie > Interior Kasai-Ngounie > West Kasai-Ngounie > Northwest Kasai-Ngounie > Mbere (B.60) > Tsitsekeic > Lekaningic > Mbere-Mbamba"
+wikidata_id: Q36062
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbere_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 9570
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.61057
 longitude: -3.10033
 glottocode: kala1383
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > Northern Grusi > Kalamsé"
+wikidata_id: Q3914000
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalams%C3%A9_language"
 translations:
   - translation_iso: ara

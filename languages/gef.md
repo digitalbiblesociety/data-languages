@@ -7,6 +7,9 @@ population: 2000
 country_id: GR
 country_name: Greece
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q24841855
 wikipedia_url: "https://en.wikipedia.org/wiki/Gerai_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1359000
 country_id: TZ
 country_name: Tanzania
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.71018
 longitude: 33.77634
 glottocode: nyak1260
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Corridor Bantu > Nyakyusa-Ndali > Nyakyusa-Ngonde"
+wikidata_id: Q3272620
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyakyusa_language"
 translations:
   - translation_iso: ara

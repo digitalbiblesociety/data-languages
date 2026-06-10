@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -14.55903
 longitude: 143.97745
 glottocode: lamu1254
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Lamalamic > Coastal Lamalamic > Lamalama"
+wikidata_id: Q6482727
 wikipedia_url: "https://en.wikipedia.org/wiki/Lamalama_language"
 translations:
   - translation_iso: ara

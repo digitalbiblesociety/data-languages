@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -13.97832
 longitude: 133.93641
 glottocode: ngal1292
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Ngalkbun"
+wikidata_id: Q3913790
 wikipedia_url: "https://en.wikipedia.org/wiki/Dalabon_language"
 translations:
   - translation_iso: ara

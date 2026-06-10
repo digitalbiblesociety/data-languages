@@ -7,12 +7,15 @@ population: 19800
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.97237
 longitude: 6.13427
 glottocode: unem1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Afenmai-Bendel > Uneme-Yekhee > Uneme"
+wikidata_id: Q3913357
 wikipedia_url: "https://en.wikipedia.org/wiki/Uneme_language"
 translations:
   - translation_iso: ara

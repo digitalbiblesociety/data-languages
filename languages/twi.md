@@ -1,11 +1,16 @@
 ---
 iso: twi
+iso639_1: tw
+macrolanguage_id: aka
 name: Twi
 autonym: Akwapem Twi
 population: 24000
 country_id: GH
 country_name: Ghana
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q36850
 wikipedia_url: "https://en.wikipedia.org/wiki/Twi"
 translations:
   - translation_iso: ara

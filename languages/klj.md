@@ -7,12 +7,15 @@ population: 53900
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.42237
 longitude: 50.32223
 glottocode: turk1303
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Khalaj Turkic"
+wikidata_id: Q33455
 wikipedia_url: "https://en.wikipedia.org/wiki/Khalaj_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 40000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -6.03901
 longitude: 145.38723
 glottocode: alek1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Gahuku > Alekano"
+wikidata_id: Q3441595
 wikipedia_url: "https://en.wikipedia.org/wiki/Alekano_language"
 translations:
   - translation_iso: ara

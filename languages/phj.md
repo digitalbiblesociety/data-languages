@@ -4,12 +4,15 @@ name: Pahari
 population: 3500
 country_id: NP
 country_name: Nepal
+scope: individual
+language_type: living
 latitude: 27.566
 longitude: 85.318
 glottocode: paha1257
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Newaric > Newar > Pahari Newari"
+wikidata_id: Q112635957
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahari_language_(Sino-Tibetan)"
 translations:
   - translation_iso: ara

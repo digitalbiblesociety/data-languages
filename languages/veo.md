@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 34.176135
 longitude: -119.034576
 glottocode: vent1242
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan
 glottolog_classification: "Chumashan > Southern Chumashan > Central Chumashan > Ventureño"
+wikidata_id: Q56712
 wikipedia_url: "https://en.wikipedia.org/wiki/Venture%C3%B1o_language"
 translations:
   - translation_iso: ara

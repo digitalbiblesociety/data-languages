@@ -7,12 +7,15 @@ population: 12200
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.62109
 longitude: 106.8773
 glottocode: ngeq1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > Ta'oihic > Kriang-Khlor"
+wikidata_id: Q13018598
 translations:
   - translation_iso: ara
     name: كريانج

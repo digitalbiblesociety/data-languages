@@ -7,12 +7,15 @@ population: 20000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.05122
 longitude: 127.18035
 glottocode: kisa1266
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Luangic-Kisaric > Kisaric > Kisar"
+wikidata_id: Q3197441
 wikipedia_url: "https://en.wikipedia.org/wiki/Kisar_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 24000
 country_id: TW
 country_name: Taiwan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.02062
 longitude: 121.30519
 glottocode: taiw1241
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > JSLic > Taiwan Sign Language"
+wikidata_id: Q34019
 wikipedia_url: "https://en.wikipedia.org/wiki/Taiwan_Sign_Language"
 translations:
   - translation_iso: ara

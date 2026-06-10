@@ -6,12 +6,15 @@ population: 1500
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.79516
 longitude: 124.86921
 glottocode: tali1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Saluan-Banggai > Taliaboic > Taliabu"
+wikidata_id: Q3514498
 wikipedia_url: "https://en.wikipedia.org/wiki/Taliabo_language"
 translations:
   - translation_iso: ara

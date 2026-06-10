@@ -7,12 +7,15 @@ population: 1200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -6.12028
 longitude: 145.66459
 glottocode: abag1245
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Goroka > Nuclear Goroka > Siane-Yagaria > Kamano-Yagaria > Unclassified Kamano-Yagaria > Abaga"
+wikidata_id: Q3507954
 wikipedia_url: "https://en.wikipedia.org/wiki/Abaga_language"
 translations:
   - translation_iso: ara

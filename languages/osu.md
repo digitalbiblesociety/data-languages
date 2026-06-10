@@ -7,12 +7,15 @@ population: 200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.41913
 longitude: 141.85212
 glottocode: sout2932
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > West Wapei > One > Southern One"
+wikidata_id: Q12953785
 translations:
   - translation_iso: ara
     name: اللغة وان الجنوبية

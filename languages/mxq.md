@@ -7,12 +7,15 @@ population: 8000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.89123
 longitude: -95.84841
 glottocode: juqu1238
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Midland Mixe > Juquila Mixe"
+wikidata_id: Q25559721
 translations:
   - translation_iso: ara
     name: خوكيلا ميكسي

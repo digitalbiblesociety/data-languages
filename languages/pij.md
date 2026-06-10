@@ -6,12 +6,15 @@ population: null
 country_id: CO
 country_name: Colombia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 0.49999
 longitude: -75.33332
 glottocode: pija1235
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Pijao"
+wikidata_id: Q7193519
 wikipedia_url: "https://en.wikipedia.org/wiki/Pijao_language"
 translations:
   - translation_iso: ara

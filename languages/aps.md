@@ -6,12 +6,15 @@ population: 1150
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.06984
 longitude: 142.11955
 glottocode: arop1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sissanoic > Arop"
+wikidata_id: Q12627242
 wikipedia_url: "https://en.wikipedia.org/wiki/Arop_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2023
 country_id: CA
 country_name: Canada
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 49.19362
 longitude: -124.68918
 glottocode: pent1242
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > North Georgia Central Salish > Pentlatch"
+wikidata_id: Q2069475
 wikipedia_url: "https://en.wikipedia.org/wiki/Pentlatch_language"
 translations:
   - translation_iso: ara

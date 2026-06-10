@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -22.78161
 longitude: 118.72297
 glottocode: pany1241
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Pilbara > Ngayarda > Central Ngayarda > Panytyima-Yinhawangka > Panytyima"
+wikidata_id: Q3913830
 wikipedia_url: "https://en.wikipedia.org/wiki/Panyjima_language"
 translations:
   - translation_iso: ara

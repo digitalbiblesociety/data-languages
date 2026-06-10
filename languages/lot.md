@@ -7,12 +7,15 @@ population: 312000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 4.16379
 longitude: 32.6641
 glottocode: otuh1238
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Lotuxo > Lotuko-Lokoya > Otuho"
+wikidata_id: Q56672
 wikipedia_url: "https://en.wikipedia.org/wiki/Otuho_language"
 translations:
   - translation_iso: ara

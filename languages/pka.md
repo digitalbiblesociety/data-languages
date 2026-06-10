@@ -7,6 +7,9 @@ population: null
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q35217
 wikipedia_url: "https://en.wikipedia.org/wiki/Ardhamagadhi_Prakrit"
 translations:
   - translation_iso: ara

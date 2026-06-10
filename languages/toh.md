@@ -7,12 +7,15 @@ population: 327000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -23.79642
 longitude: 35.15768
 glottocode: gito1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Tsonga-Copi > Chopi (S.60) > Gitonga"
+wikidata_id: Q7820988
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Mozambique)"
 translations:
   - translation_iso: ara

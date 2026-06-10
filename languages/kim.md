@@ -7,12 +7,15 @@ population: 730
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 53.7145
 longitude: 98.37923
 glottocode: kara1462
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Sayan-Yenisei Turkic > Sayan > Taiga Sayan Turkic"
+wikidata_id: Q36848
 wikipedia_url: "https://en.wikipedia.org/wiki/Tofa_language"
 translations:
   - translation_iso: ara

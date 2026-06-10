@@ -7,6 +7,8 @@ population: 1242
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 59.444665
 longitude: -135.29031
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tlin1245
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Tlingit"
+wikidata_id: Q27792
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlingit_language"
 translations:
   - translation_iso: ara

@@ -7,8 +7,11 @@ population: 15000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 23.058
 longitude: 101.412
+wikidata_id: Q63308004
 translations:
   - translation_iso: ara
     name: نيسو الجنوبية الغربية

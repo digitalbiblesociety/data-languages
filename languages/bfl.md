@@ -7,12 +7,15 @@ population: 35500
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.033395
 longitude: 23.902125
 glottocode: band1345
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Ubangi > Ubangi Ka > Bandaic > Nuclear Bandaic > Central Bandaic > Core Central Bandaic > Banda-Ndélé"
+wikidata_id: Q34850
 translations:
   - translation_iso: ara
     name: بندا نديلي

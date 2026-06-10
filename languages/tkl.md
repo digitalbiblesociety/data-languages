@@ -7,6 +7,8 @@ population: 1410
 country_id: TK
 country_name: Tokelau
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.170975
 longitude: -171.816101
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: toke1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Ellicean > Pukapukic > Samoan-Tokelauan > Tokelau"
+wikidata_id: Q34097
 wikipedia_url: "https://en.wikipedia.org/wiki/Tokelauan_language"
 translations:
   - translation_iso: ara

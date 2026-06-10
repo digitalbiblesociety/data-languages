@@ -6,8 +6,11 @@ population: 80000
 country_id: TH
 country_name: Thailand
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 17.12133
 longitude: 104.15092
+wikidata_id: Q26425602
 translations:
   - translation_iso: ara
     name: نيياو

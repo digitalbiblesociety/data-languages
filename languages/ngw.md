@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.0921
 longitude: 12.79419
 glottocode: ngwa1251
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Ngwaba"
+wikidata_id: Q3440480
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngwaba_language"
 translations:
   - translation_iso: ara

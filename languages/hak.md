@@ -1,5 +1,6 @@
 ---
 iso: hak
+macrolanguage_id: zho
 name: Hakka Chinese
 autonym: "客家話 / 客家话 Hak-kâ-fa"
 alt_names: [Chinese, "Chinese, Hakka", "Chinese,Hakka", Gan-Hakka, Hak-kâ-fa, Hakaeg, Hakka, Hakka Dialect Group, Hakka-kiina, Hakkaish, Hokka, "K'e", "K'echia", Ke, Kechia, Kejia, Kejia (Hakka), Kheh-oē, Majiahua, Moi-yan dialect, Tu Guangdonghua, Xinminhua, Хакка, 客家話, 客家话]
@@ -7,6 +8,8 @@ population: 48200000
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25
 longitude: 116
 scripts: [Hans, Hant]
@@ -14,6 +17,7 @@ glottocode: hakk1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Hakka Chinese"
+wikidata_id: Q33375
 wikipedia_url: "https://en.wikipedia.org/wiki/Hakka_Chinese"
 translations:
   - translation_iso: ara

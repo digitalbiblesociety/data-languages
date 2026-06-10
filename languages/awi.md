@@ -7,12 +7,15 @@ population: 21100
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.88478
 longitude: 141.53229
 glottocode: aeky1238
 glottolog_family_id: kamu1264
 glottolog_family_name: Kamula-Elevala
 glottolog_classification: "Kamula-Elevala > Elevala > Aekyom"
+wikidata_id: Q3399691
 wikipedia_url: "https://en.wikipedia.org/wiki/Awin_language"
 translations:
   - translation_iso: ara

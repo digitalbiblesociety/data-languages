@@ -7,12 +7,15 @@ population: 727000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.83579
 longitude: 77.55409
 glottocode: kork1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Korku"
+wikidata_id: Q33715
 wikipedia_url: "https://en.wikipedia.org/wiki/Korku_language"
 translations:
   - translation_iso: ara

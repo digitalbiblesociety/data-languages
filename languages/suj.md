@@ -7,12 +7,15 @@ population: 92400
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.97663
 longitude: 31.06809
 glottocode: shub1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > West Highlands Kivu > Rundic > Hangaza-Shubi > Shubi"
+wikidata_id: Q11005360
 wikipedia_url: "https://en.wikipedia.org/wiki/Shubi_language"
 translations:
   - translation_iso: ara

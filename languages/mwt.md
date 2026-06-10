@@ -7,12 +7,15 @@ population: 6000
 country_id: MM
 country_name: Myanmar
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.14744
 longitude: 98.676545
 glottocode: moke1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Moken-Moklen > Moken"
+wikidata_id: Q3217488
 wikipedia_url: "https://en.wikipedia.org/wiki/Moken_language"
 translations:
   - translation_iso: ara

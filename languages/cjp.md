@@ -7,12 +7,15 @@ population: 7072
 country_id: CR
 country_name: Costa Rica
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.67031
 longitude: -83.41016
 glottocode: cabe1245
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Viceitic > Cabécar"
+wikidata_id: Q27878
 wikipedia_url: "https://en.wikipedia.org/wiki/Cab%C3%A9car_language"
 translations:
   - translation_iso: ara

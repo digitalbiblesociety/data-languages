@@ -6,12 +6,15 @@ population: 30000
 country_id: JO
 country_name: Jordan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 31.82024
 longitude: 36.0829
 glottocode: jord1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Arab Sign > Levantine-Iraqi Sign > Levantine Arabic Sign Language"
+wikidata_id: Q65320181
 wikipedia_url: "https://en.wikipedia.org/wiki/Jordanian_Sign_Language"
 translations:
   - translation_iso: ara

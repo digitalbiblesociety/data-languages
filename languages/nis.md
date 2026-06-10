@@ -6,12 +6,15 @@ population: 1380
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.34065
 longitude: 146.67873
 glottocode: nimi1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Sauk-Nimi > Nimi"
+wikidata_id: Q11732523
 wikipedia_url: "https://en.wikipedia.org/wiki/Nimi_language"
 translations:
   - translation_iso: ara

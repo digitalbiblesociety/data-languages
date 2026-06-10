@@ -1,5 +1,6 @@
 ---
 iso: fry
+iso639_1: fy
 name: Western Frisian
 autonym: Frisian
 alt_names: [Dialetto frisone occidentale, Freeshlannish Heear, Fries, Friesisch, "Frisian, Western", Frison occidental, Frisón occidental, "Frizeg ar c'hornôg", Frysk, Sî Fut-lî-sî-ngî, Vestfrisisk, Västfrisiska, West Frisian, West Frisian language, West(er)lauwers Fries, West(er)lauwersk Frysk, Westerlauwers Fries, Westerlauwersfrisisk, Westlaauwers Frais, Фриз йылме, الفريزية]
@@ -7,6 +8,8 @@ population: 875100
 country_id: NL
 country_name: Netherlands
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 53.143
 longitude: 5.86091
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: west2354
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Frisian > Modern West Frisian > Westlauwers-Terschelling Frisian > Western Frisian"
+wikidata_id: Q27175
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Frisian_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 6482100
 country_id: PH
 country_name: Philippines
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 15.93614
 longitude: 120.99329
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ilok1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Iloko"
+wikidata_id: Q35936
 wikipedia_url: "https://en.wikipedia.org/wiki/Ilocano_language"
 translations:
   - translation_iso: ara

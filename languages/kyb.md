@@ -7,12 +7,15 @@ population: 8000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 17.22394
 longitude: 121.09113
 glottocode: butb1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Kalinga > Central and South Kalinga > South Kalinga > Butbut Kalinga"
+wikidata_id: Q18753300
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalinga_Butbut_language"
 translations:
   - translation_iso: ara

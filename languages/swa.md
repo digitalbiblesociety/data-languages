@@ -1,12 +1,16 @@
 ---
 iso: swa
+iso639_1: sw
 name: Swahili
 autonym: كِسْوَحِيلِ
 population: 15437390
 country_id: TZ
 country_name: Tanzania
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q7838
 wikipedia_url: "https://en.wikipedia.org/wiki/Swahili"
 translations:
   - translation_iso: ara

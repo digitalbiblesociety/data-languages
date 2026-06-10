@@ -6,12 +6,15 @@ population: null
 country_id: UA
 country_name: Ukraine
 status_id: null
+scope: individual
+language_type: historical
 latitude: 47.393251
 longitude: 33.522692
 glottocode: pech1242
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Unclassified Kipchak > Pecheneg"
+wikidata_id: Q877881
 wikipedia_url: "https://en.wikipedia.org/wiki/Pecheneg_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1990
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.15721
 longitude: 142.57362
 glottocode: yess1239
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mayo-Pasi > Yessan-Mayo"
+wikidata_id: Q8052927
 wikipedia_url: "https://en.wikipedia.org/wiki/Yessan-Mayo_language"
 translations:
   - translation_iso: ara

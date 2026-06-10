@@ -7,12 +7,15 @@ population: 26400
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 12.42636
 longitude: 124.16645
 glottocode: inab1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Inabaknon"
+wikidata_id: Q2820163
 wikipedia_url: "https://en.wikipedia.org/wiki/Abaknon_language"
 translations:
   - translation_iso: ara

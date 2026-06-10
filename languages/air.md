@@ -7,12 +7,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.8522
 longitude: 138.15778
 glottocode: airo1242
 glottolog_family_id: kwer1242
 glottolog_family_name: Greater Kwerba
 glottolog_classification: "Greater Kwerba > Kwerba-Samarokena > Samarokena-Airoran > Airoran"
+wikidata_id: Q3321131
 wikipedia_url: "https://en.wikipedia.org/wiki/Airoran_language"
 translations:
   - translation_iso: ara

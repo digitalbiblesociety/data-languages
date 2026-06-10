@@ -7,12 +7,15 @@ population: 10000
 country_id: UG
 country_name: Uganda
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.61407
 longitude: 34.25066
 glottocode: ikkk1242
 glottolog_family_id: kuli1252
 glottolog_family_name: Kuliak
 glottolog_classification: "Kuliak > Ik"
+wikidata_id: Q35472
 wikipedia_url: "https://en.wikipedia.org/wiki/Ik_language"
 translations:
   - translation_iso: ara

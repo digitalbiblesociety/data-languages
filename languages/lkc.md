@@ -7,12 +7,15 @@ population: 45400
 country_id: VN
 country_name: Vietnam
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 21.207768
 longitude: 100.970154
 glottocode: kuco1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Lahoid > Kucong"
+wikidata_id: Q6441572
 wikipedia_url: "https://en.wikipedia.org/wiki/Kucong_language"
 translations:
   - translation_iso: ara

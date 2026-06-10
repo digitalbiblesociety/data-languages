@@ -7,12 +7,15 @@ population: 460
 country_id: SB
 country_name: Solomon Islands
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.19679
 longitude: 157.59496
 glottocode: hoav1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Hoava-Kusaghe > Hoava"
+wikidata_id: Q3138887
 wikipedia_url: "https://en.wikipedia.org/wiki/Hoava_language"
 translations:
   - translation_iso: ara

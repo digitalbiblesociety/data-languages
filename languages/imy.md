@@ -6,12 +6,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 36.356111
 longitude: 29.318611
 glottocode: mily1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Luvic > Lyco-Carian > Milyan-Carian > Milyan"
+wikidata_id: Q3832946
 wikipedia_url: "https://en.wikipedia.org/wiki/Milyan_language"
 translations:
   - translation_iso: ara

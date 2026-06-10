@@ -7,12 +7,15 @@ population: 166000
 country_id: VN
 country_name: Vietnam
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.64436
 longitude: 108.05721
 glottocode: koho1244
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > South Bahnaric > Koho-Maa > Koho"
+wikidata_id: Q3511919
 wikipedia_url: "https://en.wikipedia.org/wiki/Koho_language"
 translations:
   - translation_iso: ara

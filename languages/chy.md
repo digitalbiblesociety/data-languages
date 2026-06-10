@@ -7,6 +7,8 @@ population: 380
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 45.53206
 longitude: -106.65888
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: chey1247
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cheyenne"
+wikidata_id: Q33265
 wikipedia_url: "https://en.wikipedia.org/wiki/Cheyenne_language"
 translations:
   - translation_iso: ara

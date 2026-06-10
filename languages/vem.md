@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.830135
 longitude: 13.66327
 glottocode: vemg1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > North Biu-Mandara > Lamang-Hdi > Vemgo-Mabas"
+wikidata_id: Q56268
 wikipedia_url: "https://en.wikipedia.org/wiki/Vemgo-Mabas_language"
 translations:
   - translation_iso: ara

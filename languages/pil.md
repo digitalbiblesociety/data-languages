@@ -7,12 +7,15 @@ population: 214000
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.87186
 longitude: 1.81099
 glottocode: yomm1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Yom-Nawdm > Yom"
+wikidata_id: Q36893
 wikipedia_url: "https://en.wikipedia.org/wiki/Yom_language"
 translations:
   - translation_iso: ara

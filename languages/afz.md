@@ -7,12 +7,15 @@ population: 120
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.88029
 longitude: 137.92395
 glottocode: obok1239
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Eritai-Obokuitai-Biritai > Obokuitai"
+wikidata_id: Q7075258
 wikipedia_url: "https://en.wikipedia.org/wiki/Obokuitai_language"
 translations:
   - translation_iso: ara

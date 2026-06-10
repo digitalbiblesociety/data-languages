@@ -6,6 +6,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63313740
 translations:
   - translation_iso: ara
     name: كييررايووورروونغ

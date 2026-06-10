@@ -7,12 +7,15 @@ population: 42
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 11.08192
 longitude: 9.07725
 glottocode: kudu1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Central Kainji > Basa-Eastern Kainji > Eastern Kainji > Jos > Northern Jos > Ningic > Kudu-Camo"
+wikidata_id: Q3915850
 wikipedia_url: "https://en.wikipedia.org/wiki/Kudu-Camo_language"
 translations:
   - translation_iso: ara

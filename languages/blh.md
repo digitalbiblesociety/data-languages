@@ -7,12 +7,15 @@ population: 27000
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.54885
 longitude: -9.9765
 glottocode: kuwa1247
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Kuwaa"
+wikidata_id: Q35579
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuwaa_language"
 translations:
   - translation_iso: ara

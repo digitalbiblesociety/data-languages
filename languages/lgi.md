@@ -6,12 +6,15 @@ population: null
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 3.69641
 longitude: 115.90976
 glottocode: leng1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Lengilu"
+wikidata_id: Q6522465
 wikipedia_url: "https://en.wikipedia.org/wiki/Lengilu_language"
 translations:
   - translation_iso: ara

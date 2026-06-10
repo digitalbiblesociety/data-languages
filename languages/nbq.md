@@ -7,12 +7,15 @@ population: 4400
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.62735
 longitude: 139.01142
 glottocode: ngge1241
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Dani > Nggem"
+wikidata_id: Q12952956
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggem_language"
 translations:
   - translation_iso: ara

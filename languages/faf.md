@@ -7,12 +7,15 @@ population: 900
 country_id: SB
 country_name: Solomon Islands
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -10.44791
 longitude: 161.6618
 glottocode: faga1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Fagani"
+wikidata_id: Q3063759
 wikipedia_url: "https://en.wikipedia.org/wiki/Fagani_language"
 translations:
   - translation_iso: ara

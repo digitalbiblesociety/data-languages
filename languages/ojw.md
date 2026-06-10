@@ -1,5 +1,6 @@
 ---
 iso: ojw
+macrolanguage_id: oji
 name: Western Ojibwa
 autonym: Nakawēmowinᓇᐦᑲᐌᒧᐎᓐ
 alt_names: [Chippeway, Nakawēmowin, Ojibwa, "Ojibwa, Western", Ojibway, Ojibwe, Ojibwe du nord-ouest, Oyibua noroccidental, Plains Ojibway, Salteaux, Saulteau, Saulteaux]
@@ -7,6 +8,8 @@ population: 10000
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 50.56641
 longitude: -102.52456
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: west1510
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Northwestern-Saulteaux Ojibwa > Western Ojibwa"
+wikidata_id: Q3474222
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Ojibwa_language"
 translations:
   - translation_iso: ara

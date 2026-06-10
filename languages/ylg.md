@@ -7,12 +7,15 @@ population: 160
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.09907
 longitude: 142.80753
 glottocode: yelo1243
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Manambu-Yalaku > Yalaku"
+wikidata_id: Q8052024
 wikipedia_url: "https://en.wikipedia.org/wiki/Yelogu_language"
 translations:
   - translation_iso: ara

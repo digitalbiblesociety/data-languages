@@ -7,12 +7,15 @@ population: 62900
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.33195
 longitude: 21.99515
 glottocode: tama1331
 glottolog_family_id: tama1329
 glottolog_family_name: Tamaic
 glottolog_classification: "Tamaic > Tama-Sungor-Miisiirii > Tama-Sungor > Tama (Chad)"
+wikidata_id: Q57001
 wikipedia_url: "https://en.wikipedia.org/wiki/Tama_language"
 translations:
   - translation_iso: ara

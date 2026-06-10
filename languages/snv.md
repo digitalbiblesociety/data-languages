@@ -7,12 +7,15 @@ population: 1110
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.587235
 longitude: 115.66395
 glottocode: saba1265
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Dayic > Sa'ban"
+wikidata_id: Q3474891
 wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BCban_language"
 translations:
   - translation_iso: ara

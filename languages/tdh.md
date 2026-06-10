@@ -7,6 +7,8 @@ population: 20700
 country_id: NP
 country_name: Nepal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.538895
 longitude: 87.60628
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: thul1246
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Thulung-Tilung-Koyi > Thulung"
+wikidata_id: Q56553
 wikipedia_url: "https://en.wikipedia.org/wiki/Thulung_language"
 translations:
   - translation_iso: ara

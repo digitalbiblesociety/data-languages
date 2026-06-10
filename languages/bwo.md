@@ -7,12 +7,15 @@ population: 144
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.65962
 longitude: 35.34498
 glottocode: boro1277
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Kefoid > Boro (Ethiopia)"
+wikidata_id: Q56260
 wikipedia_url: "https://en.wikipedia.org/wiki/Shinasha_language"
 translations:
   - translation_iso: ara

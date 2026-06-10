@@ -7,12 +7,15 @@ population: 203
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.99694
 longitude: -97.62767
 glottocode: sant1439
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Western Alta Mixtec > Southwestern Alta Mixtec > Chalcatongic > Atatlahuca-Monteverde > Santa Lucía Monteverde Mixtec"
+wikidata_id: Q12953722
 translations:
   - translation_iso: ara
     name: لغة مازاتك سانتا لوسيا

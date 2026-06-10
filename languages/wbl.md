@@ -7,12 +7,15 @@ population: 52200
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 37.176843
 longitude: 73.977698
 glottocode: wakh1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Saka-Wakhi > Wakhi"
+wikidata_id: Q34208
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakhi_language"
 translations:
   - translation_iso: ara

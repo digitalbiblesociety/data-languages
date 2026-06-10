@@ -6,12 +6,15 @@ alt_names: [Lundur]
 population: 22000
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.16017
 longitude: 9.7391
 glottocode: lund1276
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Northwest South Bauchi > Polci-Luri > Polcic > Zulic > Dir-Nyamzak-Mbarimi"
+wikidata_id: Q116450373
 wikipedia_url: "https://en.wikipedia.org/wiki/Dir-Nyamzak-Mbarimi_language"
 translations:
   - translation_iso: ara

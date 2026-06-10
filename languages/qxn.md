@@ -1,5 +1,6 @@
 ---
 iso: qxn
+macrolanguage_id: que
 name: Northern Conchucos Ancash Quechua
 autonym: " Nunashimi"
 alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Conchucos Quechua, Northern Quechua, "Quechua, Northern Conchucos  Ancash"]
@@ -7,12 +8,15 @@ population: 250000
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.97356
 longitude: -77.41462
 glottocode: nort2979
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Quechua I > Central Quechua I > Huaylay > Conchucos > Northern Conchucos Ancash Quechua"
+wikidata_id: Q25559688
 translations:
   - translation_iso: ara
     name: اللغة كويتشوا كونتشوس الشمالية

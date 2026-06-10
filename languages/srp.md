@@ -1,14 +1,19 @@
 ---
 iso: srp
+iso639_1: sr
+macrolanguage_id: hbs
 name: Serbian
 autonym: српски / srpski
 population: 7730000
 country_id: RS
 country_name: Serbia
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 44.323844
 longitude: 21.919184
 scripts: [Cyrl, Latn]
+wikidata_id: Q9299
 wikipedia_url: "https://en.wikipedia.org/wiki/Serbian_language"
 translations:
   - translation_iso: ara

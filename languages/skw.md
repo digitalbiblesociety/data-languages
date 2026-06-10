@@ -7,12 +7,15 @@ population: null
 country_id: GY
 country_name: Guyana
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 6.05191
 longitude: -58.56256
 glottocode: skep1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Skepi Creole Dutch"
+wikidata_id: Q2522153
 wikipedia_url: "https://en.wikipedia.org/wiki/Skepi_Creole_Dutch"
 translations:
   - translation_iso: ara

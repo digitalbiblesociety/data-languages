@@ -7,12 +7,15 @@ population: 2000
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.17389
 longitude: 29.80533
 glottocode: logo1261
 glottolog_family_id: daju1249
 glottolog_family_name: Dajuic
 glottolog_classification: "Dajuic > Eastern Dajuic > Logorik"
+wikidata_id: Q6667811
 wikipedia_url: "https://en.wikipedia.org/wiki/Logorik_language"
 translations:
   - translation_iso: ara

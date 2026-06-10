@@ -7,12 +7,15 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -15.47863
 longitude: 129.15553
 glottocode: gadj1243
 glottolog_family_id: jarr1235
 glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Miriwunic > Gajirrabeng"
+wikidata_id: Q3913817
 wikipedia_url: "https://en.wikipedia.org/wiki/Gajirrawoong_dialect"
 translations:
   - translation_iso: ara

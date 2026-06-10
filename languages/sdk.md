@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -3.99024
 longitude: 143.39636
 glottocode: sosk1235
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu
 glottolog_classification: "Ndu > Nuclear Ndu > Sawosic > Iatmulic > Sos Kundi"
+wikidata_id: Q7563811
 wikipedia_url: "https://en.wikipedia.org/wiki/Sos_Kundi_language"
 translations:
   - translation_iso: ara

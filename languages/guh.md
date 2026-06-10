@@ -7,12 +7,15 @@ population: 35000
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.817355
 longitude: -68.983925
 glottocode: guah1255
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan
 glottolog_classification: "Guahiboan > Nuclear Guahiboan > Central Guahibo > Guahibo-Playero > Sikuani"
+wikidata_id: Q2669193
 wikipedia_url: "https://en.wikipedia.org/wiki/Guahibo_language"
 translations:
   - translation_iso: ara

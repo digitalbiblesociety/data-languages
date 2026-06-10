@@ -7,12 +7,15 @@ population: 72000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.20717
 longitude: 95.161755
 glottocode: khia1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Patkaian > South Patkaian > Southeastern Patkaian > Lainongic > Khiamniungic > Khiamniungan Naga"
+wikidata_id: Q6401546
 wikipedia_url: "https://en.wikipedia.org/wiki/Khiamniungan_language"
 translations:
   - translation_iso: ara

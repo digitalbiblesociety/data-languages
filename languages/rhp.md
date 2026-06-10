@@ -7,12 +7,15 @@ population: 1116
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.73035
 longitude: 142.40006
 glottocode: yaha1247
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Nuclear Maimai > Heyo-Yahang > Yahang"
+wikidata_id: Q8046792
 wikipedia_url: "https://en.wikipedia.org/wiki/Yahang_language"
 translations:
   - translation_iso: ara

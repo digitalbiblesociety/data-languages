@@ -6,8 +6,11 @@ population: 1200
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.23201
 longitude: 87.31455
+wikidata_id: Q6703050
 wikipedia_url: "https://en.wikipedia.org/wiki/Lumba-Yakkha_language"
 translations:
   - translation_iso: ara

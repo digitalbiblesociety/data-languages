@@ -7,6 +7,8 @@ population: 185500
 country_id: YT
 country_name: Mayotte
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -15.40551
 longitude: 45.13625
 scripts: [Arab, Latn]
@@ -14,6 +16,7 @@ glottocode: maor1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Mijikenda-Pokomo-Comorian > Comorian Bantu > Shindzwani-Shimaore > Maore Comorian"
+wikidata_id: Q34075
 wikipedia_url: "https://en.wikipedia.org/wiki/Maore_dialect"
 translations:
   - translation_iso: ara

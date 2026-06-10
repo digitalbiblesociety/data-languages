@@ -7,12 +7,15 @@ population: 85
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 42.09436
 longitude: -96.52947
 glottocode: omah1247
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Mississippi Valley > Dhegiha > Omaha-Ponca"
+wikidata_id: Q2917968
 wikipedia_url: "https://en.wikipedia.org/wiki/Omaha%E2%80%93Ponca_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: 18400
 country_id: KH
 country_name: Cambodia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 13.56989
 longitude: 106.76134
+wikidata_id: Q12953650
 translations:
   - translation_iso: ara
     name: كرونغ

@@ -7,12 +7,15 @@ population: 130000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.1794
 longitude: -2.579995
 glottocode: jams1239
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > Plains Dogon > Jamsay Dogon"
+wikidata_id: Q3913290
 wikipedia_url: "https://en.wikipedia.org/wiki/Jamsai_Dogon"
 translations:
   - translation_iso: ara

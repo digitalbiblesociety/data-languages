@@ -7,12 +7,15 @@ population: 2170000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.9872
 longitude: 97.71262
 glottocode: sgaw1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Sgaw > S'gaw Karen"
+wikidata_id: Q56410
 wikipedia_url: "https://en.wikipedia.org/wiki/S%27gaw_Karen_language"
 translations:
   - translation_iso: ara

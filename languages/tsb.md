@@ -7,12 +7,15 @@ population: 18000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.3097
 longitude: 36.9139
 glottocode: tsam1247
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Transversal Lowland East Cushitic > Dullay > Tsamai"
+wikidata_id: Q2371358
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsamai_language"
 translations:
   - translation_iso: ara

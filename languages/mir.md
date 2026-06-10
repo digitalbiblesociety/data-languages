@@ -7,12 +7,15 @@ population: 22500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.94812
 longitude: -95.06806
 glottocode: isth1238
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Lowland-Midland Mixe > Lowland Mixe > Isthmus Mixe"
+wikidata_id: Q6088873
 wikipedia_url: "https://en.wikipedia.org/wiki/Isthmus_Mixe"
 translations:
   - translation_iso: ara

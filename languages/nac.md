@@ -6,12 +6,15 @@ population: 6220
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.5591
 longitude: 144.75421
 glottocode: nara1264
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Chimbu-Wahgi > Jimi > Kandawo-Narak > Narak"
+wikidata_id: Q6965295
 wikipedia_url: "https://en.wikipedia.org/wiki/Narak_language"
 translations:
   - translation_iso: ara

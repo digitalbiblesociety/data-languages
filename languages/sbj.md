@@ -6,12 +6,15 @@ population: 7890
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.13312
 longitude: 21.62433
 glottocode: surb1238
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Surbakhal"
+wikidata_id: Q759995
 wikipedia_url: "https://en.wikipedia.org/wiki/Surbakhal_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 19300
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.66249
 longitude: 108.52928
 glottocode: chru1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Aceh-Chamic > Chamic > Chru-Northern Cham > Chruic > Chru"
+wikidata_id: Q2967321
 wikipedia_url: "https://en.wikipedia.org/wiki/Chru_language"
 translations:
   - translation_iso: ara

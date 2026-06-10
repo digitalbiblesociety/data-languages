@@ -6,12 +6,15 @@ population: 18980
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.52074
 longitude: 19.00711
 glottocode: luto1241
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > SBB Occidental > Nuclear SBB Occidental > Nduga-Luto > Lutos"
+wikidata_id: Q6705910
 wikipedia_url: "https://en.wikipedia.org/wiki/Lutos_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 81
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -9.04023
 longitude: -62.30645
 glottocode: amun1246
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VI > Kawahiva > Nuclear Kawahiva > Central Kawahiva > Amondava-Uru-Eu-Wau-Wau > Amundava"
+wikidata_id: Q12626847
 wikipedia_url: "https://en.wikipedia.org/wiki/Amondawa_dialect"
 translations:
   - translation_iso: ara

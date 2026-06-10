@@ -6,12 +6,15 @@ population: 4000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.72458
 longitude: -7.3558
 glottocode: daho1238
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Wee > Nuclear Wee > Konoboic > Daho-Doo"
+wikidata_id: Q3915369
 wikipedia_url: "https://en.wikipedia.org/wiki/Daho-Doo_language"
 translations:
   - translation_iso: ara

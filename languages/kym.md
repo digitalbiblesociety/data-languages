@@ -6,8 +6,11 @@ population: 4500
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.17203
 longitude: 21.85945
+wikidata_id: Q3913982
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpatili_language"
 translations:
   - translation_iso: ara

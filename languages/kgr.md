@@ -7,9 +7,12 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.57073
 longitude: 132.4159
 glottocode: abun1252
+wikidata_id: Q56657
 wikipedia_url: "https://en.wikipedia.org/wiki/Abun_language"
 translations:
   - translation_iso: ara

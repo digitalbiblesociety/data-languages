@@ -7,12 +7,15 @@ population: 170
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 15.45381
 longitude: -92.17341
 glottocode: moch1257
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Kanjobalan-Chujean > Kanjobalan > Mocho"
+wikidata_id: Q1941682
 wikipedia_url: "https://en.wikipedia.org/wiki/Mocho%CA%BC_language"
 translations:
   - translation_iso: ara

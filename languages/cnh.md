@@ -7,12 +7,15 @@ population: 170410
 country_id: MM
 country_name: Myanmar
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 22.87349
 longitude: 92.820797
 glottocode: haka1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Lai Chin > Haka Chin"
+wikidata_id: Q3250286
 wikipedia_url: "https://en.wikipedia.org/wiki/Hakha_Chin"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: NR
 country_name: Nauru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.53224
 longitude: 166.92553
 glottocode: chin1253
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > English-based pidgin > Chinese Pidgin English"
+wikidata_id: Q3435078
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_Pidgin_English"
 translations:
   - translation_iso: ara

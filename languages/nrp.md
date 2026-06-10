@@ -7,10 +7,13 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 glottocode: nort1401
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > North Picene"
+wikidata_id: Q430138
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Picene_language"
 translations:
   - translation_iso: ara

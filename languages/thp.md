@@ -7,12 +7,15 @@ population: 3000
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 50.16675
 longitude: -120.19267
 glottocode: thom1243
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Northern Interior Salish > Thompsonic > Thompson"
+wikidata_id: Q1755054
 wikipedia_url: "https://en.wikipedia.org/wiki/Thompson_language"
 translations:
   - translation_iso: ara

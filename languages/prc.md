@@ -7,12 +7,15 @@ population: 5000
 country_id: AF
 country_name: Afghanistan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 36.04323
 longitude: 70.88047
 glottocode: para1299
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Ormuri-Parachi > Parachi"
+wikidata_id: Q2640637
 wikipedia_url: "https://en.wikipedia.org/wiki/Parachi_language"
 translations:
   - translation_iso: ara

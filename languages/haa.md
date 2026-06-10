@@ -7,12 +7,15 @@ population: 19
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 64.5002
 longitude: -140.3517
 glottocode: hann1241
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Central Alaska-Yukon Athabaskan > Gwichin-Han > Han"
+wikidata_id: Q28272
 wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%A4n_language"
 translations:
   - translation_iso: ara

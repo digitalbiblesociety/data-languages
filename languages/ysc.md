@@ -6,6 +6,9 @@ population: null
 country_id: HU
 country_name: Hungary
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q2479368
 wikipedia_url: "https://en.wikipedia.org/wiki/Jassic_dialect"
 translations:
   - translation_iso: ara

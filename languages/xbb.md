@@ -7,6 +7,9 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q6693353
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Burdekin_languages"
 translations:
   - translation_iso: ara

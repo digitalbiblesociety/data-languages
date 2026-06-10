@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -42.988576
 longitude: 146.885376
 glottocode: sout1439
 glottolog_family_id: sout1293
 glottolog_family_name: South-Eastern Tasmanian
 glottolog_classification: "South-Eastern Tasmanian > South-Eastern-Tasmanian-Hinterland"
+wikidata_id: Q7068421
 wikipedia_url: "https://en.wikipedia.org/wiki/Nuenonne_language"
 translations:
   - translation_iso: ara

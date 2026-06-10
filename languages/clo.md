@@ -7,12 +7,15 @@ population: 950
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 15.94974
 longitude: -95.68757
 glottocode: lowl1260
 glottolog_family_id: tequ1244
 glottolog_family_name: Tequistlatecan
 glottolog_classification: "Tequistlatecan > Eastern Tequistlatecan > Lowland Oaxaca Chontal"
+wikidata_id: Q2964450
 wikipedia_url: "https://en.wikipedia.org/wiki/Huamelultec_language"
 translations:
   - translation_iso: ara

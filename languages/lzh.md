@@ -1,5 +1,6 @@
 ---
 iso: lzh
+macrolanguage_id: zho
 name: Literary Chinese
 autonym: 文言文
 alt_names: ["Chinese, Literary", Chino clásico, Chinois classique, Classical Chinese, Hán Văn, Klassiek Chinees, Klassisches Chinesisch, Klassisk kinesisk, Klassisk kinesiska, Literarni kineski, Vanahiina kirjakeel, Вэньянь, Класично кинеско писмо, 文言, 漢文, 한문]
@@ -7,6 +8,8 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 34.09
 longitude: 109.05
 scripts: [Hant]
@@ -14,6 +17,7 @@ glottocode: lite1248
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Classical Chinese"
+wikidata_id: Q37041
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Chinese"
 translations:
   - translation_iso: ara

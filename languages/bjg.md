@@ -7,12 +7,15 @@ population: 36000
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.10971
 longitude: -16.14972
 glottocode: bidy1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bijogo > Kanyaki-Kagbaaga-Kajoko Bidyogo"
+wikidata_id: Q35365
 wikipedia_url: "https://en.wikipedia.org/wiki/Bijago_language"
 translations:
   - translation_iso: ara

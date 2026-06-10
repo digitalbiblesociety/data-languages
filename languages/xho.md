@@ -1,5 +1,6 @@
 ---
 iso: xho
+iso639_1: xh
 name: Xhosa
 autonym: isiXhosa
 alt_names: ["\"Caffre\"", "\"Cafre\"", "\"Cauzuh\"", "\"Kaffer\"", "\"Kaffir\"", Fiteny Xhosa, Koosa, Kosum, Xhosa simi, Xhosaeg, Xosa, Xosa-linguo, Коса, Ксоза, Кхоса]
@@ -7,6 +8,8 @@ population: 8183300
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -31.03886
 longitude: 28.07686
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: xhos1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Xhosa"
+wikidata_id: Q13218
 wikipedia_url: "https://en.wikipedia.org/wiki/Xhosa_language"
 translations:
   - translation_iso: ara

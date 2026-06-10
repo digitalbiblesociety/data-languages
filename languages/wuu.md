@@ -1,5 +1,6 @@
 ---
 iso: wuu
+macrolanguage_id: zho
 name: Wu Chinese
 autonym: 吳語/吴语
 alt_names: [Changzhou, Chinese, "Chinese, Wu", "Chinese,Wu", Chino wu, Chinu vu, Ngô͘-gí, Ngù-ngṳ̄, Woueg, Wu, Wu (Changzhou), Wu Dialect Family, Wu-kiina, Wu-kínverska, Wuish, Wú, У, وو, ۋۇ تىلى]
@@ -7,6 +8,8 @@ population: 81400000
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 29.86209
 longitude: 119.68246
 scripts: [Hans]
@@ -14,6 +17,7 @@ glottocode: wuch1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Wu-Hui Chinese > Wuic > Wu Chinese"
+wikidata_id: Q34290
 wikipedia_url: "https://en.wikipedia.org/wiki/Wu_Chinese"
 translations:
   - translation_iso: ara

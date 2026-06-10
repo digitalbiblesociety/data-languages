@@ -7,12 +7,15 @@ population: 3300
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.4511
 longitude: 134.07073
 glottocode: nucl1594
 glottolog_family_id: mair1253
 glottolog_family_name: Mairasic
 glottolog_classification: "Mairasic > Mairasi"
+wikidata_id: Q3038645
 wikipedia_url: "https://en.wikipedia.org/wiki/Mairasi_language"
 translations:
   - translation_iso: ara

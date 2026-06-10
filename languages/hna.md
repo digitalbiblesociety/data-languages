@@ -7,12 +7,15 @@ population: 11000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.38053
 longitude: 13.84054
 glottocode: mina1276
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Dabaic > Mina (Cameroon)"
+wikidata_id: Q56532
 wikipedia_url: "https://en.wikipedia.org/wiki/Hina_language"
 translations:
   - translation_iso: ara

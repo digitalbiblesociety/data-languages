@@ -7,6 +7,8 @@ population: 887520
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.775675
 longitude: -88.95673
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: yuca1254
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Yucatecan > Nuclear Yucatecan > Yucatec-Lacandon > Yucatec Maya"
+wikidata_id: Q13354
 wikipedia_url: "https://en.wikipedia.org/wiki/Yucatec_Maya_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ alt_names: [Kaitak, Kajtak, Kaytak, Xajdak]
 population: 21000
 country_id: RU
 country_name: Russia
+scope: individual
+language_type: living
 latitude: 42.052428
 longitude: 47.776611
 glottocode: kajt1238
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Dargwic > South Dargwa > Kajtak"
+wikidata_id: Q1990659
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaitag_language"
 translations:
   - translation_iso: ara

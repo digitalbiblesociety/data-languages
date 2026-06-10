@@ -7,6 +7,8 @@ population: 166600
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.12147
 longitude: 87.04738
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: bant1281
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Southern Kiranti > Bantawic > Bantawa"
+wikidata_id: Q56500
 wikipedia_url: "https://en.wikipedia.org/wiki/Bantawa_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ alt_names: [Noakhailla]
 population: 70
 country_id: BD
 country_name: Bangladesh
+scope: individual
+language_type: living
 latitude: 22.64424
 longitude: 91.08214
+wikidata_id: Q107548681
 wikipedia_url: "https://en.wikipedia.org/wiki/Noakhali_language"
 translations:
   - translation_iso: ara

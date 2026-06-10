@@ -7,12 +7,15 @@ population: 15000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.40229
 longitude: 125.37833
 glottocode: sang1337
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Northern Sangiric > Sangil-Sangir > Sangil"
+wikidata_id: Q3472206
 translations:
   - translation_iso: ara
     name: اللغة السانجيل

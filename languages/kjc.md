@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.41532
 longitude: 120.30398
 glottocode: coas1295
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Makassaric > Konjo > Coastal Konjo"
+wikidata_id: Q3198689
 wikipedia_url: "https://en.wikipedia.org/wiki/Coastal_Konjo_language"
 translations:
   - translation_iso: ara

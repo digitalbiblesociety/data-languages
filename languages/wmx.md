@@ -6,12 +6,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -2.92
 longitude: 141.83
 glottocode: womo1238
 glottolog_family_id: skoo1245
 glottolog_family_name: Sko
 glottolog_classification: "Sko > Skou-Serra-Piore > Serra Hills > Rawo-Main Serra > Womo-Sumararu"
+wikidata_id: Q8031646
 wikipedia_url: "https://en.wikipedia.org/wiki/Womo_language"
 translations:
   - translation_iso: ara

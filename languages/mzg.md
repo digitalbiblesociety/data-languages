@@ -7,12 +7,15 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: individual
+language_type: living
 latitude: 41.90262
 longitude: 12.45197
 glottocode: mona1241
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Auxiliary Sign Systems > Monastic Sign Language"
+wikidata_id: Q3217333
 wikipedia_url: "https://en.wikipedia.org/wiki/Monastic_sign_languages"
 translations:
   - translation_iso: ara

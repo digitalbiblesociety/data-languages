@@ -7,6 +7,8 @@ population: 4740000
 country_id: MA
 country_name: Morocco
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 32.741545
 longitude: -2.40872
 scripts: [Latn, Tfng]
@@ -14,6 +16,7 @@ glottocode: cent2194
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Kabyle-Atlas Berber > Atlas Berber > Central Moroccan Berber"
+wikidata_id: Q49741
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Atlas_Tamazight"
 translations:
   - translation_iso: ara

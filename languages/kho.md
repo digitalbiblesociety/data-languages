@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 38.33
 longitude: 79.04
 glottocode: khot1251
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Saka-Wakhi > Saka > Khotanese"
+wikidata_id: Q130224860
 wikipedia_url: "https://en.wikipedia.org/wiki/Khotanese_language"
 translations:
   - translation_iso: ara

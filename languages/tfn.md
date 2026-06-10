@@ -7,12 +7,15 @@ population: 900
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 60.47124
 longitude: -150.75926
 glottocode: tana1289
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Southern Alaskan Athabaskan > Dena'ina"
+wikidata_id: Q27785
 wikipedia_url: "https://en.wikipedia.org/wiki/Dena%CA%BCina_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.12422
 longitude: 139.25538
 glottocode: beta1253
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Betaf-Vitou > Betaf"
+wikidata_id: Q4897329
 wikipedia_url: "https://en.wikipedia.org/wiki/Betaf_language"
 translations:
   - translation_iso: ara

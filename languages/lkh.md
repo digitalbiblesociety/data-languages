@@ -7,12 +7,15 @@ population: 8000
 country_id: BT
 country_name: Bhutan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.63255
 longitude: 90.33357
 glottocode: lakh1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Lakha"
+wikidata_id: Q56606
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakha_language"
 translations:
   - translation_iso: ara

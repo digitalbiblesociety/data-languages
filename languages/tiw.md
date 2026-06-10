@@ -7,9 +7,12 @@ population: 2040
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -11.63078
 longitude: 130.94911
 glottocode: tiwi1244
+wikidata_id: Q1656014
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiwi_language"
 translations:
   - translation_iso: ara

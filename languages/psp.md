@@ -7,12 +7,15 @@ population: 540000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.91598
 longitude: 121.51221
 glottocode: phil1239
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > Philippine Sign Language"
+wikidata_id: Q3551357
 wikipedia_url: "https://en.wikipedia.org/wiki/Filipino_Sign_Language"
 translations:
   - translation_iso: ara

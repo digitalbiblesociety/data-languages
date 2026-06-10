@@ -7,12 +7,15 @@ population: 18900
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.19994
 longitude: -96.88332
 glottocode: sanj1286
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Popolocan-Mazatecan > Mazatecan > Northwest Alta Mazatec > San Jerónimo Tecóatl Mazatec"
+wikidata_id: Q7692927
 wikipedia_url: "https://en.wikipedia.org/wiki/Tec%C3%B3atl_Mazatec"
 translations:
   - translation_iso: ara

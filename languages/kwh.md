@@ -7,12 +7,15 @@ population: 600
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.21954
 longitude: 133.46812
 glottocode: kowi1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Seram Laut > Banda-Geser > Seran Laut > Koiwai-Irarutu > Kowiai"
+wikidata_id: Q6435028
 wikipedia_url: "https://en.wikipedia.org/wiki/Kowiai_language"
 translations:
   - translation_iso: ara

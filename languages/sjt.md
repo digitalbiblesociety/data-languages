@@ -7,12 +7,15 @@ population: 100
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 67.24584
 longitude: 38.50607
 glottocode: ters1235
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Peninsular Eastern Saami > Ter Saami"
+wikidata_id: Q36656
 wikipedia_url: "https://en.wikipedia.org/wiki/Ter_S%C3%A1mi"
 translations:
   - translation_iso: ara

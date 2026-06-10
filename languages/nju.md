@@ -7,12 +7,15 @@ population: 10
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -32.02447
 longitude: 124.46601
 glottocode: ngad1258
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > South-West Pama-Nyungan > Mirning > Ngadjunmaya"
+wikidata_id: Q7021846
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngadjunmaya_language"
 translations:
   - translation_iso: ara

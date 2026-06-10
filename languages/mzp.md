@@ -7,9 +7,12 @@ population: 1170
 country_id: BO
 country_name: Bolivia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -13.81152
 longitude: -65.63482
 glottocode: movi1243
+wikidata_id: Q1659701
 wikipedia_url: "https://en.wikipedia.org/wiki/Movima_language"
 translations:
   - translation_iso: ara

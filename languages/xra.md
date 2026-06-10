@@ -6,8 +6,11 @@ population: 2000
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.01172
 longitude: -47.57738
+wikidata_id: Q3199549
 wikipedia_url: "https://en.wikipedia.org/wiki/Krah%C3%B4_dialect"
 translations:
   - translation_iso: ara

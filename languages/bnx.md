@@ -7,12 +7,15 @@ population: 246000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.31464
 longitude: 27.24376
 glottocode: bang1350
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Lubaic > Bangubangu-Kasai > Bangubangu"
+wikidata_id: Q3438330
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangubangu_language"
 translations:
   - translation_iso: ara

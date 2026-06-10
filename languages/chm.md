@@ -6,7 +6,10 @@ population: 470000
 country_id: RU
 country_name: Russia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Cyrl]
+wikidata_id: Q973685
 wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language"
 translations:
   - translation_iso: ara

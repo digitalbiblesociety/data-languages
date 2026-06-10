@@ -7,8 +7,11 @@ population: 6700
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.92147
 longitude: -95.67269
+wikidata_id: Q56199161
 translations:
   - translation_iso: ara
     name: اللغة ميكسي كويتزالتيبك

@@ -7,12 +7,15 @@ population: 102000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.40126
 longitude: -5.12242
 glottocode: yoco1235
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Yocoboué Dida"
+wikidata_id: Q21074781
 translations:
   - translation_iso: ara
     name: يوكوبووé ديدآ

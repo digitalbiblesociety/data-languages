@@ -7,12 +7,15 @@ population: 21000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 26.11781
 longitude: 94.68531
 glottocode: sout2732
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Rengma-Simi > Southern Rengma Naga"
+wikidata_id: Q7313205
 wikipedia_url: "https://en.wikipedia.org/wiki/Rengma_language"
 translations:
   - translation_iso: ara

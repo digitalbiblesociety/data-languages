@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -8.49999
 longitude: -38.74999
 glottocode: uamu1236
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Uamué"
+wikidata_id: Q3441418
 wikipedia_url: "https://en.wikipedia.org/wiki/Uamu%C3%A9_language"
 translations:
   - translation_iso: ara

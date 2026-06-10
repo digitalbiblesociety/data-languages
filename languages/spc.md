@@ -7,9 +7,12 @@ population: 2019
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 4.9447
 longitude: -63.23631
 glottocode: sape1238
+wikidata_id: Q2888158
 wikipedia_url: "https://en.wikipedia.org/wiki/Sap%C3%A9_language"
 translations:
   - translation_iso: ara

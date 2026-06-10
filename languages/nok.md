@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 48.22006
 longitude: -121.97345
 glottocode: nook1247
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Central Salish > South Georgia Central Salish > Nooksack"
+wikidata_id: Q3343396
 wikipedia_url: "https://en.wikipedia.org/wiki/Nooksack_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 62700
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 24.3479
 longitude: 97.74383
 glottocode: acha1249
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Burmish > Southern Burmish > Achangic > Longchuan Achang"
+wikidata_id: Q56582
 wikipedia_url: "https://en.wikipedia.org/wiki/Achang_language"
 translations:
   - translation_iso: ara

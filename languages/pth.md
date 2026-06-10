@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -15.91666
 longitude: -40.03332
 glottocode: pata1261
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Maxakali-Borum > Maxakalian > Nuclear Maxakalian > Pataxó Hã-Ha-Hãe"
+wikidata_id: Q7144304
 wikipedia_url: "https://en.wikipedia.org/wiki/Patax%C3%B3_language"
 translations:
   - translation_iso: ara

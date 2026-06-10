@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 35.979
 longitude: -77.291
 glottocode: caro1243
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Carolina Algonquian"
+wikidata_id: Q5044773
 wikipedia_url: "https://en.wikipedia.org/wiki/Carolina_Algonquian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 38.90547
 longitude: -123.66393
 glottocode: cent2138
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Russian River and Eastern > Russian River > Northern-Central Pomoan > Central Pomo"
+wikidata_id: Q3396020
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Pomo_language"
 translations:
   - translation_iso: ara

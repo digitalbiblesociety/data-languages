@@ -7,12 +7,15 @@ population: 100
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.87563
 longitude: -71.81991
 glottocode: yawa1260
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Yawanawa"
+wikidata_id: Q10322118
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawanawa_language"
 translations:
   - translation_iso: ara

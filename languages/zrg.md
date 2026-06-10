@@ -6,8 +6,11 @@ population: 60000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.43055
 longitude: 81.33599
+wikidata_id: Q6873206
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhunjia_language_(Halbic)"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 19000
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -14.30173
 longitude: -52.43669
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: xava1240
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Xavánte"
+wikidata_id: Q36962
 wikipedia_url: "https://en.wikipedia.org/wiki/Xavante_language"
 translations:
   - translation_iso: ara

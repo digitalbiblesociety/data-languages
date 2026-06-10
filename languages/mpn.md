@@ -6,12 +6,15 @@ population: 80
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -5.54613
 longitude: 146.13772
 glottocode: mind1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Eastern Bel > Mindiri"
+wikidata_id: Q6863842
 wikipedia_url: "https://en.wikipedia.org/wiki/Mindiri_language"
 translations:
   - translation_iso: ara

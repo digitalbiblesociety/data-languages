@@ -6,8 +6,11 @@ population: 1640000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.552
 longitude: 73.685
+wikidata_id: Q15549890
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahirani_language"
 translations:
   - translation_iso: ara

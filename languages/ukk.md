@@ -6,6 +6,9 @@ population: 4500
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q23807993
 wikipedia_url: "https://en.wikipedia.org/wiki/Muak_language"
 translations:
   - translation_iso: ara

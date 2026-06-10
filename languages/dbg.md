@@ -7,12 +7,15 @@ population: 15700
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.58719
 longitude: -3.56855
 glottocode: dogu1235
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Dogul Dom Dogon"
+wikidata_id: Q3912880
 wikipedia_url: "https://en.wikipedia.org/wiki/Dogul_Dogon"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: ciw
+macrolanguage_id: oji
 name: Chippewa
 autonym: Ojibwa
 alt_names: [Anishinabe, Chipewa, Chipeway, Chippeway, Minnesota Ojibwe, Ojibway, Ojibwe, Oyibua, Southwestern Ojibwa]
@@ -7,12 +8,15 @@ population: 104000
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 47.34704
 longitude: -94.27376
 glottocode: chip1241
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Central-Eastern-Southwestern Ojibwa > Chippewa"
+wikidata_id: Q2963878
 wikipedia_url: "https://en.wikipedia.org/wiki/Chippewa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 170
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -17.57584
 longitude: 127.39201
 glottocode: kitj1240
 glottolog_family_id: jarr1235
 glottolog_family_name: Jarrakan
 glottolog_classification: "Jarrakan > Kitja"
+wikidata_id: Q1284877
 wikipedia_url: "https://en.wikipedia.org/wiki/Gija_language"
 translations:
   - translation_iso: ara

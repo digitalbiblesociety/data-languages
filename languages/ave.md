@@ -1,5 +1,6 @@
 ---
 iso: ave
+iso639_1: ae
 name: Avestan
 autonym: Avesta
 alt_names: [An Aivéistis, Avesteg, Avesties, Avestique, Avestisch, Avestisk, Avestiska, Avèstic, Avéstico, Ewıstki, Pazend, Zend, Забони авестоӣ, ಅವೇಶ್ಟಿ]
@@ -7,6 +8,8 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 31.541
 longitude: 53.633
 scripts: [Avst]
@@ -14,6 +17,7 @@ glottocode: aves1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Avestan"
+wikidata_id: Q29572
 wikipedia_url: "https://en.wikipedia.org/wiki/Avestan"
 translations:
   - translation_iso: ara

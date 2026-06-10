@@ -6,12 +6,15 @@ population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 8.357
 longitude: -4.40666
 glottocode: tonj1246
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Jogo-Jeri > Jogo > Tonjon"
+wikidata_id: Q3913372
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonjon_language"
 translations:
   - translation_iso: ara

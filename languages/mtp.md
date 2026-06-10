@@ -7,12 +7,15 @@ population: 2030
 country_id: BO
 country_name: Bolivia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -21.987995
 longitude: -63.59711
 glottocode: wich1262
 glottolog_family_id: mata1289
 glottolog_family_name: Mataguayan
 glottolog_classification: "Mataguayan > Mataguayo II > Wichi > Weenhayek"
+wikidata_id: Q5908756
 wikipedia_url: "https://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Nocten"
 translations:
   - translation_iso: ara

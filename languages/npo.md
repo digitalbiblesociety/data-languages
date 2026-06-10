@@ -7,12 +7,15 @@ population: 21700
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 25.44785
 longitude: 94.11187
 glottocode: poch1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Angami-Ao > Angami-Pochuri > Pochuri-Northern Rengma > Pochuri Naga"
+wikidata_id: Q7206342
 wikipedia_url: "https://en.wikipedia.org/wiki/Pochuri_language"
 translations:
   - translation_iso: ara

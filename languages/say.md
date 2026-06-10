@@ -7,12 +7,15 @@ population: 300000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.69441
 longitude: 9.71748
 glottocode: saya1246
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zakse-Saya > Saya"
+wikidata_id: Q3914431
 wikipedia_url: "https://en.wikipedia.org/wiki/Saya_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 185000
 country_id: GE
 country_name: Georgia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 42.03792
 longitude: 43.994
 glottocode: urum1249
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Kipchak-Turkestan > Kipchak > Northwest Kipchak > West Kipchak > Crimean Tatar-Urum > Kipchak Urum"
+wikidata_id: Q13257
 wikipedia_url: "https://en.wikipedia.org/wiki/Urum_language"
 translations:
   - translation_iso: ara

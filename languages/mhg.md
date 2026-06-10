@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.18231
 longitude: 132.58697
 glottocode: marg1251
 glottolog_family_id: marr1257
 glottolog_family_name: Marrku-Wurrugu
 glottolog_classification: "Marrku-Wurrugu > Margu"
+wikidata_id: Q6772812
 wikipedia_url: "https://en.wikipedia.org/wiki/Marrgu_language"
 translations:
   - translation_iso: ara

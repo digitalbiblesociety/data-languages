@@ -7,12 +7,15 @@ population: 7000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.71018
 longitude: -104.70003
 glottocode: sant1424
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Corachol > Coran > Santa Teresa Cora"
+wikidata_id: Q12641754
 translations:
   - translation_iso: ara
     name: سانتا تيريسا كورا

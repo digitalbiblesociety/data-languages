@@ -6,12 +6,15 @@ population: 5000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.67474
 longitude: 154.97081
 glottocode: teop1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > North Bougainville Oceanic > Nuclear North Bougainville Oceanic > Buka > Saposa-Tinputz > Tinputzic > Teop"
+wikidata_id: Q3518239
 wikipedia_url: "https://en.wikipedia.org/wiki/Teop_language"
 translations:
   - translation_iso: ara

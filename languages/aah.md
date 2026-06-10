@@ -7,12 +7,15 @@ population: 2560
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.461612
 longitude: 142.917031
 glottocode: abua1245
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Kombio-Arapesh-Urat > Arapesh > Mufian-Bukiyip-Abu > Bukiyip-Abu > Abu' Arapesh"
+wikidata_id: Q4670715
 wikipedia_url: "https://en.wikipedia.org/wiki/Abu%CA%BC_Arapesh_language"
 translations:
   - translation_iso: ara

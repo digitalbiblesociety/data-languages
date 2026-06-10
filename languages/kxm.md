@@ -7,6 +7,8 @@ population: 90000
 country_id: TH
 country_name: Thailand
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.46743
 longitude: 103.86313
 scripts: [Thai]
@@ -14,6 +16,7 @@ glottocode: nort2684
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khmeric > Northern Khmer"
+wikidata_id: Q3502234
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Khmer_dialect"
 translations:
   - translation_iso: ara

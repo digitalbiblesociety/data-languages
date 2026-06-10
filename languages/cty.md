@@ -4,12 +4,15 @@ name: Moundadan Chetty
 population: 5400
 country_id: IN
 country_name: India
+scope: individual
+language_type: living
 latitude: 11.5094
 longitude: 76.4812
 glottocode: maun1243
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Maundadan Chetti"
+wikidata_id: Q105288428
 wikipedia_url: "https://en.wikipedia.org/wiki/Maundadan_Chetti_language"
 translations:
   - translation_iso: ara

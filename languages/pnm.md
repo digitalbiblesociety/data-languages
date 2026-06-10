@@ -7,12 +7,15 @@ population: 30
 country_id: MY
 country_name: Malaysia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 2.65327
 longitude: 113.92993
 glottocode: puna1278
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Aput-Busang-Merah-Kohi > Punan Batu 1"
+wikidata_id: Q7259892
 wikipedia_url: "https://en.wikipedia.org/wiki/Punan_Batu_language"
 translations:
   - translation_iso: ara

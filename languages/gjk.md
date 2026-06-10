@@ -7,6 +7,8 @@ population: 530000
 country_id: PK
 country_name: Pakistan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 24.296645
 longitude: 69.19014
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: kach1272
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Western Gujaratic > Kachi Koli"
+wikidata_id: Q12953646
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachi_Koli_language"
 translations:
   - translation_iso: ara

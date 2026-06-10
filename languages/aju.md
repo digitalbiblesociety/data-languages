@@ -1,5 +1,6 @@
 ---
 iso: aju
+macrolanguage_id: jrb
 name: "Judeo-Moroccan Arabic"
 autonym: لهجة عربية يهودية مغربية
 alt_names: [Arabeg yuzev-morokek, "Arabic, Judeo-Moroccan", Judeo-Moroccan, Judeomarokanski arapski, Jødemarokkansk arabisk, Yahudi Fas Arapçası, Еврейско-арабские диалекты, מרוקאית יהודית]
@@ -7,12 +8,15 @@ population: 61930
 country_id: IL
 country_name: Israel
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 33.5
 longitude: -7.5
 glottocode: jude1265
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > North African Arabic > Western Middle Arabic > Maghrebi > Judeo-Moroccan Arabic"
+wikidata_id: Q56595
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Moroccan_Arabic"
 translations:
   - translation_iso: ara

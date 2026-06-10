@@ -7,12 +7,15 @@ population: 567000
 country_id: TD
 country_name: Chad
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 12.89147
 longitude: 20.8889
 glottocode: maba1277
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Maba (Chad)"
+wikidata_id: Q35860
 wikipedia_url: "https://en.wikipedia.org/wiki/Maba_language"
 translations:
   - translation_iso: ara

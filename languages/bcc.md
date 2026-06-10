@@ -1,5 +1,6 @@
 ---
 iso: bcc
+macrolanguage_id: bal
 name: Southern Balochi
 autonym: بلۏچی  Balòci
 alt_names: ["Balochi, Southern", Baluchi, Balutschi]
@@ -7,12 +8,15 @@ population: 3636700
 country_id: PK
 country_name: Pakistan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.108103
 longitude: 59.735338
 glottocode: sout2642
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Southern-Western Balochi > Southern Balochi-Koroshi > Southern Balochi"
+wikidata_id: Q12634001
 wikipedia_url: "https://en.wikipedia.org/wiki/Makrani_dialect"
 translations:
   - translation_iso: ara

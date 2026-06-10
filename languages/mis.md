@@ -6,6 +6,9 @@ population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
 status_id: null
+scope: special
+language_type: special
+wikidata_id: Q22283016
 wikipedia_url: "https://en.wikipedia.org/wiki/ISO_639:mis"
 translations:
   - translation_iso: ara

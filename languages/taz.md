@@ -7,12 +7,15 @@ population: 3800
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.88282
 longitude: 30.15669
 glottocode: toch1257
 glottolog_family_id: narr1279
 glottolog_family_name: Narrow Talodi
 glottolog_classification: "Narrow Talodi > Buram-Saraf > Acheron-Tocho > Tocho"
+wikidata_id: Q36680
 wikipedia_url: "https://en.wikipedia.org/wiki/Tocho_language"
 translations:
   - translation_iso: ara

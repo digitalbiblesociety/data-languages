@@ -7,12 +7,15 @@ population: 200
 country_id: CH
 country_name: Switzerland
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 46.30761
 longitude: 8.79111
 glottocode: swis1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Italian Sign > Swiss-Italian Sign Language"
+wikidata_id: Q12953479
 translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الإيطالية

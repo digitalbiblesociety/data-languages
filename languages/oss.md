@@ -1,5 +1,6 @@
 ---
 iso: oss
+iso639_1: os
 name: Ossetian
 autonym: ирон ӕвзаг
 alt_names: [Iron, Iron Ossetian, Iron Ossetic, "Ossetian, Iron", Ossetic, "Ossetic, Iron"]
@@ -7,6 +8,8 @@ population: 601450
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 41.78816
 longitude: 43.26738
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: iron1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Sogdic-Ossetic > Ossetic > Modern Ossetic > Iron Ossetian"
+wikidata_id: Q2585922
 wikipedia_url: "https://en.wikipedia.org/wiki/Iron_Ossetian"
 translations:
   - translation_iso: ara

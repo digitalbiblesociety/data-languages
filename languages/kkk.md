@@ -6,12 +6,15 @@ population: 530
 country_id: SB
 country_name: Solomon Islands
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.16481
 longitude: 159.19133
 glottocode: koko1269
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Santa Isabel > Central Santa Isabel > Kokota"
+wikidata_id: Q3198399
 wikipedia_url: "https://en.wikipedia.org/wiki/Kokota_language"
 translations:
   - translation_iso: ara

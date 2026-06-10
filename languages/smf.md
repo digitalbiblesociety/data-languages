@@ -6,12 +6,15 @@ population: 410
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.33662
 longitude: 141.25383
 glottocode: auwe1239
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Simog-Daonda > Auwe"
+wikidata_id: Q3502072
 wikipedia_url: "https://en.wikipedia.org/wiki/Auwe-Daonda_language"
 translations:
   - translation_iso: ara

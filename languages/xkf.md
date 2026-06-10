@@ -7,12 +7,15 @@ population: 31500
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.08785
 longitude: 90.86331
 glottocode: khen1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Phobjib-Chali-Bumthangic > Chali-Bumthangic > Bumthangic > Khengkha"
+wikidata_id: Q3695207
 wikipedia_url: "https://en.wikipedia.org/wiki/Kheng_language"
 translations:
   - translation_iso: ara

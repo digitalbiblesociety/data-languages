@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: living
 latitude: 7.146202
 longitude: 5.936957
 glottocode: ikhi1234
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > North-Central Edoid > Central Plains Edoid > Emaic > Ikhin-Arokho"
+wikidata_id: Q102119757
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikhin_language"
 translations:
   - translation_iso: ara

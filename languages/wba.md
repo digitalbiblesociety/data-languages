@@ -7,9 +7,12 @@ population: 32900
 country_id: VE
 country_name: Venezuela
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.508507
 longitude: -59.352763
 glottocode: wara1303
+wikidata_id: Q36946
 wikipedia_url: "https://en.wikipedia.org/wiki/Warao_language"
 translations:
   - translation_iso: ara

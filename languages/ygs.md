@@ -6,12 +6,15 @@ population: 50
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: living
 latitude: -12.283333
 longitude: 136.816667
 glottocode: yoln1234
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Yolngu Sign Language"
+wikidata_id: Q16211970
 wikipedia_url: "https://en.wikipedia.org/wiki/Yol%C5%8Bu_Sign_Language"
 translations:
   - translation_iso: ara

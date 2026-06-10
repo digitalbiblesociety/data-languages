@@ -1,5 +1,6 @@
 ---
 iso: swh
+macrolanguage_id: swa
 name: Coastal Swahili
 autonym: Kiswahili
 alt_names: [Arab-Swahili, Bravanese dialect, Kisuaheli, Kisuahili, Kiswaheli, Suahili, Swahili]
@@ -7,12 +8,15 @@ population: 16335000
 country_id: TZ
 country_name: Tanzania
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -8.256053
 longitude: 37.624033
 glottocode: swah1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Coastal NEC Bantu > Sabaki-Swahili > Swahili (G.40) > Mombasa-Lamu-Inland Swahili > Swahili"
+wikidata_id: Q3197533
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiswahili"
 translations:
   - translation_iso: ara

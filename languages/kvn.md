@@ -7,12 +7,15 @@ population: 3500
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.92993
 longitude: -77.166375
 glottocode: bord1248
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Eastern Isthmic Chibchan > Kuna > Border Kuna"
+wikidata_id: Q31777873
 translations:
   - translation_iso: ara
     name: كونا الحدية

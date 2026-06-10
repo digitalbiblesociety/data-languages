@@ -7,12 +7,15 @@ population: 510
 country_id: PG
 country_name: Papua New Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.9854
 longitude: 141.9508
 glottocode: sera1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Siau > Sissano-Tumleo > Sera-Sissano > Sera"
+wikidata_id: Q7452602
 wikipedia_url: "https://en.wikipedia.org/wiki/Sera_language"
 translations:
   - translation_iso: ara

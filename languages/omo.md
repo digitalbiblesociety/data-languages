@@ -7,12 +7,15 @@ population: 1170
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.82756
 longitude: 144.92425
 glottocode: utar1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Kalamic-South Adelbert > South Adelbert > Osum-Wadaginam-Pomoikan > Utarmbung"
+wikidata_id: Q7902577
 wikipedia_url: "https://en.wikipedia.org/wiki/Utarmbung_language"
 translations:
   - translation_iso: ara

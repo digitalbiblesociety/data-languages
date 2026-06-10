@@ -7,12 +7,15 @@ population: 200
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -12.53639
 longitude: -53.52095
 glottocode: mehi1240
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Central-Eastern Maipuran > Central Maipuran > Xinguan Arawak > Waura-Mehinaku-Kustenau > Waura-Mehinaku > Mehináku"
+wikidata_id: Q3501838
 wikipedia_url: "https://en.wikipedia.org/wiki/Mehinaku_language"
 translations:
   - translation_iso: ara

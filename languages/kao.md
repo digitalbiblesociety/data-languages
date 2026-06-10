@@ -7,6 +7,8 @@ population: 714200
 country_id: ML
 country_name: Mali
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 14.21466
 longitude: -13.805095
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: xaas1235
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Xasonka > Xaasongaxango"
+wikidata_id: Q36905
 translations:
   - translation_iso: ara
     name: لغة خاسونغاكسانغو

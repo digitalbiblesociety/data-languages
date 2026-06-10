@@ -7,12 +7,15 @@ population: 10000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 26.14035
 longitude: 68.6051
 glottocode: vagh1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Western Gujaratic > Vaghri"
+wikidata_id: Q7908480
 wikipedia_url: "https://en.wikipedia.org/wiki/Vaghri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 35200
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -11.93109
 longitude: -73.90728
 glottocode: asha1243
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Asha-Ashe-Kak > Ashe-Asha > Asháninka"
+wikidata_id: Q3437230
 wikipedia_url: "https://en.wikipedia.org/wiki/Ash%C3%A1ninka_language"
 translations:
   - translation_iso: ara

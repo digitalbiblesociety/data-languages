@@ -7,12 +7,15 @@ population: 100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.33349
 longitude: 136.7902
 glottocode: saur1251
 glottolog_family_id: geel1240
 glottolog_family_name: Geelvink Bay
 glottolog_classification: "Geelvink Bay > Barapasi-Sauri-Kofei > Sauri-Kofei > Sauri"
+wikidata_id: Q7427547
 wikipedia_url: "https://en.wikipedia.org/wiki/Sauri_language"
 translations:
   - translation_iso: ara

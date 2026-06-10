@@ -7,9 +7,12 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.2742
 longitude: 140.88383
 glottocode: kimk1238
+wikidata_id: Q6410160
 wikipedia_url: "https://en.wikipedia.org/wiki/Kimki_language"
 translations:
   - translation_iso: ara

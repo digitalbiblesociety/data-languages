@@ -7,12 +7,15 @@ population: 47000
 country_id: JP
 country_name: Japan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 24.34006
 longitude: 123.80106
 glottocode: yaey1239
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic
 glottolog_classification: "Japonic > Ryukyuan > Southern Ryukyu > Macro-Yaeyama > Yaeyama"
+wikidata_id: Q34203
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaeyama_language"
 translations:
   - translation_iso: ara

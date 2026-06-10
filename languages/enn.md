@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.11931
 longitude: 6.37339
 glottocode: enge1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Delta Edoid > Degema-Engenni > Egene"
+wikidata_id: Q3915365
 wikipedia_url: "https://en.wikipedia.org/wiki/Engenni_language"
 translations:
   - translation_iso: ara

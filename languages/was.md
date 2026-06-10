@@ -7,10 +7,13 @@ population: 1500
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 38.81841
 longitude: -119.6403
 scripts: [Latn]
 glottocode: wash1253
+wikidata_id: Q34198
 wikipedia_url: "https://en.wikipedia.org/wiki/Washo_language"
 translations:
   - translation_iso: ara

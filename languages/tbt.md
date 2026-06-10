@@ -7,12 +7,15 @@ population: 150000
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.91863
 longitude: 28.57779
 glottocode: temb1270
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > Western Lakes Bantu > Kivu > Forest Kivu > Tembo (Kitembo)"
+wikidata_id: Q13123561
 wikipedia_url: "https://en.wikipedia.org/wiki/Tembo_language"
 translations:
   - translation_iso: ara

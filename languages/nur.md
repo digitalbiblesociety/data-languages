@@ -7,12 +7,15 @@ population: 550
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.40038
 longitude: 154.73118
 glottocode: nuku1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian > Takuuic > Nukuria"
+wikidata_id: Q7068910
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukuria_language"
 translations:
   - translation_iso: ara

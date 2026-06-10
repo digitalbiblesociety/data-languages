@@ -7,12 +7,15 @@ population: 5000
 country_id: AF
 country_name: Afghanistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.64848
 longitude: 70.73232
 glottocode: gran1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Gawarbatic > Shumashtic > Grangali-Ningalami"
+wikidata_id: Q3444203
 wikipedia_url: "https://en.wikipedia.org/wiki/Nangalami_language"
 translations:
   - translation_iso: ara

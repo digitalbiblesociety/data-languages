@@ -7,6 +7,9 @@ population: null
 country_id: MO
 country_name: Macao
 status_id: "9"
+scope: individual
+language_type: historical
+wikidata_id: Q5128303
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Mongolian"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 21400
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.48655
 longitude: 10.41798
 glottocode: bumm1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Center-West Ring > Center Ring > Mmen-Bum > Bum"
+wikidata_id: Q35058
 wikipedia_url: "https://en.wikipedia.org/wiki/Bum_language"
 translations:
   - translation_iso: ara

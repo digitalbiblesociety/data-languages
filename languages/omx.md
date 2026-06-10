@@ -7,12 +7,15 @@ population: null
 country_id: MM
 country_name: Myanmar
 status_id: null
+scope: individual
+language_type: historical
 latitude: 14.83
 longitude: 100.5
 glottocode: oldm1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Monic > Old Mon"
+wikidata_id: Q111364697
 translations:
   - translation_iso: ara
     name: اللغة مون القديمة

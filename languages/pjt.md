@@ -7,12 +7,15 @@ population: 3550
 country_id: AU
 country_name: Australia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -26.97044
 longitude: 131.35737
 glottocode: pitj1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Pintupic > Nuclear Pintupic > Wangkatja-Tjarra > Tjarra > Pitjantjatjara"
+wikidata_id: Q2982063
 wikipedia_url: "https://en.wikipedia.org/wiki/Pitjantjatjara_dialect"
 translations:
   - translation_iso: ara

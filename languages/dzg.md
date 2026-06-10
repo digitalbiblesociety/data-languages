@@ -7,12 +7,15 @@ population: 692400
 country_id: TD
 country_name: Chad
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 15.73584
 longitude: 15.851695
 glottocode: daza1242
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan
 glottolog_classification: "Saharan > Western Saharan > Tebu > Dazaga"
+wikidata_id: Q35244
 wikipedia_url: "https://en.wikipedia.org/wiki/Daza_language"
 translations:
   - translation_iso: ara

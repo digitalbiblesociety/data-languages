@@ -7,12 +7,15 @@ population: 12000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.11692
 longitude: 110.1058
 glottocode: lakk1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Lakkia-Biao > Lakkia"
+wikidata_id: Q3027879
 wikipedia_url: "https://en.wikipedia.org/wiki/Lakkia_language"
 translations:
   - translation_iso: ara

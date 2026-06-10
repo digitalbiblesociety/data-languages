@@ -7,12 +7,15 @@ population: 1350
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.81404
 longitude: 146.32061
 glottocode: midd1327
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Watut > Middle Watut"
+wikidata_id: Q15887910
 translations:
   - translation_iso: ara
     name: لغة وسط واتوت

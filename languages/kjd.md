@@ -7,12 +7,15 @@ population: 1000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.64889
 longitude: 143.24381
 glottocode: sout2949
 glottolog_family_id: kiwa1251
 glottolog_family_name: Kiwaian
 glottolog_classification: "Kiwaian > Southern Kiwai"
+wikidata_id: Q11732322
 translations:
   - translation_iso: ara
     name: لغة كيواي الجنوبية

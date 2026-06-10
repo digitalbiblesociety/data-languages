@@ -7,12 +7,15 @@ population: 400
 country_id: KE
 country_name: Kenya
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.1843
 longitude: 40.36999
 glottocode: daha1245
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Dahalo"
+wikidata_id: Q35143
 wikipedia_url: "https://en.wikipedia.org/wiki/Dahalo_language"
 translations:
   - translation_iso: ara

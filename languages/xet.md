@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -24.94082
 longitude: -52.22659
 glottocode: xeta1241
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Xetá"
+wikidata_id: Q2980404
 wikipedia_url: "https://en.wikipedia.org/wiki/Xeta_language"
 translations:
   - translation_iso: ara

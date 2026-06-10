@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 7.25936
 longitude: 15.281925
 glottocode: tooo1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Mbumic > Unclassified Mbum > To"
+wikidata_id: Q7811216
 wikipedia_url: "https://en.wikipedia.org/wiki/To_language"
 translations:
   - translation_iso: ara

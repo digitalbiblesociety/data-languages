@@ -7,12 +7,15 @@ population: 500
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -17.73995
 longitude: 168.54926
 glottocode: eton1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Epi-Efate > Efate-Shepherds > Efate > South Efatic > Eton (Vanuatu)"
+wikidata_id: Q3059362
 wikipedia_url: "https://en.wikipedia.org/wiki/Eton_language_(Vanuatu)"
 translations:
   - translation_iso: ara

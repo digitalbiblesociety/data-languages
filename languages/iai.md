@@ -7,12 +7,15 @@ population: 4080
 country_id: NC
 country_name: New Caledonia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -20.63012
 longitude: 166.59048
 glottocode: iaai1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Loyalty Islands > Iaai"
+wikidata_id: Q282888
 wikipedia_url: "https://en.wikipedia.org/wiki/Iaai_language"
 translations:
   - translation_iso: ara

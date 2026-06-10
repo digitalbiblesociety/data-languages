@@ -7,12 +7,15 @@ population: 380
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -6.63254
 longitude: -74.38135
 glottocode: capa1241
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Shipibo-Konibo-Kapanawa > Capanahua"
+wikidata_id: Q2937196
 wikipedia_url: "https://en.wikipedia.org/wiki/Capanahua_language"
 translations:
   - translation_iso: ara

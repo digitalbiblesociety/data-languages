@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -12.52068956
 longitude: 142.7036225
 glottocode: yinw1236
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Northern Pama > Yinwum"
+wikidata_id: Q8053763
 wikipedia_url: "https://en.wikipedia.org/wiki/Yinwum_dialect"
 translations:
   - translation_iso: ara

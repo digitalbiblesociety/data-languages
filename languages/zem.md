@@ -5,12 +5,15 @@ alt_names: [Zeemo]
 population: 400
 country_id: NG
 country_name: Nigeria
+scope: individual
+language_type: living
 latitude: 10.1464
 longitude: 9.2826
 glottocode: zeem1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi West > Southwest South Bauchi > Zeemic > Nuclear Zeemic > Zeem"
+wikidata_id: Q3450131
 wikipedia_url: "https://en.wikipedia.org/wiki/Zeem_language"
 translations:
   - translation_iso: ara

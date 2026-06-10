@@ -7,12 +7,15 @@ population: 2000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.74242
 longitude: 140.90347
 glottocode: emum1240
 glottolog_family_id: pauw1244
 glottolog_family_name: Pauwasi
 glottolog_classification: "Pauwasi > Eastern Pauwasi > Emumu"
+wikidata_id: Q5370369
 wikipedia_url: "https://en.wikipedia.org/wiki/Emem_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 2490000
 country_id: IR
 country_name: Iran
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 37.13437
 longitude: 49.83588
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: gila1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Caspian > Gilaki-Rudbari > Gilaki"
+wikidata_id: Q33657
 wikipedia_url: "https://en.wikipedia.org/wiki/Gilaki_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 350
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.73205
 longitude: 11.11047
 glottocode: ndun1251
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mbongno-Mvano > Mvano-Ndunda > Ndunda"
+wikidata_id: Q3913968
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndunda_language"
 translations:
   - translation_iso: ara

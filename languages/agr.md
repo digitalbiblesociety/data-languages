@@ -7,12 +7,15 @@ population: 53400
 country_id: PE
 country_name: Peru
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.30044
 longitude: -77.92179
 glottocode: agua1253
 glottolog_family_id: jiva1245
 glottolog_family_name: Chicham
 glottolog_classification: "Chicham > Aguaruna"
+wikidata_id: Q1526530
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguaruna_language"
 translations:
   - translation_iso: ara

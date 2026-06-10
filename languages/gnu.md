@@ -6,12 +6,15 @@ population: 1330
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.59093
 longitude: 142.1959
 glottocode: gnau1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Unclassified Nuclear Torricelli > Gnau"
+wikidata_id: Q3915810
 wikipedia_url: "https://en.wikipedia.org/wiki/Gnau_language"
 translations:
   - translation_iso: ara

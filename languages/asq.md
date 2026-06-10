@@ -7,12 +7,15 @@ population: 8000
 country_id: AT
 country_name: Austria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 48.11967
 longitude: 16.22499
 glottocode: aust1252
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Nuclear Central European Sign > Austrian Sign Language"
+wikidata_id: Q36668
 wikipedia_url: "https://en.wikipedia.org/wiki/Austrian_Sign_Language"
 translations:
   - translation_iso: ara

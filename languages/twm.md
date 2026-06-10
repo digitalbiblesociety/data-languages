@@ -7,8 +7,11 @@ population: 8600
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.7686
 longitude: 92.18383
+wikidata_id: Q36586
 translations:
   - translation_iso: ara
     name: تاوانج مونبا

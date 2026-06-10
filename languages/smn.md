@@ -7,6 +7,8 @@ population: 300
 country_id: FI
 country_name: Finland
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 69.42289
 longitude: 27.86583
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: inar1241
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Inari Saami"
+wikidata_id: Q33462
 wikipedia_url: "https://en.wikipedia.org/wiki/Inari_S%C3%A1mi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 140000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.20739
 longitude: 101.8863
 glottocode: honi1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Honi"
+wikidata_id: Q56842
 wikipedia_url: "https://en.wikipedia.org/wiki/Honi_language"
 translations:
   - translation_iso: ara

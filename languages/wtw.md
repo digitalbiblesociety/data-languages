@@ -6,12 +6,15 @@ population: 5000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.59593
 longitude: 120.90044
 glottocode: wotu1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Wotu"
+wikidata_id: Q12473488
 wikipedia_url: "https://en.wikipedia.org/wiki/Wotu_language"
 translations:
   - translation_iso: ara

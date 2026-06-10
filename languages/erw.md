@@ -6,12 +6,15 @@ population: 200
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.83746
 longitude: 132.7048
 glottocode: erok1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Tanimbar-Bomberai > Nuta > Yarikman"
+wikidata_id: Q5395296
 wikipedia_url: "https://en.wikipedia.org/wiki/Erokwanas_language"
 translations:
   - translation_iso: ara

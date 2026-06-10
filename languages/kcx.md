@@ -7,12 +7,15 @@ population: 1002
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.3971
 longitude: 37.92915
 glottocode: kach1284
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Ometo > East Ometo > Kachama-Ganjule-Haro"
+wikidata_id: Q12634070
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachama-Ganjule_language"
 translations:
   - translation_iso: ara

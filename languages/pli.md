@@ -1,5 +1,6 @@
 ---
 iso: pli
+iso639_1: pi
 name: Pali
 autonym: 𑀧𑀸𑀴𑀺
 alt_names: [An Pháilis, Páli, Pálí, Pâli, Pāli, "Sri Lanka, India, Myanmar", Пали, Палі, פאלי, पली, পালি, ਪਾਲੀ, பாளி, പാലി, පාලි]
@@ -7,6 +8,8 @@ population: null
 country_id: IN
 country_name: India
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 24.527135
 longitude: 82.250975
 scripts: [Deva, Latn, Mymr, Sinh, Thai]
@@ -14,6 +17,7 @@ glottocode: pali1273
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Pali"
+wikidata_id: Q36727
 wikipedia_url: "https://en.wikipedia.org/wiki/Pali"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 35.29901
 longitude: 71.68065
 glottocode: dame1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Nuristani > Dameli"
+wikidata_id: Q32288
 wikipedia_url: "https://en.wikipedia.org/wiki/Dameli_language"
 translations:
   - translation_iso: ara

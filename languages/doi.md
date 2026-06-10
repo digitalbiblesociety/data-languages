@@ -6,7 +6,10 @@ population: 3720000
 country_id: IN
 country_name: India
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab, Deva, Takr]
+wikidata_id: Q5583349
 translations:
   - translation_iso: ara
     name: الدوجرية

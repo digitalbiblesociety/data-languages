@@ -7,12 +7,15 @@ population: 340
 country_id: AU
 country_name: Australia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -18.32879
 longitude: 128.26205
 glottocode: jaru1254
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Ngumpin-Yapa > Ngumpin > Western Ngumpin > Jaru"
+wikidata_id: Q3162806
 wikipedia_url: "https://en.wikipedia.org/wiki/Djaru_language"
 translations:
   - translation_iso: ara

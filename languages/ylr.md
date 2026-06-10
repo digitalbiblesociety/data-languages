@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -21.731
 longitude: 139.511
 glottocode: yala1262
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Kalkatungic > Yalarnnga"
+wikidata_id: Q3915686
 wikipedia_url: "https://en.wikipedia.org/wiki/Yalarnnga_language"
 translations:
   - translation_iso: ara

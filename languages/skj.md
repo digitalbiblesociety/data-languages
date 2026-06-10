@@ -7,12 +7,15 @@ population: 700
 country_id: NP
 country_name: Nepal
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.9251
 longitude: 83.80638
 glottocode: seke1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Kaike-Ghale-Tamangic > Ghale-Tamangic > Tamangic > Seke (Nepal)"
+wikidata_id: Q30226846
 wikipedia_url: "https://en.wikipedia.org/wiki/Seke_language_(Nepal)"
 translations:
   - translation_iso: ara

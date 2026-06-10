@@ -7,12 +7,15 @@ population: 77700
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.17175
 longitude: 9.56925
 glottocode: warj1253
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.2 > Nuclear West Chadic B.2 > Central West Chadic B.2 > Warji-Gala-Kariya > Warji-Gala"
+wikidata_id: Q3440381
 wikipedia_url: "https://en.wikipedia.org/wiki/Warji_language"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: zab
+macrolanguage_id: zap
 name: Western Tlacolula Valley Zapotec
 autonym: Valley Zapotec
 alt_names: [Central Sapoteko, San Juan Guelavia Zapotec, San Juan Guelavía Zapotec, Sapoteko, Western Tlacolula Zapotec, Zapotec, Zapotec (San Lucas Quiaviní), Zapotec (San Lucas), "Zapotec, San Juan Guelavía", "Zapotec, Western Tlacolula Valley", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Guelavía, Zapotèque de San Felipe Tejalapan]
@@ -7,12 +8,15 @@ population: 28000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.03317
 longitude: -96.59675
 glottocode: sanj1284
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Western Tlacolula Valley Zapotec"
+wikidata_id: Q5614751
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Tlacolula_Valley_Zapotec"
 translations:
   - translation_iso: ara

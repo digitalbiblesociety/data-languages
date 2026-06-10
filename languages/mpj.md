@@ -7,12 +7,15 @@ population: 1080
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -24.31936
 longitude: 121.9536
 glottocode: mart1256
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Desert Nyungic > Wati > Martuwangkic > Warnman-Wangka > Martu Wangka"
+wikidata_id: Q3295916
 wikipedia_url: "https://en.wikipedia.org/wiki/Martu_Wangka_dialect"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: ton
+iso639_1: to
 name: Tonga
 autonym: "lea faka-Tonga"
 alt_names: [ChiTonga, Tonga, Tonga (Zambia), Tonga language, Tongan, tongan (Îles Tonga)]
@@ -7,6 +8,8 @@ population: 189740
 country_id: TO
 country_name: Tonga
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -21.17
 longitude: -175.25
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: tong1325
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Tongic > Tonga (Tonga Islands)"
+wikidata_id: Q34094
 wikipedia_url: "https://en.wikipedia.org/wiki/Tongan_language"
 translations:
   - translation_iso: ara

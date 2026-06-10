@@ -7,12 +7,15 @@ population: 1300
 country_id: BF
 country_name: Burkina Faso
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 9.79704
 longitude: -4.24384
 glottocode: khee1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Dogoso-Khe > Khe"
+wikidata_id: Q3914015
 wikipedia_url: "https://en.wikipedia.org/wiki/Khe_language"
 translations:
   - translation_iso: ara

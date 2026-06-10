@@ -7,6 +7,8 @@ population: 1000000
 country_id: DE
 country_name: Germany
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 49.701
 longitude: 6.846
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: pala1330
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > West Middle German > Rhenish Franconian > Palatinate > Pfaelzisch-Lothringisch"
+wikidata_id: Q23014
 wikipedia_url: "https://en.wikipedia.org/wiki/Palatine_German_dialects"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: historical
 latitude: 44.37727
 longitude: 115.986325
 glottocode: kita1247
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Kitan"
+wikidata_id: Q1064482
 wikipedia_url: "https://en.wikipedia.org/wiki/Khitan_language"
 translations:
   - translation_iso: ara

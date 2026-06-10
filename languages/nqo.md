@@ -6,11 +6,14 @@ population: 27000000
 country_id: GN
 country_name: Guinea
 status_id: "3"
+scope: individual
+language_type: living
 scripts: [Nkoo]
 glottocode: nkoa1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language
 glottolog_classification: "Artificial Language > N'Ko"
+wikidata_id: Q18546266
 wikipedia_url: "https://en.wikipedia.org/wiki/N%27Ko_language"
 translations:
   - translation_iso: ara

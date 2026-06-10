@@ -1,5 +1,6 @@
 ---
 iso: hsn
+macrolanguage_id: zho
 name: Xiang Chinese
 autonym: Hunanese
 alt_names: ["Chinese, Xiang", "Chinese,Xiang", Hounaneg, Hsiang, Hunan, Xiang, Xiang Dialect Family, Xiang-kiina, Xiangish, Xiāng]
@@ -7,6 +8,8 @@ population: 37300000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 27.66847
 longitude: 111.47112
 scripts: [Hans]
@@ -14,6 +17,7 @@ glottocode: xian1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Xiang Chinese"
+wikidata_id: Q13220
 wikipedia_url: "https://en.wikipedia.org/wiki/Xiang_Chinese"
 translations:
   - translation_iso: ara

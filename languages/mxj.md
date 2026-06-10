@@ -7,12 +7,15 @@ population: 18000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.47324
 longitude: 97.04437
 glottocode: miju1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kman-Meyor > Kman"
+wikidata_id: Q56332
 wikipedia_url: "https://en.wikipedia.org/wiki/Miju_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 3600
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.29237
 longitude: 6.44113
 glottocode: okod1238
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Western Ijo > Inland Ijo > Biseni-Okordia > Okodia"
+wikidata_id: Q36300
 wikipedia_url: "https://en.wikipedia.org/wiki/Okodia_language"
 translations:
   - translation_iso: ara

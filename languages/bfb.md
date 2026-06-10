@@ -7,12 +7,15 @@ population: 991000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.228
 longitude: 74.337
 glottocode: paur1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pauri-Nahali > Pauri Bareli"
+wikidata_id: Q7155462
 wikipedia_url: "https://en.wikipedia.org/wiki/Pauri_Bareli_language"
 translations:
   - translation_iso: ara

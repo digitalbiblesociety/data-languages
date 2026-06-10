@@ -6,12 +6,15 @@ population: 1100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -10.13213
 longitude: 148.67103
 glottocode: mora1273
 glottolog_family_id: mail1249
 glottolog_family_name: Mailuan
 glottolog_classification: "Mailuan > Morawa"
+wikidata_id: Q6909384
 wikipedia_url: "https://en.wikipedia.org/wiki/Morawa_language"
 translations:
   - translation_iso: ara

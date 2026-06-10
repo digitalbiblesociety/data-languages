@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 35.06648
 longitude: -98.18314
 glottocode: wich1260
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan
 glottolog_classification: "Caddoan > Northern Caddoan > Wichita"
+wikidata_id: Q56513
 wikipedia_url: "https://en.wikipedia.org/wiki/Wichita_language"
 translations:
   - translation_iso: ara

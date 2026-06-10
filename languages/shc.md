@@ -7,12 +7,15 @@ population: 96000
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.32223
 longitude: 18.35547
 glottocode: sond1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Northern Njila > Mbala-Holu-Sondi (K.10) > Mbala-Sondi > Sonde"
+wikidata_id: Q7560881
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonde_language"
 translations:
   - translation_iso: ara

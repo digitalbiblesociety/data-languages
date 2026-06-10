@@ -7,12 +7,15 @@ population: 1000
 country_id: LA
 country_name: Laos
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.913525
 longitude: 105.52746
 glottocode: male1282
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Maleng"
+wikidata_id: Q6583562
 wikipedia_url: "https://en.wikipedia.org/wiki/Maleng_language"
 translations:
   - translation_iso: ara

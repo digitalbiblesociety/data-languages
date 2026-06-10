@@ -7,12 +7,15 @@ population: 5000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.96335
 longitude: -96.11857
 glottocode: tlah1239
 glottolog_family_id: mixe1284
 glottolog_family_name: Mixe-Zoque
 glottolog_classification: "Mixe-Zoque > Mixe > Oaxaca Mixe > Lowland-Midland-South Highland Mixe > Tlahuitoltepec Mixe"
+wikidata_id: Q7810697
 wikipedia_url: "https://en.wikipedia.org/wiki/Tlahuitoltepec_Mixe"
 translations:
   - translation_iso: ara

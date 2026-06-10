@@ -7,12 +7,15 @@ population: 1630
 country_id: FJ
 country_name: Fiji
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -18.0001
 longitude: 179.30583
 glottocode: loma1261
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Viwa-Lomaiviti-East Viti Levu > Lomaiviti"
+wikidata_id: Q3130221
 wikipedia_url: "https://en.wikipedia.org/wiki/Lomaiviti_language"
 translations:
   - translation_iso: ara

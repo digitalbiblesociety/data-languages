@@ -7,12 +7,15 @@ population: 50
 country_id: FM
 country_name: Micronesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 5.31191
 longitude: 162.98395
 glottocode: ngul1236
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Yapesic > Nguluwan"
+wikidata_id: Q6528643
 wikipedia_url: "https://en.wikipedia.org/wiki/Nguluwan_language"
 translations:
   - translation_iso: ara

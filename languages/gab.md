@@ -7,12 +7,15 @@ population: 34400
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.33955
 longitude: 16.62304
 glottocode: gabr1253
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.2 > East Chadic A.2 2 > Gabri-Kimre > Gabri"
+wikidata_id: Q3441237
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Gabri_language"
 translations:
   - translation_iso: ara

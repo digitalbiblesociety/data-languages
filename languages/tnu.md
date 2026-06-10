@@ -7,12 +7,15 @@ population: 200
 country_id: LA
 country_name: Laos
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.66237
 longitude: 104.36727
 glottocode: tayk1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Tay Khang"
+wikidata_id: Q6362363
 wikipedia_url: "https://en.wikipedia.org/wiki/Tay_Khang_language"
 translations:
   - translation_iso: ara

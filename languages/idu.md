@@ -7,12 +7,15 @@ population: 927000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.19139
 longitude: 7.71261
 glottocode: idom1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Idoma-Agatu-Okpogu > Idoma"
+wikidata_id: Q35478
 wikipedia_url: "https://en.wikipedia.org/wiki/Idoma_language"
 translations:
   - translation_iso: ara

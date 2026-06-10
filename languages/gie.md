@@ -7,12 +7,15 @@ population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: null
+scope: individual
+language_type: living
 latitude: 5.964761
 longitude: -5.841819
 glottocode: gabo1234
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Neyo-Dida > Dida > Guebie-Lakota Dida > Gabogbo"
+wikidata_id: Q63140714
 wikipedia_url: "https://en.wikipedia.org/wiki/Ga%C9%93ogbo_language"
 translations:
   - translation_iso: ara

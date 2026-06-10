@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 43.903
 longitude: -74.266
 glottocode: mahi1248
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Mahican-Woronoco-Pojassick > Mahican"
+wikidata_id: Q3182562
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohican_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 7070
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.22281
 longitude: 157.14937
 glottocode: baba1268
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > Choiseul > East Choiseul > Southeast Choiseul > Babatana"
+wikidata_id: Q2877785
 wikipedia_url: "https://en.wikipedia.org/wiki/Babatana_language"
 translations:
   - translation_iso: ara

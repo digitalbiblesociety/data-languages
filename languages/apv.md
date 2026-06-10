@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -13.23958
 longitude: -59.99245
 glottocode: alap1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Nambiquaran (Unattested) > Alapmunte"
+wikidata_id: Q16110782
 translations:
   - translation_iso: ara
     name: اللغة نامبيكوارا الشمالية

@@ -1,5 +1,6 @@
 ---
 iso: auz
+macrolanguage_id: ara
 name: Uzbeki Arabic
 autonym: Central Asian Arabic
 alt_names: [Arabic, "Arabic, Uzbeki", "Arabic, Uzbeki Spoken", Jugari, Kashkadarya Arabic, Tajiki, Uzbeki Spoken Arabic, Uzbečki arapski]
@@ -7,12 +8,15 @@ population: 700
 country_id: UZ
 country_name: Uzbekistan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 40.26116
 longitude: 65.38644
 glottocode: uzbe1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Eastern Arabic > Central Asian Arabic > Xorasan-Qashqa-Darya Arabic > Qashqa-Darya Arabic"
+wikidata_id: Q3399507
 wikipedia_url: "https://en.wikipedia.org/wiki/Uzbeki_Arabic"
 translations:
   - translation_iso: ara

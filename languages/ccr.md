@@ -7,6 +7,8 @@ population: null
 country_id: SV
 country_name: El Salvador
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 13.74374
 longitude: -88.11325
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: caca1247
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan
 glottolog_classification: "Misumalpan > Sumalpan > Matagalpan > Cacaopera"
+wikidata_id: Q3438338
 wikipedia_url: "https://en.wikipedia.org/wiki/Cacaopera_language"
 translations:
   - translation_iso: ara

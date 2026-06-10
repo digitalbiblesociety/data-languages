@@ -7,12 +7,15 @@ population: 700
 country_id: BT
 country_name: Bhutan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 28.12876
 longitude: 90.1257
 glottocode: luna1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Nuclear Dzongkhic > Lunanakha"
+wikidata_id: Q56446
 wikipedia_url: "https://en.wikipedia.org/wiki/Lunana_dialect"
 translations:
   - translation_iso: ara

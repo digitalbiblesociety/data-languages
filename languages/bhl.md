@@ -6,12 +6,15 @@ population: 2250
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.38732
 longitude: 142.04036
 glottocode: bimi1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Bimin"
+wikidata_id: Q4913743
 wikipedia_url: "https://en.wikipedia.org/wiki/Bimin_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 24000
 country_id: TZ
 country_name: Tanzania
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.25844
 longitude: 38.49022
 glottocode: doee1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Doe"
+wikidata_id: Q5288055
 wikipedia_url: "https://en.wikipedia.org/wiki/Doe_language"
 translations:
   - translation_iso: ara

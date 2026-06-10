@@ -7,12 +7,15 @@ population: 1120
 country_id: BR
 country_name: Brazil
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -10.7235
 longitude: -61.67521
 glottocode: gavi1246
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Monde > Gavianic > Nuclear Gavianic > Gavião Do Jiparaná"
+wikidata_id: Q5528335
 wikipedia_url: "https://en.wikipedia.org/wiki/Gavi%C3%A3o_of_Jiparan%C3%A1"
 translations:
   - translation_iso: ara

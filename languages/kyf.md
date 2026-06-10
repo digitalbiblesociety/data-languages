@@ -7,12 +7,15 @@ population: 10100
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.27375
 longitude: -6.5685
 glottocode: kouy1238
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Eastern Kru > Beteic > Eastern Bete > Kouya"
+wikidata_id: Q35595
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuya_language"
 translations:
   - translation_iso: ara

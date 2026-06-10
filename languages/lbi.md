@@ -7,12 +7,15 @@ population: 4400
 country_id: CM
 country_name: Cameroon
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 7.85817
 longitude: 15.28952
 glottocode: labi1244
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Atlantic-Congo Speech Register > La'bi"
+wikidata_id: Q6460637
 wikipedia_url: "https://en.wikipedia.org/wiki/La%CA%BCbi_language"
 translations:
   - translation_iso: ara

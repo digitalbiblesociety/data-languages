@@ -7,12 +7,15 @@ population: 1000
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.01635
 longitude: 100.88061
 glottocode: huuu1240
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Angkuic > Southern Angkuic > Hu"
+wikidata_id: Q3141783
 wikipedia_url: "https://en.wikipedia.org/wiki/Hu_language"
 translations:
   - translation_iso: ara

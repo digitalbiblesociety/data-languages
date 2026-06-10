@@ -7,12 +7,15 @@ population: 780
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.39076
 longitude: 140.1863
 glottocode: tsak1250
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Greater Awyu > Becking-Dawi > Tsakwambo-Komyandaret > Tsaukambo"
+wikidata_id: Q7849438
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsaukambo_language"
 translations:
   - translation_iso: ara

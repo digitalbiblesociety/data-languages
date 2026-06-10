@@ -7,6 +7,8 @@ population: 2300
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.41971
 longitude: 11.02774
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: yang1293
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Mbam-Bubi > Mbam > Nuclear Mbam > Bati-Mbure-Yambassa > Mbure-Yambassa > Yambassa (A.60) > Nuasue"
+wikidata_id: Q12953315
 translations:
   - translation_iso: ara
     name: يانجبن

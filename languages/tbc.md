@@ -6,12 +6,15 @@ population: 25000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.69057
 longitude: 145.97454
 glottocode: taki1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Bel-Roinji-Nenaya > Bel > Western Bel > Takia"
+wikidata_id: Q3514336
 wikipedia_url: "https://en.wikipedia.org/wiki/Takia_language"
 translations:
   - translation_iso: ara

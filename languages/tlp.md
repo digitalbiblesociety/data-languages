@@ -7,12 +7,15 @@ population: 15100
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.14152
 longitude: -97.59312
 glottocode: filo1235
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > South-Central Totonacan > Lowland-Sierra Totonacan > Filomeno Mata Totonac"
+wikidata_id: Q5449202
 wikipedia_url: "https://en.wikipedia.org/wiki/Filomeno_Mata_Totonac"
 translations:
   - translation_iso: ara

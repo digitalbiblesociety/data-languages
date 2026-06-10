@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -41.55781
 longitude: 147.20848
 glottocode: neta1235
 glottolog_family_id: nort1442
 glottolog_family_name: North-Eastern Tasmanian
 glottolog_classification: "North-Eastern Tasmanian > North Midlands Tasmanian"
+wikidata_id: Q7859815
 wikipedia_url: "https://en.wikipedia.org/wiki/Tyerrernotepanner_language"
 translations:
   - translation_iso: ara

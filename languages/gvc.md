@@ -7,12 +7,15 @@ population: 550
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.07554
 longitude: -69.57049
 glottocode: guan1269
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Kotiria-Piratapuyo > Kotiria"
+wikidata_id: Q3566001
 wikipedia_url: "https://en.wikipedia.org/wiki/Wanano_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1770
 country_id: LA
 country_name: Laos
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.688835
 longitude: 102.13368
 glottocode: sila1247
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Sila-Wanya-Cosao-Pana > Sila"
+wikidata_id: Q7514021
 wikipedia_url: "https://en.wikipedia.org/wiki/Sila_language_(Sino-Tibetan)"
 translations:
   - translation_iso: ara

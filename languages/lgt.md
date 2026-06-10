@@ -7,12 +7,15 @@ population: 840
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.79935
 longitude: 142.29906
 glottocode: pahi1246
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Tama > Mehek-Pahi > Pahi"
+wikidata_id: Q7124545
 wikipedia_url: "https://en.wikipedia.org/wiki/Pahi_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 1500
 country_id: BR
 country_name: Brazil
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.77713
 longitude: -61.81669
 glottocode: pira1253
+wikidata_id: Q33825
 wikipedia_url: "https://en.wikipedia.org/wiki/Pirah%C3%A3_language"
 translations:
   - translation_iso: ara

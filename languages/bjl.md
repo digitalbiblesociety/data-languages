@@ -7,12 +7,15 @@ population: 910
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.06134
 longitude: 150.10143
 glottocode: bulu1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > Willaumez linkage > Bola-Bulu > Bulu (Papua New Guinea)"
+wikidata_id: Q4997162
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulu_language_(Oceanic)"
 translations:
   - translation_iso: ara

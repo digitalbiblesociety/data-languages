@@ -7,6 +7,8 @@ population: 556000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.02998
 longitude: 116.68089
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: cent2100
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kadazan-Sugut-Minokok > Kadazan Dusun"
+wikidata_id: Q5317225
 wikipedia_url: "https://en.wikipedia.org/wiki/Kadazandusun_language"
 translations:
   - translation_iso: ara

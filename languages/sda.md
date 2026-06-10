@@ -7,12 +7,15 @@ population: 588000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.97144
 longitude: 119.8292
 glottocode: tora1261
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Toraja-Duri > Torajic > Toraja-Sa'dan"
+wikidata_id: Q36673
 wikipedia_url: "https://en.wikipedia.org/wiki/Toraja-Sa%CA%BCdan_language"
 translations:
   - translation_iso: ara

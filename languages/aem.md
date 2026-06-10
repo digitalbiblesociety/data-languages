@@ -7,12 +7,15 @@ population: 100
 country_id: VN
 country_name: Vietnam
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 17.76723
 longitude: 105.92765
 glottocode: arem1240
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Vietic > Chutic > East Chutic > Arem"
+wikidata_id: Q3507920
 wikipedia_url: "https://en.wikipedia.org/wiki/Arem_language"
 translations:
   - translation_iso: ara

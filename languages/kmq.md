@@ -7,12 +7,15 @@ population: 15000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.50836
 longitude: 34.24567
 glottocode: kwam1249
 glottolog_family_id: koma1264
 glottolog_family_name: Koman
 glottolog_classification: "Koman > Gwama"
+wikidata_id: Q2591184
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwama_language"
 translations:
   - translation_iso: ara

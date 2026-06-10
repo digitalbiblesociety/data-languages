@@ -6,12 +6,15 @@ population: 630
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.1111
 longitude: 139.1098
 glottocode: vito1235
 glottolog_family_id: toro1256
 glottolog_family_name: Tor-Orya
 glottolog_classification: "Tor-Orya > Tor > Coastal Tor > Betaf-Vitou > Vitou"
+wikidata_id: Q7937210
 wikipedia_url: "https://en.wikipedia.org/wiki/Vitou_language"
 translations:
   - translation_iso: ara

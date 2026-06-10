@@ -1,5 +1,6 @@
 ---
 iso: diw
+macrolanguage_id: din
 name: Northwestern Dinka
 autonym: Thuɔŋjäŋ
 alt_names: [Dinka, "Dinka, Northwestern", Nord-Dinka, Ruweng]
@@ -7,12 +8,15 @@ population: 93000
 country_id: SS
 country_name: South Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.81484
 longitude: 29.29981
 glottocode: nort2816
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Dinka-Nuer > Dinka > Northwestern Dinka"
+wikidata_id: Q36249
 translations:
   - translation_iso: ara
     name: نورثويسترن دينكا

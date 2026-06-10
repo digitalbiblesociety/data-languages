@@ -7,12 +7,15 @@ population: 252000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.48965
 longitude: -92.46983
 glottocode: chol1282
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Cholan > Chol-Chontal > Chol"
+wikidata_id: Q35179
 wikipedia_url: "https://en.wikipedia.org/wiki/Ch%CA%BCol_language"
 translations:
   - translation_iso: ara

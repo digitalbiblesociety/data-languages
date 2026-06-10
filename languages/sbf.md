@@ -7,9 +7,12 @@ population: 400
 country_id: ET
 country_name: Ethiopia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 7.64407
 longitude: 35.22304
 glottocode: shab1252
+wikidata_id: Q36342
 wikipedia_url: "https://en.wikipedia.org/wiki/Shabo_language"
 translations:
   - translation_iso: ara

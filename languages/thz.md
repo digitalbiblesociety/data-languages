@@ -1,5 +1,6 @@
 ---
 iso: thz
+macrolanguage_id: tmh
 name: Tayart Tamajeq
 autonym: Tamajeq
 alt_names: [Amazigh, Tamachek, Tamacheq tahoua, Tamajekeg, "Tamajeq, Tayart", Tamazheq, Tomacheck, Touareg, Tuareg]
@@ -7,12 +8,15 @@ population: 250000
 country_id: NE
 country_name: Niger
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 16.92319
 longitude: 7.6743
 glottocode: taya1257
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Tuareg > Southern Tuareg > Tayart Tamajeq"
+wikidata_id: Q56388
 wikipedia_url: "https://en.wikipedia.org/wiki/Air_Tamajeq_language"
 translations:
   - translation_iso: ara

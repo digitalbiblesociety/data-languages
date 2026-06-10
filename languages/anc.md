@@ -7,12 +7,15 @@ population: 659000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.32042
 longitude: 9.46146
 glottocode: ngas1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.3 > Ngas"
+wikidata_id: Q35999
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngas_language"
 translations:
   - translation_iso: ara

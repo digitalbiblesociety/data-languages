@@ -1,5 +1,6 @@
 ---
 iso: quk
+macrolanguage_id: que
 name: Chachapoyas Quechua
 autonym: Amazonas Quechua
 alt_names: [Chachapoya, Chachapoyas, Chachapoyas-Quechua, Chachapuya runashimi, Quechua chachapoyano, "Quechua, Chachapoyas", Чачапоясский кечуа]
@@ -7,12 +8,15 @@ population: 100
 country_id: PE
 country_name: Peru
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -6.27021
 longitude: -77.66152
 glottocode: chac1250
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > San Martin-Amazonas Quechua > Chachapoyas Quechua"
+wikidata_id: Q35138
 wikipedia_url: "https://en.wikipedia.org/wiki/Chachapoyas_Quechua"
 translations:
   - translation_iso: ara

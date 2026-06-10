@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 44.51766
 longitude: -119.60513
 glottocode: coqu1236
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Coquille"
+wikidata_id: Q12953452
 translations:
   - translation_iso: ara
     name: الكوكيل

@@ -7,12 +7,15 @@ population: 150
 country_id: NC
 country_name: New Caledonia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -20.77083
 longitude: 165.04003
 glottocode: vama1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Voh-Kone-Cem-Pac > Voh-Kone > Vamale"
+wikidata_id: Q14916907
 wikipedia_url: "https://en.wikipedia.org/wiki/Vamale_language"
 translations:
   - translation_iso: ara

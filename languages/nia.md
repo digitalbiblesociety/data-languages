@@ -7,6 +7,8 @@ population: 1042000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.90691
 longitude: 97.49614
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nias1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sumatran > Central Barrier Islands > Nias"
+wikidata_id: Q2407831
 wikipedia_url: "https://en.wikipedia.org/wiki/Nias_language"
 translations:
   - translation_iso: ara

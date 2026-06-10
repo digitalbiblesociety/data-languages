@@ -6,6 +6,9 @@ population: 73000
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63313662
 wikipedia_url: "https://en.wikipedia.org/wiki/Us-Saare_language"
 translations:
   - translation_iso: ara

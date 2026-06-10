@@ -6,12 +6,15 @@ population: 12400
 country_id: ZM
 country_name: Zambia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.304105
 longitude: 29.40709
 glottocode: bwil1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Bwile"
+wikidata_id: Q3447440
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwile_language"
 translations:
   - translation_iso: ara

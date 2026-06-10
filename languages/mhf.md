@@ -7,12 +7,15 @@ population: 200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -6.35558
 longitude: 146.57572
 glottocode: mama1277
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Mamaa"
+wikidata_id: Q6745346
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamaa_language"
 translations:
   - translation_iso: ara

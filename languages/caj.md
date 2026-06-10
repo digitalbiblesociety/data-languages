@@ -6,8 +6,11 @@ population: null
 country_id: BO
 country_name: Bolivia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -22.54736
 longitude: -63.98651
+wikidata_id: Q56721
 wikipedia_url: "https://en.wikipedia.org/wiki/Chan%C3%A9_dialect"
 translations:
   - translation_iso: ara

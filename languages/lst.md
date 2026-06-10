@@ -7,12 +7,15 @@ population: 1360
 country_id: TT
 country_name: Trinidad and Tobago
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.666667
 longitude: -61.516667
 glottocode: trin1277
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > Modern Trinidad and Tobago Sign Language"
+wikidata_id: Q7842495
 wikipedia_url: "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Sign_Language"
 translations:
   - translation_iso: ara

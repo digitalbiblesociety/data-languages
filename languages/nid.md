@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -12.84476
 longitude: 134.64913
 glottocode: ngan1295
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Eastern Gunwinyguan > Ngandi"
+wikidata_id: Q7021977
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngandi_language"
 translations:
   - translation_iso: ara

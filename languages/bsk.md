@@ -7,9 +7,12 @@ population: 126300
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 36.2161
 longitude: 74.82364
 glottocode: buru1296
+wikidata_id: Q216286
 wikipedia_url: "https://en.wikipedia.org/wiki/Burushaski"
 translations:
   - translation_iso: ara

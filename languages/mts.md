@@ -6,12 +6,15 @@ population: 380
 country_id: PE
 country_name: Peru
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -11.37039
 longitude: -72.04089
 glottocode: yora1241
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Yora"
+wikidata_id: Q3572572
 wikipedia_url: "https://en.wikipedia.org/wiki/Yora_language"
 translations:
   - translation_iso: ara

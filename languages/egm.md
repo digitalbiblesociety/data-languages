@@ -3,8 +3,11 @@ iso: egm
 name: Benamanga
 country_id: TZ
 country_name: Tanzania
+scope: individual
+language_type: living
 latitude: -9.26671
 longitude: 35.0364
+wikidata_id: Q110736897
 translations:
   - translation_iso: ara
     name: بينامانجا

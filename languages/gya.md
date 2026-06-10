@@ -1,5 +1,6 @@
 ---
 iso: gya
+macrolanguage_id: gba
 name: Northwest Gbaya
 autonym: Gbaya
 alt_names: ["'Bokoto", Baya, Gbanu, Gbaya Kaka, Gbaya Kara, "Gbaya Kara 'Bodoe", Gbaya Nord-Ouest, "Gbaya, Northwest", Gbeya, Kaka, Kara, Southern Gbaya, Suma]
@@ -7,12 +8,15 @@ population: 267000
 country_id: CF
 country_name: Central African Republic
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.9503
 longitude: 15.2569
 glottocode: nort2775
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gbaya-Manza-Ngbaka > Gbaya Meridional-Occidental > Northwest Gbaya"
+wikidata_id: Q36594
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Gbaya_language"
 translations:
   - translation_iso: ara

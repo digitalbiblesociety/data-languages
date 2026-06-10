@@ -7,9 +7,12 @@ population: 1275
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.9946
 longitude: 145.81569
 glottocode: kaki1249
+wikidata_id: Q6349417
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaki_Ae_language"
 translations:
   - translation_iso: ara

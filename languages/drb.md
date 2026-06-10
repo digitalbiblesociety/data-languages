@@ -7,12 +7,15 @@ population: 1000
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 12.47398
 longitude: 30.67816
 glottocode: dair1239
 glottolog_family_id: nubi1251
 glottolog_family_name: Nubian
 glottolog_classification: "Nubian > Central Nubian > Kordofan Nubian > Eastern Kordofan Nubian > Dair"
+wikidata_id: Q12952360
 wikipedia_url: "https://en.wikipedia.org/wiki/Dair_language"
 translations:
   - translation_iso: ara

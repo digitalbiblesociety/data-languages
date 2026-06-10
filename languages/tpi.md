@@ -6,6 +6,8 @@ population: 125740
 country_id: PG
 country_name: Papua New Guinea
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -9.41971
 longitude: 147.3031
 scripts: [Latn]
@@ -13,6 +15,7 @@ glottocode: tokp1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Pacific Creole English > Early Melanesian Pidgin > Tok Pisin"
+wikidata_id: Q34159
 wikipedia_url: "https://en.wikipedia.org/wiki/Tok_Pisin"
 translations:
   - translation_iso: ara

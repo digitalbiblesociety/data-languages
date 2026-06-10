@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -15.59288
 longitude: -57.41916
 glottocode: umot1240
 glottolog_family_id: boro1281
 glottolog_family_name: Bororoan
 glottolog_classification: "Bororoan > Umotína"
+wikidata_id: Q7881740
 wikipedia_url: "https://en.wikipedia.org/wiki/Umot%C3%ADna_language"
 translations:
   - translation_iso: ara

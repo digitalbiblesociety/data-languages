@@ -7,12 +7,15 @@ population: 1700
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 17.0538
 longitude: 122.2802
 glottocode: agta1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Paranan-Pahanan > Agta-Pahanan"
+wikidata_id: Q7135432
 wikipedia_url: "https://en.wikipedia.org/wiki/Paranan_Agta_language"
 translations:
   - translation_iso: ara

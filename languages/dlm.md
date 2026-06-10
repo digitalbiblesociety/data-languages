@@ -6,12 +6,15 @@ population: null
 country_id: HR
 country_name: Croatia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 42.70949
 longitude: 18.02377
 glottocode: dalm1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Italo-Dalmatian > Dalmatian Romance > Dalmatian"
+wikidata_id: Q35527
 wikipedia_url: "https://en.wikipedia.org/wiki/Dalmatian_language"
 translations:
   - translation_iso: ara

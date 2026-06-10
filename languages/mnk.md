@@ -1,5 +1,6 @@
 ---
 iso: mnk
+macrolanguage_id: man
 name: Mandinka
 autonym: Mandingo
 alt_names: [Gambian Mandinka, Mande, Manding, Mandinga, Mandingue, Mandinka-språket, Mandinkeg, Mandinko-kan, Mandinque, Mandé, Socé, Мандинка]
@@ -7,12 +8,15 @@ population: 1300000
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.816523
 longitude: -15.653947
 glottocode: mand1436
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Manding > West Manding > Mandinka"
+wikidata_id: Q33678
 wikipedia_url: "https://en.wikipedia.org/wiki/Mandinka_language"
 translations:
   - translation_iso: ara

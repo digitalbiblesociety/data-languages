@@ -7,12 +7,15 @@ population: 8900
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.87556
 longitude: 9.64988
 glottocode: shal1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Beromic > Shall-Zwall"
+wikidata_id: Q3915355
 wikipedia_url: "https://en.wikipedia.org/wiki/Shall-Zwall_language"
 translations:
   - translation_iso: ara

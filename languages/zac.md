@@ -1,5 +1,6 @@
 ---
 iso: zac
+macrolanguage_id: zap
 name: Ocotlán Zapotec
 autonym: (San Antonio Ocotlán)
 alt_names: [Central Sapoteko, Ocotlan Zapotec, Ocotlán Oeste Zapotec, Zapotec, "Zapotec, Ocotlán", Zapoteco de San Felipe Tejalápam, Zapoteco del Poniente de Ocotlán, Zapotèque de San Felipe Tejalapan]
@@ -7,12 +8,15 @@ population: 15000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.82585
 longitude: -96.72633
 glottocode: ocot1244
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Western Valley Zapotec > Extended Ocotepec Zapotec > Ocotlán Zapotec"
+wikidata_id: Q7076643
 wikipedia_url: "https://en.wikipedia.org/wiki/Ocotl%C3%A1n_Zapotec"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 6000
 country_id: AZ
 country_name: Azerbaijan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41.18107
 longitude: 48.18457
 glottocode: kryt1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Lezgic > Samur > Southern Samur > Kryz"
+wikidata_id: Q35861
 wikipedia_url: "https://en.wikipedia.org/wiki/Kryts_language"
 translations:
   - translation_iso: ara

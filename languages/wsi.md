@@ -7,12 +7,15 @@ population: 300
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -15.27863
 longitude: 166.696
 glottocode: wusi1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Northern Vanuatu > Espiritu Santo > West Santo > Kula (Vanuatu)"
+wikidata_id: Q8039349
 wikipedia_url: "https://en.wikipedia.org/wiki/Wusi_language"
 translations:
   - translation_iso: ara

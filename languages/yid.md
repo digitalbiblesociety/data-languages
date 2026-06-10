@@ -1,12 +1,16 @@
 ---
 iso: yid
+iso639_1: yi
 name: Yiddish
 autonym: יודישע
 population: 1000000
 country_id: IL
 country_name: Israel
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Hebr]
+wikidata_id: Q8641
 wikipedia_url: "https://en.wikipedia.org/wiki/Yiddish"
 translations:
   - translation_iso: ara

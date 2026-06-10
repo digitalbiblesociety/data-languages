@@ -7,12 +7,15 @@ population: 153000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.10796
 longitude: 126.31393
 glottocode: kama1363
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Kamayo"
+wikidata_id: Q3192339
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamayo_language"
 translations:
   - translation_iso: ara

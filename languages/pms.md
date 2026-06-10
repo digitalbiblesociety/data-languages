@@ -7,6 +7,8 @@ population: 700000
 country_id: IT
 country_name: Italy
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 45.46333
 longitude: 8.32366
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: piem1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Italian > Piemontese-Lombard > Piemontese"
+wikidata_id: Q15085
 wikipedia_url: "https://en.wikipedia.org/wiki/Piedmontese_language"
 translations:
   - translation_iso: ara

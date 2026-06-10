@@ -7,12 +7,15 @@ population: 2200
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 22.75
 longitude: 99.4833
 glottocode: awac1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Wa-Lawa > Nuclear Waic > Lavia-Awalai-Damangnuo Awa"
+wikidata_id: Q2874642
 translations:
   - translation_iso: ara
     name: آوا

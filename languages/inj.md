@@ -7,8 +7,11 @@ population: 11200
 country_id: CO
 country_name: Colombia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.88872
 longitude: -76.65931
+wikidata_id: Q16115012
 translations:
   - translation_iso: ara
     name: إينجا الغابة

@@ -6,12 +6,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 11.98899
 longitude: 8.4331
 glottocode: bari1241
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Hausa-based pidgin > Barikanchi"
+wikidata_id: Q3450802
 wikipedia_url: "https://en.wikipedia.org/wiki/Barikanchi_pidgin"
 translations:
   - translation_iso: ara

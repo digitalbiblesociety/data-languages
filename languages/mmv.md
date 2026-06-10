@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 0.58896
 longitude: -69.74316
 glottocode: miri1270
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Eastern Tucanoan > Eastern Eastern Tucanoan > Eastern Eastern Tucanoan II > Kotiria-Piratapuyo > Piratapuyic > Arapaso-Miriti > Miriti"
+wikidata_id: Q6873567
 wikipedia_url: "https://en.wikipedia.org/wiki/Miriti_language"
 translations:
   - translation_iso: ara

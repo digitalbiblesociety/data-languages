@@ -7,12 +7,15 @@ population: 3290
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.43074
 longitude: 131.61701
 glottocode: kala1256
 glottolog_family_id: west1493
 glottolog_family_name: "West Bird's Head"
 glottolog_classification: "West Bird's Head > South West Bird's Head > Kalabra"
+wikidata_id: Q6350038
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalabra_language"
 translations:
   - translation_iso: ara

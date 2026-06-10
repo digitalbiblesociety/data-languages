@@ -7,12 +7,15 @@ population: null
 country_id: FI
 country_name: Finland
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 67.093
 longitude: 27.537
 glottocode: kemi1239
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Mainland Eastern Saami > Kemi Saami"
+wikidata_id: Q35871
 wikipedia_url: "https://en.wikipedia.org/wiki/Kemi_S%C3%A1mi"
 translations:
   - translation_iso: ara

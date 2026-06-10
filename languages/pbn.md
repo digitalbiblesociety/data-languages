@@ -7,12 +7,15 @@ population: 3000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.75286
 longitude: 11.23104
 glottocode: kpas1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Cameroun-Ubangian > Central Adamawa > Mumuye-Yandang > Yandangic > Bali-Kpasam > Kpasam"
+wikidata_id: Q3914902
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpasam_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 40000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.95282
 longitude: -5.57851
 glottocode: yaou1238
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Eastern Mande > Southeastern Mande > Mano-Dan > Guro-Dan > Guro-Yaoure > Yaouré"
+wikidata_id: Q3913951
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaure_language"
 translations:
   - translation_iso: ara

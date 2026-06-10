@@ -7,12 +7,15 @@ population: 50000
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 5.5103
 longitude: 30.02285
 glottocode: moro1284
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Morokodo-Beli > Gberi-Morokodo-Mittu > Morokodo"
+wikidata_id: Q6913216
 wikipedia_url: "https://en.wikipedia.org/wiki/Morokodo_language"
 translations:
   - translation_iso: ara

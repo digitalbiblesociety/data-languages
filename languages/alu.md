@@ -7,12 +7,15 @@ population: 17900
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.20699
 longitude: 161.15822
 glottocode: area1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Malaita > Southern Malaita > 'Are'are"
+wikidata_id: Q5160
 wikipedia_url: "https://en.wikipedia.org/wiki/%EA%9E%8BAre%EA%9E%8Care_language"
 translations:
   - translation_iso: ara

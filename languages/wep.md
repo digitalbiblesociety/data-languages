@@ -7,12 +7,15 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 51.459
 longitude: 7.499
 glottocode: west2356
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Altsächsisch > Middle-Modern Low German > Low German > West Low German > Westphalic"
+wikidata_id: Q505655
 wikipedia_url: "https://en.wikipedia.org/wiki/Westphalian_language"
 translations:
   - translation_iso: ara

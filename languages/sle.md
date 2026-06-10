@@ -7,12 +7,15 @@ population: 24000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.945826
 longitude: 77.221069
 glottocode: shol1240
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Badaga-Kannada > Kannadoid > Sholaga"
+wikidata_id: Q7500203
 wikipedia_url: "https://en.wikipedia.org/wiki/Sholaga_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: CO
 country_name: Colombia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 5.624
 longitude: -75.877
 glottocode: cara1271
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Unclassified Chocoan > Caramanta"
+wikidata_id: Q3504195
 wikipedia_url: "https://en.wikipedia.org/wiki/Caramanta_language"
 translations:
   - translation_iso: ara

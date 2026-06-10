@@ -7,12 +7,15 @@ population: 23000
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.67263
 longitude: 124.45395
 glottocode: poro1253
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > Central Bisayan > Peripheral Central Bisayan > Porohanon"
+wikidata_id: Q6583710
 wikipedia_url: "https://en.wikipedia.org/wiki/Porohanon_language"
 translations:
   - translation_iso: ara

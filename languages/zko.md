@@ -7,12 +7,15 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 55
 longitude: 94
 glottocode: kott1239
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian
 glottolog_classification: "Yeniseian > Kott-Assan"
+wikidata_id: Q34163
 wikipedia_url: "https://en.wikipedia.org/wiki/Kott_language"
 translations:
   - translation_iso: ara

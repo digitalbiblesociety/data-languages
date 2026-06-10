@@ -7,12 +7,15 @@ population: 557000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.63841
 longitude: -92.27861
 glottocode: tzel1254
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan
 glottolog_classification: "Mayan > Core Mayan > Western Mayan > Cholan-Tzeltalan > Tzeltalan > Tzeltal"
+wikidata_id: Q36808
 wikipedia_url: "https://en.wikipedia.org/wiki/Tzeltal_language"
 translations:
   - translation_iso: ara

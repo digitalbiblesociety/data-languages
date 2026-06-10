@@ -7,12 +7,15 @@ population: 60
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -12.66855
 longitude: 134.09501
 glottocode: gura1252
 glottolog_family_id: mani1293
 glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Bureran > Guragone"
+wikidata_id: Q5619801
 wikipedia_url: "https://en.wikipedia.org/wiki/Gurr-Goni_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 14200
 country_id: SD
 country_name: Sudan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 11.80325
 longitude: 29.28254
 glottocode: katl1237
 glottolog_family_id: katl1246
 glottolog_family_name: Katla-Tima
 glottolog_classification: "Katla-Tima > Katla-Julud > Katla"
+wikidata_id: Q35688
 wikipedia_url: "https://en.wikipedia.org/wiki/Katla_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: BG
 country_name: Bulgaria
 status_id: null
+scope: individual
+language_type: historical
 latitude: 48.671481
 longitude: 42.729234
 glottocode: bolg1250
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Bolgar > Bolgarian"
+wikidata_id: Q36880
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulgar_language"
 translations:
   - translation_iso: ara

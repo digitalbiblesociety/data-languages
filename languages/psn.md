@@ -7,12 +7,15 @@ population: 800
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.24049
 longitude: 119.64982
 glottocode: pana1303
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Seko > Panasuanic > Panasuan"
+wikidata_id: Q7130113
 wikipedia_url: "https://en.wikipedia.org/wiki/Panasuan_language"
 translations:
   - translation_iso: ara

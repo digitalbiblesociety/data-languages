@@ -7,12 +7,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.61717
 longitude: 144.01087
 glottocode: mina1274
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Inland Gulf of Papua > West Inland Gulf of Papua > Minanibai-Foia Foia"
+wikidata_id: Q6863167
 wikipedia_url: "https://en.wikipedia.org/wiki/Minanibai_language"
 translations:
   - translation_iso: ara

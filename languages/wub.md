@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -14.83473
 longitude: 125.72002
 glottocode: wuna1249
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Wunambal"
+wikidata_id: Q3913805
 wikipedia_url: "https://en.wikipedia.org/wiki/Wunambal_language"
 translations:
   - translation_iso: ara

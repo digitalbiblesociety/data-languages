@@ -7,12 +7,15 @@ population: 1610
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.75976
 longitude: 142.30075
 glottocode: idii1243
 glottolog_family_id: paho1240
 glottolog_family_name: Pahoturi
 glottolog_classification: "Pahoturi > Idi-Taeme"
+wikidata_id: Q5988630
 wikipedia_url: "https://en.wikipedia.org/wiki/Idi_language"
 translations:
   - translation_iso: ara

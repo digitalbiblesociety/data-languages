@@ -7,12 +7,15 @@ population: 3500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 19.15124
 longitude: 83.81415
 glottocode: bond1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Gutob-Remo > Bondo"
+wikidata_id: Q2567942
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonda_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 15700
 country_id: SN
 country_name: Senegal
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.5258
 longitude: -16.4245
 glottocode: band1340
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > Gusilay-Bandial > Bandial"
+wikidata_id: Q34872
 wikipedia_url: "https://en.wikipedia.org/wiki/Bandial_language"
 translations:
   - translation_iso: ara

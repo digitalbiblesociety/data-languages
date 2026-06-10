@@ -7,12 +7,15 @@ population: 54000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.405
 longitude: 103.441
 glottocode: azhe1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Southeastern Ngwi > Axioid > Sani-Axi-Azhe > Sani-Axi > Azhe"
+wikidata_id: Q4832535
 wikipedia_url: "https://en.wikipedia.org/wiki/Azhe_language"
 translations:
   - translation_iso: ara

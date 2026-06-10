@@ -7,12 +7,15 @@ population: 242000
 country_id: ZM
 country_name: Zambia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -12.412865
 longitude: 25.764565
 glottocode: kaon1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Luban > Luba-Kaonde > Kaonde-Shaba-Sanga > Kaonde"
+wikidata_id: Q33601
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaonde_language"
 translations:
   - translation_iso: ara

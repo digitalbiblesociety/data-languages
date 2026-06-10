@@ -7,12 +7,15 @@ population: 4000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.35741
 longitude: 123.65163
 glottocode: lewo1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Bima-Lembata > Flores > Flores-Lembata > Lamaholot Timur > Lewo Eleng"
+wikidata_id: Q6537465
 wikipedia_url: "https://en.wikipedia.org/wiki/Lewo_Eleng_language"
 translations:
   - translation_iso: ara

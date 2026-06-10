@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -13.29849
 longitude: -53.43936
 glottocode: agav1236
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawakan (Unattested) > Agavotaguerra"
+wikidata_id: Q3508007
 wikipedia_url: "https://en.wikipedia.org/wiki/Agavotaguerra_language"
 translations:
   - translation_iso: ara

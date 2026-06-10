@@ -6,12 +6,15 @@ population: 549600
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 11.55432
 longitude: 122.35413
 glottocode: akla1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > West Bisayan > Aklanon"
+wikidata_id: Q8773
 wikipedia_url: "https://en.wikipedia.org/wiki/Aklanon_language"
 translations:
   - translation_iso: ara

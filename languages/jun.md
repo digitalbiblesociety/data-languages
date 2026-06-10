@@ -7,12 +7,15 @@ population: 30400
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.26064
 longitude: 85.58452
 glottocode: juan1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > Juang"
+wikidata_id: Q33362
 wikipedia_url: "https://en.wikipedia.org/wiki/Juang_language"
 translations:
   - translation_iso: ara

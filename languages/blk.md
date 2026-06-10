@@ -7,12 +7,15 @@ population: 858740
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.21099
 longitude: 97.596905
 glottocode: paok1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Peripheral Karen > Pa'o Karen"
+wikidata_id: Q7121294
 wikipedia_url: "https://en.wikipedia.org/wiki/Pa%27O_language"
 translations:
   - translation_iso: ara

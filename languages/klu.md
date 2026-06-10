@@ -7,12 +7,15 @@ population: 400000
 country_id: LR
 country_name: Liberia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.872335
 longitude: -10.92142
 glottocode: klao1243
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Wee-Bassa-Klao > Bassa-Klao > Klao-Tajuasohn > Klao"
+wikidata_id: Q3914866
 wikipedia_url: "https://en.wikipedia.org/wiki/Klao_language"
 translations:
   - translation_iso: ara

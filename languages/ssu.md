@@ -6,12 +6,15 @@ population: 10
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -7.19275
 longitude: 146.56144
 glottocode: susu1251
 glottolog_family_id: anga1289
 glottolog_family_name: Angan
 glottolog_classification: "Angan > Nuclear Angan > Wojokesic > Kamasa-Susuami > Susuami"
+wikidata_id: Q7649752
 wikipedia_url: "https://en.wikipedia.org/wiki/Susuami_language"
 translations:
   - translation_iso: ara

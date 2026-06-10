@@ -7,12 +7,15 @@ population: 1570
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.64555
 longitude: 146.45496
 glottocode: gwah1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Gwahatike"
+wikidata_id: Q5623246
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwahatike_language"
 translations:
   - translation_iso: ara

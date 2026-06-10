@@ -7,6 +7,8 @@ population: null
 country_id: DE
 country_name: Germany
 status_id: "9"
+scope: individual
+language_type: historical
 latitude: 52
 longitude: 10
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: oldh1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Upper German > Old High German (ca. 750-1050)"
+wikidata_id: Q35218
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_High_German"
 translations:
   - translation_iso: ara

@@ -1,5 +1,6 @@
 ---
 iso: fbl
+macrolanguage_id: bik
 name: West Albay Bikol
 autonym: Bicol
 alt_names: ["Bikol, West Albay"]
@@ -7,6 +8,9 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q18603801
 translations:
   - translation_iso: ara
     name: البيكول البي الغربية

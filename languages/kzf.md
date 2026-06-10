@@ -7,12 +7,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.21051
 longitude: 119.52744
 glottocode: daak1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Greater Kaili > Common Kaili > Da'a Kaili"
+wikidata_id: Q33103997
 translations:
   - translation_iso: ara
     name: "كايلي دا'ا"

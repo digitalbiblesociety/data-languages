@@ -7,12 +7,15 @@ population: 1300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.16201
 longitude: 144.64724
 glottocode: bosn1248
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Lower Ramu > Ottilien > Bosngun-Awar > Bosngun"
+wikidata_id: Q56838
 wikipedia_url: "https://en.wikipedia.org/wiki/Bosmun_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 9.160672
 longitude: 8.505628
 glottocode: samb1307
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Alumic > Hasha-Sambe > Sambe"
+wikidata_id: Q36265
 wikipedia_url: "https://en.wikipedia.org/wiki/Sambe_language"
 translations:
   - translation_iso: ara

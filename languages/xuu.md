@@ -7,12 +7,15 @@ population: 7300
 country_id: NA
 country_name: Namibia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -16.59051
 longitude: 22.599835
 glottocode: kxoe1243
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
 glottolog_classification: "Khoe-Kwadi > Khoe > Non-Khoekhoe > West-Kxoe > Kxoe-Ani > Kxoe"
+wikidata_id: Q28305
 wikipedia_url: "https://en.wikipedia.org/wiki/Khwe_language"
 translations:
   - translation_iso: ara

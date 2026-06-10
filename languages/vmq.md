@@ -7,12 +7,15 @@ population: 320
 country_id: MX
 country_name: Mexico
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 17.55605
 longitude: -97.19211
 glottocode: soya1236
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northeastern Alta Mixtec > Soyaltepec Mixtec"
+wikidata_id: Q7572001
 wikipedia_url: "https://en.wikipedia.org/wiki/Soyaltepec_Mixtec"
 translations:
   - translation_iso: ara

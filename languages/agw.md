@@ -7,12 +7,15 @@ population: 5170
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.69634
 longitude: 162.19059
 glottocode: kahu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southeast Solomonic > Longgu-Malaita-Makira > Malaita-Makira > Makira > Kahua"
+wikidata_id: Q3191906
 wikipedia_url: "https://en.wikipedia.org/wiki/Kahua_language"
 translations:
   - translation_iso: ara

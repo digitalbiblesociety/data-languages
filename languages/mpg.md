@@ -7,12 +7,15 @@ population: 271000
 country_id: TD
 country_name: Chad
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.50664
 longitude: 15.84438
 glottocode: marb1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Masa > North Masa > Marba-Musey > Marba"
+wikidata_id: Q56614
 wikipedia_url: "https://en.wikipedia.org/wiki/Marba_language"
 translations:
   - translation_iso: ara

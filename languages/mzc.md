@@ -6,12 +6,15 @@ population: 135000
 country_id: MG
 country_name: Madagascar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -19.04
 longitude: 46.87
 glottocode: mada1271
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > West Scandinavian Sign > Norwegian Sign > Madagascar Sign Language"
+wikidata_id: Q12715020
 wikipedia_url: "https://en.wikipedia.org/wiki/Malagasy_Sign_Language"
 translations:
   - translation_iso: ara

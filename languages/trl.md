@@ -7,12 +7,15 @@ population: 4000
 country_id: GB
 country_name: United Kingdom
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 55.98292
 longitude: -4.38593
 glottocode: trav1235
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Traveller Scottish"
+wikidata_id: Q3915671
 wikipedia_url: "https://en.wikipedia.org/wiki/Scottish_Cant"
 translations:
   - translation_iso: ara

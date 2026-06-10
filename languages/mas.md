@@ -7,6 +7,8 @@ population: 1872000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.141895
 longitude: 36.45734
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: masa1300
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Nuclear Maa > Masai"
+wikidata_id: Q35787
 wikipedia_url: "https://en.wikipedia.org/wiki/Maasai_language"
 translations:
   - translation_iso: ara

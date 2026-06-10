@@ -7,12 +7,15 @@ population: 100000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.62037
 longitude: 9.20189
 glottocode: bete1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bendic > Nuclear Bendic > Bete-Obanliku > Bete-Bendi"
+wikidata_id: Q4887064
 wikipedia_url: "https://en.wikipedia.org/wiki/Bete-Bendi_language"
 translations:
   - translation_iso: ara

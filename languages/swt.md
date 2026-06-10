@@ -7,12 +7,15 @@ population: 3000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.29105
 longitude: 125.07769
 glottocode: sawi1256
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar
 glottolog_classification: "Timor-Alor-Pantar > Alor-Pantar > East Alor > Sawila-Wersing > Sawila"
+wikidata_id: Q7428639
 wikipedia_url: "https://en.wikipedia.org/wiki/Sawila_language"
 translations:
   - translation_iso: ara

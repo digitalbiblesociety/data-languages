@@ -7,12 +7,15 @@ population: 1500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.3701
 longitude: 141.45194
 glottocode: zima1244
 glottolog_family_id: anim1240
 glottolog_family_name: Anim
 glottolog_classification: "Anim > Marind-Boazi-Yaqai > Boazi > Zimakani"
+wikidata_id: Q56740
 wikipedia_url: "https://en.wikipedia.org/wiki/Zimakani_language"
 translations:
   - translation_iso: ara

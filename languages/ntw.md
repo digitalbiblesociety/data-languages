@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 36.72
 longitude: -77.115
 glottocode: nott1246
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian
 glottolog_classification: "Iroquoian > Northern Iroquoian > Tuscarora-Nottoway > Nottoway"
+wikidata_id: Q3344791
 wikipedia_url: "https://en.wikipedia.org/wiki/Nottoway_language"
 translations:
   - translation_iso: ara

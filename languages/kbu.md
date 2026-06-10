@@ -7,12 +7,15 @@ population: 1000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.292
 longitude: 69.691
 glottocode: kabu1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Unclassified Rajasthani > Kabutra"
+wikidata_id: Q10966761
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabutra_language"
 translations:
   - translation_iso: ara

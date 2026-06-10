@@ -7,12 +7,15 @@ population: 350
 country_id: BO
 country_name: Bolivia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -16.38949
 longitude: -67.57823
 glottocode: boli1236
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > West-Central South American Sign > Bolivian Sign Language"
+wikidata_id: Q1783590
 translations:
   - translation_iso: ara
     name: لغة الإشارة البوليفية

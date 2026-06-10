@@ -7,6 +7,8 @@ population: 31900000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 26.381655
 longitude: 86.22114
 scripts: [Deva, Tirh]
@@ -14,6 +16,7 @@ glottocode: mait1250
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Magadhan > Maithili"
+wikidata_id: Q36109
 wikipedia_url: "https://en.wikipedia.org/wiki/Maithili_language"
 translations:
   - translation_iso: ara

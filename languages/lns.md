@@ -7,12 +7,15 @@ population: 240000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.397425
 longitude: 11.068415
 glottocode: lamn1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Ring > Lamnso'"
+wikidata_id: Q35788
 wikipedia_url: "https://en.wikipedia.org/wiki/Nso_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 500
 country_id: ML
 country_name: Mali
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.6669
 longitude: -3.1168
 glottocode: anat1248
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Yanda-Ana > Ana Tinga Dogon"
+wikidata_id: Q4750346
 wikipedia_url: "https://en.wikipedia.org/wiki/Ana_Dogon"
 translations:
   - translation_iso: ara

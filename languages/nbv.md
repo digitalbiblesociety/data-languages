@@ -7,12 +7,15 @@ population: 8000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.87975
 longitude: 10.07795
 glottocode: ngam1267
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Wide Grassfields > Narrow Grassfields > Momo > Widikum-Tadkon > Ngamambo"
+wikidata_id: Q11129694
 translations:
   - translation_iso: ara
     name: نجاممبو

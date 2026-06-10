@@ -7,12 +7,15 @@ population: 16500
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 35.69718
 longitude: 102.9947
 glottocode: bona1250
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
 glottolog_classification: "Mongolic-Khitan > Mongolic > Southern Periphery Mongolic > Shirongol > Baoanic > Bonan"
+wikidata_id: Q32983
 wikipedia_url: "https://en.wikipedia.org/wiki/Bonan_language"
 translations:
   - translation_iso: ara

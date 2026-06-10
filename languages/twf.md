@@ -7,12 +7,15 @@ population: 1080
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 36.42765
 longitude: -105.60444
 glottocode: nort1550
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan
 glottolog_classification: "Kiowa-Tanoan > Tiwa-Piro > Tiwa > Taos-Picuris > Taos Northern Tiwa"
+wikidata_id: Q7684320
 wikipedia_url: "https://en.wikipedia.org/wiki/Taos_language"
 translations:
   - translation_iso: ara

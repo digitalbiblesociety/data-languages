@@ -6,12 +6,15 @@ population: 1800
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.16986
 longitude: 146.37187
 glottocode: awar1248
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Wantoatic > Wantoat-Awara > Awara"
+wikidata_id: Q2874670
 wikipedia_url: "https://en.wikipedia.org/wiki/Awara_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 44.408
 longitude: -123.94
 glottocode: alse1251
+wikidata_id: Q2395641
 wikipedia_url: "https://en.wikipedia.org/wiki/Alsea_language"
 translations:
   - translation_iso: ara

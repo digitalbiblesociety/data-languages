@@ -1,5 +1,6 @@
 ---
 iso: ojc
+macrolanguage_id: oji
 name: Central Ojibwa
 autonym: Central Ojibwe
 alt_names: ["Ojibwa, Central"]
@@ -7,12 +8,15 @@ population: 8000
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 46.57411
 longitude: -84.15429
 glottocode: cent2136
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Great Lakes Algonquian > Ojibwa-Potawatomi > Ojibwa > Nuclear Ojibwe > Central-Eastern-Southwestern Ojibwa > Central Ojibwa"
+wikidata_id: Q5061548
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Ojibwa_language"
 translations:
   - translation_iso: ara

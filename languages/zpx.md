@@ -1,5 +1,6 @@
 ---
 iso: zpx
+macrolanguage_id: zap
 name: San Baltazar Loxicha Zapotec
 autonym: Northwestern Pochutla Zapotec
 alt_names: [Coatec Zapotec, Coatlán-Loxicha Zapotec (non-preferred), Northern Sapoteko, San Baltázar Loxicha Zapotec, Zapotec, "Zapotec, San Baltazar Loxicha", Zapoteco de San Baltázar Loxicha]
@@ -7,12 +8,15 @@ population: 1500
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.04087
 longitude: -96.76197
 glottocode: sanb1241
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Macrocoatecano > Coatecano > Coatlan-Loxicha Zapotec > San Baltazar Loxicha Zapotec"
+wikidata_id: Q7413390
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Balt%C3%A1zar_Loxicha_Zapotec"
 translations:
   - translation_iso: ara

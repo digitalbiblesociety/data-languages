@@ -7,12 +7,15 @@ population: 6710
 country_id: MM
 country_name: Myanmar
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.8137
 longitude: 97.1203
 glottocode: paku1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Karenic > Southern Karen > Paku Karen"
+wikidata_id: Q25559420
 translations:
   - translation_iso: ara
     name: لغة باكو كارين

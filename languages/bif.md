@@ -7,12 +7,15 @@ population: 54500
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.46701
 longitude: -15.13467
 glottocode: biaf1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Jaad > Biafada"
+wikidata_id: Q35099
 wikipedia_url: "https://en.wikipedia.org/wiki/Biafada_language"
 translations:
   - translation_iso: ara

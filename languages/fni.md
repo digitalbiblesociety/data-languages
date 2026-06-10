@@ -7,12 +7,15 @@ population: 1100
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.29104
 longitude: 18.75001
 glottocode: fani1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Goulaic > Zan-Kulaalic > Kulaalic > Fania"
+wikidata_id: Q317642
 wikipedia_url: "https://en.wikipedia.org/wiki/Fania_language"
 translations:
   - translation_iso: ara

@@ -7,8 +7,11 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: historical
 latitude: 55.932
 longitude: -5.222
+wikidata_id: Q5128278
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Gaelic"
 translations:
   - translation_iso: ara

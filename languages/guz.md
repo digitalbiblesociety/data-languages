@@ -7,6 +7,8 @@ population: 2701470
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.78872
 longitude: 34.76751
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: gusi1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > East Nyanza > Nyanza Mara > North Mara > Gusii"
+wikidata_id: Q33603
 wikipedia_url: "https://en.wikipedia.org/wiki/Gusii_language"
 translations:
   - translation_iso: ara

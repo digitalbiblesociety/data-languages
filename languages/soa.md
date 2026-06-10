@@ -7,12 +7,15 @@ population: 32300
 country_id: TH
 country_name: Thailand
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 13.2136
 longitude: 99.86509
 glottocode: thai1259
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Wenma-Southwestern Tai > Sapa-Southwestern Tai > Southwestern Tai > Southwestern Tai P > Chiang Saeng > Black Tai > Thai Song"
+wikidata_id: Q7709159
 wikipedia_url: "https://en.wikipedia.org/wiki/Thai_Song_language"
 translations:
   - translation_iso: ara

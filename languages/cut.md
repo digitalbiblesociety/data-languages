@@ -7,12 +7,15 @@ population: 3140
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.90286
 longitude: -96.66452
 glottocode: teut1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Cuicatec > Teutila Cuicatec"
+wikidata_id: Q12953453
 wikipedia_url: "https://en.wikipedia.org/wiki/Teutila_Cuicatec_language"
 translations:
   - translation_iso: ara

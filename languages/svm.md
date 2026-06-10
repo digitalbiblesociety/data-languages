@@ -6,12 +6,15 @@ population: 1000
 country_id: IT
 country_name: Italy
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 41.89
 longitude: 14.7
 glottocode: slav1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > South Slavic > Western South Slavic > Slavomolisano"
+wikidata_id: Q36254
 wikipedia_url: "https://en.wikipedia.org/wiki/Slavomolisano"
 translations:
   - translation_iso: ara

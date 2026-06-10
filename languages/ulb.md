@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.4974
 longitude: 6.59202
 glottocode: uluk1257
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Eastern Ede > Southeastern Ede > Nuclear Yoruba > Ulukwumi"
+wikidata_id: Q36722
 wikipedia_url: "https://en.wikipedia.org/wiki/Ulukwumi_language"
 translations:
   - translation_iso: ara

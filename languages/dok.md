@@ -6,12 +6,15 @@ population: 13000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 0.80348
 longitude: 120.70738
 glottocode: dond1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Tominic > Northern Tomini > Dondo"
+wikidata_id: Q5295571
 wikipedia_url: "https://en.wikipedia.org/wiki/Dondo_language_(Austronesian)"
 translations:
   - translation_iso: ara

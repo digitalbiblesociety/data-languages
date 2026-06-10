@@ -7,12 +7,15 @@ population: 970
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.05269
 longitude: 147.76651
 glottocode: pakt1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Admiralty Islands > Eastern Admiralty Islands > Manus > Pak-Tong"
+wikidata_id: Q3360711
 wikipedia_url: "https://en.wikipedia.org/wiki/Pak-Tong_language"
 translations:
   - translation_iso: ara

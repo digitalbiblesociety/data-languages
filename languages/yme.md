@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -4.16666
 longitude: -73.66666
 glottocode: yame1242
 glottolog_family_id: peba1241
 glottolog_family_name: Peba-Yagua
 glottolog_classification: "Peba-Yagua > Peba-Yameo > Yameo"
+wikidata_id: Q3121032
 wikipedia_url: "https://en.wikipedia.org/wiki/Yameo_language"
 translations:
   - translation_iso: ara

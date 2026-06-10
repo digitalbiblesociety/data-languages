@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 35.033333
 longitude: 44.383333
 glottocode: urar1245
 glottolog_family_id: hurr1239
 glottolog_family_name: Hurro-Urartian
 glottolog_classification: "Hurro-Urartian > Urartian"
+wikidata_id: Q36934
 wikipedia_url: "https://en.wikipedia.org/wiki/Urartian_language"
 translations:
   - translation_iso: ara

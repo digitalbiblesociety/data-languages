@@ -7,12 +7,15 @@ population: 100
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -14.00579
 longitude: 129.83741
 glottocode: mart1254
 glottolog_family_id: west2434
 glottolog_family_name: Western Daly
 glottolog_classification: "Western Daly > Bringen > Maringarr-Matige > Marti Ke"
+wikidata_id: Q10577823
 wikipedia_url: "https://en.wikipedia.org/wiki/Marti_Ke_language"
 translations:
   - translation_iso: ara

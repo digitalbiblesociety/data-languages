@@ -7,6 +7,8 @@ population: 478000
 country_id: RU
 country_name: Russia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 61.69744
 longitude: 133.98031
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: yaku1245
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Sakha-Dolgan > Sakha"
+wikidata_id: Q34299
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakut_language"
 translations:
   - translation_iso: ara

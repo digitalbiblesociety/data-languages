@@ -6,12 +6,15 @@ population: 1250
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.68263
 longitude: 146.50794
 glottocode: asar1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Warup > Nuclear Warup > Molet-Asaroo > Asaro'o"
+wikidata_id: Q3503684
 wikipedia_url: "https://en.wikipedia.org/wiki/Asaro%27o_language"
 translations:
   - translation_iso: ara

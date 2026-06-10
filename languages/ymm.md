@@ -7,12 +7,15 @@ population: 2608000
 country_id: SO
 country_name: Somalia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.22288
 longitude: 43.61819
 glottocode: maay1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > East Cushitic > Lowland East Cushitic > Southern Lowland East Cushitic > Mainstream Lowland East Cushitic > Omo-Tana > Eastern Omo-Tana > Maay"
+wikidata_id: Q36221
 wikipedia_url: "https://en.wikipedia.org/wiki/Maay_Maay"
 translations:
   - translation_iso: ara

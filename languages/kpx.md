@@ -7,12 +7,15 @@ population: 4000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.06973
 longitude: 147.38403
 glottocode: moun1252
 glottolog_family_id: koia1260
 glottolog_family_name: Koiarian
 glottolog_classification: "Koiarian > Koiaric > Biage-Mountain Koiali > Mountain Koiali"
+wikidata_id: Q6925030
 wikipedia_url: "https://en.wikipedia.org/wiki/Mountain_Koiali_language"
 translations:
   - translation_iso: ara

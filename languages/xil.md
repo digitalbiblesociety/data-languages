@@ -6,12 +6,15 @@ population: null
 country_id: AL
 country_name: Albania
 status_id: null
+scope: individual
+language_type: historical
 latitude: 43
 longitude: 18
 glottocode: illy1234
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Illyrian"
+wikidata_id: Q35976
 wikipedia_url: "https://en.wikipedia.org/wiki/Illyrian_language"
 translations:
   - translation_iso: ara

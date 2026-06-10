@@ -7,12 +7,15 @@ population: 22000
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.00313
 longitude: -76.86062
 glottocode: inga1252
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
 glottolog_classification: "Quechuan > Colombia-Ecuador Quechua > Ecuadorian Quechua B > Imbabura-Colombia-Oriente Quechua > Colombia-Oriente Quechua > Colombian Inga"
+wikidata_id: Q35491
 wikipedia_url: "https://en.wikipedia.org/wiki/Inga_Kichwa"
 translations:
   - translation_iso: ara

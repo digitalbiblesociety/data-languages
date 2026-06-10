@@ -1,5 +1,6 @@
 ---
 iso: afr
+iso639_1: af
 name: Afrikaans
 autonym: Afrikaans
 alt_names: [Afrikaanca, Afrikaans leid, Afrikaansk, Afrikaneg, Afrikans simi, Afrikansum, Afrikoansk, Afrikáans, Afrikánsagiella, Afríkanska, An Afracáinis, Godka afrikaans, IsiBhulu, IsiBhunu, Kiafrikaans, Lèngoa afrikaans, Африкаанс, Африканс, Афрыкаанс, Աֆրիկանս, אפריקאנס, ئاڧرىقانچە, لغه افريكانس, აფრიკაანსი]
@@ -7,6 +8,8 @@ population: 7331800
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -22
 longitude: 30
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: afri1274
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Afrikaansic > Afrikaans"
+wikidata_id: Q14196
 wikipedia_url: "https://en.wikipedia.org/wiki/Afrikaans"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 190
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 50.92694
 longitude: -127.30783
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kwak1269
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan
 glottolog_classification: "Wakashan > Northern Wakashan > Kwakiutlan > Kwak'wala"
+wikidata_id: Q2640628
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwak%CA%BCwala"
 translations:
   - translation_iso: ara

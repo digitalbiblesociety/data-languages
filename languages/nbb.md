@@ -7,12 +7,15 @@ population: 7340
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.08134
 longitude: 8.69131
 glottocode: ndoe1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Ndoe"
+wikidata_id: Q36134
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndoe_language"
 translations:
   - translation_iso: ara

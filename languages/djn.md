@@ -7,12 +7,15 @@ population: 15
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -14.13608
 longitude: 133.00152
 glottocode: djau1244
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan
 glottolog_classification: "Gunwinyguan > Western Gunwinyguan > Jawoyn"
+wikidata_id: Q13553748
 wikipedia_url: "https://en.wikipedia.org/wiki/Jawoyn_language"
 translations:
   - translation_iso: ara

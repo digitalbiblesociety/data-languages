@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 30.43
 longitude: -91.75
 glottocode: ofoo1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Ohio Valley Siouan > Southeastern Siouan > Ofo"
+wikidata_id: Q3349758
 wikipedia_url: "https://en.wikipedia.org/wiki/Ofo_language"
 translations:
   - translation_iso: ara

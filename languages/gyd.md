@@ -7,12 +7,15 @@ population: 150
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -17.06954
 longitude: 139.48903
 glottocode: kaya1319
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic
 glottolog_classification: "Tangkic > Southern Tangkic > Kayardild-Yangkaal > Kayardild"
+wikidata_id: Q3913770
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayardild_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1430
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 18.75453
 longitude: -98.12635
 glottocode: cent2133
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Central Puebla Nahuatl"
+wikidata_id: Q5061727
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Puebla_Nahuatl"
 translations:
   - translation_iso: ara

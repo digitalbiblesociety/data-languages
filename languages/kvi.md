@@ -7,12 +7,15 @@ population: 10000
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.11808
 longitude: 16.51288
 glottocode: kwan1285
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic A > East Chadic A.3 > Kwang"
+wikidata_id: Q3440398
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwang_language"
 translations:
   - translation_iso: ara

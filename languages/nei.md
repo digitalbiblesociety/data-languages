@@ -7,6 +7,9 @@ population: null
 country_id: SY
 country_name: Syria
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q41499830
 translations:
   - translation_iso: ara
     name: نيو هيتيت

@@ -7,12 +7,15 @@ population: 1100
 country_id: SD
 country_name: Sudan
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 12.03457
 longitude: 30.93062
 glottocode: tago1246
 glottolog_family_id: rash1249
 glottolog_family_name: Rashad
 glottolog_classification: "Rashad > Tagoi"
+wikidata_id: Q36537
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagoi_language"
 translations:
   - translation_iso: ara

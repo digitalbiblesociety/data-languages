@@ -1,5 +1,6 @@
 ---
 iso: tgk
+iso639_1: tg
 name: Tajik
 autonym: Тоҷикӣ (Tojikī)
 alt_names: [Afghan Farsi, An Táidsícis, Dari, Farsi (Eastern), Galcha, Herati, Kaboli, Kabuli, Khorasani, Kitajiki, Tacik tili, Taciki, Tacikçe, Tadjik, Tadjikeg, Tadschiksche Spraak, Tadsjikisk, Tadzhik, Tadzik, Tadzjieks, Tadzjikiska, Tajiki, Tajiki Persian, Tayik simi, Tádžičtina, Забони тоҷикӣ, تاجىك تىلى, طاجيكى, فارسی تاجیکی]
@@ -7,6 +8,8 @@ population: 8132320
 country_id: TJ
 country_name: Tajikistan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 38.82131
 longitude: 68.55493
 scripts: [Arab, Cyrl, Latn]
@@ -14,6 +17,7 @@ glottocode: taji1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Farsic-Caucasian Tat > Farsic > Eastern Farsic > Tajikic > Tajik"
+wikidata_id: Q9260
 wikipedia_url: "https://en.wikipedia.org/wiki/Tajik_language"
 translations:
   - translation_iso: ara

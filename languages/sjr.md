@@ -7,12 +7,15 @@ population: 2500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -4.62059
 longitude: 152.89174
 glottocode: siar1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Siar-Lak"
+wikidata_id: Q3482907
 wikipedia_url: "https://en.wikipedia.org/wiki/Siar-Lak_language"
 translations:
   - translation_iso: ara

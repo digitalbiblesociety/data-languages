@@ -7,12 +7,15 @@ population: 5520
 country_id: VE
 country_name: Venezuela
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.707045
 longitude: -64.387725
 glottocode: maqu1238
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Maquiritari-Wayumara > Ye'kwana"
+wikidata_id: Q3082027
 wikipedia_url: "https://en.wikipedia.org/wiki/Ye%EA%9E%8Ckuana_language"
 translations:
   - translation_iso: ara

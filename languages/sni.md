@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -7.24999
 longitude: -74.91665
 glottocode: sens1242
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Sensi"
+wikidata_id: Q7451029
 wikipedia_url: "https://en.wikipedia.org/wiki/Sensi_language"
 translations:
   - translation_iso: ara

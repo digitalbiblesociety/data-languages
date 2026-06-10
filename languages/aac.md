@@ -6,12 +6,15 @@ population: 50
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.95526
 longitude: 142.40045
 glottocode: arii1243
 glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Ari-Waruna > Ari"
+wikidata_id: Q1811224
 wikipedia_url: "https://en.wikipedia.org/wiki/Ari_language_(New_Guinea)"
 translations:
   - translation_iso: ara

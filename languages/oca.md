@@ -7,12 +7,15 @@ population: 190
 country_id: PE
 country_name: Peru
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -2.159
 longitude: -72.14215
 glottocode: ocai1244
 glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan
 glottolog_classification: "Huitotoan > Nonuya-Ocaina > Ocaina"
+wikidata_id: Q3182577
 wikipedia_url: "https://en.wikipedia.org/wiki/Ocaina_language"
 translations:
   - translation_iso: ara

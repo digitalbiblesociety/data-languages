@@ -1,5 +1,6 @@
 ---
 iso: pol
+iso639_1: pl
 name: Polish
 autonym: polski
 alt_names: [An Pholainnis, Fiteny poloney, IsiPholisi, Kipoland, Leh tili, Lehçe, Lia-polaku, Lingwa Pollakka, Poalsk, Polacu, Polisc sprǣc, Polnesch, Polnisch, Polonais, Poloneg, Polonek, Poloniana linguo, Poloniera, Polonès, Polonés, Pols, Polsk, Polska, Polskkagiella, Polsko godka, Polynnish, Pools, Poolsch, Poôls, Pulaku simi, Pwyleg, Pòlais, Pòlsczi jãzëk, Pólska, Pô-làn-ngî, Pɔlisigbe, Tok Polan, Łéngua połaca, По́л҄ьскъ ѩꙁꙑ́къ, Полень кяль, Поляк теле, Полӓк йылме, Լեհերեն, פויליש, פולנית, بولاندى, پولەك تىلى, ܠܫܢܐ ܦܘܠܢܕܝܐ, ލަހިސްތާނީ, ཕོ་ལན་སྐད།]
@@ -7,6 +8,8 @@ population: 39700000
 country_id: PL
 country_name: Poland
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 51.843923
 longitude: 18.625487
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: poli1260
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Balto-Slavic > Slavic > West Slavic > Lechitic > Polish-Silesian > Polish"
+wikidata_id: Q809
 wikipedia_url: "https://en.wikipedia.org/wiki/Polish_language"
 translations:
   - translation_iso: ara

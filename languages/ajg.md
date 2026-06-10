@@ -7,12 +7,15 @@ population: 1131000
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.066335
 longitude: 1.64992
 glottocode: ajab1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Aja (Benin)"
+wikidata_id: Q35035
 wikipedia_url: "https://en.wikipedia.org/wiki/Adja_language"
 translations:
   - translation_iso: ara

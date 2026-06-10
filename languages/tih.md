@@ -7,12 +7,15 @@ population: 9000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.1796
 longitude: 115.82568
 glottocode: timu1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Murutic > Murutic > Northern Murutic > Lowland Murut > Timugon Murut"
+wikidata_id: Q7807680
 wikipedia_url: "https://en.wikipedia.org/wiki/Timugon_language"
 translations:
   - translation_iso: ara

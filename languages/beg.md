@@ -7,12 +7,15 @@ population: 1000
 country_id: BN
 country_name: Brunei
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 4.96207
 longitude: 114.93293
 glottocode: bela1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > North Sarawakan > Berawan-Lower Baram > Lower Baram > Central Lower Baram A > Lemeting"
+wikidata_id: Q2894198
 wikipedia_url: "https://en.wikipedia.org/wiki/Belait_language"
 translations:
   - translation_iso: ara

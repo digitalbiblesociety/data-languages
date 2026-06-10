@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.42258
 longitude: -62.43584
 glottocode: puru1264
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Purubora-Ramarama > Puruborá"
+wikidata_id: Q7261619
 wikipedia_url: "https://en.wikipedia.org/wiki/Purubora_language"
 translations:
   - translation_iso: ara

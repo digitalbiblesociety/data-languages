@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 25.53987
 longitude: 75.85192
 glottocode: naga1399
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Dravidian (Unattested) > Nagarchal"
+wikidata_id: Q13299
 wikipedia_url: "https://en.wikipedia.org/wiki/Nagarchal_language"
 translations:
   - translation_iso: ara

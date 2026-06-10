@@ -7,12 +7,15 @@ population: 5800
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 20.2957
 longitude: -97.84358
 glottocode: uppe1275
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Necaxan > Upper Necaxa Totonac"
+wikidata_id: Q56343
 wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Necaxa_Totonac"
 translations:
   - translation_iso: ara

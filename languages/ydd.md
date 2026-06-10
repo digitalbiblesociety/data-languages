@@ -1,5 +1,6 @@
 ---
 iso: ydd
+macrolanguage_id: yid
 name: Eastern Yiddish
 autonym: ייִדיש
 alt_names: [Central Yiddish, Judeo-German, Yiddish, Yiddish (Bessarabian), Yiddish (Europe), Yiddish (Israel), Yiddish (Israël), Yiddish (Lithuanian), Yiddish (Lodz), "Yiddish, Eastern", d Judeo German]
@@ -7,12 +8,15 @@ population: 371657
 country_id: UA
 country_name: Ukraine
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 51.75
 longitude: 19.42
 glottocode: east2295
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > High German > Middle German > East Middle German > Schlesisch-Wilmesau > Eastern Yiddish"
+wikidata_id: Q12953980
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Yiddish"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1395240
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: living
 latitude: 40.1897
 longitude: 44.4839
 glottocode: homs1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Armenic > Eastern-Western Armenian > Western Armenian"
+wikidata_id: Q180945
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Armenian"
 translations:
   - translation_iso: ara

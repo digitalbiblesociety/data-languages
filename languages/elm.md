@@ -7,12 +7,15 @@ population: 58000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.72964
 longitude: 7.267
 glottocode: elem1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Ogonoid > West Ogonoid > Eleme"
+wikidata_id: Q3914427
 wikipedia_url: "https://en.wikipedia.org/wiki/Eleme_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 15100
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 24.8688
 longitude: 94.53404
 glottocode: komi1270
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Kolhrengic > Nuclear Kolhrengic > Kom (India)"
+wikidata_id: Q12952647
 wikipedia_url: "https://en.wikipedia.org/wiki/Kom_language_(India)"
 translations:
   - translation_iso: ara

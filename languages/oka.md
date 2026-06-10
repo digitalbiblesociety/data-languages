@@ -7,6 +7,8 @@ population: 400
 country_id: CA
 country_name: Canada
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 49.27453
 longitude: -119.294115
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: okan1243
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Interior Salish > Southern Interior Salish > Okanaganic > Okanagan"
+wikidata_id: Q2984602
 wikipedia_url: "https://en.wikipedia.org/wiki/Okanagan_language"
 translations:
   - translation_iso: ara

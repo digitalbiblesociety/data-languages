@@ -6,8 +6,11 @@ population: 6000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 3.42467
 longitude: 116.44253
+wikidata_id: Q12953832
 translations:
   - translation_iso: ara
     name: اللغة بوتوه

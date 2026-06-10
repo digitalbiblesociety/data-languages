@@ -7,12 +7,15 @@ population: 1137
 country_id: ET
 country_name: Ethiopia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 6.88202
 longitude: 36.3813
 glottocode: nayi1243
 glottolog_family_id: dizo1235
 glottolog_family_name: Dizoid
 glottolog_classification: "Dizoid > Nayi"
+wikidata_id: Q3183349
 wikipedia_url: "https://en.wikipedia.org/wiki/Nayi_language"
 translations:
   - translation_iso: ara

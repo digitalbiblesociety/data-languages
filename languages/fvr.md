@@ -7,6 +7,8 @@ population: 745800
 country_id: SD
 country_name: Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.04551
 longitude: 23.64012
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: furr1244
 glottolog_family_id: fura1235
 glottolog_family_name: Furan
 glottolog_classification: "Furan > Fur"
+wikidata_id: Q33364
 wikipedia_url: "https://en.wikipedia.org/wiki/Fur_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: null
+scope: individual
+language_type: extinct
 latitude: -22.807778
 longitude: -42.106389
 glottocode: tupi1273
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Tupinambá"
+wikidata_id: Q56944
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupi_language"
 translations:
   - translation_iso: ara

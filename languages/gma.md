@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -14.29546
 longitude: 126.27131
 glottocode: gamb1251
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Northern Worrorran > Forrest River > Gambera"
+wikidata_id: Q10502327
 translations:
   - translation_iso: ara
     name: غامبيرا

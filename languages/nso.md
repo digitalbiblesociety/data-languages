@@ -7,6 +7,8 @@ population: 4631000
 country_id: ZA
 country_name: South Africa
 status_id: "1"
+scope: individual
+language_type: living
 latitude: -24.79929
 longitude: 29.47179
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: pedi1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Sotho-Tswana (S.30) > Northern Sotho > Sepedic > Pedi"
+wikidata_id: Q33890
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sotho"
 translations:
   - translation_iso: ara

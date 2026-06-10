@@ -7,12 +7,15 @@ population: 10000
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -1.77196
 longitude: 136.26312
 glottocode: nucl1454
 glottolog_family_id: yawa1259
 glottolog_family_name: Yawa-Saweru
 glottolog_classification: "Yawa-Saweru > Yawa"
+wikidata_id: Q3572020
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawa_language"
 translations:
   - translation_iso: ara

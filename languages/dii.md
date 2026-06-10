@@ -7,12 +7,15 @@ population: 140
 country_id: CM
 country_name: Cameroon
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 4.80551
 longitude: 10.9888
 glottocode: dimb1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Nuclear Bafia (A.50) > Dimbong"
+wikidata_id: Q35196
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaalong_language"
 translations:
   - translation_iso: ara

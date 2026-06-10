@@ -6,12 +6,15 @@ population: 256000
 country_id: BB
 country_name: Barbados
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.13648
 longitude: -59.53465
 glottocode: baja1265
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Eastern Caribbean Creole > Barbados-Eustatius > Barbados-Trinidad > Bajan"
+wikidata_id: Q2524014
 wikipedia_url: "https://en.wikipedia.org/wiki/Bajan_Creole"
 translations:
   - translation_iso: ara

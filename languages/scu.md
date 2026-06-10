@@ -7,12 +7,15 @@ population: 2170
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.68622
 longitude: 78.38646
 glottocode: shum1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Western West Himalayish > Kinnauric > Thebor > Shumcho"
+wikidata_id: Q22077739
 wikipedia_url: "https://en.wikipedia.org/wiki/Shumcho_language"
 translations:
   - translation_iso: ara

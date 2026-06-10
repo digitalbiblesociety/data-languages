@@ -7,12 +7,15 @@ population: 8500
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 10.94813
 longitude: 14.21306
 glottocode: vame1236
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > Hurza > Vame"
+wikidata_id: Q3515088
 wikipedia_url: "https://en.wikipedia.org/wiki/Vame_language"
 translations:
   - translation_iso: ara

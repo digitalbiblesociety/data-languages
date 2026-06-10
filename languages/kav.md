@@ -6,8 +6,11 @@ population: 289
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -8.19121
 longitude: -70.38221
+wikidata_id: Q3450636
 wikipedia_url: "https://en.wikipedia.org/wiki/Katuk%C3%ADna_language"
 translations:
   - translation_iso: ara

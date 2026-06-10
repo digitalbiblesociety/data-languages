@@ -7,9 +7,12 @@ population: 23
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -12.4111
 longitude: 130.92221
 glottocode: lara1258
+wikidata_id: Q2591193
 wikipedia_url: "https://en.wikipedia.org/wiki/Laragiya_language"
 translations:
   - translation_iso: ara

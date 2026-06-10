@@ -7,6 +7,8 @@ population: 5000
 country_id: CA
 country_name: Canada
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 47.95551
 longitude: -73.79888
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: atik1240
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Atikamekw"
+wikidata_id: Q56590
 wikipedia_url: "https://en.wikipedia.org/wiki/Atikamekw_language"
 translations:
   - translation_iso: ara

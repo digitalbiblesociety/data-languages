@@ -6,12 +6,15 @@ population: 26000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -8.08527
 longitude: 142.8741
 glottocode: gogo1265
 glottolog_family_id: suki1244
 glottolog_family_name: Suki-Gogodala
 glottolog_classification: "Suki-Gogodala > Gogodalic > Gogodala"
+wikidata_id: Q3512161
 wikipedia_url: "https://en.wikipedia.org/wiki/Gogodala_language"
 translations:
   - translation_iso: ara

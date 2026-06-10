@@ -7,6 +7,8 @@ population: 63000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.45731
 longitude: 8.55058
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: ekaj1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Ekoid-Mbe > Ekoid > Bakor-Ejagham > Bakor > Northern Bakor > Nnam-Ekajuk > Ekajuk"
+wikidata_id: Q35250
 wikipedia_url: "https://en.wikipedia.org/wiki/Kajuk_language"
 translations:
   - translation_iso: ara

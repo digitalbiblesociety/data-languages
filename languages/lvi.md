@@ -7,12 +7,15 @@ population: 500
 country_id: IL
 country_name: Israel
 status_id: null
+scope: individual
+language_type: living
 latitude: 15.306668
 longitude: 106.734345
 glottocode: lawi1235
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > West Bahnaric > Lawi"
+wikidata_id: Q6502657
 wikipedia_url: "https://en.wikipedia.org/wiki/Lavi_language"
 translations:
   - translation_iso: ara

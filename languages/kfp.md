@@ -7,12 +7,15 @@ population: 28500
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.41015
 longitude: 83.81422
 glottocode: korw1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Mundaic > North Munda > Kherwarian > Mundaric > Kodaku-Korwa > Korwa"
+wikidata_id: Q6432786
 wikipedia_url: "https://en.wikipedia.org/wiki/Korwa_language"
 translations:
   - translation_iso: ara

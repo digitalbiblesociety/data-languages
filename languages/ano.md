@@ -7,9 +7,12 @@ population: 10000
 country_id: CO
 country_name: Colombia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -0.53751
 longitude: -72.08686
 glottocode: ando1256
+wikidata_id: Q2669225
 wikipedia_url: "https://en.wikipedia.org/wiki/Andoque_language"
 translations:
   - translation_iso: ara

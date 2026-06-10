@@ -7,12 +7,15 @@ population: 359000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.43752
 longitude: 74.99576
 glottocode: rath1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Pauri-Nahali > Rathwi Bareli"
+wikidata_id: Q7295692
 wikipedia_url: "https://en.wikipedia.org/wiki/Rathwi_Bareli_language"
 translations:
   - translation_iso: ara

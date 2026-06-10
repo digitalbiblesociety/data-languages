@@ -7,6 +7,9 @@ population: 35000
 country_id: SD
 country_name: Sudan
 status_id: 6b
+scope: individual
+language_type: living
+wikidata_id: Q55218915
 wikipedia_url: "https://en.wikipedia.org/wiki/Dongolawi_language"
 translations:
   - translation_iso: ara

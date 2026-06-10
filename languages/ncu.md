@@ -7,12 +7,15 @@ population: 95000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.15211
 longitude: -0.2755
 glottocode: chum1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Chumbuli > Chumburung"
+wikidata_id: Q35198
 wikipedia_url: "https://en.wikipedia.org/wiki/Chumburung_language"
 translations:
   - translation_iso: ara

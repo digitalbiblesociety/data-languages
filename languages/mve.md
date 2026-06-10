@@ -1,5 +1,6 @@
 ---
 iso: mve
+macrolanguage_id: mwr
 name: Marwari
 autonym: मारवाड़ी/مارواڑی‎
 alt_names: [Jaiselmer, Marawar, Marwari, Marwari Bhil, Marwari Meghwar, Merwari, Mewari, Rajasthani]
@@ -7,12 +8,15 @@ population: 164000
 country_id: PK
 country_name: Pakistan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 28.32418
 longitude: 71.56714
 glottocode: marw1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Western Rajasthani > Indus Rajasthani > Marwari (Pakistan)"
+wikidata_id: Q67093214
 translations:
   - translation_iso: ara
     name: لغة ماروري (باكستان)

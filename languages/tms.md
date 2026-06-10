@@ -7,12 +7,15 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 11.71758
 longitude: 29.16324
 glottocode: tima1241
 glottolog_family_id: katl1246
 glottolog_family_name: Katla-Tima
 glottolog_classification: "Katla-Tima > Tima"
+wikidata_id: Q36684
 wikipedia_url: "https://en.wikipedia.org/wiki/Tima_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 480
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.3652
 longitude: 152.7808
 glottocode: kand1301
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Kandas-Duke of York > Kandas"
+wikidata_id: Q3192590
 wikipedia_url: "https://en.wikipedia.org/wiki/Kandas_language"
 translations:
   - translation_iso: ara

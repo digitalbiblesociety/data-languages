@@ -1,5 +1,6 @@
 ---
 iso: zaf
+macrolanguage_id: zap
 name: Ayoquesco Zapotec
 autonym: (Santa María Ayoquezco)
 alt_names: [Ayoquezco, Ayoquezco Zapotec, Central Sapoteko, Western Ejutla Zapotec, Zapotec, "Zapotec, Ayoquesco", Zapoteco de San Felipe Tejalápam, Zapoteco de Santa María Ayoquesco, Zapoteco de Santa María Ayoquezco, Zapotèque de San Felipe Tejalapan]
@@ -7,12 +8,15 @@ population: 880
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 16.66328
 longitude: -96.85754
 glottocode: ayoq1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Ayoquesco Zapotec"
+wikidata_id: Q4831570
 wikipedia_url: "https://en.wikipedia.org/wiki/Ayoquezco_Zapotec"
 translations:
   - translation_iso: ara

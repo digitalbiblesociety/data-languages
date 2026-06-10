@@ -7,12 +7,15 @@ population: null
 country_id: BO
 country_name: Bolivia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -15.88451
 longitude: -68.10176
 glottocode: call1235
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Quechua-Puquina > Callawalla"
+wikidata_id: Q266417
 wikipedia_url: "https://en.wikipedia.org/wiki/Kallawaya_language"
 translations:
   - translation_iso: ara

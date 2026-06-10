@@ -6,12 +6,15 @@ population: 20040000
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 30.90631
 longitude: 121.56875
 glottocode: chin1283
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > CSLic > Chinese Sign Language"
+wikidata_id: Q1094190
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_Sign_Language"
 translations:
   - translation_iso: ara

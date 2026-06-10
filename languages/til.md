@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 44.09239
 longitude: -122.76948
 glottocode: till1254
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tillamook"
+wikidata_id: Q2109432
 wikipedia_url: "https://en.wikipedia.org/wiki/Tillamook_language"
 translations:
   - translation_iso: ara

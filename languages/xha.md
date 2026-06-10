@@ -6,6 +6,9 @@ population: null
 country_id: YE
 country_name: Yemen
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q41506724
 translations:
   - translation_iso: ara
     name: هارامي

@@ -7,12 +7,15 @@ population: 330000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -17.02319
 longitude: 35.94509
 glottocode: lolo1261
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Lolo-Kokola > Lolo"
+wikidata_id: Q11006056
 translations:
   - translation_iso: ara
     name: لغة ولو

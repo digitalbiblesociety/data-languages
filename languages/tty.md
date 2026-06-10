@@ -7,12 +7,15 @@ population: 800
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -2.80285
 longitude: 138.2874
 glottocode: sika1263
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain
 glottolog_classification: "Lakes Plain > Tariku > East Tariku > Sikaritai"
+wikidata_id: Q7513600
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikaritai_language"
 translations:
   - translation_iso: ara

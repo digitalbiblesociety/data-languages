@@ -7,6 +7,8 @@ population: 942700
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.548803
 longitude: 94.01837
 scripts: [Lisu]
@@ -14,6 +16,7 @@ glottocode: lisu1250
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Ni-Li-Kazhouish > Lisoid > Nuclear Lisoid > Lisu-Laluba-Lavu > Lisu"
+wikidata_id: Q56480
 wikipedia_url: "https://en.wikipedia.org/wiki/Lisu_language"
 translations:
   - translation_iso: ara

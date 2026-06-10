@@ -6,12 +6,15 @@ population: 21000
 country_id: BG
 country_name: Bulgaria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 42.79184
 longitude: 25.00265
 glottocode: bulg1240
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Central European Sign > Bulgarian Sign Language"
+wikidata_id: Q3438325
 wikipedia_url: "https://en.wikipedia.org/wiki/Bulgarian_Sign_Language"
 translations:
   - translation_iso: ara

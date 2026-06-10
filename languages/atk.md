@@ -7,12 +7,15 @@ population: 1500
 country_id: PH
 country_name: Philippines
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.15394
 longitude: 122.51179
 glottocode: atii1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Ati"
+wikidata_id: Q3217458
 wikipedia_url: "https://en.wikipedia.org/wiki/Ati_language_(Philippines)"
 translations:
   - translation_iso: ara

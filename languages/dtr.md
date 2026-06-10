@@ -7,12 +7,15 @@ population: 5000
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.13732
 longitude: 116.23239
 glottocode: lotu1250
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Bisaya-Lotud > Lotud"
+wikidata_id: Q6685078
 wikipedia_url: "https://en.wikipedia.org/wiki/Lotud_language"
 translations:
   - translation_iso: ara

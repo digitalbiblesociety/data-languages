@@ -6,12 +6,15 @@ population: 140
 country_id: IL
 country_name: Israel
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.284444
 longitude: 34.916111
 glottocode: alsa1242
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Al-Sayyid Bedouin Sign Language"
+wikidata_id: Q2915457
 wikipedia_url: "https://en.wikipedia.org/wiki/Al-Sayyid_Bedouin_Sign_Language"
 translations:
   - translation_iso: ara

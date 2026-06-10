@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -12.594
 longitude: -40.21445
 glottocode: acro1239
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Central Je > Acroá"
+wikidata_id: Q2829146
 wikipedia_url: "https://en.wikipedia.org/wiki/Acro%C3%A1_language"
 translations:
   - translation_iso: ara

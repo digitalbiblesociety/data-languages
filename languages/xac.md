@@ -7,12 +7,15 @@ population: 16000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.6882
 longitude: 92.317
 glottocode: kach1279
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Brahmaputran > Bodo-Garo > Boroic > Tiwa-Boro > Bodo-Mech-Kachari > Kachari"
+wikidata_id: Q3442442
 wikipedia_url: "https://en.wikipedia.org/wiki/Kachari_language"
 translations:
   - translation_iso: ara

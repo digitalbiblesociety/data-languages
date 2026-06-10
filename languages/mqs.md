@@ -7,12 +7,15 @@ population: 12000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 0.45332
 longitude: 127.63028
 glottocode: west2600
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > West Makian"
+wikidata_id: Q3033575
 wikipedia_url: "https://en.wikipedia.org/wiki/West_Makian_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 2460
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -10.16585
 longitude: 149.75093
 glottocode: kana1288
 glottolog_family_id: daga1274
 glottolog_family_name: Dagan
 glottolog_classification: "Dagan > Southeast Dagan > Kanasi"
+wikidata_id: Q11732656
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanasi_language"
 translations:
   - translation_iso: ara

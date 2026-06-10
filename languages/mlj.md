@@ -7,12 +7,15 @@ population: 270
 country_id: TD
 country_name: Chad
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 10.23467
 longitude: 17.41261
 glottocode: milt1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > East Chadic > East Chadic B > East Chadic B.3 > Sokoroic > Miltuic > Miltu"
+wikidata_id: Q3441310
 wikipedia_url: "https://en.wikipedia.org/wiki/Miltu_language"
 translations:
   - translation_iso: ara

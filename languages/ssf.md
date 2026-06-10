@@ -7,12 +7,15 @@ population: null
 country_id: TW
 country_name: Taiwan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 23.83329
 longitude: 120.92981
 glottocode: thao1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Western Plains Austronesian > Thao"
+wikidata_id: Q676492
 wikipedia_url: "https://en.wikipedia.org/wiki/Thao_language"
 translations:
   - translation_iso: ara

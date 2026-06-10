@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 39.34
 longitude: 32.84
 glottocode: gala1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Core Celtic > Continental Transalpine Celtic > Unclassified Continental Transalpine Celtic > Galatian"
+wikidata_id: Q27403
 wikipedia_url: "https://en.wikipedia.org/wiki/Galatian_language"
 translations:
   - translation_iso: ara

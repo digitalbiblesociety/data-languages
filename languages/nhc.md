@@ -7,12 +7,15 @@ population: 30
 country_id: MX
 country_name: Mexico
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 17.93715
 longitude: -93.56883
 glottocode: taba1265
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Eastern Nahuatl > Isthmus-Pipil Nahuatl > Isthmus Nahuatl > Tabasco Nahuatl"
+wikidata_id: Q6047326
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabasco_Nahuatl"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 221600
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.57714
 longitude: 34.026655
 glottocode: anua1242
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Northern Lwoo > Anuak"
+wikidata_id: Q56677
 wikipedia_url: "https://en.wikipedia.org/wiki/Anuak_language"
 translations:
   - translation_iso: ara

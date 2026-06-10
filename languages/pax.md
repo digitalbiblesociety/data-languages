@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -9.08332
 longitude: -39.66666
 glottocode: pank1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Pankararé"
+wikidata_id: Q25559779
 translations:
   - translation_iso: ara
     name: اللغة بانكارري

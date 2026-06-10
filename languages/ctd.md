@@ -7,6 +7,8 @@ population: 411000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.60789
 longitude: 93.518975
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: tedi1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Thadoic > Tedim Chin"
+wikidata_id: Q56357
 wikipedia_url: "https://en.wikipedia.org/wiki/Tedim_language"
 translations:
   - translation_iso: ara

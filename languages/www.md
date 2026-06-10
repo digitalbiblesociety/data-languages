@@ -7,12 +7,15 @@ population: 3000
 country_id: CM
 country_name: Cameroon
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.68974
 longitude: 11.78018
 glottocode: wawa1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Vutic > Vute-Wawa > Wawa"
+wikidata_id: Q36889
 wikipedia_url: "https://en.wikipedia.org/wiki/Wawa_language"
 translations:
   - translation_iso: ara

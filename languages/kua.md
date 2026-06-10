@@ -1,5 +1,6 @@
 ---
 iso: kua
+iso639_1: kj
 name: Kuanyama
 autonym: Oshikwanyama
 alt_names: [Cuanhama, Cuañama, Humba, Kwancama, Kwanjama, Kwanyama, Kwanyamaeg, Ochikwanyama, Otjiwambo, Ovambo, Owambo, Oxikuanyama, Кваньяма]
@@ -7,6 +8,8 @@ population: 1308000
 country_id: AO
 country_name: Angola
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -17.71755
 longitude: 16.57999
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: kuan1247
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Kunene > Cimbebasia > Ndonga (R.20) > Kuanyama"
+wikidata_id: Q1405077
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwanyama"
 translations:
   - translation_iso: ara

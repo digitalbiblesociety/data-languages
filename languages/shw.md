@@ -7,12 +7,15 @@ population: 3500
 country_id: SD
 country_name: Sudan
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 11.27079
 longitude: 30.35333
 glottocode: shwa1239
 glottolog_family_id: heib1242
 glottolog_family_name: Heibanic
 glottolog_classification: "Heibanic > West-Central Heibanic > Shwai"
+wikidata_id: Q36527
 wikipedia_url: "https://en.wikipedia.org/wiki/Shwai_language"
 translations:
   - translation_iso: ara

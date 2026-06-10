@@ -6,12 +6,15 @@ population: 48800
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.46128
 longitude: 1.82137
 glottocode: edei1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Defoid > Yoruboid > Edekiri > Ede > Western Ede > Southwestern Ede > Ede Ica"
+wikidata_id: Q12952405
 translations:
   - translation_iso: ara
     name: إيدي إيكا

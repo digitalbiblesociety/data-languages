@@ -6,12 +6,15 @@ population: 26300
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.62361
 longitude: 121.82364
 glottocode: moro1287
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Eastern Bungku-Tolaki > Moronene"
+wikidata_id: Q642581
 wikipedia_url: "https://en.wikipedia.org/wiki/Moronene_language"
 translations:
   - translation_iso: ara

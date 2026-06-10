@@ -7,12 +7,15 @@ population: 1600
 country_id: GH
 country_name: Ghana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.06653
 longitude: -0.80295
 glottocode: kpla1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Kplang"
+wikidata_id: Q35628
 wikipedia_url: "https://en.wikipedia.org/wiki/Kplang_language"
 translations:
   - translation_iso: ara

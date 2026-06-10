@@ -7,6 +7,8 @@ population: null
 country_id: IR
 country_name: Iran
 status_id: "10"
+scope: individual
+language_type: historical
 latitude: 36.12027
 longitude: 49.5659
 scripts: [Mand]
@@ -14,6 +16,7 @@ glottocode: clas1253
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Macro-Mandaic > Classical Mandaic"
+wikidata_id: Q25559314
 translations:
   - translation_iso: ara
     name: ماندايك كلاسيكي

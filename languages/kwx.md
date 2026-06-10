@@ -7,12 +7,15 @@ population: 25800
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 23.70624
 longitude: 82.96154
 glottocode: khir1237
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Unclassified Dravidian > Khirwar"
+wikidata_id: Q12976968
 wikipedia_url: "https://en.wikipedia.org/wiki/Khirwar_language"
 translations:
   - translation_iso: ara

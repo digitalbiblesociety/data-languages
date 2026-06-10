@@ -7,12 +7,15 @@ population: 220
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 0.88778
 longitude: -69.56589
 glottocode: cacu1241
 glottolog_family_id: kaku1242
 glottolog_family_name: Kakua-Nukak
 glottolog_classification: "Kakua-Nukak > Kakua"
+wikidata_id: Q3192052
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakwa_language_(Colombia)"
 translations:
   - translation_iso: ara

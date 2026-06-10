@@ -7,12 +7,15 @@ population: 190
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -2.86315
 longitude: -72.49255
 glottocode: orej1242
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan
 glottolog_classification: "Tucanoan > Western Tucanoan > Napo Tucanoan > Maijiki"
+wikidata_id: Q3355834
 wikipedia_url: "https://en.wikipedia.org/wiki/Maijiki_language"
 translations:
   - translation_iso: ara

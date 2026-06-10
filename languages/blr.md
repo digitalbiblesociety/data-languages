@@ -7,12 +7,15 @@ population: 42000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.009203
 longitude: 99.740473
 glottocode: blan1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Khasi-Palaung > Palaungic > East Palaungic > Waic > Bulangic > Blang"
+wikidata_id: Q4925096
 wikipedia_url: "https://en.wikipedia.org/wiki/Blang_language"
 translations:
   - translation_iso: ara

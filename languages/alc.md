@@ -7,12 +7,15 @@ population: 2622
 country_id: CL
 country_name: Chile
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -49.70303
 longitude: -75.3756
 glottocode: qawa1238
 glottolog_family_id: kawe1237
 glottolog_family_name: Kawesqar
 glottolog_classification: "Kawesqar > North Central Alacufan > Qawasqar"
+wikidata_id: Q56544
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 174300
 country_id: GN
 country_name: Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.971855
 longitude: -11.283565
 glottocode: yalu1240
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Susu-Yalunka > Yalunka"
+wikidata_id: Q35524
 wikipedia_url: "https://en.wikipedia.org/wiki/Yalunka_language"
 translations:
   - translation_iso: ara

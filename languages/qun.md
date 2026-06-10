@@ -7,12 +7,15 @@ population: 2007
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 47.4214
 longitude: -124.16024
 glottocode: quin1251
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan
 glottolog_classification: "Salishan > Coast Salish > Tsamosan > Coastal Tsamosan > Quinault"
+wikidata_id: Q3414522
 wikipedia_url: "https://en.wikipedia.org/wiki/Quinault_language"
 translations:
   - translation_iso: ara

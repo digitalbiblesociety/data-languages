@@ -7,12 +7,15 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.45512
 longitude: 120.48283
 glottocode: laiy1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Southern Kaili-Wolio > Island Kaili-Wolio > Kalao-Laiyolo > Laiyolo"
+wikidata_id: Q6474218
 wikipedia_url: "https://en.wikipedia.org/wiki/Laiyolo_language"
 translations:
   - translation_iso: ara

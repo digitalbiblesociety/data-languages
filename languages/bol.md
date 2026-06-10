@@ -7,12 +7,15 @@ population: 216000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.48388
 longitude: 11.23216
 glottocode: nucl1695
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.2-3 > West Chadic A.2 > Boleic > Nuclear Boleic > Galambu-Bele > Kirfi-Bele > Ngamo-Bele > Bolanci-Bele > Bole"
+wikidata_id: Q3436680
 wikipedia_url: "https://en.wikipedia.org/wiki/Bole_language"
 translations:
   - translation_iso: ara

@@ -6,7 +6,10 @@ population: null
 country_id: LR
 country_name: Liberia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn]
+wikidata_id: Q35673
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpelle_language"
 translations:
   - translation_iso: ara

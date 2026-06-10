@@ -7,12 +7,15 @@ population: 130000
 country_id: PH
 country_name: Philippines
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 5.50173
 longitude: 119.714645
 glottocode: yaka1277
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Sama-Bajaw > Yakan"
+wikidata_id: Q3571351
 wikipedia_url: "https://en.wikipedia.org/wiki/Yakan_language"
 translations:
   - translation_iso: ara

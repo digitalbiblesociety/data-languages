@@ -6,12 +6,15 @@ population: 1200
 country_id: ID
 country_name: Indonesia
 status_id: "10"
+scope: individual
+language_type: living
 latitude: -3.21229
 longitude: 128.96625
 glottocode: teun1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Timor-Babar > Southwest Maluku > Teun-Nila-Serua > Te'un"
+wikidata_id: Q7690709
 wikipedia_url: "https://en.wikipedia.org/wiki/Teun_language"
 translations:
   - translation_iso: ara

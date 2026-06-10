@@ -7,12 +7,15 @@ population: 270
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -9.47288
 longitude: -66.33286
 glottocode: kaxa1239
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Kaxararí"
+wikidata_id: Q6380124
 wikipedia_url: "https://en.wikipedia.org/wiki/Kasharari_language"
 translations:
   - translation_iso: ara

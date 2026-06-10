@@ -1,5 +1,6 @@
 ---
 iso: div
+iso639_1: dv
 name: Dhivehi
 autonym: Maldivian
 alt_names: [Diveheg, Divehi, Mahl, maldivien, Ντιβέχι, Дхивехи, ديفهي, ދިވެހި, महल्]
@@ -7,6 +8,8 @@ population: 340500
 country_id: MV
 country_name: Maldives
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 3.82586
 longitude: 73.07456
 scripts: [Thaa]
@@ -14,6 +17,7 @@ glottocode: dhiv1236
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Dhivehi-Sinhala > Dhivehi"
+wikidata_id: Q32656
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhivehi_language"
 translations:
   - translation_iso: ara

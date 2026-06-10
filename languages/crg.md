@@ -7,6 +7,8 @@ population: 730
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 49.16808
 longitude: -99.911875
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mich1243
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Cree > Plains Creeic > Heritage Michif"
+wikidata_id: Q13315
 wikipedia_url: "https://en.wikipedia.org/wiki/Michif"
 translations:
   - translation_iso: ara

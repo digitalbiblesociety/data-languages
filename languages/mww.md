@@ -1,5 +1,6 @@
 ---
 iso: mww
+macrolanguage_id: hmn
 name: Hmong Daw
 autonym: lus Hmoob / lug Moob / lol Hmongb
 alt_names: [Bai Miao, Blue Miao, Chuan Miao, Green Miao, Hmong (White), Hmong Dao, Meo Kao, Miao, Mán Tráng, Pe Miao, Peh Miao, Red Miao, White Lum, White Meo, White Miao]
@@ -7,6 +8,8 @@ population: 1700400
 country_id: CN
 country_name: China
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.54606
 longitude: 103.163915
 scripts: [Hmnp, Latn]
@@ -14,6 +17,7 @@ glottocode: hmon1333
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
 glottolog_classification: "Hmong-Mien > Hmongic > Nuclear Hmongic-Ho Ne > Nuclear Hmongic > West Hmongic > Greater Chuanqiandian > Chuanqiandian > First Vernacular Hmong > Far Western Miao > Hmong Daw"
+wikidata_id: Q3138829
 translations:
   - translation_iso: ara
     name: لغة همونج داو

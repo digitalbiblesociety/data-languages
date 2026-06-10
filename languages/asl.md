@@ -6,12 +6,15 @@ population: 8760
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.67302
 longitude: 127.9523
 glottocode: asil1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Piru Bay > West Piru Bay > Asilulu"
+wikidata_id: Q12473347
 wikipedia_url: "https://en.wikipedia.org/wiki/Asilulu_language"
 translations:
   - translation_iso: ara

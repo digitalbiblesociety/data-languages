@@ -7,12 +7,15 @@ population: 25000
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.35714
 longitude: 115.07496
 glottocode: bali1279
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Greater Riau-Johoric > Balinese Malay"
+wikidata_id: Q12473441
 wikipedia_url: "https://en.wikipedia.org/wiki/Balinese_Malay"
 translations:
   - translation_iso: ara

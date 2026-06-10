@@ -7,12 +7,15 @@ population: null
 country_id: CD
 country_name: DR Congo
 status_id: null
+scope: individual
+language_type: living
 latitude: 2.250128
 longitude: 30.870201
 glottocode: ndru1234
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Lenduic > Bale > Ndrulo"
+wikidata_id: Q60785094
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndrulo_language"
 translations:
   - translation_iso: ara

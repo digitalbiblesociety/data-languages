@@ -7,12 +7,15 @@ population: 1500
 country_id: CO
 country_name: Colombia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 9.67534
 longitude: -73.05574
 glottocode: yukp1241
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Opon-Yukpan > Yukpan > Yukpa"
+wikidata_id: Q3441447
 wikipedia_url: "https://en.wikipedia.org/wiki/Yukpa_language"
 translations:
   - translation_iso: ara

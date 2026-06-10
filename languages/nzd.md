@@ -6,12 +6,15 @@ population: null
 country_id: CD
 country_name: DR Congo
 status_id: null
+scope: individual
+language_type: living
 latitude: -4.102208
 longitude: 20.194462
 glottocode: nzad1234
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Nzadi"
+wikidata_id: Q17152586
 wikipedia_url: "https://en.wikipedia.org/wiki/Nzadi_language"
 translations:
   - translation_iso: ara

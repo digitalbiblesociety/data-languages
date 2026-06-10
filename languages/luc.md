@@ -7,12 +7,15 @@ population: 495000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 3.56143
 longitude: 31.30709
 glottocode: arin1244
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Lugbaric > Aringa"
+wikidata_id: Q56556
 wikipedia_url: "https://en.wikipedia.org/wiki/Aringa_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 13600
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.38143
 longitude: 5.68537
 glottocode: uham1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Osse > Uhami"
+wikidata_id: Q3913328
 wikipedia_url: "https://en.wikipedia.org/wiki/Uhami_language"
 translations:
   - translation_iso: ara

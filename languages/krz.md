@@ -7,12 +7,15 @@ population: 100
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -8.40452
 longitude: 140.96896
 glottocode: sota1242
 glottolog_family_id: more1255
 glottolog_family_name: Yam
 glottolog_classification: "Yam > Kanum > Ngkrn-Ngkantr > Sota Kanum"
+wikidata_id: Q12952568
 wikipedia_url: "https://en.wikipedia.org/wiki/Nggarna_language"
 translations:
   - translation_iso: ara

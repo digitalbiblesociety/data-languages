@@ -7,12 +7,15 @@ population: 1200
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.74779
 longitude: 29.73577
 glottocode: mang1396
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Membi-Mangbutu-Efe > Mangbutu-Efe > Baleseic > Mangbutu"
+wikidata_id: Q6748877
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangbutu_language"
 translations:
   - translation_iso: ara

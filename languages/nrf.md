@@ -7,6 +7,9 @@ population: 100000
 country_id: JE
 country_name: Channel Islands
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q33850
 wikipedia_url: "https://en.wikipedia.org/wiki/Norman_language"
 translations:
   - translation_iso: ara

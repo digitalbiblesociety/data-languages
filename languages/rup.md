@@ -7,6 +7,8 @@ population: 191000
 country_id: GR
 country_name: Greece
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 42.064593
 longitude: 22.646372
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: arom1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Eastern Romance > Aromanian"
+wikidata_id: Q29316
 wikipedia_url: "https://en.wikipedia.org/wiki/Aromanian_language"
 translations:
   - translation_iso: ara

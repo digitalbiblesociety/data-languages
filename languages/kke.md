@@ -7,12 +7,15 @@ population: 4100
 country_id: GN
 country_name: Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.59616
 longitude: -11.44178
 glottocode: kaka1265
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Mixiforic > Kakabe"
+wikidata_id: Q3913966
 wikipedia_url: "https://en.wikipedia.org/wiki/Kakabe_language"
 translations:
   - translation_iso: ara

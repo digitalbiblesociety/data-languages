@@ -1,5 +1,6 @@
 ---
 iso: ayn
+macrolanguage_id: ara
 name: Sanaani Arabic
 autonym: Northern Yemeni Arabic
 alt_names: [Arabic, Arabic (Eastern), Arabic (North Yemen), Arabic (Northern Yemeni), "Arabic (San'ani)", Arabic (Sanaani Spoken), "Arabic, Sanaani", "Arabic, Sanaani Spoken", Sanaani Spoken, Sjevernojemenski arapski]
@@ -7,12 +8,15 @@ population: 11400000
 country_id: YE
 country_name: Yemen
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.65517
 longitude: 44.84118
 glottocode: sana1295
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Judeo-Muslim Sanaani Arabic > Sanaani Arabic"
+wikidata_id: Q56578
 wikipedia_url: "https://en.wikipedia.org/wiki/San%CA%BDani_Arabic"
 translations:
   - translation_iso: ara

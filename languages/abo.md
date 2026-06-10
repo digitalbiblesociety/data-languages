@@ -7,12 +7,15 @@ population: 1000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.90621
 longitude: 10.87689
 glottocode: abon1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Tivoid > North Tivoid > Abon"
+wikidata_id: Q35121
 wikipedia_url: "https://en.wikipedia.org/wiki/Abon_language"
 translations:
   - translation_iso: ara

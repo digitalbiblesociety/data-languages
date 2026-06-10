@@ -7,12 +7,15 @@ population: 1300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.33005
 longitude: 146.62868
 glottocode: fino1238
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Finungwan-Mamaa-Gusan > Finongan"
+wikidata_id: Q3450761
 wikipedia_url: "https://en.wikipedia.org/wiki/Finongan_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 66
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.58133
 longitude: 142.11163
 glottocode: yawi1238
 glottolog_family_id: wali1264
 glottolog_family_name: Walioic
 glottolog_classification: "Walioic > Yawiyo"
+wikidata_id: Q8050463
 wikipedia_url: "https://en.wikipedia.org/wiki/Yawiyo_language"
 translations:
   - translation_iso: ara

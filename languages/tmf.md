@@ -7,12 +7,15 @@ population: 1260
 country_id: PY
 country_name: Paraguay
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -21.54741
 longitude: -58.01584
 glottocode: toba1268
 glottolog_family_id: leng1261
 glottolog_family_name: Lengua-Mascoy
 glottolog_classification: "Lengua-Mascoy > Eastern Enlhet-Enenlhet > Toba-Enenlhet"
+wikidata_id: Q3033544
 wikipedia_url: "https://en.wikipedia.org/wiki/Toba-Maskoy_language"
 translations:
   - translation_iso: ara

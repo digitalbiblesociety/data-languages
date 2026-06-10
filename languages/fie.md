@@ -7,12 +7,15 @@ population: 26100
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.49936
 longitude: 9.29503
 glottocode: fyer1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic A > West Chadic A.4 > Fyer-Tambas > Fyer"
+wikidata_id: Q56273
 wikipedia_url: "https://en.wikipedia.org/wiki/Fyer_language"
 translations:
   - translation_iso: ara

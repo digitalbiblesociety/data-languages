@@ -7,12 +7,15 @@ population: null
 country_id: NL
 country_name: Netherlands
 status_id: null
+scope: individual
+language_type: historical
 latitude: 52.16
 longitude: 5.2
 glottocode: oldd1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Old Dutch-Old Frankish"
+wikidata_id: Q443089
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Dutch"
 translations:
   - translation_iso: ara

@@ -7,10 +7,13 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: null
+scope: individual
+language_type: extinct
 glottocode: mede1238
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register
 glottolog_classification: "Speech Register > Atlantic-Congo Speech Register > Medefidrin"
+wikidata_id: Q1519764
 wikipedia_url: "https://en.wikipedia.org/wiki/Medefaidrin"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: VI
 country_name: Virgin Islands US
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 18.34155
 longitude: -64.89215
 glottocode: nege1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Southwestern Dutch > Zeeuwic > Virgin Islands Dutch Creole"
+wikidata_id: Q1815830
 wikipedia_url: "https://en.wikipedia.org/wiki/Negerhollands"
 translations:
   - translation_iso: ara

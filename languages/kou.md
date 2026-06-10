@@ -7,12 +7,15 @@ population: 600
 country_id: TD
 country_name: Chad
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 10.68288
 longitude: 18.41213
 glottocode: koke1240
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Bua-Kim-Day > Adamawa Bua > Inland Bua > Bolgo-Koke > Koke"
+wikidata_id: Q797249
 wikipedia_url: "https://en.wikipedia.org/wiki/Koke_language"
 translations:
   - translation_iso: ara

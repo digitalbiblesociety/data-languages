@@ -7,12 +7,15 @@ population: 250
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -3.41983
 longitude: 140.77017
 glottocode: seng1285
 glottolog_family_id: bord1247
 glottolog_family_name: Border
 glottolog_classification: "Border > Warisic > Nuclear Warisic > Senggi"
+wikidata_id: Q7929052
 wikipedia_url: "https://en.wikipedia.org/wiki/Viid_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 45.98
 longitude: 8.92
 glottocode: lepo1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Celtic > Nuclear Celtic > Cisalpine Celtic > Lepontic"
+wikidata_id: Q35993
 wikipedia_url: "https://en.wikipedia.org/wiki/Lepontic_language"
 translations:
   - translation_iso: ara

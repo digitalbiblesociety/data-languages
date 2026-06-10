@@ -7,12 +7,15 @@ population: 6000
 country_id: BF
 country_name: Burkina Faso
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 13.72058
 longitude: -0.78772
 glottocode: sini1242
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Soninke-Bozo > Soninkean > Sininkere"
+wikidata_id: Q3914896
 wikipedia_url: "https://en.wikipedia.org/wiki/Sininkere_language"
 translations:
   - translation_iso: ara

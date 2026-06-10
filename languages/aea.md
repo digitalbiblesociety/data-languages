@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -16.63548
 longitude: 142.63107
 glottocode: areb1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Norman Pama > Kuthant-Gurdjar > Rib-Gurdjar > Areba"
+wikidata_id: Q3509129
 translations:
   - translation_iso: ara
     name: لغة أريبا

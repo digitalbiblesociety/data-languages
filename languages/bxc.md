@@ -7,12 +7,15 @@ population: 1000
 country_id: GQ
 country_name: Equatorial Guinea
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 1.3718
 longitude: 9.61289
 glottocode: mole1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Bengaic > Unclassified Bengaic > Molengue"
+wikidata_id: Q13345
 wikipedia_url: "https://en.wikipedia.org/wiki/Lengue_language"
 translations:
   - translation_iso: ara

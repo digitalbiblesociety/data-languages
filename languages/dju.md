@@ -7,12 +7,15 @@ population: null
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.51011
 longitude: 143.24107
 glottocode: kapr1245
 glottolog_family_id: sepi1257
 glottolog_family_name: Sepik
 glottolog_classification: "Sepik > Sepik Hill > Central-Eastern Sepik Hill > Central Sepik Hill > Nuclear Central Sepik Hill > Kaprimanic > Kapriman-Waxei > Kapriman"
+wikidata_id: Q6367199
 wikipedia_url: "https://en.wikipedia.org/wiki/Kapriman_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 96400
 country_id: PK
 country_name: Pakistan
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 35.53033
 longitude: 72.57384
 glottocode: kala1373
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Nuclear Eastern Dardic > Kohistani > Dir-Swat Kohistani > Gawri"
+wikidata_id: Q1675961
 wikipedia_url: "https://en.wikipedia.org/wiki/Gawri_language"
 translations:
   - translation_iso: ara

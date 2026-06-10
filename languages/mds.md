@@ -7,12 +7,15 @@ population: 1350
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -9.92982
 longitude: 148.30311
 glottocode: mari1438
 glottolog_family_id: manu1261
 glottolog_family_name: Manubaran
 glottolog_classification: "Manubaran > Maria (Papua New Guinea)"
+wikidata_id: Q3448673
 wikipedia_url: "https://en.wikipedia.org/wiki/Maria_language_(Papua_New_Guinea)"
 translations:
   - translation_iso: ara

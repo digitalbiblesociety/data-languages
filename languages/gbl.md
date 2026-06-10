@@ -7,12 +7,15 @@ population: 139000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.06965
 longitude: 73.68388
 glottocode: gami1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Gamit"
+wikidata_id: Q2731717
 wikipedia_url: "https://en.wikipedia.org/wiki/Gamit_language"
 translations:
   - translation_iso: ara

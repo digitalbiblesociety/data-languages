@@ -1,5 +1,6 @@
 ---
 iso: max
+macrolanguage_id: msa
 name: North Moluccan Malay
 autonym: Bahasa Pasar
 alt_names: ["Malay, North Moluccan", Ternate Malay]
@@ -7,12 +8,15 @@ population: 700000
 country_id: ID
 country_name: Indonesia
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -0.86437
 longitude: 128.32323
 glottocode: nort2828
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Malayo-Chamic > Malayic > Nuclear Malayic > Vehicular Malay > Eastern Indonesia Trade Malay > Manadoic Malay > North Moluccan Malay"
+wikidata_id: Q7056136
 wikipedia_url: "https://en.wikipedia.org/wiki/North_Moluccan_Malay"
 translations:
   - translation_iso: ara

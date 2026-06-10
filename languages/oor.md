@@ -7,12 +7,15 @@ population: 32000
 country_id: ZA
 country_name: South Africa
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -28.38447
 longitude: 23.01446
 glottocode: oorl1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > Macro-Dutch > Middle-Modern Dutch > Modern Dutch > Global Dutch > Afrikaansic > Oorlams"
+wikidata_id: Q2484337
 wikipedia_url: "https://en.wikipedia.org/wiki/Oorlams_Creole"
 translations:
   - translation_iso: ara

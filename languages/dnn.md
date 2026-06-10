@@ -7,12 +7,15 @@ population: 13400
 country_id: BF
 country_name: Burkina Faso
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 11.37957
 longitude: -4.92036
 glottocode: dzuu1241
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Northwestern Mande > Duun-Bobo > Duun-Jo > Duun-Seenku > Duun > Samogogouanic > Dzùùngoo"
+wikidata_id: Q10973260
 translations:
   - translation_iso: ara
     name: دزونجو

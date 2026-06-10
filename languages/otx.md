@@ -7,12 +7,15 @@ population: 12000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.7342
 longitude: -98.26631
 glottocode: texc1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Otomi > Eastern Otomi > Texcatepec Otomi"
+wikidata_id: Q25559590
 translations:
   - translation_iso: ara
     name: اللغة أوتومي تيكستيبك

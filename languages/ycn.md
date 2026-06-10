@@ -7,12 +7,15 @@ population: 770
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.76075
 longitude: -71.00327
 glottocode: yucu1253
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Japura-Colombia > Nuclear Japura-Colombia > Caqueta > Yucuna"
+wikidata_id: Q3438356
 wikipedia_url: "https://en.wikipedia.org/wiki/Yucuna_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 100
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -10.23207
 longitude: 149.26034
 glottocode: mago1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Peripheral Papuan Tip linkage > Central Papuan Oceanic > Oumic > Magoric > Magori"
+wikidata_id: Q3277370
 wikipedia_url: "https://en.wikipedia.org/wiki/Magori_language"
 translations:
   - translation_iso: ara

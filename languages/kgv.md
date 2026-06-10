@@ -7,12 +7,15 @@ population: 240
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -3.47037
 longitude: 132.67789
 glottocode: kara1499
 glottolog_family_id: west2604
 glottolog_family_name: West Bomberai
 glottolog_classification: "West Bomberai > Kalamang"
+wikidata_id: Q6368621
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalamang_language"
 translations:
   - translation_iso: ara

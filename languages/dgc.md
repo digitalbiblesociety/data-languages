@@ -7,12 +7,15 @@ population: 610
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.2176
 longitude: 121.87821
 glottocode: casi1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Northeastern Luzon > Nuclear Northeastern Luzon > Casiguran-Nagtipunan Agta"
+wikidata_id: Q5313599
 wikipedia_url: "https://en.wikipedia.org/wiki/Casiguran_Dumagat_Agta"
 translations:
   - translation_iso: ara

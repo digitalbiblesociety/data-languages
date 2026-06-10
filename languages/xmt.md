@@ -7,12 +7,15 @@ population: 1250
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.8801
 longitude: 130.07501
 glottocode: matb1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > Maya-Salawati-Matbat > Matbat"
+wikidata_id: Q6786187
 wikipedia_url: "https://en.wikipedia.org/wiki/Matbat_language"
 translations:
   - translation_iso: ara

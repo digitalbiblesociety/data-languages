@@ -7,12 +7,15 @@ population: 3000
 country_id: NP
 country_name: Nepal
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 27.4265
 longitude: 87.28934
 glottocode: west2422
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Himalayish > Mahakiranti > Kiranti > Eastern Kiranti > Upper Arun > Mewahang > Western Mewahang"
+wikidata_id: Q17442461
 translations:
   - translation_iso: ara
     name: ويسترن ميهانج

@@ -7,12 +7,15 @@ population: null
 country_id: TR
 country_name: Turkey
 status_id: null
+scope: individual
+language_type: historical
 latitude: 41.334
 longitude: 33.499
 glottocode: pala1331
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Anatolian > Luvo-Lydian > Luvo-Palaic > Palaic"
+wikidata_id: Q36582
 wikipedia_url: "https://en.wikipedia.org/wiki/Palaic_language"
 translations:
   - translation_iso: ara

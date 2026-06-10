@@ -7,12 +7,15 @@ population: 370
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.38035
 longitude: 116.0886
 glottocode: puna1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Central Sarawak > Punan-Muller-Schwaner > Punan > Aput-Busang-Merah-Kohi > Punan Aput"
+wikidata_id: Q4782333
 wikipedia_url: "https://en.wikipedia.org/wiki/Aput_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 2000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.63
 longitude: -3.15
 glottocode: yand1257
 glottolog_family_id: dogo1299
 glottolog_family_name: Dogon
 glottolog_classification: "Dogon > North Plateau Dogon > Yanda-Bondum-Tebul > Yanda-Ana > Yanda Dom Dogon"
+wikidata_id: Q8048316
 wikipedia_url: "https://en.wikipedia.org/wiki/Yanda_Dogon"
 translations:
   - translation_iso: ara

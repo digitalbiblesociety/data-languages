@@ -7,12 +7,15 @@ population: 22500
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.17105
 longitude: -74.82192
 glottocode: ship1254
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Chama subgroup > Shipibo-Konibo-Kapanawa > Shipibo-Conibo"
+wikidata_id: Q2671988
 wikipedia_url: "https://en.wikipedia.org/wiki/Shipibo_language"
 translations:
   - translation_iso: ara

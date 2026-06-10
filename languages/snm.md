@@ -7,12 +7,15 @@ population: 60000
 country_id: UG
 country_name: Uganda
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.8735
 longitude: 31.25
 glottocode: sout2828
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Southern Moru-Madi > Southern Ma'di"
+wikidata_id: Q15637273
 translations:
   - translation_iso: ara
     name: "اللغة ما'دي الجنوبية"

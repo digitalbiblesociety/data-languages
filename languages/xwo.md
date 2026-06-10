@@ -7,6 +7,9 @@ population: null
 country_id: RU
 country_name: Russia
 status_id: null
+scope: individual
+language_type: extinct
+wikidata_id: Q2377158
 translations:
   - translation_iso: ara
     name: كتابية أويرات

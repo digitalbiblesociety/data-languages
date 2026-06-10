@@ -7,12 +7,15 @@ population: 13500
 country_id: VN
 country_name: Vietnam
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 14.78621
 longitude: 107.45652
 glottocode: hala1252
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Kayong-Jeh-Halang > Jeh-Halang > Halang"
+wikidata_id: Q56307
 wikipedia_url: "https://en.wikipedia.org/wiki/Halang_language"
 translations:
   - translation_iso: ara

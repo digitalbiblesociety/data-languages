@@ -6,12 +6,15 @@ population: 270
 country_id: SB
 country_name: Solomon Islands
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -11.75
 longitude: 169.75
 glottocode: anut1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Anuta"
+wikidata_id: Q35326
 wikipedia_url: "https://en.wikipedia.org/wiki/Anuta_language"
 translations:
   - translation_iso: ara

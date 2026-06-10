@@ -7,12 +7,15 @@ population: 1870
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 42.27434
 longitude: 45.99765
 glottocode: khva1239
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Tsezic > West Tsezic > Khwarshi-Inkhoqwari"
+wikidata_id: Q56425
 wikipedia_url: "https://en.wikipedia.org/wiki/Khwarshi_language"
 translations:
   - translation_iso: ara

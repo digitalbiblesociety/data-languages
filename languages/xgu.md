@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: -15.65
 longitude: 124.67
 glottocode: ungg1243
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Western Worrorran > Unggumi"
+wikidata_id: Q62000004
 translations:
   - translation_iso: ara
     name: ونغغومي

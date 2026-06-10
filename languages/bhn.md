@@ -7,12 +7,15 @@ population: 1000
 country_id: GE
 country_name: Georgia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 43.6405
 longitude: 44.482
 glottocode: boht1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > Bohtan > Gardabani Bohtan Neo-Aramaic"
+wikidata_id: Q33230
 wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Aramaic_dialect_of_Bohtan"
 translations:
   - translation_iso: ara

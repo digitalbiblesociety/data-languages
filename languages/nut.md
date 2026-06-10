@@ -7,12 +7,15 @@ population: 969000
 country_id: VN
 country_name: Vietnam
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 20.8965
 longitude: 104.28585
 glottocode: nung1283
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Central-Southwestern Tai > Debao-Jingxi-Nung > Nung (Viet Nam)"
+wikidata_id: Q72695
 wikipedia_url: "https://en.wikipedia.org/wiki/N%C3%B9ng_language_(Tai)"
 translations:
   - translation_iso: ara

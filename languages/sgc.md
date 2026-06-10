@@ -1,5 +1,6 @@
 ---
 iso: sgc
+macrolanguage_id: kln
 name: Kipsigis
 autonym: Kipsiikis
 alt_names: [Kipsigiseg, Kipsikis]
@@ -7,12 +8,15 @@ population: 1910000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.35774
 longitude: 35.258532
 glottocode: kips1239
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Southern Nilotic > Kalenjin > Central Kalenjin > Kipsigis"
+wikidata_id: Q56339
 wikipedia_url: "https://en.wikipedia.org/wiki/Kipsigis_language"
 translations:
   - translation_iso: ara

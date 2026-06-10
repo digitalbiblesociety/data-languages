@@ -1,5 +1,6 @@
 ---
 iso: zaw
+macrolanguage_id: zap
 name: Mitla Zapotec
 autonym: (San Pablo Villa de Mitla)
 alt_names: [Central Sapoteko, Central Zapotec, Didxsaj, East Central Tlacolula Zapotec, East Valley Zapotec, Eastern Sapoteko, Isthmus Zapotec, Sapoteko, Valley Zapotec, Zapotec, Zapotec (Mitla), "Zapotec, Mitla", Zapoteco (Mitla), Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
@@ -7,12 +8,15 @@ population: 19500
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 16.86849
 longitude: -96.29434
 glottocode: mitl1236
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Central Core Zapotec > Mitla Zapotec"
+wikidata_id: Q3053288
 wikipedia_url: "https://en.wikipedia.org/wiki/Mitla_Zapotec"
 translations:
   - translation_iso: ara

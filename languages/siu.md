@@ -7,12 +7,15 @@ population: 330
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.42446
 longitude: 142.36705
 glottocode: sina1269
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Wapeic > Galu-Alu > Galu"
+wikidata_id: Q7521655
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinagen_language"
 translations:
   - translation_iso: ara

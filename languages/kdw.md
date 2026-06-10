@@ -6,12 +6,15 @@ population: 1200
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -8.37424
 longitude: 138.0675
 glottocode: kone1241
 glottolog_family_id: momb1255
 glottolog_family_name: Mombum-Koneraw
 glottolog_classification: "Mombum-Koneraw > Koneraw"
+wikidata_id: Q11732341
 wikipedia_url: "https://en.wikipedia.org/wiki/Koneraw_language"
 translations:
   - translation_iso: ara

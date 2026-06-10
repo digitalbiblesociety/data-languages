@@ -7,12 +7,15 @@ population: 93500
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 34.33855
 longitude: 76.01267
 glottocode: puri1258
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Western Archaic Tibetan > Shamskatic > Purik-Sham-Nubra"
+wikidata_id: Q567905
 wikipedia_url: "https://en.wikipedia.org/wiki/Purgi_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 24100
 country_id: AL
 country_name: Albania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 41.328889
 longitude: 19.817778
 glottocode: alba1271
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > Albanian Sign Language"
+wikidata_id: Q4709168
 wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_Sign_Language"
 translations:
   - translation_iso: ara

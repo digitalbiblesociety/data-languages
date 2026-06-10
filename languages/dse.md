@@ -7,12 +7,15 @@ population: 17300
 country_id: NL
 country_name: Netherlands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 52.12512
 longitude: 4.91133
 glottocode: dutc1253
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > Dutch-Belgian Sign > Dutch Sign Language"
+wikidata_id: Q2201099
 wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 38.93544
 longitude: -122.5985
 glottocode: sout2982
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan
 glottolog_classification: "Pomoan > Southeastern Pomo"
+wikidata_id: Q3396025
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeastern_Pomo_language"
 translations:
   - translation_iso: ara

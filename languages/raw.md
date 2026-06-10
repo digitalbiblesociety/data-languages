@@ -7,12 +7,15 @@ population: 63000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.10268
 longitude: 97.07379
 glottocode: rawa1265
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Nungish > Rawang"
+wikidata_id: Q542564
 wikipedia_url: "https://en.wikipedia.org/wiki/Rawang_language"
 translations:
   - translation_iso: ara

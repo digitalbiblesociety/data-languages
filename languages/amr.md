@@ -7,12 +7,15 @@ population: 1910
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -12.49308
 longitude: -70.55333
 glottocode: amar1274
 glottolog_family_id: hara1260
 glottolog_family_name: Harakmbut
 glottolog_classification: "Harakmbut > Amarakaeri"
+wikidata_id: Q35128
 wikipedia_url: "https://en.wikipedia.org/wiki/Amarakaeri_language"
 translations:
   - translation_iso: ara

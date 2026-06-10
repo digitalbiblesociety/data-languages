@@ -1,12 +1,16 @@
 ---
 iso: ara
+iso639_1: ar
 name: Arabic
 autonym: اللُّغَة العَرَبِيّة
 population: 315421300
 country_id: SA
 country_name: Saudi Arabia
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab, Syrc]
+wikidata_id: Q13955
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabic"
 translations:
   - translation_iso: ara

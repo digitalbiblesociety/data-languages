@@ -7,12 +7,15 @@ population: 1561
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.61613
 longitude: 148.44535
 glottocode: male1289
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Vitiaz linkage > Maleu-Kilenge"
+wikidata_id: Q3281884
 wikipedia_url: "https://en.wikipedia.org/wiki/Maleu-Kilenge_language"
 translations:
   - translation_iso: ara

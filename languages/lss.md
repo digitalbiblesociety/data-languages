@@ -7,12 +7,15 @@ population: 15000
 country_id: PK
 country_name: Pakistan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.32934
 longitude: 66.9137
 glottocode: lasi1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Northwestern zone > Sindhi-Lahnda > Sindhic > Lasi-Jadgali > Lasi"
+wikidata_id: Q12953669
 wikipedia_url: "https://en.wikipedia.org/wiki/Lasi_dialect"
 translations:
   - translation_iso: ara

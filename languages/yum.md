@@ -7,12 +7,15 @@ population: 150
 country_id: US
 country_name: United States
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 32.78589
 longitude: -114.59862
 glottocode: quec1382
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
 glottolog_classification: "Cochimi-Yuman > Yuman > General Yuman > River Yuman > Quechan"
+wikidata_id: Q3573199
 wikipedia_url: "https://en.wikipedia.org/wiki/Quechan_language"
 translations:
   - translation_iso: ara

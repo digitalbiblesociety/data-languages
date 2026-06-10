@@ -7,12 +7,15 @@ population: 180000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.29959
 longitude: 101.74047
 glottocode: kadu1253
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Lolo-Burmese > Loloish > Hani-Jino > Bisoid-Hanic > Hanic > Bi-Ka > Kaduo"
+wikidata_id: Q769809
 wikipedia_url: "https://en.wikipedia.org/wiki/Kaduo_language"
 translations:
   - translation_iso: ara

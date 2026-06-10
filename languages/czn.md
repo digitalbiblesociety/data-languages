@@ -7,12 +7,15 @@ population: 8490
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: living
 latitude: 16.52799
 longitude: -97.45546
 glottocode: zenz1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Chatino > Core Chatino > Zenzontepec Chatino"
+wikidata_id: Q603106
 wikipedia_url: "https://en.wikipedia.org/wiki/Zenzontepec_Chatino"
 translations:
   - translation_iso: ara

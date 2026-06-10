@@ -1,5 +1,6 @@
 ---
 iso: gju
+macrolanguage_id: raj
 name: Gujari
 autonym: Gojri
 alt_names: [Gogri, Gojari, Gujar, Gujer, Gujjari, Gujuri, Gujuri Rajasthani, Gurjar, Kashmir Gujuri, Rajasthani Gujuri, كجري]
@@ -7,6 +8,8 @@ population: 1696000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 34.376763
 longitude: 73.146073
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: guja1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Rajasthani > Mewati-Gojri > Gujari"
+wikidata_id: Q3241731
 wikipedia_url: "https://en.wikipedia.org/wiki/Gujari"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 404000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.86828
 longitude: 37.55569
 glottocode: lugu1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Northeast Coastal Bantu > Ruvu > East Ruvu > Luguru"
+wikidata_id: Q3437661
 wikipedia_url: "https://en.wikipedia.org/wiki/Luguru_language"
 translations:
   - translation_iso: ara

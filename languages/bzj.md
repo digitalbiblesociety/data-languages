@@ -7,12 +7,15 @@ population: 170000
 country_id: BZ
 country_name: Belize
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 17.39407
 longitude: -88.62814
 glottocode: beli1260
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Caribbean English Creole > Western Caribbean Creole > Miskitoic Creole English > Belize-Miskito Creole English > Belize Kriol English"
+wikidata_id: Q1363055
 wikipedia_url: "https://en.wikipedia.org/wiki/Belizean_Creole"
 translations:
   - translation_iso: ara

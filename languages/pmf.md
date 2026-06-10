@@ -7,12 +7,15 @@ population: 77900
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.62663
 longitude: 121.26817
 glottocode: pamo1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Kaili-Wolio > Northern Kaili-Wolio > Pamona-Tombelala > Pamona"
+wikidata_id: Q3513320
 wikipedia_url: "https://en.wikipedia.org/wiki/Pamona_language"
 translations:
   - translation_iso: ara

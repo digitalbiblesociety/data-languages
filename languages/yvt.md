@@ -7,12 +7,15 @@ population: 2000
 country_id: VE
 country_name: Venezuela
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 9.8194
 longitude: -67.42829
 glottocode: yavi1244
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Alto Orinoco > Parenic > Yavitero-Pareni"
+wikidata_id: Q3441427
 wikipedia_url: "https://en.wikipedia.org/wiki/Yavitero_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 230
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -0.75267
 longitude: 131.72762
 glottocode: asss1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Raja Ampat-South Halmahera > As"
+wikidata_id: Q2866218
 wikipedia_url: "https://en.wikipedia.org/wiki/As_language"
 translations:
   - translation_iso: ara

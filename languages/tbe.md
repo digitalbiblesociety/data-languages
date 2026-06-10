@@ -7,12 +7,15 @@ population: 15
 country_id: SB
 country_name: Solomon Islands
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -11.29748
 longitude: 166.50726
 glottocode: tani1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Temotu > Utupua-Vanikoro > Utupua > Tanimbili"
+wikidata_id: Q3515188
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanimbili_language"
 translations:
   - translation_iso: ara

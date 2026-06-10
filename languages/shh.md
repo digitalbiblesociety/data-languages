@@ -7,12 +7,15 @@ population: 2910
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 41
 longitude: -116
 glottocode: shos1248
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Numic > Central Numic > Shoshoni"
+wikidata_id: Q33811
 wikipedia_url: "https://en.wikipedia.org/wiki/Shoshoni_language"
 translations:
   - translation_iso: ara

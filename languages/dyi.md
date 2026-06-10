@@ -7,12 +7,15 @@ population: 95500
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 8.36279
 longitude: -4.45627
 glottocode: djim1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Senufo > South Senufo > Tagbana-Jimini > Djimini Senoufo"
+wikidata_id: Q35336
 wikipedia_url: "https://en.wikipedia.org/wiki/Djimini_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -13.53926
 longitude: 131.0983
 glottocode: kamu1258
 glottolog_family_id: east2374
 glottolog_family_name: Eastern Daly
 glottolog_classification: "Eastern Daly > Kamu"
+wikidata_id: Q6359779
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamu_language"
 translations:
   - translation_iso: ara

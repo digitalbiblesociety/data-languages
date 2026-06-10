@@ -7,12 +7,15 @@ population: 6000
 country_id: VU
 country_name: Vanuatu
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -16.47548
 longitude: 168.23693
 glottocode: paam1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Paama"
+wikidata_id: Q3130286
 wikipedia_url: "https://en.wikipedia.org/wiki/Paamese_language"
 translations:
   - translation_iso: ara

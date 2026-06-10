@@ -1,5 +1,6 @@
 ---
 iso: bod
+iso639_1: bo
 name: Tibetan
 autonym: བོད་སྐད་
 alt_names: [Bhokha, Bhotanta, Bhotia, Bhōṭiā of Tibet, Bod Skad, Central Tibetan, Dbus, Dbusgtsang, Dzad, Huniyā, Jad, Kazi, Lama, Lhasa dialect, Phoke, Pohbetian, Poke, Shalgno, Spiti, Spitian, Tebilian, Tibate, "Tibetan, Central", U, Wei, Weizang, Zang, Zang Wen, tibétain]
@@ -7,6 +8,8 @@ population: 1186020
 country_id: CN
 country_name: China
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 28.36807
 longitude: 90.187243
 scripts: [Tibt]
@@ -14,6 +17,7 @@ glottocode: tibe1272
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Central Tibetan > Tibetan"
+wikidata_id: Q34271
 wikipedia_url: "https://en.wikipedia.org/wiki/Lhasa_Tibetan"
 translations:
   - translation_iso: ara

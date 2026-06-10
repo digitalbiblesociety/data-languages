@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 34.96848
 longitude: -80.88569
 glottocode: cata1286
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan
 glottolog_classification: "Siouan > Catawban > Catawba"
+wikidata_id: Q5051602
 wikipedia_url: "https://en.wikipedia.org/wiki/Catawba_language"
 translations:
   - translation_iso: ara

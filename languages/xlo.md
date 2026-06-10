@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 42.364
 longitude: -72.731
 glottocode: loup1243
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Southern New England Algonquian > Nipmuck"
+wikidata_id: Q27921265
 translations:
   - translation_iso: ara
     name: لوب ألف

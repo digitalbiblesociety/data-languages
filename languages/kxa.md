@@ -6,12 +6,15 @@ population: 3200
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.34608
 longitude: 143.5576
 glottocode: kair1263
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Schouten linkage > Kairiru-Manam > Kairiruic linkage > Kairiru"
+wikidata_id: Q3398785
 wikipedia_url: "https://en.wikipedia.org/wiki/Kairiru_language"
 translations:
   - translation_iso: ara

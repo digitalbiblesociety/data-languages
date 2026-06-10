@@ -7,12 +7,15 @@ population: 216000
 country_id: CG
 country_name: Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.58488
 longitude: 13.32125
 glottocode: suun1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > West-Coastal Bantu > Nzadic > Lweric > Dingic > Loange-Atlantic > KLC Extended > Kikongo Language Cluster > Nuclear KLC > Kikongoic > Kambakunyic Kikongo > Kilaadic Kikongo > Nuclear Northern Kikongo > Suundi"
+wikidata_id: Q7650407
 wikipedia_url: "https://en.wikipedia.org/wiki/Suundi_language"
 translations:
   - translation_iso: ara

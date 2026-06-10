@@ -7,12 +7,15 @@ population: 630000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 27.418
 longitude: 94.69
 glottocode: misi1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Tani > Eastern Tani > Mising-Padam-Miri-Minyong"
+wikidata_id: Q3316328
 wikipedia_url: "https://en.wikipedia.org/wiki/Mising_language"
 translations:
   - translation_iso: ara

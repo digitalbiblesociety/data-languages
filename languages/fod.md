@@ -7,12 +7,15 @@ population: 24500
 country_id: BJ
 country_name: Benin
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.56489
 longitude: 1.40486
 glottocode: food1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > Mountain Oti North Guang > Gikyode-Ginyanga > Gikyode-Foodo > Foodo"
+wikidata_id: Q5465566
 wikipedia_url: "https://en.wikipedia.org/wiki/Foodo_language"
 translations:
   - translation_iso: ara

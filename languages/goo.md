@@ -7,12 +7,15 @@ population: 690
 country_id: FJ
 country_name: Fiji
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -16.58861
 longitude: 178.59889
 glottocode: gone1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Eastern Fijian > Nuclear Eastern Fijian > Gone Dau"
+wikidata_id: Q3110470
 wikipedia_url: "https://en.wikipedia.org/wiki/Gone_Dau_language"
 translations:
   - translation_iso: ara

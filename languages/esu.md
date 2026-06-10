@@ -7,6 +7,8 @@ population: 10000
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 60.30616
 longitude: -161.48588
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: cent2127
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Yupik > Central Alaskan Yupik"
+wikidata_id: Q21117
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Alaskan_Yup%CA%BCik"
 translations:
   - translation_iso: ara

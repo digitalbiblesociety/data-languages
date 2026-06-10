@@ -1,5 +1,6 @@
 ---
 iso: ava
+iso639_1: av
 name: Avaric
 autonym: Avaric
 alt_names: [Abararazda, Akari, Avaars, Avar, Avar language, Avarca, Avareg, Avari, Avarisk, Avariska, Avaro, Avarska, Dagestan, Khunza dialect, Àvar, Ауар теле, ЖIайхойн мотт, МагIарул мацI]
@@ -7,6 +8,8 @@ population: 765300
 country_id: RU
 country_name: Russia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 41.70474
 longitude: 46.55802
 scripts: [Cyrl]
@@ -14,6 +17,7 @@ glottocode: avar1256
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian
 glottolog_classification: "Nakh-Daghestanian > Daghestanian > Avar-Andic-Tsezic > Avar"
+wikidata_id: Q29561
 wikipedia_url: "https://en.wikipedia.org/wiki/Avar_language"
 translations:
   - translation_iso: ara

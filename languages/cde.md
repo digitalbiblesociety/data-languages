@@ -7,12 +7,15 @@ population: 26000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.87867
 longitude: 79.25339
 glottocode: chen1255
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian II > Teluguic > Chenchu"
+wikidata_id: Q32981
 wikipedia_url: "https://en.wikipedia.org/wiki/Chenchu_language"
 translations:
   - translation_iso: ara

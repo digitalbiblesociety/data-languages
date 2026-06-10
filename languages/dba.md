@@ -7,9 +7,12 @@ population: 2000
 country_id: ML
 country_name: Mali
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.81163
 longitude: -3.77092
 glottocode: bang1363
+wikidata_id: Q1982696
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangime_language"
 translations:
   - translation_iso: ara

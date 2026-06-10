@@ -7,12 +7,15 @@ population: 2480
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.56615
 longitude: 144.32888
 glottocode: bana1292
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Banaro"
+wikidata_id: Q56858
 wikipedia_url: "https://en.wikipedia.org/wiki/Banaro_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 4130
 country_id: CO
 country_name: Colombia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 2.55149
 longitude: -76.63789
 glottocode: toto1306
 glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan
 glottolog_classification: "Barbacoan > Coconucan > Totoro"
+wikidata_id: Q3532756
 wikipedia_url: "https://en.wikipedia.org/wiki/Totoro_language"
 translations:
   - translation_iso: ara

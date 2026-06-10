@@ -6,12 +6,15 @@ population: 36700
 country_id: SR
 country_name: Suriname
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.547285
 longitude: -54.02384
 glottocode: sara1340
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Germanic > Northwest Germanic > West Germanic > North Sea Germanic > Anglo-Frisian > Anglic > Later Anglic > Middle-Modern English > Macro-English > Guinea Coast Creole English > Surinamese Creole English > Saramaccan"
+wikidata_id: Q33779
 wikipedia_url: "https://en.wikipedia.org/wiki/Saramaccan_language"
 translations:
   - translation_iso: ara

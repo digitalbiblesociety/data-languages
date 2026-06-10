@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.49468
 longitude: 143.16518
 glottocode: kuuk1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Compromise Middle Pama > Northeastern Pama > Umpilaic > Kuuku-Ya'u"
+wikidata_id: Q10550697
 translations:
   - translation_iso: ara
     name: "كوكو-يا'و"

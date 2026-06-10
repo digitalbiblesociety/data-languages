@@ -7,12 +7,15 @@ population: null
 country_id: ES
 country_name: Spain
 status_id: null
+scope: individual
+language_type: historical
 latitude: 37.23754
 longitude: -8.12394
 glottocode: tart1237
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Tartessian"
+wikidata_id: Q36795
 wikipedia_url: "https://en.wikipedia.org/wiki/Tartessian_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 71500
 country_id: PH
 country_name: Philippines
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 8.87009
 longitude: 125.41841
 glottocode: butu1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bisayan > South Bisayan > Butuan-Tausug > Butuanon"
+wikidata_id: Q5003156
 wikipedia_url: "https://en.wikipedia.org/wiki/Butuanon_language"
 translations:
   - translation_iso: ara

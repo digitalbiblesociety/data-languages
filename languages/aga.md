@@ -7,12 +7,15 @@ population: null
 country_id: PE
 country_name: Peru
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -5.25
 longitude: -75.83332
 glottocode: agua1251
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Arawakan (Unattested) > Aguano"
+wikidata_id: Q3331203
 wikipedia_url: "https://en.wikipedia.org/wiki/Aguano_language"
 translations:
   - translation_iso: ara

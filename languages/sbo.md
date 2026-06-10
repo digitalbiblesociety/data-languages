@@ -7,12 +7,15 @@ population: null
 country_id: MY
 country_name: Malaysia
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 5.34694
 longitude: 101.06484
 glottocode: sabu1253
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Aslian > Central-Northern Aslian > Senoic > Lanoh-Semnam-Temiar > Lanoh-Semnam > Lanohic > Sabüm"
+wikidata_id: Q7396535
 wikipedia_url: "https://en.wikipedia.org/wiki/Sab%C3%BCm_language"
 translations:
   - translation_iso: ara

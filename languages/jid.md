@@ -7,12 +7,15 @@ population: 20000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.05077
 longitude: 8.65697
 glottocode: buuu1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Ninzic > Bu"
+wikidata_id: Q3913321
 wikipedia_url: "https://en.wikipedia.org/wiki/Bu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 30000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.49437
 longitude: -98.46738
 glottocode: alac1244
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Guerrero Mixtec > Nuclear Guerrero Mixtec > Alacatlatzala Mixtec"
+wikidata_id: Q14697894
 translations:
   - translation_iso: ara
     name: لغة مازاتك ألاكاتلاتزالا

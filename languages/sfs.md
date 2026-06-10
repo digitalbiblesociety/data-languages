@@ -7,12 +7,15 @@ population: 1200
 country_id: ZA
 country_name: South Africa
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -25.96551
 longitude: 28.11864
 glottocode: sout1404
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > BSLic > South African Sign > South African Sign Language"
+wikidata_id: Q3322093
 wikipedia_url: "https://en.wikipedia.org/wiki/South_African_Sign_Language"
 translations:
   - translation_iso: ara

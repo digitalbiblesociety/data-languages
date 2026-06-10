@@ -7,12 +7,15 @@ population: 350
 country_id: IL
 country_name: Israel
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 31.911135
 longitude: 43.486485
 glottocode: hula1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Northwest Semitic > Aramaic > Imperial-Middle-Modern Aramaic > Middle-Modern Aramaic > Eastern Aramaic > Central Eastern Aramaic > North-Eastern Neo-Aramaic > Trans-Zab > Hulaulá"
+wikidata_id: Q33426
 wikipedia_url: "https://en.wikipedia.org/wiki/Trans-Zab_Jewish_Neo-Aramaic"
 translations:
   - translation_iso: ara

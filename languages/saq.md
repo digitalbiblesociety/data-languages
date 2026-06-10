@@ -7,6 +7,8 @@ population: 366000
 country_id: KE
 country_name: Kenya
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 1.60735
 longitude: 37.05388
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: samb1315
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Eastern Nilotic > Teso-Lotuxo-Maa > Lotuxo-Maa > Ongamo-Maa > Nuclear Maa > Samburu"
+wikidata_id: Q56536
 wikipedia_url: "https://en.wikipedia.org/wiki/Samburu_language"
 translations:
   - translation_iso: ara

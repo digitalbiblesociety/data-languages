@@ -7,12 +7,15 @@ population: 2
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -5.1149
 longitude: -75.67785
 glottocode: cham1318
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Chamicuro-Morike > Chamicuro"
+wikidata_id: Q2155119
 wikipedia_url: "https://en.wikipedia.org/wiki/Chamicuro_language"
 translations:
   - translation_iso: ara

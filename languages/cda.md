@@ -7,12 +7,15 @@ population: 154000
 country_id: CN
 country_name: China
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 27.75524
 longitude: 99.82552
 glottocode: chon1285
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Eastern Tibetic > Choni"
+wikidata_id: Q2964447
 wikipedia_url: "https://en.wikipedia.org/wiki/Choni_language"
 translations:
   - translation_iso: ara

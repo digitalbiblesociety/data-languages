@@ -7,12 +7,15 @@ population: 1000
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -1.86998
 longitude: 138.74987
 glottocode: sobe1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Sarmi-Jayapura Bay > Sarmi > Sobeic > Sobei-Liki > Sobei"
+wikidata_id: Q3121035
 wikipedia_url: "https://en.wikipedia.org/wiki/Sobei_language"
 translations:
   - translation_iso: ara

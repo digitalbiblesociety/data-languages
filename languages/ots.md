@@ -7,12 +7,15 @@ population: 20000
 country_id: MX
 country_name: Mexico
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 19.87809
 longitude: -99.60997
 glottocode: esta1236
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Western Otomanguean > Otopame-Chinantecan > Otopamean > Otomian > Southwestern Otomi > Estado de México Otomi"
+wikidata_id: Q7413841
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Otomi"
 translations:
   - translation_iso: ara

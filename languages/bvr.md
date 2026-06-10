@@ -7,12 +7,15 @@ population: 1050
 country_id: AU
 country_name: Australia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -12.30605
 longitude: 134.36499
 glottocode: bura1267
 glottolog_family_id: mani1293
 glottolog_family_name: Maningrida
 glottolog_classification: "Maningrida > Bureran > Burarra"
+wikidata_id: Q4998124
 wikipedia_url: "https://en.wikipedia.org/wiki/Burarra_language"
 translations:
   - translation_iso: ara

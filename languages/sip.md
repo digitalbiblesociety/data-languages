@@ -7,12 +7,15 @@ population: 25000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 27.85795
 longitude: 88.59153
 glottocode: sikk1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > Bodish > Early Old Tibetan > Middle Old Tibetan > Late Old Tibetan > Southern Tibetic > Dzongkhic > Sikkimese"
+wikidata_id: Q35285
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikkimese_Bhutia_language"
 translations:
   - translation_iso: ara

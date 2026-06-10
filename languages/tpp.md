@@ -7,12 +7,15 @@ population: 4000
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 20.70392
 longitude: -98.03053
 glottocode: pisa1237
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Tepehua > Pisaflores Tepehua"
+wikidata_id: Q56349
 wikipedia_url: "https://en.wikipedia.org/wiki/Pisaflores_Tepehua"
 translations:
   - translation_iso: ara

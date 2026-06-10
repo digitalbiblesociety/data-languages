@@ -7,12 +7,15 @@ population: 8230
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.335475
 longitude: -16.515045
 glottocode: ejam1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Jola > FH-Jola > PF-Jola > Her-Ejamat > Ejamat"
+wikidata_id: Q6269820
 wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Felupe_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 619000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.04333
 longitude: 6.86651
 glottocode: ikwe1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Igboid > Nuclear Igboid > Ikwere"
+wikidata_id: Q35399
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikwerre_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: null
 country_id: SD
 country_name: Sudan
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.273295
 longitude: 22.17522
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nucl1440
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Masalit > Masalit"
+wikidata_id: Q56557
 wikipedia_url: "https://en.wikipedia.org/wiki/Masalit_language"
 translations:
   - translation_iso: ara

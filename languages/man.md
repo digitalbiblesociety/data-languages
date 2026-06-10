@@ -7,7 +7,10 @@ population: null
 country_id: GN
 country_name: Guinea
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Latn, Nkoo]
+wikidata_id: Q35772
 wikipedia_url: "https://en.wikipedia.org/wiki/Manding_languages"
 translations:
   - translation_iso: ara

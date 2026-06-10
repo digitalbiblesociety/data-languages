@@ -7,12 +7,15 @@ population: 14860
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.24813
 longitude: 124.65429
 glottocode: tont1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Minahasan > North Minahasan > Tontemboan"
+wikidata_id: Q3531666
 wikipedia_url: "https://en.wikipedia.org/wiki/Tontemboan_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 260
 country_id: BF
 country_name: Burkina Faso
 status_id: null
+scope: individual
+language_type: living
 latitude: 10.6201
 longitude: -5.3591
 glottocode: pale1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Samu > Palen"
+wikidata_id: Q7127118
 wikipedia_url: "https://en.wikipedia.org/wiki/Paleni_language"
 translations:
   - translation_iso: ara

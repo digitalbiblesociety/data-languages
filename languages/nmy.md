@@ -7,12 +7,15 @@ population: 200
 country_id: CN
 country_name: China
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 28.59085
 longitude: 101.8976
 glottocode: namu1246
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Burmo-Qiangic > Na-Qiangic > Naic > Namuyi"
+wikidata_id: Q56844
 wikipedia_url: "https://en.wikipedia.org/wiki/Namuyi_language"
 translations:
   - translation_iso: ara

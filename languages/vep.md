@@ -7,6 +7,8 @@ population: 5750
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 60.33531
 longitude: 34.7865
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: veps1250
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Finnic > Coastal Finnic > Neva > North Finnic > Ladogan > East Ladoga > Veps"
+wikidata_id: Q32747
 wikipedia_url: "https://en.wikipedia.org/wiki/Veps_language"
 translations:
   - translation_iso: ara

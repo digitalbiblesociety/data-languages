@@ -7,12 +7,15 @@ population: 238000
 country_id: UG
 country_name: Uganda
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 1.41726
 longitude: 32.4179
 glottocode: ruul1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Ruuli"
+wikidata_id: Q7383562
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruuli_language"
 translations:
   - translation_iso: ara

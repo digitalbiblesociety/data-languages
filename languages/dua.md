@@ -7,6 +7,8 @@ population: 87700
 country_id: CM
 country_name: Cameroon
 status_id: "3"
+scope: individual
+language_type: living
 latitude: 4.10208
 longitude: 9.61877
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: dual1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Sawabantu > Dualaic > Duala-Malimba > Duala"
+wikidata_id: Q33013
 wikipedia_url: "https://en.wikipedia.org/wiki/Duala_language"
 translations:
   - translation_iso: ara

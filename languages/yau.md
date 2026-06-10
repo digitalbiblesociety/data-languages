@@ -7,9 +7,12 @@ population: 300
 country_id: VE
 country_name: Venezuela
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.63879
 longitude: -65.4267
 glottocode: yuwa1244
+wikidata_id: Q5876347
 wikipedia_url: "https://en.wikipedia.org/wiki/Hod%C3%AF_language"
 translations:
   - translation_iso: ara

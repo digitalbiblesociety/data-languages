@@ -7,12 +7,15 @@ population: null
 country_id: CM
 country_name: Cameroon
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 6.67251
 longitude: 9.79396
 glottocode: bish1246
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Bishuo"
+wikidata_id: Q34973
 wikipedia_url: "https://en.wikipedia.org/wiki/Bishuo_language"
 translations:
   - translation_iso: ara

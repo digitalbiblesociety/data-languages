@@ -7,6 +7,8 @@ population: 778000
 country_id: GR
 country_name: Greece
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 37.92
 longitude: 23.67
 scripts: [Cyrl, Grek, Latn]
@@ -14,6 +16,7 @@ glottocode: pont1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Pontic-Cappadocian Greek > Pontic"
+wikidata_id: Q36748
 wikipedia_url: "https://en.wikipedia.org/wiki/Pontic_Greek"
 translations:
   - translation_iso: ara

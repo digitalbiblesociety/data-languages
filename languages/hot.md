@@ -7,12 +7,15 @@ population: 4500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.07708
 longitude: 146.86873
 glottocode: hote1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > South Huon Gulf linkage > Misim-Yamap > Hote"
+wikidata_id: Q12632404
 wikipedia_url: "https://en.wikipedia.org/wiki/Hote_language"
 translations:
   - translation_iso: ara

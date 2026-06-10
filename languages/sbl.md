@@ -7,12 +7,15 @@ population: 32900
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 15.23154
 longitude: 120.16443
 glottocode: boto1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Central Luzon > Sambalic > Abellen-Botolan > Botolan Sambal"
+wikidata_id: Q4095195
 wikipedia_url: "https://en.wikipedia.org/wiki/Botolan_language"
 translations:
   - translation_iso: ara

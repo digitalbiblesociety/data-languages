@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: -20.13889
 longitude: 143.43797
 glottocode: mbab1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Finasleigh Pama > Mbabaram"
+wikidata_id: Q3303475
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbabaram_language"
 translations:
   - translation_iso: ara

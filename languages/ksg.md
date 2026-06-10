@@ -7,12 +7,15 @@ population: 2400
 country_id: SB
 country_name: Solomon Islands
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -8.04056
 longitude: 157.46268
 glottocode: kusa1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Meso Melanesian linkage > New Ireland-Northwest Solomonic linkage > St George linkage > Northwest Solomonic > New Georgia > East New Georgia > Rovianic > Hoava-Kusaghe > Kusaghe-Njela"
+wikidata_id: Q3200638
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusaghe_dialect"
 translations:
   - translation_iso: ara

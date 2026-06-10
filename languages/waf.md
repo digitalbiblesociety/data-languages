@@ -7,12 +7,15 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -9.91666
 longitude: -36.49999
 glottocode: wako1235
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Wakoná"
+wikidata_id: Q7961205
 wikipedia_url: "https://en.wikipedia.org/wiki/Wakon%C3%A1_language"
 translations:
   - translation_iso: ara

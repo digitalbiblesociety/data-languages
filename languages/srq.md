@@ -7,12 +7,15 @@ population: 190
 country_id: BO
 country_name: Bolivia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -15.52979
 longitude: -63.9688
 glottocode: siri1273
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup II > Warazu-Sirionoid > Sirionoid > Sirionó"
+wikidata_id: Q3027953
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirion%C3%B3_language"
 translations:
   - translation_iso: ara

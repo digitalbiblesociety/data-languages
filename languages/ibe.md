@@ -7,12 +7,15 @@ population: 10000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.50256
 longitude: 5.95559
 glottocode: akpe1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Akpes"
+wikidata_id: Q35457
 wikipedia_url: "https://en.wikipedia.org/wiki/Akpes_language"
 translations:
   - translation_iso: ara

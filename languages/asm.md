@@ -1,5 +1,6 @@
 ---
 iso: asm
+iso639_1: as
 name: Assamese
 autonym: অসমীয়া
 alt_names: [Asam simi, Asambe, Asameg, Asami, Asamiya, Asamés, Assamais, Assamees, Assameg, Assamesisk, Assamesiska, Assameíska, Assami, Assamès, Fiteny assamey, אסאמית, असमिया, অসমীয়া ঠার, ಅಸ್ಸಾಮಿ, ആസ്സാമീസ്]
@@ -7,6 +8,8 @@ population: 14800000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 26.08763
 longitude: 91.293155
 scripts: [Beng]
@@ -14,6 +17,7 @@ glottocode: assa1263
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Indo-Aryan Eastern zone > Oriya-Gauda-Kamrupa > Gauda-Kamrupa > Kamrupa > Eastern Kamrupa > Assamese"
+wikidata_id: Q29401
 wikipedia_url: "https://en.wikipedia.org/wiki/Assamese_language"
 translations:
   - translation_iso: ara

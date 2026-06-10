@@ -7,12 +7,15 @@ population: 20000
 country_id: HK
 country_name: Hong Kong
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 22.160631
 longitude: 113.555225
 glottocode: hong1241
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > CSLic > Hong Kong-Macau Sign Language"
+wikidata_id: Q17038844
 wikipedia_url: "https://en.wikipedia.org/wiki/Hong_Kong_Sign_Language"
 translations:
   - translation_iso: ara

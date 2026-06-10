@@ -7,12 +7,15 @@ population: 7270
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.77352
 longitude: -51.67367
 glottocode: kaya1330
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je
 glottolog_classification: "Nuclear-Macro-Je > Je > Cerrado > Goyaz > Northern Je > Mebengokre"
+wikidata_id: Q3101212
 wikipedia_url: "https://en.wikipedia.org/wiki/Kayapo_language"
 translations:
   - translation_iso: ara

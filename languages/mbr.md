@@ -7,12 +7,15 @@ population: 400
 country_id: CO
 country_name: Colombia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.65939
 longitude: -71.46289
 glottocode: nuka1242
 glottolog_family_id: kaku1242
 glottolog_family_name: Kakua-Nukak
 glottolog_classification: "Kakua-Nukak > Nukak Makú"
+wikidata_id: Q3346228
 wikipedia_url: "https://en.wikipedia.org/wiki/Nukak_language"
 translations:
   - translation_iso: ara

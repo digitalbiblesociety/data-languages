@@ -6,12 +6,15 @@ population: 7500
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 13.1568
 longitude: 20.78818
 glottocode: marf1238
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
 glottolog_classification: "Maban > Mabang > Maba-Masalit > Macro-Maba > Marfa"
+wikidata_id: Q713633
 wikipedia_url: "https://en.wikipedia.org/wiki/Marfa_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 980
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -6.41424
 longitude: 146.78151
 glottocode: naka1264
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Finisterre-Huon > Finisterre-Saruwaged > Erap > Boana > Nakama"
+wikidata_id: Q11732495
 wikipedia_url: "https://en.wikipedia.org/wiki/Nakama_language"
 translations:
   - translation_iso: ara

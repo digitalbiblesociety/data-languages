@@ -7,12 +7,15 @@ population: 3000
 country_id: MX
 country_name: Mexico
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 20.65321
 longitude: -97.7463
 glottocode: xico1235
 glottolog_family_id: toto1251
 glottolog_family_name: Totonacan
 glottolog_classification: "Totonacan > Totonac > Central Totonacan > Northern Totonacan > Xicotepec De Juárez Totonac"
+wikidata_id: Q8044353
 wikipedia_url: "https://en.wikipedia.org/wiki/Xicotepec_Totonac"
 translations:
   - translation_iso: ara

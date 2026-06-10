@@ -1,5 +1,6 @@
 ---
 iso: umu
+macrolanguage_id: del
 name: Munsee
 autonym: Huluníixsuwaakan
 alt_names: [Canadian Delaware, Delaware, Munsee Delaware, Ontario Delaware, Unami, Unamí (Estados Unidos)]
@@ -7,12 +8,15 @@ population: 400
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 42.59677
 longitude: -81.91658
 glottocode: muns1251
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Delawaran > Common Delaware > Munsee"
+wikidata_id: Q56547
 wikipedia_url: "https://en.wikipedia.org/wiki/Munsee_language"
 translations:
   - translation_iso: ara

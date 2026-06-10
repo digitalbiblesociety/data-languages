@@ -6,12 +6,15 @@ population: 6800
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.33929
 longitude: -1.57833
 glottocode: hang1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Southeast Western Oti-Volta > Kamara-Hanga > Hanga"
+wikidata_id: Q35426
 wikipedia_url: "https://en.wikipedia.org/wiki/Hanga_language"
 translations:
   - translation_iso: ara

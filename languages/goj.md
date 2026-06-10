@@ -6,8 +6,11 @@ population: 20200
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 21.50959
 longitude: 77.2647
+wikidata_id: Q12953532
 wikipedia_url: "https://en.wikipedia.org/wiki/Gowlan_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 594000
 country_id: SL
 country_name: Sierra Leone
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.493255
 longitude: -10.61219
 glottocode: kura1250
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mande > Manding-Jogo > Manding-Vai > Manding-Mokole > Nuclear Mokole > Kuranko"
+wikidata_id: Q3198896
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuranko_language"
 translations:
   - translation_iso: ara

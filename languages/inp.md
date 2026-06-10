@@ -7,12 +7,15 @@ population: 4
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -12.46525
 longitude: -69.30827
 glottocode: inap1242
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Purus-Chamicuro > Purus > Iñapari"
+wikidata_id: Q15338035
 wikipedia_url: "https://en.wikipedia.org/wiki/I%C3%B1apari_language"
 translations:
   - translation_iso: ara

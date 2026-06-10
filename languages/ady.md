@@ -7,6 +7,8 @@ population: 607500
 country_id: RU
 country_name: Russia
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 44
 longitude: 39.33
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: adyg1241
 glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Circassian > West Circassian"
+wikidata_id: Q27776
 wikipedia_url: "https://en.wikipedia.org/wiki/Adyghe_language"
 translations:
   - translation_iso: ara

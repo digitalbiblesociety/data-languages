@@ -6,6 +6,9 @@ population: null
 country_id: MY
 country_name: Malaysia
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q63214927
 translations:
   - translation_iso: ara
     name: إيرانون

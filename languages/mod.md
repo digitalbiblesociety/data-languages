@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 30.47
 longitude: -91.75
 glottocode: mobi1236
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
 glottolog_classification: "Pidgin > Choctaw-based pidgin > Mobilian"
+wikidata_id: Q13333
 wikipedia_url: "https://en.wikipedia.org/wiki/Mobilian_Jargon"
 translations:
   - translation_iso: ara

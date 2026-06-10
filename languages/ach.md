@@ -7,6 +7,8 @@ population: 1588000
 country_id: UG
 country_name: Uganda
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.577385
 longitude: 32.514725
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: acol1236
 glottolog_family_id: nilo1247
 glottolog_family_name: Nilotic
 glottolog_classification: "Nilotic > Western Nilotic > Lwoo > Southern Lwoo > Acoli"
+wikidata_id: Q34926
 wikipedia_url: "https://en.wikipedia.org/wiki/Acholi_dialect"
 translations:
   - translation_iso: ara

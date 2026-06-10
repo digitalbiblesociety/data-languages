@@ -7,12 +7,15 @@ population: 62300
 country_id: SS
 country_name: South Sudan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 4.659435
 longitude: 29.58996
 glottocode: baka1274
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Baka-Beli > Baka (South Sudan)"
+wikidata_id: Q2880165
 wikipedia_url: "https://en.wikipedia.org/wiki/Baka_language_(South_Sudan)"
 translations:
   - translation_iso: ara

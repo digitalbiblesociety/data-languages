@@ -7,12 +7,15 @@ population: 1900
 country_id: VU
 country_name: Vanuatu
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -15.91787
 longitude: 167.27077
 glottocode: vaoo1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Northern Malakula > North Coast Malakula > Botovro-Vovo-Vao > Vao-Vovo"
+wikidata_id: Q2160405
 wikipedia_url: "https://en.wikipedia.org/wiki/Vao_language"
 translations:
   - translation_iso: ara

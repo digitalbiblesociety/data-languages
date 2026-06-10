@@ -7,12 +7,15 @@ population: 1600
 country_id: MX
 country_name: Mexico
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 18.6303
 longitude: -98.10459
 glottocode: chig1239
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Northern Baja Mixtec > Chigmecatitlán Mixtec"
+wikidata_id: Q12953724
 wikipedia_url: "https://en.wikipedia.org/wiki/Chigmecatitl%C3%A1n_Mixtec"
 translations:
   - translation_iso: ara

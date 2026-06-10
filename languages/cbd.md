@@ -7,12 +7,15 @@ population: 310
 country_id: CO
 country_name: Colombia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 1.21894
 longitude: -72.06635
 glottocode: cari1279
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Taranoan > Carijona"
+wikidata_id: Q3446655
 wikipedia_url: "https://en.wikipedia.org/wiki/Carijona_language"
 translations:
   - translation_iso: ara

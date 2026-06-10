@@ -7,12 +7,15 @@ population: 4280
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -1.60095
 longitude: 120.37876
 glottocode: beso1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > Rampi-Seko-Badaic > Badaic-Limola > Badaic > Besoa"
+wikidata_id: Q8840465
 wikipedia_url: "https://en.wikipedia.org/wiki/Behoa_language"
 translations:
   - translation_iso: ara

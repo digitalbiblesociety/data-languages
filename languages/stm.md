@@ -7,12 +7,15 @@ population: 280
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.31134
 longitude: 141.83348
 glottocode: seta1246
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Asmat-Awyu-Ok > Awyu-Ok > Ok-Oksapmin > Ok > Mountain Ok > Division A Mountain Ok > Tifal-Telefol > Tifalic > Faiwol-Seltaman > Setaman"
+wikidata_id: Q7456333
 wikipedia_url: "https://en.wikipedia.org/wiki/Setaman_language"
 translations:
   - translation_iso: ara

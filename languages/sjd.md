@@ -7,12 +7,15 @@ population: 1000
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 68.21579
 longitude: 35.83479
 glottocode: kild1236
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
 glottolog_classification: "Uralic > Saami > Eastern Saami > Peninsular Eastern Saami > Kildin Saami"
+wikidata_id: Q33656
 wikipedia_url: "https://en.wikipedia.org/wiki/Kildin_S%C3%A1mi"
 translations:
   - translation_iso: ara

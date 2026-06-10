@@ -7,12 +7,15 @@ population: 12200
 country_id: MY
 country_name: Malaysia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 6.14235
 longitude: 117.17608
 glottocode: sugu1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > North Borneo Malayo-Polynesian > Sabahan > Southwest Sabahan > Greater Dusunic > Dusunic > Kadazan-Sugut-Minokok > Sugut-Minokok Kadazan > Sugut Dusun"
+wikidata_id: Q12953510
 translations:
   - translation_iso: ara
     name: دوسون سوجوت

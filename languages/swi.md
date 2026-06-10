@@ -7,12 +7,15 @@ population: 300120
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 24.048835
 longitude: 106.56279
 glottocode: suii1243
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Kam-Sui > Then-MMS > Maonan-Mak-Sui > Sui"
+wikidata_id: Q3112388
 wikipedia_url: "https://en.wikipedia.org/wiki/Sui_language"
 translations:
   - translation_iso: ara

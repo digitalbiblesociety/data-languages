@@ -7,12 +7,15 @@ population: 3500
 country_id: ID
 country_name: Indonesia
 status_id: 8a
+scope: individual
+language_type: living
 latitude: -1.9063
 longitude: 115.08663
 glottocode: paku1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Basap-Greater Barito > Greater Barito linkage > Southeast Barito > Maanyan-Paku > Paku"
+wikidata_id: Q2932604
 wikipedia_url: "https://en.wikipedia.org/wiki/Paku_language_(Indonesia)"
 translations:
   - translation_iso: ara

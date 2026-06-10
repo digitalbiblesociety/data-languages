@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 10.85268
 longitude: 9.72407
 glottocode: mawa1236
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested
 glottolog_classification: "Unattested > Mawa (Nigeria)"
+wikidata_id: Q6794339
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawa_language_(Nigeria)"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 7030
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 34.22125
 longitude: 53.52105
 glottocode: nayi1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Central Iran Kermanic > Nuclear Central Iran Kermanic > Yazdi-Kermani-Nayini > Nayinic"
+wikidata_id: Q6983146
 wikipedia_url: "https://en.wikipedia.org/wiki/Nayini_language"
 translations:
   - translation_iso: ara

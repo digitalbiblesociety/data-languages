@@ -7,12 +7,15 @@ population: 300
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -7.30342
 longitude: 143.61799
 glottocode: ikob1240
 glottolog_family_id: tura1263
 glottolog_family_name: Turama-Kikori
 glottolog_classification: "Turama-Kikori > Turama-Omatian > Ikobi"
+wikidata_id: Q11732241
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikobi_language"
 translations:
   - translation_iso: ara

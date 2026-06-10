@@ -6,6 +6,9 @@ population: null
 country_id: KR
 country_name: South Korea
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q5003359
 wikipedia_url: "https://en.wikipedia.org/wiki/Buyeo_language"
 translations:
   - translation_iso: ara

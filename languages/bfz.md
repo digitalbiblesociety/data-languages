@@ -7,12 +7,15 @@ population: 1000000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.00883
 longitude: 77.53166
 glottocode: maha1287
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Mahasu Pahari"
+wikidata_id: Q6733460
 wikipedia_url: "https://en.wikipedia.org/wiki/Mahasu_Pahari"
 translations:
   - translation_iso: ara

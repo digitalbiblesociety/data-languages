@@ -1,5 +1,6 @@
 ---
 iso: nde
+iso639_1: nd
 name: North Ndebele
 autonym: Zimbabwe Ndebele
 alt_names: [IsiNdebele, "Isinde'bele", Ndebele, "Ndebele, North", Noord-Ndebele, Nordndebele, Northern Ndebele, Northern Ndebele language, Sindebele, Tabele, Tebele, ndébélé du Nord]
@@ -7,6 +8,8 @@ population: 1642000
 country_id: ZW
 country_name: Zimbabwe
 status_id: "3"
+scope: individual
+language_type: living
 latitude: -20.25133
 longitude: 27.40959
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: nort2795
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Southern Bantu > Nuclear Southern Bantu > Dimsuffix Southern Bantu > Nguni-Tsonga-Copi > Nguni (S.40) > Nuclear Nguni > Southern Ndebele-Lowland > Swatic > Zimbabwean Ndebele"
+wikidata_id: Q35613
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ndebele_language"
 translations:
   - translation_iso: ara

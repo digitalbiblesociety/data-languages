@@ -7,9 +7,12 @@ population: 1100
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.62687
 longitude: 143.28359
 glottocode: fasu1242
+wikidata_id: Q3446687
 wikipedia_url: "https://en.wikipedia.org/wiki/Fasu_language"
 translations:
   - translation_iso: ara

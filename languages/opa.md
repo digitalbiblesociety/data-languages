@@ -6,12 +6,15 @@ population: 30000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.33708
 longitude: 5.97843
 glottocode: okpa1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Northwestern Edoid > Southern Northwestern Edoid > Okpamheri"
+wikidata_id: Q3913331
 wikipedia_url: "https://en.wikipedia.org/wiki/Okpamheri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 380
 country_id: VU
 country_name: Vanuatu
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -16.29344
 longitude: 167.65074
 glottocode: rere1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > North and Central Vanuatu > Central Vanuatu > Malakula > Eastern Malakula linkage > Central-Southeast Malakula > Unua-Pangkumu > Rerep"
+wikidata_id: Q586907
 wikipedia_url: "https://en.wikipedia.org/wiki/Rerep_language"
 translations:
   - translation_iso: ara

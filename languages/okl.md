@@ -7,12 +7,15 @@ population: null
 country_id: GB
 country_name: United Kingdom
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 51.11978
 longitude: 0.98365
 glottocode: oldk1238
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > OKSLic > Old Kentish Sign Language"
+wikidata_id: Q7084319
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Kentish_Sign_Language"
 translations:
   - translation_iso: ara

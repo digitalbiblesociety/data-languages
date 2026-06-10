@@ -7,12 +7,15 @@ population: 1650
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.81193
 longitude: 37.05424
 glottocode: qima1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Cushitic > Agaw > Northern-Eastern-Western Agaw > Qimant"
+wikidata_id: Q35663
 wikipedia_url: "https://en.wikipedia.org/wiki/Qimant_language"
 translations:
   - translation_iso: ara

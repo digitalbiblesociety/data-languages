@@ -7,6 +7,8 @@ population: 843750
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 22.61376
 longitude: 92.624697
 scripts: [Beng]
@@ -14,6 +16,7 @@ glottocode: lush1249
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Core Central Kuki-Chin > Mizoic > Mizo"
+wikidata_id: Q36147
 wikipedia_url: "https://en.wikipedia.org/wiki/Mizo_language"
 translations:
   - translation_iso: ara

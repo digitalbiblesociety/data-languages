@@ -7,12 +7,15 @@ population: 12300
 country_id: TD
 country_name: Chad
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 12.189535
 longitude: 22.52785
 glottocode: siny1243
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Sara-Bongo-Bagirmi > Sinyar"
+wikidata_id: Q56840
 wikipedia_url: "https://en.wikipedia.org/wiki/Sinyar_language"
 translations:
   - translation_iso: ara

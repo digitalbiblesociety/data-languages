@@ -7,12 +7,15 @@ population: 71500
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.44235
 longitude: 6.32192
 glottocode: sout2774
 glottolog_family_id: ijoi1239
 glottolog_family_name: Ijoid
 glottolog_classification: "Ijoid > Ijo > Eastern Ijo > Southeast Ijo"
+wikidata_id: Q3915854
 wikipedia_url: "https://en.wikipedia.org/wiki/Southeast_Ijo"
 translations:
   - translation_iso: ara

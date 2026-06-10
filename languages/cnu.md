@@ -7,12 +7,15 @@ population: 15250
 country_id: DZ
 country_name: Algeria
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 36.59171
 longitude: 2.19899
 glottocode: chen1266
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Berber > Greater Zenatic > Zenatic > Western Algerian Berber"
+wikidata_id: Q33276
 wikipedia_url: "https://en.wikipedia.org/wiki/Shenwa_language"
 translations:
   - translation_iso: ara

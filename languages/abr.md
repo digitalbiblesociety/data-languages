@@ -7,6 +7,8 @@ population: 1393000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.720945
 longitude: -2.502885
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: abro1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Abron"
+wikidata_id: Q34831
 wikipedia_url: "https://en.wikipedia.org/wiki/Bono_dialect"
 translations:
   - translation_iso: ara

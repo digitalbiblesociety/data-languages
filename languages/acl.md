@@ -7,12 +7,15 @@ population: null
 country_id: IN
 country_name: India
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 12.66632
 longitude: 92.82775
 glottocode: akar1243
 glottolog_family_id: grea1241
 glottolog_family_name: Great Andamanese
 glottolog_classification: "Great Andamanese > South Great Andamanese > Akarbale"
+wikidata_id: Q3436825
 wikipedia_url: "https://en.wikipedia.org/wiki/Akarbale"
 translations:
   - translation_iso: ara

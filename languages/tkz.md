@@ -7,12 +7,15 @@ population: 12800
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15.42987
 longitude: 108.0455
 glottocode: taku1254
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Takua"
+wikidata_id: Q7678544
 wikipedia_url: "https://en.wikipedia.org/wiki/Takua_language"
 translations:
   - translation_iso: ara

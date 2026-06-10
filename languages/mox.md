@@ -7,12 +7,15 @@ population: 4010
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.57457
 longitude: 150.61417
 glottocode: moli1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Molima"
+wikidata_id: Q3319495
 wikipedia_url: "https://en.wikipedia.org/wiki/Molima_language"
 translations:
   - translation_iso: ara

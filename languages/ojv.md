@@ -7,12 +7,15 @@ population: 2370
 country_id: SB
 country_name: Solomon Islands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -5.49029
 longitude: 159.70074
 glottocode: onto1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Central Pacific linkage > Tokalau Fijian > Polynesian > Nuclear Polynesian > Northern Outlier Polynesian-East Polynesian > Solomons Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian-East Polynesian > Central Northern Outlier Polynesian > Luangiua"
+wikidata_id: Q7095071
 wikipedia_url: "https://en.wikipedia.org/wiki/Ontong_Java_language"
 translations:
   - translation_iso: ara

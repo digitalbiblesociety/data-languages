@@ -7,12 +7,15 @@ population: 1558
 country_id: ST
 country_name: "Sao Tome & Principe"
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 1.614
 longitude: 7.392
 glottocode: prin1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Gulf Guinea Creole Portuguese > Principense"
+wikidata_id: Q36520
 wikipedia_url: "https://en.wikipedia.org/wiki/Principense_Creole"
 translations:
   - translation_iso: ara

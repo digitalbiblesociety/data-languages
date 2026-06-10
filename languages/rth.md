@@ -7,12 +7,15 @@ population: 30000
 country_id: ID
 country_name: Indonesia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 1.07592
 longitude: 124.85799
 glottocode: rata1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Sangiric-Minahasan > Sangiric > Southern Sangiric > Ratahan"
+wikidata_id: Q3420026
 wikipedia_url: "https://en.wikipedia.org/wiki/Ratahan_language"
 translations:
   - translation_iso: ara

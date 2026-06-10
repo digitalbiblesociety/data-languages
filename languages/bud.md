@@ -7,12 +7,15 @@ population: 329000
 country_id: TG
 country_name: Togo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.239705
 longitude: 0.599275
 glottocode: ntch1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Gurma-Yom-Naudem > Gurma > Gurma A > Ntcham"
+wikidata_id: Q36266
 wikipedia_url: "https://en.wikipedia.org/wiki/Ntcham_language"
 translations:
   - translation_iso: ara

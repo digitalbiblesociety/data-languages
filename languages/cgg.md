@@ -7,6 +7,8 @@ population: 2390000
 country_id: UG
 country_name: Uganda
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -1.04387
 longitude: 29.91219
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: chig1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Great Lakes Bantu > West Nyanza > Rutara > North Rutara > Nkore-Kiga-Nyoro-Tooro > Nkore-Kiga > Chiga"
+wikidata_id: Q3270727
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiga_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.57564
 longitude: 4.43514
 glottocode: laru1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Kainji > Kainji Lake > Upper Niger Kainji > Laru (Nigeria)"
+wikidata_id: Q3913987
 wikipedia_url: "https://en.wikipedia.org/wiki/Laru_language"
 translations:
   - translation_iso: ara

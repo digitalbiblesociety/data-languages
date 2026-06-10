@@ -7,6 +7,9 @@ population: 100000
 country_id: IN
 country_name: India
 status_id: null
+scope: individual
+language_type: living
+wikidata_id: Q7449012
 wikipedia_url: "https://en.wikipedia.org/wiki/Semandang_language"
 translations:
   - translation_iso: ara

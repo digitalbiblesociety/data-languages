@@ -7,9 +7,12 @@ population: 2000
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 21.18862
 longitude: 76.33177
 glottocode: niha1238
+wikidata_id: Q33904
 wikipedia_url: "https://en.wikipedia.org/wiki/Nihali_language"
 translations:
   - translation_iso: ara

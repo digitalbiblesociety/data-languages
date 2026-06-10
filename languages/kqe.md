@@ -7,12 +7,15 @@ population: 48900
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.8126
 longitude: 125.32763
 glottocode: kala1388
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Mansakan > Western Mansakan > Kagan-Kalagan > Kalagan"
+wikidata_id: Q18748906
 translations:
   - translation_iso: ara
     name: لغة كالاجان

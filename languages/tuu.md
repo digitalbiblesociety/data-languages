@@ -7,12 +7,15 @@ population: 2006
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: living
 latitude: 42.55628
 longitude: -124.29303
 glottocode: tutu1242
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Pacific Coast Athabaskan > Oregon Athabaskan > Rogue River > Tututni"
+wikidata_id: Q20627
 wikipedia_url: "https://en.wikipedia.org/wiki/Tututni_language"
 translations:
   - translation_iso: ara

@@ -6,8 +6,11 @@ population: null
 country_id: BR
 country_name: Brazil
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: -18.99999
 longitude: -40.41666
+wikidata_id: Q33924
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupiniquim_dialect"
 translations:
   - translation_iso: deu

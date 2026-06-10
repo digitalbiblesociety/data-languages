@@ -7,12 +7,15 @@ population: 99000
 country_id: SS
 country_name: South Sudan
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 4.386395
 longitude: 29.93794
 glottocode: avok1242
 glottolog_family_id: cent2225
 glottolog_family_name: Central Sudanic
 glottolog_classification: "Central Sudanic > Moru-Madi > Central Moru-Madi > Avokayic > Avokaya"
+wikidata_id: Q56685
 wikipedia_url: "https://en.wikipedia.org/wiki/Avokaya_language"
 translations:
   - translation_iso: ara

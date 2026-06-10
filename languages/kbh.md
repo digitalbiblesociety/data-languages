@@ -7,9 +7,12 @@ population: 4770
 country_id: CO
 country_name: Colombia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.14537
 longitude: -76.8931
 glottocode: cams1241
+wikidata_id: Q2842667
 wikipedia_url: "https://en.wikipedia.org/wiki/Kam%C3%ABnt%C5%A1%C3%A1_language"
 translations:
   - translation_iso: ara

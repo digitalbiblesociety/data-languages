@@ -7,12 +7,15 @@ population: 350
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -3.412
 longitude: 122.05801
 glottocode: waru1266
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Celebic > Greater Eastern Celebic > Eastern Celebic > Southeastern Celebic > Bungku-Tolaki > Western Bungku-Tolaki > West Coast Bungku-Tolaki > Waru"
+wikidata_id: Q3566463
 wikipedia_url: "https://en.wikipedia.org/wiki/Waru_language"
 translations:
   - translation_iso: ara

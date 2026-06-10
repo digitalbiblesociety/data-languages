@@ -7,6 +7,8 @@ population: 3000
 country_id: BR
 country_name: Brazil
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 1.045027
 longitude: -66.964553
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nhen1239
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup III > Nhengatu"
+wikidata_id: Q34333
 wikipedia_url: "https://en.wikipedia.org/wiki/Nheengatu_language"
 translations:
   - translation_iso: ara

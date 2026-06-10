@@ -7,12 +7,15 @@ population: 2000
 country_id: BO
 country_name: Bolivia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -17.63537
 longitude: -59.91716
 glottocode: chiq1248
 glottolog_family_id: chiq1253
 glottolog_family_name: Chiquitano
 glottolog_classification: "Chiquitano > Lomeriano-Ignaciano Chiquitano"
+wikidata_id: Q1844993
 wikipedia_url: "https://en.wikipedia.org/wiki/Chiquitano_language"
 translations:
   - translation_iso: ara

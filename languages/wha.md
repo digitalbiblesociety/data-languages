@@ -7,12 +7,15 @@ population: 7000
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.1109
 longitude: 129.42868
 glottocode: manu1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Patakai-Manusela > Manusela-Huaulu > Manusela"
+wikidata_id: Q3287127
 wikipedia_url: "https://en.wikipedia.org/wiki/Manusela_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 478000
 country_id: CV
 country_name: Cabo Verde
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 15.05863
 longitude: -23.61476
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: kabu1256
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Galician Romance > Macro-Portuguese > Upper Guinea Portuguese > Kabuverdianu"
+wikidata_id: Q35963
 wikipedia_url: "https://en.wikipedia.org/wiki/Cape_Verdean_Creole"
 translations:
   - translation_iso: ara

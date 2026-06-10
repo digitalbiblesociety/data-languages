@@ -7,12 +7,15 @@ population: 264000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 6.73852
 longitude: 8.60748
 glottocode: yala1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Idomoid > Akweya > Etulo-Idoma > Nuclear Idoma > Yala"
+wikidata_id: Q3914920
 wikipedia_url: "https://en.wikipedia.org/wiki/Yala_language"
 translations:
   - translation_iso: ara

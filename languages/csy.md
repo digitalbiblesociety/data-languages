@@ -7,12 +7,15 @@ population: 10700
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 23.81919
 longitude: 93.68843
 glottocode: siyi1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Peripheral Kuki-Chin > Northeastern Kuki-Chin > Sizangic > Sizang Chin"
+wikidata_id: Q7533375
 wikipedia_url: "https://en.wikipedia.org/wiki/Sizang_language"
 translations:
   - translation_iso: ara

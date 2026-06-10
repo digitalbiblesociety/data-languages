@@ -4,8 +4,11 @@ name: Ruwila
 population: 51000
 country_id: TZ
 country_name: Tanzania
+scope: individual
+language_type: living
 latitude: -6.51503
 longitude: 32.1803
+wikidata_id: Q105161535
 wikipedia_url: "https://en.wikipedia.org/wiki/Ruwila_language"
 translations:
   - translation_iso: ara

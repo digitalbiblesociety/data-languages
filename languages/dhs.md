@@ -7,12 +7,15 @@ population: 5000
 country_id: TZ
 country_name: Tanzania
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -4.81209
 longitude: 38.81801
 glottocode: dhai1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Kamba-Dhaisu > Dhaiso"
+wikidata_id: Q11001788
 translations:
   - translation_iso: ara
     name: دايسو

@@ -7,12 +7,15 @@ population: 100
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.56109
 longitude: -7.30644
 glottocode: plap1239
 glottolog_family_id: krua1234
 glottolog_family_name: Kru
 glottolog_classification: "Kru > Greater Western Kru > Western Kru > Grebo-Aizi > Grebo > Ivorian Grebo > Tepo-Plapo > Plapo Krumen"
+wikidata_id: Q10975356
 translations:
   - translation_iso: ara
     name: كرومن بلابو

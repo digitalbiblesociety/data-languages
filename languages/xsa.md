@@ -7,6 +7,8 @@ population: null
 country_id: YE
 country_name: Yemen
 status_id: null
+scope: individual
+language_type: historical
 latitude: 15.42
 longitude: 45.35
 scripts: [Sarb]
@@ -14,6 +16,7 @@ glottocode: saba1279
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Sayhadic > Sabaic"
+wikidata_id: Q1070391
 wikipedia_url: "https://en.wikipedia.org/wiki/Sabaic"
 translations:
   - translation_iso: ara

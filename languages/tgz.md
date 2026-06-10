@@ -7,12 +7,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -18.1973276258
 longitude: 142.96122717197
 glottocode: taga1279
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Paman > Alaya-Athima > Central Alaya-Athima > Tagalaka"
+wikidata_id: Q16905490
 wikipedia_url: "https://en.wikipedia.org/wiki/Tagalaka_language"
 translations:
   - translation_iso: ara

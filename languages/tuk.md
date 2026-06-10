@@ -1,5 +1,6 @@
 ---
 iso: tuk
+iso639_1: tk
 name: Turkmen
 autonym: "تۆرکمن ديلی "
 alt_names: [An Tuircméinis, Torkomani, Truchmenisch, Trukhmen, Trukhmeny, Trukmen, Turcman, Turcomanu, Turkman, Turkmani, Turkmanian, Turkmeens, Turkmeneg, Turkmenian, Turkmeniska, Turkmenler, Turkmensk, Turkmin simi, Turkmène, Turkoman, Turkomans, Türkmen, Türkmence, Türkmenisch, Забони туркменӣ, تۈركمەن تىلى]
@@ -7,6 +8,8 @@ population: 7061000
 country_id: TM
 country_name: Turkmenistan
 status_id: "1"
+scope: individual
+language_type: living
 latitude: 37.087194
 longitude: 59.175736
 scripts: [Arab, Cyrl, Latn]
@@ -14,6 +17,7 @@ glottocode: turk1304
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > Oghuz > Nuclear Oghuz > East Oghuz > Turkmen"
+wikidata_id: Q9267
 wikipedia_url: "https://en.wikipedia.org/wiki/Turkmen_language"
 translations:
   - translation_iso: ara

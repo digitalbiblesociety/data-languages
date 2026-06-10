@@ -7,12 +7,15 @@ population: 360
 country_id: BR
 country_name: Brazil
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -8.009188
 longitude: -73.326416
 glottocode: shan1283
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Headwaters Pano > Yaminawa Complex > Shanenawa"
+wikidata_id: Q61974839
 wikipedia_url: "https://en.wikipedia.org/wiki/Shanenawa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 5900
 country_id: CD
 country_name: DR Congo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 3.47633
 longitude: 24.82023
 glottocode: kang1286
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > North Zaire River > Rivers Bantu > Ngiri > Ngiri Terrien > Ngombe-Ababuan > Ababuan > Old Bomokandian > Middle Bomokandian > Late Bomokandian > Kango (Bas-Uélé District)"
+wikidata_id: Q6362818
 wikipedia_url: "https://en.wikipedia.org/wiki/Kango_language_(Bas-U%C3%A9l%C3%A9_District)"
 translations:
   - translation_iso: ara

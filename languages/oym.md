@@ -7,12 +7,15 @@ population: 1660
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 1.73817
 longitude: -52.688705
 glottocode: waya1270
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Tupi-Guarani Subgroup VIII > Wayampi-Zoe-Emerillon > Wayampi"
+wikidata_id: Q7975842
 wikipedia_url: "https://en.wikipedia.org/wiki/Wayampi_language"
 translations:
   - translation_iso: ara

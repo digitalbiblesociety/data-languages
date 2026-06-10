@@ -7,12 +7,15 @@ population: 17200
 country_id: ID
 country_name: Indonesia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.11477
 longitude: 128.39386
 glottocode: alun1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Nunusaku > Three Rivers > Amalumute > Northwest Seram > Ulat Inai > Alune"
+wikidata_id: Q3327367
 wikipedia_url: "https://en.wikipedia.org/wiki/Alune_language"
 translations:
   - translation_iso: ara

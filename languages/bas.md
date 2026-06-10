@@ -7,6 +7,8 @@ population: 300000
 country_id: CM
 country_name: Cameroon
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 3.80765
 longitude: 10.42135
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: basa1284
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Basaa-Yaunde (A40-70) > Basaa (A.40) > Basaa-Bakoko > Basaa-Hijuk > Basa (Cameroon)"
+wikidata_id: Q33093
 wikipedia_url: "https://en.wikipedia.org/wiki/Basaa_language"
 translations:
   - translation_iso: ara

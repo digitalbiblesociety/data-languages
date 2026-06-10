@@ -7,6 +7,8 @@ population: 1140000
 country_id: IR
 country_name: Iran
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 30.46689
 longitude: 50.83822
 scripts: [Arab]
@@ -14,6 +16,7 @@ glottocode: sout2647
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Southwestern Iranian > Middle-Modern Persian > Modern Southwestern Iranian > Luric-Dezfulic > Luric > Bakhtiari-Southern Lori > Southern Luri"
+wikidata_id: Q12952748
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Luri_language"
 translations:
   - translation_iso: ara

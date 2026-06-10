@@ -7,6 +7,8 @@ population: 1890000
 country_id: RU
 country_name: Russia
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 43.50822
 longitude: 43.39182
 scripts: [Cyrl]
@@ -14,6 +16,7 @@ glottocode: kaba1278
 glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge
 glottolog_classification: "Abkhaz-Adyge > Circassian > Kabardian"
+wikidata_id: Q33522
 wikipedia_url: "https://en.wikipedia.org/wiki/Kabardian_language"
 translations:
   - translation_iso: ara

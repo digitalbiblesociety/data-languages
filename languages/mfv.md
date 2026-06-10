@@ -7,6 +7,8 @@ population: 407700
 country_id: GW
 country_name: "Guinea-Bissau"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 12.828967
 longitude: -15.921703
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: mand1419
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Central Atlantic > Bak > Joola-Manjaku > Manjaku-Mankanya-Pepel > Cur-Bok-Cotier > Mandjak"
+wikidata_id: Q35822
 wikipedia_url: "https://en.wikipedia.org/wiki/Manjak_language"
 translations:
   - translation_iso: ara

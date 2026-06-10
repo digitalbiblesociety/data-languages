@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 39.073
 longitude: -76.803
 glottocode: pisc1239
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Nanticoke-Conoy > Piscataway"
+wikidata_id: Q3504233
 wikipedia_url: "https://en.wikipedia.org/wiki/Piscataway_language"
 translations:
   - translation_iso: ara

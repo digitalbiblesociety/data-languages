@@ -7,12 +7,15 @@ population: 15930
 country_id: BR
 country_name: Brazil
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 4.318613
 longitude: -60.220877
 glottocode: macu1259
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Venezuelan Cariban > Pemong-Panare > Pemongan > Macushi"
+wikidata_id: Q56633
 wikipedia_url: "https://en.wikipedia.org/wiki/Macushi_language"
 translations:
   - translation_iso: ara

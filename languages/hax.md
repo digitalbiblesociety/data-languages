@@ -1,5 +1,6 @@
 ---
 iso: hax
+macrolanguage_id: hai
 name: Southern Haida
 autonym: X̱aat Kíl
 alt_names: ["Haida, Southern"]
@@ -7,12 +8,15 @@ population: 270
 country_id: CA
 country_name: Canada
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 53.26164
 longitude: -132.00834
 glottocode: sout2956
 glottolog_family_id: haid1248
 glottolog_family_name: Haida
 glottolog_classification: "Haida > Southern Haida"
+wikidata_id: Q12953543
 translations:
   - translation_iso: ara
     name: هايدا الجنوبية

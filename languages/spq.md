@@ -7,12 +7,15 @@ population: 2800
 country_id: PE
 country_name: Peru
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.74563
 longitude: -73.65068
 glottocode: lore1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Southwestern Shifted Romance > West Ibero-Romance > Castilic > South Castilic > Peruvian Amazonian Spanish"
+wikidata_id: Q72256
 wikipedia_url: "https://en.wikipedia.org/wiki/Amazonic_Spanish"
 translations:
   - translation_iso: ara

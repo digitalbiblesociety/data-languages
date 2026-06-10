@@ -7,9 +7,12 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 30.91207
 longitude: -93.08271
 glottocode: atak1252
+wikidata_id: Q10975683
 wikipedia_url: "https://en.wikipedia.org/wiki/Atakapa_language"
 translations:
   - translation_iso: ara

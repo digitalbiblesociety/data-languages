@@ -7,12 +7,15 @@ population: null
 country_id: BJ
 country_name: Benin
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.33455
 longitude: 2.03904
 glottocode: west2456
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Gbe > Eastern Gbe > Western Phla-Phera > Western Xwla Gbe"
+wikidata_id: Q21084409
 translations:
   - translation_iso: ara
     name: غربية كسيلا جيبي

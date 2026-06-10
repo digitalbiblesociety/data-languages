@@ -1,5 +1,6 @@
 ---
 iso: eus
+iso639_1: eu
 name: Basque
 autonym: Euskara
 alt_names: [An Bhascais, Basc, Bascais, Bascish, Basgeg, Baskek, Baskiana linguo, Baskies, Baskijsko godka, Baskisch, Baskisk, Baskiska, Baskičtina, Baskneska, Basko, Baskysk, Baskça, Bidasoa Valley, Euskareg, Euskera, Gernica, Hondarribia, Lekeitio, Lenghe basche, Luenga vasca, Northern High Navarrese, Oñati, Roncalese, Sakana, Vascu, Vascuense, Vaskisk, Yuskara simi, Zeberio, central, Łéngua basca, Բասկերեն, באסקיש, בסקית, باسكى, باسكى تىلى]
@@ -7,10 +8,13 @@ population: 537860
 country_id: ES
 country_name: Spain
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 43.27872
 longitude: -1.31622
 scripts: [Latn]
 glottocode: basq1248
+wikidata_id: Q8752
 wikipedia_url: "https://en.wikipedia.org/wiki/Basque_language"
 translations:
   - translation_iso: ara

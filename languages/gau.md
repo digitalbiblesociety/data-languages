@@ -7,12 +7,15 @@ population: 8000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 18.276
 longitude: 83.378
 glottocode: mudh1235
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > Central Dravidian > Parji-Ollari-Gadaba > Ollari-Gadaba > Mudhili Gadaba"
+wikidata_id: Q12952433
 wikipedia_url: "https://en.wikipedia.org/wiki/Kondekor_language"
 translations:
   - translation_iso: ara

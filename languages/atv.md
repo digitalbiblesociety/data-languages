@@ -7,12 +7,15 @@ population: 1570
 country_id: RU
 country_name: Russia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 50.89984
 longitude: 88.06722
 glottocode: nort2686
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic
 glottolog_classification: "Turkic > Common Turkic > South Siberian Turkic > Northern Altai-Lower Chulym > Northern Altai"
+wikidata_id: Q2640863
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Altai_language"
 translations:
   - translation_iso: ara

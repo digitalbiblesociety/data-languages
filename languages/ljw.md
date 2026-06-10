@@ -6,12 +6,15 @@ population: null
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -20.65810118
 longitude: 143.9625916
 glottocode: yira1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
 glottolog_classification: "Pama-Nyungan > Greater Maric > Guwa-Maric > Maric > Yirandhali"
+wikidata_id: Q17059380
 wikipedia_url: "https://en.wikipedia.org/wiki/Yirandhali_language"
 translations:
   - translation_iso: ara

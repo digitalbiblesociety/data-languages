@@ -7,12 +7,15 @@ population: 187000
 country_id: IN
 country_name: India
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 25.0489
 longitude: 94.35673
 glottocode: tang1336
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Tangkhul-Maring > Tangkhulic > Nuclear Tangkhulic > East-Central Tangkhul Naga"
+wikidata_id: Q7682992
 wikipedia_url: "https://en.wikipedia.org/wiki/Tangkhul_language"
 translations:
   - translation_iso: ara

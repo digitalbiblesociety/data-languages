@@ -7,12 +7,15 @@ population: 3820
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -4.8296
 longitude: 145.67561
 glottocode: dimi1244
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Greater Northern Adelbert > Northern Adelbert > Gavak"
+wikidata_id: Q5277406
 wikipedia_url: "https://en.wikipedia.org/wiki/Gavak_language"
 translations:
   - translation_iso: ara

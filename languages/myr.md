@@ -7,9 +7,12 @@ population: 2023
 country_id: PE
 country_name: Peru
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -5.80546
 longitude: -76.28113
 glottocode: muni1258
+wikidata_id: Q3915654
 wikipedia_url: "https://en.wikipedia.org/wiki/Muniche_language"
 translations:
   - translation_iso: ara

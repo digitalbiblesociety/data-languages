@@ -6,8 +6,11 @@ population: null
 country_id: PH
 country_name: Philippines
 status_id: null
+scope: macrolanguage
+language_type: living
 latitude: 17.09386
 longitude: 121.02662
+wikidata_id: Q4942634
 wikipedia_url: "https://en.wikipedia.org/wiki/Bontoc_language"
 translations:
   - translation_iso: ara

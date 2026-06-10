@@ -1,5 +1,6 @@
 ---
 iso: cnp
+macrolanguage_id: zho
 name: "Northern Ping Chinese\r"
 autonym: null
 alt_names: ["Chinese, Northern Ping", Northern Ping Chinese, Northern Pinghua, "Pinghua, Northern"]
@@ -7,12 +8,15 @@ population: 1760000
 country_id: CN
 country_name: China
 status_id: null
+scope: individual
+language_type: living
 latitude: 25.218
 longitude: 110.045
 glottocode: nort3268
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Sinitic > Classical-Middle-Modern Sinitic > Middle-Modern Sinitic > Yue-Pinghua > Pinghua > Northern Pinghua"
+wikidata_id: Q84302463
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Pinghua"
 translations:
   - translation_iso: ara

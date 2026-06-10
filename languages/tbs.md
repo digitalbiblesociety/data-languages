@@ -6,12 +6,15 @@ population: 740
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.57282
 longitude: 144.92706
 glottocode: tang1356
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Ataitan > Tanguat"
+wikidata_id: Q7683166
 wikipedia_url: "https://en.wikipedia.org/wiki/Tanguat_language"
 translations:
   - translation_iso: ara

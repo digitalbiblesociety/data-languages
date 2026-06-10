@@ -7,12 +7,15 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: "10"
+scope: individual
+language_type: extinct
 latitude: 9.96843
 longitude: 13.19949
 glottocode: holm1250
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > Biu-Mandara > South Biu-Mandara > Bataic > Gudeic > Nzanyic > Holma"
+wikidata_id: Q56331
 wikipedia_url: "https://en.wikipedia.org/wiki/Holma_language"
 translations:
   - translation_iso: ara

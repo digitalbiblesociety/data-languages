@@ -7,12 +7,15 @@ population: 25000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 25.994
 longitude: 93.949
 glottocode: saka1283
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Northwestern Kuki-Chin > Western Northwestern Kuki-Chin > Sakachep-Chorei"
+wikidata_id: Q37054
 wikipedia_url: "https://en.wikipedia.org/wiki/Sakachep_language"
 translations:
   - translation_iso: ara

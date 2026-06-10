@@ -7,12 +7,15 @@ population: 300
 country_id: TW
 country_name: Taiwan
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 23.2632
 longitude: 120.71074
 glottocode: saar1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Tsouic > Kanakanavu-Saaroa > Saaroa"
+wikidata_id: Q716599
 wikipedia_url: "https://en.wikipedia.org/wiki/Saaroa_language"
 translations:
   - translation_iso: ara

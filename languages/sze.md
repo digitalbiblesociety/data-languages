@@ -6,12 +6,15 @@ population: 3000
 country_id: ET
 country_name: Ethiopia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.50764
 longitude: 34.64486
 glottocode: seze1235
 glottolog_family_id: maoo1243
 glottolog_family_name: Blue Nile Mao
 glottolog_classification: "Blue Nile Mao > West Mao > Hozo-Seze > Seze"
+wikidata_id: Q373683
 wikipedia_url: "https://en.wikipedia.org/wiki/Seze_language"
 translations:
   - translation_iso: ara

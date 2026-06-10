@@ -7,12 +7,15 @@ population: 5000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.72099
 longitude: -4.054165
 glottocode: khis1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Kaansa-Dogose > Dogose-Khisa > Khisa"
+wikidata_id: Q3913955
 wikipedia_url: "https://en.wikipedia.org/wiki/Khisa_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 9000
 country_id: PH
 country_name: Philippines
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.61752
 longitude: 120.65389
 glottocode: inla1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Meso-Cordilleran > South-Central Cordilleran > Central Cordilleran > Kalinga-Itneg > Itneg > Inlaod Itneg"
+wikidata_id: Q12953585
 translations:
   - translation_iso: ara
     name: إينلاود إيتنيغ

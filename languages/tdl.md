@@ -7,12 +7,15 @@ population: 5000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 9.47958
 longitude: 9.49007
 glottocode: surr1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Benue-Congo Plateau > Tarokoid > Bijimic-Sur-Shall > Sur"
+wikidata_id: Q3914453
 wikipedia_url: "https://en.wikipedia.org/wiki/Sur%E2%80%93Myet_language"
 translations:
   - translation_iso: ara

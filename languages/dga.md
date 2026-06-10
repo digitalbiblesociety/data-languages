@@ -7,12 +7,15 @@ population: 924000
 country_id: GH
 country_name: Ghana
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 10.4226
 longitude: -2.52265
 glottocode: sout2789
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Northern Central Gur > Bwamu-Oti-Volta > Oti-Volta > Nuclear Oti-Volta > Gurma-Yom-Oti-Volta Occidental > Oti-Volta Occidental > Nuclear Oti-Volta Occidental > Northwest Oti-Volta > Safaliba-Dagaare > Dagaaric > Central-South Dagaric > Central Dagaare"
+wikidata_id: Q35159
 wikipedia_url: "https://en.wikipedia.org/wiki/Dagaare_language"
 translations:
   - translation_iso: ara

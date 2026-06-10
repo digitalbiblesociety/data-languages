@@ -7,12 +7,15 @@ population: 30000
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.92596
 longitude: 7.96202
 glottocode: kohu1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Delta Cross > Upper Cross > Central Upper Cross > North-South Central Delta Cross > Ubaghara-Kohumono > Kohumonoic > Kohumono"
+wikidata_id: Q35590
 wikipedia_url: "https://en.wikipedia.org/wiki/Humono_language"
 translations:
   - translation_iso: ara

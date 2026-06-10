@@ -6,8 +6,11 @@ population: 175000
 country_id: NL
 country_name: Netherlands
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 52.27016
 longitude: 5.94408
+wikidata_id: Q2484810
 wikipedia_url: "https://en.wikipedia.org/wiki/Veluws_dialect"
 translations:
   - translation_iso: ara

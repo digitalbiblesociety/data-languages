@@ -7,12 +7,15 @@ population: 220000
 country_id: KE
 country_name: Kenya
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -0.13221
 longitude: 38.07303
 glottocode: thar1283
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Central Kenya Bantu > Eastern Kirinyaga > Northern Kirinyaga > Tharaka"
+wikidata_id: Q15407179
 translations:
   - translation_iso: ara
     name: ثاراكا

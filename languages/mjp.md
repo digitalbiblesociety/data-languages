@@ -7,12 +7,15 @@ population: 5850
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.59225
 longitude: 77.27197
 glottocode: mala1468
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian
 glottolog_classification: "Dravidian > South Dravidian > South Dravidian I > Tamil-Kannada > Tamil-Kota > Tamil-Toda > Tamil-Irula > Tamil-Kodagu > Tamil-Malayalam > Tamiloid > Malapandaram"
+wikidata_id: Q10575729
 wikipedia_url: "https://en.wikipedia.org/wiki/Malapandaram_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1040
 country_id: BR
 country_name: Brazil
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -6.60703
 longitude: -72.40271
 glottocode: maru1252
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan
 glottolog_classification: "Pano-Tacanan > Panoan > Mainline Pano > Pano Nawa > Marubo Subgroup > Marúbo"
+wikidata_id: Q3296011
 wikipedia_url: "https://en.wikipedia.org/wiki/Mar%C3%BAbo_language"
 translations:
   - translation_iso: ara

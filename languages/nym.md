@@ -7,6 +7,8 @@ population: 1470000
 country_id: TZ
 country_name: Tanzania
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.08559
 longitude: 32.94452
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: nyam1276
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Northeast Savanna Bantu > Sukuma-Nyamwezi (F.20) > Nyamwezic > Nyamwezi"
+wikidata_id: Q4121131
 wikipedia_url: "https://en.wikipedia.org/wiki/Nyamwezi_language"
 translations:
   - translation_iso: ara

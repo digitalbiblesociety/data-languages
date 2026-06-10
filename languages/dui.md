@@ -6,12 +6,15 @@ population: 120
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -5.55315
 longitude: 146.08223
 glottocode: dumu1246
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Rai Coast > Greater Yaganon > Yaganon > Dumun"
+wikidata_id: Q5314004
 wikipedia_url: "https://en.wikipedia.org/wiki/Dumun_language"
 translations:
   - translation_iso: ara

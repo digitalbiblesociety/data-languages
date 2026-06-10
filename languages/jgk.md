@@ -6,6 +6,9 @@ population: null
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q17523694
 translations:
   - translation_iso: ara
     name: لغة غواك

@@ -7,12 +7,15 @@ population: 1830
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 29.70331
 longitude: 80.48317
 glottocode: chau1259
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Bodic > West Himalayish > Eastern West Himalayish > Pithauragarh > Darma-Byangsi-Chaudangsi > Chaudangsi"
+wikidata_id: Q5088056
 wikipedia_url: "https://en.wikipedia.org/wiki/Chaudangsi_language"
 translations:
   - translation_iso: ara

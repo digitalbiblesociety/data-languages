@@ -6,12 +6,15 @@ population: 30
 country_id: PG
 country_name: Papua New Guinea
 status_id: 8b
+scope: individual
+language_type: living
 latitude: -2.71805
 longitude: 150.92336
 glottocode: teni1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > St. Matthias > Tenis"
+wikidata_id: Q7699870
 wikipedia_url: "https://en.wikipedia.org/wiki/Tenis_language"
 translations:
   - translation_iso: ara

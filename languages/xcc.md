@@ -7,10 +7,13 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 glottocode: camu1235
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
 glottolog_classification: "Unclassifiable > Camunic"
+wikidata_id: Q489011
 wikipedia_url: "https://en.wikipedia.org/wiki/Camunic_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: 41.32625
 longitude: -123.82432
 glottocode: yuro1248
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Yurok"
+wikidata_id: Q34685
 wikipedia_url: "https://en.wikipedia.org/wiki/Yurok_language"
 translations:
   - translation_iso: ara

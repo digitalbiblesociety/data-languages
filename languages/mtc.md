@@ -7,12 +7,15 @@ population: 910
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -5.24329
 longitude: 145.54813
 glottocode: muni1257
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Madang > Croisilles > Mabuso > Kokon > Munit"
+wikidata_id: Q11732482
 wikipedia_url: "https://en.wikipedia.org/wiki/Munit_language"
 translations:
   - translation_iso: ara

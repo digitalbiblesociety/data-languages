@@ -7,9 +7,12 @@ population: 1900
 country_id: US
 country_name: United States
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 41.82283
 longitude: -123.31534
 glottocode: karo1304
+wikidata_id: Q1288440
 wikipedia_url: "https://en.wikipedia.org/wiki/Karuk_language"
 translations:
   - translation_iso: ara

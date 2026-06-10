@@ -7,9 +7,12 @@ population: 500
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.5523
 longitude: 133.17979
 glottocode: tana1288
+wikidata_id: Q3514927
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumuri_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 400
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.96449
 longitude: 143.63712
 glottocode: anda1283
 glottolog_family_id: araf1243
 glottolog_family_name: Arafundi
 glottolog_classification: "Arafundi > Andai"
+wikidata_id: Q4753480
 wikipedia_url: "https://en.wikipedia.org/wiki/Andai_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 970000
 country_id: MZ
 country_name: Mozambique
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -17.34285
 longitude: 37.12307
 glottocode: chuw1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > North Mozambique Bantu > Chuwaboic > Chuwabo-Maindo > Chuwabu"
+wikidata_id: Q5118412
 wikipedia_url: "https://en.wikipedia.org/wiki/Chuwabu_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 140
 country_id: MX
 country_name: Mexico
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 17.01996
 longitude: -97.30365
 glottocode: sind1277
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Amuzgo-Mixtecan > Mixtecan > Mixtec-Cuicatec > Mixtec > Eastern Alta Mixtec > Southeastern Alta Mixtec > Teozacoalco Mixtec > Sindihuic > Sindihui Mixtec"
+wikidata_id: Q13583581
 wikipedia_url: "https://en.wikipedia.org/wiki/Sindihui_Mixtec"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 300
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 47.91056
 longitude: -124.60311
 glottocode: quil1240
 glottolog_family_id: chim1311
 glottolog_family_name: Chimakuan
 glottolog_classification: "Chimakuan > Quileute"
+wikidata_id: Q3414490
 wikipedia_url: "https://en.wikipedia.org/wiki/Quileute_language"
 translations:
   - translation_iso: ara

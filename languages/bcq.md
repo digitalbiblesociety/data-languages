@@ -7,12 +7,15 @@ population: 348000
 country_id: ET
 country_name: Ethiopia
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 7.04682
 longitude: 35.7673
 glottocode: benc1235
 glottolog_family_id: gong1255
 glottolog_family_name: Ta-Ne-Omotic
 glottolog_classification: "Ta-Ne-Omotic > Bench"
+wikidata_id: Q35108
 wikipedia_url: "https://en.wikipedia.org/wiki/Bench_language"
 translations:
   - translation_iso: ara

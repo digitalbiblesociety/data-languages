@@ -7,12 +7,15 @@ population: 1987
 country_id: IL
 country_name: Israel
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 31.80104
 longitude: 35.10838
 glottocode: yeva1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Graeco-Phrygian > Greek > South Greek > Central Greek > Koineic Greek > Modern Koineic Greek > Nuclear Modern Greek > Yevanic"
+wikidata_id: Q34200
 wikipedia_url: "https://en.wikipedia.org/wiki/Yevanic"
 translations:
   - translation_iso: ara

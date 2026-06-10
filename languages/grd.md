@@ -7,12 +7,15 @@ population: 15000
 country_id: NG
 country_name: Nigeria
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 9.87332
 longitude: 10.16204
 glottocode: guru1271
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Chadic > West Chadic > West Chadic B > West Chadic B.3 > South Bauchi East > Guruntumic > Guruntum-Mbaaru"
+wikidata_id: Q3441272
 wikipedia_url: "https://en.wikipedia.org/wiki/Guruntum_language"
 translations:
   - translation_iso: ara

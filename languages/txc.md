@@ -7,12 +7,15 @@ population: null
 country_id: CA
 country_name: Canada
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 55.5
 longitude: -130.08
 glottocode: tset1236
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit
 glottolog_classification: "Athabaskan-Eyak-Tlingit > Athabaskan-Eyak > Athabaskan > Tsetsaut"
+wikidata_id: Q20829
 wikipedia_url: "https://en.wikipedia.org/wiki/Tsetsaut_language"
 translations:
   - translation_iso: ara

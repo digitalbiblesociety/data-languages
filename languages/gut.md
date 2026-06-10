@@ -7,12 +7,15 @@ population: 1074
 country_id: CR
 country_name: Costa Rica
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 10.74849
 longitude: -84.73181
 glottocode: male1297
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Votic Chibchan > Maléku Jaíka"
+wikidata_id: Q3915782
 wikipedia_url: "https://en.wikipedia.org/wiki/Mal%C3%A9ku_language"
 translations:
   - translation_iso: ara

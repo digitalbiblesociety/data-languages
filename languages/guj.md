@@ -1,5 +1,6 @@
 ---
 iso: guj
+iso639_1: gu
 name: Gujarati
 autonym: ગુજરાતી
 alt_names: [Fiteny Gojaratia, Goudjarateg, Gucharatí, Gudscharati, Gudžarati, Gujaratagiella, Gujarati bhasa, Gujarati simi, Gujarâtî, Gujerathi, Gujerati, Gujrathi, Kigujarati, goudjrati, Гуджарати, Гуджараті, Забони гуҷаратӣ, "גוג'ראטית", گۇجارات تىل, गुजराती, গুজরাটি ঠার, குஜராத்தி, ጉጃራቲ]
@@ -7,6 +8,8 @@ population: 56400000
 country_id: IN
 country_name: India
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 22.687012
 longitude: 71.096191
 scripts: [Gujr]
@@ -14,6 +17,7 @@ glottocode: guja1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Apabhramsic > Gujarati-Rajasthani > Gujaratic > Gujarati"
+wikidata_id: Q5137
 wikipedia_url: "https://en.wikipedia.org/wiki/Gujarati_language"
 translations:
   - translation_iso: ara

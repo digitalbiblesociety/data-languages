@@ -7,12 +7,15 @@ population: 3840
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -5.74908
 longitude: 134.78651
 glottocode: batu1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Aru > Batuley-Mariri > Batuley"
+wikidata_id: Q8828787
 wikipedia_url: "https://en.wikipedia.org/wiki/Batuley_language"
 translations:
   - translation_iso: ara

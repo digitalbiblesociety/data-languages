@@ -6,12 +6,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 44.95
 longitude: 11.4
 glottocode: inte1259
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > Pidgin Sign Language > International Sign"
+wikidata_id: Q35754
 wikipedia_url: "https://en.wikipedia.org/wiki/International_Sign"
 translations:
   - translation_iso: ara

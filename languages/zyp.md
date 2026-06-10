@@ -7,12 +7,15 @@ population: 20000
 country_id: MM
 country_name: Myanmar
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 22.524
 longitude: 93.264
 glottocode: zyph1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Kuki-Chin-Naga > Kuki-Chin > Central Kuki-Chin > Maraic > Nuclear Maraic > Zyphe"
+wikidata_id: Q57004
 wikipedia_url: "https://en.wikipedia.org/wiki/Zyphe_language"
 translations:
   - translation_iso: ara

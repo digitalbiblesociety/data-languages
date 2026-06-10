@@ -7,12 +7,15 @@ population: null
 country_id: MX
 country_name: Mexico
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 15.735073
 longitude: -96.468076
 glottocode: poch1244
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Southern Uto-Aztecan > Corachol-Aztecan > Aztec > Pochutec"
+wikidata_id: Q2427341
 wikipedia_url: "https://en.wikipedia.org/wiki/Pochutec_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 62900
 country_id: ID
 country_name: Indonesia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -2.50762
 longitude: 119.082
 glottocode: mamu1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater South Sulawesi > South Sulawesi > Northern South Sulawesi > Mamuju"
+wikidata_id: Q6746004
 wikipedia_url: "https://en.wikipedia.org/wiki/Mamuju_language"
 translations:
   - translation_iso: ara

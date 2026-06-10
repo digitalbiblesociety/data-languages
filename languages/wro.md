@@ -7,12 +7,15 @@ population: 7
 country_id: AU
 country_name: Australia
 status_id: 8b
+scope: individual
+language_type: extinct
 latitude: -15.612781
 longitude: 124.881218
 glottocode: worr1237
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
 glottolog_classification: "Worrorran > Western Worrorran > Worrorra"
+wikidata_id: Q3504106
 wikipedia_url: "https://en.wikipedia.org/wiki/Worrorra_language"
 translations:
   - translation_iso: ara

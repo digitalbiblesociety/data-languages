@@ -7,12 +7,15 @@ population: 14700
 country_id: NP
 country_name: Nepal
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 28.77817
 longitude: 81.21849
 glottocode: sonh1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Shaurasenic > Bihari > Tharuic > Eastern Tharu > Dangaura-Khuna-Sonaha > Sonha"
+wikidata_id: Q12953890
 wikipedia_url: "https://en.wikipedia.org/wiki/Sonha_language"
 translations:
   - translation_iso: ara

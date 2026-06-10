@@ -7,12 +7,15 @@ population: 1200000
 country_id: IN
 country_name: India
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 21.36235
 longitude: 73.86524
 glottocode: vasa1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Vasave-Noiri > Vasavi"
+wikidata_id: Q765418
 wikipedia_url: "https://en.wikipedia.org/wiki/Vasavi_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 460
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -3.48707
 longitude: 142.49451
 glottocode: brag1240
 glottolog_family_id: nucl1708
 glottolog_family_name: Nuclear Torricelli
 glottolog_classification: "Nuclear Torricelli > Wapei-Palei > Central Torricelli > Nuclear Palai > Bragat-Aruop-Amol > Bragat"
+wikidata_id: Q3507977
 wikipedia_url: "https://en.wikipedia.org/wiki/Bragat_language"
 translations:
   - translation_iso: ara

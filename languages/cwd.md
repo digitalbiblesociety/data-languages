@@ -1,5 +1,6 @@
 ---
 iso: cwd
+macrolanguage_id: cre
 name: Woods Cree
 autonym: Nīhithawīwin ᓀᐦᐃᖬᐍᐏᐣ
 alt_names: [Clisteno del bosque, Cree, Cree des bois, "Cree, Woods"]
@@ -7,12 +8,15 @@ population: 1840
 country_id: CA
 country_name: Canada
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 57
 longitude: -99
 glottocode: wood1236
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Montagnais-Naskapi > Cree > Woods Cree"
+wikidata_id: Q56305
 wikipedia_url: "https://en.wikipedia.org/wiki/Woods_Cree"
 translations:
   - translation_iso: ara

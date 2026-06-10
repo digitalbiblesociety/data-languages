@@ -7,12 +7,15 @@ population: 21400
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -12.12905
 longitude: -72.50171
 glottocode: mach1267
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan
 glottolog_classification: "Arawakan > Southern Maipuran > Kampa-Amuesha > Pre-Andine Maipuran > Asha-Ashe-Kak-Matsi-Nan > Matsi-Nan > Machiguenga"
+wikidata_id: Q3915441
 wikipedia_url: "https://en.wikipedia.org/wiki/Matsigenka_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: null
+scope: individual
+language_type: extinct
 latitude: 41.2021
 longitude: -73.3798
 glottocode: wamp1250
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Southern New England Algonquian > Western Southern New England Algonquian > Wampano"
+wikidata_id: Q3414714
 wikipedia_url: "https://en.wikipedia.org/wiki/Quiripi_language"
 translations:
   - translation_iso: ara

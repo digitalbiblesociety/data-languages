@@ -7,6 +7,9 @@ population: null
 country_id: LT
 country_name: Lithuania
 status_id: null
+scope: individual
+language_type: historical
+wikidata_id: Q17417801
 translations:
   - translation_iso: ara
     name: اللغة الليتوانية القديمة

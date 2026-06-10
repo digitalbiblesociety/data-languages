@@ -7,12 +7,15 @@ population: 14
 country_id: CA
 country_name: Canada
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 46.13812
 longitude: -72.65106
 glottocode: west2630
 glottolog_family_id: algi1248
 glottolog_family_name: Algic
 glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Eastern Algonquian > Maritimes-Southern New England Algonquian > Northern Eastern Algonquian > Abenaki > Western Abenaki"
+wikidata_id: Q17502788
 wikipedia_url: "https://en.wikipedia.org/wiki/Western_Abenaki_language"
 translations:
   - translation_iso: ara

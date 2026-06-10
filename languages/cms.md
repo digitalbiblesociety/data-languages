@@ -7,12 +7,15 @@ population: null
 country_id: IT
 country_name: Italy
 status_id: null
+scope: individual
+language_type: historical
 latitude: 40.538334
 longitude: 17.860344
 glottocode: mess1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Unclassified Indo-European > Messapic"
+wikidata_id: Q36383
 wikipedia_url: "https://en.wikipedia.org/wiki/Messapic_language"
 translations:
   - translation_iso: ara

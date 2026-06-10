@@ -7,12 +7,15 @@ population: 250
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -4.88687
 longitude: 144.82082
 glottocode: akru1241
 glottolog_family_id: ramu1234
 glottolog_family_name: Ramu
 glottolog_classification: "Ramu > Goam > Tamolan > Chini"
+wikidata_id: Q57003
 wikipedia_url: "https://en.wikipedia.org/wiki/Akrukay_language"
 translations:
   - translation_iso: ara

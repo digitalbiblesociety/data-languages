@@ -7,12 +7,15 @@ population: 4000
 country_id: PG
 country_name: Papua New Guinea
 status_id: "4"
+scope: individual
+language_type: living
 latitude: -5.79405
 longitude: 148.01357
 glottocode: mutu1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Ngero-Vitiaz linkage > Ngero > Western Ngero > Tuam > Mutu"
+wikidata_id: Q3331003
 wikipedia_url: "https://en.wikipedia.org/wiki/Mutu_language"
 translations:
   - translation_iso: ara

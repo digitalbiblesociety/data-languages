@@ -6,12 +6,15 @@ population: 179000
 country_id: SL
 country_name: Sierra Leone
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.11838
 longitude: -12.15832
 glottocode: loko1255
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
 glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Southwest Mande > Mende-Loma > Mende-Bandi > Mende-Loko > Loko"
+wikidata_id: Q3914912
 wikipedia_url: "https://en.wikipedia.org/wiki/Loko_language"
 translations:
   - translation_iso: ara

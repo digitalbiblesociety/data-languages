@@ -1,5 +1,6 @@
 ---
 iso: jye
+macrolanguage_id: jrb
 name: "Judeo-Yemeni Arabic"
 autonym: "Judeo-Yemeni"
 alt_names: [Arabeg yuzev-yemenek, Arabic, "Arabic, Judeo-Yemeni", Judeo-Yemenite, Judeojemenski arapski, Jødejemenittisk arabisk, Yahudi Yemen Arapçası, Yemenite Judeo-Arabic]
@@ -7,12 +8,15 @@ population: 36300
 country_id: IL
 country_name: Israel
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 15
 longitude: 45
 glottocode: jude1267
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semitic > Arabian > Arabic > Arabian Peninsula Arabic > Judeo-Muslim Sanaani Arabic > Judeo-Yemeni Arabic"
+wikidata_id: Q56596
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Yemeni_Arabic"
 translations:
   - translation_iso: ara

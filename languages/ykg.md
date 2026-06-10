@@ -7,12 +7,15 @@ population: 370
 country_id: RU
 country_name: Russia
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 65.38736
 longitude: 151.31794
 glottocode: nort2745
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir
 glottolog_classification: "Yukaghir > Northern Yukaghir"
+wikidata_id: Q56319
 wikipedia_url: "https://en.wikipedia.org/wiki/Tundra_Yukaghir_language"
 translations:
   - translation_iso: ara

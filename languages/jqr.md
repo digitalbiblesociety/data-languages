@@ -7,12 +7,15 @@ population: 2000
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -12.88233
 longitude: -75.89576
 glottocode: jaqa1244
 glottolog_family_id: ayma1253
 glottolog_family_name: Aymaran
 glottolog_classification: "Aymaran > Tupe > Jaqaru"
+wikidata_id: Q33443
 wikipedia_url: "https://en.wikipedia.org/wiki/Jaqaru_language"
 translations:
   - translation_iso: ara

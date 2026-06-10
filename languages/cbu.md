@@ -7,9 +7,12 @@ population: 3260
 country_id: PE
 country_name: Peru
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -4.23835
 longitude: -76.93474
 glottocode: cand1248
+wikidata_id: Q642843
 wikipedia_url: "https://en.wikipedia.org/wiki/Candoshi-Shapra_language"
 translations:
   - translation_iso: ara

@@ -7,9 +7,12 @@ population: 600
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -3.79762
 longitude: 141.5659
 glottocode: yale1246
+wikidata_id: Q2992915
 wikipedia_url: "https://en.wikipedia.org/wiki/Yal%C3%AB_language"
 translations:
   - translation_iso: ara

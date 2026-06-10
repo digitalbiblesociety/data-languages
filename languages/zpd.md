@@ -1,5 +1,6 @@
 ---
 iso: zpd
+macrolanguage_id: zap
 name: Southeastern Ixtlán Zapotec
 autonym: (Santa María Yavesía)
 alt_names: [Eastern Sapoteko, Ixtlan, Ixtlán, Ixtlán Zapoteco, Latuvi Zapotec, Northern Sapoteko, Sapateko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Southeastern Ixtlan Zapotec, Southern Sapoteko, Yavesía Zapotec, Zapateco (Ixtln Sureste), Zapotec, Zapotec (Ixtlan), Zapotec (Juárez), "Zapotec, Southeastern Ixtlán", Zapoteco ( Juarez Sierra), Zapoteco de Asunción Tlacolulita, Zapoteco de Atepec, Zapoteco del Sureste de Ixtlán, "Zapotèque d'Asunción Tlacolulita"]
@@ -7,12 +8,15 @@ population: 6000
 country_id: MX
 country_name: Mexico
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 17.25883
 longitude: -96.61991
 glottocode: sout3005
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
 glottolog_classification: "Otomanguean > Eastern Otomanguean > Popoloca-Zapotecan > Zapotecan > Zapotec > Core Zapotec > Narrow Core Zapotec > Northern Core Zapotec > Sierra Juarezic > Southeastern Ixtlán Zapotec"
+wikidata_id: Q8050392
 wikipedia_url: "https://en.wikipedia.org/wiki/Yaves%C3%ADa_Zapotec"
 translations:
   - translation_iso: ara

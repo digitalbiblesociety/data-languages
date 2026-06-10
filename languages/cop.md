@@ -7,6 +7,8 @@ population: null
 country_id: EG
 country_name: Egypt
 status_id: "9"
+scope: individual
+language_type: extinct
 latitude: 29.47203
 longitude: 31.2053
 scripts: [Arab, Copt, Grek]
@@ -14,6 +16,7 @@ glottocode: copt1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
 glottolog_classification: "Afro-Asiatic > Egyptian > Coptic"
+wikidata_id: Q36155
 wikipedia_url: "https://en.wikipedia.org/wiki/Coptic_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: null
 country_id: US
 country_name: United States
 status_id: "9"
+scope: individual
+language_type: living
 latitude: 33.94787
 longitude: -116.77196
 glottocode: serr1255
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
 glottolog_classification: "Uto-Aztecan > Northern Uto-Aztecan > Takic > Serran > Serrano"
+wikidata_id: Q3479942
 wikipedia_url: "https://en.wikipedia.org/wiki/Serrano_language"
 translations:
   - translation_iso: ara

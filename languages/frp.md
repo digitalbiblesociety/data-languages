@@ -7,6 +7,8 @@ population: 227000
 country_id: FR
 country_name: France
 status_id: 8a
+scope: individual
+language_type: living
 latitude: 45.80513
 longitude: 6.48152
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: fran1260
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Italic > Latino-Faliscan > Latinic > Imperial Latin > Romance > Italo-Western Romance > Western Romance > Shifted Western Romance > Northwestern Shifted Romance > Gallo-Rhaetian > Oil > Francoprovencalic > Arpitan"
+wikidata_id: Q15087
 wikipedia_url: "https://en.wikipedia.org/wiki/Franco-Proven%C3%A7al"
 translations:
   - translation_iso: ara

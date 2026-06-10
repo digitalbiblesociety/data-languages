@@ -7,12 +7,15 @@ population: 400
 country_id: ID
 country_name: Indonesia
 status_id: "7"
+scope: individual
+language_type: living
 latitude: 1.16654
 longitude: 127.84662
 glottocode: kaoo1238
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera
 glottolog_classification: "North Halmahera > Northern North Halmahera > Mainland North Halmaheran > Kao River > Paguic > Kao"
+wikidata_id: Q3192799
 wikipedia_url: "https://en.wikipedia.org/wiki/Kao_language"
 translations:
   - translation_iso: ara

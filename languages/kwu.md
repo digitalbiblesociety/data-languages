@@ -7,12 +7,15 @@ population: 10000
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 4.34393
 longitude: 13.64458
 glottocode: kwak1266
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Kwakum"
+wikidata_id: Q35624
 wikipedia_url: "https://en.wikipedia.org/wiki/Kwakum_language"
 translations:
   - translation_iso: ara

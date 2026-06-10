@@ -7,12 +7,15 @@ population: 3000
 country_id: GN
 country_name: Guinea
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 10.52708
 longitude: -14.61106
 glottocode: baga1275
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Naluic > Pukur"
+wikidata_id: Q31172660
 wikipedia_url: "https://en.wikipedia.org/wiki/Mboteni_language"
 translations:
   - translation_iso: ara

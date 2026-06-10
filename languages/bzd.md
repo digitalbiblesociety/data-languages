@@ -7,12 +7,15 @@ population: 12800
 country_id: CR
 country_name: Costa Rica
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 9.39794
 longitude: -83.05395
 glottocode: brib1243
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Isthmic Chibchan > Western Isthmic Chibchan > Viceitic > Bribri"
+wikidata_id: Q28400
 wikipedia_url: "https://en.wikipedia.org/wiki/Bribri_language"
 translations:
   - translation_iso: ara

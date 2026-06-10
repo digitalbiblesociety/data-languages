@@ -7,12 +7,15 @@ population: 55600
 country_id: NG
 country_name: Nigeria
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 6.69736
 longitude: 11.31614
 glottocode: nige1255
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Northern Bantoid > Mambiloid > Nizaa-Mambila-Vute > Konja-Mambila-Vute > Mambila-Vute > Mambila-Mbongno > Mambila > Western Mambila"
+wikidata_id: Q11004163
 translations:
   - translation_iso: ara
     name: نيجيريا مامبيلا

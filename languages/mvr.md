@@ -7,12 +7,15 @@ population: 1700
 country_id: ID
 country_name: Indonesia
 status_id: 6a
+scope: individual
+language_type: living
 latitude: -1.66738
 longitude: 135.79705
 glottocode: mara1397
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > South Halmahera-West New Guinea > Cenderawasih Bay > Yapen > Central-Western Yapen > Ansus-Ambai > Marau"
+wikidata_id: Q6755069
 wikipedia_url: "https://en.wikipedia.org/wiki/Marau_language"
 translations:
   - translation_iso: ara

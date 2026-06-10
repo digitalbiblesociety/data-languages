@@ -7,12 +7,15 @@ population: 220
 country_id: AU
 country_name: Australia
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -9.59575
 longitude: 143.77282
 glottocode: meri1244
 glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly
 glottolog_classification: "Eastern Trans-Fly > Binaturi > Kura > Meriam"
+wikidata_id: Q788174
 wikipedia_url: "https://en.wikipedia.org/wiki/Meriam_language"
 translations:
   - translation_iso: ara

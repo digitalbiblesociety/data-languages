@@ -7,12 +7,15 @@ population: 403000
 country_id: PH
 country_name: Philippines
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 17.42014
 longitude: 121.89093
 glottocode: iban1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Northern Luzon > Cagayan Valley > Ibanagic > Ibanag"
+wikidata_id: Q1775596
 wikipedia_url: "https://en.wikipedia.org/wiki/Ibanag_language"
 translations:
   - translation_iso: ara

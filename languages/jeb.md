@@ -7,12 +7,15 @@ population: 2000
 country_id: PE
 country_name: Peru
 status_id: "7"
+scope: individual
+language_type: living
 latitude: -5.40317
 longitude: -76.41032
 glottocode: jebe1250
 glottolog_family_id: cahu1265
 glottolog_family_name: Cahuapanan
 glottolog_classification: "Cahuapanan > Jebero"
+wikidata_id: Q967031
 wikipedia_url: "https://en.wikipedia.org/wiki/Shiwilu_language"
 translations:
   - translation_iso: ara

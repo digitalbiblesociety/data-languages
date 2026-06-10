@@ -5,8 +5,11 @@ autonym: ZHK
 population: 1000
 country_id: IQ
 country_name: Iraq
+scope: individual
+language_type: living
 latitude: 36.829499
 longitude: 44.28591
+wikidata_id: Q60787462
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurdish_Sign_Language"
 translations:
   - translation_iso: ara

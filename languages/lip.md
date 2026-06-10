@@ -7,12 +7,15 @@ population: 23000
 country_id: GH
 country_name: Ghana
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 7.16751
 longitude: 0.5886
 glottocode: sekp1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Na-Togo > Lelemic > Likpe-Santrokofi > Sekpele"
+wikidata_id: Q36257
 wikipedia_url: "https://en.wikipedia.org/wiki/Likpe_language"
 translations:
   - translation_iso: ara

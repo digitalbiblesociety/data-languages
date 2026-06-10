@@ -6,6 +6,9 @@ population: 2000
 country_id: CN
 country_name: China
 status_id: 6a
+scope: individual
+language_type: living
+wikidata_id: Q6485577
 wikipedia_url: "https://en.wikipedia.org/wiki/Lang%27e_language"
 translations:
   - translation_iso: ara

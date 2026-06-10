@@ -7,12 +7,15 @@ population: 222000
 country_id: AO
 country_name: Angola
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -13.32675
 longitude: 18.22432
 glottocode: mbwe1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Central-Western Bantu > Njila > Southern Njila > Chokwe-Lunda > Chokwe-Ngangela-Nyemba (K.20) > Ngangela-Nyemba > Mbwela-Mbunda > Mbwela"
+wikidata_id: Q11004988
 translations:
   - translation_iso: ara
     name: لغة مبويلا

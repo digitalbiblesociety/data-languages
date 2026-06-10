@@ -1,5 +1,6 @@
 ---
 iso: ckb
+macrolanguage_id: kur
 name: "Central Kurdish - Sorani"
 autonym: Central Kurdish
 alt_names: [Eastern Kurdish, Kermanji, Kordi, Korkora, Kurdi, Kurdisch, "Kurdish, Central", Kurdy, Mokri, Mukri, "Sine'i", Sorani, Soranî, Sorání, Sorâni, Southern Kurdish, Wawa, Сорани, سورانی, سۆرانی]
@@ -7,6 +8,8 @@ population: 5279300
 country_id: IQ
 country_name: Iraq
 status_id: "2"
+scope: individual
+language_type: living
 latitude: 35.653865
 longitude: 45.807735
 scripts: [Arab]
@@ -14,6 +17,7 @@ glottocode: cent1972
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Laki-Kurdish > Kurdish > Central Kurdish"
+wikidata_id: Q36811
 wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kurdish"
 translations:
   - translation_iso: ara

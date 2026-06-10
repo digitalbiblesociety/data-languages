@@ -7,12 +7,15 @@ population: 1500
 country_id: IN
 country_name: India
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 26.6
 longitude: 92.8
 glottocode: koro1316
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
 glottolog_classification: "Sino-Tibetan > Macro-Tani > Koro-Holon > Koro"
+wikidata_id: Q36162
 wikipedia_url: "https://en.wikipedia.org/wiki/Koro_language_(India)"
 translations:
   - translation_iso: ara

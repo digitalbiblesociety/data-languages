@@ -7,12 +7,15 @@ population: 1600
 country_id: GH
 country_name: Ghana
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 7.70712
 longitude: -0.43011
 glottocode: dwan1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Guang > North Guang > Oti North Guang > River Oti North Guang > Nchumbulu-Dwang > Dwang"
+wikidata_id: Q35258
 wikipedia_url: "https://en.wikipedia.org/wiki/Dwang_language"
 translations:
   - translation_iso: ara

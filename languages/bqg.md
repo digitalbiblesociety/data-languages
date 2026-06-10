@@ -7,12 +7,15 @@ population: 7500
 country_id: TG
 country_name: Togo
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 8.52697
 longitude: 1.41214
 glottocode: bago1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > North Volta-Congo > Gur > Central Gur > Southern Central Gur > Grusi > East-West Grusi > Eastern Grusi > Tem-Chala > Bago-Delo-Cala > Bago-Kusuntu"
+wikidata_id: Q34878
 wikipedia_url: "https://en.wikipedia.org/wiki/Bago-Kusuntu_language"
 translations:
   - translation_iso: ara

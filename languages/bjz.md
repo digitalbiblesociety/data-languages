@@ -6,12 +6,15 @@ population: 2230
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.40132
 longitude: 148.76141
 glottocode: baru1269
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Greater Binanderean > Binanderean > Nuclear Binanderean > South Binanderean > Coastal Binanderean > Baruga-Doghoro > Baruga"
+wikidata_id: Q2886189
 wikipedia_url: "https://en.wikipedia.org/wiki/Baruga_language"
 translations:
   - translation_iso: ara

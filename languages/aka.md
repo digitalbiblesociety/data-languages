@@ -1,5 +1,6 @@
 ---
 iso: aka
+iso639_1: ak
 name: Akan
 autonym: Akan
 alt_names: [Asante, Fante, Fante Akan, Fanti, Mfantse, Odschi, Otyi, Tuic, Twi, Tšwi]
@@ -7,6 +8,8 @@ population: 8327000
 country_id: GH
 country_name: Ghana
 status_id: "3"
+scope: macrolanguage
+language_type: living
 latitude: 6.34756
 longitude: -1.33254
 scripts: [Latn]
@@ -14,6 +17,7 @@ glottocode: akan1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Potou-Tano > Tano > Central Tano > Akanic > Akan"
+wikidata_id: Q28026
 wikipedia_url: "https://en.wikipedia.org/wiki/Akan_language"
 translations:
   - translation_iso: ara

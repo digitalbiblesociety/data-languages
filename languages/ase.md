@@ -7,12 +7,15 @@ population: 729605
 country_id: US
 country_name: United States
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 33.81171
 longitude: -81.61209
 glottocode: amer1248
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language
 glottolog_classification: "Sign Language > L1 Sign Language > LSFic > ASLic > American Sign > American Sign Language"
+wikidata_id: Q14759
 wikipedia_url: "https://en.wikipedia.org/wiki/American_Sign_Language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 1000
 country_id: PH
 country_name: Philippines
 status_id: 8b
+scope: individual
+language_type: living
 latitude: 13.65101
 longitude: 123.33243
 glottocode: isar1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Greater Central Philippine > Central Philippine > Bikol > Inagta Bikol > Isarog Agta"
+wikidata_id: Q6078982
 wikipedia_url: "https://en.wikipedia.org/wiki/Inagta_Partido_language"
 translations:
   - translation_iso: ara

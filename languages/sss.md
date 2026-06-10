@@ -7,12 +7,15 @@ population: 233000
 country_id: LA
 country_name: Laos
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 16.908105
 longitude: 105.000745
 glottocode: sooo1254
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Katuic > West Katuic > Brou-So > Western Bru-So > Sô"
+wikidata_id: Q3082037
 translations:
   - translation_iso: ara
     name: اللغة سو

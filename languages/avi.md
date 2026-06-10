@@ -7,12 +7,15 @@ population: 21000
 country_id: CI
 country_name: "Côte d'Ivoire"
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.15838
 longitude: -5.2529
 glottocode: avik1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo > Avikam-Alladian > Avikam"
+wikidata_id: Q34840
 wikipedia_url: "https://en.wikipedia.org/wiki/Avikam_language"
 translations:
   - translation_iso: ara

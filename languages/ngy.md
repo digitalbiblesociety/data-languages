@@ -7,12 +7,15 @@ population: 1400
 country_id: CM
 country_name: Cameroon
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 5.30535
 longitude: 11.31027
 glottocode: tibe1274
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Bafia (A.50) > Tibea"
+wikidata_id: Q36598
 wikipedia_url: "https://en.wikipedia.org/wiki/Tibea_language"
 translations:
   - translation_iso: ara

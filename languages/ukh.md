@@ -6,12 +6,15 @@ population: 2000
 country_id: CF
 country_name: Central African Republic
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 2.9095
 longitude: 16.26705
 glottocode: ukhw1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > Bantu A-B10-B20-B30 > Makaa-Kako (A.80-90) > Makaa-Njem (A.80) > Mpoic > Mpiemo-Ukhwejo > Ukhwejo"
+wikidata_id: Q36623
 wikipedia_url: "https://en.wikipedia.org/wiki/Ukhwejo_language"
 translations:
   - translation_iso: ara

@@ -7,6 +7,8 @@ population: 8558
 country_id: VE
 country_name: Venezuela
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 5.837718
 longitude: -56.832298
 scripts: [Latn]
@@ -14,6 +16,7 @@ glottocode: gali1262
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban
 glottolog_classification: "Cariban > Guianan > Galibi Carib"
+wikidata_id: Q56611
 wikipedia_url: "https://en.wikipedia.org/wiki/Kalina_language"
 translations:
   - translation_iso: ara

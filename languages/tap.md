@@ -7,12 +7,15 @@ population: 281600
 country_id: CD
 country_name: DR Congo
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -7.91416
 longitude: 29.52377
 glottocode: taab1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid > Southern Bantoid > Narrow Bantu > East Bantu > Sabi > Malungu-Central Sabi > Taabwa"
+wikidata_id: Q7673650
 wikipedia_url: "https://en.wikipedia.org/wiki/Taabwa_language"
 translations:
   - translation_iso: ara

@@ -6,12 +6,15 @@ population: 6500
 country_id: PG
 country_name: Papua New Guinea
 status_id: "5"
+scope: individual
+language_type: living
 latitude: -9.51158
 longitude: 150.29725
 glottocode: bwai1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > Papuan Tip linkage > Nuclear Papuan Tip linkage > North Papuan Mainland-D'Entrecasteaux linkage > Bwaidoga linkage > Bwaidoka-Iduna > Bwaidoka"
+wikidata_id: Q2929111
 wikipedia_url: "https://en.wikipedia.org/wiki/Bwaidoka_language"
 translations:
   - translation_iso: ara

@@ -7,12 +7,15 @@ population: 647000
 country_id: NG
 country_name: Nigeria
 status_id: "5"
+scope: individual
+language_type: living
 latitude: 5.52889
 longitude: 6.24682
 glottocode: isok1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Akpes-Edoid > Edoid > Southwestern Edoid > Isoko"
+wikidata_id: Q35414
 wikipedia_url: "https://en.wikipedia.org/wiki/Isoko_language"
 translations:
   - translation_iso: ara

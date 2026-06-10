@@ -1,5 +1,6 @@
 ---
 iso: esk
+macrolanguage_id: ipk
 name: Northwest Alaska Inupiatun
 autonym: Iñupiatun
 alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Eskimo, Inuit, Inuit de la Península Seward (estrecho de Norton), Inupiaq de la péninsule de Seward  (King Island), Inupiaq de la péninsule de Seward (Grande Diomède), Inupiaq de la péninsule de Seward (Norton Sound), Inupiaq de la péninsule de Seward (Petite Diomède), Inupiat, Inupiatun, "Inupiatun, Northwest Alaska", Northwest Alaska Inupiat, Seward Peninsula Inupiaq, Seward Peninsula Iñupiaq]
@@ -7,12 +8,15 @@ population: 2420
 country_id: US
 country_name: United States
 status_id: 6b
+scope: individual
+language_type: living
 latitude: 64.77955
 longitude: -161.80666
 glottocode: nort2945
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
 glottolog_classification: "Eskimo-Aleut > Eskimo > Inuit > Alaskan Inupiaq > Seward Alaska Inupiatun"
+wikidata_id: Q25559714
 translations:
   - translation_iso: ara
     name: الإينوبياتون الأسكا الشمالية الغربية

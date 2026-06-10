@@ -1,12 +1,16 @@
 ---
 iso: fas
+iso639_1: fa
 name: Persian
 autonym: فارسی
 population: 45000000
 country_id: IR
 country_name: Iran
 status_id: null
+scope: macrolanguage
+language_type: living
 scripts: [Arab]
+wikidata_id: Q9168
 wikipedia_url: "https://en.wikipedia.org/wiki/Persian_language"
 translations:
   - translation_iso: ara

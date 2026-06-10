@@ -7,12 +7,15 @@ population: 97900
 country_id: VN
 country_name: Vietnam
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 14.77933
 longitude: 108.02703
 glottocode: seda1262
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
 glottolog_classification: "Austroasiatic > Bahnaric > North Bahnaric > Hre-Sedang-Todrah-Monam > Hre-Sedang > Sedang"
+wikidata_id: Q56448
 wikipedia_url: "https://en.wikipedia.org/wiki/Sedang_language"
 translations:
   - translation_iso: ara

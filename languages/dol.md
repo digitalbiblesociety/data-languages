@@ -6,12 +6,15 @@ population: 700
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -7.85806
 longitude: 142.65608
 glottocode: doso1239
 glottolog_family_id: doso1238
 glottolog_family_name: Doso-Turumsa
 glottolog_classification: "Doso-Turumsa > Doso"
+wikidata_id: Q4167202
 wikipedia_url: "https://en.wikipedia.org/wiki/Doso_language"
 translations:
   - translation_iso: ara

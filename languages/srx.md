@@ -7,6 +7,8 @@ population: 400000
 country_id: IN
 country_name: India
 status_id: 6a
+scope: individual
+language_type: living
 latitude: 31.1
 longitude: 77.17
 scripts: [Deva]
@@ -14,6 +16,7 @@ glottocode: sirm1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Eastern Dardic > Himachali > Nuclear Himachali > Sirmauri"
+wikidata_id: Q7530505
 wikipedia_url: "https://en.wikipedia.org/wiki/Sirmauri_language"
 translations:
   - translation_iso: ara

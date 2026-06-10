@@ -7,12 +7,15 @@ population: 400
 country_id: PG
 country_name: Papua New Guinea
 status_id: 6b
+scope: individual
+language_type: living
 latitude: -6.45752
 longitude: 146.84068
 glottocode: duwe1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Western Oceanic linkage > North New Guinea linkage > Huon Gulf > Markham > Lower Markham > Busu > Duwet"
+wikidata_id: Q5317647
 wikipedia_url: "https://en.wikipedia.org/wiki/Duwet_language"
 translations:
   - translation_iso: ara

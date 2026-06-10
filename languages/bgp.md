@@ -1,5 +1,6 @@
 ---
 iso: bgp
+macrolanguage_id: bal
 name: Eastern Balochi
 autonym: بلۏچی  Balòci
 alt_names: [Balochi, "Balochi, Eastern", Baluchi, Balutschi]
@@ -7,12 +8,15 @@ population: 2930800
 country_id: PK
 country_name: Pakistan
 status_id: "4"
+scope: individual
+language_type: living
 latitude: 28
 longitude: 62
 glottocode: east2304
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Iranian-Nuristani > Iranian > Central Iranian PBS > Central Iranian PB > Northwestern Iranian > Balochic > Eastern Balochi"
+wikidata_id: Q12952252
 wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Balochi_(dialect)"
 translations:
   - translation_iso: ara
