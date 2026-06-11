@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: One Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн онейский язык
+    auto: true
   - translation_iso: spa
     name: One meridional
     auto: true

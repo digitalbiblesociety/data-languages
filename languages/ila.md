@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ile Ape
     auto: true
+  - translation_iso: rus
+    name: иле апейский язык
+    auto: true
   - translation_iso: spa
     name: Ile Ape
     auto: true

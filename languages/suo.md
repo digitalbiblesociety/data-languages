@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bouni
     auto: true
+  - translation_iso: rus
+    name: бунийский язык
+    auto: true
   - translation_iso: spa
     name: Bouni
     auto: true

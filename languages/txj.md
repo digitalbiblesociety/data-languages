@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tarjumo
     auto: true
+  - translation_iso: rus
+    name: тарюмоский язык
+    auto: true
   - translation_iso: spa
     name: Tarjumo
     auto: true

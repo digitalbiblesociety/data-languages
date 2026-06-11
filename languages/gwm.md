@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Awngthim
     auto: true
+  - translation_iso: rus
+    name: авнгтимский язык
+    auto: true
   - translation_iso: spa
     name: Idioma awngthim
   - translation_iso: zho

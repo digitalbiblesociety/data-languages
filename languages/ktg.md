@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kalkatungu
+  - translation_iso: rus
+    name: калкутунгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kalkatungu
   - translation_iso: zho

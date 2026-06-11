@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Punan Bah-Biau
     auto: true
+  - translation_iso: rus
+    name: пунан бах-биауский язык
+    auto: true
   - translation_iso: spa
     name: Punan Bah-Biau
     auto: true

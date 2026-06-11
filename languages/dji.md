@@ -36,6 +36,9 @@ translations:
     name: 지낭어
   - translation_iso: por
     name: Língua djinang
+  - translation_iso: rus
+    name: дджинангский язык
+    auto: true
   - translation_iso: spa
     name: Djinang
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Buriato da Rússia
     auto: true
+  - translation_iso: rus
+    name: руссиа буриатский язык
+    auto: true
   - translation_iso: spa
     name: Buriato de Rusia
     auto: true

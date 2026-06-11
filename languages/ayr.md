@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Aimará Central
     auto: true
+  - translation_iso: rus
+    name: кентрал аймарский язык
+    auto: true
   - translation_iso: spa
     name: aimara central
   - translation_iso: zho

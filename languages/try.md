@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Turung
     auto: true
+  - translation_iso: rus
+    name: турунгский язык
+    auto: true
   - translation_iso: spa
     name: Turung
     auto: true

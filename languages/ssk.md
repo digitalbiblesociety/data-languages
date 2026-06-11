@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sunam
     auto: true
+  - translation_iso: rus
+    name: сунамский язык
+    auto: true
   - translation_iso: spa
     name: Sunam
     auto: true

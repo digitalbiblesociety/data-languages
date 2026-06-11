@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yawiyo
     auto: true
+  - translation_iso: rus
+    name: явийоский язык
+    auto: true
   - translation_iso: spa
     name: Yawiyo
     auto: true

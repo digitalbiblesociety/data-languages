@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Teke-Fuumu
     auto: true
+  - translation_iso: rus
+    name: теке-фуумуский язык
+    auto: true
   - translation_iso: spa
     name: Teke-Fuumu
     auto: true

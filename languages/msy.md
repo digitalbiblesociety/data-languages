@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aruamu
     auto: true
+  - translation_iso: rus
+    name: аруамуский язык
+    auto: true
   - translation_iso: spa
     name: Aruamu
     auto: true

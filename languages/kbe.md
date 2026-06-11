@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kanju
     auto: true
+  - translation_iso: rus
+    name: канюский язык
+    auto: true
   - translation_iso: spa
     name: Kanju
     auto: true

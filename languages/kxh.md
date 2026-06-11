@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karo (Etiópia)
     auto: true
+  - translation_iso: rus
+    name: кароский язык
+    auto: true
   - translation_iso: spa
     name: Karo (Etiopía)
     auto: true

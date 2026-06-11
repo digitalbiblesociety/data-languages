@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lakoya
+  - translation_iso: rus
+    name: локойский язык
+    auto: true
   - translation_iso: spa
     name: Lokoya
     auto: true

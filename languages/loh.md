@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua narin
+  - translation_iso: rus
+    name: наримский язык
+    auto: true
   - translation_iso: spa
     name: Idioma narim
   - translation_iso: zho

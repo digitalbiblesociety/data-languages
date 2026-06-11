@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tsucuba
     auto: true
+  - translation_iso: rus
+    name: цукубский язык
+    auto: true
   - translation_iso: spa
     name: Tsucuba
     auto: true

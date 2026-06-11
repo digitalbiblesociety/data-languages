@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: teke-ebo
+  - translation_iso: rus
+    name: теке-ебоский язык
+    auto: true
   - translation_iso: spa
     name: teke-ebo
   - translation_iso: zho

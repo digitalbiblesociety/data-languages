@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: umpqua superior
     auto: true
+  - translation_iso: rus
+    name: уппер умпквский язык
+    auto: true
   - translation_iso: spa
     name: alto Umpqua
   - translation_iso: zho

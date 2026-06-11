@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Malankuravan
     auto: true
+  - translation_iso: rus
+    name: маланкураванский язык
+    auto: true
   - translation_iso: spa
     name: Malankuravan
     auto: true

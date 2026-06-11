@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: fulfulde de Borgu
     auto: true
+  - translation_iso: rus
+    name: боргу фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde de Borgu
     auto: true

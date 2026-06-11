@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dyaberdyaber
     auto: true
+  - translation_iso: rus
+    name: дябердяберский язык
+    auto: true
   - translation_iso: spa
     name: Dyaberdyaber
     auto: true

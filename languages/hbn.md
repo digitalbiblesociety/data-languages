@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Heiban
     auto: true
+  - translation_iso: rus
+    name: хеибанский язык
+    auto: true
   - translation_iso: spa
     name: Heibán
     auto: true

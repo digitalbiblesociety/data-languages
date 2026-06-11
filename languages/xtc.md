@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kadugli
+  - translation_iso: rus
+    name: кача-кадугли-мирийский язык
+    auto: true
   - translation_iso: spa
     name: Katcha-Kadugli-Miri
     auto: true

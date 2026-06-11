@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua soli
+  - translation_iso: rus
+    name: солийский язык
+    auto: true
   - translation_iso: spa
     name: Soli
     auto: true

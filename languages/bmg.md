@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bamwe
     auto: true
+  - translation_iso: rus
+    name: бамвейский язык
+    auto: true
   - translation_iso: spa
     name: Bamwe
     auto: true

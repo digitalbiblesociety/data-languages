@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Iyive
     auto: true
+  - translation_iso: rus
+    name: ийивейский язык
+    auto: true
   - translation_iso: spa
     name: Iyive
     auto: true

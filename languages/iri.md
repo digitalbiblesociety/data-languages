@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Rigwe
     auto: true
+  - translation_iso: rus
+    name: ригвейский язык
+    auto: true
   - translation_iso: spa
     name: Rigwe
     auto: true

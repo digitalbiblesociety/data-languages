@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wurrugu
     auto: true
+  - translation_iso: rus
+    name: вурругуский язык
+    auto: true
   - translation_iso: spa
     name: Wurrugu
     auto: true

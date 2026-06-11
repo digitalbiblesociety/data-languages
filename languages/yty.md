@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: yatay
     auto: true
+  - translation_iso: rus
+    name: ятайский язык
+    auto: true
   - translation_iso: spa
     name: Yatay
     auto: true

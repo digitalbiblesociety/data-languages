@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mai Brat
     auto: true
+  - translation_iso: rus
+    name: маи братский язык
+    auto: true
   - translation_iso: spa
     name: Mai Brat
     auto: true

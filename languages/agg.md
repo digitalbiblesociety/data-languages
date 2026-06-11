@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Angor
     auto: true
+  - translation_iso: rus
+    name: ангорский язык
+    auto: true
   - translation_iso: spa
     name: Angor
     auto: true

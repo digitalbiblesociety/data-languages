@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Huitepec
     auto: true
+  - translation_iso: rus
+    name: хуитепек микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Huitepec
     auto: true

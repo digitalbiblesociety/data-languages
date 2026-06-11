@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ninzo
     auto: true
+  - translation_iso: rus
+    name: нинзоский язык
+    auto: true
   - translation_iso: spa
     name: Ninzo
     auto: true

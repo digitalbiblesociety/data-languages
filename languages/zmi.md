@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: malaio de Negeri Sembilan
     auto: true
+  - translation_iso: rus
+    name: негери сембилан малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo de Negeri Sembilan
     auto: true

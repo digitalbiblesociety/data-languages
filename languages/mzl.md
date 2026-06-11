@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixe de Mazatlán
     auto: true
+  - translation_iso: rus
+    name: мазатлан миксейский язык
+    auto: true
   - translation_iso: spa
     name: Mixe de Mazatlán
     auto: true

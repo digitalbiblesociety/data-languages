@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Alcozauca
     auto: true
+  - translation_iso: rus
+    name: алкозаука микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco alcozauqueño
   - translation_iso: zho

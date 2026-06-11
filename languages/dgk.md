@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dagba
     auto: true
+  - translation_iso: rus
+    name: дагбский язык
+    auto: true
   - translation_iso: spa
     name: Dagba
     auto: true

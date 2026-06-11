@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua yawuru
+  - translation_iso: rus
+    name: явуруский язык
+    auto: true
   - translation_iso: spa
     name: Yawuru
     auto: true

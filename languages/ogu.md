@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ogbronuagum
     auto: true
+  - translation_iso: rus
+    name: огбронуагумский язык
+    auto: true
   - translation_iso: spa
     name: Ogbronuagum
     auto: true

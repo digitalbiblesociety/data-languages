@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chin Zotung
     auto: true
+  - translation_iso: rus
+    name: зотунг чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Zotung
     auto: true

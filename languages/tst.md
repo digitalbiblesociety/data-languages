@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tondi Songway Kiini
     auto: true
+  - translation_iso: rus
+    name: тонди сонгвай киинийский язык
+    auto: true
   - translation_iso: spa
     name: Tondi Songway Kiini
     auto: true

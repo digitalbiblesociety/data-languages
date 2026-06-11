@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Moksela
+  - translation_iso: rus
+    name: мокселский язык
+    auto: true
   - translation_iso: spa
     name: Moksela
   - translation_iso: zho

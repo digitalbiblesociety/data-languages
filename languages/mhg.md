@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Marrgu
+  - translation_iso: rus
+    name: маргуский язык
+    auto: true
   - translation_iso: spa
     name: Margu
     auto: true

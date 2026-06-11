@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Hanga
     auto: true
+  - translation_iso: rus
+    name: хангский язык
+    auto: true
   - translation_iso: spa
     name: Hanga
     auto: true

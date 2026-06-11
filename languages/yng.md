@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yango
     auto: true
+  - translation_iso: rus
+    name: янгоский язык
+    auto: true
   - translation_iso: spa
     name: Yango
     auto: true

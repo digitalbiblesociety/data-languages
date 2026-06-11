@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Baga Koga
     auto: true
+  - translation_iso: rus
+    name: бага когский язык
+    auto: true
   - translation_iso: spa
     name: Baga Koga
     auto: true

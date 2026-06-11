@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua neoaramaica ocidental
+  - translation_iso: rus
+    name: вестерн нео-арамаикский язык
+    auto: true
   - translation_iso: spa
     name: neoarameo occidental
   - translation_iso: zho

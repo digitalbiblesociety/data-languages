@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: xwela gbe
     auto: true
+  - translation_iso: rus
+    name: ксвела гбейский язык
+    auto: true
   - translation_iso: spa
     name: Xwela Gbe
     auto: true

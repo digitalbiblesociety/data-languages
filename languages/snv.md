@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: "Sa'ban"
     auto: true
+  - translation_iso: rus
+    name: сабанский язык
+    auto: true
   - translation_iso: spa
     name: "Sa'ban"
     auto: true

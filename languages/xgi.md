@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Garingbal
     auto: true
+  - translation_iso: rus
+    name: гарингбальский язык
+    auto: true
   - translation_iso: spa
     name: Garingbal
     auto: true

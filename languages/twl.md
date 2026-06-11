@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tawara
     auto: true
+  - translation_iso: rus
+    name: таварский язык
+    auto: true
   - translation_iso: spa
     name: Tawara
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Izere
     auto: true
+  - translation_iso: rus
+    name: изерейский язык
+    auto: true
   - translation_iso: spa
     name: Izere
     auto: true

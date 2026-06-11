@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tibea
     auto: true
+  - translation_iso: rus
+    name: тибеский язык
+    auto: true
   - translation_iso: spa
     name: Tibea
     auto: true

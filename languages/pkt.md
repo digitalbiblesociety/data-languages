@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maleng
     auto: true
+  - translation_iso: rus
+    name: маленгский язык
+    auto: true
   - translation_iso: spa
     name: Maleng
     auto: true

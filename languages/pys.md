@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Paraguaia
     auto: true
+  - translation_iso: rus
+    name: парагуаян сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas paraguaya
   - translation_iso: zho

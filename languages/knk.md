@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kuranko
     auto: true
+  - translation_iso: rus
+    name: куранкоский язык
+    auto: true
   - translation_iso: spa
     name: Kuranko
     auto: true

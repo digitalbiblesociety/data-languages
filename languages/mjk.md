@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Matukar
     auto: true
+  - translation_iso: rus
+    name: матукарский язык
+    auto: true
   - translation_iso: spa
     name: Matukar
     auto: true

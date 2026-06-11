@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua balengue
+  - translation_iso: rus
+    name: моленгуейский язык
+    auto: true
   - translation_iso: spa
     name: Balengue
   - translation_iso: zho

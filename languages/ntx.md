@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Naga Tangkhul (Myanmar)
     auto: true
+  - translation_iso: rus
+    name: тангхул нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Tangkhul (Myanmar)
     auto: true

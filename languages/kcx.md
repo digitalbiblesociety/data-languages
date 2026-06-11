@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kachama-Ganjule
     auto: true
+  - translation_iso: rus
+    name: качама-ганюлейский язык
+    auto: true
   - translation_iso: spa
     name: Kachama-Ganjule
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gaa
+  - translation_iso: rus
+    name: гаский язык
+    auto: true
   - translation_iso: spa
     name: Gaa
     auto: true

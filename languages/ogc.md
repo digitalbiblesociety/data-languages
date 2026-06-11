@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ogba
+  - translation_iso: rus
+    name: огбахский язык
+    auto: true
   - translation_iso: spa
     name: Ogbah
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Citak
     auto: true
+  - translation_iso: rus
+    name: китакский язык
+    auto: true
   - translation_iso: spa
     name: Citak
     auto: true

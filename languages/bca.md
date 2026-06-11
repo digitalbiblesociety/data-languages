@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bai central
     auto: true
+  - translation_iso: rus
+    name: кентрал баийский язык
+    auto: true
   - translation_iso: spa
     name: Bai Central
     auto: true

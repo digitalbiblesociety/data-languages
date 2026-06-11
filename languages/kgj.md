@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kham Gamale
     auto: true
+  - translation_iso: rus
+    name: гамале хамский язык
+    auto: true
   - translation_iso: spa
     name: Kham Gamale
     auto: true

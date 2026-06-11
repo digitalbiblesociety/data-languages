@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kele (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: келейский язык
+    auto: true
   - translation_iso: spa
     name: Kele (República Democrática del Congo)
     auto: true

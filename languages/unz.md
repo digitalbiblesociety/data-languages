@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kaili Unde
     auto: true
+  - translation_iso: rus
+    name: унде каилийский язык
+    auto: true
   - translation_iso: spa
     name: Unde Kaili
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngbaka Manza
     auto: true
+  - translation_iso: rus
+    name: нгбака манзский язык
+    auto: true
   - translation_iso: spa
     name: Ngbaka Manza
     auto: true

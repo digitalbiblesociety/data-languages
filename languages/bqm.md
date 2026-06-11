@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Wumboko
     auto: true
+  - translation_iso: rus
+    name: вумбокоский язык
+    auto: true
   - translation_iso: spa
     name: Wumboko
     auto: true

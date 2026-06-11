@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Uma' Lung"
     auto: true
+  - translation_iso: rus
+    name: ума лунгский язык
+    auto: true
   - translation_iso: spa
     name: "Uma' Lung"
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Hulung
     auto: true
+  - translation_iso: rus
+    name: хулунгский язык
+    auto: true
   - translation_iso: spa
     name: Hulung
     auto: true

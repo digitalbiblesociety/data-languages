@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kayan de Baram
     auto: true
+  - translation_iso: rus
+    name: барам каянский язык
+    auto: true
   - translation_iso: spa
     name: Kayan del Baram
     auto: true

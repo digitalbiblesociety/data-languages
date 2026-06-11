@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Sulod
     auto: true
+  - translation_iso: rus
+    name: сулодский язык
+    auto: true
   - translation_iso: spa
     name: panayano
   - translation_iso: zho

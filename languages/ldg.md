@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lenyima
     auto: true
+  - translation_iso: rus
+    name: ленйимский язык
+    auto: true
   - translation_iso: spa
     name: Lenyima
     auto: true

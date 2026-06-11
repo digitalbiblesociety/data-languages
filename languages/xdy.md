@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Daiaque Malaico
     auto: true
+  - translation_iso: rus
+    name: малайик даякский язык
+    auto: true
   - translation_iso: spa
     name: Dayak malayo
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Totonaco de Coyutla
     auto: true
+  - translation_iso: rus
+    name: коютла тотонакский язык
+    auto: true
   - translation_iso: spa
     name: Totonaco de Coyutla
     auto: true

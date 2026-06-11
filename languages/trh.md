@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Turaka
     auto: true
+  - translation_iso: rus
+    name: туракский язык
+    auto: true
   - translation_iso: spa
     name: Turaka
     auto: true

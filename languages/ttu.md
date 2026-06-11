@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Torau
     auto: true
+  - translation_iso: rus
+    name: торауский язык
+    auto: true
   - translation_iso: spa
     name: Idioma torau
   - translation_iso: zho

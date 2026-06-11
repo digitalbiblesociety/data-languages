@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Paharia de Kumarbhag
     auto: true
+  - translation_iso: rus
+    name: кумарбхаг пахариский язык
+    auto: true
   - translation_iso: spa
     name: Paharia de Kumarbhag
     auto: true

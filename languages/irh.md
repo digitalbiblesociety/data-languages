@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Irarutu
     auto: true
+  - translation_iso: rus
+    name: ирарутуский язык
+    auto: true
   - translation_iso: spa
     name: Irarutu
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngarluma
     auto: true
+  - translation_iso: rus
+    name: нгарлумский язык
+    auto: true
   - translation_iso: spa
     name: Ngarluma
     auto: true

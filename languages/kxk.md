@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Karen Zayein
     auto: true
+  - translation_iso: rus
+    name: заеин каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Zayein
     auto: true

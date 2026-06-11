@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wusi
     auto: true
+  - translation_iso: rus
+    name: вусийский язык
+    auto: true
   - translation_iso: spa
     name: Wusi
     auto: true

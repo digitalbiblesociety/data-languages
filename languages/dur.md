@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dii
     auto: true
+  - translation_iso: rus
+    name: диийский язык
+    auto: true
   - translation_iso: spa
     name: Dii
     auto: true

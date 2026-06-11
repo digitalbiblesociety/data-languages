@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tai Pao
     auto: true
+  - translation_iso: rus
+    name: таи паоский язык
+    auto: true
   - translation_iso: spa
     name: Tai Pao
     auto: true

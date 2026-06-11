@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kandas
     auto: true
+  - translation_iso: rus
+    name: кандасский язык
+    auto: true
   - translation_iso: spa
     name: Kandas
     auto: true

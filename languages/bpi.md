@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bagupi
     auto: true
+  - translation_iso: rus
+    name: багупийский язык
+    auto: true
   - translation_iso: spa
     name: Bagupi
     auto: true

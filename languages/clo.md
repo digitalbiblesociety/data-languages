@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chontal das terras baixas de Oaxaca
     auto: true
+  - translation_iso: rus
+    name: ловланд оаксака чонтальский язык
+    auto: true
   - translation_iso: spa
     name: Chontal de la Costa de Oaxaca
     auto: true

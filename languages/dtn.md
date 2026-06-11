@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Daatsʼíin
     auto: true
+  - translation_iso: rus
+    name: даациинский язык
+    auto: true
   - translation_iso: spa
     name: Daatsʼíin
     auto: true

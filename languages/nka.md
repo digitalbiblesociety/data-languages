@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nkoya
     auto: true
+  - translation_iso: rus
+    name: нкойский язык
+    auto: true
   - translation_iso: spa
     name: Nkoya
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: sundanês antigo
     auto: true
+  - translation_iso: rus
+    name: олд сунданесейский язык
+    auto: true
   - translation_iso: spa
     name: Sundanés antiguo
     auto: true

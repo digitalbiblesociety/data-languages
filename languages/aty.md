@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Aneityum
     auto: true
+  - translation_iso: rus
+    name: анеитюмский язык
+    auto: true
   - translation_iso: spa
     name: Aneityum
     auto: true

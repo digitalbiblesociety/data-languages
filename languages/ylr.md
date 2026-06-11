@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yalarnnga
     auto: true
+  - translation_iso: rus
+    name: яларннгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma yalarnnga
   - translation_iso: zho

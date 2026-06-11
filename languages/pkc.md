@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Paekche
     auto: true
+  - translation_iso: rus
+    name: паекчейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma baekje
   - translation_iso: zho

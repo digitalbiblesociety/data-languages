@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nyika
     auto: true
+  - translation_iso: rus
+    name: нйикский язык
+    auto: true
   - translation_iso: spa
     name: Nyika
     auto: true

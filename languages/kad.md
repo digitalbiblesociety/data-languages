@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Adara
     auto: true
+  - translation_iso: rus
+    name: адарский язык
+    auto: true
   - translation_iso: spa
     name: Adara
     auto: true

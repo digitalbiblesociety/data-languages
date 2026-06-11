@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Emplawas
+  - translation_iso: rus
+    name: емплавасский язык
+    auto: true
   - translation_iso: spa
     name: Emplawas
   - translation_iso: zho

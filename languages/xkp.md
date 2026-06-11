@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kabatei
     auto: true
+  - translation_iso: rus
+    name: кабатеийский язык
+    auto: true
   - translation_iso: spa
     name: Kabatei
     auto: true

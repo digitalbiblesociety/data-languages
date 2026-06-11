@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kairiru
+  - translation_iso: rus
+    name: каирируский язык
+    auto: true
   - translation_iso: spa
     name: Kairiru
     auto: true

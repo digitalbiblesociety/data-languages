@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phai
     auto: true
+  - translation_iso: rus
+    name: фаийский язык
+    auto: true
   - translation_iso: spa
     name: Phai
     auto: true

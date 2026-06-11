@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Makhuwa-Marrevone
     auto: true
+  - translation_iso: rus
+    name: махува-марревонейский язык
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Marrevone
     auto: true

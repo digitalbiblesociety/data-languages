@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Wipi
     auto: true
+  - translation_iso: rus
+    name: випийский язык
+    auto: true
   - translation_iso: spa
     name: Wipi
     auto: true

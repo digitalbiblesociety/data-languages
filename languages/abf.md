@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Abai Sungai
     auto: true
+  - translation_iso: rus
+    name: абаи сунгаийский язык
+    auto: true
   - translation_iso: spa
     name: Abai Sungai
     auto: true

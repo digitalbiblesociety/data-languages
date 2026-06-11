@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gedaged
     auto: true
+  - translation_iso: rus
+    name: гедагедский язык
+    auto: true
   - translation_iso: spa
     name: gedaged
   - translation_iso: zho

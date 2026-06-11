@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sinagen
     auto: true
+  - translation_iso: rus
+    name: синагенский язык
+    auto: true
   - translation_iso: spa
     name: Sinagen
     auto: true

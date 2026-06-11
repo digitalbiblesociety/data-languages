@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Boghom
     auto: true
+  - translation_iso: rus
+    name: богхомский язык
+    auto: true
   - translation_iso: spa
     name: Boghom
     auto: true

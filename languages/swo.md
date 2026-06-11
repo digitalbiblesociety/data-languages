@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Shanenawa
     auto: true
+  - translation_iso: rus
+    name: шаненавский язык
+    auto: true
   - translation_iso: spa
     name: Shanenawa
     auto: true

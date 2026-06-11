@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Alta do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн алтский язык
+    auto: true
   - translation_iso: spa
     name: Alta septentrional
     auto: true

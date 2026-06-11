@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kamarian
     auto: true
+  - translation_iso: rus
+    name: камарианский язык
+    auto: true
   - translation_iso: spa
     name: Kamarian
     auto: true

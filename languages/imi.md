@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Anamgura
     auto: true
+  - translation_iso: rus
+    name: анамгурский язык
+    auto: true
   - translation_iso: spa
     name: Anamgura
     auto: true

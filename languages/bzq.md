@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Buli (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: булийский язык
+    auto: true
   - translation_iso: spa
     name: Buli (Indonesia)
     auto: true

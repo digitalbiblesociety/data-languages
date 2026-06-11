@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Garre
     auto: true
+  - translation_iso: rus
+    name: гаррейский язык
+    auto: true
   - translation_iso: spa
     name: Garre
     auto: true

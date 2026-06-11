@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tenis
     auto: true
+  - translation_iso: rus
+    name: тенисский язык
+    auto: true
   - translation_iso: spa
     name: Tenis
     auto: true

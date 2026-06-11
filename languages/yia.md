@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yinggarda
     auto: true
+  - translation_iso: rus
+    name: йинггардский язык
+    auto: true
   - translation_iso: spa
     name: Yinggarda
     auto: true

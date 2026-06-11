@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: boro (Gana)
     auto: true
+  - translation_iso: rus
+    name: бороский язык
+    auto: true
   - translation_iso: spa
     name: Boro (Ghana)
     auto: true

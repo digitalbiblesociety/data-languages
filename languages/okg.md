@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Koko Babangk
     auto: true
+  - translation_iso: rus
+    name: коко бабангкский язык
+    auto: true
   - translation_iso: spa
     name: Koko Babangk
     auto: true

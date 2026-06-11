@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Persa Médio Maniqueu
     auto: true
+  - translation_iso: rus
+    name: маничаеан миддле персианский язык
+    auto: true
   - translation_iso: spa
     name: Persa medio maniqueo
     auto: true

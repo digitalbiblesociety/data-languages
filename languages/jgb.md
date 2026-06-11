@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngbee
     auto: true
+  - translation_iso: rus
+    name: нгбийский язык
+    auto: true
   - translation_iso: spa
     name: Ngbee
     auto: true

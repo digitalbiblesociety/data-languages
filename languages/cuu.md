@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tai ya
+  - translation_iso: rus
+    name: таи йский язык
+    auto: true
   - translation_iso: spa
     name: Tai Ya
     auto: true

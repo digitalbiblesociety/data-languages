@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Kuuku-Ya'u"
     auto: true
+  - translation_iso: rus
+    name: кууку-яуский язык
+    auto: true
   - translation_iso: spa
     name: "Kuuku-Ya'u"
     auto: true

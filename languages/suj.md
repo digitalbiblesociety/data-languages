@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Shubi
     auto: true
+  - translation_iso: rus
+    name: шубийский язык
+    auto: true
   - translation_iso: spa
     name: Shubi
     auto: true

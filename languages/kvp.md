@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kompane
     auto: true
+  - translation_iso: rus
+    name: компанейский язык
+    auto: true
   - translation_iso: spa
     name: Kompane
     auto: true

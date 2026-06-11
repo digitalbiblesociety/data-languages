@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gugubera
     auto: true
+  - translation_iso: rus
+    name: гугуберский язык
+    auto: true
   - translation_iso: spa
     name: Idioma koko-bera
   - translation_iso: zho

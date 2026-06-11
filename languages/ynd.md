@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yandruwandha
     auto: true
+  - translation_iso: rus
+    name: яндрувандхский язык
+    auto: true
   - translation_iso: spa
     name: Yandruwandha
     auto: true

@@ -35,6 +35,9 @@ translations:
     name: 가일어
   - translation_iso: por
     name: Língua gail
+  - translation_iso: rus
+    name: гаильский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gayle
   - translation_iso: zho

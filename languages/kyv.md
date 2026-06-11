@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kayort
     auto: true
+  - translation_iso: rus
+    name: кайортский язык
+    auto: true
   - translation_iso: spa
     name: Kayort
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "La'bi"
     auto: true
+  - translation_iso: rus
+    name: лабийский язык
+    auto: true
   - translation_iso: spa
     name: "La'bi"
     auto: true

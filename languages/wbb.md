@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Wabo
     auto: true
+  - translation_iso: rus
+    name: вабоский язык
+    auto: true
   - translation_iso: spa
     name: Wabo
     auto: true

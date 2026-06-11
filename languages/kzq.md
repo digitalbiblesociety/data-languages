@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kaike
     auto: true
+  - translation_iso: rus
+    name: каикейский язык
+    auto: true
   - translation_iso: spa
     name: Kaike
     auto: true

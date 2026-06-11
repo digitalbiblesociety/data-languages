@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Masimasi
     auto: true
+  - translation_iso: rus
+    name: масимасийский язык
+    auto: true
   - translation_iso: spa
     name: Masimasi
     auto: true

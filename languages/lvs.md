@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Letão padrão
     auto: true
+  - translation_iso: rus
+    name: стандард латвианский язык
+    auto: true
   - translation_iso: spa
     name: Letón estándar
     auto: true

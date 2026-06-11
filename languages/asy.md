@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Asmat de Yaosakor
     auto: true
+  - translation_iso: rus
+    name: яосакор асматский язык
+    auto: true
   - translation_iso: spa
     name: Asmat Yaosakor
     auto: true

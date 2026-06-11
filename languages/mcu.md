@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mambila dos Camarões
     auto: true
+  - translation_iso: rus
+    name: камерун мамбилский язык
+    auto: true
   - translation_iso: spa
     name: mambila de Camerún
   - translation_iso: zho

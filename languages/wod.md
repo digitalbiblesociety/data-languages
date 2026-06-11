@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wolani
     auto: true
+  - translation_iso: rus
+    name: воланийский язык
+    auto: true
   - translation_iso: spa
     name: Wolani
     auto: true

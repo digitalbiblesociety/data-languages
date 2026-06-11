@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gugu Warra
     auto: true
+  - translation_iso: rus
+    name: гугу варрский язык
+    auto: true
   - translation_iso: spa
     name: Gugu Warra
     auto: true

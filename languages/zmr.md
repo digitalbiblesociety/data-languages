@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Maranunggu
     auto: true
+  - translation_iso: rus
+    name: маранунггуский язык
+    auto: true
   - translation_iso: spa
     name: Maranunggu
     auto: true

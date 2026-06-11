@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Waci Gbe
     auto: true
+  - translation_iso: rus
+    name: ваки гбейский язык
+    auto: true
   - translation_iso: spa
     name: Waci Gbe
     auto: true

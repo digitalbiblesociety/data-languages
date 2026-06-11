@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kalamsé
     auto: true
+  - translation_iso: rus
+    name: каламсейский язык
+    auto: true
   - translation_iso: spa
     name: Kalamsé
     auto: true

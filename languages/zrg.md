@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Mirgan
     auto: true
+  - translation_iso: rus
+    name: мирганский язык
+    auto: true
   - translation_iso: spa
     name: Mirgan
     auto: true

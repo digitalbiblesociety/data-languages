@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kumhali
     auto: true
+  - translation_iso: rus
+    name: кумхалийский язык
+    auto: true
   - translation_iso: spa
     name: Kumhali
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Gbaya-Bossangoa
+  - translation_iso: rus
+    name: гбая-боссангоский язык
+    auto: true
   - translation_iso: spa
     name: Gbaya-Bossangoa
   - translation_iso: zho

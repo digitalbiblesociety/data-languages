@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Karon
     auto: true
+  - translation_iso: rus
+    name: каронский язык
+    auto: true
   - translation_iso: spa
     name: Karon
     auto: true

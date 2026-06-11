@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bozo Jenaama
     auto: true
+  - translation_iso: rus
+    name: енаама бозоский язык
+    auto: true
   - translation_iso: spa
     name: Bozo Jenaama
     auto: true

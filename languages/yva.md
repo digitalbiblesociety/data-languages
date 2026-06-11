@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: yawa
     auto: true
+  - translation_iso: rus
+    name: явский язык
+    auto: true
   - translation_iso: spa
     name: Yawa
     auto: true

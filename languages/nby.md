@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ningera
     auto: true
+  - translation_iso: rus
+    name: нингерский язык
+    auto: true
   - translation_iso: spa
     name: Ningera
     auto: true

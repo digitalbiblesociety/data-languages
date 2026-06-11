@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Banda-Mbrès
     auto: true
+  - translation_iso: rus
+    name: банда-мбресский язык
+    auto: true
   - translation_iso: spa
     name: Banda-Mbrès
     auto: true

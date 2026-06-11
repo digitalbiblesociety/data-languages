@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngumbarl
     auto: true
+  - translation_iso: rus
+    name: нгумбарлрский язык
+    auto: true
   - translation_iso: spa
     name: Ngumbarl
     auto: true

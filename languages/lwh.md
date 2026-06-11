@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lachi branco
     auto: true
+  - translation_iso: rus
+    name: вхите лачийский язык
+    auto: true
   - translation_iso: spa
     name: Lachi blanco
     auto: true

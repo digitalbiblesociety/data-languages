@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Penan Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн пенанский язык
+    auto: true
   - translation_iso: spa
     name: Penan occidental
     auto: true

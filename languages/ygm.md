@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yagomi
     auto: true
+  - translation_iso: rus
+    name: ягомийский язык
+    auto: true
   - translation_iso: spa
     name: Yagomi
     auto: true

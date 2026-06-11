@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kuuk yak
+  - translation_iso: rus
+    name: куук-якский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kuuk yak
   - translation_iso: zho

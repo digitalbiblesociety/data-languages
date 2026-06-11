@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Marind bian
     auto: true
+  - translation_iso: rus
+    name: биан мариндский язык
+    auto: true
   - translation_iso: spa
     name: Marind de Bian
     auto: true

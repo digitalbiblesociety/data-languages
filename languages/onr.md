@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: One Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн онейский язык
+    auto: true
   - translation_iso: spa
     name: One septentrional
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chatino de Nopala
     auto: true
+  - translation_iso: rus
+    name: нопала чатиноский язык
+    auto: true
   - translation_iso: spa
     name: Chatino de Nopala
     auto: true

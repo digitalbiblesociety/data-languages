@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chin Senthang
     auto: true
+  - translation_iso: rus
+    name: сентанг чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Senthang
     auto: true

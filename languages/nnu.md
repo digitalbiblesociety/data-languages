@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dwang
     auto: true
+  - translation_iso: rus
+    name: двангский язык
+    auto: true
   - translation_iso: spa
     name: dwang
   - translation_iso: zho

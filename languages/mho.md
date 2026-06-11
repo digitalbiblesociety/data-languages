@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mashi (Zâmbia)
     auto: true
+  - translation_iso: rus
+    name: машийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mashi
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vanimo
     auto: true
+  - translation_iso: rus
+    name: ванимоский язык
+    auto: true
   - translation_iso: spa
     name: Vanimo
     auto: true

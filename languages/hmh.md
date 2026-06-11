@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmong Huishui do Sudoeste
     auto: true
+  - translation_iso: rus
+    name: сутвестерн хуишуи хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Huishui suroccidental
     auto: true

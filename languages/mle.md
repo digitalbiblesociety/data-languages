@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Manambu
     auto: true
+  - translation_iso: rus
+    name: манамбуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma manambu
   - translation_iso: zho

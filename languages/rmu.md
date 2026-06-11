@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Romani Tavringer
     auto: true
+  - translation_iso: rus
+    name: таврингер романийский язык
+    auto: true
   - translation_iso: spa
     name: Romaní tavringer
     auto: true

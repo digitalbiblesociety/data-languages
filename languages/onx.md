@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Pidgin Baseado em Onin
     auto: true
+  - translation_iso: rus
+    name: онин басед пидгинский язык
+    auto: true
   - translation_iso: spa
     name: Pidgin basado en Onin
     auto: true

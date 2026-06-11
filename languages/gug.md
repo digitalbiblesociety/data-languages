@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Guarani paraguaio (dialeto)
+  - translation_iso: rus
+    name: парагуаян гуаранийский язык
+    auto: true
   - translation_iso: spa
     name: guaraní paraguayo
   - translation_iso: zho

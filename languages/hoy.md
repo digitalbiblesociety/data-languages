@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Holiya
     auto: true
+  - translation_iso: rus
+    name: холийский язык
+    auto: true
   - translation_iso: spa
     name: Holiya
     auto: true

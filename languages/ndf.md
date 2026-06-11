@@ -29,6 +29,9 @@ translations:
   - translation_iso: por
     name: Nadruviano
     auto: true
+  - translation_iso: rus
+    name: надрувианский язык
+    auto: true
   - translation_iso: spa
     name: nadruviano
   - translation_iso: zho

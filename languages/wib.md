@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Toussian Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн туссианский язык
+    auto: true
   - translation_iso: spa
     name: Toussian del Sur
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Bikol de Miraya
     auto: true
+  - translation_iso: rus
+    name: мирая бикольский язык
+    auto: true
   - translation_iso: spa
     name: Bikol Miraya
     auto: true

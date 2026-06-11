@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Darkinyung
     auto: true
+  - translation_iso: rus
+    name: даркинюнгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma darkinjung
   - translation_iso: zho

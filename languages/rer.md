@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Rer Bare
     auto: true
+  - translation_iso: rus
+    name: рер барейский язык
+    auto: true
   - translation_iso: spa
     name: Rer Bare
     auto: true

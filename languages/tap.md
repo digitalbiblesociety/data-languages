@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Taabwa
     auto: true
+  - translation_iso: rus
+    name: таабвский язык
+    auto: true
   - translation_iso: spa
     name: Taabwa
     auto: true

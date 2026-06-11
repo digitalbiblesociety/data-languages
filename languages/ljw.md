@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Yirandali
     auto: true
+  - translation_iso: rus
+    name: йирандалийский язык
+    auto: true
   - translation_iso: spa
     name: Yirandali
     auto: true

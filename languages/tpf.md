@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tarpia
     auto: true
+  - translation_iso: rus
+    name: тарпиский язык
+    auto: true
   - translation_iso: spa
     name: Tarpia
     auto: true

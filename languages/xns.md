@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kanashi
     auto: true
+  - translation_iso: rus
+    name: канашийский язык
+    auto: true
   - translation_iso: spa
     name: Kanashi
     auto: true

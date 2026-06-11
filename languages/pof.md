@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Poke
     auto: true
+  - translation_iso: rus
+    name: покейский язык
+    auto: true
   - translation_iso: spa
     name: Poke
     auto: true

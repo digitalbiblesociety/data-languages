@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Rengao
     auto: true
+  - translation_iso: rus
+    name: ренгаоский язык
+    auto: true
   - translation_iso: spa
     name: Rengao
     auto: true

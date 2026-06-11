@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Angkamuthi
     auto: true
+  - translation_iso: rus
+    name: ангкамутийский язык
+    auto: true
   - translation_iso: spa
     name: Angkamuthi
     auto: true

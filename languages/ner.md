@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Yahadian
     auto: true
+  - translation_iso: rus
+    name: яхадианский язык
+    auto: true
   - translation_iso: spa
     name: Yahadian
     auto: true

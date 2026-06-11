@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tese
     auto: true
+  - translation_iso: rus
+    name: тесейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tese
   - translation_iso: zho

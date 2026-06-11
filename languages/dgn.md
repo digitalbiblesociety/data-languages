@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dagoman
     auto: true
+  - translation_iso: rus
+    name: дагоманский язык
+    auto: true
   - translation_iso: spa
     name: Dagoman
     auto: true

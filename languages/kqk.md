@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gbe de Kotafon
     auto: true
+  - translation_iso: rus
+    name: котафон гбейский язык
+    auto: true
   - translation_iso: spa
     name: Kotafon Gbe
     auto: true

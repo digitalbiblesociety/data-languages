@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Martuyhunira
     auto: true
+  - translation_iso: rus
+    name: мартуйхунирский язык
+    auto: true
   - translation_iso: spa
     name: Martuthunira
     auto: true

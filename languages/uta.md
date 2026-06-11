@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Otank
     auto: true
+  - translation_iso: rus
+    name: отанкский язык
+    auto: true
   - translation_iso: spa
     name: Otank
     auto: true

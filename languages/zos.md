@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zoque de Francisco León
     auto: true
+  - translation_iso: rus
+    name: франкиско леон зоквейский язык
+    auto: true
   - translation_iso: spa
     name: zoque de Francisco León
   - translation_iso: zho

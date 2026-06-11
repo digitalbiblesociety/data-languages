@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: koli de Kachi
     auto: true
+  - translation_iso: rus
+    name: качи колийский язык
+    auto: true
   - translation_iso: spa
     name: Kachi Koli
     auto: true

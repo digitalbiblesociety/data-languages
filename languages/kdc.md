@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kutu
     auto: true
+  - translation_iso: rus
+    name: кутуский язык
+    auto: true
   - translation_iso: spa
     name: Kutu
     auto: true

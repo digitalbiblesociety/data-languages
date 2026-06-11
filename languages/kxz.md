@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kerewo
     auto: true
+  - translation_iso: rus
+    name: керевоский язык
+    auto: true
   - translation_iso: spa
     name: Kerewo
     auto: true

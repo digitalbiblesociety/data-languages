@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Zire
     auto: true
+  - translation_iso: rus
+    name: зирейский язык
+    auto: true
   - translation_iso: spa
     name: idioma zire
   - translation_iso: zho

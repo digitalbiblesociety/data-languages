@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Noiri
     auto: true
+  - translation_iso: rus
+    name: ноирийский язык
+    auto: true
   - translation_iso: spa
     name: Noiri
     auto: true

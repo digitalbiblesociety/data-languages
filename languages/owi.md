@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Owiniga
     auto: true
+  - translation_iso: rus
+    name: овинигский язык
+    auto: true
   - translation_iso: spa
     name: Owiniga
   - translation_iso: zho

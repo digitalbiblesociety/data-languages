@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Fuyug
     auto: true
+  - translation_iso: rus
+    name: фуюгский язык
+    auto: true
   - translation_iso: spa
     name: Fuyug
     auto: true

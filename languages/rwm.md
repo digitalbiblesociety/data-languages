@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Amba (Uganda)
     auto: true
+  - translation_iso: rus
+    name: амбский язык
+    auto: true
   - translation_iso: spa
     name: Amba (Uganda)
     auto: true

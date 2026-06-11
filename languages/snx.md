@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sam
     auto: true
+  - translation_iso: rus
+    name: самский язык
+    auto: true
   - translation_iso: spa
     name: Sam
     auto: true

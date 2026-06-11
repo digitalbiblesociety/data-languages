@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Adabe
+  - translation_iso: rus
+    name: адабейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma adabe
   - translation_iso: zho

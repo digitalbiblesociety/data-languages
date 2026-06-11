@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aka-Kol
     auto: true
+  - translation_iso: rus
+    name: ака-кольский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kol
   - translation_iso: zho

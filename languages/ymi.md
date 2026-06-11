@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: moji
     auto: true
+  - translation_iso: rus
+    name: моджийский язык
+    auto: true
   - translation_iso: spa
     name: Moji
     auto: true

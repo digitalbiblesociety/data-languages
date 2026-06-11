@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gende
     auto: true
+  - translation_iso: rus
+    name: гендейский язык
+    auto: true
   - translation_iso: spa
     name: Gende
     auto: true

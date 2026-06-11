@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kakanda
     auto: true
+  - translation_iso: rus
+    name: какандский язык
+    auto: true
   - translation_iso: spa
     name: Kakanda
     auto: true

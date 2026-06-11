@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mori bawah
+  - translation_iso: rus
+    name: мори бавахский язык
+    auto: true
   - translation_iso: spa
     name: Mori Bawah
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nzakambay
     auto: true
+  - translation_iso: rus
+    name: нзакамбайский язык
+    auto: true
   - translation_iso: spa
     name: Nzakambay
     auto: true

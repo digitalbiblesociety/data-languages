@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kuanhua
     auto: true
+  - translation_iso: rus
+    name: куанхуский язык
+    auto: true
   - translation_iso: spa
     name: Kuanhua
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Busoa
     auto: true
+  - translation_iso: rus
+    name: бусоский язык
+    auto: true
   - translation_iso: spa
     name: Busoa
     auto: true

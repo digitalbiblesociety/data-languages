@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mlomp
     auto: true
+  - translation_iso: rus
+    name: мломпский язык
+    auto: true
   - translation_iso: spa
     name: mlomp
   - translation_iso: zho

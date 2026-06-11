@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Igede
     auto: true
+  - translation_iso: rus
+    name: игедейский язык
+    auto: true
   - translation_iso: spa
     name: Igede
     auto: true

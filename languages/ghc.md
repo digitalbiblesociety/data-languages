@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: gaélico hiberno-escocês
     auto: true
+  - translation_iso: rus
+    name: хиберно-скоттиш гаеликский язык
+    auto: true
   - translation_iso: spa
     name: gaélico clásico
   - translation_iso: zho

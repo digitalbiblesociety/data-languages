@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Muyu setentrional
     auto: true
+  - translation_iso: rus
+    name: норт муюский язык
+    auto: true
   - translation_iso: spa
     name: Muyu Septentrional
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kui (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: куийский язык
+    auto: true
   - translation_iso: spa
     name: Kui (Indonesia)
     auto: true

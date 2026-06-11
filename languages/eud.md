@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Eudeve
     auto: true
+  - translation_iso: rus
+    name: еудевейский язык
+    auto: true
   - translation_iso: spa
     name: idioma eudeve
   - translation_iso: zho

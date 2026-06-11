@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Gestual Hausa
+  - translation_iso: rus
+    name: хауса сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas hausa
     auto: true

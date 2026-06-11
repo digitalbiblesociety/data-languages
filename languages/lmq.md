@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lamatuka
     auto: true
+  - translation_iso: rus
+    name: ламатукский язык
+    auto: true
   - translation_iso: spa
     name: Lamatuka
     auto: true

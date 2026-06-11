@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ede Ica
     auto: true
+  - translation_iso: rus
+    name: еде икский язык
+    auto: true
   - translation_iso: spa
     name: Ede Ica
     auto: true

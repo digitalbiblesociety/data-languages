@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tajuasohn
     auto: true
+  - translation_iso: rus
+    name: таюасохнский язык
+    auto: true
   - translation_iso: spa
     name: Tajuasohn
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sara Kaba Deme
     auto: true
+  - translation_iso: rus
+    name: сара каба демейский язык
+    auto: true
   - translation_iso: spa
     name: Sara Kaba Deme
     auto: true

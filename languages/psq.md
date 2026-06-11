@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pasi
     auto: true
+  - translation_iso: rus
+    name: пасийский язык
+    auto: true
   - translation_iso: spa
     name: pasi
   - translation_iso: zho

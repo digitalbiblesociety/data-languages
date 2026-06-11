@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sobei
     auto: true
+  - translation_iso: rus
+    name: собеийский язык
+    auto: true
   - translation_iso: spa
     name: Sobei
     auto: true

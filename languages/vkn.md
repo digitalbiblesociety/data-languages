@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Koro Nulu
     auto: true
+  - translation_iso: rus
+    name: коро нулуский язык
+    auto: true
   - translation_iso: spa
     name: Koro Nulu
     auto: true

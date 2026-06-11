@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kinnauri Harijan
     auto: true
+  - translation_iso: rus
+    name: хариян киннаурийский язык
+    auto: true
   - translation_iso: spa
     name: Kinnauri Harijan
     auto: true

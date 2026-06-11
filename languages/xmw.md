@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malgaxe Tsimihety
     auto: true
+  - translation_iso: rus
+    name: цимихетй малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache tsimihety
     auto: true

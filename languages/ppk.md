@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Uma
     auto: true
+  - translation_iso: rus
+    name: умский язык
+    auto: true
   - translation_iso: spa
     name: Uma
     auto: true

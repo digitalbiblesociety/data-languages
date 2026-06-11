@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Kaki Ae
     auto: true
+  - translation_iso: rus
+    name: каки аейский язык
+    auto: true
   - translation_iso: spa
     name: Kaki Ae
     auto: true

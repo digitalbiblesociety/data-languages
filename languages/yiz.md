@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: azhe
     auto: true
+  - translation_iso: rus
+    name: ажейский язык
+    auto: true
   - translation_iso: spa
     name: Azhe
     auto: true

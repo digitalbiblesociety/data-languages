@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yaweyuha
     auto: true
+  - translation_iso: rus
+    name: явеюхский язык
+    auto: true
   - translation_iso: spa
     name: Yaweyuha
     auto: true

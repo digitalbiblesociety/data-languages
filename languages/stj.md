@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Samo Matya
     auto: true
+  - translation_iso: rus
+    name: матя самоский язык
+    auto: true
   - translation_iso: spa
     name: Samo Matya
     auto: true

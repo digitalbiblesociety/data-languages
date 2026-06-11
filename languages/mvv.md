@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Tagal Murut
+  - translation_iso: rus
+    name: тагал мурутский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Tagol
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Iko
     auto: true
+  - translation_iso: rus
+    name: икоский язык
+    auto: true
   - translation_iso: spa
     name: Iko
     auto: true

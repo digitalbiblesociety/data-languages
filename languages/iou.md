@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tuma-Irumu
     auto: true
+  - translation_iso: rus
+    name: тума-ирумуский язык
+    auto: true
   - translation_iso: spa
     name: Tuma-Irumu
     auto: true

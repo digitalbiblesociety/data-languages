@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nde-Nsele-Nta
     auto: true
+  - translation_iso: rus
+    name: нде-нселе-нтский язык
+    auto: true
   - translation_iso: spa
     name: nde
   - translation_iso: zho

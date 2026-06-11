@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: ǁXegwi
     auto: true
+  - translation_iso: rus
+    name: ксегвийский язык
+    auto: true
   - translation_iso: spa
     name: ǁXegwi
     auto: true

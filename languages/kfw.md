@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naga Kharam
     auto: true
+  - translation_iso: rus
+    name: харам нагский язык
+    auto: true
   - translation_iso: spa
     name: Kharam Naga
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Baruya
     auto: true
+  - translation_iso: rus
+    name: баруйский язык
+    auto: true
   - translation_iso: spa
     name: Baruya
     auto: true

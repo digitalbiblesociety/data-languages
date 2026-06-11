@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Mo'da"
     auto: true
+  - translation_iso: rus
+    name: модский язык
+    auto: true
   - translation_iso: spa
     name: moda
   - translation_iso: zho

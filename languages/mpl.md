@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: watut central
     auto: true
+  - translation_iso: rus
+    name: миддле ватутский язык
+    auto: true
   - translation_iso: spa
     name: Watut Medio
     auto: true

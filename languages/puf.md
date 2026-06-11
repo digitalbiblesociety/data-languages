@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Punan Merah
     auto: true
+  - translation_iso: rus
+    name: пунан мерахский язык
+    auto: true
   - translation_iso: spa
     name: Punan Merah
     auto: true

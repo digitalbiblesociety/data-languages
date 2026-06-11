@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kunduvadi
     auto: true
+  - translation_iso: rus
+    name: кундувадийский язык
+    auto: true
   - translation_iso: spa
     name: Kunduvadi
     auto: true

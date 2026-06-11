@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lobu de Tampias
     auto: true
+  - translation_iso: rus
+    name: тампиас лобуский язык
+    auto: true
   - translation_iso: spa
     name: Tampias Lobu
     auto: true

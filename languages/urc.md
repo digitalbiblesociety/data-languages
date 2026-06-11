@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Urningangg
     auto: true
+  - translation_iso: rus
+    name: урнинганггский язык
+    auto: true
   - translation_iso: spa
     name: Urningangg
     auto: true

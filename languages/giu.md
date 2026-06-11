@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mulao
     auto: true
+  - translation_iso: rus
+    name: мулаоский язык
+    auto: true
   - translation_iso: spa
     name: Mulao
     auto: true

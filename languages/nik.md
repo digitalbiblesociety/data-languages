@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nicobarês do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн никобаресейский язык
+    auto: true
   - translation_iso: spa
     name: Nicobaresino meridional
     auto: true

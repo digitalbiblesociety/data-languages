@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kumiai
     auto: true
+  - translation_iso: rus
+    name: кумиаийский язык
+    auto: true
   - translation_iso: spa
     name: diegueño
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: fulfulde do Níger ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн нигер фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde del Níger Occidental
     auto: true

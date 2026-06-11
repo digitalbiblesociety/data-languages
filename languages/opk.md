@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kopkaka
     auto: true
+  - translation_iso: rus
+    name: копкакский язык
+    auto: true
   - translation_iso: spa
     name: Kopkaka
     auto: true

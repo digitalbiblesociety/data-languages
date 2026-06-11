@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mayi-kutuna
+  - translation_iso: rus
+    name: маягудунский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mayi-kutuna
   - translation_iso: zho

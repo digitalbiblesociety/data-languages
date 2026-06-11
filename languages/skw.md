@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Holandês Crioulo de Skepi
     auto: true
+  - translation_iso: rus
+    name: скепи креоле дучский язык
+    auto: true
   - translation_iso: spa
     name: Criollo skepi
   - translation_iso: zho

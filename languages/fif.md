@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Faifi
     auto: true
+  - translation_iso: rus
+    name: фаифирский язык
+    auto: true
   - translation_iso: spa
     name: Faifi
     auto: true

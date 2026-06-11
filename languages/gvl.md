@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gulay
     auto: true
+  - translation_iso: rus
+    name: гулайский язык
+    auto: true
   - translation_iso: spa
     name: Gulay
     auto: true

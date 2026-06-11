@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gowro
     auto: true
+  - translation_iso: rus
+    name: говроский язык
+    auto: true
   - translation_iso: spa
     name: Gowro
     auto: true

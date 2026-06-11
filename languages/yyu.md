@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yau (Província de Sandaun)
     auto: true
+  - translation_iso: rus
+    name: яуский язык
+    auto: true
   - translation_iso: spa
     name: Yau (Provincia de Sandaun)
     auto: true

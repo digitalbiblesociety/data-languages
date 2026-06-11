@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Oroha
     auto: true
+  - translation_iso: rus
+    name: орохский язык
+    auto: true
   - translation_iso: spa
     name: oroha
   - translation_iso: zho

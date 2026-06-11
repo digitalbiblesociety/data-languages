@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kaningdon-Nindem
     auto: true
+  - translation_iso: rus
+    name: канингдон-ниндемский язык
+    auto: true
   - translation_iso: spa
     name: Kaningdon-Nindem
     auto: true

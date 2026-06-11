@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Jaitmatang
     auto: true
+  - translation_iso: rus
+    name: яитматангский язык
+    auto: true
   - translation_iso: spa
     name: Jaitmatang
     auto: true

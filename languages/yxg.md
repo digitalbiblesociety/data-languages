@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: yagara
     auto: true
+  - translation_iso: rus
+    name: ягарский язык
+    auto: true
   - translation_iso: spa
     name: Idioma turrubul
   - translation_iso: zho

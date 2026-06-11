@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kuni-Boazi
     auto: true
+  - translation_iso: rus
+    name: куни-боазийский язык
+    auto: true
   - translation_iso: spa
     name: Kuni-Boazi
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Kuku-Mangk
     auto: true
+  - translation_iso: rus
+    name: куку-мангкский язык
+    auto: true
   - translation_iso: spa
     name: Kuku-Mangk
     auto: true

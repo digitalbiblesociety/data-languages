@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua talinga
+  - translation_iso: rus
+    name: талинга-бвисийский язык
+    auto: true
   - translation_iso: spa
     name: Talinga-Bwisi
     auto: true

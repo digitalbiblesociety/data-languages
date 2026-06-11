@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Huave de San Dionisio del Mar
     auto: true
+  - translation_iso: rus
+    name: сан дионисио дел мар хуавейский язык
+    auto: true
   - translation_iso: spa
     name: huave de San Dionisio del Mar
   - translation_iso: zho

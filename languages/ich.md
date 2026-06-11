@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Etkywan
     auto: true
+  - translation_iso: rus
+    name: еткйванский язык
+    auto: true
   - translation_iso: spa
     name: Etkywan
     auto: true

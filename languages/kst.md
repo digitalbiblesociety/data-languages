@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Winyé
     auto: true
+  - translation_iso: rus
+    name: винйейский язык
+    auto: true
   - translation_iso: spa
     name: Winyé
     auto: true

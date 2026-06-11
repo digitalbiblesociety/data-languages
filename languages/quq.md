@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Quinqui
     auto: true
+  - translation_iso: rus
+    name: квинквийский язык
+    auto: true
   - translation_iso: spa
     name: idioma quinqui
   - translation_iso: zho

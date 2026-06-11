@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: minyag oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн минягский язык
+    auto: true
   - translation_iso: spa
     name: Minyag Oriental
     auto: true

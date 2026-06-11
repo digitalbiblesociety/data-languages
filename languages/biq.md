@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bipi
     auto: true
+  - translation_iso: rus
+    name: бипийский язык
+    auto: true
   - translation_iso: spa
     name: Bipi
   - translation_iso: zho

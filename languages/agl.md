@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fembe
     auto: true
+  - translation_iso: rus
+    name: фембейский язык
+    auto: true
   - translation_iso: spa
     name: Fembe
     auto: true

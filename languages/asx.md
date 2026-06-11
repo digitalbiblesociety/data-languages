@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Muratayak
     auto: true
+  - translation_iso: rus
+    name: муратаякский язык
+    auto: true
   - translation_iso: spa
     name: Muratayak
     auto: true

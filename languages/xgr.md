@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Garza
     auto: true
+  - translation_iso: rus
+    name: гарзский язык
+    auto: true
   - translation_iso: spa
     name: idioma garza
   - translation_iso: zho

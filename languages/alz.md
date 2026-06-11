@@ -36,6 +36,9 @@ translations:
     name: 알루르어
   - translation_iso: por
     name: Língua alur
+  - translation_iso: rus
+    name: алурский язык
+    auto: true
   - translation_iso: spa
     name: Alur
     auto: true

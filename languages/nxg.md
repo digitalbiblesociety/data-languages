@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ngada
+  - translation_iso: rus
+    name: нгадский язык
+    auto: true
   - translation_iso: spa
     name: Ngada
   - translation_iso: zho

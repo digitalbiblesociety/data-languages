@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nete
     auto: true
+  - translation_iso: rus
+    name: нетейский язык
+    auto: true
   - translation_iso: spa
     name: Nete
     auto: true

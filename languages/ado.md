@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua adjora
+  - translation_iso: rus
+    name: абуский язык
+    auto: true
   - translation_iso: spa
     name: Abu
     auto: true

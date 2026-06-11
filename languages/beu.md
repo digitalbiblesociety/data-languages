@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua blagar
+  - translation_iso: rus
+    name: благарский язык
+    auto: true
   - translation_iso: spa
     name: Blagar
     auto: true

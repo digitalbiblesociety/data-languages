@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Panawa
     auto: true
+  - translation_iso: rus
+    name: панавский язык
+    auto: true
   - translation_iso: spa
     name: Panawa
     auto: true

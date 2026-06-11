@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lembata ocidental
     auto: true
+  - translation_iso: rus
+    name: вест лембатский язык
+    auto: true
   - translation_iso: spa
     name: Lembata occidental
     auto: true

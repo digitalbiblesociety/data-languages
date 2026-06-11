@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Papuma
     auto: true
+  - translation_iso: rus
+    name: папумский язык
+    auto: true
   - translation_iso: spa
     name: Papuma
     auto: true

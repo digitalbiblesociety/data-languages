@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tutsa Naga
     auto: true
+  - translation_iso: rus
+    name: туца нагский язык
+    auto: true
   - translation_iso: spa
     name: Tutsa Naga
     auto: true

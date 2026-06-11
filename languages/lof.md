@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Logol
     auto: true
+  - translation_iso: rus
+    name: логольский язык
+    auto: true
   - translation_iso: spa
     name: Logol
     auto: true

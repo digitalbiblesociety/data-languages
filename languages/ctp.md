@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chatino das Terras Altas Ocidentais
     auto: true
+  - translation_iso: rus
+    name: вестерн хигхланд чатиноский язык
+    auto: true
   - translation_iso: spa
     name: Chatino central
   - translation_iso: zho

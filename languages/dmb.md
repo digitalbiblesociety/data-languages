@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Mombo
     auto: true
+  - translation_iso: rus
+    name: момбо догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Mombo
     auto: true

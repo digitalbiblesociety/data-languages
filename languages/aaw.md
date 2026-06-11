@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Solong
     auto: true
+  - translation_iso: rus
+    name: солонгский язык
+    auto: true
   - translation_iso: spa
     name: Solong
     auto: true

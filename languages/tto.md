@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Ta'oih Meridional"
     auto: true
+  - translation_iso: rus
+    name: ловер таоихский язык
+    auto: true
   - translation_iso: spa
     name: "Ta'oih meridional"
     auto: true

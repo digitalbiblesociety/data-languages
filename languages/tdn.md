@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tondano
+  - translation_iso: rus
+    name: тонданоский язык
+    auto: true
   - translation_iso: spa
     name: Tondano
     auto: true

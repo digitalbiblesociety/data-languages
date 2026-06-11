@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Binukidnon setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн бинукиднонский язык
+    auto: true
   - translation_iso: spa
     name: idioma carolano
   - translation_iso: zho

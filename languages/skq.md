@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sininkere
     auto: true
+  - translation_iso: rus
+    name: сининкерейский язык
+    auto: true
   - translation_iso: spa
     name: Sininkere
     auto: true

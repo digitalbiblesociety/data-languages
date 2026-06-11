@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ashéninka Perené
     auto: true
+  - translation_iso: rus
+    name: ашенинка перенейский язык
+    auto: true
   - translation_iso: spa
     name: Ashéninka Perené
     auto: true

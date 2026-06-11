@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Eman
     auto: true
+  - translation_iso: rus
+    name: еманский язык
+    auto: true
   - translation_iso: spa
     name: Eman
     auto: true

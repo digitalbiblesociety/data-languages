@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Leyigha
     auto: true
+  - translation_iso: rus
+    name: лейигхский язык
+    auto: true
   - translation_iso: spa
     name: Leyigha
     auto: true

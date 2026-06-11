@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Baygo
     auto: true
+  - translation_iso: rus
+    name: байгоский язык
+    auto: true
   - translation_iso: spa
     name: Baygo
     auto: true

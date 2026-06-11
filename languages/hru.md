@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Hruso
     auto: true
+  - translation_iso: rus
+    name: хрусоский язык
+    auto: true
   - translation_iso: spa
     name: idioma hruso
   - translation_iso: zho

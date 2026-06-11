@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: ache
     auto: true
+  - translation_iso: rus
+    name: ачейский язык
+    auto: true
   - translation_iso: spa
     name: Ache
     auto: true

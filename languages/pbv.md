@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pnar
     auto: true
+  - translation_iso: rus
+    name: пнарский язык
+    auto: true
   - translation_iso: spa
     name: idioma pnar
   - translation_iso: zho

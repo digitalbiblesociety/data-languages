@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Port Sandwich
     auto: true
+  - translation_iso: rus
+    name: порт сандвичский язык
+    auto: true
   - translation_iso: spa
     name: Port Sandwich
     auto: true

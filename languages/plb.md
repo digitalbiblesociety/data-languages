@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Polonombauk
     auto: true
+  - translation_iso: rus
+    name: полономбаукский язык
+    auto: true
   - translation_iso: spa
     name: Polonombauk
     auto: true

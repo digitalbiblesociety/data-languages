@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kwami
     auto: true
+  - translation_iso: rus
+    name: квамийский язык
+    auto: true
   - translation_iso: spa
     name: Kwami
     auto: true

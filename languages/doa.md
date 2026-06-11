@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dom
     auto: true
+  - translation_iso: rus
+    name: домский язык
+    auto: true
   - translation_iso: spa
     name: Dom
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Aizi Mobumrin
     auto: true
+  - translation_iso: rus
+    name: мобумрин аизийский язык
+    auto: true
   - translation_iso: spa
     name: mobu
   - translation_iso: zho

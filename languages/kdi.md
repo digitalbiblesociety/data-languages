@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kumam
     auto: true
+  - translation_iso: rus
+    name: кумамский язык
+    auto: true
   - translation_iso: spa
     name: Kumam
     auto: true

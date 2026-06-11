@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ngen
     auto: true
+  - translation_iso: rus
+    name: нгенский язык
+    auto: true
   - translation_iso: spa
     name: Ngen
     auto: true

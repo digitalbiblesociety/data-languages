@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Oroko
     auto: true
+  - translation_iso: rus
+    name: орокоский язык
+    auto: true
   - translation_iso: spa
     name: Oroko
     auto: true

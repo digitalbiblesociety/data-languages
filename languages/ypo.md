@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: phola alo
     auto: true
+  - translation_iso: rus
+    name: ало фолский язык
+    auto: true
   - translation_iso: spa
     name: Alo Phola
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Berakou
     auto: true
+  - translation_iso: rus
+    name: беракуский язык
+    auto: true
   - translation_iso: spa
     name: Berakou
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Warrwa
     auto: true
+  - translation_iso: rus
+    name: варрвский язык
+    auto: true
   - translation_iso: spa
     name: Warrwa
     auto: true

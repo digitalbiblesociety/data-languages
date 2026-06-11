@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yangum gel
     auto: true
+  - translation_iso: rus
+    name: янгум гельский язык
+    auto: true
   - translation_iso: spa
     name: Yangum Gel
     auto: true

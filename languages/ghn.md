@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ghanongga
     auto: true
+  - translation_iso: rus
+    name: гханонггский язык
+    auto: true
   - translation_iso: spa
     name: Ghanongga
   - translation_iso: zho

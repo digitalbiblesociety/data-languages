@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Migabac
     auto: true
+  - translation_iso: rus
+    name: мигабакский язык
+    auto: true
   - translation_iso: spa
     name: Migabac
     auto: true

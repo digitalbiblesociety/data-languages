@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vidunda
     auto: true
+  - translation_iso: rus
+    name: видундский язык
+    auto: true
   - translation_iso: spa
     name: Vidunda
     auto: true

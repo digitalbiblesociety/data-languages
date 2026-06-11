@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: mixteco de Atatláhuca
     auto: true
+  - translation_iso: rus
+    name: ататлахука микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Atatláhuca
     auto: true

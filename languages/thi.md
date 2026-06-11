@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Tai Long
     auto: true
+  - translation_iso: rus
+    name: таи лонгский язык
+    auto: true
   - translation_iso: spa
     name: Tai Long
     auto: true

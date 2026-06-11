@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Izii
     auto: true
+  - translation_iso: rus
+    name: изиийский язык
+    auto: true
   - translation_iso: spa
     name: Izii
     auto: true

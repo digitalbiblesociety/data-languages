@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bunuba
     auto: true
+  - translation_iso: rus
+    name: бунубский язык
+    auto: true
   - translation_iso: spa
     name: Bunuba
   - translation_iso: zho

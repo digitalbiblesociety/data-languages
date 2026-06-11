@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Saweru
     auto: true
+  - translation_iso: rus
+    name: саверуский язык
+    auto: true
   - translation_iso: spa
     name: saweru
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Barombi
     auto: true
+  - translation_iso: rus
+    name: баромбийский язык
+    auto: true
   - translation_iso: spa
     name: Barombi
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Agta de Isarog
     auto: true
+  - translation_iso: rus
+    name: исарог агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta de Isarog
     auto: true

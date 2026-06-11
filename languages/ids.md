@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Idesa
     auto: true
+  - translation_iso: rus
+    name: идесский язык
+    auto: true
   - translation_iso: spa
     name: Idesa
     auto: true

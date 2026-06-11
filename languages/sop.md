@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua songe
+  - translation_iso: rus
+    name: сонгейский язык
+    auto: true
   - translation_iso: spa
     name: Songe
     auto: true

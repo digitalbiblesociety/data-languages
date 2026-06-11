@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Marma
     auto: true
+  - translation_iso: rus
+    name: мармский язык
+    auto: true
   - translation_iso: spa
     name: Marma
     auto: true

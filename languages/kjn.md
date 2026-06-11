@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kunjen
+  - translation_iso: rus
+    name: куненский язык
+    auto: true
   - translation_iso: spa
     name: idioma kunjen
   - translation_iso: zho

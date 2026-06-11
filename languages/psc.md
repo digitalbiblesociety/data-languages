@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Persa
     auto: true
+  - translation_iso: rus
+    name: персиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas persa
     auto: true

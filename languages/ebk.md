@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bontok Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн бонтокский язык
+    auto: true
   - translation_iso: spa
     name: Bontok Oriental
     auto: true

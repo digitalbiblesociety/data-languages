@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tabriak
     auto: true
+  - translation_iso: rus
+    name: табриакский язык
+    auto: true
   - translation_iso: spa
     name: Tabriak
     auto: true

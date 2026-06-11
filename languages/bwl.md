@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bwela
     auto: true
+  - translation_iso: rus
+    name: бвелский язык
+    auto: true
   - translation_iso: spa
     name: Bwela
     auto: true

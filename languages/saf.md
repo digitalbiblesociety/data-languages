@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Safaliba
     auto: true
+  - translation_iso: rus
+    name: сафалибский язык
+    auto: true
   - translation_iso: spa
     name: safaliba
   - translation_iso: zho

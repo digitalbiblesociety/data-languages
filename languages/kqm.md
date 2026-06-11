@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Khisa
     auto: true
+  - translation_iso: rus
+    name: хисский язык
+    auto: true
   - translation_iso: spa
     name: Khisa
     auto: true

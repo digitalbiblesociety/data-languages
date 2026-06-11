@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sissano
     auto: true
+  - translation_iso: rus
+    name: сиссаноский язык
+    auto: true
   - translation_iso: spa
     name: Sissano
     auto: true

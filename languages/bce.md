@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bamenyam
     auto: true
+  - translation_iso: rus
+    name: баменямский язык
+    auto: true
   - translation_iso: spa
     name: Bamenyam
     auto: true

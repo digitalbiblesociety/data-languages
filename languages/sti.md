@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Stieng Bulo
     auto: true
+  - translation_iso: rus
+    name: було стиенгский язык
+    auto: true
   - translation_iso: spa
     name: Stieng Bulo
     auto: true

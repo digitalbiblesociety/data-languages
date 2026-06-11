@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Machinere
     auto: true
+  - translation_iso: rus
+    name: мачинерейский язык
+    auto: true
   - translation_iso: spa
     name: Machinere
     auto: true

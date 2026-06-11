@@ -36,6 +36,9 @@ translations:
     name: 치타공어
   - translation_iso: por
     name: Língua chittagong
+  - translation_iso: rus
+    name: читтагонианский язык
+    auto: true
   - translation_iso: spa
     name: Idioma chittagoniano
   - translation_iso: zho

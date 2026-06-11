@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mazaua de Michoacán
     auto: true
+  - translation_iso: rus
+    name: мичоакан мазахуский язык
+    auto: true
   - translation_iso: spa
     name: Mazahua de Michoacán
     auto: true

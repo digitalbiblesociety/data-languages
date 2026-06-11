@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: gepo
     auto: true
+  - translation_iso: rus
+    name: гепоский язык
+    auto: true
   - translation_iso: spa
     name: Gepo
     auto: true

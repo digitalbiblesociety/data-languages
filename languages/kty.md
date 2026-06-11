@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kango (Distrito de Bas-Uélé)
     auto: true
+  - translation_iso: rus
+    name: кангоский язык
+    auto: true
   - translation_iso: spa
     name: Kango (distrito de Bas-Uélé)
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Walangama
     auto: true
+  - translation_iso: rus
+    name: валангамский язык
+    auto: true
   - translation_iso: spa
     name: idioma walangama
   - translation_iso: zho

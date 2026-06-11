@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ganglau
     auto: true
+  - translation_iso: rus
+    name: ганглауский язык
+    auto: true
   - translation_iso: spa
     name: Ganglau
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Paleni
     auto: true
+  - translation_iso: rus
+    name: паленийский язык
+    auto: true
   - translation_iso: spa
     name: Paleni
     auto: true

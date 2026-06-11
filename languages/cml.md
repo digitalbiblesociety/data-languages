@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Campalagian
     auto: true
+  - translation_iso: rus
+    name: кампалагианский язык
+    auto: true
   - translation_iso: spa
     name: Campalagian
     auto: true

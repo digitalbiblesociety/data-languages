@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dusun de Sugut
     auto: true
+  - translation_iso: rus
+    name: сугут дусунский язык
+    auto: true
   - translation_iso: spa
     name: Dusun del Sugut
     auto: true

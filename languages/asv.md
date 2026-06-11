@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua asoa
+  - translation_iso: rus
+    name: асоский язык
+    auto: true
   - translation_iso: spa
     name: Asoa
     auto: true

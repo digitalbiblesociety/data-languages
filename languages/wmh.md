@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Waima'a"
     auto: true
+  - translation_iso: rus
+    name: ваимаский язык
+    auto: true
   - translation_iso: spa
     name: "Waima'a"
     auto: true

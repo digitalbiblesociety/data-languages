@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbembe do Cross River
     auto: true
+  - translation_iso: rus
+    name: кросс ривер мбембейский язык
+    auto: true
   - translation_iso: spa
     name: Mbembe del Cross River
     auto: true

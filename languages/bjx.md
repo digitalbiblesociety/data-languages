@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Banao Itneg
     auto: true
+  - translation_iso: rus
+    name: банао итнегский язык
+    auto: true
   - translation_iso: spa
     name: Itneg Banao
     auto: true

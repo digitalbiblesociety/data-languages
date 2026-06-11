@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ikhin-Aokho
     auto: true
+  - translation_iso: rus
+    name: ихин-аохоский язык
+    auto: true
   - translation_iso: spa
     name: Ikhin-Aokho
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ruund
     auto: true
+  - translation_iso: rus
+    name: руундский язык
+    auto: true
   - translation_iso: spa
     name: Ruund
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Goreng
     auto: true
+  - translation_iso: rus
+    name: горенгский язык
+    auto: true
   - translation_iso: spa
     name: Goreng
     auto: true

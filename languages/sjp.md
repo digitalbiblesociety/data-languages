@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Surjapuri
     auto: true
+  - translation_iso: rus
+    name: суряпурийский язык
+    auto: true
   - translation_iso: spa
     name: Surjapuri
     auto: true

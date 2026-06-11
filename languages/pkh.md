@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Pangkhua
+  - translation_iso: rus
+    name: панхуский язык
+    auto: true
   - translation_iso: spa
     name: Lengua pangkhu
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Manobo dibabawon
     auto: true
+  - translation_iso: rus
+    name: дибабавон манобоский язык
+    auto: true
   - translation_iso: spa
     name: Manobo Dibabawon
     auto: true

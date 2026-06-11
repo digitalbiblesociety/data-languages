@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: South West Bay
     auto: true
+  - translation_iso: rus
+    name: сут вест байский язык
+    auto: true
   - translation_iso: spa
     name: South West Bay
     auto: true

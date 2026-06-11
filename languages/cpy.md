@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ashéninka do Ucayali do Sul
     auto: true
+  - translation_iso: rus
+    name: сут укаяли ашенинкский язык
+    auto: true
   - translation_iso: spa
     name: Ashéninka del Sur del Ucayali
     auto: true

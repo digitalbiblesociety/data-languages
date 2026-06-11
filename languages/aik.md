@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ake
     auto: true
+  - translation_iso: rus
+    name: акейский язык
+    auto: true
   - translation_iso: spa
     name: Ake
     auto: true

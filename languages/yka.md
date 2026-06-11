@@ -37,6 +37,9 @@ translations:
     name: 야칸어
   - translation_iso: por
     name: língua yakan
+  - translation_iso: rus
+    name: яканский язык
+    auto: true
   - translation_iso: spa
     name: yacán
   - translation_iso: zho

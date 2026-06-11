@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naki
     auto: true
+  - translation_iso: rus
+    name: накийский язык
+    auto: true
   - translation_iso: spa
     name: Naki
     auto: true

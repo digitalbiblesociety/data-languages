@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tamazight de Tidikelt
     auto: true
+  - translation_iso: rus
+    name: тидикелт тамазигхтский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tidikelt
   - translation_iso: zho

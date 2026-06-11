@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kalinga do Vale Mabaka
     auto: true
+  - translation_iso: rus
+    name: мабака валлей калингский язык
+    auto: true
   - translation_iso: spa
     name: Kalinga del Valle Mabaka
     auto: true

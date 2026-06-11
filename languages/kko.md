@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Karko
     auto: true
+  - translation_iso: rus
+    name: каркоский язык
+    auto: true
   - translation_iso: spa
     name: karko
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua wanda
+  - translation_iso: rus
+    name: вандский язык
+    auto: true
   - translation_iso: spa
     name: Wanda
     auto: true

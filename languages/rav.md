@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sampang
     auto: true
+  - translation_iso: rus
+    name: сампангский язык
+    auto: true
   - translation_iso: spa
     name: Sampang
     auto: true

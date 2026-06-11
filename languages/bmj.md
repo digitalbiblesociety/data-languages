@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bote-Darai
     auto: true
+  - translation_iso: rus
+    name: боте-дараийский язык
+    auto: true
   - translation_iso: spa
     name: Bote-Darai
     auto: true

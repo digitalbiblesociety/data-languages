@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yi naluo
     auto: true
+  - translation_iso: rus
+    name: налуо йийский язык
+    auto: true
   - translation_iso: spa
     name: Yi Naluo
     auto: true

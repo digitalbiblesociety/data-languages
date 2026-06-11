@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Warnang
     auto: true
+  - translation_iso: rus
+    name: варнангский язык
+    auto: true
   - translation_iso: spa
     name: Warnang
     auto: true

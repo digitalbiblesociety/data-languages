@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Santa Lucía Monteverde
     auto: true
+  - translation_iso: rus
+    name: санта лукиа монтеверде микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Santa Lucía Monteverde
     auto: true

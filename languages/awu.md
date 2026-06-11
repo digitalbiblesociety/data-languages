@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Awyu Central
     auto: true
+  - translation_iso: rus
+    name: кентрал авюский язык
+    auto: true
   - translation_iso: spa
     name: Awyu Central
     auto: true

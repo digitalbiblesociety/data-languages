@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bun
     auto: true
+  - translation_iso: rus
+    name: бунский язык
+    auto: true
   - translation_iso: spa
     name: Bun
     auto: true

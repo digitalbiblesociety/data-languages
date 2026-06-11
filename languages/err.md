@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Erre
     auto: true
+  - translation_iso: rus
+    name: еррейский язык
+    auto: true
   - translation_iso: spa
     name: Erre
     auto: true

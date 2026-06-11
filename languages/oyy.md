@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: "Oya'oya"
     auto: true
+  - translation_iso: rus
+    name: ояойский язык
+    auto: true
   - translation_iso: spa
     name: "Oya'oya"
     auto: true

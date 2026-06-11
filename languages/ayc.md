@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Aimará do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн аймарский язык
+    auto: true
   - translation_iso: spa
     name: Aimara Sureño
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kyerung
     auto: true
+  - translation_iso: rus
+    name: керунгский язык
+    auto: true
   - translation_iso: spa
     name: Kyerung
     auto: true

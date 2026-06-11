@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Susuami
     auto: true
+  - translation_iso: rus
+    name: сусуамийский язык
+    auto: true
   - translation_iso: spa
     name: Susuami
     auto: true

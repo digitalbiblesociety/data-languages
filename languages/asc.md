@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Asmat da Costa de Casuarina
     auto: true
+  - translation_iso: rus
+    name: касуарина коаст асматский язык
+    auto: true
   - translation_iso: spa
     name: Asmat de la costa Casuarina
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Simte
     auto: true
+  - translation_iso: rus
+    name: симтейский язык
+    auto: true
   - translation_iso: spa
     name: Simte
     auto: true

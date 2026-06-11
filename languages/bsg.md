@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bashkardi
     auto: true
+  - translation_iso: rus
+    name: башкардийский язык
+    auto: true
   - translation_iso: spa
     name: Bashkardi
   - translation_iso: zho

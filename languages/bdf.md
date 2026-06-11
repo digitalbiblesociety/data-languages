@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Biage
     auto: true
+  - translation_iso: rus
+    name: биагейский язык
+    auto: true
   - translation_iso: spa
     name: Biage
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Efutop
     auto: true
+  - translation_iso: rus
+    name: ефутопский язык
+    auto: true
   - translation_iso: spa
     name: efutop
   - translation_iso: zho

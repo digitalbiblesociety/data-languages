@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kamasa
     auto: true
+  - translation_iso: rus
+    name: камасский язык
+    auto: true
   - translation_iso: spa
     name: Kamasa
     auto: true

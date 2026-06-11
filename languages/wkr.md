@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Keerray-Woorroong
     auto: true
+  - translation_iso: rus
+    name: киррай-вуррунгский язык
+    auto: true
   - translation_iso: spa
     name: Keerray-Woorroong
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Akolet
     auto: true
+  - translation_iso: rus
+    name: аколетский язык
+    auto: true
   - translation_iso: spa
     name: Akolet
     auto: true

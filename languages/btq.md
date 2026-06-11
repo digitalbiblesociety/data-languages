@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Batek
     auto: true
+  - translation_iso: rus
+    name: батекский язык
+    auto: true
   - translation_iso: spa
     name: Batek
     auto: true

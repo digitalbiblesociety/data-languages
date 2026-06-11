@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bondum
+  - translation_iso: rus
+    name: бондум дом догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Bondum Dom
     auto: true

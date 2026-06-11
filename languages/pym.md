@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fyam
     auto: true
+  - translation_iso: rus
+    name: фямский язык
+    auto: true
   - translation_iso: spa
     name: Fyam
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Anasi
     auto: true
+  - translation_iso: rus
+    name: анасийский язык
+    auto: true
   - translation_iso: spa
     name: Anasi
     auto: true

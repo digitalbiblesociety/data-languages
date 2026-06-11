@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gabri
     auto: true
+  - translation_iso: rus
+    name: габрийский язык
+    auto: true
   - translation_iso: spa
     name: Gabri
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zauzou
     auto: true
+  - translation_iso: rus
+    name: заузуский язык
+    auto: true
   - translation_iso: spa
     name: Zauzou
     auto: true

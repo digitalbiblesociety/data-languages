@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malimba
     auto: true
+  - translation_iso: rus
+    name: малимбский язык
+    auto: true
   - translation_iso: spa
     name: Malimba
     auto: true

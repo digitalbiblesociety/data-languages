@@ -29,6 +29,9 @@ translations:
   - translation_iso: por
     name: Karenggapa
     auto: true
+  - translation_iso: rus
+    name: каренггапский язык
+    auto: true
   - translation_iso: spa
     name: Karenggapa
     auto: true

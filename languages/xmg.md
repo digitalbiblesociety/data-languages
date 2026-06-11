@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mengaka
     auto: true
+  - translation_iso: rus
+    name: менгакский язык
+    auto: true
   - translation_iso: spa
     name: Mengaka
     auto: true

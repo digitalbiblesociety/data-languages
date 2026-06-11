@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Doondo
     auto: true
+  - translation_iso: rus
+    name: дундоский язык
+    auto: true
   - translation_iso: spa
     name: Doondo
     auto: true

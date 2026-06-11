@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Amo
     auto: true
+  - translation_iso: rus
+    name: амоский язык
+    auto: true
   - translation_iso: spa
     name: Amo
     auto: true

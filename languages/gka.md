@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Guya
     auto: true
+  - translation_iso: rus
+    name: гуйский язык
+    auto: true
   - translation_iso: spa
     name: Guya
     auto: true

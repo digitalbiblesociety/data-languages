@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Idaté
     auto: true
+  - translation_iso: rus
+    name: идатейский язык
+    auto: true
   - translation_iso: spa
     name: Idaté
     auto: true

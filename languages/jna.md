@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jangshung
     auto: true
+  - translation_iso: rus
+    name: янгшунгский язык
+    auto: true
   - translation_iso: spa
     name: Jangshung
     auto: true

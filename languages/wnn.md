@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Wunumara
     auto: true
+  - translation_iso: rus
+    name: вунумарский язык
+    auto: true
   - translation_iso: spa
     name: Wunumara
     auto: true

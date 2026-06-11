@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Alangan
     auto: true
+  - translation_iso: rus
+    name: аланганский язык
+    auto: true
   - translation_iso: spa
     name: Alangan
     auto: true

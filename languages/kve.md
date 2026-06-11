@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kalabakan
     auto: true
+  - translation_iso: rus
+    name: калабаканский язык
+    auto: true
   - translation_iso: spa
     name: Kalabakan
     auto: true

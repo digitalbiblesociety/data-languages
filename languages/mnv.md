@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua rennellesa
+  - translation_iso: rus
+    name: реннелл-беллонский язык
+    auto: true
   - translation_iso: spa
     name: Rennell-Bellona
     auto: true

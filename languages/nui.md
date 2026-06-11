@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ngumbi
     auto: true
+  - translation_iso: rus
+    name: нгумбийский язык
+    auto: true
   - translation_iso: spa
     name: kombe
   - translation_iso: zho

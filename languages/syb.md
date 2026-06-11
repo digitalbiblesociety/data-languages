@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Subanen Central
     auto: true
+  - translation_iso: rus
+    name: кентрал субаненский язык
+    auto: true
   - translation_iso: spa
     name: Subanen central
     auto: true

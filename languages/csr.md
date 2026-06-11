@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais da Costa Rica
+  - translation_iso: rus
+    name: коста рикан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas costarricense
   - translation_iso: zho

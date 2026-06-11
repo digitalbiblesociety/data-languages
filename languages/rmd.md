@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dinamarquês dos Viajantes
     auto: true
+  - translation_iso: rus
+    name: травеллер данишский язык
+    auto: true
   - translation_iso: spa
     name: Viajero danés
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mpinda
     auto: true
+  - translation_iso: rus
+    name: мпиндский язык
+    auto: true
   - translation_iso: spa
     name: Mpinda
   - translation_iso: zho

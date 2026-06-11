@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Agta do Monte Iraya
     auto: true
+  - translation_iso: rus
+    name: мт ирая агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta del monte Iraya
     auto: true

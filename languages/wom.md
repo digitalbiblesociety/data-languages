@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wom (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: вомский язык
+    auto: true
   - translation_iso: spa
     name: Wom (Nigeria)
     auto: true

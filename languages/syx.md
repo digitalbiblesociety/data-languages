@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Samay
     auto: true
+  - translation_iso: rus
+    name: самайский язык
+    auto: true
   - translation_iso: spa
     name: Samay
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mbunga
     auto: true
+  - translation_iso: rus
+    name: мбунгский язык
+    auto: true
   - translation_iso: spa
     name: Mbunga
     auto: true

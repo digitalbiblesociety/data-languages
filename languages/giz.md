@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: giziga do sul
     auto: true
+  - translation_iso: rus
+    name: сут гизигский язык
+    auto: true
   - translation_iso: spa
     name: Giziga meridional
     auto: true

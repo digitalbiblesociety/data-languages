@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Usarufa
     auto: true
+  - translation_iso: rus
+    name: усаруфский язык
+    auto: true
   - translation_iso: spa
     name: Usarufa
     auto: true

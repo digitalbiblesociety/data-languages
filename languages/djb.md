@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua djimba
+  - translation_iso: rus
+    name: дджинбский язык
+    auto: true
   - translation_iso: spa
     name: Djinba
     auto: true

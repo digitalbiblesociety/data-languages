@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Basa-Gurmana
     auto: true
+  - translation_iso: rus
+    name: баса-гурманский язык
+    auto: true
   - translation_iso: spa
     name: Basa-Gurmana
     auto: true

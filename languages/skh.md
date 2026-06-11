@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sikule
     auto: true
+  - translation_iso: rus
+    name: сикулейский язык
+    auto: true
   - translation_iso: spa
     name: Sikule
     auto: true

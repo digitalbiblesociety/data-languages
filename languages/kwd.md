@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kwaio
+  - translation_iso: rus
+    name: кваиоский язык
+    auto: true
   - translation_iso: spa
     name: Kwaio
     auto: true

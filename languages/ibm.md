@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Agoi
     auto: true
+  - translation_iso: rus
+    name: агоийский язык
+    auto: true
   - translation_iso: spa
     name: Agoi
     auto: true

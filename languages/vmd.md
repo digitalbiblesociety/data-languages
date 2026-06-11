@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mudu Koraga
     auto: true
+  - translation_iso: rus
+    name: муду корагский язык
+    auto: true
   - translation_iso: spa
     name: Mudu Koraga
     auto: true

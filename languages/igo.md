@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Isebe
     auto: true
+  - translation_iso: rus
+    name: исебейский язык
+    auto: true
   - translation_iso: spa
     name: Isebe
     auto: true

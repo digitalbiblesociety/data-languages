@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jahanka
     auto: true
+  - translation_iso: rus
+    name: яханкский язык
+    auto: true
   - translation_iso: spa
     name: Jahanka
     auto: true

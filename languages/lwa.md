@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lwalu
     auto: true
+  - translation_iso: rus
+    name: лвалуский язык
+    auto: true
   - translation_iso: spa
     name: Lwalu
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aekyom
     auto: true
+  - translation_iso: rus
+    name: аекйомский язык
+    auto: true
   - translation_iso: spa
     name: Idioma aekyom
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Enya
     auto: true
+  - translation_iso: rus
+    name: енйский язык
+    auto: true
   - translation_iso: spa
     name: Enya
     auto: true

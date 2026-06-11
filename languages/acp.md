@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Acipa Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн акипский язык
+    auto: true
   - translation_iso: spa
     name: acipa oriental
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyangga
     auto: true
+  - translation_iso: rus
+    name: нянггский язык
+    auto: true
   - translation_iso: spa
     name: Nyangga
     auto: true

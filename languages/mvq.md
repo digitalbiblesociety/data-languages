@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Moere
     auto: true
+  - translation_iso: rus
+    name: моерейский язык
+    auto: true
   - translation_iso: spa
     name: Moere
     auto: true

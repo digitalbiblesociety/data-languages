@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixe Centro-Norte
     auto: true
+  - translation_iso: rus
+    name: норт кентрал миксейский язык
+    auto: true
   - translation_iso: spa
     name: Mixe del centro norte
     auto: true

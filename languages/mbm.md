@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Ombamba
     auto: true
+  - translation_iso: rus
+    name: омбамбский язык
+    auto: true
   - translation_iso: spa
     name: mbama
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua vadi
+  - translation_iso: rus
+    name: цувадийский язык
+    auto: true
   - translation_iso: spa
     name: Tsuvadi
     auto: true

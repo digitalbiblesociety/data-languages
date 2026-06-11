@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kasanga
     auto: true
+  - translation_iso: rus
+    name: касангский язык
+    auto: true
   - translation_iso: spa
     name: Kasanga
     auto: true

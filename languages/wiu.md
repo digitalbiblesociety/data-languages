@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Wiru
     auto: true
+  - translation_iso: rus
+    name: вируский язык
+    auto: true
   - translation_iso: spa
     name: Wiru
     auto: true

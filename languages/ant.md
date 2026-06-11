@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Antakarinya
     auto: true
+  - translation_iso: rus
+    name: антакаринйский язык
+    auto: true
   - translation_iso: spa
     name: Antakarinya
     auto: true

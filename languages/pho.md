@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Phunoi
     auto: true
+  - translation_iso: rus
+    name: фуноийский язык
+    auto: true
   - translation_iso: spa
     name: Phunoi
     auto: true

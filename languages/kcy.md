@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Korandje
     auto: true
+  - translation_iso: rus
+    name: корандейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma korandje
   - translation_iso: zho

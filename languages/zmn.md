@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbangwe
     auto: true
+  - translation_iso: rus
+    name: мбангвейский язык
+    auto: true
   - translation_iso: spa
     name: Mbangwe
     auto: true

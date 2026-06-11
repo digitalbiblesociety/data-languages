@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Marino
     auto: true
+  - translation_iso: rus
+    name: мариноский язык
+    auto: true
   - translation_iso: spa
     name: Marino
     auto: true

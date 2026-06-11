@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Woiwurrung
     auto: true
+  - translation_iso: rus
+    name: воивуррунгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma woiwurrung
   - translation_iso: zho

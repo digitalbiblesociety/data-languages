@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Suena
     auto: true
+  - translation_iso: rus
+    name: суенский язык
+    auto: true
   - translation_iso: spa
     name: Suena
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nimoa
     auto: true
+  - translation_iso: rus
+    name: нимоский язык
+    auto: true
   - translation_iso: spa
     name: Nimoa
     auto: true

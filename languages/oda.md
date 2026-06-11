@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Odut
     auto: true
+  - translation_iso: rus
+    name: одутский язык
+    auto: true
   - translation_iso: spa
     name: Odut
     auto: true

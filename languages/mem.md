@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mangala
     auto: true
+  - translation_iso: rus
+    name: мангалский язык
+    auto: true
   - translation_iso: spa
     name: Mangala
     auto: true

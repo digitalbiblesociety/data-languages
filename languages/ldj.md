@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lemoro
     auto: true
+  - translation_iso: rus
+    name: лемороский язык
+    auto: true
   - translation_iso: spa
     name: Lemoro
     auto: true

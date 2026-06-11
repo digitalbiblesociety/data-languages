@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malgaxe betsimisaraka do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн бецимисарака малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache del norte de Betsimisaraka
     auto: true

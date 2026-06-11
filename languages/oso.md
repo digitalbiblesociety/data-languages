@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ososo
     auto: true
+  - translation_iso: rus
+    name: ососоский язык
+    auto: true
   - translation_iso: spa
     name: Ososo
     auto: true

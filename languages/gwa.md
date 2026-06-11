@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbato
     auto: true
+  - translation_iso: rus
+    name: мбатоский язык
+    auto: true
   - translation_iso: spa
     name: Mbato
     auto: true

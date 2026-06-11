@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Muthuvan
     auto: true
+  - translation_iso: rus
+    name: мутуванский язык
+    auto: true
   - translation_iso: spa
     name: Muthuvan
     auto: true

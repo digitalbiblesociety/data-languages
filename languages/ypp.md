@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: phupa
     auto: true
+  - translation_iso: rus
+    name: фупский язык
+    auto: true
   - translation_iso: spa
     name: Phupa
     auto: true

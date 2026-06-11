@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ndemli
     auto: true
+  - translation_iso: rus
+    name: ндемлийский язык
+    auto: true
   - translation_iso: spa
     name: Ndemli
     auto: true

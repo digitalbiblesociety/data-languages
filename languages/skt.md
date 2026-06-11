@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sakata
     auto: true
+  - translation_iso: rus
+    name: сакатский язык
+    auto: true
   - translation_iso: spa
     name: Sakata
     auto: true

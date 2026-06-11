@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: muda
     auto: true
+  - translation_iso: rus
+    name: мудский язык
+    auto: true
   - translation_iso: spa
     name: Muda
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbo (Camarões)
     auto: true
+  - translation_iso: rus
+    name: мбоский язык
+    auto: true
   - translation_iso: spa
     name: Mbo (Camerún)
     auto: true

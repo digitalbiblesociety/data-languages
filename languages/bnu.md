@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Bentong
     auto: true
+  - translation_iso: rus
+    name: бентонгский язык
+    auto: true
   - translation_iso: spa
     name: Bentong
     auto: true

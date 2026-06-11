@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kwa
     auto: true
+  - translation_iso: rus
+    name: квский язык
+    auto: true
   - translation_iso: spa
     name: Kwa
     auto: true

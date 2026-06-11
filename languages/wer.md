@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Weri
     auto: true
+  - translation_iso: rus
+    name: верийский язык
+    auto: true
   - translation_iso: spa
     name: Weri
     auto: true

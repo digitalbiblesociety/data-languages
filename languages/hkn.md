@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mel-Khaonh
     auto: true
+  - translation_iso: rus
+    name: мел-хаонхский язык
+    auto: true
   - translation_iso: spa
     name: Mel-Khaonh
     auto: true

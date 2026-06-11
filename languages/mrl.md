@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mortlockesa
+  - translation_iso: rus
+    name: мортлокесейский язык
+    auto: true
   - translation_iso: spa
     name: Mortlockés
     auto: true

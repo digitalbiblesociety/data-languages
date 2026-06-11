@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyiyaparli
     auto: true
+  - translation_iso: rus
+    name: нйияпарлийский язык
+    auto: true
   - translation_iso: spa
     name: Nyiyaparli
     auto: true

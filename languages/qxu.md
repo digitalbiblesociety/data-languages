@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Arequipa-La Unión
     auto: true
+  - translation_iso: rus
+    name: ареквипа-ла унион квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua de Arequipa-La Unión
     auto: true

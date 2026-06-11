@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Seti
     auto: true
+  - translation_iso: rus
+    name: сетийский язык
+    auto: true
   - translation_iso: spa
     name: hidrogeno
   - translation_iso: zho

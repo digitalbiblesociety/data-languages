@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua jukun takum
+  - translation_iso: rus
+    name: юкун такумский язык
+    auto: true
   - translation_iso: spa
     name: Jukun Takum
     auto: true

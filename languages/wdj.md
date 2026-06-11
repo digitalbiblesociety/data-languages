@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Wadjiginy
     auto: true
+  - translation_iso: rus
+    name: вадджигинйский язык
+    auto: true
   - translation_iso: spa
     name: Wadjiginy
     auto: true

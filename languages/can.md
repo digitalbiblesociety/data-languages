@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chambri
     auto: true
+  - translation_iso: rus
+    name: чамбрийский язык
+    auto: true
   - translation_iso: spa
     name: Chambri
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: wajuk
     auto: true
+  - translation_iso: rus
+    name: ваюкский язык
+    auto: true
   - translation_iso: spa
     name: Wajuk
     auto: true

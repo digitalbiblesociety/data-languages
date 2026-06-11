@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kukna
     auto: true
+  - translation_iso: rus
+    name: кукнский язык
+    auto: true
   - translation_iso: spa
     name: Kukna
     auto: true

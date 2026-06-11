@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Duvle
     auto: true
+  - translation_iso: rus
+    name: дувлейский язык
+    auto: true
   - translation_iso: spa
     name: Duvle
     auto: true

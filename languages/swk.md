@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sena do Malawi
     auto: true
+  - translation_iso: rus
+    name: малави сенский язык
+    auto: true
   - translation_iso: spa
     name: Sena de Malawi
     auto: true

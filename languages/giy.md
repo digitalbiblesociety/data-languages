@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Giyug
+  - translation_iso: rus
+    name: гиюгский язык
+    auto: true
   - translation_iso: spa
     name: Giyug
     auto: true

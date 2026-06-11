@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Unggumi
     auto: true
+  - translation_iso: rus
+    name: унггумийский язык
+    auto: true
   - translation_iso: spa
     name: Unggumi
     auto: true

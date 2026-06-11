@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Malgaxe bara
     auto: true
+  - translation_iso: rus
+    name: бара малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache bara
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tai Thanh
     auto: true
+  - translation_iso: rus
+    name: таи танхский язык
+    auto: true
   - translation_iso: spa
     name: Tai Thanh
     auto: true

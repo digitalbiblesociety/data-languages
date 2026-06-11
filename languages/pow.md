@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Popoloca de San Felipe Otlaltepec
     auto: true
+  - translation_iso: rus
+    name: сан фелипе отлалтепек пополокский язык
+    auto: true
   - translation_iso: spa
     name: Popoloca de San Felipe Otlaltepec
     auto: true

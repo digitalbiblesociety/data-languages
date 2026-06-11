@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Talaud
     auto: true
+  - translation_iso: rus
+    name: талаудский язык
+    auto: true
   - translation_iso: spa
     name: Talaud
     auto: true

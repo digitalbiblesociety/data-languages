@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sheni
     auto: true
+  - translation_iso: rus
+    name: шенийский язык
+    auto: true
   - translation_iso: spa
     name: Sheni
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nedebang
     auto: true
+  - translation_iso: rus
+    name: недебангский язык
+    auto: true
   - translation_iso: spa
     name: Nedebang
     auto: true

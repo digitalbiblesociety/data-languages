@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Odoodee
     auto: true
+  - translation_iso: rus
+    name: одудийский язык
+    auto: true
   - translation_iso: spa
     name: Odoodee
     auto: true

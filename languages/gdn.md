@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Umanakaina
     auto: true
+  - translation_iso: rus
+    name: уманакаинский язык
+    auto: true
   - translation_iso: spa
     name: Umanakaina
     auto: true

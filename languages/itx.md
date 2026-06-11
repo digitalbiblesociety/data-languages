@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Itik
     auto: true
+  - translation_iso: rus
+    name: итикский язык
+    auto: true
   - translation_iso: spa
     name: itik
   - translation_iso: zho

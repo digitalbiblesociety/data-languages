@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Baki
     auto: true
+  - translation_iso: rus
+    name: бакийский язык
+    auto: true
   - translation_iso: spa
     name: Baki
     auto: true

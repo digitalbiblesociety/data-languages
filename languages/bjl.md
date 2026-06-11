@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bulu (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: булуский язык
+    auto: true
   - translation_iso: spa
     name: Bulu (Papúa Nueva Guinea)
     auto: true

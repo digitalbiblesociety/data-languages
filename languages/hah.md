@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hahon
     auto: true
+  - translation_iso: rus
+    name: хахонский язык
+    auto: true
   - translation_iso: spa
     name: hahon
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Okpe (Edo Sudoeste)
     auto: true
+  - translation_iso: rus
+    name: сутвестерн едо окпейский язык
+    auto: true
   - translation_iso: spa
     name: Okpe (Edo suroccidental)
     auto: true

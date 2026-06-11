@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lonwolwol
     auto: true
+  - translation_iso: rus
+    name: лонволвольский язык
+    auto: true
   - translation_iso: spa
     name: Lonwolwol
     auto: true

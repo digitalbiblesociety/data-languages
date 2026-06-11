@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Palaung Rumai
     auto: true
+  - translation_iso: rus
+    name: румаи палаунгский язык
+    auto: true
   - translation_iso: spa
     name: Palaung Rumai
     auto: true

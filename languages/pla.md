@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Miani
     auto: true
+  - translation_iso: rus
+    name: мианийский язык
+    auto: true
   - translation_iso: spa
     name: Miani
     auto: true

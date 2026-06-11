@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tefaro
     auto: true
+  - translation_iso: rus
+    name: тефароский язык
+    auto: true
   - translation_iso: spa
     name: Tefaro
     auto: true

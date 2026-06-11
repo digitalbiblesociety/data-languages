@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karore
     auto: true
+  - translation_iso: rus
+    name: карорейский язык
+    auto: true
   - translation_iso: spa
     name: Karore
     auto: true

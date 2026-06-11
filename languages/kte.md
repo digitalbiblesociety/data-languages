@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nubri
     auto: true
+  - translation_iso: rus
+    name: нубрийский язык
+    auto: true
   - translation_iso: spa
     name: Nubri
   - translation_iso: zho

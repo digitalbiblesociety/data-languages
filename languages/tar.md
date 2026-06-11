@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tarahumara Central
     auto: true
+  - translation_iso: rus
+    name: кентрал тарахумарский язык
+    auto: true
   - translation_iso: spa
     name: Tarahumara central
   - translation_iso: zho

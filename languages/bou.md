@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bondei
     auto: true
+  - translation_iso: rus
+    name: бондеийский язык
+    auto: true
   - translation_iso: spa
     name: Bondei
     auto: true

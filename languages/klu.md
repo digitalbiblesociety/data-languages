@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Klao
     auto: true
+  - translation_iso: rus
+    name: клаоский язык
+    auto: true
   - translation_iso: spa
     name: Klao
     auto: true

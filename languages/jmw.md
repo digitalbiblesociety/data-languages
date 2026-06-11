@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mouwase
     auto: true
+  - translation_iso: rus
+    name: мувасейский язык
+    auto: true
   - translation_iso: spa
     name: Mouwase
     auto: true

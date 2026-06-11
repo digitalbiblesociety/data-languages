@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dumpas
     auto: true
+  - translation_iso: rus
+    name: думпасский язык
+    auto: true
   - translation_iso: spa
     name: Dumpas
     auto: true

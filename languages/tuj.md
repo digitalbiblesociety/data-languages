@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tugutil
     auto: true
+  - translation_iso: rus
+    name: тугутильский язык
+    auto: true
   - translation_iso: spa
     name: Tugutil
     auto: true

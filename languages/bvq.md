@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Birri
     auto: true
+  - translation_iso: rus
+    name: биррийский язык
+    auto: true
   - translation_iso: spa
     name: Birri
     auto: true

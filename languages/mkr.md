@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malas
     auto: true
+  - translation_iso: rus
+    name: маласский язык
+    auto: true
   - translation_iso: spa
     name: Malas
     auto: true

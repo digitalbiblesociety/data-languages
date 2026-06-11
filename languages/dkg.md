@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kadung
     auto: true
+  - translation_iso: rus
+    name: кадунгский язык
+    auto: true
   - translation_iso: spa
     name: Kadung
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lishanid Noshan
     auto: true
+  - translation_iso: rus
+    name: лишанид ношанский язык
+    auto: true
   - translation_iso: spa
     name: Lishanid Noshan
   - translation_iso: zho

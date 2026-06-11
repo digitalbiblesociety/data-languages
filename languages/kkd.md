@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kinuku
     auto: true
+  - translation_iso: rus
+    name: кинукуский язык
+    auto: true
   - translation_iso: spa
     name: Kinuku
     auto: true

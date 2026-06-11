@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: agwagwune
     auto: true
+  - translation_iso: rus
+    name: агвагвунейский язык
+    auto: true
   - translation_iso: spa
     name: Agwagwune
     auto: true

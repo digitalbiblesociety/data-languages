@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gozarkhani
     auto: true
+  - translation_iso: rus
+    name: гозарханийский язык
+    auto: true
   - translation_iso: spa
     name: Gozarkhani
     auto: true

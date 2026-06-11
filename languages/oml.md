@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ombo
     auto: true
+  - translation_iso: rus
+    name: омбоский язык
+    auto: true
   - translation_iso: spa
     name: Ombo
     auto: true

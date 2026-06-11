@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tocho
+  - translation_iso: rus
+    name: точоский язык
+    auto: true
   - translation_iso: spa
     name: Tocho
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bobongko
     auto: true
+  - translation_iso: rus
+    name: бобонгкоский язык
+    auto: true
   - translation_iso: spa
     name: Bobongko
     auto: true

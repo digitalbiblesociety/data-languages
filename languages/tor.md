@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Banda Togbo-Vara
     auto: true
+  - translation_iso: rus
+    name: тогбо-вара бандский язык
+    auto: true
   - translation_iso: spa
     name: Banda Togbo-Vara
     auto: true

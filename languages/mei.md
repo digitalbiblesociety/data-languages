@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Midob
     auto: true
+  - translation_iso: rus
+    name: мидобский язык
+    auto: true
   - translation_iso: spa
     name: midob
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: zangskari
     auto: true
+  - translation_iso: rus
+    name: зангскарийский язык
+    auto: true
   - translation_iso: spa
     name: Zangskari
     auto: true

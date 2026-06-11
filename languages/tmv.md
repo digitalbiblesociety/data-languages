@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tembo (Motembo)
     auto: true
+  - translation_iso: rus
+    name: мотембо тембоский язык
+    auto: true
   - translation_iso: spa
     name: Tembo (Motembo)
     auto: true

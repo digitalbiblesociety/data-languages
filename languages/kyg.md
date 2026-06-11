@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Keyagana
     auto: true
+  - translation_iso: rus
+    name: кеяганский язык
+    auto: true
   - translation_iso: spa
     name: Keyagana
     auto: true

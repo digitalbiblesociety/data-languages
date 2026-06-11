@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Man Met
     auto: true
+  - translation_iso: rus
+    name: ман метский язык
+    auto: true
   - translation_iso: spa
     name: Man Met
     auto: true

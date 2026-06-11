@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tarangan Oriental
     auto: true
+  - translation_iso: rus
+    name: еаст таранганский язык
+    auto: true
   - translation_iso: spa
     name: Tarangan oriental
     auto: true

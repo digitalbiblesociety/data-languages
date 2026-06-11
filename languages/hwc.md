@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Inglês Crioulo do Havaí
     auto: true
+  - translation_iso: rus
+    name: хаваии креоле енглишский язык
+    auto: true
   - translation_iso: spa
     name: Pidgin hawaiano
   - translation_iso: zho

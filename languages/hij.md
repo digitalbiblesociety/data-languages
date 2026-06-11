@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Hijuk
     auto: true
+  - translation_iso: rus
+    name: хиюкский язык
+    auto: true
   - translation_iso: spa
     name: Hijuk
     auto: true

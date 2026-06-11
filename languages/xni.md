@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Ngarigu
     auto: true
+  - translation_iso: rus
+    name: нгаригуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngarigo
   - translation_iso: zho

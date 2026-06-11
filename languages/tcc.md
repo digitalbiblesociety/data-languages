@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Datooga
     auto: true
+  - translation_iso: rus
+    name: датугский язык
+    auto: true
   - translation_iso: spa
     name: Datooga
     auto: true

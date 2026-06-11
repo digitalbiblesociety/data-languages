@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gadsup
     auto: true
+  - translation_iso: rus
+    name: гадсупский язык
+    auto: true
   - translation_iso: spa
     name: Gadsup
     auto: true

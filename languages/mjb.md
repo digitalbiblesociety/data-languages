@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua makalera
+  - translation_iso: rus
+    name: макалероский язык
+    auto: true
   - translation_iso: spa
     name: macalero
   - translation_iso: zho

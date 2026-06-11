@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Fali
     auto: true
+  - translation_iso: rus
+    name: фалийский язык
+    auto: true
   - translation_iso: spa
     name: Fali
     auto: true

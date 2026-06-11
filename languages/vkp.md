@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo de Korlai
+  - translation_iso: rus
+    name: корлаи креоле португуесейский язык
+    auto: true
   - translation_iso: spa
     name: Portugués criollo de Korlai
     auto: true

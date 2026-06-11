@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tolomako
     auto: true
+  - translation_iso: rus
+    name: толомакоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tolomako
   - translation_iso: zho

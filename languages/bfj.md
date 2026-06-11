@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bafanji
     auto: true
+  - translation_iso: rus
+    name: бафанджийский язык
+    auto: true
   - translation_iso: spa
     name: Bafanji
     auto: true

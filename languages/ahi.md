@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Aizi Tiagbamrin
     auto: true
+  - translation_iso: rus
+    name: тиагбамрин аизийский язык
+    auto: true
   - translation_iso: spa
     name: Aizi Tiagbamrin
     auto: true

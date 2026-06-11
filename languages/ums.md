@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Pendau
     auto: true
+  - translation_iso: rus
+    name: пендауский язык
+    auto: true
   - translation_iso: spa
     name: Pendau
     auto: true

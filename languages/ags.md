@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Esimbi
+  - translation_iso: rus
+    name: есимбийский язык
+    auto: true
   - translation_iso: spa
     name: Esimbi
     auto: true

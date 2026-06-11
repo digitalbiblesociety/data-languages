@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua awara
+  - translation_iso: rus
+    name: аварский язык
+    auto: true
   - translation_iso: spa
     name: Awara
     auto: true

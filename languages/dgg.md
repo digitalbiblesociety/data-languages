@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Doga
     auto: true
+  - translation_iso: rus
+    name: догский язык
+    auto: true
   - translation_iso: spa
     name: Doga
     auto: true

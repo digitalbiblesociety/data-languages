@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tomadino
     auto: true
+  - translation_iso: rus
+    name: томадиноский язык
+    auto: true
   - translation_iso: spa
     name: Tomadino
     auto: true

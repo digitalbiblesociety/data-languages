@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mnong central
     auto: true
+  - translation_iso: rus
+    name: кентрал мнонгский язык
+    auto: true
   - translation_iso: spa
     name: Mnong Central
     auto: true

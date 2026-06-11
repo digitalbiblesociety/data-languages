@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gofa
     auto: true
+  - translation_iso: rus
+    name: гофский язык
+    auto: true
   - translation_iso: spa
     name: Gofa
     auto: true

@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tai dón
+  - translation_iso: rus
+    name: таи донский язык
+    auto: true
   - translation_iso: spa
     name: Tai Dón
     auto: true

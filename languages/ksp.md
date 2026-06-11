@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kaba
     auto: true
+  - translation_iso: rus
+    name: кабский язык
+    auto: true
   - translation_iso: spa
     name: Kaba
     auto: true

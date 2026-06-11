@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bariai
     auto: true
+  - translation_iso: rus
+    name: бариаийский язык
+    auto: true
   - translation_iso: spa
     name: Bariai
   - translation_iso: zho

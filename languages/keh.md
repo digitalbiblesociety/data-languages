@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Keak
     auto: true
+  - translation_iso: rus
+    name: кеакский язык
+    auto: true
   - translation_iso: spa
     name: Keak
     auto: true

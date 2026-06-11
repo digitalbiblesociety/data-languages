@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua athpare
+  - translation_iso: rus
+    name: атпарийский язык
+    auto: true
   - translation_iso: spa
     name: Athpariya
     auto: true

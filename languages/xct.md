@@ -38,6 +38,9 @@ translations:
     name: 고전 티베트어
   - translation_iso: por
     name: tibetano clássico
+  - translation_iso: rus
+    name: классикал тибетанский язык
+    auto: true
   - translation_iso: spa
     name: tibetano clásico
   - translation_iso: zho

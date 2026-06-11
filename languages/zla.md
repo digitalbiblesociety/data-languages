@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zula
     auto: true
+  - translation_iso: rus
+    name: зулский язык
+    auto: true
   - translation_iso: spa
     name: Zula
     auto: true

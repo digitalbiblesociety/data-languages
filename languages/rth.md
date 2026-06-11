@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ratahan
+  - translation_iso: rus
+    name: ратаханский язык
+    auto: true
   - translation_iso: spa
     name: Ratahan
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Ahirani
     auto: true
+  - translation_iso: rus
+    name: ахиранийский язык
+    auto: true
   - translation_iso: spa
     name: Ahirani
     auto: true

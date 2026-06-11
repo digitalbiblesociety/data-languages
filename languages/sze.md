@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Seze
     auto: true
+  - translation_iso: rus
+    name: сезейский язык
+    auto: true
   - translation_iso: spa
     name: Seze
     auto: true

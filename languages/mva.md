@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Manam
     auto: true
+  - translation_iso: rus
+    name: манамский язык
+    auto: true
   - translation_iso: spa
     name: Manam
     auto: true

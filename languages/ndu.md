@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dugun
     auto: true
+  - translation_iso: rus
+    name: дугунский язык
+    auto: true
   - translation_iso: spa
     name: Dugun
     auto: true

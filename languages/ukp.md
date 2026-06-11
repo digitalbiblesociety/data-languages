@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ukpe-Bayobiri
     auto: true
+  - translation_iso: rus
+    name: укпе-байобирийский язык
+    auto: true
   - translation_iso: spa
     name: Ukpe-Bayobiri
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Wobé
+  - translation_iso: rus
+    name: ве нортернский язык
+    auto: true
   - translation_iso: spa
     name: Wè del Norte
     auto: true

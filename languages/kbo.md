@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua keliko
+  - translation_iso: rus
+    name: келикоский язык
+    auto: true
   - translation_iso: spa
     name: Keliko
     auto: true

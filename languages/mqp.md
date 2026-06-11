@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Manipa
     auto: true
+  - translation_iso: rus
+    name: манипский язык
+    auto: true
   - translation_iso: spa
     name: Manipa
     auto: true

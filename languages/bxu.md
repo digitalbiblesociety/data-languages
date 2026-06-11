@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Buriato da China
     auto: true
+  - translation_iso: rus
+    name: чина буриатский язык
+    auto: true
   - translation_iso: spa
     name: Buriato de China
     auto: true

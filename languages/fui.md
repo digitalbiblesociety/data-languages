@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: fulfulde de Bagirmi
     auto: true
+  - translation_iso: rus
+    name: багирми фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde del Bagirmi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bwisi
     auto: true
+  - translation_iso: rus
+    name: бвисийский язык
+    auto: true
   - translation_iso: spa
     name: Bwisi
     auto: true

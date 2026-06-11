@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ukwuani-Aboh-Ndoni
     auto: true
+  - translation_iso: rus
+    name: уквуани-абох-ндонийский язык
+    auto: true
   - translation_iso: spa
     name: Ukwuani-Aboh-Ndoni
     auto: true

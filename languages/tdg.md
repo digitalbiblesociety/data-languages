@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tamang Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн тамангский язык
+    auto: true
   - translation_iso: spa
     name: Tamang occidental
     auto: true

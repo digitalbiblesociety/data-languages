@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Okobo
     auto: true
+  - translation_iso: rus
+    name: окобоский язык
+    auto: true
   - translation_iso: spa
     name: Okobo
     auto: true

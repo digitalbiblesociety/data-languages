@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gyele
     auto: true
+  - translation_iso: rus
+    name: гелейский язык
+    auto: true
   - translation_iso: spa
     name: gyele
   - translation_iso: zho

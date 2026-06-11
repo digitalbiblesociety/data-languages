@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ngom
     auto: true
+  - translation_iso: rus
+    name: нгомский язык
+    auto: true
   - translation_iso: spa
     name: Ngom
     auto: true

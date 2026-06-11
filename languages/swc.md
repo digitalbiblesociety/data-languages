@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Suaíli congolês
+  - translation_iso: rus
+    name: конго свахилийский язык
+    auto: true
   - translation_iso: spa
     name: Suajili congoleño
   - translation_iso: zho

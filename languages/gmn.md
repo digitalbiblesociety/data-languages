@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gimnime
     auto: true
+  - translation_iso: rus
+    name: гимнимейский язык
+    auto: true
   - translation_iso: spa
     name: Gimnime
     auto: true

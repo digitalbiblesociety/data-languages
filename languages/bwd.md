@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua buaidoca
+  - translation_iso: rus
+    name: бваидокский язык
+    auto: true
   - translation_iso: spa
     name: Bwaidoka
     auto: true

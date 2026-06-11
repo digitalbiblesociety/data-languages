@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Kela (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: келский язык
+    auto: true
   - translation_iso: spa
     name: Kela (República Democrática del Congo)
     auto: true

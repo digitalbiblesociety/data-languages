@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Tomo Kan
     auto: true
+  - translation_iso: rus
+    name: томо кан догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Tomo Kan
     auto: true

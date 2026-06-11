@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Budza
     auto: true
+  - translation_iso: rus
+    name: будзский язык
+    auto: true
   - translation_iso: spa
     name: Budza
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bibbulman
     auto: true
+  - translation_iso: rus
+    name: биббулманский язык
+    auto: true
   - translation_iso: spa
     name: Bibbulman
     auto: true

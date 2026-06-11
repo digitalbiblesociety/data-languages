@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tsum
     auto: true
+  - translation_iso: rus
+    name: цумский язык
+    auto: true
   - translation_iso: spa
     name: tsum
   - translation_iso: zho

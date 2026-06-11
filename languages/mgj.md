@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Abureni
     auto: true
+  - translation_iso: rus
+    name: абуренийский язык
+    auto: true
   - translation_iso: spa
     name: Abureni
     auto: true

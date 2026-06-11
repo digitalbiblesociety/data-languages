@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Baga Manduri
     auto: true
+  - translation_iso: rus
+    name: бага мандурийский язык
+    auto: true
   - translation_iso: spa
     name: Baga Manduri
     auto: true

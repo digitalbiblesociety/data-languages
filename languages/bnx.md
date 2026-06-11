@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bangubangu
     auto: true
+  - translation_iso: rus
+    name: бангубангуский язык
+    auto: true
   - translation_iso: spa
     name: Bangubangu
     auto: true

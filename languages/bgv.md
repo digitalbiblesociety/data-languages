@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Warkay-Bipim
     auto: true
+  - translation_iso: rus
+    name: варкай-бипимский язык
+    auto: true
   - translation_iso: spa
     name: Warkay-Bipim
     auto: true

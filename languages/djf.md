@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Djangun
     auto: true
+  - translation_iso: rus
+    name: дянгунский язык
+    auto: true
   - translation_iso: spa
     name: Djangun
     auto: true

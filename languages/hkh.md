@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Khah
     auto: true
+  - translation_iso: rus
+    name: хахский язык
+    auto: true
   - translation_iso: spa
     name: Khah
     auto: true

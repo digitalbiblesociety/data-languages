@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yindjilandji
     auto: true
+  - translation_iso: rus
+    name: йиндджиландджийский язык
+    auto: true
   - translation_iso: spa
     name: Yindjilandji
     auto: true

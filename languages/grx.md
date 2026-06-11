@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Guriaso
     auto: true
+  - translation_iso: rus
+    name: гуриасоский язык
+    auto: true
   - translation_iso: spa
     name: Guriaso
     auto: true

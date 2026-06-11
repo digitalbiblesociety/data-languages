@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Ribun
     auto: true
+  - translation_iso: rus
+    name: рибунский язык
+    auto: true
   - translation_iso: spa
     name: Ribun
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yi de Wuding-Luquan
     auto: true
+  - translation_iso: rus
+    name: вудинг-лукван йийский язык
+    auto: true
   - translation_iso: spa
     name: Yi de Wuding-Luquan
     auto: true

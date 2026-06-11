@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mwatebu
     auto: true
+  - translation_iso: rus
+    name: мватебуский язык
+    auto: true
   - translation_iso: spa
     name: mwatebu
   - translation_iso: zho

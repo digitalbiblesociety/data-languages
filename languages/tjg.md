@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tunjung
     auto: true
+  - translation_iso: rus
+    name: тунюнгский язык
+    auto: true
   - translation_iso: spa
     name: Tunjung
     auto: true

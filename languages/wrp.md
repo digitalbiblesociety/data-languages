@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Waropen
     auto: true
+  - translation_iso: rus
+    name: варопенский язык
+    auto: true
   - translation_iso: spa
     name: Waropen
     auto: true

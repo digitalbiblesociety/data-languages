@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Baixas de Napo
     auto: true
+  - translation_iso: rus
+    name: напо ловланд квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua bajo del Napo
     auto: true

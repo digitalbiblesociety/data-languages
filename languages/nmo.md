@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naga Moyon
     auto: true
+  - translation_iso: rus
+    name: мойон нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Moyon
     auto: true

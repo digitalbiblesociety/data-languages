@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lamang
     auto: true
+  - translation_iso: rus
+    name: ламангский язык
+    auto: true
   - translation_iso: spa
     name: Lamang
     auto: true

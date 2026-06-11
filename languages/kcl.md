@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kela (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: келский язык
+    auto: true
   - translation_iso: spa
     name: Kela (Papúa Nueva Guinea)
     auto: true

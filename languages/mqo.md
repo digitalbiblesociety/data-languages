@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Modole
+  - translation_iso: rus
+    name: модолейский язык
+    auto: true
   - translation_iso: spa
     name: Modole
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Safwa
     auto: true
+  - translation_iso: rus
+    name: сафвский язык
+    auto: true
   - translation_iso: spa
     name: Safwa
     auto: true

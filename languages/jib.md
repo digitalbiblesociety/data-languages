@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jibu
     auto: true
+  - translation_iso: rus
+    name: джибуский язык
+    auto: true
   - translation_iso: spa
     name: Jibu
     auto: true

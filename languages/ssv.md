@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Shark Bay
     auto: true
+  - translation_iso: rus
+    name: шарк байский язык
+    auto: true
   - translation_iso: spa
     name: Shark Bay
     auto: true

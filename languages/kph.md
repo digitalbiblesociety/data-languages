@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kplang
     auto: true
+  - translation_iso: rus
+    name: кплангский язык
+    auto: true
   - translation_iso: spa
     name: kplang
   - translation_iso: zho

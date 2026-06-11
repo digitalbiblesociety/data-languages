@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Megam
     auto: true
+  - translation_iso: rus
+    name: мегамский язык
+    auto: true
   - translation_iso: spa
     name: Megam
     auto: true

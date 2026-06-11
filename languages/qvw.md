@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua Huaylla Wanca
     auto: true
+  - translation_iso: rus
+    name: хуайлла ванка квечуский язык
+    auto: true
   - translation_iso: spa
     name: huailla huanca
   - translation_iso: zho

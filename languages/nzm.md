@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga Zeme
     auto: true
+  - translation_iso: rus
+    name: земе нагский язык
+    auto: true
   - translation_iso: spa
     name: zeme
   - translation_iso: zho

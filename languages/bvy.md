@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua baybay
+  - translation_iso: rus
+    name: байбаянонский язык
+    auto: true
   - translation_iso: spa
     name: Baybayanon
     auto: true

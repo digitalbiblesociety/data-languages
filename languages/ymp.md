@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yamap
     auto: true
+  - translation_iso: rus
+    name: ямапский язык
+    auto: true
   - translation_iso: spa
     name: Yamap
   - translation_iso: zho

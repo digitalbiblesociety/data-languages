@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Oirata
+  - translation_iso: rus
+    name: оиратский язык
+    auto: true
   - translation_iso: spa
     name: Idioma oirata
   - translation_iso: zho

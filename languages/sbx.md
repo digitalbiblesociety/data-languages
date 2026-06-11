@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Seberuang
     auto: true
+  - translation_iso: rus
+    name: себеруангский язык
+    auto: true
   - translation_iso: spa
     name: Seberuang
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sop
     auto: true
+  - translation_iso: rus
+    name: сопский язык
+    auto: true
   - translation_iso: spa
     name: Sop
     auto: true

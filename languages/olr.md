@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Olrat
     auto: true
+  - translation_iso: rus
+    name: олратский язык
+    auto: true
   - translation_iso: spa
     name: Olrat
     auto: true

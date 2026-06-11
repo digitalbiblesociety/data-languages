@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyamusa-Molo
     auto: true
+  - translation_iso: rus
+    name: нямуса-молоский язык
+    auto: true
   - translation_iso: spa
     name: Nyamusa-Molo
     auto: true

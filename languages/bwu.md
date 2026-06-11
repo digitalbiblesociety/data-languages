@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Buli (Gana)
     auto: true
+  - translation_iso: rus
+    name: булийский язык
+    auto: true
   - translation_iso: spa
     name: Buli (Ghana)
     auto: true

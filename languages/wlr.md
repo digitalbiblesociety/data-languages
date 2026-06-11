@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wailapa
     auto: true
+  - translation_iso: rus
+    name: ваилапский язык
+    auto: true
   - translation_iso: spa
     name: Wailapa
     auto: true

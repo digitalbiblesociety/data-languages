@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Malvi
     auto: true
+  - translation_iso: rus
+    name: малвийский язык
+    auto: true
   - translation_iso: spa
     name: Malvi
     auto: true

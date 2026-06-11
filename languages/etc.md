@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Etchemin
     auto: true
+  - translation_iso: rus
+    name: ечеминский язык
+    auto: true
   - translation_iso: spa
     name: Etchemin
     auto: true

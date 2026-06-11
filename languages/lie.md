@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Likila
     auto: true
+  - translation_iso: rus
+    name: ликилский язык
+    auto: true
   - translation_iso: spa
     name: Likila
     auto: true

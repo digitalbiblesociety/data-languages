@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmong Huishui Central
     auto: true
+  - translation_iso: rus
+    name: кентрал хуишуи хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Huishui central
     auto: true

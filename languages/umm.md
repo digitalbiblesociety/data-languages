@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Umon
     auto: true
+  - translation_iso: rus
+    name: умонский язык
+    auto: true
   - translation_iso: spa
     name: Umon
     auto: true

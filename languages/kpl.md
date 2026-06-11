@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kpala
     auto: true
+  - translation_iso: rus
+    name: кпалский язык
+    auto: true
   - translation_iso: spa
     name: Kpala
     auto: true

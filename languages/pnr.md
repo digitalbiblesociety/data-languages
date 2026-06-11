@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Panim
     auto: true
+  - translation_iso: rus
+    name: панимский язык
+    auto: true
   - translation_iso: spa
     name: Panim
     auto: true

@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bembe
+  - translation_iso: rus
+    name: бимбейский язык
+    auto: true
   - translation_iso: spa
     name: Beembe
     auto: true

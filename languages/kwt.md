@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kwesten
     auto: true
+  - translation_iso: rus
+    name: квестенский язык
+    auto: true
   - translation_iso: spa
     name: Kwesten
     auto: true

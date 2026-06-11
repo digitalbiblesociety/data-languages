@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Segeju
     auto: true
+  - translation_iso: rus
+    name: сегеюский язык
+    auto: true
   - translation_iso: spa
     name: Segeju
     auto: true

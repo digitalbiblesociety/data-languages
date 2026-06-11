@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lama (Togo)
     auto: true
+  - translation_iso: rus
+    name: ламский язык
+    auto: true
   - translation_iso: spa
     name: Lama (Togo)
     auto: true

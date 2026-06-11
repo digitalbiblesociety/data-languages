@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua danwar
+  - translation_iso: rus
+    name: дханварский язык
+    auto: true
   - translation_iso: spa
     name: Dhanwar (Nepal)
     auto: true

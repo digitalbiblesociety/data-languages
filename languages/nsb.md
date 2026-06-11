@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nossob Inferior
     auto: true
+  - translation_iso: rus
+    name: ловер носсобрский язык
+    auto: true
   - translation_iso: spa
     name: Nossob Inferior
     auto: true

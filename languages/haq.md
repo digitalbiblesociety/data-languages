@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua giha
+  - translation_iso: rus
+    name: хский язык
+    auto: true
   - translation_iso: spa
     name: Ha
     auto: true

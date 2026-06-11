@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Moo
     auto: true
+  - translation_iso: rus
+    name: муский язык
+    auto: true
   - translation_iso: spa
     name: Moo
     auto: true

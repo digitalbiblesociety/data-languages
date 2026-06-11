@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kamula
     auto: true
+  - translation_iso: rus
+    name: камулский язык
+    auto: true
   - translation_iso: spa
     name: Kamula
     auto: true

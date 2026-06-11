@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Aore
     auto: true
+  - translation_iso: rus
+    name: аорейский язык
+    auto: true
   - translation_iso: spa
     name: Aore
     auto: true

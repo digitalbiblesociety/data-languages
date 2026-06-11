@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Koba
     auto: true
+  - translation_iso: rus
+    name: кобский язык
+    auto: true
   - translation_iso: spa
     name: Koba
     auto: true

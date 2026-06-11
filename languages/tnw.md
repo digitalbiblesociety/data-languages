@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tosawang
+  - translation_iso: rus
+    name: тонсавангский язык
+    auto: true
   - translation_iso: spa
     name: Tonsawang
     auto: true

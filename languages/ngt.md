@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kriang
     auto: true
+  - translation_iso: rus
+    name: криангский язык
+    auto: true
   - translation_iso: spa
     name: Kriang
     auto: true

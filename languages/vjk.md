@@ -27,6 +27,9 @@ translations:
   - translation_iso: por
     name: Bajjika
     auto: true
+  - translation_iso: rus
+    name: баджджикский язык
+    auto: true
   - translation_iso: spa
     name: Bajjika
     auto: true

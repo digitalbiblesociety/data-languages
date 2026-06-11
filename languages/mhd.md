@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbugu
     auto: true
+  - translation_iso: rus
+    name: мбугуский язык
+    auto: true
   - translation_iso: spa
     name: Mbugu
     auto: true

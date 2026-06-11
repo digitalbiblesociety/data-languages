@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Rampi
     auto: true
+  - translation_iso: rus
+    name: рампийский язык
+    auto: true
   - translation_iso: spa
     name: Rampi
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gorakor
     auto: true
+  - translation_iso: rus
+    name: горакорский язык
+    auto: true
   - translation_iso: spa
     name: Gorakor
     auto: true

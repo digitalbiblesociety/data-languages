@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kyaka
     auto: true
+  - translation_iso: rus
+    name: кякский язык
+    auto: true
   - translation_iso: spa
     name: Kyaka
     auto: true

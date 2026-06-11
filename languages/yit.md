@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: lalu oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн лалуский язык
+    auto: true
   - translation_iso: spa
     name: Lalu oriental
     auto: true

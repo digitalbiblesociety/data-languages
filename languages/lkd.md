@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lakondê
+  - translation_iso: rus
+    name: лакондейский язык
+    auto: true
   - translation_iso: spa
     name: Lakondê
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hmong Mashan Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн машан хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Mashan occidental
     auto: true

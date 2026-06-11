@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Líbia
     auto: true
+  - translation_iso: rus
+    name: либян сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas libia
     auto: true

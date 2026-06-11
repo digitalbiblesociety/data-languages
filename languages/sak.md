@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sake
     auto: true
+  - translation_iso: rus
+    name: сакейский язык
+    auto: true
   - translation_iso: spa
     name: sake
   - translation_iso: zho

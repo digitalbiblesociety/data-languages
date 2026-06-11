@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tagbu
     auto: true
+  - translation_iso: rus
+    name: тагбуский язык
+    auto: true
   - translation_iso: spa
     name: Tagbu
     auto: true

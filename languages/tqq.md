@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tunni
+  - translation_iso: rus
+    name: туннийский язык
+    auto: true
   - translation_iso: spa
     name: Tunni
     auto: true

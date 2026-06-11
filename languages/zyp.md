@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: chin zyphe
     auto: true
+  - translation_iso: rus
+    name: зйфе чинский язык
+    auto: true
   - translation_iso: spa
     name: zyphe
   - translation_iso: zho

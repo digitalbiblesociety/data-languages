@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Papar
     auto: true
+  - translation_iso: rus
+    name: папарский язык
+    auto: true
   - translation_iso: spa
     name: Papar
     auto: true

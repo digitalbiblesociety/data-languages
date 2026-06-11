@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Dhuwal
     auto: true
+  - translation_iso: rus
+    name: дхувальский язык
+    auto: true
   - translation_iso: spa
     name: Dhuwal
     auto: true

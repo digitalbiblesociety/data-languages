@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Komba
     auto: true
+  - translation_iso: rus
+    name: комбский язык
+    auto: true
   - translation_iso: spa
     name: Komba
     auto: true

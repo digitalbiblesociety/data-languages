@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ringgou
     auto: true
+  - translation_iso: rus
+    name: ринггуский язык
+    auto: true
   - translation_iso: spa
     name: Ringgou
     auto: true

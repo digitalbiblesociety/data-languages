@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: gbe de Defi
     auto: true
+  - translation_iso: rus
+    name: дефи гбейский язык
+    auto: true
   - translation_iso: spa
     name: Defi Gbe
     auto: true

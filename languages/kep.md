@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kaikadi
     auto: true
+  - translation_iso: rus
+    name: каикадийский язык
+    auto: true
   - translation_iso: spa
     name: Kaikadi
     auto: true

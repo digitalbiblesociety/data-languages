@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Idoma
     auto: true
+  - translation_iso: rus
+    name: идомский язык
+    auto: true
   - translation_iso: spa
     name: Idoma
     auto: true

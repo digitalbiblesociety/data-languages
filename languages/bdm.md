@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua buduma
+  - translation_iso: rus
+    name: будумский язык
+    auto: true
   - translation_iso: spa
     name: Buduma
     auto: true

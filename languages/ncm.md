@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nambo
     auto: true
+  - translation_iso: rus
+    name: намбоский язык
+    auto: true
   - translation_iso: spa
     name: Nambo
     auto: true

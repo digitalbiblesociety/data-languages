@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ifugao Tuwali
     auto: true
+  - translation_iso: rus
+    name: тували ифугаоский язык
+    auto: true
   - translation_iso: spa
     name: Ifugao Tuwali
     auto: true

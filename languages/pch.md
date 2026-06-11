@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pardhan
     auto: true
+  - translation_iso: rus
+    name: пардханский язык
+    auto: true
   - translation_iso: spa
     name: pardhan
   - translation_iso: zho

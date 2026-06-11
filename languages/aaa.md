@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Ghotuo
     auto: true
+  - translation_iso: rus
+    name: гхотуоский язык
+    auto: true
   - translation_iso: spa
     name: ghotou
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mekeo
     auto: true
+  - translation_iso: rus
+    name: мекеоский язык
+    auto: true
   - translation_iso: spa
     name: Mekeo
     auto: true

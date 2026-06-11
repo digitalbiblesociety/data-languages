@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Joba
     auto: true
+  - translation_iso: rus
+    name: йобский язык
+    auto: true
   - translation_iso: spa
     name: Joba
     auto: true

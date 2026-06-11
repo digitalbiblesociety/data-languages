@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phu Thai
     auto: true
+  - translation_iso: rus
+    name: фу таийский язык
+    auto: true
   - translation_iso: spa
     name: Phu Thai
     auto: true

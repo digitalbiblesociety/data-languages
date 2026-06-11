@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tabaru
     auto: true
+  - translation_iso: rus
+    name: табаруский язык
+    auto: true
   - translation_iso: spa
     name: Tabaru
     auto: true

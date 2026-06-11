@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bulgebi
     auto: true
+  - translation_iso: rus
+    name: булгебийский язык
+    auto: true
   - translation_iso: spa
     name: Bulgebi
     auto: true

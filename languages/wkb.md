@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kumbaran
     auto: true
+  - translation_iso: rus
+    name: кумбаранский язык
+    auto: true
   - translation_iso: spa
     name: Kumbaran
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ndunga
     auto: true
+  - translation_iso: rus
+    name: ндунгский язык
+    auto: true
   - translation_iso: spa
     name: Ndunga
     auto: true

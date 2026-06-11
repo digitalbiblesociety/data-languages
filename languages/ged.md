@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gade
     auto: true
+  - translation_iso: rus
+    name: гадейский язык
+    auto: true
   - translation_iso: spa
     name: Gade
     auto: true

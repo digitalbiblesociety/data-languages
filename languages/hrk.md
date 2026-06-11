@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Haruku
     auto: true
+  - translation_iso: rus
+    name: харукуский язык
+    auto: true
   - translation_iso: spa
     name: Haruku
     auto: true

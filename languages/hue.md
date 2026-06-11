@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Huave de San Francisco del Mar
     auto: true
+  - translation_iso: rus
+    name: сан франкиско дел мар хуавейский язык
+    auto: true
   - translation_iso: spa
     name: huave de San Francisco del Mar
   - translation_iso: zho

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sarudu
     auto: true
+  - translation_iso: rus
+    name: сарудуский язык
+    auto: true
   - translation_iso: spa
     name: Sarudu
     auto: true

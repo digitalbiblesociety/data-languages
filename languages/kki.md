@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kagulu
     auto: true
+  - translation_iso: rus
+    name: кагулуский язык
+    auto: true
   - translation_iso: spa
     name: Kagulu
     auto: true

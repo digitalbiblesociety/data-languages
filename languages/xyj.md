@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: mayi-yapi
     auto: true
+  - translation_iso: rus
+    name: майи-япийский язык
+    auto: true
   - translation_iso: spa
     name: Mayi-Yapi
     auto: true

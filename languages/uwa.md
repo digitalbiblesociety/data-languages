@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kuku-Uwanh
     auto: true
+  - translation_iso: rus
+    name: куку-уванхский язык
+    auto: true
   - translation_iso: spa
     name: Kuku-Uwanh
     auto: true

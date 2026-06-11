@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chumburung
     auto: true
+  - translation_iso: rus
+    name: чумбурунгский язык
+    auto: true
   - translation_iso: spa
     name: Chumburung
     auto: true

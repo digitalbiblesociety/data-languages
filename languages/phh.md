@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phukha
     auto: true
+  - translation_iso: rus
+    name: фухский язык
+    auto: true
   - translation_iso: spa
     name: Phukha
     auto: true

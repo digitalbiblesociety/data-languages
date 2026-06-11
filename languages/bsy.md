@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bisaya de Sabah
     auto: true
+  - translation_iso: rus
+    name: сабах бисайский язык
+    auto: true
   - translation_iso: spa
     name: Bisaya de Sabah
     auto: true

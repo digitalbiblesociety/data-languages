@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Totoro
     auto: true
+  - translation_iso: rus
+    name: тотороский язык
+    auto: true
   - translation_iso: spa
     name: Idioma totoró
   - translation_iso: zho

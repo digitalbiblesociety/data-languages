@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Musasa
     auto: true
+  - translation_iso: rus
+    name: мусасский язык
+    auto: true
   - translation_iso: spa
     name: Musasa
     auto: true

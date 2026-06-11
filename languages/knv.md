@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Tabo
     auto: true
+  - translation_iso: rus
+    name: табоский язык
+    auto: true
   - translation_iso: spa
     name: Tabo
     auto: true

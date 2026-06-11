@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Anakalangu
     auto: true
+  - translation_iso: rus
+    name: анакалангуский язык
+    auto: true
   - translation_iso: spa
     name: Anakalangu
     auto: true

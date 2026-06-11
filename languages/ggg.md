@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gurgula
     auto: true
+  - translation_iso: rus
+    name: гургулский язык
+    auto: true
   - translation_iso: spa
     name: Gurgula
     auto: true

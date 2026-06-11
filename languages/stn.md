@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Owa
     auto: true
+  - translation_iso: rus
+    name: овский язык
+    auto: true
   - translation_iso: spa
     name: Owa
     auto: true

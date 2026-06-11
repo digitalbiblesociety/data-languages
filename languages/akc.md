@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Amberbaken
+  - translation_iso: rus
+    name: мпурский язык
+    auto: true
   - translation_iso: spa
     name: Idioma amberbaken
   - translation_iso: zho

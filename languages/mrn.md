@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Cheke Holo
     auto: true
+  - translation_iso: rus
+    name: чеке холоский язык
+    auto: true
   - translation_iso: spa
     name: Cheke holo
   - translation_iso: zho

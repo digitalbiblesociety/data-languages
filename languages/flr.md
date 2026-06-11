@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fuliiru
     auto: true
+  - translation_iso: rus
+    name: фулиируский язык
+    auto: true
   - translation_iso: spa
     name: Fuliiru
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nafri
     auto: true
+  - translation_iso: rus
+    name: нафрийский язык
+    auto: true
   - translation_iso: spa
     name: Nafri
     auto: true

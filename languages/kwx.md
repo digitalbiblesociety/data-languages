@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Khirwar
     auto: true
+  - translation_iso: rus
+    name: хирварский язык
+    auto: true
   - translation_iso: spa
     name: Khirwar
     auto: true

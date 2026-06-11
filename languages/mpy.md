@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Mapia
+  - translation_iso: rus
+    name: мапиский язык
+    auto: true
   - translation_iso: spa
     name: Mapia
   - translation_iso: zho

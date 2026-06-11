@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rapting
     auto: true
+  - translation_iso: rus
+    name: раптингский язык
+    auto: true
   - translation_iso: spa
     name: Rapting
     auto: true

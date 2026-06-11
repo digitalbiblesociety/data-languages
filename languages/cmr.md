@@ -42,6 +42,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mro
+  - translation_iso: rus
+    name: мро-хими чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Mro-Khimi
     auto: true

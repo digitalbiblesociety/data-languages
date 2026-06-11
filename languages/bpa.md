@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Daakaka
     auto: true
+  - translation_iso: rus
+    name: даакакский язык
+    auto: true
   - translation_iso: spa
     name: Daakaka
     auto: true

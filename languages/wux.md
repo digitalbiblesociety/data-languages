@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wulna
     auto: true
+  - translation_iso: rus
+    name: вулнский язык
+    auto: true
   - translation_iso: spa
     name: Wulna
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dogon Bankan Tey
     auto: true
+  - translation_iso: rus
+    name: банкан тей догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Bankan Tey
     auto: true

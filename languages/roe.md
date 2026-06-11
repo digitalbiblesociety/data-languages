@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ronji
     auto: true
+  - translation_iso: rus
+    name: ронджийский язык
+    auto: true
   - translation_iso: spa
     name: Ronji
     auto: true

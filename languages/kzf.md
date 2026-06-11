@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Kaili Da'a"
     auto: true
+  - translation_iso: rus
+    name: даа каилийский язык
+    auto: true
   - translation_iso: spa
     name: "Kaili Da'a"
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Yei
     auto: true
+  - translation_iso: rus
+    name: еийский язык
+    auto: true
   - translation_iso: spa
     name: Yei
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sansi
     auto: true
+  - translation_iso: rus
+    name: сансийский язык
+    auto: true
   - translation_iso: spa
     name: Sansi
     auto: true

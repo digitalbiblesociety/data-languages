@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: kalou
     auto: true
+  - translation_iso: rus
+    name: калуский язык
+    auto: true
   - translation_iso: spa
     name: Kalou
     auto: true

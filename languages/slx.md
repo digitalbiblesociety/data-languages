@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Salampasu
     auto: true
+  - translation_iso: rus
+    name: салампасуский язык
+    auto: true
   - translation_iso: spa
     name: Salampasu
     auto: true

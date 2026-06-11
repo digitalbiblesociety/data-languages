@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yetfa
     auto: true
+  - translation_iso: rus
+    name: етфский язык
+    auto: true
   - translation_iso: spa
     name: Yetfa
     auto: true

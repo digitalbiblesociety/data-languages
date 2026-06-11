@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Biao
     auto: true
+  - translation_iso: rus
+    name: биаоский язык
+    auto: true
   - translation_iso: spa
     name: Biao
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Anguthimri
     auto: true
+  - translation_iso: rus
+    name: ангутимрийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma anguthimri
   - translation_iso: zho

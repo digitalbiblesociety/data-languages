@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Babar do Norte
     auto: true
+  - translation_iso: rus
+    name: норт бабарский язык
+    auto: true
   - translation_iso: spa
     name: Babar Septentrional
     auto: true

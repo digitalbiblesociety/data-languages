@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kerak
     auto: true
+  - translation_iso: rus
+    name: керакский язык
+    auto: true
   - translation_iso: spa
     name: Kerak
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Tareng
     auto: true
+  - translation_iso: rus
+    name: таренгский язык
+    auto: true
   - translation_iso: spa
     name: Tareng
     auto: true

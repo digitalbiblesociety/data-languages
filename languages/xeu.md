@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Keoru-Ahia
     auto: true
+  - translation_iso: rus
+    name: кеору-ахиский язык
+    auto: true
   - translation_iso: spa
     name: Keoru-Ahia
     auto: true

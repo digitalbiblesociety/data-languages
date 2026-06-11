@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Balanta-Ganja
     auto: true
+  - translation_iso: rus
+    name: баланта-ганйский язык
+    auto: true
   - translation_iso: spa
     name: Balanta-Ganja
     auto: true

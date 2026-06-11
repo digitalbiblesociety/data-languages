@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Takia
     auto: true
+  - translation_iso: rus
+    name: такиский язык
+    auto: true
   - translation_iso: spa
     name: Takia
     auto: true

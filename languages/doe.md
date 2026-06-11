@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Doe
     auto: true
+  - translation_iso: rus
+    name: доейский язык
+    auto: true
   - translation_iso: spa
     name: lengua doe
   - translation_iso: zho

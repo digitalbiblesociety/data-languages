@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ticar
+  - translation_iso: rus
+    name: тикарский язык
+    auto: true
   - translation_iso: spa
     name: Tikar
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Roglai Cacgia
     auto: true
+  - translation_iso: rus
+    name: какгиа роглаийский язык
+    auto: true
   - translation_iso: spa
     name: Roglai cacgia
     auto: true

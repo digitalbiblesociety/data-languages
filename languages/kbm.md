@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Iwal
     auto: true
+  - translation_iso: rus
+    name: ивальский язык
+    auto: true
   - translation_iso: spa
     name: Iwal
   - translation_iso: zho

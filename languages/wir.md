@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wiraféd
     auto: true
+  - translation_iso: rus
+    name: вирафедский язык
+    auto: true
   - translation_iso: spa
     name: Wiraféd
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ngandi
     auto: true
+  - translation_iso: rus
+    name: нгандийский язык
+    auto: true
   - translation_iso: spa
     name: Ngandi
     auto: true

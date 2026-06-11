@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Canúri de Bilma
     auto: true
+  - translation_iso: rus
+    name: билма канурийский язык
+    auto: true
   - translation_iso: spa
     name: Kanuri de Bilma
     auto: true

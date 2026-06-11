@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mochi
     auto: true
+  - translation_iso: rus
+    name: мочийский язык
+    auto: true
   - translation_iso: spa
     name: Mochi
     auto: true

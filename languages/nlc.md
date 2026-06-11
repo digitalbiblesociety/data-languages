@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nalca
     auto: true
+  - translation_iso: rus
+    name: налкский язык
+    auto: true
   - translation_iso: spa
     name: Nalca
     auto: true

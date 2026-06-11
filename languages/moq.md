@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Mor (Península de Bomberai)
     auto: true
+  - translation_iso: rus
+    name: морский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mor
   - translation_iso: zho

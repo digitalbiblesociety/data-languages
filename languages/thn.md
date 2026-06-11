@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Thachanadan
     auto: true
+  - translation_iso: rus
+    name: тачанаданский язык
+    auto: true
   - translation_iso: spa
     name: Thachanadan
     auto: true

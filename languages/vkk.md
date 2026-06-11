@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kaur
+  - translation_iso: rus
+    name: каурский язык
+    auto: true
   - translation_iso: spa
     name: Kaur
   - translation_iso: zho

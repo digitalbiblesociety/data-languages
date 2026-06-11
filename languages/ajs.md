@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Judaica Argelina
     auto: true
+  - translation_iso: rus
+    name: алгериан евиш сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas judía argelina
     auto: true

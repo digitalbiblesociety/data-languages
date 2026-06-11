@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kasiguranin
     auto: true
+  - translation_iso: rus
+    name: касигуранинский язык
+    auto: true
   - translation_iso: spa
     name: Kasiguranin
     auto: true

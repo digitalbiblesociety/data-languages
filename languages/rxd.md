@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ngardi
+  - translation_iso: rus
+    name: нгардийский язык
+    auto: true
   - translation_iso: spa
     name: Ngardi
     auto: true

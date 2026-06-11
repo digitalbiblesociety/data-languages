@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Nyang'i"
     auto: true
+  - translation_iso: rus
+    name: нянгийский язык
+    auto: true
   - translation_iso: spa
     name: "Nyang'i"
     auto: true

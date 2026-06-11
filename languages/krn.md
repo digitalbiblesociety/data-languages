@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sapo
     auto: true
+  - translation_iso: rus
+    name: сапоский язык
+    auto: true
   - translation_iso: spa
     name: Sapo
   - translation_iso: zho

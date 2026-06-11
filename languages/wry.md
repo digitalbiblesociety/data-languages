@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Merwari
     auto: true
+  - translation_iso: rus
+    name: мерварийский язык
+    auto: true
   - translation_iso: spa
     name: Merwari
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kohumono
     auto: true
+  - translation_iso: rus
+    name: кохумоноский язык
+    auto: true
   - translation_iso: spa
     name: kohumono
   - translation_iso: zho

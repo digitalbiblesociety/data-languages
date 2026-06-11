@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua sümi
+  - translation_iso: rus
+    name: суми нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Sumi
     auto: true

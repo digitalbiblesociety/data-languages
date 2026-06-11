@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Melanau central
     auto: true
+  - translation_iso: rus
+    name: кентрал меланауский язык
+    auto: true
   - translation_iso: spa
     name: Melanau Central
     auto: true

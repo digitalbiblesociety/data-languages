@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: ngunawal
     auto: true
+  - translation_iso: rus
+    name: нгунавальский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngunnawal
   - translation_iso: zho

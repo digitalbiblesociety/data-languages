@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ambae Oriental
     auto: true
+  - translation_iso: rus
+    name: еаст амбаейский язык
+    auto: true
   - translation_iso: spa
     name: Ambae oriental
     auto: true

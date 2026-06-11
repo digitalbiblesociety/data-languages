@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nasarian
     auto: true
+  - translation_iso: rus
+    name: насарианский язык
+    auto: true
   - translation_iso: spa
     name: Nasarian
     auto: true

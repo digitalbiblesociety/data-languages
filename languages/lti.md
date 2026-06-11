@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Leti (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: летийский язык
+    auto: true
   - translation_iso: spa
     name: Leti (Indonesia)
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sauri
     auto: true
+  - translation_iso: rus
+    name: саурийский язык
+    auto: true
   - translation_iso: spa
     name: Sauri
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Niwer Mil
     auto: true
+  - translation_iso: rus
+    name: нивер мильский язык
+    auto: true
   - translation_iso: spa
     name: Niwer Mil
   - translation_iso: zho

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ayta Magbukun
     auto: true
+  - translation_iso: rus
+    name: магбукун айтский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mariveleño
   - translation_iso: zho

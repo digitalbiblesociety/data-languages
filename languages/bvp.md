@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Bumang
     auto: true
+  - translation_iso: rus
+    name: бумангский язык
+    auto: true
   - translation_iso: spa
     name: Bumang
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kaurna
+  - translation_iso: rus
+    name: каурнский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kaurna
   - translation_iso: zho

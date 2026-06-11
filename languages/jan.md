@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Jandai
     auto: true
+  - translation_iso: rus
+    name: яндаийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma jandai
   - translation_iso: zho

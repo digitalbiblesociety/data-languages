@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kovai
     auto: true
+  - translation_iso: rus
+    name: коваийский язык
+    auto: true
   - translation_iso: spa
     name: Kovai
     auto: true

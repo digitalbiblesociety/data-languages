@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gibanawa
     auto: true
+  - translation_iso: rus
+    name: гибанавский язык
+    auto: true
   - translation_iso: spa
     name: Gibanawa
     auto: true

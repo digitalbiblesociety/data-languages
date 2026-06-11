@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gwahatike
     auto: true
+  - translation_iso: rus
+    name: гвахатикейский язык
+    auto: true
   - translation_iso: spa
     name: Gwahatike
     auto: true

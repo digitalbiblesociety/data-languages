@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Ma'di Meridional"
     auto: true
+  - translation_iso: rus
+    name: сутерн мадийский язык
+    auto: true
   - translation_iso: spa
     name: "Ma'di meridional"
     auto: true

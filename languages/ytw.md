@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yout wam
     auto: true
+  - translation_iso: rus
+    name: йоут вамский язык
+    auto: true
   - translation_iso: spa
     name: Yout Wam
     auto: true

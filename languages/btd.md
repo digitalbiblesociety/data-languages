@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua pakpak
+  - translation_iso: rus
+    name: батак даирийский язык
+    auto: true
   - translation_iso: spa
     name: Batak Dairi
     auto: true

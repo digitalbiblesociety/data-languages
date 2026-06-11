@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dinka Nordeste
     auto: true
+  - translation_iso: rus
+    name: нортеастерн динкский язык
+    auto: true
   - translation_iso: spa
     name: dinka nororiental
   - translation_iso: zho

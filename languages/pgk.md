@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rerep
     auto: true
+  - translation_iso: rus
+    name: ререпский язык
+    auto: true
   - translation_iso: spa
     name: Rerep
     auto: true

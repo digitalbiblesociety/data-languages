@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua manjaca
+  - translation_iso: rus
+    name: мандякский язык
+    auto: true
   - translation_iso: spa
     name: Mandjak
     auto: true

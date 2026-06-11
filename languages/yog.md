@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua yogad
+  - translation_iso: rus
+    name: йогадский язык
+    auto: true
   - translation_iso: spa
     name: Yogad
     auto: true

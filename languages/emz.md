@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Mbessa
     auto: true
+  - translation_iso: rus
+    name: мбессский язык
+    auto: true
   - translation_iso: spa
     name: Mbessa
     auto: true

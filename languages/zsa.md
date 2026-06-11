@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sarasira
     auto: true
+  - translation_iso: rus
+    name: сарасирский язык
+    auto: true
   - translation_iso: spa
     name: Sarasira
     auto: true

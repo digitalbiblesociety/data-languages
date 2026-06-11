@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Uri
     auto: true
+  - translation_iso: rus
+    name: урийский язык
+    auto: true
   - translation_iso: spa
     name: Uri
     auto: true

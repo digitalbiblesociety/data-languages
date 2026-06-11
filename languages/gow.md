@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gorowa
     auto: true
+  - translation_iso: rus
+    name: горовский язык
+    auto: true
   - translation_iso: spa
     name: Gorowa
     auto: true

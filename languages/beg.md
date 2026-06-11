@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Belait
     auto: true
+  - translation_iso: rus
+    name: белаитский язык
+    auto: true
   - translation_iso: spa
     name: Belait
     auto: true

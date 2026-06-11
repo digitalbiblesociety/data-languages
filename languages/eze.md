@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Uzekwe
     auto: true
+  - translation_iso: rus
+    name: узеквейский язык
+    auto: true
   - translation_iso: spa
     name: Uzekwe
     auto: true

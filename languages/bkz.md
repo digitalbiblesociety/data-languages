@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bungku
+  - translation_iso: rus
+    name: бунгкуский язык
+    auto: true
   - translation_iso: spa
     name: Bungku
     auto: true

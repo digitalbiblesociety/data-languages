@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tring
     auto: true
+  - translation_iso: rus
+    name: трингский язык
+    auto: true
   - translation_iso: spa
     name: Tring
     auto: true

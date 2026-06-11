@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zoque de Rayón
     auto: true
+  - translation_iso: rus
+    name: район зоквейский язык
+    auto: true
   - translation_iso: spa
     name: Zoque de Rayón
     auto: true

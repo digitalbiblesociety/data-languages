@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmong Njua
     auto: true
+  - translation_iso: rus
+    name: хмонг нюский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Njua
     auto: true

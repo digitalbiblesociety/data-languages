@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: limi
     auto: true
+  - translation_iso: rus
+    name: лимийский язык
+    auto: true
   - translation_iso: spa
     name: Limi
     auto: true

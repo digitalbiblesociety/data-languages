@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mlabri
     auto: true
+  - translation_iso: rus
+    name: млабрийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mlabri
   - translation_iso: zho

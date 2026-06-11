@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tangko
     auto: true
+  - translation_iso: rus
+    name: тангкоский язык
+    auto: true
   - translation_iso: spa
     name: Tangko
     auto: true

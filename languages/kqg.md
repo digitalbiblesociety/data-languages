@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Khe
     auto: true
+  - translation_iso: rus
+    name: хейский язык
+    auto: true
   - translation_iso: spa
     name: Khe
     auto: true

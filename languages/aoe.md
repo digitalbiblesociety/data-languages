@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Angal Enen
     auto: true
+  - translation_iso: rus
+    name: ангал ененский язык
+    auto: true
   - translation_iso: spa
     name: Angal Enen
     auto: true

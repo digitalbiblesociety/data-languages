@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lemerig
+  - translation_iso: rus
+    name: лемеригский язык
+    auto: true
   - translation_iso: spa
     name: Lemerig
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Adasen
     auto: true
+  - translation_iso: rus
+    name: адасенский язык
+    auto: true
   - translation_iso: spa
     name: Adasen
     auto: true

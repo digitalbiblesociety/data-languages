@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Côông
     auto: true
+  - translation_iso: rus
+    name: коонгский язык
+    auto: true
   - translation_iso: spa
     name: Côông
     auto: true

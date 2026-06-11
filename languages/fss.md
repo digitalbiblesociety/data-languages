@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Finlandesa-Sueca
     auto: true
+  - translation_iso: rus
+    name: финланд-сведиш сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas finlandesa-sueca
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Igwe
     auto: true
+  - translation_iso: rus
+    name: игвейский язык
+    auto: true
   - translation_iso: spa
     name: Igwe
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Luri
     auto: true
+  - translation_iso: rus
+    name: лурийский язык
+    auto: true
   - translation_iso: spa
     name: Luri
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Walmajarri
     auto: true
+  - translation_iso: rus
+    name: валмаяррийский язык
+    auto: true
   - translation_iso: spa
     name: idioma walmajarri
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bamali
     auto: true
+  - translation_iso: rus
+    name: бамалийский язык
+    auto: true
   - translation_iso: spa
     name: Bamali
     auto: true

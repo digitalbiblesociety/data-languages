@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: kaimbulawa
     auto: true
+  - translation_iso: rus
+    name: каимбулавский язык
+    auto: true
   - translation_iso: spa
     name: Kaimbulawa
     auto: true

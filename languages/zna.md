@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Zan Gula
     auto: true
+  - translation_iso: rus
+    name: зан гулский язык
+    auto: true
   - translation_iso: spa
     name: Zan Gula
     auto: true

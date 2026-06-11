@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua cinyungwe
+  - translation_iso: rus
+    name: нюнгвейский язык
+    auto: true
   - translation_iso: spa
     name: Nyungwe
     auto: true

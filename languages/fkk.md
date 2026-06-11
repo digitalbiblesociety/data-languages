@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kirya-Konzəl
     auto: true
+  - translation_iso: rus
+    name: киря-конзэльский язык
+    auto: true
   - translation_iso: spa
     name: Kirya-Konzəl
     auto: true

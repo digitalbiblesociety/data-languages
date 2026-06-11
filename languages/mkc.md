@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Siliput
     auto: true
+  - translation_iso: rus
+    name: силипутский язык
+    auto: true
   - translation_iso: spa
     name: Siliput
     auto: true

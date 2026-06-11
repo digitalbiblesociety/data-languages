@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bikol de Libon
     auto: true
+  - translation_iso: rus
+    name: либон бикольский язык
+    auto: true
   - translation_iso: spa
     name: Bikol de Libon
     auto: true

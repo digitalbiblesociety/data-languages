@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Lao
     auto: true
+  - translation_iso: rus
+    name: лао нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Lao
     auto: true

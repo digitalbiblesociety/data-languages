@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jumjum
     auto: true
+  - translation_iso: rus
+    name: юмюмский язык
+    auto: true
   - translation_iso: spa
     name: Jumjum
     auto: true

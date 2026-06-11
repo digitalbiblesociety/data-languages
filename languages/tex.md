@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tennet
     auto: true
+  - translation_iso: rus
+    name: теннетский язык
+    auto: true
   - translation_iso: spa
     name: tennet
   - translation_iso: zho

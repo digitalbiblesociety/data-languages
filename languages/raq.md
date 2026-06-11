@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Saam
     auto: true
+  - translation_iso: rus
+    name: саамский язык
+    auto: true
   - translation_iso: spa
     name: Saam
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Naami
     auto: true
+  - translation_iso: rus
+    name: наамийский язык
+    auto: true
   - translation_iso: spa
     name: Naami
     auto: true

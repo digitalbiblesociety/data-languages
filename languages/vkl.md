@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kulisusu
+  - translation_iso: rus
+    name: кулисусуский язык
+    auto: true
   - translation_iso: spa
     name: Kulisusu
     auto: true

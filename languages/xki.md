@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Gestual Queniana
+  - translation_iso: rus
+    name: кенян сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas keniana
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tiang
     auto: true
+  - translation_iso: rus
+    name: тиангский язык
+    auto: true
   - translation_iso: spa
     name: Tiang
     auto: true

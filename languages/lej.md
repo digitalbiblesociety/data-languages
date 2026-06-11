@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lengola
+  - translation_iso: rus
+    name: ленголский язык
+    auto: true
   - translation_iso: spa
     name: Lengola
     auto: true

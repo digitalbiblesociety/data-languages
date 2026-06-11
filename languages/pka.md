@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Prácrito ardhamagadi
     auto: true
+  - translation_iso: rus
+    name: ардхамагадхи пракритский язык
+    auto: true
   - translation_iso: spa
     name: Ardhamagadhi
   - translation_iso: zho

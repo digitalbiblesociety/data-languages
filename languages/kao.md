@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Xaasongaxango
     auto: true
+  - translation_iso: rus
+    name: ксаасонгаксангоский язык
+    auto: true
   - translation_iso: spa
     name: Xaasongaxango
     auto: true

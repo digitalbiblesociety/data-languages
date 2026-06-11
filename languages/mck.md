@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Mbunda
+  - translation_iso: rus
+    name: мбундский язык
+    auto: true
   - translation_iso: spa
     name: mbunda
   - translation_iso: zho

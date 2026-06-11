@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tamagario
     auto: true
+  - translation_iso: rus
+    name: тамагариоский язык
+    auto: true
   - translation_iso: spa
     name: Tamagario
     auto: true

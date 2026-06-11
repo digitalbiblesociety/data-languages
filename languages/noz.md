@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nayi
+  - translation_iso: rus
+    name: найийский язык
+    auto: true
   - translation_iso: spa
     name: Nayi
     auto: true

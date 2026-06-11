@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malak Malak
     auto: true
+  - translation_iso: rus
+    name: малак малакский язык
+    auto: true
   - translation_iso: spa
     name: Malak Malak
     auto: true

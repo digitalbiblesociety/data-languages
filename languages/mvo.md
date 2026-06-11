@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Marovo
     auto: true
+  - translation_iso: rus
+    name: маровоский язык
+    auto: true
   - translation_iso: spa
     name: Marovo
   - translation_iso: zho

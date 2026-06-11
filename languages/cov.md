@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Cao Miao
     auto: true
+  - translation_iso: rus
+    name: као миаоский язык
+    auto: true
   - translation_iso: spa
     name: Cao Miao
     auto: true

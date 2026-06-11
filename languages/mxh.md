@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mvuba
     auto: true
+  - translation_iso: rus
+    name: мвубский язык
+    auto: true
   - translation_iso: spa
     name: Mvuba
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sibe
     auto: true
+  - translation_iso: rus
+    name: сибейский язык
+    auto: true
   - translation_iso: spa
     name: Sibe
     auto: true

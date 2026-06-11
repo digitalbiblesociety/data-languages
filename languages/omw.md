@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tairora do Sul
     auto: true
+  - translation_iso: rus
+    name: сут таирорский язык
+    auto: true
   - translation_iso: spa
     name: Tairora meridional
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bicol de Catanduanes do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн катандуанес бикольский язык
+    auto: true
   - translation_iso: spa
     name: Bikol del sur de Catanduanes
     auto: true

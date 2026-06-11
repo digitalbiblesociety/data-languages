@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: canúri de Tumari
     auto: true
+  - translation_iso: rus
+    name: тумари канурийский язык
+    auto: true
   - translation_iso: spa
     name: Kanuri Tumari
     auto: true

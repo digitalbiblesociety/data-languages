@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Musar
     auto: true
+  - translation_iso: rus
+    name: мусарский язык
+    auto: true
   - translation_iso: spa
     name: Musar
     auto: true

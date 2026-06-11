@@ -37,6 +37,9 @@ translations:
     name: 카피스논어
   - translation_iso: por
     name: Língua capiznon
+  - translation_iso: rus
+    name: капизнонский язык
+    auto: true
   - translation_iso: spa
     name: idioma capizano
   - translation_iso: zho

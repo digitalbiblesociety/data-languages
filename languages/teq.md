@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Temein
     auto: true
+  - translation_iso: rus
+    name: темеинский язык
+    auto: true
   - translation_iso: spa
     name: Temein
     auto: true

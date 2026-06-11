@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vengo
     auto: true
+  - translation_iso: rus
+    name: венгоский язык
+    auto: true
   - translation_iso: spa
     name: Vengo
     auto: true

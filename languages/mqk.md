@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: manobo de Rajah Kabunsuwan
     auto: true
+  - translation_iso: rus
+    name: раях кабунсуван манобоский язык
+    auto: true
   - translation_iso: spa
     name: Manobo Rajah Kabunsuwan
     auto: true

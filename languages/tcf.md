@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Me'phaa de Malinaltepec"
     auto: true
+  - translation_iso: rus
+    name: малиналтепек мефаский язык
+    auto: true
   - translation_iso: spa
     name: tlapaneco oriental
   - translation_iso: zho

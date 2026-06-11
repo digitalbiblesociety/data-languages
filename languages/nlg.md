@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gela
     auto: true
+  - translation_iso: rus
+    name: гелский язык
+    auto: true
   - translation_iso: spa
     name: Lengua gela
   - translation_iso: zho

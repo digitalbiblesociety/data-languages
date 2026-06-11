@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nubaca
     auto: true
+  - translation_iso: rus
+    name: нубакский язык
+    auto: true
   - translation_iso: spa
     name: Nubaca
     auto: true

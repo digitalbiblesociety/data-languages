@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Cakchiquel-Quiché
     auto: true
+  - translation_iso: rus
+    name: какчиквел-квичейский язык
+    auto: true
   - translation_iso: spa
     name: Cakchiquel-Quiché
     auto: true

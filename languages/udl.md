@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wuzlam
     auto: true
+  - translation_iso: rus
+    name: вузламский язык
+    auto: true
   - translation_iso: spa
     name: Wuzlam
     auto: true

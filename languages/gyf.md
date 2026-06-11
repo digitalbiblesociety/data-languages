@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gungabula
     auto: true
+  - translation_iso: rus
+    name: гунгабулский язык
+    auto: true
   - translation_iso: spa
     name: Gungabula
     auto: true

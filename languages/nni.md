@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nuaulu do Norte
     auto: true
+  - translation_iso: rus
+    name: норт нуаулуский язык
+    auto: true
   - translation_iso: spa
     name: Nuaulu septentrional
     auto: true

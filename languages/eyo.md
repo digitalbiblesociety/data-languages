@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Keiyo
     auto: true
+  - translation_iso: rus
+    name: кеийоский язык
+    auto: true
   - translation_iso: spa
     name: Keiyo
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Iwur
     auto: true
+  - translation_iso: rus
+    name: ивурский язык
+    auto: true
   - translation_iso: spa
     name: Iwur
     auto: true

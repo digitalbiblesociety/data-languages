@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tanapag
     auto: true
+  - translation_iso: rus
+    name: танапагский язык
+    auto: true
   - translation_iso: spa
     name: Tanapag
     auto: true

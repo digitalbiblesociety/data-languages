@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: phala
     auto: true
+  - translation_iso: rus
+    name: фалский язык
+    auto: true
   - translation_iso: spa
     name: Phala
     auto: true

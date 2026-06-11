@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dompo
     auto: true
+  - translation_iso: rus
+    name: домпоский язык
+    auto: true
   - translation_iso: spa
     name: dompo
   - translation_iso: zho

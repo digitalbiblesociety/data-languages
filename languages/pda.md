@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Anam
     auto: true
+  - translation_iso: rus
+    name: анамский язык
+    auto: true
   - translation_iso: spa
     name: Anam
     auto: true

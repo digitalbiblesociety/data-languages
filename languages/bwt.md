@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bafaw-Balong
     auto: true
+  - translation_iso: rus
+    name: бафав-балонгский язык
+    auto: true
   - translation_iso: spa
     name: Bafaw-Balong
     auto: true

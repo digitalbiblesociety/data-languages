@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Madi
     auto: true
+  - translation_iso: rus
+    name: мадийский язык
+    auto: true
   - translation_iso: spa
     name: Madi
     auto: true

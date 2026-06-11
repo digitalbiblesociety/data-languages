@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mer
     auto: true
+  - translation_iso: rus
+    name: мерский язык
+    auto: true
   - translation_iso: spa
     name: Mer
     auto: true

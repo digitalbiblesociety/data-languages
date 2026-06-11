@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bana
+  - translation_iso: rus
+    name: банский язык
+    auto: true
   - translation_iso: spa
     name: Bana
     auto: true

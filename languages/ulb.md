@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ulucumi
+  - translation_iso: rus
+    name: улуквумийский язык
+    auto: true
   - translation_iso: spa
     name: Ulukwumi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Suíço-Francesa
     auto: true
+  - translation_iso: rus
+    name: свисс-френч сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas franco-suiza
     auto: true

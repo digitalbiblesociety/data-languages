@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kamayo
     auto: true
+  - translation_iso: rus
+    name: камайоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kamayo
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Buyu
     auto: true
+  - translation_iso: rus
+    name: буюский язык
+    auto: true
   - translation_iso: spa
     name: Buyu
     auto: true

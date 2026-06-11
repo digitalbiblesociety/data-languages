@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Papapana
     auto: true
+  - translation_iso: rus
+    name: папапанский язык
+    auto: true
   - translation_iso: spa
     name: Idioma papapana
   - translation_iso: zho

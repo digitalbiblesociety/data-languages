@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sari
     auto: true
+  - translation_iso: rus
+    name: сарийский язык
+    auto: true
   - translation_iso: spa
     name: Sari
     auto: true

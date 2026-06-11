@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua pochuri
+  - translation_iso: rus
+    name: почури нагский язык
+    auto: true
   - translation_iso: spa
     name: Pochuri
   - translation_iso: zho

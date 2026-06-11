@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Label
     auto: true
+  - translation_iso: rus
+    name: лабельский язык
+    auto: true
   - translation_iso: spa
     name: Label
     auto: true

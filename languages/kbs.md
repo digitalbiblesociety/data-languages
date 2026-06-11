@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kande
     auto: true
+  - translation_iso: rus
+    name: кандейский язык
+    auto: true
   - translation_iso: spa
     name: Kande
     auto: true

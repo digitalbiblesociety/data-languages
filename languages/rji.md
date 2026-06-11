@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Raji
     auto: true
+  - translation_iso: rus
+    name: раджийский язык
+    auto: true
   - translation_iso: spa
     name: Raji
     auto: true

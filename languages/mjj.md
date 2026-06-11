@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mawak
     auto: true
+  - translation_iso: rus
+    name: мавакский язык
+    auto: true
   - translation_iso: spa
     name: Mawak
     auto: true

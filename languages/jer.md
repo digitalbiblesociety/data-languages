@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jere
     auto: true
+  - translation_iso: rus
+    name: ерейский язык
+    auto: true
   - translation_iso: spa
     name: Jere
     auto: true

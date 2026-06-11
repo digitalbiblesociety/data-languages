@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gamo
     auto: true
+  - translation_iso: rus
+    name: гамоский язык
+    auto: true
   - translation_iso: spa
     name: Gamo
     auto: true

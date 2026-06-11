@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ambrak
     auto: true
+  - translation_iso: rus
+    name: амбракский язык
+    auto: true
   - translation_iso: spa
     name: Ambrak
     auto: true

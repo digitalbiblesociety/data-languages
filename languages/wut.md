@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wutung
     auto: true
+  - translation_iso: rus
+    name: вутунгский язык
+    auto: true
   - translation_iso: spa
     name: Wutung
     auto: true

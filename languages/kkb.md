@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kwerisa
     auto: true
+  - translation_iso: rus
+    name: кверисский язык
+    auto: true
   - translation_iso: spa
     name: Kwerisa
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Mzieme
     auto: true
+  - translation_iso: rus
+    name: мзиеме нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Mzieme
     auto: true

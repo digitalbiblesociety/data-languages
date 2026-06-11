@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ila
     auto: true
+  - translation_iso: rus
+    name: илский язык
+    auto: true
   - translation_iso: spa
     name: Ila
     auto: true

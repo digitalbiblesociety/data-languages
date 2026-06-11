@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tampulma
     auto: true
+  - translation_iso: rus
+    name: тампулмский язык
+    auto: true
   - translation_iso: spa
     name: Tampulma
     auto: true

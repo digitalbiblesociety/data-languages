@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Arapáso
+  - translation_iso: rus
+    name: арапасоский язык
+    auto: true
   - translation_iso: spa
     name: Arapaso
     auto: true

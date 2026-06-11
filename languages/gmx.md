@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Magoma
     auto: true
+  - translation_iso: rus
+    name: магомский язык
+    auto: true
   - translation_iso: spa
     name: Magoma
     auto: true

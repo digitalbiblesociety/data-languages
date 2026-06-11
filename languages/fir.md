@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Firan
     auto: true
+  - translation_iso: rus
+    name: фиранский язык
+    auto: true
   - translation_iso: spa
     name: Firan
     auto: true

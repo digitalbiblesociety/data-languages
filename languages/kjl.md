@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kham Parbate Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн парбате хамский язык
+    auto: true
   - translation_iso: spa
     name: Kham Parbate Occidental
     auto: true

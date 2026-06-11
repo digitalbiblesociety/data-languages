@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Xina Cohistani
     auto: true
+  - translation_iso: rus
+    name: кохистани шинский язык
+    auto: true
   - translation_iso: spa
     name: Shina kohistaní
     auto: true

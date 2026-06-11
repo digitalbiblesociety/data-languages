@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bih
     auto: true
+  - translation_iso: rus
+    name: бихский язык
+    auto: true
   - translation_iso: spa
     name: Bih
     auto: true

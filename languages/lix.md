@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Liabuku
     auto: true
+  - translation_iso: rus
+    name: лиабукуский язык
+    auto: true
   - translation_iso: spa
     name: Liabuku
     auto: true

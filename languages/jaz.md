@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jawe
     auto: true
+  - translation_iso: rus
+    name: явейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma jawe
   - translation_iso: zho

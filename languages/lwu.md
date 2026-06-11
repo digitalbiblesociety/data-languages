@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lawu
     auto: true
+  - translation_iso: rus
+    name: лавуский язык
+    auto: true
   - translation_iso: spa
     name: Lawu
     auto: true

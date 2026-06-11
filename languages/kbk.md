@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Koiari das Pastagens
     auto: true
+  - translation_iso: rus
+    name: грасс коиарийский язык
+    auto: true
   - translation_iso: spa
     name: Koiari de sabana
     auto: true

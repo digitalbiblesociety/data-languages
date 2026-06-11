@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malgaxe Betsimisaraka meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн бецимисарака малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache Betsimisaraka Meridional
     auto: true

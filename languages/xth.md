@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Yitha Yitha
     auto: true
+  - translation_iso: rus
+    name: йита йитский язык
+    auto: true
   - translation_iso: spa
     name: idioma yitha-yitha
   - translation_iso: zho

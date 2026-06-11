@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ede Idaca
     auto: true
+  - translation_iso: rus
+    name: еде идакский язык
+    auto: true
   - translation_iso: spa
     name: Ede Idaca
     auto: true

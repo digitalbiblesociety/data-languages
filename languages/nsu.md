@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: náuatle da Sierra Negra
     auto: true
+  - translation_iso: rus
+    name: сиерра негра нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl de la Sierra Negra
   - translation_iso: zho

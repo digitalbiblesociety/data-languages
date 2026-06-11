@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: "Ma'ya"
     auto: true
+  - translation_iso: rus
+    name: майский язык
+    auto: true
   - translation_iso: spa
     name: "Ma'ya"
     auto: true

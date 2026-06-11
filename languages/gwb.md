@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Gwa
     auto: true
+  - translation_iso: rus
+    name: гвский язык
+    auto: true
   - translation_iso: spa
     name: Gwa
     auto: true

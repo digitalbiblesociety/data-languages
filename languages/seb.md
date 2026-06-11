@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Senufo Shempire
     auto: true
+  - translation_iso: rus
+    name: шемпире сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Shempire
     auto: true

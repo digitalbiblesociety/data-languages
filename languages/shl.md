@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Shendu
     auto: true
+  - translation_iso: rus
+    name: шендуский язык
+    auto: true
   - translation_iso: spa
     name: Shendu
     auto: true

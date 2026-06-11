@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maindo
     auto: true
+  - translation_iso: rus
+    name: маиндоский язык
+    auto: true
   - translation_iso: spa
     name: Maindo
     auto: true

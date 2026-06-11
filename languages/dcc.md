@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Decani
     auto: true
+  - translation_iso: rus
+    name: декканский язык
+    auto: true
   - translation_iso: spa
     name: Marati berar-deccan
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kaian
     auto: true
+  - translation_iso: rus
+    name: каианский язык
+    auto: true
   - translation_iso: spa
     name: Kaian
     auto: true

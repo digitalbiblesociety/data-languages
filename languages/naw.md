@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nawuri
     auto: true
+  - translation_iso: rus
+    name: навурийский язык
+    auto: true
   - translation_iso: spa
     name: nawuri
   - translation_iso: zho

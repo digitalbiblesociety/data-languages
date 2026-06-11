@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Patamona
     auto: true
+  - translation_iso: rus
+    name: патамонский язык
+    auto: true
   - translation_iso: spa
     name: Patamona
   - translation_iso: zho

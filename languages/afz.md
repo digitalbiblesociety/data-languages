@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Obokuitai
     auto: true
+  - translation_iso: rus
+    name: обокуитаийский язык
+    auto: true
   - translation_iso: spa
     name: Obokuitai
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Chiquián Ancash
     auto: true
+  - translation_iso: rus
+    name: чиквиан анкаш квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua de Chiquián
   - translation_iso: zho

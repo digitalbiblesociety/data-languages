@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Miu
     auto: true
+  - translation_iso: rus
+    name: миуский язык
+    auto: true
   - translation_iso: spa
     name: Miu
     auto: true

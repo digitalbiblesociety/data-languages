@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ubi
     auto: true
+  - translation_iso: rus
+    name: убийский язык
+    auto: true
   - translation_iso: spa
     name: ubi
   - translation_iso: zho

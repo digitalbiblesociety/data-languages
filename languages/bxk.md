@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bukusu
+  - translation_iso: rus
+    name: букусуский язык
+    auto: true
   - translation_iso: spa
     name: bukusu
   - translation_iso: zho

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Burun
     auto: true
+  - translation_iso: rus
+    name: бурунский язык
+    auto: true
   - translation_iso: spa
     name: Burun
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ca̱hungwa̱rya̱
     auto: true
+  - translation_iso: rus
+    name: кахунгварйский язык
+    auto: true
   - translation_iso: spa
     name: Ca̱hungwa̱rya̱
     auto: true

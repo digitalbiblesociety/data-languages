@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: gadaba de Mudhili
     auto: true
+  - translation_iso: rus
+    name: мудхили гадабский язык
+    auto: true
   - translation_iso: spa
     name: Gadaba mudhili
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Marimanindji
     auto: true
+  - translation_iso: rus
+    name: мариманиндджийский язык
+    auto: true
   - translation_iso: spa
     name: Marimanindji
     auto: true

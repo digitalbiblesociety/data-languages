@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nuni do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн нунийский язык
+    auto: true
   - translation_iso: spa
     name: Nuni meridional
     auto: true

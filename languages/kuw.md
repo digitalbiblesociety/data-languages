@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kpagua
     auto: true
+  - translation_iso: rus
+    name: кпагуский язык
+    auto: true
   - translation_iso: spa
     name: Kpagua
     auto: true

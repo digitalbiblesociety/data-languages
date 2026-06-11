@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kahua
+  - translation_iso: rus
+    name: кахуский язык
+    auto: true
   - translation_iso: spa
     name: Kahua
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: fulfulde de Maasina
     auto: true
+  - translation_iso: rus
+    name: маасина фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde de Maasina
     auto: true

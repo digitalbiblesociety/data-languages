@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Walla Walla
     auto: true
+  - translation_iso: rus
+    name: валла валлский язык
+    auto: true
   - translation_iso: spa
     name: Walla Walla
     auto: true

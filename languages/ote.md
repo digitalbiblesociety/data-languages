@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: otomi de Mezquital
     auto: true
+  - translation_iso: rus
+    name: мезквитал отомийский язык
+    auto: true
   - translation_iso: spa
     name: Otomí del Valle del Mezquital
   - translation_iso: zho

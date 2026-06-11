@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malgana
     auto: true
+  - translation_iso: rus
+    name: малганский язык
+    auto: true
   - translation_iso: spa
     name: Malgana
     auto: true

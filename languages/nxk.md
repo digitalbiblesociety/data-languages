@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Naga Koki
     auto: true
+  - translation_iso: rus
+    name: коки нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Koki
     auto: true

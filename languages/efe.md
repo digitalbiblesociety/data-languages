@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Efe
     auto: true
+  - translation_iso: rus
+    name: ефейский язык
+    auto: true
   - translation_iso: spa
     name: lese
   - translation_iso: zho

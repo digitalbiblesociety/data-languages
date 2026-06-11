@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Birrpayi
     auto: true
+  - translation_iso: rus
+    name: биррпайийский язык
+    auto: true
   - translation_iso: spa
     name: Birrpayi
     auto: true

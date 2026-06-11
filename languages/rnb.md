@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Brunca
     auto: true
+  - translation_iso: rus
+    name: брунка сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas brunca
     auto: true

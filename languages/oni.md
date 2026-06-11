@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Onin
     auto: true
+  - translation_iso: rus
+    name: онинский язык
+    auto: true
   - translation_iso: spa
     name: Onin
     auto: true

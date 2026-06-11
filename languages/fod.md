@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua foodo
+  - translation_iso: rus
+    name: фудоский язык
+    auto: true
   - translation_iso: spa
     name: Foodo
     auto: true

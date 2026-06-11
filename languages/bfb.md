@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pauri Bareli
     auto: true
+  - translation_iso: rus
+    name: паури барелийский язык
+    auto: true
   - translation_iso: spa
     name: Bareli Pauri
     auto: true

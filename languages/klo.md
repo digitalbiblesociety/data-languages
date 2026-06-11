@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kapya
     auto: true
+  - translation_iso: rus
+    name: капйский язык
+    auto: true
   - translation_iso: spa
     name: Kapya
     auto: true

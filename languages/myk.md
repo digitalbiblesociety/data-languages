@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Senufo Mamara
     auto: true
+  - translation_iso: rus
+    name: мамара сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Mamara Senoufo
     auto: true

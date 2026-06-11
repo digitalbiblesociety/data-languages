@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pal
     auto: true
+  - translation_iso: rus
+    name: пальский язык
+    auto: true
   - translation_iso: spa
     name: Pal
     auto: true

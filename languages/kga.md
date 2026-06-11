@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koyaga
     auto: true
+  - translation_iso: rus
+    name: коягский язык
+    auto: true
   - translation_iso: spa
     name: Koyaga
     auto: true

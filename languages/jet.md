@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Manem
     auto: true
+  - translation_iso: rus
+    name: манемский язык
+    auto: true
   - translation_iso: spa
     name: Manem
     auto: true

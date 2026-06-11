@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bintulu
     auto: true
+  - translation_iso: rus
+    name: бинтулуский язык
+    auto: true
   - translation_iso: spa
     name: Bintulu
     auto: true

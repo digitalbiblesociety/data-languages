@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: malasar
     auto: true
+  - translation_iso: rus
+    name: маласарский язык
+    auto: true
   - translation_iso: spa
     name: Malasar
     auto: true

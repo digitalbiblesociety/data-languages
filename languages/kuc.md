@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kwinsu
     auto: true
+  - translation_iso: rus
+    name: квинсуский язык
+    auto: true
   - translation_iso: spa
     name: Kwinsu
     auto: true

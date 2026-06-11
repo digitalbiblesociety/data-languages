@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Okodia
     auto: true
+  - translation_iso: rus
+    name: окодиский язык
+    auto: true
   - translation_iso: spa
     name: okodia
   - translation_iso: zho

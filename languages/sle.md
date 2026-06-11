@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sholaga
     auto: true
+  - translation_iso: rus
+    name: шолагский язык
+    auto: true
   - translation_iso: spa
     name: Sholaga
     auto: true

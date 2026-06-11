@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: yir yoront
     auto: true
+  - translation_iso: rus
+    name: йир йоронтский язык
+    auto: true
   - translation_iso: spa
     name: Yir Yoront
     auto: true

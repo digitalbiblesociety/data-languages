@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kugbo
     auto: true
+  - translation_iso: rus
+    name: кугбоский язык
+    auto: true
   - translation_iso: spa
     name: Kugbo
     auto: true

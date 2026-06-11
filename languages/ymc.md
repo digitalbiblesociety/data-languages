@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: muji do sul
     auto: true
+  - translation_iso: rus
+    name: сутерн муджийский язык
+    auto: true
   - translation_iso: spa
     name: Muji meridional
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: kaingáng de São Paulo
     auto: true
+  - translation_iso: rus
+    name: сао пауло каингангский язык
+    auto: true
   - translation_iso: spa
     name: Kaingáng de São Paulo
     auto: true

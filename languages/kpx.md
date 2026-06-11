@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Koiali da Montanha
     auto: true
+  - translation_iso: rus
+    name: мунтаин коиалийский язык
+    auto: true
   - translation_iso: spa
     name: Koiali de montaña
     auto: true

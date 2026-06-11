@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kayan Mahakam
     auto: true
+  - translation_iso: rus
+    name: каян махакамский язык
+    auto: true
   - translation_iso: spa
     name: Kayan Mahakam
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fang (Camarões)
     auto: true
+  - translation_iso: rus
+    name: фангский язык
+    auto: true
   - translation_iso: spa
     name: Fang (Camerún)
     auto: true

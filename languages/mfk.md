@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mofu do Norte
     auto: true
+  - translation_iso: rus
+    name: норт мофуский язык
+    auto: true
   - translation_iso: spa
     name: mofu septentrional
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tewe
     auto: true
+  - translation_iso: rus
+    name: тевейский язык
+    auto: true
   - translation_iso: spa
     name: Tewe
     auto: true

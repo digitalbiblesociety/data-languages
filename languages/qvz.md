@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Pastaza Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн пастаза квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua del Pastaza septentrional
     auto: true

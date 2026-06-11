@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gvoko
     auto: true
+  - translation_iso: rus
+    name: гвокоский язык
+    auto: true
   - translation_iso: spa
     name: Gvoko
     auto: true

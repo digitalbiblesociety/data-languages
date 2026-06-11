@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ilwana
     auto: true
+  - translation_iso: rus
+    name: илванский язык
+    auto: true
   - translation_iso: spa
     name: Ilwana
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Belanda Viri
     auto: true
+  - translation_iso: rus
+    name: беланда вирийский язык
+    auto: true
   - translation_iso: spa
     name: Belanda Viri
     auto: true

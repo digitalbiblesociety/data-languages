@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Koma
     auto: true
+  - translation_iso: rus
+    name: комский язык
+    auto: true
   - translation_iso: spa
     name: Koma
     auto: true

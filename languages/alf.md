@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Alege
     auto: true
+  - translation_iso: rus
+    name: алегейский язык
+    auto: true
   - translation_iso: spa
     name: alege
   - translation_iso: zho

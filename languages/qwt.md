@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kwalhioqua-Tlatskanai
     auto: true
+  - translation_iso: rus
+    name: квалхиоква-тлацканаийский язык
+    auto: true
   - translation_iso: spa
     name: idioma kwalhioqua-tlatskanai
   - translation_iso: zho

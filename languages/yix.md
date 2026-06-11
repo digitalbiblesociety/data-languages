@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: yi axi
     auto: true
+  - translation_iso: rus
+    name: акси йийский язык
+    auto: true
   - translation_iso: spa
     name: Yi Axi
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sambe
     auto: true
+  - translation_iso: rus
+    name: самбейский язык
+    auto: true
   - translation_iso: spa
     name: Sambe
     auto: true

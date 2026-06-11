@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hinduri
     auto: true
+  - translation_iso: rus
+    name: хиндурийский язык
+    auto: true
   - translation_iso: spa
     name: Hinduri
     auto: true

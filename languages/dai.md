@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua day
+  - translation_iso: rus
+    name: дайский язык
+    auto: true
   - translation_iso: spa
     name: Day
     auto: true

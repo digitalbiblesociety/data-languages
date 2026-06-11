@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: ayizi
     auto: true
+  - translation_iso: rus
+    name: айизийский язык
+    auto: true
   - translation_iso: spa
     name: Ayizi
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua simbiti
+  - translation_iso: rus
+    name: суба-симбитийский язык
+    auto: true
   - translation_iso: spa
     name: Suba-Simbiti
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dai
     auto: true
+  - translation_iso: rus
+    name: даийский язык
+    auto: true
   - translation_iso: spa
     name: Dai
     auto: true

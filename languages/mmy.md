@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua migaama
+  - translation_iso: rus
+    name: мигаамский язык
+    auto: true
   - translation_iso: spa
     name: migaama
   - translation_iso: zho

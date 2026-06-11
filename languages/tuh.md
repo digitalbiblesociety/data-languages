@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Taulil
     auto: true
+  - translation_iso: rus
+    name: таулильский язык
+    auto: true
   - translation_iso: spa
     name: Taulil
     auto: true

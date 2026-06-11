@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Borei
     auto: true
+  - translation_iso: rus
+    name: бореийский язык
+    auto: true
   - translation_iso: spa
     name: Borei
     auto: true

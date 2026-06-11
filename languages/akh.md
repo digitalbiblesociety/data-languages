@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Angal Heneng
     auto: true
+  - translation_iso: rus
+    name: ангал хененгский язык
+    auto: true
   - translation_iso: spa
     name: Angal Heneng
     auto: true

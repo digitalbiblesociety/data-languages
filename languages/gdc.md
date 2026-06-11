@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gugu Badhun
     auto: true
+  - translation_iso: rus
+    name: гугу бадхунский язык
+    auto: true
   - translation_iso: spa
     name: Gugu Badhun
     auto: true

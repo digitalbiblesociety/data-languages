@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Boko (Benim)
     auto: true
+  - translation_iso: rus
+    name: бокоский язык
+    auto: true
   - translation_iso: spa
     name: Boko (Benín)
     auto: true

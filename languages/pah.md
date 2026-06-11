@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto tenharim
+  - translation_iso: rus
+    name: тенхаримский язык
+    auto: true
   - translation_iso: spa
     name: tenharim
   - translation_iso: zho

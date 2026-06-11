@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Wadjabangayi
     auto: true
+  - translation_iso: rus
+    name: вадябангайийский язык
+    auto: true
   - translation_iso: spa
     name: Wadjabangayi
     auto: true

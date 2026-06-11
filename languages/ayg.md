@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ginyanga
     auto: true
+  - translation_iso: rus
+    name: гинянгский язык
+    auto: true
   - translation_iso: spa
     name: ginyanga
   - translation_iso: zho

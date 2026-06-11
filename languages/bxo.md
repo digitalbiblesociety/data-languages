@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Barikanchi
     auto: true
+  - translation_iso: rus
+    name: бариканчийский язык
+    auto: true
   - translation_iso: spa
     name: Barikanchi
     auto: true

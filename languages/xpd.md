@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano de Oyster Bay
     auto: true
+  - translation_iso: rus
+    name: ойстер бай тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio de la bahía de las Ostras
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Warrgamay
     auto: true
+  - translation_iso: rus
+    name: варргамайский язык
+    auto: true
   - translation_iso: spa
     name: Idioma warrgamay
   - translation_iso: zho

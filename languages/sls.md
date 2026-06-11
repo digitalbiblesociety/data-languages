@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais de Singapura
+  - translation_iso: rus
+    name: сингапоре сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Singapur
     auto: true

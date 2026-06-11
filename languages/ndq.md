@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ndombe
     auto: true
+  - translation_iso: rus
+    name: ндомбейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ndombe
   - translation_iso: zho

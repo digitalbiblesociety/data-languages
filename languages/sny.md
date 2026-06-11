@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Saniyo-Hiyewe
     auto: true
+  - translation_iso: rus
+    name: санийо-хиевейский язык
+    auto: true
   - translation_iso: spa
     name: Saniyo-Hiyewe
     auto: true

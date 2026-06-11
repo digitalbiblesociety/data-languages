@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kankanay do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн канканайский язык
+    auto: true
   - translation_iso: spa
     name: Kankanay septentrional
     auto: true

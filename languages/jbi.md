@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Badjiri
     auto: true
+  - translation_iso: rus
+    name: бадджирийский язык
+    auto: true
   - translation_iso: spa
     name: Badjiri
     auto: true

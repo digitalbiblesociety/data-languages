@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kwandu
     auto: true
+  - translation_iso: rus
+    name: квандуский язык
+    auto: true
   - translation_iso: spa
     name: Kwandu
     auto: true

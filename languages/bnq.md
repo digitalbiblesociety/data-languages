@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Bantik
+  - translation_iso: rus
+    name: бантикский язык
+    auto: true
   - translation_iso: spa
     name: Bantik
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua barein
+  - translation_iso: rus
+    name: бареинский язык
+    auto: true
   - translation_iso: spa
     name: Barein
     auto: true

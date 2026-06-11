@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kwangali
+  - translation_iso: rus
+    name: квангалийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma RuKwangali
   - translation_iso: zho

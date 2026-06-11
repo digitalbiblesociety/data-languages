@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Banyjima
     auto: true
+  - translation_iso: rus
+    name: банйджимский язык
+    auto: true
   - translation_iso: spa
     name: Banyjima
     auto: true

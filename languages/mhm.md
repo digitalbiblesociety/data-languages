@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Makhuwa-Moniga
     auto: true
+  - translation_iso: rus
+    name: махува-монигский язык
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Moniga
     auto: true

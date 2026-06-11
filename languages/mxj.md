@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kaman
+  - translation_iso: rus
+    name: мию-мишмийский язык
+    auto: true
   - translation_iso: spa
     name: idioma miju
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kusu
     auto: true
+  - translation_iso: rus
+    name: кусуский язык
+    auto: true
   - translation_iso: spa
     name: Kusu
     auto: true

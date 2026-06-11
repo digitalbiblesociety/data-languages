@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: grebo do norte
     auto: true
+  - translation_iso: rus
+    name: нортерн гребоский язык
+    auto: true
   - translation_iso: spa
     name: Grebo septentrional
     auto: true

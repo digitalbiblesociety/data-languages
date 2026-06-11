@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ngamini
+  - translation_iso: rus
+    name: нгаминийский язык
+    auto: true
   - translation_iso: spa
     name: Ngamini
     auto: true

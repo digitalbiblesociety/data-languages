@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Dadi Dadi
     auto: true
+  - translation_iso: rus
+    name: дади дадийский язык
+    auto: true
   - translation_iso: spa
     name: Dadi Dadi
     auto: true

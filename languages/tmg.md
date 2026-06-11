@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Portugis
+  - translation_iso: rus
+    name: тернатеньоский язык
+    auto: true
   - translation_iso: spa
     name: Ternateño
     auto: true

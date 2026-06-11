@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Subanen meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн субаненский язык
+    auto: true
   - translation_iso: spa
     name: Subanen del Sur
   - translation_iso: zho

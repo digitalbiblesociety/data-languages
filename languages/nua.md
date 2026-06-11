@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Yuanga
     auto: true
+  - translation_iso: rus
+    name: юангский язык
+    auto: true
   - translation_iso: spa
     name: Yuanga
     auto: true

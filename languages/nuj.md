@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nyole
+  - translation_iso: rus
+    name: нйолейский язык
+    auto: true
   - translation_iso: spa
     name: Nyole
     auto: true

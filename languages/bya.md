@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Batak
     auto: true
+  - translation_iso: rus
+    name: батакский язык
+    auto: true
   - translation_iso: spa
     name: idioma batac
   - translation_iso: zho

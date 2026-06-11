@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sissala
     auto: true
+  - translation_iso: rus
+    name: сиссалский язык
+    auto: true
   - translation_iso: spa
     name: Sissala
     auto: true

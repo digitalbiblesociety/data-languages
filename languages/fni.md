@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fania
     auto: true
+  - translation_iso: rus
+    name: фаниский язык
+    auto: true
   - translation_iso: spa
     name: Fania
     auto: true

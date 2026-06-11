@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Woi
     auto: true
+  - translation_iso: rus
+    name: воийский язык
+    auto: true
   - translation_iso: spa
     name: Woi
     auto: true

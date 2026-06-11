@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Burumakok
     auto: true
+  - translation_iso: rus
+    name: бурумакокский язык
+    auto: true
   - translation_iso: spa
     name: Burumakok
     auto: true

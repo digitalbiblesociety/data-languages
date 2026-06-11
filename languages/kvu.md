@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karen Yinbaw
     auto: true
+  - translation_iso: rus
+    name: йинбав каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Yinbaw
     auto: true

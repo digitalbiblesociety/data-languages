@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua masaba
+  - translation_iso: rus
+    name: масаабский язык
+    auto: true
   - translation_iso: spa
     name: Masaaba
     auto: true

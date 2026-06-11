@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Afade
     auto: true
+  - translation_iso: rus
+    name: афадейский язык
+    auto: true
   - translation_iso: spa
     name: afade
   - translation_iso: zho

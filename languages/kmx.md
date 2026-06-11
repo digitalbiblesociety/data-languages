@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Waboda
     auto: true
+  - translation_iso: rus
+    name: вабодский язык
+    auto: true
   - translation_iso: spa
     name: Waboda
     auto: true

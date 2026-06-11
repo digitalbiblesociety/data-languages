@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais do Chade
+  - translation_iso: rus
+    name: чадиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas del Chad
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua jaunsari
+  - translation_iso: rus
+    name: яунсарийский язык
+    auto: true
   - translation_iso: spa
     name: Jaunsari
     auto: true

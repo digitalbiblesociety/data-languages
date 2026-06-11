@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Longuda
     auto: true
+  - translation_iso: rus
+    name: лонгудский язык
+    auto: true
   - translation_iso: spa
     name: Longuda
     auto: true

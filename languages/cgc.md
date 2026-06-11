@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kagayanen
+  - translation_iso: rus
+    name: кагаяненский язык
+    auto: true
   - translation_iso: spa
     name: idioma cagayano
   - translation_iso: zho

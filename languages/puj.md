@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Punan Tubu
     auto: true
+  - translation_iso: rus
+    name: пунан тубуский язык
+    auto: true
   - translation_iso: spa
     name: Punan Tubu
     auto: true

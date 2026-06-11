@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Keninjal
     auto: true
+  - translation_iso: rus
+    name: кениняльский язык
+    auto: true
   - translation_iso: spa
     name: Keninjal
     auto: true

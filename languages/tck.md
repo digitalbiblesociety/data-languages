@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tchitchege
     auto: true
+  - translation_iso: rus
+    name: чичегейский язык
+    auto: true
   - translation_iso: spa
     name: Tchitchege
     auto: true

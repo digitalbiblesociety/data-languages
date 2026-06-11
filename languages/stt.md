@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Stieng Budeh
     auto: true
+  - translation_iso: rus
+    name: будех стиенгский язык
+    auto: true
   - translation_iso: spa
     name: Stieng Budeh
     auto: true

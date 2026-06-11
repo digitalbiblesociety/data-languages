@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kusaghe
     auto: true
+  - translation_iso: rus
+    name: кусагхейский язык
+    auto: true
   - translation_iso: spa
     name: Kusaghe
   - translation_iso: zho

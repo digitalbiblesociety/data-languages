@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Kangjia
     auto: true
+  - translation_iso: rus
+    name: кангджиский язык
+    auto: true
   - translation_iso: spa
     name: Kangjia
     auto: true

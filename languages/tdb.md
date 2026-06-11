@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Panchpargania
     auto: true
+  - translation_iso: rus
+    name: панчпарганиский язык
+    auto: true
   - translation_iso: spa
     name: Panchpargania
     auto: true

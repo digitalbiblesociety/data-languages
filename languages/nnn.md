@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngete
     auto: true
+  - translation_iso: rus
+    name: нгетейский язык
+    auto: true
   - translation_iso: spa
     name: Ngete
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Epi-Olmeca
     auto: true
+  - translation_iso: rus
+    name: епи-олмекский язык
+    auto: true
   - translation_iso: spa
     name: Epi-Olmeca
     auto: true

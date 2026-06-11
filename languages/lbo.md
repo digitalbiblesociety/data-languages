@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua jru
+  - translation_iso: rus
+    name: лавенский язык
+    auto: true
   - translation_iso: spa
     name: Laven
     auto: true

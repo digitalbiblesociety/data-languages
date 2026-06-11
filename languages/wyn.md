@@ -29,6 +29,9 @@ translations:
   - translation_iso: por
     name: Wyandot
     auto: true
+  - translation_iso: rus
+    name: вяндотский язык
+    auto: true
   - translation_iso: spa
     name: Wyandot
     auto: true

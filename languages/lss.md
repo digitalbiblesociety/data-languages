@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lasi
     auto: true
+  - translation_iso: rus
+    name: ласийский язык
+    auto: true
   - translation_iso: spa
     name: Lasi
     auto: true

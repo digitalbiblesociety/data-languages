@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dambi
     auto: true
+  - translation_iso: rus
+    name: дамбийский язык
+    auto: true
   - translation_iso: spa
     name: Dambi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lingarak
     auto: true
+  - translation_iso: rus
+    name: лингаракский язык
+    auto: true
   - translation_iso: spa
     name: Lingarak
     auto: true

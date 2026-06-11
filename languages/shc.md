@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sonde
     auto: true
+  - translation_iso: rus
+    name: сондейский язык
+    auto: true
   - translation_iso: spa
     name: Sonde
     auto: true

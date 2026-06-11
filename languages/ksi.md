@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Krisa
     auto: true
+  - translation_iso: rus
+    name: крисский язык
+    auto: true
   - translation_iso: spa
     name: Krisa
     auto: true

@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Fwâi
     auto: true
+  - translation_iso: rus
+    name: фваийский язык
+    auto: true
   - translation_iso: spa
     name: idioma fwâi
   - translation_iso: zho

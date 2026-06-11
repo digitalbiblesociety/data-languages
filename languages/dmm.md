@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dama
     auto: true
+  - translation_iso: rus
+    name: дамский язык
+    auto: true
   - translation_iso: spa
     name: Dama
     auto: true

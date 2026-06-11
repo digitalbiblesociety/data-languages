@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dagara Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн дагарский язык
+    auto: true
   - translation_iso: spa
     name: Dagara del Norte
     auto: true

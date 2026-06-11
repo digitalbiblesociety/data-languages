@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Kavet
     auto: true
+  - translation_iso: rus
+    name: каветский язык
+    auto: true
   - translation_iso: spa
     name: Kavet
     auto: true

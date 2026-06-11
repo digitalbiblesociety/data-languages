@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Awad Bing
     auto: true
+  - translation_iso: rus
+    name: авад бингский язык
+    auto: true
   - translation_iso: spa
     name: Awad bing
   - translation_iso: zho

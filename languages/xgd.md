@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gudang
     auto: true
+  - translation_iso: rus
+    name: гудангский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gudang
   - translation_iso: zho

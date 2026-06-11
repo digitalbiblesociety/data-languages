@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ashéninka do Ucayali-Yurúa
     auto: true
+  - translation_iso: rus
+    name: укаяли-юруа ашенинкский язык
+    auto: true
   - translation_iso: spa
     name: Ashéninka del Ucayali-Yurúa
     auto: true

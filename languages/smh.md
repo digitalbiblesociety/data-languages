@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Samei
     auto: true
+  - translation_iso: rus
+    name: самеийский язык
+    auto: true
   - translation_iso: spa
     name: Samei
     auto: true

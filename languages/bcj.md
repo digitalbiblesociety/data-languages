@@ -37,6 +37,9 @@ translations:
     name: 바르디어
   - translation_iso: por
     name: Língua bardi
+  - translation_iso: rus
+    name: бардийский язык
+    auto: true
   - translation_iso: spa
     name: Bardi
     auto: true

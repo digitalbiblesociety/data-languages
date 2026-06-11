@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bunama
     auto: true
+  - translation_iso: rus
+    name: бунамский язык
+    auto: true
   - translation_iso: spa
     name: Bunama
     auto: true

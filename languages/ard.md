@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Arabana
     auto: true
+  - translation_iso: rus
+    name: арабанский язык
+    auto: true
   - translation_iso: spa
     name: Idioma arabana
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Diuwe
     auto: true
+  - translation_iso: rus
+    name: диувейский язык
+    auto: true
   - translation_iso: spa
     name: Diuwe
     auto: true

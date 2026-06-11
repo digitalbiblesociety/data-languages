@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Agta da Ilha de Alabat
     auto: true
+  - translation_iso: rus
+    name: алабат исланд агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta de la isla Alabat
     auto: true

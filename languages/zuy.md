@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Zumaya
     auto: true
+  - translation_iso: rus
+    name: зумайский язык
+    auto: true
   - translation_iso: spa
     name: Idioma zumaya
   - translation_iso: zho

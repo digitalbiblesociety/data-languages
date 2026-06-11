@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lewo Eleng
     auto: true
+  - translation_iso: rus
+    name: лево еленгский язык
+    auto: true
   - translation_iso: spa
     name: Lewo Eleng
     auto: true

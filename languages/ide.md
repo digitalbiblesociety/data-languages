@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Idere
     auto: true
+  - translation_iso: rus
+    name: идерейский язык
+    auto: true
   - translation_iso: spa
     name: Idere
     auto: true

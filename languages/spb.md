@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sepa (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: сепский язык
+    auto: true
   - translation_iso: spa
     name: Sepa
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nuguria
+  - translation_iso: rus
+    name: нукуриский язык
+    auto: true
   - translation_iso: spa
     name: Nukuria
     auto: true

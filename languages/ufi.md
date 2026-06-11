@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ufim
     auto: true
+  - translation_iso: rus
+    name: уфимский язык
+    auto: true
   - translation_iso: spa
     name: Ufim
     auto: true

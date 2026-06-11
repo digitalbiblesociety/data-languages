@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kodaku
     auto: true
+  - translation_iso: rus
+    name: кодакуский язык
+    auto: true
   - translation_iso: spa
     name: Kodaku
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pana (Burquina Faso)
     auto: true
+  - translation_iso: rus
+    name: панский язык
+    auto: true
   - translation_iso: spa
     name: Pana
     auto: true

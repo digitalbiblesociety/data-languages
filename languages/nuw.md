@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nguluwan
     auto: true
+  - translation_iso: rus
+    name: нгулуванский язык
+    auto: true
   - translation_iso: spa
     name: Nguluwan
     auto: true

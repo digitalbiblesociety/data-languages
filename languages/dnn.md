@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dzùùngoo
     auto: true
+  - translation_iso: rus
+    name: дзуунгуский язык
+    auto: true
   - translation_iso: spa
     name: Dzùùngoo
     auto: true

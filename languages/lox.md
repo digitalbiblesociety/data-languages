@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Loun
     auto: true
+  - translation_iso: rus
+    name: лунский язык
+    auto: true
   - translation_iso: spa
     name: Loun
     auto: true

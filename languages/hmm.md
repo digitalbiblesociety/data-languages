@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hmong Mashan Central
     auto: true
+  - translation_iso: rus
+    name: кентрал машан хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Mashan central
     auto: true

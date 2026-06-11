@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: maninca de Konyanka
     auto: true
+  - translation_iso: rus
+    name: конянка манинкский язык
+    auto: true
   - translation_iso: spa
     name: Maninka Konyanka
     auto: true

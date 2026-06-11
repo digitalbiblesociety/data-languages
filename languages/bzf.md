@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Boikin
     auto: true
+  - translation_iso: rus
+    name: боикинский язык
+    auto: true
   - translation_iso: spa
     name: Boikin
     auto: true

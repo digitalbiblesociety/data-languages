@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kauwera
     auto: true
+  - translation_iso: rus
+    name: кауверский язык
+    auto: true
   - translation_iso: spa
     name: Kauwera
     auto: true

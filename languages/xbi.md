@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kombio
     auto: true
+  - translation_iso: rus
+    name: комбиоский язык
+    auto: true
   - translation_iso: spa
     name: Kombio
     auto: true

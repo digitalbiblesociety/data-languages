@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Halang
     auto: true
+  - translation_iso: rus
+    name: халангский язык
+    auto: true
   - translation_iso: spa
     name: halang
   - translation_iso: zho

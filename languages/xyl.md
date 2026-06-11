@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yalakalore
     auto: true
+  - translation_iso: rus
+    name: ялакалорейский язык
+    auto: true
   - translation_iso: spa
     name: Yalakalore
     auto: true

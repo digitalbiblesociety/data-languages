@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nandi
     auto: true
+  - translation_iso: rus
+    name: нандийский язык
+    auto: true
   - translation_iso: spa
     name: Nandi
     auto: true

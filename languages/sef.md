@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Senufo Cebaara
     auto: true
+  - translation_iso: rus
+    name: кебаара сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Cebaara
     auto: true

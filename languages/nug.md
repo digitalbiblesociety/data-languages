@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nungali
     auto: true
+  - translation_iso: rus
+    name: нунгалийский язык
+    auto: true
   - translation_iso: spa
     name: Nungali
     auto: true

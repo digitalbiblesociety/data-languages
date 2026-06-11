@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Boloki
     auto: true
+  - translation_iso: rus
+    name: болокийский язык
+    auto: true
   - translation_iso: spa
     name: Boloki
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phende
     auto: true
+  - translation_iso: rus
+    name: фендейский язык
+    auto: true
   - translation_iso: spa
     name: Phende
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Samba Leko
     auto: true
+  - translation_iso: rus
+    name: самба лекоский язык
+    auto: true
   - translation_iso: spa
     name: Chamba leko
   - translation_iso: zho

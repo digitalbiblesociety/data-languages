@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tapei
     auto: true
+  - translation_iso: rus
+    name: тапеийский язык
+    auto: true
   - translation_iso: spa
     name: Tapei
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Chukwa
     auto: true
+  - translation_iso: rus
+    name: чуквский язык
+    auto: true
   - translation_iso: spa
     name: Chukwa
     auto: true

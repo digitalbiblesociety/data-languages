@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kunja
     auto: true
+  - translation_iso: rus
+    name: кунйский язык
+    auto: true
   - translation_iso: spa
     name: Kunja
     auto: true

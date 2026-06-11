@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bukawa
+  - translation_iso: rus
+    name: бугавакский язык
+    auto: true
   - translation_iso: spa
     name: Bugawac
     auto: true

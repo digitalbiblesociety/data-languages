@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Andh
     auto: true
+  - translation_iso: rus
+    name: андхский язык
+    auto: true
   - translation_iso: spa
     name: Andh
     auto: true

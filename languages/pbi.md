@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Parkwa
     auto: true
+  - translation_iso: rus
+    name: парквский язык
+    auto: true
   - translation_iso: spa
     name: Parkwa
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua guugu yalandji
+  - translation_iso: rus
+    name: куку-яланджийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma guugu yalandji
   - translation_iso: zho

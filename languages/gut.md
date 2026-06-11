@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maléku Jaíka
     auto: true
+  - translation_iso: rus
+    name: малеку яикский язык
+    auto: true
   - translation_iso: spa
     name: guatuso
   - translation_iso: zho

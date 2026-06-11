@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Amuzgo de San Pedro Amuzgos
     auto: true
+  - translation_iso: rus
+    name: сан педро амузгос амузгоский язык
+    auto: true
   - translation_iso: spa
     name: Amuzgo de San Pedro Amuzgos
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bobo Madaré setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн бобо мадарейский язык
+    auto: true
   - translation_iso: spa
     name: Bobo Madaré Septentrional
     auto: true

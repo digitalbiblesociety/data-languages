@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bolia
     auto: true
+  - translation_iso: rus
+    name: болиский язык
+    auto: true
   - translation_iso: spa
     name: Bolia
     auto: true

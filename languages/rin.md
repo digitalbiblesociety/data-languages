@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nungu
     auto: true
+  - translation_iso: rus
+    name: нунгуский язык
+    auto: true
   - translation_iso: spa
     name: Nungu
     auto: true

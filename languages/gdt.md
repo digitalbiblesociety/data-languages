@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Kungardutyi
     auto: true
+  - translation_iso: rus
+    name: кунгардутйийский язык
+    auto: true
   - translation_iso: spa
     name: Kungardutyi
     auto: true

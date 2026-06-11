@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: umiida
     auto: true
+  - translation_iso: rus
+    name: умиидский язык
+    auto: true
   - translation_iso: spa
     name: Umiida
     auto: true

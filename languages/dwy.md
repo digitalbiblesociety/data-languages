@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Dhuwaya
     auto: true
+  - translation_iso: rus
+    name: дхувайский язык
+    auto: true
   - translation_iso: spa
     name: Dhuwaya
     auto: true

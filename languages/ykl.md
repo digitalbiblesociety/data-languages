@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: khlula
     auto: true
+  - translation_iso: rus
+    name: хлулский язык
+    auto: true
   - translation_iso: spa
     name: Khlula
     auto: true

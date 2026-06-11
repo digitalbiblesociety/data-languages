@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Munggui
     auto: true
+  - translation_iso: rus
+    name: мунггуийский язык
+    auto: true
   - translation_iso: spa
     name: Munggui
     auto: true

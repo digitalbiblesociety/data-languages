@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jola-Kasa
     auto: true
+  - translation_iso: rus
+    name: йола-касский язык
+    auto: true
   - translation_iso: spa
     name: Jola-Kasa
     auto: true

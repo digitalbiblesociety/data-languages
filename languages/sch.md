@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Sakachep
     auto: true
+  - translation_iso: rus
+    name: сакачепский язык
+    auto: true
   - translation_iso: spa
     name: idioma khelma
   - translation_iso: zho

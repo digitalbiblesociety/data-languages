@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dogon Ben Tey
     auto: true
+  - translation_iso: rus
+    name: бен тей догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Ben Tey
     auto: true

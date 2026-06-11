@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kinabatangan Superior
     auto: true
+  - translation_iso: rus
+    name: уппер кинабатанганский язык
+    auto: true
   - translation_iso: spa
     name: Kinabatangan Superior
     auto: true

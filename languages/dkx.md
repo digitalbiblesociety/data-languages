@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mazagway
     auto: true
+  - translation_iso: rus
+    name: мазагвайский язык
+    auto: true
   - translation_iso: spa
     name: Mazagway
     auto: true

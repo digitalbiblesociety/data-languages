@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Levuka
     auto: true
+  - translation_iso: rus
+    name: левукский язык
+    auto: true
   - translation_iso: spa
     name: Levuka
     auto: true

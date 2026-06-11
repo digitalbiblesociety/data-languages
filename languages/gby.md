@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gwari
+  - translation_iso: rus
+    name: гбарийский язык
+    auto: true
   - translation_iso: spa
     name: Gbari
     auto: true

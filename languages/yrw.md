@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yarawata
     auto: true
+  - translation_iso: rus
+    name: яраватский язык
+    auto: true
   - translation_iso: spa
     name: Yarawata
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pambia
     auto: true
+  - translation_iso: rus
+    name: памбиский язык
+    auto: true
   - translation_iso: spa
     name: Pambia
     auto: true

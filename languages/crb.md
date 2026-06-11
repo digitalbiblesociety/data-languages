@@ -34,6 +34,9 @@ translations:
     name: 칼리나고어
   - translation_iso: por
     name: Língua iñeri
+  - translation_iso: rus
+    name: исланд карибский язык
+    auto: true
   - translation_iso: spa
     name: caribe insular
   - translation_iso: zho

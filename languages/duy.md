@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Agta de Dicamay
     auto: true
+  - translation_iso: rus
+    name: дикамай агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta Dicamay
     auto: true

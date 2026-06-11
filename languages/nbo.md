@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nkukoli
     auto: true
+  - translation_iso: rus
+    name: нкуколийский язык
+    auto: true
   - translation_iso: spa
     name: Nkukoli
     auto: true

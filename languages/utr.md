@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Etulo
     auto: true
+  - translation_iso: rus
+    name: етулоский язык
+    auto: true
   - translation_iso: spa
     name: Etulo
     auto: true

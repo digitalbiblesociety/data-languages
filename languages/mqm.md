@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: marquesano do sul
     auto: true
+  - translation_iso: rus
+    name: сут марквесанский язык
+    auto: true
   - translation_iso: spa
     name: Marquesano del Sur
     auto: true

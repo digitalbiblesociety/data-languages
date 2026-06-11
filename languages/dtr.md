@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lotud
     auto: true
+  - translation_iso: rus
+    name: лотудский язык
+    auto: true
   - translation_iso: spa
     name: Lotud
     auto: true

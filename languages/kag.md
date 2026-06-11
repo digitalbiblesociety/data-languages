@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kajaman
     auto: true
+  - translation_iso: rus
+    name: каяманский язык
+    auto: true
   - translation_iso: spa
     name: Kajaman
     auto: true

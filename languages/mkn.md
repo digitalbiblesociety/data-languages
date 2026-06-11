@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: malaio de Kupang
     auto: true
+  - translation_iso: rus
+    name: купанг малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo de Kupang
     auto: true

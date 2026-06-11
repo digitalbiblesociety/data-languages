@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Towei
     auto: true
+  - translation_iso: rus
+    name: товеийский язык
+    auto: true
   - translation_iso: spa
     name: Towei
     auto: true

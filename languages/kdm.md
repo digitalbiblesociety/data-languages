@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kagoma
     auto: true
+  - translation_iso: rus
+    name: кагомский язык
+    auto: true
   - translation_iso: spa
     name: Kagoma
     auto: true

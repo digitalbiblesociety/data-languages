@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ghera
     auto: true
+  - translation_iso: rus
+    name: гхерский язык
+    auto: true
   - translation_iso: spa
     name: Ghera
     auto: true

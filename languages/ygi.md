@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: yiningayi
     auto: true
+  - translation_iso: rus
+    name: йинингайийский язык
+    auto: true
   - translation_iso: spa
     name: Yiningayi
     auto: true

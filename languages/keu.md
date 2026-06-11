@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Akebu
     auto: true
+  - translation_iso: rus
+    name: акебуский язык
+    auto: true
   - translation_iso: spa
     name: Akebu
     auto: true

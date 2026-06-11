@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ata
     auto: true
+  - translation_iso: rus
+    name: атский язык
+    auto: true
   - translation_iso: spa
     name: Ata
     auto: true

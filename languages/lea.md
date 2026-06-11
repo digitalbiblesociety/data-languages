@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lega-Shabunda
     auto: true
+  - translation_iso: rus
+    name: лега-шабундский язык
+    auto: true
   - translation_iso: spa
     name: Lega-Shabunda
     auto: true

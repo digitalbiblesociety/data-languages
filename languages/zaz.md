@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: zari
     auto: true
+  - translation_iso: rus
+    name: зарийский язык
+    auto: true
   - translation_iso: spa
     name: Zari
     auto: true

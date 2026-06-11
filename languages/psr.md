@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua gestual portuguesa
+  - translation_iso: rus
+    name: португуесе сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas portuguesa
   - translation_iso: zho

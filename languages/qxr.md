@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Altas de Cañar
     auto: true
+  - translation_iso: rus
+    name: каньар хигхланд квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Cañar
     auto: true

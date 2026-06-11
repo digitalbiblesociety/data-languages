@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gunditjmara
     auto: true
+  - translation_iso: rus
+    name: гундитджмарский язык
+    auto: true
   - translation_iso: spa
     name: Idioma dhauwurd wurrung
   - translation_iso: zho

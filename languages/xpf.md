@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеаст тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio suroriental
     auto: true

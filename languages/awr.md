@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Awera
     auto: true
+  - translation_iso: rus
+    name: аверский язык
+    auto: true
   - translation_iso: spa
     name: Awera
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Orang Kanaq
     auto: true
+  - translation_iso: rus
+    name: оранг канакский язык
+    auto: true
   - translation_iso: spa
     name: Orang Kanaq
     auto: true

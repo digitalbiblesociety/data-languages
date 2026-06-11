@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mamanwa
+  - translation_iso: rus
+    name: маманвский язык
+    auto: true
   - translation_iso: spa
     name: idioma mamanoá
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wiradjuri
     auto: true
+  - translation_iso: rus
+    name: вирадюрийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma wiradjuri
   - translation_iso: zho

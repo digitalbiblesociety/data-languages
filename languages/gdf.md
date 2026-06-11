@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Guduf-Gava
     auto: true
+  - translation_iso: rus
+    name: гудуф-гавский язык
+    auto: true
   - translation_iso: spa
     name: Guduf-Gava
     auto: true

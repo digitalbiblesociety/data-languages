@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: makolkol
     auto: true
+  - translation_iso: rus
+    name: маколкольский язык
+    auto: true
   - translation_iso: spa
     name: Makolkol
     auto: true

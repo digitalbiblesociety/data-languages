@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Roglai Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн роглаийский язык
+    auto: true
   - translation_iso: spa
     name: Roglai meridional
     auto: true

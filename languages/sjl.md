@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sajalong
     auto: true
+  - translation_iso: rus
+    name: саялонгский язык
+    auto: true
   - translation_iso: spa
     name: idioma miji
   - translation_iso: zho

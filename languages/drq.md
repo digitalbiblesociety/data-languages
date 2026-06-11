@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dura
+  - translation_iso: rus
+    name: дурский язык
+    auto: true
   - translation_iso: spa
     name: Dura
     auto: true

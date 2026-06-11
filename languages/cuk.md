@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kuna de San Blas
     auto: true
+  - translation_iso: rus
+    name: сан блас кунский язык
+    auto: true
   - translation_iso: spa
     name: Kuna de San Blas
     auto: true

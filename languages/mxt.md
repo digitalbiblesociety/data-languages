@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Jamiltepec
     auto: true
+  - translation_iso: rus
+    name: ямилтепек микстекский язык
+    auto: true
   - translation_iso: spa
     name: idioma mixteco en California
   - translation_iso: zho

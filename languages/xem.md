@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kembayan
     auto: true
+  - translation_iso: rus
+    name: кембаянский язык
+    auto: true
   - translation_iso: spa
     name: Kembayan
     auto: true

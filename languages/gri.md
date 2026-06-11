@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ghari
     auto: true
+  - translation_iso: rus
+    name: гхарийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ghari
   - translation_iso: zho

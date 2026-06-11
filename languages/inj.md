@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Inga da Selva
     auto: true
+  - translation_iso: rus
+    name: юнгле ингский язык
+    auto: true
   - translation_iso: spa
     name: Inga de la Selva
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: One Kwamtim
     auto: true
+  - translation_iso: rus
+    name: квамтим онейский язык
+    auto: true
   - translation_iso: spa
     name: One de Kwamtim
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gbaya-Bozoum
     auto: true
+  - translation_iso: rus
+    name: гбая-бозумский язык
+    auto: true
   - translation_iso: spa
     name: Gbaya-Bozoum
     auto: true

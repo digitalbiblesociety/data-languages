@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gilima
     auto: true
+  - translation_iso: rus
+    name: гилимский язык
+    auto: true
   - translation_iso: spa
     name: Gilima
     auto: true

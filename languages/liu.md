@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Logorik
     auto: true
+  - translation_iso: rus
+    name: логорикский язык
+    auto: true
   - translation_iso: spa
     name: Logorik
     auto: true

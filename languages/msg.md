@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Moraid
     auto: true
+  - translation_iso: rus
+    name: мораидский язык
+    auto: true
   - translation_iso: spa
     name: Moraid
     auto: true

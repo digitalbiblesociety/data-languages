@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pitta Pitta
     auto: true
+  - translation_iso: rus
+    name: питта питтский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Pitta Pitta
   - translation_iso: zho

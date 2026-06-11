@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sa
     auto: true
+  - translation_iso: rus
+    name: сский язык
+    auto: true
   - translation_iso: spa
     name: Saa
   - translation_iso: zho

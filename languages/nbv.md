@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngamambo
     auto: true
+  - translation_iso: rus
+    name: нгамамбоский язык
+    auto: true
   - translation_iso: spa
     name: Ngamambo
     auto: true

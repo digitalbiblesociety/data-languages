@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Papora
     auto: true
+  - translation_iso: rus
+    name: папорский язык
+    auto: true
   - translation_iso: spa
     name: Papora
     auto: true

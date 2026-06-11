@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Duau
     auto: true
+  - translation_iso: rus
+    name: дуауский язык
+    auto: true
   - translation_iso: spa
     name: Duau
     auto: true

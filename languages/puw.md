@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Pulutawês
+  - translation_iso: rus
+    name: пулуватесейский язык
+    auto: true
   - translation_iso: spa
     name: Puluwatés
     auto: true

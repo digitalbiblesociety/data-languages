@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kalaamaya
     auto: true
+  - translation_iso: rus
+    name: калаамайский язык
+    auto: true
   - translation_iso: spa
     name: Kalaamaya
     auto: true

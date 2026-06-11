@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmwaveke
     auto: true
+  - translation_iso: rus
+    name: хмвавекейский язык
+    auto: true
   - translation_iso: spa
     name: Hmwaveke
     auto: true

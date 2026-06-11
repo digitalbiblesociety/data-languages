@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: U
     auto: true
+  - translation_iso: rus
+    name: уский язык
+    auto: true
   - translation_iso: spa
     name: Idioma u
   - translation_iso: zho

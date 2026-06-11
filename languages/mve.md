@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: marwari (Paquistão)
     auto: true
+  - translation_iso: rus
+    name: марварийский язык
+    auto: true
   - translation_iso: spa
     name: Marwari (Pakistán)
     auto: true

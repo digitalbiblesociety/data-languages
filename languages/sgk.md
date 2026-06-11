@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sangkong
     auto: true
+  - translation_iso: rus
+    name: сангконгский язык
+    auto: true
   - translation_iso: spa
     name: Sangkong
     auto: true

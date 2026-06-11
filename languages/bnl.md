@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Boon
     auto: true
+  - translation_iso: rus
+    name: бунский язык
+    auto: true
   - translation_iso: spa
     name: Boon
     auto: true

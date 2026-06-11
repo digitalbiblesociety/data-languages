@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua de sinais colombiana
+  - translation_iso: rus
+    name: коломбиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas Colombiana
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lawa ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн лавский язык
+    auto: true
   - translation_iso: spa
     name: Lawa Occidental
     auto: true

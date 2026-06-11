@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gyem
     auto: true
+  - translation_iso: rus
+    name: гемский язык
+    auto: true
   - translation_iso: spa
     name: Gyem
     auto: true

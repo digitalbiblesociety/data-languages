@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Talodi
     auto: true
+  - translation_iso: rus
+    name: талодийский язык
+    auto: true
   - translation_iso: spa
     name: Talodi
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: hitita antigo
     auto: true
+  - translation_iso: rus
+    name: олд хиттитейский язык
+    auto: true
   - translation_iso: spa
     name: hitita antiguo
   - translation_iso: zho

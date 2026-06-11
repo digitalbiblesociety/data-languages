@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Thur
     auto: true
+  - translation_iso: rus
+    name: турский язык
+    auto: true
   - translation_iso: spa
     name: Thur
     auto: true

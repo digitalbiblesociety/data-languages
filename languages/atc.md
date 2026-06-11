@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Atsahuaca
     auto: true
+  - translation_iso: rus
+    name: ацахуакский язык
+    auto: true
   - translation_iso: spa
     name: Atsahuaca
     auto: true

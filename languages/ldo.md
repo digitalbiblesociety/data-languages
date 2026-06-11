@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Loo
     auto: true
+  - translation_iso: rus
+    name: луский язык
+    auto: true
   - translation_iso: spa
     name: Idioma loo
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Luobohe Miao
+  - translation_iso: rus
+    name: луопохе хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Luopohe
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lucumi
+  - translation_iso: rus
+    name: лукумийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma lucumí
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tharu de Dangaura
     auto: true
+  - translation_iso: rus
+    name: дангаура таруский язык
+    auto: true
   - translation_iso: spa
     name: Tharu Dangaura
     auto: true

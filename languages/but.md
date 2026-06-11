@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bungain
     auto: true
+  - translation_iso: rus
+    name: бунгаинский язык
+    auto: true
   - translation_iso: spa
     name: Bungain
     auto: true

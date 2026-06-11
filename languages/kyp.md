@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Kang
     auto: true
+  - translation_iso: rus
+    name: кангский язык
+    auto: true
   - translation_iso: spa
     name: Kang
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bubi
     auto: true
+  - translation_iso: rus
+    name: бубийский язык
+    auto: true
   - translation_iso: spa
     name: Bubi
     auto: true

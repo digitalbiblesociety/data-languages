@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Nyole
+  - translation_iso: rus
+    name: нйорейский язык
+    auto: true
   - translation_iso: spa
     name: Nyore
     auto: true

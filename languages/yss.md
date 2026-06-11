@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yessan-mayo
     auto: true
+  - translation_iso: rus
+    name: ессан-майоский язык
+    auto: true
   - translation_iso: spa
     name: Yessan-Mayo
     auto: true

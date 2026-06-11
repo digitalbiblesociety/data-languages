@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua sokoro
+  - translation_iso: rus
+    name: сокороский язык
+    auto: true
   - translation_iso: spa
     name: Sokoro
     auto: true

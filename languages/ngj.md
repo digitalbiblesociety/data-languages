@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngie
     auto: true
+  - translation_iso: rus
+    name: нгиейский язык
+    auto: true
   - translation_iso: spa
     name: Ngie
     auto: true

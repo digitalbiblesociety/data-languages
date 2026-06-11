@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Horom
     auto: true
+  - translation_iso: rus
+    name: хоромский язык
+    auto: true
   - translation_iso: spa
     name: Horom
     auto: true

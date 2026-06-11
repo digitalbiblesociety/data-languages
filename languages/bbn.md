@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Uneapa
     auto: true
+  - translation_iso: rus
+    name: унеапский язык
+    auto: true
   - translation_iso: spa
     name: Idioma uneapa
   - translation_iso: zho

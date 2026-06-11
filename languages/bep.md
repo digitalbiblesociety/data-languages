@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Besoa
     auto: true
+  - translation_iso: rus
+    name: бесоский язык
+    auto: true
   - translation_iso: spa
     name: Besoa
     auto: true

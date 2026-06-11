@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lembena
     auto: true
+  - translation_iso: rus
+    name: лембенский язык
+    auto: true
   - translation_iso: spa
     name: Lembena
     auto: true

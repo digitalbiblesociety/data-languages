@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kadazan do Rio Klias
     auto: true
+  - translation_iso: rus
+    name: клиас ривер кадазанский язык
+    auto: true
   - translation_iso: spa
     name: Kadazan del Río Klias
     auto: true

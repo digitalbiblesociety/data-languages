@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngadjunmaya
     auto: true
+  - translation_iso: rus
+    name: нгадюнмайский язык
+    auto: true
   - translation_iso: spa
     name: Ngadjunmaya
     auto: true

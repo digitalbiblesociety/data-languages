@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mandandanyi
     auto: true
+  - translation_iso: rus
+    name: манданданйийский язык
+    auto: true
   - translation_iso: spa
     name: Mandandanyi
     auto: true

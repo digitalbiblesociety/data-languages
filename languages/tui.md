@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tupuri
     auto: true
+  - translation_iso: rus
+    name: тупурийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma toupuori
   - translation_iso: zho

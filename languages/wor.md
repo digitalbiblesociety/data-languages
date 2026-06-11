@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Woria
     auto: true
+  - translation_iso: rus
+    name: вориский язык
+    auto: true
   - translation_iso: spa
     name: Woria
     auto: true

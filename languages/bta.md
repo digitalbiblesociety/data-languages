@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bata
     auto: true
+  - translation_iso: rus
+    name: батский язык
+    auto: true
   - translation_iso: spa
     name: bata
   - translation_iso: zho

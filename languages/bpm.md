@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Biyom
     auto: true
+  - translation_iso: rus
+    name: бийомский язык
+    auto: true
   - translation_iso: spa
     name: Biyom
     auto: true

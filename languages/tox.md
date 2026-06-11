@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tobiana
+  - translation_iso: rus
+    name: тобианский язык
+    auto: true
   - translation_iso: spa
     name: tobiano
   - translation_iso: zho

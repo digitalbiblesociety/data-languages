@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de Ocotepec
     auto: true
+  - translation_iso: rus
+    name: окотепек микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Ocotepec
     auto: true

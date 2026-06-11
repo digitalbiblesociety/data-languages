@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wané
     auto: true
+  - translation_iso: rus
+    name: ванейский язык
+    auto: true
   - translation_iso: spa
     name: Wané
     auto: true

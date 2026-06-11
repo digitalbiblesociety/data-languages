@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lote
+  - translation_iso: rus
+    name: лотейский язык
+    auto: true
   - translation_iso: spa
     name: Lote
     auto: true

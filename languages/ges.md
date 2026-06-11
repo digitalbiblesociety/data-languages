@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Geser-Gorom
     auto: true
+  - translation_iso: rus
+    name: гесер-горомский язык
+    auto: true
   - translation_iso: spa
     name: Geser-Gorom
     auto: true

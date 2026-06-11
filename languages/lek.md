@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Leipon
     auto: true
+  - translation_iso: rus
+    name: леипонский язык
+    auto: true
   - translation_iso: spa
     name: Leipon
     auto: true

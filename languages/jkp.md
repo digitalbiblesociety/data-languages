@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karen Paku
     auto: true
+  - translation_iso: rus
+    name: паку каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Paku
     auto: true

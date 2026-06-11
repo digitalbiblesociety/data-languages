@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Uneme
     auto: true
+  - translation_iso: rus
+    name: унемейский язык
+    auto: true
   - translation_iso: spa
     name: Uneme
     auto: true

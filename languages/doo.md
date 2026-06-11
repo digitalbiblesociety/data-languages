@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dongo
     auto: true
+  - translation_iso: rus
+    name: донгоский язык
+    auto: true
   - translation_iso: spa
     name: dongo
   - translation_iso: zho

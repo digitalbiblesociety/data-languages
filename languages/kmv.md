@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto caripuna
+  - translation_iso: rus
+    name: карипуна креоле френчский язык
+    auto: true
   - translation_iso: spa
     name: Criollo francés karipúna
     auto: true

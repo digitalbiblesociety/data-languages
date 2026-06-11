@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kudiya
     auto: true
+  - translation_iso: rus
+    name: кудийский язык
+    auto: true
   - translation_iso: spa
     name: Kudiya
     auto: true

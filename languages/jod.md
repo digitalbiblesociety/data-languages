@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wojenaka
     auto: true
+  - translation_iso: rus
+    name: военакский язык
+    auto: true
   - translation_iso: spa
     name: Wojenaka
     auto: true

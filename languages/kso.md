@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kofa
     auto: true
+  - translation_iso: rus
+    name: кофский язык
+    auto: true
   - translation_iso: spa
     name: Kofa
     auto: true

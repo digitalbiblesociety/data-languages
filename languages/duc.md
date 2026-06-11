@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Duna
     auto: true
+  - translation_iso: rus
+    name: дунский язык
+    auto: true
   - translation_iso: spa
     name: Duna
     auto: true

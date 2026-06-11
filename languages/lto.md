@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tsotso
     auto: true
+  - translation_iso: rus
+    name: цоцоский язык
+    auto: true
   - translation_iso: spa
     name: Tsotso
     auto: true

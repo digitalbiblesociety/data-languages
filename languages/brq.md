@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Breri
     auto: true
+  - translation_iso: rus
+    name: брерийский язык
+    auto: true
   - translation_iso: spa
     name: Breri
     auto: true

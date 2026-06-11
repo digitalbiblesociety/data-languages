@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bitare
     auto: true
+  - translation_iso: rus
+    name: битарейский язык
+    auto: true
   - translation_iso: spa
     name: bitare
   - translation_iso: zho

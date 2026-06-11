@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Juray
     auto: true
+  - translation_iso: rus
+    name: юрайский язык
+    auto: true
   - translation_iso: spa
     name: Juray
     auto: true

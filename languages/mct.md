@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Mengisa
     auto: true
+  - translation_iso: rus
+    name: менгисский язык
+    auto: true
   - translation_iso: spa
     name: Mengisa
   - translation_iso: zho

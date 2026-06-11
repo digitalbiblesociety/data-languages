@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Takestani
     auto: true
+  - translation_iso: rus
+    name: такестанийский язык
+    auto: true
   - translation_iso: spa
     name: Takestani
     auto: true

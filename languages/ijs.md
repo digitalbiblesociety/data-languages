@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ijo do Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеаст ийоский язык
+    auto: true
   - translation_iso: spa
     name: Ijo Suroriental
     auto: true

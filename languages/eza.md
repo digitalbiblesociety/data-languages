@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Ezaa
     auto: true
+  - translation_iso: rus
+    name: езаский язык
+    auto: true
   - translation_iso: spa
     name: Ezaa
     auto: true

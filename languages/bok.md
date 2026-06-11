@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Bonjo
     auto: true
+  - translation_iso: rus
+    name: бонйоский язык
+    auto: true
   - translation_iso: spa
     name: Bonjo
     auto: true

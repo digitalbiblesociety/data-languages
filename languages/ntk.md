@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ikoma-Nata-Isenye
     auto: true
+  - translation_iso: rus
+    name: икома-ната-исенейский язык
+    auto: true
   - translation_iso: spa
     name: Ikoma-Nata-Isenye
     auto: true

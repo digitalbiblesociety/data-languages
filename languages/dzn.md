@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dzando
     auto: true
+  - translation_iso: rus
+    name: дзандоский язык
+    auto: true
   - translation_iso: spa
     name: Dzando
     auto: true

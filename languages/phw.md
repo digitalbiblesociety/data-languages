@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Phangduwali
     auto: true
+  - translation_iso: rus
+    name: фангдувалийский язык
+    auto: true
   - translation_iso: spa
     name: Phangduwali
     auto: true

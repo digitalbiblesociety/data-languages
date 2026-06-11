@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kwaja
     auto: true
+  - translation_iso: rus
+    name: квайский язык
+    auto: true
   - translation_iso: spa
     name: Kwaja
     auto: true

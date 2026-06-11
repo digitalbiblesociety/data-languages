@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngundu
     auto: true
+  - translation_iso: rus
+    name: нгундуский язык
+    auto: true
   - translation_iso: spa
     name: Ngundu
     auto: true

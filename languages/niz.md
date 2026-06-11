@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ningil
     auto: true
+  - translation_iso: rus
+    name: нингильский язык
+    auto: true
   - translation_iso: spa
     name: Ningil
     auto: true

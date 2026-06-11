@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Matlatzinca de Atzingo
     auto: true
+  - translation_iso: rus
+    name: атзинго матлатзинкский язык
+    auto: true
   - translation_iso: spa
     name: tlahuica
   - translation_iso: zho

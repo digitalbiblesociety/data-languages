@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Nhirrpi
     auto: true
+  - translation_iso: rus
+    name: нхиррпийский язык
+    auto: true
   - translation_iso: spa
     name: Nhirrpi
     auto: true

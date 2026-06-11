@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: "Asaro'o"
     auto: true
+  - translation_iso: rus
+    name: асарооский язык
+    auto: true
   - translation_iso: spa
     name: "Asaro'o"
     auto: true

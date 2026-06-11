@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bilakura
     auto: true
+  - translation_iso: rus
+    name: билакурский язык
+    auto: true
   - translation_iso: spa
     name: Bilakura
     auto: true

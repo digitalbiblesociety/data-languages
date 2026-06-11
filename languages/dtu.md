@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Tebul Ure
     auto: true
+  - translation_iso: rus
+    name: тебул уре догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Tebul Ure
     auto: true

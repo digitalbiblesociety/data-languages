@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: kayah oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн каяхский язык
+    auto: true
   - translation_iso: spa
     name: Kayah Oriental
     auto: true

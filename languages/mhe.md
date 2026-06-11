@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Besisi
     auto: true
+  - translation_iso: rus
+    name: бесисийский язык
+    auto: true
   - translation_iso: spa
     name: Besisi
     auto: true

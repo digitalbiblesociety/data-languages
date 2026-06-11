@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Sangisari
     auto: true
+  - translation_iso: rus
+    name: сангисарийский язык
+    auto: true
   - translation_iso: spa
     name: Sangisari
     auto: true

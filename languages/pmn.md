@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pam
     auto: true
+  - translation_iso: rus
+    name: памский язык
+    auto: true
   - translation_iso: spa
     name: Pam
     auto: true

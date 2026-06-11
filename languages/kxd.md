@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Malaio de Brunei
+  - translation_iso: rus
+    name: брунеийский язык
+    auto: true
   - translation_iso: spa
     name: Bruneano
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jur Modo
     auto: true
+  - translation_iso: rus
+    name: юр модоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma jur modo
   - translation_iso: zho

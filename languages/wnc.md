@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua wantoat
+  - translation_iso: rus
+    name: вантоатский язык
+    auto: true
   - translation_iso: spa
     name: Wantoat
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua neomandeia
+  - translation_iso: rus
+    name: мандаикский язык
+    auto: true
   - translation_iso: spa
     name: neomandeo
   - translation_iso: zho

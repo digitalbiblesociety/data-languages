@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lungalunga
+  - translation_iso: rus
+    name: лунгалунгский язык
+    auto: true
   - translation_iso: spa
     name: Lungalunga
     auto: true

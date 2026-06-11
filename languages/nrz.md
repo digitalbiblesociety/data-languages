@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lala
     auto: true
+  - translation_iso: rus
+    name: лалский язык
+    auto: true
   - translation_iso: spa
     name: Lala
     auto: true

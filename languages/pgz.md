@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais da Papua-Nova Guiné
+  - translation_iso: rus
+    name: папуа нев гуинеан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de signos de Papúa Nueva Guinea
   - translation_iso: zho

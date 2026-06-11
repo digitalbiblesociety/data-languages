@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Malaio Bukit
     auto: true
+  - translation_iso: rus
+    name: букит малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo Bukit
     auto: true

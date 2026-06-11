@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pardhi
     auto: true
+  - translation_iso: rus
+    name: пардхийский язык
+    auto: true
   - translation_iso: spa
     name: Pardhi
     auto: true

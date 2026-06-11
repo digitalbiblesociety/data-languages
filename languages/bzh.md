@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Buang Mapos
     auto: true
+  - translation_iso: rus
+    name: мапос буангский язык
+    auto: true
   - translation_iso: spa
     name: Mapos buang
   - translation_iso: zho

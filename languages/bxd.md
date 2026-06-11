@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pela
     auto: true
+  - translation_iso: rus
+    name: пелский язык
+    auto: true
   - translation_iso: spa
     name: idioma pela
   - translation_iso: zho

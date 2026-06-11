@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gade Lohar
     auto: true
+  - translation_iso: rus
+    name: гаде лохарский язык
+    auto: true
   - translation_iso: spa
     name: Gade Lohar
     auto: true

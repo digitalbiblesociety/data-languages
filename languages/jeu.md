@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jonkor Bourmataguil
     auto: true
+  - translation_iso: rus
+    name: йонкор бурматагуильский язык
+    auto: true
   - translation_iso: spa
     name: Jonkor Bourmataguil
     auto: true

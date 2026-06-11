@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Grebo Central
     auto: true
+  - translation_iso: rus
+    name: кентрал гребоский язык
+    auto: true
   - translation_iso: spa
     name: Grebo Central
     auto: true

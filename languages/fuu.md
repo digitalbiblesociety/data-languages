@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Furu
     auto: true
+  - translation_iso: rus
+    name: фуруский язык
+    auto: true
   - translation_iso: spa
     name: Furu
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Baeggu
     auto: true
+  - translation_iso: rus
+    name: баеггуский язык
+    auto: true
   - translation_iso: spa
     name: Baeggu
   - translation_iso: zho

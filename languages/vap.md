@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vaiphei
     auto: true
+  - translation_iso: rus
+    name: ваифеийский язык
+    auto: true
   - translation_iso: spa
     name: Vaiphei
     auto: true

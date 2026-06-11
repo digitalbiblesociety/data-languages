@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gamo-Ningi
     auto: true
+  - translation_iso: rus
+    name: гамо-нингийский язык
+    auto: true
   - translation_iso: spa
     name: Gamo-Ningi
     auto: true

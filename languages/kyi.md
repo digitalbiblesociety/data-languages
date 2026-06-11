@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kiput
+  - translation_iso: rus
+    name: кипутский язык
+    auto: true
   - translation_iso: spa
     name: Kiput
     auto: true

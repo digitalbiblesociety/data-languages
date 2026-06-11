@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Semimi
     auto: true
+  - translation_iso: rus
+    name: семимийский язык
+    auto: true
   - translation_iso: spa
     name: Semimi
     auto: true

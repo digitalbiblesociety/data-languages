@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Epie
     auto: true
+  - translation_iso: rus
+    name: епиейский язык
+    auto: true
   - translation_iso: spa
     name: epie
   - translation_iso: zho

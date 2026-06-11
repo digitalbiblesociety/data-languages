@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Huave de Santa María del Mar
     auto: true
+  - translation_iso: rus
+    name: санта мариа дел мар хуавейский язык
+    auto: true
   - translation_iso: spa
     name: Huave de Santa María del Mar
     auto: true

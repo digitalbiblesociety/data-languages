@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ambakich
     auto: true
+  - translation_iso: rus
+    name: амбакичский язык
+    auto: true
   - translation_iso: spa
     name: Ambakich
     auto: true

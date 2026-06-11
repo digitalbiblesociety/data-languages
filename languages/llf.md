@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hermit
     auto: true
+  - translation_iso: rus
+    name: хермитский язык
+    auto: true
   - translation_iso: spa
     name: Hermit
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Manikion
     auto: true
+  - translation_iso: rus
+    name: маникионский язык
+    auto: true
   - translation_iso: spa
     name: Manikion
     auto: true

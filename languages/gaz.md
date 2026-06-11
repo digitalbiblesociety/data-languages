@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: oromo centro-ocidental
     auto: true
+  - translation_iso: rus
+    name: вест кентрал оромоский язык
+    auto: true
   - translation_iso: spa
     name: Oromo centro-occidental
     auto: true

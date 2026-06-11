@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Soi
     auto: true
+  - translation_iso: rus
+    name: соийский язык
+    auto: true
   - translation_iso: spa
     name: Soi
     auto: true

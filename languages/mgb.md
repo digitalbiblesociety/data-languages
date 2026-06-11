@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mararit
     auto: true
+  - translation_iso: rus
+    name: мараритский язык
+    auto: true
   - translation_iso: spa
     name: Mararit
     auto: true

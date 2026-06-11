@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mundani
     auto: true
+  - translation_iso: rus
+    name: мунданийский язык
+    auto: true
   - translation_iso: spa
     name: Mundani
     auto: true

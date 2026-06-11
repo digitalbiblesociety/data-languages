@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gweno
     auto: true
+  - translation_iso: rus
+    name: гвеноский язык
+    auto: true
   - translation_iso: spa
     name: Gweno
   - translation_iso: zho

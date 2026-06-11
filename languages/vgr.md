@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Vaghri
     auto: true
+  - translation_iso: rus
+    name: вагхрийский язык
+    auto: true
   - translation_iso: spa
     name: Vaghri
     auto: true

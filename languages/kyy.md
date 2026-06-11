@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kambaira
     auto: true
+  - translation_iso: rus
+    name: камбаирский язык
+    auto: true
   - translation_iso: spa
     name: Kambaira
     auto: true

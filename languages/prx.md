@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Purik
     auto: true
+  - translation_iso: rus
+    name: пурикский язык
+    auto: true
   - translation_iso: spa
     name: idioma purik
   - translation_iso: zho

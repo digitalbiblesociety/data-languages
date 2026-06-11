@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: tanglang
     auto: true
+  - translation_iso: rus
+    name: танглангский язык
+    auto: true
   - translation_iso: spa
     name: Tanglang
     auto: true

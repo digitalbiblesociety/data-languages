@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: língua de sinais yolŋu
     auto: true
+  - translation_iso: rus
+    name: йолнгу сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas Yolŋu
     auto: true

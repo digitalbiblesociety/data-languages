@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Hitita Médio
     auto: true
+  - translation_iso: rus
+    name: миддле хиттитейский язык
+    auto: true
   - translation_iso: spa
     name: hitita medio
   - translation_iso: zho

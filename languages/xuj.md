@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: jennu kurumba
     auto: true
+  - translation_iso: rus
+    name: енну курумбский язык
+    auto: true
   - translation_iso: spa
     name: Jennu Kurumba
     auto: true

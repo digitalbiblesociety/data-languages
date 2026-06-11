@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gugadj
     auto: true
+  - translation_iso: rus
+    name: гугадджский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gugadj
   - translation_iso: zho

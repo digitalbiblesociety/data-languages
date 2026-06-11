@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gua
     auto: true
+  - translation_iso: rus
+    name: гуский язык
+    auto: true
   - translation_iso: spa
     name: Gua
     auto: true

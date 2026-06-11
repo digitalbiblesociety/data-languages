@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Yaqay
     auto: true
+  - translation_iso: rus
+    name: якайский язык
+    auto: true
   - translation_iso: spa
     name: Yaqay
     auto: true

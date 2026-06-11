@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dem
     auto: true
+  - translation_iso: rus
+    name: демский язык
+    auto: true
   - translation_iso: spa
     name: Dem
     auto: true

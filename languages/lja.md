@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Golpa
     auto: true
+  - translation_iso: rus
+    name: голпский язык
+    auto: true
   - translation_iso: spa
     name: Golpa
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Foau
     auto: true
+  - translation_iso: rus
+    name: фоауский язык
+    auto: true
   - translation_iso: spa
     name: Foau
     auto: true

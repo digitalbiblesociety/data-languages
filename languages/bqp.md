@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bisã
+  - translation_iso: rus
+    name: бусский язык
+    auto: true
   - translation_iso: spa
     name: Busa
     auto: true

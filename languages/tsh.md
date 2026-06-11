@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tsuvan
     auto: true
+  - translation_iso: rus
+    name: цуванский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tsuvano
   - translation_iso: zho

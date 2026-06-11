@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bali (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: балийский язык
+    auto: true
   - translation_iso: spa
     name: Bali (República Democrática del Congo)
     auto: true

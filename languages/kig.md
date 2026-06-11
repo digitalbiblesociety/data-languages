@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kimaama
     auto: true
+  - translation_iso: rus
+    name: кимаамский язык
+    auto: true
   - translation_iso: spa
     name: Kimaama
     auto: true

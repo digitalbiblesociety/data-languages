@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dumagat agta
+  - translation_iso: rus
+    name: касигуран думагат агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta de Casiguran Dumagat
     auto: true

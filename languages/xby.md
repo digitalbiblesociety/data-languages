@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Batjala
     auto: true
+  - translation_iso: rus
+    name: батялский язык
+    auto: true
   - translation_iso: spa
     name: Batjala
     auto: true

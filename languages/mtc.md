@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Munit
     auto: true
+  - translation_iso: rus
+    name: мунитский язык
+    auto: true
   - translation_iso: spa
     name: Munit
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sara Kaba Náà
     auto: true
+  - translation_iso: rus
+    name: сара каба наский язык
+    auto: true
   - translation_iso: spa
     name: Sara Kaba Náà
     auto: true

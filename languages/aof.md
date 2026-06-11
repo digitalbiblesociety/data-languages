@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bragat
     auto: true
+  - translation_iso: rus
+    name: брагатский язык
+    auto: true
   - translation_iso: spa
     name: Bragat
     auto: true

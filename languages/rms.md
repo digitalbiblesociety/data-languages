@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Romena
     auto: true
+  - translation_iso: rus
+    name: романиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas rumana
     auto: true

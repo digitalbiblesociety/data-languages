@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mangas
     auto: true
+  - translation_iso: rus
+    name: мангасский язык
+    auto: true
   - translation_iso: spa
     name: Mangas
     auto: true

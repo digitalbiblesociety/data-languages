@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tutelo
+  - translation_iso: rus
+    name: тутелоский язык
+    auto: true
   - translation_iso: spa
     name: Tutelo
     auto: true

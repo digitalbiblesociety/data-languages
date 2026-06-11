@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Liana-Seti
     auto: true
+  - translation_iso: rus
+    name: лиана-сетийский язык
+    auto: true
   - translation_iso: spa
     name: Liana-Seti
     auto: true

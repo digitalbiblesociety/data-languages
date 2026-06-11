@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Balanta-Kentohe
     auto: true
+  - translation_iso: rus
+    name: баланта-кентохейский язык
+    auto: true
   - translation_iso: spa
     name: Balanta-Kentohe
     auto: true

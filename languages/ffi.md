@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Foia Foia
     auto: true
+  - translation_iso: rus
+    name: фоиа фоиский язык
+    auto: true
   - translation_iso: spa
     name: Foia Foia
     auto: true

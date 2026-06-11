@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mayogo
     auto: true
+  - translation_iso: rus
+    name: майогоский язык
+    auto: true
   - translation_iso: spa
     name: Mayogo
     auto: true

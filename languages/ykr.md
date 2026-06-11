@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yekora
     auto: true
+  - translation_iso: rus
+    name: екорский язык
+    auto: true
   - translation_iso: spa
     name: Yekora
     auto: true

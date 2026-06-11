@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ndwewe
     auto: true
+  - translation_iso: rus
+    name: ндвевейский язык
+    auto: true
   - translation_iso: spa
     name: Ndwewe
     auto: true

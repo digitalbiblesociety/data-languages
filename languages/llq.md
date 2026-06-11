@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lolak
     auto: true
+  - translation_iso: rus
+    name: лолакский язык
+    auto: true
   - translation_iso: spa
     name: Lolak
     auto: true

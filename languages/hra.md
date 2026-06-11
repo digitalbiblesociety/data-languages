@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Hrangkhol
     auto: true
+  - translation_iso: rus
+    name: хрангхольский язык
+    auto: true
   - translation_iso: spa
     name: Hrangkhol
     auto: true

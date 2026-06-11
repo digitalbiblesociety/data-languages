@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Momina
     auto: true
+  - translation_iso: rus
+    name: моминский язык
+    auto: true
   - translation_iso: spa
     name: Momina
     auto: true

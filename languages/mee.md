@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mengen
     auto: true
+  - translation_iso: rus
+    name: менгенский язык
+    auto: true
   - translation_iso: spa
     name: Mengen
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Monumbo
     auto: true
+  - translation_iso: rus
+    name: монумбоский язык
+    auto: true
   - translation_iso: spa
     name: Lenguas monumbo
   - translation_iso: zho

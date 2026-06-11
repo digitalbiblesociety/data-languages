@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Binahari
     auto: true
+  - translation_iso: rus
+    name: бинахарийский язык
+    auto: true
   - translation_iso: spa
     name: Binahari
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kutep
     auto: true
+  - translation_iso: rus
+    name: кутепский язык
+    auto: true
   - translation_iso: spa
     name: Kutep
     auto: true

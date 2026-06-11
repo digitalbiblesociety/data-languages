@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aputai
     auto: true
+  - translation_iso: rus
+    name: апутаийский язык
+    auto: true
   - translation_iso: spa
     name: Aputai
     auto: true

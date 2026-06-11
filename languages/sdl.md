@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Arábia Saudita
     auto: true
+  - translation_iso: rus
+    name: сауди арабиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas saudí
     auto: true

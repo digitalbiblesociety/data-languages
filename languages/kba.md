@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kalarko
     auto: true
+  - translation_iso: rus
+    name: каларкоский язык
+    auto: true
   - translation_iso: spa
     name: Kalarko
     auto: true

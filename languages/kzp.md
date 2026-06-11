@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kaidipang
     auto: true
+  - translation_iso: rus
+    name: каидипангский язык
+    auto: true
   - translation_iso: spa
     name: Kaidipang
     auto: true

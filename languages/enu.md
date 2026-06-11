@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Enu
     auto: true
+  - translation_iso: rus
+    name: енуский язык
+    auto: true
   - translation_iso: spa
     name: Enu
     auto: true

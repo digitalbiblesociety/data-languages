@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Logir
     auto: true
+  - translation_iso: rus
+    name: логирский язык
+    auto: true
   - translation_iso: spa
     name: Logir
     auto: true

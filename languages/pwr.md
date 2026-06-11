@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Powari
     auto: true
+  - translation_iso: rus
+    name: поварийский язык
+    auto: true
   - translation_iso: spa
     name: Powari
     auto: true

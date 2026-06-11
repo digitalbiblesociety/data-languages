@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Wumbvu
     auto: true
+  - translation_iso: rus
+    name: вумбвуский язык
+    auto: true
   - translation_iso: spa
     name: Wumbvu
     auto: true

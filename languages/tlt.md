@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sou Nama
     auto: true
+  - translation_iso: rus
+    name: су намский язык
+    auto: true
   - translation_iso: spa
     name: Sou Nama
     auto: true

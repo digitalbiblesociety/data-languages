@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pwapwâ
     auto: true
+  - translation_iso: rus
+    name: пвапвский язык
+    auto: true
   - translation_iso: spa
     name: Idioma pwapwâ
   - translation_iso: zho

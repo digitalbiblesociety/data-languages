@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wala
     auto: true
+  - translation_iso: rus
+    name: валский язык
+    auto: true
   - translation_iso: spa
     name: Idioma wala
   - translation_iso: zho

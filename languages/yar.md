@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yabarana
     auto: true
+  - translation_iso: rus
+    name: ябаранский язык
+    auto: true
   - translation_iso: spa
     name: Idioma yabarana
   - translation_iso: zho

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Edopi
     auto: true
+  - translation_iso: rus
+    name: едопийский язык
+    auto: true
   - translation_iso: spa
     name: Edopi
     auto: true

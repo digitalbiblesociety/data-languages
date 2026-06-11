@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Fungwa
     auto: true
+  - translation_iso: rus
+    name: фунгвский язык
+    auto: true
   - translation_iso: spa
     name: Fungwa
     auto: true

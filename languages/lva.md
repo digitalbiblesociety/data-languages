@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Maku'a"
     auto: true
+  - translation_iso: rus
+    name: макуский язык
+    auto: true
   - translation_iso: spa
     name: "Maku'a"
     auto: true

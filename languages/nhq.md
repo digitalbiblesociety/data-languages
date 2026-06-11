@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl de Huaxcaleca
     auto: true
+  - translation_iso: rus
+    name: хуакскалека нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl de Huaxcaleca
     auto: true

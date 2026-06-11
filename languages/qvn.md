@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Junín do Norte
     auto: true
+  - translation_iso: rus
+    name: норт юнин квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua del norte de Junín
   - translation_iso: zho

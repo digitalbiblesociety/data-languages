@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Awtuw
     auto: true
+  - translation_iso: rus
+    name: автувский язык
+    auto: true
   - translation_iso: spa
     name: Awtuw
     auto: true

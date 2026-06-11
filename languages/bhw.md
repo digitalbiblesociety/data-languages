@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Biak
     auto: true
+  - translation_iso: rus
+    name: биакский язык
+    auto: true
   - translation_iso: spa
     name: Biak
     auto: true

@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua beli
+  - translation_iso: rus
+    name: белийский язык
+    auto: true
   - translation_iso: spa
     name: Beli (Sudán del Sur)
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Bauria
     auto: true
+  - translation_iso: rus
+    name: бауриский язык
+    auto: true
   - translation_iso: spa
     name: Bauria
     auto: true

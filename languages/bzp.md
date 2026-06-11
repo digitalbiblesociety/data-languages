@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kemberano
     auto: true
+  - translation_iso: rus
+    name: кембераноский язык
+    auto: true
   - translation_iso: spa
     name: Kemberano
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: As
     auto: true
+  - translation_iso: rus
+    name: асский язык
+    auto: true
   - translation_iso: spa
     name: As
     auto: true

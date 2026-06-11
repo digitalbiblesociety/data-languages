@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Sepa
+  - translation_iso: rus
+    name: сепский язык
+    auto: true
   - translation_iso: spa
     name: Sepa
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: berawan ocidental
     auto: true
+  - translation_iso: rus
+    name: вест бераванский язык
+    auto: true
   - translation_iso: spa
     name: Berawan occidental
     auto: true

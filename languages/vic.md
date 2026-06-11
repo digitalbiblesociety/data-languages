@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo das Ilhas Virgens
+  - translation_iso: rus
+    name: виргин исландс креоле енглишский язык
+    auto: true
   - translation_iso: spa
     name: Criollo de las Islas Vírgenes
   - translation_iso: zho

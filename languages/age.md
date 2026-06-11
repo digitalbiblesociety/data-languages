@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Angal
     auto: true
+  - translation_iso: rus
+    name: ангальский язык
+    auto: true
   - translation_iso: spa
     name: Angal
     auto: true

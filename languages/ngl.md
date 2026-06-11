@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lomué
+  - translation_iso: rus
+    name: ломвейский язык
+    auto: true
   - translation_iso: spa
     name: Lomwe
     auto: true

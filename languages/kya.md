@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kwaya
     auto: true
+  - translation_iso: rus
+    name: квайский язык
+    auto: true
   - translation_iso: spa
     name: Kwaya
     auto: true

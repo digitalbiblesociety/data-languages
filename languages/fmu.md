@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: muria do extremo oeste
     auto: true
+  - translation_iso: rus
+    name: фар вестерн муриский язык
+    auto: true
   - translation_iso: spa
     name: Muria del Lejano Oeste
     auto: true

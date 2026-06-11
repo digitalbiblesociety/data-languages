@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua capom
+  - translation_iso: rus
+    name: акаваиоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma akawayo
   - translation_iso: zho

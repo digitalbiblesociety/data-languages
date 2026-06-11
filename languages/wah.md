@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Watubela
     auto: true
+  - translation_iso: rus
+    name: ватубелский язык
+    auto: true
   - translation_iso: spa
     name: Watubela
     auto: true

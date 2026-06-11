@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua laalaa
+  - translation_iso: rus
+    name: лехарский язык
+    auto: true
   - translation_iso: spa
     name: Lehar
     auto: true

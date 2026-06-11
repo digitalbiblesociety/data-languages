@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gweda
     auto: true
+  - translation_iso: rus
+    name: гведский язык
+    auto: true
   - translation_iso: spa
     name: Gweda
     auto: true

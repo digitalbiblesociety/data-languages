@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo malaio do Sri Lanka
+  - translation_iso: rus
+    name: сри ланкан креоле малайский язык
+    auto: true
   - translation_iso: spa
     name: malayo esrilanqués
   - translation_iso: zho

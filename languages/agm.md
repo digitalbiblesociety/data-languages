@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Angaataha
     auto: true
+  - translation_iso: rus
+    name: ангаатахский язык
+    auto: true
   - translation_iso: spa
     name: Angaataha
     auto: true

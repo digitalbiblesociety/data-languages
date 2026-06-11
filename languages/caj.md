@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Chané
     auto: true
+  - translation_iso: rus
+    name: чанейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma chané
   - translation_iso: zho

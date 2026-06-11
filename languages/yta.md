@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: talu
     auto: true
+  - translation_iso: rus
+    name: талуский язык
+    auto: true
   - translation_iso: spa
     name: Talu
     auto: true

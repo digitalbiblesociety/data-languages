@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bayungu
     auto: true
+  - translation_iso: rus
+    name: баюнгуский язык
+    auto: true
   - translation_iso: spa
     name: Bayungu
     auto: true

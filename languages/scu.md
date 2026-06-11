@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Shumcho
     auto: true
+  - translation_iso: rus
+    name: шумчоский язык
+    auto: true
   - translation_iso: spa
     name: Shumcho
     auto: true

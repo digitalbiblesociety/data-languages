@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: bokha
     auto: true
+  - translation_iso: rus
+    name: бохский язык
+    auto: true
   - translation_iso: spa
     name: Bokha
     auto: true

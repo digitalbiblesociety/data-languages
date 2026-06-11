@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gbin
     auto: true
+  - translation_iso: rus
+    name: гбинский язык
+    auto: true
   - translation_iso: spa
     name: Gbin
     auto: true

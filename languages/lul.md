@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Língua olu'bo"
+  - translation_iso: rus
+    name: олубоский язык
+    auto: true
   - translation_iso: spa
     name: "Olu'bo"
     auto: true

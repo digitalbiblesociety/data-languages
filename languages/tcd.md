@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tafi
     auto: true
+  - translation_iso: rus
+    name: тафийский язык
+    auto: true
   - translation_iso: spa
     name: tafi
   - translation_iso: zho

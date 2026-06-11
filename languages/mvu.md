@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Marfa
     auto: true
+  - translation_iso: rus
+    name: марфский язык
+    auto: true
   - translation_iso: spa
     name: Marfa
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Songo
     auto: true
+  - translation_iso: rus
+    name: сонгоский язык
+    auto: true
   - translation_iso: spa
     name: Songo
     auto: true

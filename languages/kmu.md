@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kanite
     auto: true
+  - translation_iso: rus
+    name: канитейский язык
+    auto: true
   - translation_iso: spa
     name: Kanite
     auto: true

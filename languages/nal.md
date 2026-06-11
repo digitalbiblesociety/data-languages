@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nalik
     auto: true
+  - translation_iso: rus
+    name: наликский язык
+    auto: true
   - translation_iso: spa
     name: Nalik
     auto: true

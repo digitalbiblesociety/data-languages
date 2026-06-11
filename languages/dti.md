@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dogon Ana Tinga
     auto: true
+  - translation_iso: rus
+    name: ана тинга догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Ana Tinga
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lilau
     auto: true
+  - translation_iso: rus
+    name: лилауский язык
+    auto: true
   - translation_iso: spa
     name: Lilau
     auto: true

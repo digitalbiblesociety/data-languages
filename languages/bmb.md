@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bembe
     auto: true
+  - translation_iso: rus
+    name: бембейский язык
+    auto: true
   - translation_iso: spa
     name: Bembe
     auto: true

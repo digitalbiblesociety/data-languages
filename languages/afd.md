@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Andai
     auto: true
+  - translation_iso: rus
+    name: андаийский язык
+    auto: true
   - translation_iso: spa
     name: Andai
     auto: true

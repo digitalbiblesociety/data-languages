@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Suba
     auto: true
+  - translation_iso: rus
+    name: субский язык
+    auto: true
   - translation_iso: spa
     name: Idioma suba
   - translation_iso: zho

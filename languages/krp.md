@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Korop
     auto: true
+  - translation_iso: rus
+    name: коропский язык
+    auto: true
   - translation_iso: spa
     name: Korop
     auto: true

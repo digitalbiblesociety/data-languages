@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Oku
     auto: true
+  - translation_iso: rus
+    name: окуский язык
+    auto: true
   - translation_iso: spa
     name: Oku
     auto: true

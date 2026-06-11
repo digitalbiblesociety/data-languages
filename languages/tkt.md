@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tharu de Kathoriya
     auto: true
+  - translation_iso: rus
+    name: катория таруский язык
+    auto: true
   - translation_iso: spa
     name: Tharu Kathoriya
     auto: true

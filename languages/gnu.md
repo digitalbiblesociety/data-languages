@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gnau
     auto: true
+  - translation_iso: rus
+    name: гнауский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gnau
   - translation_iso: zho

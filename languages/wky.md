@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Wangkayutyuru
     auto: true
+  - translation_iso: rus
+    name: вангкаютюруский язык
+    auto: true
   - translation_iso: spa
     name: Wangkayutyuru
     auto: true

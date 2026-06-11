@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ikulu
     auto: true
+  - translation_iso: rus
+    name: икулуский язык
+    auto: true
   - translation_iso: spa
     name: Ikulu
     auto: true

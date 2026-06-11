@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nemi
     auto: true
+  - translation_iso: rus
+    name: немийский язык
+    auto: true
   - translation_iso: spa
     name: idioma nemi
   - translation_iso: zho

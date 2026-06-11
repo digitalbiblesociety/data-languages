@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: maewo central
     auto: true
+  - translation_iso: rus
+    name: кентрал маевоский язык
+    auto: true
   - translation_iso: spa
     name: Maewo Central
     auto: true

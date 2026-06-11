@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kubi
     auto: true
+  - translation_iso: rus
+    name: кубийский язык
+    auto: true
   - translation_iso: spa
     name: Kubi
     auto: true

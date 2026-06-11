@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sengseng
     auto: true
+  - translation_iso: rus
+    name: сенгсенгский язык
+    auto: true
   - translation_iso: spa
     name: Sengseng
     auto: true

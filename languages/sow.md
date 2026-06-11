@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sowanda
     auto: true
+  - translation_iso: rus
+    name: совандский язык
+    auto: true
   - translation_iso: spa
     name: Sowanda
     auto: true

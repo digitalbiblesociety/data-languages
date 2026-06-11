@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wanap
     auto: true
+  - translation_iso: rus
+    name: ванапский язык
+    auto: true
   - translation_iso: spa
     name: Wanap
     auto: true

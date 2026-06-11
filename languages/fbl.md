@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: bikol do oeste de Albay
     auto: true
+  - translation_iso: rus
+    name: вест албай бикольский язык
+    auto: true
   - translation_iso: spa
     name: Bikol del oeste de Albay
     auto: true

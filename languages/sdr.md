@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sadri Oraon
     auto: true
+  - translation_iso: rus
+    name: ораон садрийский язык
+    auto: true
   - translation_iso: spa
     name: Sadri de Oraon
     auto: true

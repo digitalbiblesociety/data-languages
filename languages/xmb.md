@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbonga
     auto: true
+  - translation_iso: rus
+    name: мбонгский язык
+    auto: true
   - translation_iso: spa
     name: Mbonga
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Duguri
     auto: true
+  - translation_iso: rus
+    name: дугурийский язык
+    auto: true
   - translation_iso: spa
     name: Duguri
     auto: true

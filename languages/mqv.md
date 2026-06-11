@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mosimo
     auto: true
+  - translation_iso: rus
+    name: мосимоский язык
+    auto: true
   - translation_iso: spa
     name: Mosimo
     auto: true

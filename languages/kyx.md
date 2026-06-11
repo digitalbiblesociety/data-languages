@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rapoisi
     auto: true
+  - translation_iso: rus
+    name: рапоисийский язык
+    auto: true
   - translation_iso: spa
     name: Rapoisi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Luna
     auto: true
+  - translation_iso: rus
+    name: лунский язык
+    auto: true
   - translation_iso: spa
     name: luna
   - translation_iso: zho

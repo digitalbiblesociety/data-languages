@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua namuyi
+  - translation_iso: rus
+    name: намуйийский язык
+    auto: true
   - translation_iso: spa
     name: Namuyi
     auto: true

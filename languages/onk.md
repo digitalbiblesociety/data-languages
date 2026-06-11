@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: One Kabore
     auto: true
+  - translation_iso: rus
+    name: каборе онейский язык
+    auto: true
   - translation_iso: spa
     name: One de Kabore
     auto: true

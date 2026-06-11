@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ririo
     auto: true
+  - translation_iso: rus
+    name: ририоский язык
+    auto: true
   - translation_iso: spa
     name: Ririo
   - translation_iso: zho

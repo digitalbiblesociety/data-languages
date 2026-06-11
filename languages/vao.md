@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vao
     auto: true
+  - translation_iso: rus
+    name: ваоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma vao
   - translation_iso: zho

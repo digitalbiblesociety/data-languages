@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Oli-Bodiman
     auto: true
+  - translation_iso: rus
+    name: оли-бодиманский язык
+    auto: true
   - translation_iso: spa
     name: Oli-Bodiman
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bargam
     auto: true
+  - translation_iso: rus
+    name: баргамский язык
+    auto: true
   - translation_iso: spa
     name: Bargam
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbo (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: мбоский язык
+    auto: true
   - translation_iso: spa
     name: Mbo
     auto: true

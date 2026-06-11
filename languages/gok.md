@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Gowli
     auto: true
+  - translation_iso: rus
+    name: говлийский язык
+    auto: true
   - translation_iso: spa
     name: Gowli
     auto: true

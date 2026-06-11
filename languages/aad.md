@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Amal
     auto: true
+  - translation_iso: rus
+    name: амальский язык
+    auto: true
   - translation_iso: spa
     name: Idioma amal
   - translation_iso: zho

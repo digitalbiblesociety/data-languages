@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Anmatyerre
     auto: true
+  - translation_iso: rus
+    name: анматеррейский язык
+    auto: true
   - translation_iso: spa
     name: Anmatyerre
     auto: true

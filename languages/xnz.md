@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kenzi
+  - translation_iso: rus
+    name: кензийский язык
+    auto: true
   - translation_iso: spa
     name: Kenzi
     auto: true

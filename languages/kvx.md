@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua parkari koli
+  - translation_iso: rus
+    name: паркари колийский язык
+    auto: true
   - translation_iso: spa
     name: Koli Parkari
     auto: true

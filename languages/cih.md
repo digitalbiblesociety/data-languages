@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Chinali
+  - translation_iso: rus
+    name: чиналийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma chinali
   - translation_iso: zho

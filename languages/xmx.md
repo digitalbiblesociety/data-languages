@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Maden
     auto: true
+  - translation_iso: rus
+    name: маденский язык
+    auto: true
   - translation_iso: spa
     name: Maden
     auto: true

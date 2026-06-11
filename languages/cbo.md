@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Izora
     auto: true
+  - translation_iso: rus
+    name: изорский язык
+    auto: true
   - translation_iso: spa
     name: Izora
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Daju de Dar Sila
     auto: true
+  - translation_iso: rus
+    name: дар сила даюский язык
+    auto: true
   - translation_iso: spa
     name: Idioma sila (Chad)
   - translation_iso: zho

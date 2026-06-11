@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gwamhi-Wuri
     auto: true
+  - translation_iso: rus
+    name: гвамхи-вурийский язык
+    auto: true
   - translation_iso: spa
     name: Gwamhi-Wuri
     auto: true

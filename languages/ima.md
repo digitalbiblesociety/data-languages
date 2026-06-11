@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Mala Malasar
     auto: true
+  - translation_iso: rus
+    name: мала маласарский язык
+    auto: true
   - translation_iso: spa
     name: Mala Malasar
     auto: true

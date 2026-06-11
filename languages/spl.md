@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Selepet
     auto: true
+  - translation_iso: rus
+    name: селепетский язык
+    auto: true
   - translation_iso: spa
     name: Selepet
     auto: true

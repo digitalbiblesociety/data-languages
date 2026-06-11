@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbongno
     auto: true
+  - translation_iso: rus
+    name: мбонгноский язык
+    auto: true
   - translation_iso: spa
     name: Mbongno
     auto: true

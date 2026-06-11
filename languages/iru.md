@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Irula
     auto: true
+  - translation_iso: rus
+    name: ирулский язык
+    auto: true
   - translation_iso: spa
     name: Idioma irula
   - translation_iso: zho

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Malgaxe Antankarana
     auto: true
+  - translation_iso: rus
+    name: антанкарана малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache antankarana
     auto: true

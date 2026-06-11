@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Mekwei
     auto: true
+  - translation_iso: rus
+    name: меквеийский язык
+    auto: true
   - translation_iso: spa
     name: Mekwei
     auto: true

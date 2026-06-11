@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Moikodi
     auto: true
+  - translation_iso: rus
+    name: моикодийский язык
+    auto: true
   - translation_iso: spa
     name: Moikodi
     auto: true

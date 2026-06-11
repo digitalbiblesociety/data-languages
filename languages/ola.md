@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Walungge
     auto: true
+  - translation_iso: rus
+    name: валунггейский язык
+    auto: true
   - translation_iso: spa
     name: Walungge
     auto: true

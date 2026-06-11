@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Conchucos Ancash do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн кончукос анкаш квечуский язык
+    auto: true
   - translation_iso: spa
     name: "Quechua de los Conchucos del norte, Áncash"
     auto: true

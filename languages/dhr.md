@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dhargari
     auto: true
+  - translation_iso: rus
+    name: дхаргарийский язык
+    auto: true
   - translation_iso: spa
     name: Dhargari
     auto: true

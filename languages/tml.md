@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Citak Tamnim
     auto: true
+  - translation_iso: rus
+    name: тамним китакский язык
+    auto: true
   - translation_iso: spa
     name: Citak Tamnim
     auto: true

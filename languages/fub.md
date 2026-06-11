@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua adamaua fulfulde
+  - translation_iso: rus
+    name: адамава фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde de Adamawa
     auto: true

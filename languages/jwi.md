@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Jwira-Pepesa
     auto: true
+  - translation_iso: rus
+    name: джвира-пепесский язык
+    auto: true
   - translation_iso: spa
     name: Jwira-Pepesa
     auto: true

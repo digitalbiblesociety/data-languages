@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: binukidnon do sul
     auto: true
+  - translation_iso: rus
+    name: сутерн бинукиднонский язык
+    auto: true
   - translation_iso: spa
     name: Binukidnon del Sur
     auto: true

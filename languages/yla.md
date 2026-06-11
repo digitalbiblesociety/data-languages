@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yaul
     auto: true
+  - translation_iso: rus
+    name: яульский язык
+    auto: true
   - translation_iso: spa
     name: Yaul
     auto: true

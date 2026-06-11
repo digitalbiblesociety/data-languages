@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ong
     auto: true
+  - translation_iso: rus
+    name: онгский язык
+    auto: true
   - translation_iso: spa
     name: Ong
     auto: true

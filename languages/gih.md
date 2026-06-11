@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Githabul
     auto: true
+  - translation_iso: rus
+    name: гитабульский язык
+    auto: true
   - translation_iso: spa
     name: Idioma githabul
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pa Di
     auto: true
+  - translation_iso: rus
+    name: па дийский язык
+    auto: true
   - translation_iso: spa
     name: Pa Di
     auto: true

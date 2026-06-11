@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kam
     auto: true
+  - translation_iso: rus
+    name: камский язык
+    auto: true
   - translation_iso: spa
     name: Kam
     auto: true

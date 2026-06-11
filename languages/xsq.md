@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Makhuwa-Saka
     auto: true
+  - translation_iso: rus
+    name: махува-сакский язык
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Saka
     auto: true

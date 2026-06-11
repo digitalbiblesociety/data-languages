@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nzadi
     auto: true
+  - translation_iso: rus
+    name: нзадийский язык
+    auto: true
   - translation_iso: spa
     name: Nzadi
     auto: true

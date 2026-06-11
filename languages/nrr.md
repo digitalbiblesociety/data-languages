@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Norra
     auto: true
+  - translation_iso: rus
+    name: норрский язык
+    auto: true
   - translation_iso: spa
     name: Norra
     auto: true

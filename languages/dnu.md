@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Danau
     auto: true
+  - translation_iso: rus
+    name: данауский язык
+    auto: true
   - translation_iso: spa
     name: Danau
     auto: true

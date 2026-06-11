@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bhaya
     auto: true
+  - translation_iso: rus
+    name: бхайский язык
+    auto: true
   - translation_iso: spa
     name: Bhaya
     auto: true

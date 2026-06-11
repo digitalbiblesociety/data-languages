@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malfaxal
     auto: true
+  - translation_iso: rus
+    name: малфаксальский язык
+    auto: true
   - translation_iso: spa
     name: Malfaxal
     auto: true

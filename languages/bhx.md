@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Bhalay
     auto: true
+  - translation_iso: rus
+    name: бхалайский язык
+    auto: true
   - translation_iso: spa
     name: Bhalay
     auto: true

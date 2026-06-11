@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua afenmai
+  - translation_iso: rus
+    name: ехийский язык
+    auto: true
   - translation_iso: spa
     name: Yekhee
     auto: true

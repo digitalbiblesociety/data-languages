@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua desiya
+  - translation_iso: rus
+    name: десийский язык
+    auto: true
   - translation_iso: spa
     name: Desiya
     auto: true

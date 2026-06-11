@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kabola
+  - translation_iso: rus
+    name: каболский язык
+    auto: true
   - translation_iso: spa
     name: Kabola
   - translation_iso: zho

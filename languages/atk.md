@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Ati
     auto: true
+  - translation_iso: rus
+    name: атийский язык
+    auto: true
   - translation_iso: spa
     name: Ati
     auto: true

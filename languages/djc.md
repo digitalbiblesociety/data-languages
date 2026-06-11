@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Daju de Dar Daju
     auto: true
+  - translation_iso: rus
+    name: дар даю даюский язык
+    auto: true
   - translation_iso: spa
     name: Daju de Dar Daju
     auto: true

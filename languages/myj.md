@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mangayat
     auto: true
+  - translation_iso: rus
+    name: мангаятский язык
+    auto: true
   - translation_iso: spa
     name: Mangayat
     auto: true

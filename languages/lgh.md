@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Laghuu
     auto: true
+  - translation_iso: rus
+    name: лагхууский язык
+    auto: true
   - translation_iso: spa
     name: Laghuu
     auto: true

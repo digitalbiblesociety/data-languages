@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ali
     auto: true
+  - translation_iso: rus
+    name: алийский язык
+    auto: true
   - translation_iso: spa
     name: Ali
     auto: true

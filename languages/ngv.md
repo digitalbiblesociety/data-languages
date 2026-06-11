@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nagumi
     auto: true
+  - translation_iso: rus
+    name: нагумийский язык
+    auto: true
   - translation_iso: spa
     name: Nagumi
     auto: true

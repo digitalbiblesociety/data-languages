@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Uradhi
     auto: true
+  - translation_iso: rus
+    name: урадхийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma uradhi
   - translation_iso: zho

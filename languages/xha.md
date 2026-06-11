@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Harami
     auto: true
+  - translation_iso: rus
+    name: харамийский язык
+    auto: true
   - translation_iso: spa
     name: harami
   - translation_iso: zho

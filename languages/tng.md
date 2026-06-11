@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tobanga
     auto: true
+  - translation_iso: rus
+    name: тобангский язык
+    auto: true
   - translation_iso: spa
     name: Tobanga
     auto: true

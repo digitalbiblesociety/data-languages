@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Busami
     auto: true
+  - translation_iso: rus
+    name: бусамийский язык
+    auto: true
   - translation_iso: spa
     name: Busami
     auto: true

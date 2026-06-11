@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Chewong
     auto: true
+  - translation_iso: rus
+    name: чевонгский язык
+    auto: true
   - translation_iso: spa
     name: Chewong
     auto: true

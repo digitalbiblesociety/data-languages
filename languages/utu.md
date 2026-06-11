@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Utu
     auto: true
+  - translation_iso: rus
+    name: утуский язык
+    auto: true
   - translation_iso: spa
     name: Utu
     auto: true

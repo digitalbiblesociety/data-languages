@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bokoto
     auto: true
+  - translation_iso: rus
+    name: бокотоский язык
+    auto: true
   - translation_iso: spa
     name: Bokoto
     auto: true

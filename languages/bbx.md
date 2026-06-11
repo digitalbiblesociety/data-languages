@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bubia
     auto: true
+  - translation_iso: rus
+    name: бубиский язык
+    auto: true
   - translation_iso: spa
     name: Bubia
     auto: true

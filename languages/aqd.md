@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dogon Ampari
     auto: true
+  - translation_iso: rus
+    name: ампари догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Ampari
     auto: true

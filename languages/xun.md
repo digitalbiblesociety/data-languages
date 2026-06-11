@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: unggaranggu
     auto: true
+  - translation_iso: rus
+    name: унггаранггуский язык
+    auto: true
   - translation_iso: spa
     name: Unggaranggu
     auto: true

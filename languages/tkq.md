@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tee
     auto: true
+  - translation_iso: rus
+    name: тийский язык
+    auto: true
   - translation_iso: spa
     name: Tee
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Wendat
     auto: true
+  - translation_iso: rus
+    name: вендатский язык
+    auto: true
   - translation_iso: spa
     name: Wendat
     auto: true

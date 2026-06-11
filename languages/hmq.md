@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Miao Qiandong Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн киандонг миаоский язык
+    auto: true
   - translation_iso: spa
     name: Miao Qiandong oriental
     auto: true

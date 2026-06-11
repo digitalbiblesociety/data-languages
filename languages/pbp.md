@@ -36,6 +36,9 @@ translations:
     name: 바디아라어
   - translation_iso: por
     name: Badyara
+  - translation_iso: rus
+    name: бадярский язык
+    auto: true
   - translation_iso: spa
     name: Badyara
   - translation_iso: zho

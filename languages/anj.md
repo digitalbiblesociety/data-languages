@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Anor
     auto: true
+  - translation_iso: rus
+    name: анорский язык
+    auto: true
   - translation_iso: spa
     name: Idioma anor
   - translation_iso: zho

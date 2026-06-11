@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chhulung
     auto: true
+  - translation_iso: rus
+    name: чхулунгский язык
+    auto: true
   - translation_iso: spa
     name: Chhulung
     auto: true

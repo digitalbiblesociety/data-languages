@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ganggalida
     auto: true
+  - translation_iso: rus
+    name: ганггалидский язык
+    auto: true
   - translation_iso: spa
     name: Ganggalida
     auto: true

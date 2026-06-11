@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mambila da Nigéria
     auto: true
+  - translation_iso: rus
+    name: нигериа мамбилский язык
+    auto: true
   - translation_iso: spa
     name: Mambila de Nigeria
     auto: true

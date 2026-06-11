@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano North Midlands
     auto: true
+  - translation_iso: rus
+    name: норт мидландс тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio de las Midlands del Norte
     auto: true

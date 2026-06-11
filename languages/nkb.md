@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Khoibu
     auto: true
+  - translation_iso: rus
+    name: хоибу нагский язык
+    auto: true
   - translation_iso: spa
     name: Khoibu
   - translation_iso: zho

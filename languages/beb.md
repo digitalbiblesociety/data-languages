@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bebele
     auto: true
+  - translation_iso: rus
+    name: бебелейский язык
+    auto: true
   - translation_iso: spa
     name: Bebele
     auto: true

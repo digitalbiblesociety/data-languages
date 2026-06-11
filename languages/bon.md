@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bine
     auto: true
+  - translation_iso: rus
+    name: бинейский язык
+    auto: true
   - translation_iso: spa
     name: Bine
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Gujari
     auto: true
+  - translation_iso: rus
+    name: гуярийский язык
+    auto: true
   - translation_iso: spa
     name: Gujari
     auto: true

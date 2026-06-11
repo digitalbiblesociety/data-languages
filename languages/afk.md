@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nanubae
     auto: true
+  - translation_iso: rus
+    name: нанубаейский язык
+    auto: true
   - translation_iso: spa
     name: Nanubae
     auto: true

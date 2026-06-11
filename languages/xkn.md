@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kayan do Rio Kayan
     auto: true
+  - translation_iso: rus
+    name: каян ривер каянский язык
+    auto: true
   - translation_iso: spa
     name: Kayan del río Kayan
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Awar
     auto: true
+  - translation_iso: rus
+    name: аварский язык
+    auto: true
   - translation_iso: spa
     name: Awar
     auto: true

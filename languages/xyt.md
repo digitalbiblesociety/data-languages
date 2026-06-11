@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: mayi-thakurti
     auto: true
+  - translation_iso: rus
+    name: майи-такуртийский язык
+    auto: true
   - translation_iso: spa
     name: Mayi-Thakurti
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Reshe
     auto: true
+  - translation_iso: rus
+    name: решейский язык
+    auto: true
   - translation_iso: spa
     name: Reshe
     auto: true

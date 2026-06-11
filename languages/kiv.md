@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kimbu
     auto: true
+  - translation_iso: rus
+    name: кимбуский язык
+    auto: true
   - translation_iso: spa
     name: Kimbu
     auto: true

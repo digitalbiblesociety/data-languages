@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Palya Bareli
     auto: true
+  - translation_iso: rus
+    name: паля барелийский язык
+    auto: true
   - translation_iso: spa
     name: Bareli de Palya
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua subanon ocidental
+  - translation_iso: rus
+    name: вестерн субанонский язык
+    auto: true
   - translation_iso: spa
     name: Subanen occidental
     auto: true

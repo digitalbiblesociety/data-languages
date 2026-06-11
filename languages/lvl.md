@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Lwel
     auto: true
+  - translation_iso: rus
+    name: лвельский язык
+    auto: true
   - translation_iso: spa
     name: Lwel
     auto: true

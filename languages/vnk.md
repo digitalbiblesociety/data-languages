@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vano
     auto: true
+  - translation_iso: rus
+    name: ваноский язык
+    auto: true
   - translation_iso: spa
     name: Vano
     auto: true

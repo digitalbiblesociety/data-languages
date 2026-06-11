@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Suma
     auto: true
+  - translation_iso: rus
+    name: сумский язык
+    auto: true
   - translation_iso: spa
     name: Suma
     auto: true

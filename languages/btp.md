@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Budibud
     auto: true
+  - translation_iso: rus
+    name: будибудский язык
+    auto: true
   - translation_iso: spa
     name: Budibud
     auto: true

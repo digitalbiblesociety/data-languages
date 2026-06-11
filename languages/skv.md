@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Skou
     auto: true
+  - translation_iso: rus
+    name: скуский язык
+    auto: true
   - translation_iso: spa
     name: Skou
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Iatmul
     auto: true
+  - translation_iso: rus
+    name: иатмульский язык
+    auto: true
   - translation_iso: spa
     name: Iatmul
     auto: true

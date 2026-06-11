@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: phuza
     auto: true
+  - translation_iso: rus
+    name: фузский язык
+    auto: true
   - translation_iso: spa
     name: Phuza
     auto: true

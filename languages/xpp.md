@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Puyo-Paekche
     auto: true
+  - translation_iso: rus
+    name: пуйо-паекчейский язык
+    auto: true
   - translation_iso: spa
     name: Puyo-Paekche
     auto: true

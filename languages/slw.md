@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sialum
     auto: true
+  - translation_iso: rus
+    name: сиалумский язык
+    auto: true
   - translation_iso: spa
     name: Sialum
     auto: true

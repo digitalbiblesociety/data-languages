@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua busuu
+  - translation_iso: rus
+    name: бусууский язык
+    auto: true
   - translation_iso: spa
     name: busuu
   - translation_iso: zho

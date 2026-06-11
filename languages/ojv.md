@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ontong java
+  - translation_iso: rus
+    name: онтонг явский язык
+    auto: true
   - translation_iso: spa
     name: Ontong Java
     auto: true

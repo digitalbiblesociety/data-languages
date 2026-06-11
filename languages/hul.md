@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Hula
     auto: true
+  - translation_iso: rus
+    name: хулский язык
+    auto: true
   - translation_iso: spa
     name: Hula
     auto: true

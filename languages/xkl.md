@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kenyah Convencional
     auto: true
+  - translation_iso: rus
+    name: маинстреам кеняхский язык
+    auto: true
   - translation_iso: spa
     name: Kenyah estándar
     auto: true

@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua adonara
+  - translation_iso: rus
+    name: адонарский язык
+    auto: true
   - translation_iso: spa
     name: Adonara
   - translation_iso: zho

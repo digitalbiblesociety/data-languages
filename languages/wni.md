@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Comoriano Ndzwani
     auto: true
+  - translation_iso: rus
+    name: ндзвани коморианский язык
+    auto: true
   - translation_iso: spa
     name: Comorense de Ndzwani
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Shiki
     auto: true
+  - translation_iso: rus
+    name: шикийский язык
+    auto: true
   - translation_iso: spa
     name: Shiki
     auto: true

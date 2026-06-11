@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kissi meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн кисийский язык
+    auto: true
   - translation_iso: spa
     name: Kisi Meridional
     auto: true

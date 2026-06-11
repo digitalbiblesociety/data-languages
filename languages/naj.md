@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nalu
     auto: true
+  - translation_iso: rus
+    name: налуский язык
+    auto: true
   - translation_iso: spa
     name: Nalu
     auto: true

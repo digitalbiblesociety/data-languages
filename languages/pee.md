@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Taje
     auto: true
+  - translation_iso: rus
+    name: таейский язык
+    auto: true
   - translation_iso: spa
     name: Taje
     auto: true

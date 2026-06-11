@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wakabunga
     auto: true
+  - translation_iso: rus
+    name: вакабунгский язык
+    auto: true
   - translation_iso: spa
     name: idioma wakabunga
   - translation_iso: zho

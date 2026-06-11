@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Kenaboi
     auto: true
+  - translation_iso: rus
+    name: кенабоийский язык
+    auto: true
   - translation_iso: spa
     name: Kenaboi
     auto: true

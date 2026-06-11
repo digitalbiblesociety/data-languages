@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Waddar
     auto: true
+  - translation_iso: rus
+    name: ваддарский язык
+    auto: true
   - translation_iso: spa
     name: Idioma waddar
   - translation_iso: zho

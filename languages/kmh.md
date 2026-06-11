@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kalam
+  - translation_iso: rus
+    name: каламский язык
+    auto: true
   - translation_iso: spa
     name: Kalam
     auto: true

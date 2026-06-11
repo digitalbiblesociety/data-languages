@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Zazao
     auto: true
+  - translation_iso: rus
+    name: зазаоский язык
+    auto: true
   - translation_iso: spa
     name: Zazao
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Chin Songlai
     auto: true
+  - translation_iso: rus
+    name: сонглаи чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Songlai
     auto: true

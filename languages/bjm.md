@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bajelani
     auto: true
+  - translation_iso: rus
+    name: баеланийский язык
+    auto: true
   - translation_iso: spa
     name: Bajelani
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Banda-Ndélé
     auto: true
+  - translation_iso: rus
+    name: банда-нделейский язык
+    auto: true
   - translation_iso: spa
     name: Banda-Ndélé
     auto: true

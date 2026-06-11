@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Elkei
     auto: true
+  - translation_iso: rus
+    name: елкеийский язык
+    auto: true
   - translation_iso: spa
     name: Elkei
     auto: true

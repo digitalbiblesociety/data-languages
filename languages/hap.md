@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Hupla
     auto: true
+  - translation_iso: rus
+    name: хуплский язык
+    auto: true
   - translation_iso: spa
     name: Hupla
     auto: true

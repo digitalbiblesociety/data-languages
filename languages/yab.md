@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua iuhupde
+  - translation_iso: rus
+    name: юхупский язык
+    auto: true
   - translation_iso: spa
     name: Idioma yuhup
   - translation_iso: zho

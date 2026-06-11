@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Michigamea
     auto: true
+  - translation_iso: rus
+    name: мичигамеский язык
+    auto: true
   - translation_iso: spa
     name: Michigamea
     auto: true

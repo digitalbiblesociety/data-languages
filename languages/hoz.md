@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hozo
     auto: true
+  - translation_iso: rus
+    name: хозоский язык
+    auto: true
   - translation_iso: spa
     name: Hozo
     auto: true

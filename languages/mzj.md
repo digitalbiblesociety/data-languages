@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Manya
     auto: true
+  - translation_iso: rus
+    name: манйский язык
+    auto: true
   - translation_iso: spa
     name: Manya
     auto: true

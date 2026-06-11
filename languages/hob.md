@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mari (Província de Madang)
     auto: true
+  - translation_iso: rus
+    name: марийский язык
+    auto: true
   - translation_iso: spa
     name: Mari (Provincia de Madang)
     auto: true

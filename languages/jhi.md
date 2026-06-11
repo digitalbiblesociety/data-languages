@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jehai
     auto: true
+  - translation_iso: rus
+    name: ехаийский язык
+    auto: true
   - translation_iso: spa
     name: Jehai
     auto: true

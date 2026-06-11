@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Awyu de Edera
     auto: true
+  - translation_iso: rus
+    name: едера авюский язык
+    auto: true
   - translation_iso: spa
     name: Awyu Edera
     auto: true

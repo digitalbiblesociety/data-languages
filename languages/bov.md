@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tuwuli
     auto: true
+  - translation_iso: rus
+    name: тувулийский язык
+    auto: true
   - translation_iso: spa
     name: Tuwuli
     auto: true

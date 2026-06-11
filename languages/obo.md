@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua obo
+  - translation_iso: rus
+    name: обо манобоский язык
+    auto: true
   - translation_iso: spa
     name: Obo Manobo
     auto: true

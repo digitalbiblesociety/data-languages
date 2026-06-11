@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Wik-Me'anha"
     auto: true
+  - translation_iso: rus
+    name: вик-меанхский язык
+    auto: true
   - translation_iso: spa
     name: "idioma wik-me'nh"
   - translation_iso: zho

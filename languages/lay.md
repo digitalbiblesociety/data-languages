@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Bai de Lama
     auto: true
+  - translation_iso: rus
+    name: лама баийский язык
+    auto: true
   - translation_iso: spa
     name: Lama Bai
     auto: true

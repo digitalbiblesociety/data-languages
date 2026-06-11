@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bolyu
+  - translation_iso: rus
+    name: болюский язык
+    auto: true
   - translation_iso: spa
     name: Bolyu
     auto: true

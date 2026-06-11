@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nhanda
     auto: true
+  - translation_iso: rus
+    name: нхандский язык
+    auto: true
   - translation_iso: spa
     name: idioma nhanda
   - translation_iso: zho

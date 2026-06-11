@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Kara (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: карский язык
+    auto: true
   - translation_iso: spa
     name: Kara (Papúa Nueva Guinea)
     auto: true

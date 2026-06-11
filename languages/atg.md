@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ivbie North-Okpela-Arhe
     auto: true
+  - translation_iso: rus
+    name: ивбие норт-окпела-архейский язык
+    auto: true
   - translation_iso: spa
     name: Ivbie North-Okpela-Arhe
     auto: true

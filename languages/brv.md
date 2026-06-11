@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bru ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн бруский язык
+    auto: true
   - translation_iso: spa
     name: Bru occidental
     auto: true

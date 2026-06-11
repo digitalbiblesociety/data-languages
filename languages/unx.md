@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Munda
     auto: true
+  - translation_iso: rus
+    name: мундский язык
+    auto: true
   - translation_iso: spa
     name: Munda
     auto: true

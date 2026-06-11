@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Qaqet
     auto: true
+  - translation_iso: rus
+    name: какетский язык
+    auto: true
   - translation_iso: spa
     name: Qaqet
     auto: true

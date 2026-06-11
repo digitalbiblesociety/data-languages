@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dhurga
+  - translation_iso: rus
+    name: дхургский язык
+    auto: true
   - translation_iso: spa
     name: idioma dhurga
   - translation_iso: zho

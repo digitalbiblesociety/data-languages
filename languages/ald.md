@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Alladian
     auto: true
+  - translation_iso: rus
+    name: алладианский язык
+    auto: true
   - translation_iso: spa
     name: Alladian
     auto: true

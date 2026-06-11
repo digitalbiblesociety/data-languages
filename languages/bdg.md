@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bonggi
+  - translation_iso: rus
+    name: бонггийский язык
+    auto: true
   - translation_iso: spa
     name: Bonggi
     auto: true

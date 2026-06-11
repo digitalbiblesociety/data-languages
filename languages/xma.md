@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Mushungulu
     auto: true
+  - translation_iso: rus
+    name: мушунгулуский язык
+    auto: true
   - translation_iso: spa
     name: Mushungulu
     auto: true

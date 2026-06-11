@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Humene
     auto: true
+  - translation_iso: rus
+    name: хуменейский язык
+    auto: true
   - translation_iso: spa
     name: Humene
     auto: true

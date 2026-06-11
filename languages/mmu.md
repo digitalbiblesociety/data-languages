@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mmaala
     auto: true
+  - translation_iso: rus
+    name: ммаалский язык
+    auto: true
   - translation_iso: spa
     name: Mmaala
     auto: true

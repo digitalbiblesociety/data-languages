@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto kuku
+  - translation_iso: rus
+    name: кукуский язык
+    auto: true
   - translation_iso: spa
     name: Kuku
     auto: true

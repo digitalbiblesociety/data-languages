@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Totela
     auto: true
+  - translation_iso: rus
+    name: тотелский язык
+    auto: true
   - translation_iso: spa
     name: Totela
     auto: true

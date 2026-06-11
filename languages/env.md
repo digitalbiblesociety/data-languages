@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Enwan (Estado de Edu)
     auto: true
+  - translation_iso: rus
+    name: енванский язык
+    auto: true
   - translation_iso: spa
     name: Enwan (Estado de Edu)
     auto: true

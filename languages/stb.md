@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Subanen Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн субаненский язык
+    auto: true
   - translation_iso: spa
     name: Subanen septentrional
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Numèè
     auto: true
+  - translation_iso: rus
+    name: нумеейский язык
+    auto: true
   - translation_iso: spa
     name: Numèè
     auto: true

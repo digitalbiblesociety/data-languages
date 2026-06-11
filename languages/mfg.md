@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mogofin
     auto: true
+  - translation_iso: rus
+    name: могофинский язык
+    auto: true
   - translation_iso: spa
     name: Mogofin
     auto: true

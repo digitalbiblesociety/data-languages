@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dogon toro-tegu
+  - translation_iso: rus
+    name: торо тегу догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Toro Tegu
     auto: true

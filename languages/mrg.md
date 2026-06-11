@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mising
     auto: true
+  - translation_iso: rus
+    name: мисингский язык
+    auto: true
   - translation_iso: spa
     name: mising
   - translation_iso: zho

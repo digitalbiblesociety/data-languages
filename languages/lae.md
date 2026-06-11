@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pattani
     auto: true
+  - translation_iso: rus
+    name: паттанийский язык
+    auto: true
   - translation_iso: spa
     name: Pattani
     auto: true

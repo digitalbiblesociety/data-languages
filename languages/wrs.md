@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Waris
     auto: true
+  - translation_iso: rus
+    name: варисский язык
+    auto: true
   - translation_iso: spa
     name: Waris
     auto: true

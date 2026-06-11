@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nambya
     auto: true
+  - translation_iso: rus
+    name: намбйский язык
+    auto: true
   - translation_iso: spa
     name: Nambya
     auto: true

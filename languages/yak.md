@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yakama
     auto: true
+  - translation_iso: rus
+    name: якамский язык
+    auto: true
   - translation_iso: spa
     name: Yakama
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngala
     auto: true
+  - translation_iso: rus
+    name: нгалский язык
+    auto: true
   - translation_iso: spa
     name: Ngala
     auto: true

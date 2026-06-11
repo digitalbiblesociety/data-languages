@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Usui
     auto: true
+  - translation_iso: rus
+    name: усуийский язык
+    auto: true
   - translation_iso: spa
     name: Usui
     auto: true

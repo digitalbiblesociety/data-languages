@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl de Zacatlán-Ahuacatlán-Tepetzintla
     auto: true
+  - translation_iso: rus
+    name: закатлан-ахуакатлан-тепетзинтла нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl de Zacatlán-Ahuacatlán-Tepetzintla
     auto: true

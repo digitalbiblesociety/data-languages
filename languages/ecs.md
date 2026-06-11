@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais do Equador
+  - translation_iso: rus
+    name: екуадориан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Ecuador
   - translation_iso: zho

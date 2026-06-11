@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sarua
     auto: true
+  - translation_iso: rus
+    name: саруский язык
+    auto: true
   - translation_iso: spa
     name: sarua
   - translation_iso: zho

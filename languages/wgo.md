@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ambel
+  - translation_iso: rus
+    name: ваигеоский язык
+    auto: true
   - translation_iso: spa
     name: Waigeo
     auto: true

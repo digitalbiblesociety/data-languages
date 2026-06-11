@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: zapoteco de Yareni
     auto: true
+  - translation_iso: rus
+    name: ярени запотекский язык
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Yareni
     auto: true

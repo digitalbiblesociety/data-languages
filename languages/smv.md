@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Samvedi
     auto: true
+  - translation_iso: rus
+    name: самведийский язык
+    auto: true
   - translation_iso: spa
     name: Samvedi
     auto: true

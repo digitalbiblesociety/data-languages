@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Salas
     auto: true
+  - translation_iso: rus
+    name: саласский язык
+    auto: true
   - translation_iso: spa
     name: Salas
     auto: true

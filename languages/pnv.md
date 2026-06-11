@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pinigura
     auto: true
+  - translation_iso: rus
+    name: пинигурский язык
+    auto: true
   - translation_iso: spa
     name: Pinigura
     auto: true

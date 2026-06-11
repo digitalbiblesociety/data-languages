@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mandara
     auto: true
+  - translation_iso: rus
+    name: мандарский язык
+    auto: true
   - translation_iso: spa
     name: Mandara
     auto: true

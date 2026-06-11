@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sherdukpen
     auto: true
+  - translation_iso: rus
+    name: шердукпенский язык
+    auto: true
   - translation_iso: spa
     name: Sherdukpen
     auto: true

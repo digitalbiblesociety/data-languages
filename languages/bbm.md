@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Babango
     auto: true
+  - translation_iso: rus
+    name: бабангоский язык
+    auto: true
   - translation_iso: spa
     name: Babango
     auto: true

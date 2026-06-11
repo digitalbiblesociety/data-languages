@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mbum
+  - translation_iso: rus
+    name: мбумский язык
+    auto: true
   - translation_iso: spa
     name: Mbum
     auto: true

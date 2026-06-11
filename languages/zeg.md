@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: zenag
     auto: true
+  - translation_iso: rus
+    name: зенагский язык
+    auto: true
   - translation_iso: spa
     name: Zenag
     auto: true

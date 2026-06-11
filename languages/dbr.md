@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dabarre
     auto: true
+  - translation_iso: rus
+    name: дабаррейский язык
+    auto: true
   - translation_iso: spa
     name: Dabarre
     auto: true

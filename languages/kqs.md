@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kissi setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн киссийский язык
+    auto: true
   - translation_iso: spa
     name: Kissi Septentrional
     auto: true

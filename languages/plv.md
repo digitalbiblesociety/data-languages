@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Palawano Sudoeste
     auto: true
+  - translation_iso: rus
+    name: сутвест палаваноский язык
+    auto: true
   - translation_iso: spa
     name: Palawano suroccidental
     auto: true

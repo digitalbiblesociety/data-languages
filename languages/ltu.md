@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Latu
     auto: true
+  - translation_iso: rus
+    name: латуский язык
+    auto: true
   - translation_iso: spa
     name: Latu
     auto: true

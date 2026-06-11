@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mamvu
     auto: true
+  - translation_iso: rus
+    name: мамвуский язык
+    auto: true
   - translation_iso: spa
     name: Mamvu
     auto: true

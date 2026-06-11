@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kalinga de Lubuagan
     auto: true
+  - translation_iso: rus
+    name: лубуаган калингский язык
+    auto: true
   - translation_iso: spa
     name: Kalinga de Lubuagan
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Yeretuar
     auto: true
+  - translation_iso: rus
+    name: еретуарский язык
+    auto: true
   - translation_iso: spa
     name: Yeretuar
     auto: true

@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Teke-Tyee
     auto: true
+  - translation_iso: rus
+    name: теке-теейский язык
+    auto: true
   - translation_iso: spa
     name: Teke-Tyee
     auto: true

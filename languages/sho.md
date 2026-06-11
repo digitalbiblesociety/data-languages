@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Shanga
     auto: true
+  - translation_iso: rus
+    name: шангский язык
+    auto: true
   - translation_iso: spa
     name: Shanga
     auto: true

@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Baga Kaloum
     auto: true
+  - translation_iso: rus
+    name: бага калумский язык
+    auto: true
   - translation_iso: spa
     name: Baga Kaloum
     auto: true

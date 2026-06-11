@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Eitiep
     auto: true
+  - translation_iso: rus
+    name: еитиепский язык
+    auto: true
   - translation_iso: spa
     name: Eitiep
     auto: true

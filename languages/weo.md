@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Wemale
     auto: true
+  - translation_iso: rus
+    name: вемалейский язык
+    auto: true
   - translation_iso: spa
     name: Wemale
     auto: true

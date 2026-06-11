@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Akwa
     auto: true
+  - translation_iso: rus
+    name: аквский язык
+    auto: true
   - translation_iso: spa
     name: Akwa
     auto: true

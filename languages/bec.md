@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Iceve-Maci
     auto: true
+  - translation_iso: rus
+    name: икеве-макийский язык
+    auto: true
   - translation_iso: spa
     name: Iceve-Maci
     auto: true

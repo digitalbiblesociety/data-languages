@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hema
     auto: true
+  - translation_iso: rus
+    name: хемский язык
+    auto: true
   - translation_iso: spa
     name: Hema
     auto: true

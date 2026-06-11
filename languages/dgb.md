@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Bunoge
     auto: true
+  - translation_iso: rus
+    name: буноге догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Bunoge
     auto: true

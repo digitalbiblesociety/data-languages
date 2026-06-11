@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de Juxtlahuaca Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн юкстлахуака микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco del oeste de Juxtlahuaca
     auto: true

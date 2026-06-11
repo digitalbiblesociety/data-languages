@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Jamaicana
     auto: true
+  - translation_iso: rus
+    name: ямаикан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas jamaicana
     auto: true

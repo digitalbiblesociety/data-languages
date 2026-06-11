@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kiong
     auto: true
+  - translation_iso: rus
+    name: кионгский язык
+    auto: true
   - translation_iso: spa
     name: Kiong
     auto: true

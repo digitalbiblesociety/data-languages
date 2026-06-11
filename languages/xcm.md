@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Comecrudo
     auto: true
+  - translation_iso: rus
+    name: комекрудоский язык
+    auto: true
   - translation_iso: spa
     name: Comecrudo
     auto: true

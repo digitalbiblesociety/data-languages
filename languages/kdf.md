@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mamusi
     auto: true
+  - translation_iso: rus
+    name: мамусийский язык
+    auto: true
   - translation_iso: spa
     name: Mamusi
     auto: true

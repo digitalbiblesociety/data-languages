@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chin Khumi oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн хуми чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Khumi Oriental
     auto: true

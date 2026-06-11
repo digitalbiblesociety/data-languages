@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Choni
     auto: true
+  - translation_iso: rus
+    name: чонийский язык
+    auto: true
   - translation_iso: spa
     name: coni
   - translation_iso: zho

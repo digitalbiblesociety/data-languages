@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Arop-Sissano
     auto: true
+  - translation_iso: rus
+    name: ароп-сиссаноский язык
+    auto: true
   - translation_iso: spa
     name: Arop-Sissano
     auto: true

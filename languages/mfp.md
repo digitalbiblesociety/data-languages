@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Malaio de Makassar
     auto: true
+  - translation_iso: rus
+    name: макассар малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo de Makassar
     auto: true

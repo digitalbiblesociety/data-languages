@@ -43,6 +43,9 @@ translations:
   - translation_iso: por
     name: Chin Anu-Hkongso
     auto: true
+  - translation_iso: rus
+    name: ану-хконгсо чинский язык
+    auto: true
   - translation_iso: spa
     name: Anu-Hkongso Chin
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Cori
     auto: true
+  - translation_iso: rus
+    name: корийский язык
+    auto: true
   - translation_iso: spa
     name: Cori
     auto: true

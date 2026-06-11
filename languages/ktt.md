@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ketum
     auto: true
+  - translation_iso: rus
+    name: кетумский язык
+    auto: true
   - translation_iso: spa
     name: Ketum
     auto: true

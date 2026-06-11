@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kungkari
     auto: true
+  - translation_iso: rus
+    name: кунгкарийский язык
+    auto: true
   - translation_iso: spa
     name: Kungkari
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ménik
     auto: true
+  - translation_iso: rus
+    name: меникский язык
+    auto: true
   - translation_iso: spa
     name: Ménik
     auto: true

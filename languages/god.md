@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Godié
     auto: true
+  - translation_iso: rus
+    name: годиейский язык
+    auto: true
   - translation_iso: spa
     name: Godié
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Parsi-Dari
     auto: true
+  - translation_iso: rus
+    name: парси-дарийский язык
+    auto: true
   - translation_iso: spa
     name: Parsi-Dari
     auto: true

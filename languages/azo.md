@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua awing
+  - translation_iso: rus
+    name: авингский язык
+    auto: true
   - translation_iso: spa
     name: awing
   - translation_iso: zho

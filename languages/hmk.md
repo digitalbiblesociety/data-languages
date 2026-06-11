@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Maek
     auto: true
+  - translation_iso: rus
+    name: маекский язык
+    auto: true
   - translation_iso: spa
     name: Idioma yemaek
   - translation_iso: zho

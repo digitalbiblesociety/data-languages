@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mur Pano
     auto: true
+  - translation_iso: rus
+    name: мур паноский язык
+    auto: true
   - translation_iso: spa
     name: Mur Pano
     auto: true

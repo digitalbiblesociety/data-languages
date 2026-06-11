@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua teop
+  - translation_iso: rus
+    name: теопский язык
+    auto: true
   - translation_iso: spa
     name: Teop
   - translation_iso: zho

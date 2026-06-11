@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kouya
     auto: true
+  - translation_iso: rus
+    name: куйский язык
+    auto: true
   - translation_iso: spa
     name: Kouya
     auto: true

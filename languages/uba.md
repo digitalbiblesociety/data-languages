@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ubang
+  - translation_iso: rus
+    name: убангский язык
+    auto: true
   - translation_iso: spa
     name: Ubang
     auto: true

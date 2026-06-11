@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Mulgi
     auto: true
+  - translation_iso: rus
+    name: мулгийский язык
+    auto: true
   - translation_iso: spa
     name: Mulgi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Cora de Santa Teresa
     auto: true
+  - translation_iso: rus
+    name: санта тереса корский язык
+    auto: true
   - translation_iso: spa
     name: Cora de Santa Teresa
     auto: true

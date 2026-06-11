@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pare
     auto: true
+  - translation_iso: rus
+    name: парейский язык
+    auto: true
   - translation_iso: spa
     name: Pare
     auto: true

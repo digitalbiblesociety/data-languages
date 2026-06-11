@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lâmbia
+  - translation_iso: rus
+    name: ламбйский язык
+    auto: true
   - translation_iso: spa
     name: Lambya
     auto: true

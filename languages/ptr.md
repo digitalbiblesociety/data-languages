@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Piamatsina
     auto: true
+  - translation_iso: rus
+    name: пиамацинский язык
+    auto: true
   - translation_iso: spa
     name: Piamatsina
     auto: true

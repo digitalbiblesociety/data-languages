@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Iwam
     auto: true
+  - translation_iso: rus
+    name: ивамский язык
+    auto: true
   - translation_iso: spa
     name: Iwam
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kimaragang
     auto: true
+  - translation_iso: rus
+    name: кимарагангский язык
+    auto: true
   - translation_iso: spa
     name: Kimaragang
     auto: true

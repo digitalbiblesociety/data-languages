@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kamara
     auto: true
+  - translation_iso: rus
+    name: камарский язык
+    auto: true
   - translation_iso: spa
     name: Kamara
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Senufo Tagwana
     auto: true
+  - translation_iso: rus
+    name: тагвана сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Tagwana Senoufo
     auto: true

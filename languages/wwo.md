@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wetamut
     auto: true
+  - translation_iso: rus
+    name: ветамутский язык
+    auto: true
   - translation_iso: spa
     name: Idioma dorig
   - translation_iso: zho

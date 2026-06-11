@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Maraghei
     auto: true
+  - translation_iso: rus
+    name: марагхеийский язык
+    auto: true
   - translation_iso: spa
     name: Maraghei
     auto: true

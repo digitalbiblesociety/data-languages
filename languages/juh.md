@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hõne
     auto: true
+  - translation_iso: rus
+    name: хонейский язык
+    auto: true
   - translation_iso: spa
     name: Hõne
     auto: true

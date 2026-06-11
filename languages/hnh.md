@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: ǁAni
     auto: true
+  - translation_iso: rus
+    name: анийский язык
+    auto: true
   - translation_iso: spa
     name: ǁAni
     auto: true

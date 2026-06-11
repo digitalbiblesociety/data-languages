@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua barai
+  - translation_iso: rus
+    name: бараийский язык
+    auto: true
   - translation_iso: spa
     name: Barai
     auto: true

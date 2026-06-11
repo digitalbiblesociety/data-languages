@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Reli
     auto: true
+  - translation_iso: rus
+    name: релийский язык
+    auto: true
   - translation_iso: spa
     name: Reli
     auto: true

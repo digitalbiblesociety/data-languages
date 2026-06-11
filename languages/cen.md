@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Cen
     auto: true
+  - translation_iso: rus
+    name: кенский язык
+    auto: true
   - translation_iso: spa
     name: Cen
     auto: true

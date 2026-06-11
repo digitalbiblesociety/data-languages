@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: chepya
     auto: true
+  - translation_iso: rus
+    name: чепйский язык
+    auto: true
   - translation_iso: spa
     name: Chepya
     auto: true

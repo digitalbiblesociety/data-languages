@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dani do Médio Grand Valley
     auto: true
+  - translation_iso: rus
+    name: мид гранд валлей данийский язык
+    auto: true
   - translation_iso: spa
     name: Dani del Valle Grande Medio
     auto: true

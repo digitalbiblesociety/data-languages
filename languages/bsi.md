@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bassossi
     auto: true
+  - translation_iso: rus
+    name: бассоссийский язык
+    auto: true
   - translation_iso: spa
     name: Bassossi
     auto: true

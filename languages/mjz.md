@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Majhi
     auto: true
+  - translation_iso: rus
+    name: маджхийский язык
+    auto: true
   - translation_iso: spa
     name: Majhi
     auto: true

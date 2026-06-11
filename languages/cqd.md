@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Miao do conjunto Chuanqiandian
     auto: true
+  - translation_iso: rus
+    name: чуанкиандиан клустер миаоский язык
+    auto: true
   - translation_iso: spa
     name: Miao del Grupo Chuanqiandian
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Berinomo
     auto: true
+  - translation_iso: rus
+    name: бериномоский язык
+    auto: true
   - translation_iso: spa
     name: berinomo
   - translation_iso: zho

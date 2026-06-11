@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nuk
     auto: true
+  - translation_iso: rus
+    name: нукский язык
+    auto: true
   - translation_iso: spa
     name: Nuk
     auto: true

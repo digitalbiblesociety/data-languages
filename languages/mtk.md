@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbe
     auto: true
+  - translation_iso: rus
+    name: мбейский язык
+    auto: true
   - translation_iso: spa
     name: Mbe
     auto: true

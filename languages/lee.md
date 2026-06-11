@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lyélé
     auto: true
+  - translation_iso: rus
+    name: лйелейский язык
+    auto: true
   - translation_iso: spa
     name: Lyélé
     auto: true

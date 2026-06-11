@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kurmukar
     auto: true
+  - translation_iso: rus
+    name: курмукарский язык
+    auto: true
   - translation_iso: spa
     name: Kurmukar
     auto: true

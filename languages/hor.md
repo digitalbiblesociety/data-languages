@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Horo
     auto: true
+  - translation_iso: rus
+    name: хороский язык
+    auto: true
   - translation_iso: spa
     name: Horo
     auto: true

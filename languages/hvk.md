@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Haveke
     auto: true
+  - translation_iso: rus
+    name: хавекейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma haveke
   - translation_iso: zho

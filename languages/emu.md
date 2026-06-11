@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: muria oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн муриский язык
+    auto: true
   - translation_iso: spa
     name: Muria Oriental
     auto: true

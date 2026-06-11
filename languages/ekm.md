@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Elip
     auto: true
+  - translation_iso: rus
+    name: елипский язык
+    auto: true
   - translation_iso: spa
     name: Elip
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nake
     auto: true
+  - translation_iso: rus
+    name: накейский язык
+    auto: true
   - translation_iso: spa
     name: Nake
     auto: true

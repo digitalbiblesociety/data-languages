@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyiha (Malawi)
     auto: true
+  - translation_iso: rus
+    name: нйихский язык
+    auto: true
   - translation_iso: spa
     name: Nyiha (Malaui)
     auto: true

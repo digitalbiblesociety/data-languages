@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Doutai
     auto: true
+  - translation_iso: rus
+    name: дутаийский язык
+    auto: true
   - translation_iso: spa
     name: Doutai
     auto: true

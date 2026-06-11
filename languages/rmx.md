@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Romam
     auto: true
+  - translation_iso: rus
+    name: ромамский язык
+    auto: true
   - translation_iso: spa
     name: Romam
     auto: true

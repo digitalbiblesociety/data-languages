@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bhele
     auto: true
+  - translation_iso: rus
+    name: бхелейский язык
+    auto: true
   - translation_iso: spa
     name: Bhele
     auto: true

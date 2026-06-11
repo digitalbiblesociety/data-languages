@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kuwaa
     auto: true
+  - translation_iso: rus
+    name: куваский язык
+    auto: true
   - translation_iso: spa
     name: Kuwaa
     auto: true

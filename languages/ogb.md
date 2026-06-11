@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ogbia
     auto: true
+  - translation_iso: rus
+    name: огбиский язык
+    auto: true
   - translation_iso: spa
     name: Ogbia
     auto: true

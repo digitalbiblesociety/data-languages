@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kula
     auto: true
+  - translation_iso: rus
+    name: кулский язык
+    auto: true
   - translation_iso: spa
     name: Kula
     auto: true

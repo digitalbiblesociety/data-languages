@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngombe (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: нгомбейский язык
+    auto: true
   - translation_iso: spa
     name: Ngombe (República Democrática del Congo)
     auto: true

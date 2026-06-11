@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Avikam
     auto: true
+  - translation_iso: rus
+    name: авикамский язык
+    auto: true
   - translation_iso: spa
     name: Avikam
     auto: true

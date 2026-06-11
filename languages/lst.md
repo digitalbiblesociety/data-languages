@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Trinidad e Tobago
     auto: true
+  - translation_iso: rus
+    name: тринидад анд тобаго сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Trinidad y Tobago
     auto: true

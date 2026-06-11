@@ -36,6 +36,9 @@ translations:
     name: 세켈레어
   - translation_iso: por
     name: "!O!ung"
+  - translation_iso: rus
+    name: секелейский язык
+    auto: true
   - translation_iso: spa
     name: idioma sekele
   - translation_iso: zho

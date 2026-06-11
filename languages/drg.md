@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rungus
     auto: true
+  - translation_iso: rus
+    name: рунгусский язык
+    auto: true
   - translation_iso: spa
     name: Rungus
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto uru-eu-uau-uau
+  - translation_iso: rus
+    name: уру-еу-вау-вауский язык
+    auto: true
   - translation_iso: spa
     name: uru-eu-uau-uau
   - translation_iso: zho

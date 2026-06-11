@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kimki
     auto: true
+  - translation_iso: rus
+    name: кимкийский язык
+    auto: true
   - translation_iso: spa
     name: Kimki
     auto: true

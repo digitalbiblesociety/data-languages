@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Perai
     auto: true
+  - translation_iso: rus
+    name: пераийский язык
+    auto: true
   - translation_iso: spa
     name: Perai
     auto: true

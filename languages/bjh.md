@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Bahinemo
     auto: true
+  - translation_iso: rus
+    name: бахинемоский язык
+    auto: true
   - translation_iso: spa
     name: Bahinemo
     auto: true

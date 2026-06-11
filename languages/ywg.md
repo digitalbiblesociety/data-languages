@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yinhawangka
     auto: true
+  - translation_iso: rus
+    name: йинхавангкский язык
+    auto: true
   - translation_iso: spa
     name: Yinhawangka
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: ut-Hun
     auto: true
+  - translation_iso: rus
+    name: ут-хунский язык
+    auto: true
   - translation_iso: spa
     name: Ut-Hun
     auto: true

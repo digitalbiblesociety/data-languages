@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Namat
     auto: true
+  - translation_iso: rus
+    name: наматский язык
+    auto: true
   - translation_iso: spa
     name: Namat
     auto: true

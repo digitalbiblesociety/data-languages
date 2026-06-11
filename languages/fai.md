@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Faiwol
     auto: true
+  - translation_iso: rus
+    name: фаивольский язык
+    auto: true
   - translation_iso: spa
     name: Faiwol
     auto: true

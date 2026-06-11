@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Lanima
     auto: true
+  - translation_iso: rus
+    name: ланимский язык
+    auto: true
   - translation_iso: spa
     name: Lanima
     auto: true

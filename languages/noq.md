@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ngongo
     auto: true
+  - translation_iso: rus
+    name: нгонгоский язык
+    auto: true
   - translation_iso: spa
     name: Ngongo
     auto: true

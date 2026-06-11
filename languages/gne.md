@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ganang
     auto: true
+  - translation_iso: rus
+    name: ганангский язык
+    auto: true
   - translation_iso: spa
     name: Ganang
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tumi
     auto: true
+  - translation_iso: rus
+    name: тумийский язык
+    auto: true
   - translation_iso: spa
     name: Tumi
     auto: true

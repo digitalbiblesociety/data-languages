@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lamkang
     auto: true
+  - translation_iso: rus
+    name: ламкангский язык
+    auto: true
   - translation_iso: spa
     name: Lamkang
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Marau
     auto: true
+  - translation_iso: rus
+    name: марауский язык
+    auto: true
   - translation_iso: spa
     name: Marau
     auto: true

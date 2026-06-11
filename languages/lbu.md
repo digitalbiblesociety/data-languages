@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Labu
     auto: true
+  - translation_iso: rus
+    name: лабуский язык
+    auto: true
   - translation_iso: spa
     name: Labu
     auto: true

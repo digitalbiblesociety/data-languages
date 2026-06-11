@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Imonda
     auto: true
+  - translation_iso: rus
+    name: имондский язык
+    auto: true
   - translation_iso: spa
     name: Imonda
     auto: true

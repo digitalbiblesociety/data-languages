@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wangkangurru
     auto: true
+  - translation_iso: rus
+    name: вангкангурруский язык
+    auto: true
   - translation_iso: spa
     name: idioma wangganguru
   - translation_iso: zho

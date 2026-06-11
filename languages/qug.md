@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Altas de Chimborazo
     auto: true
+  - translation_iso: rus
+    name: чимборазо хигхланд квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Chimborazo
     auto: true

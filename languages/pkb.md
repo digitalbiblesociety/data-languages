@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pokomo
     auto: true
+  - translation_iso: rus
+    name: покомоский язык
+    auto: true
   - translation_iso: spa
     name: Pokomo
     auto: true

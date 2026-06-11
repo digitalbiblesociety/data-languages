@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Akpa
     auto: true
+  - translation_iso: rus
+    name: акпский язык
+    auto: true
   - translation_iso: spa
     name: Akpa
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Idakho-Isukha-Tiriki
     auto: true
+  - translation_iso: rus
+    name: идахо-исуха-тирикийский язык
+    auto: true
   - translation_iso: spa
     name: Idakho-Isukha-Tiriki
     auto: true

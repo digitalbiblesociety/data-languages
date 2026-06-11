@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulos indo-portugueses
+  - translation_iso: rus
+    name: индо-португуесейский язык
+    auto: true
   - translation_iso: spa
     name: Criollo indo-portugués
   - translation_iso: zho

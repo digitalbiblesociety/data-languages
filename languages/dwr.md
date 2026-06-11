@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dawro
     auto: true
+  - translation_iso: rus
+    name: давроский язык
+    auto: true
   - translation_iso: spa
     name: Dawro
     auto: true

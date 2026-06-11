@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Arhâ
     auto: true
+  - translation_iso: rus
+    name: архский язык
+    auto: true
   - translation_iso: spa
     name: Idioma arhâ
   - translation_iso: zho

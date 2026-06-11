@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bolango
     auto: true
+  - translation_iso: rus
+    name: болангоский язык
+    auto: true
   - translation_iso: spa
     name: Bolango
     auto: true

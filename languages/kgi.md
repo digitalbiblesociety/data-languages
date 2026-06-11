@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais de Selangor
+  - translation_iso: rus
+    name: селангор сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Selangor
     auto: true

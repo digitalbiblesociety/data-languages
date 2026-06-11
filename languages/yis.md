@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yis
     auto: true
+  - translation_iso: rus
+    name: йисский язык
+    auto: true
   - translation_iso: spa
     name: Yis
     auto: true

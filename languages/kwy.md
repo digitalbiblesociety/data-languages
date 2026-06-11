@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Congo de San Salvador
     auto: true
+  - translation_iso: rus
+    name: сан салвадор конгоский язык
+    auto: true
   - translation_iso: spa
     name: Kongo de San Salvador
     auto: true

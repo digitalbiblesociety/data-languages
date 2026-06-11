@@ -35,6 +35,9 @@ translations:
     name: 과들루프 크리올
   - translation_iso: por
     name: Crioulo de Guadalupe
+  - translation_iso: rus
+    name: гуаделупеан креоле френчский язык
+    auto: true
   - translation_iso: spa
     name: Criollo francés de Guadalupe
     auto: true

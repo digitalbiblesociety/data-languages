@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malapandaram
     auto: true
+  - translation_iso: rus
+    name: малапандарамский язык
+    auto: true
   - translation_iso: spa
     name: Malapandaram
     auto: true

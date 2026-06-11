@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gobasi
     auto: true
+  - translation_iso: rus
+    name: гобасийский язык
+    auto: true
   - translation_iso: spa
     name: Gobasi
     auto: true

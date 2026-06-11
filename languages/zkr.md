@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zakhring
     auto: true
+  - translation_iso: rus
+    name: захрингский язык
+    auto: true
   - translation_iso: spa
     name: Zakhring
     auto: true

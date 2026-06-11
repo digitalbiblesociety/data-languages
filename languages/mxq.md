@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixe de Juquila
     auto: true
+  - translation_iso: rus
+    name: юквила миксейский язык
+    auto: true
   - translation_iso: spa
     name: Mixe de Juquila
     auto: true

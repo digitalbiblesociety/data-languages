@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Trieng
     auto: true
+  - translation_iso: rus
+    name: триенгский язык
+    auto: true
   - translation_iso: spa
     name: Trieng
     auto: true

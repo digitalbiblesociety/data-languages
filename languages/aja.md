@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua aja
+  - translation_iso: rus
+    name: айский язык
+    auto: true
   - translation_iso: spa
     name: Aja
     auto: true

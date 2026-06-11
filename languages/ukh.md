@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ukhwejo
     auto: true
+  - translation_iso: rus
+    name: ухвейоский язык
+    auto: true
   - translation_iso: spa
     name: Ukhwejo
     auto: true

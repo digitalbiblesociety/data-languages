@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bomboma
     auto: true
+  - translation_iso: rus
+    name: бомбомский язык
+    auto: true
   - translation_iso: spa
     name: Bomboma
     auto: true

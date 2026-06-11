@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: lituano antigo
     auto: true
+  - translation_iso: rus
+    name: олд литуанианский язык
+    auto: true
   - translation_iso: spa
     name: lituano antiguo
   - translation_iso: zho

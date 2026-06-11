@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Karami
     auto: true
+  - translation_iso: rus
+    name: карамийский язык
+    auto: true
   - translation_iso: spa
     name: Karami
     auto: true

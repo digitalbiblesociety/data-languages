@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Aoheng
+  - translation_iso: rus
+    name: аохенгский язык
+    auto: true
   - translation_iso: spa
     name: Aoheng
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: quituba (Congo)
     auto: true
+  - translation_iso: rus
+    name: китубский язык
+    auto: true
   - translation_iso: spa
     name: Kituba
   - translation_iso: zho

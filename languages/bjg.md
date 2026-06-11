@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Bidyogo
     auto: true
+  - translation_iso: rus
+    name: бидйогоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma bijago
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mum
     auto: true
+  - translation_iso: rus
+    name: мумский язык
+    auto: true
   - translation_iso: spa
     name: Mum
     auto: true

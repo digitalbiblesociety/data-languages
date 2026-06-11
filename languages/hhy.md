@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hoyahoya
     auto: true
+  - translation_iso: rus
+    name: хояхойский язык
+    auto: true
   - translation_iso: spa
     name: Hoyahoya
     auto: true

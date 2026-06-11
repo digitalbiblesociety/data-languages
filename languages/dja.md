@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Djadjawurrung
     auto: true
+  - translation_iso: rus
+    name: дядявуррунгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma djadjawurrung
   - translation_iso: zho

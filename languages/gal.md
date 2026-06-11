@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua galóli
+  - translation_iso: rus
+    name: галоленский язык
+    auto: true
   - translation_iso: spa
     name: Galoli
   - translation_iso: zho

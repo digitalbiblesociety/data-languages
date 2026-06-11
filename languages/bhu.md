@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bhunjia
     auto: true
+  - translation_iso: rus
+    name: бхунджиский язык
+    auto: true
   - translation_iso: spa
     name: Bhunjia
     auto: true

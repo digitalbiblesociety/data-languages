@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wanggamala
     auto: true
+  - translation_iso: rus
+    name: ванггамалский язык
+    auto: true
   - translation_iso: spa
     name: idioma wanggamala
   - translation_iso: zho

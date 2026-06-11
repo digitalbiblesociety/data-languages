@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kibet
     auto: true
+  - translation_iso: rus
+    name: кибетский язык
+    auto: true
   - translation_iso: spa
     name: Kibet
     auto: true

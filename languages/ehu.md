@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ehueun
     auto: true
+  - translation_iso: rus
+    name: ехуеунский язык
+    auto: true
   - translation_iso: spa
     name: Ehueun
     auto: true

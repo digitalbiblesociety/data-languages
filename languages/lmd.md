@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lumum
+  - translation_iso: rus
+    name: лумунский язык
+    auto: true
   - translation_iso: spa
     name: Lumun
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua pévé
+  - translation_iso: rus
+    name: певейский язык
+    auto: true
   - translation_iso: spa
     name: pevé
   - translation_iso: zho

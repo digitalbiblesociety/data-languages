@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gonja
+  - translation_iso: rus
+    name: гонйский язык
+    auto: true
   - translation_iso: spa
     name: Gonja
     auto: true

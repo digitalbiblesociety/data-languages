@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Massalat
     auto: true
+  - translation_iso: rus
+    name: массалатский язык
+    auto: true
   - translation_iso: spa
     name: Massalat
     auto: true

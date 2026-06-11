@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Yale de Kosarek
     auto: true
+  - translation_iso: rus
+    name: косарек ялейский язык
+    auto: true
   - translation_iso: spa
     name: Yale de Kosarek
     auto: true

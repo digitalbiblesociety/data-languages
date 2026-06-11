@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua namonuito
+  - translation_iso: rus
+    name: намонуитоский язык
+    auto: true
   - translation_iso: spa
     name: Namonuito
     auto: true

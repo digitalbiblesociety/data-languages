@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lhomi
     auto: true
+  - translation_iso: rus
+    name: лхомийский язык
+    auto: true
   - translation_iso: spa
     name: Lhomi
     auto: true

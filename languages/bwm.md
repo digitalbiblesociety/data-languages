@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Biwat
     auto: true
+  - translation_iso: rus
+    name: биватский язык
+    auto: true
   - translation_iso: spa
     name: Biwat
     auto: true

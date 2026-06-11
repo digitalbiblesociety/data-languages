@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Lewo
     auto: true
+  - translation_iso: rus
+    name: левоский язык
+    auto: true
   - translation_iso: spa
     name: Lewo
     auto: true

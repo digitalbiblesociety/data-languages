@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Orya
+  - translation_iso: rus
+    name: орйский язык
+    auto: true
   - translation_iso: spa
     name: Orya
   - translation_iso: zho

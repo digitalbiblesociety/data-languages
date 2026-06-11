@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Marka
     auto: true
+  - translation_iso: rus
+    name: маркский язык
+    auto: true
   - translation_iso: spa
     name: Marka
     auto: true

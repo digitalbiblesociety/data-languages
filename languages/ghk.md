@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: karen geko
     auto: true
+  - translation_iso: rus
+    name: геко каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen geko
     auto: true

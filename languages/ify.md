@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kallahan Keley-I
     auto: true
+  - translation_iso: rus
+    name: келей-и каллаханский язык
+    auto: true
   - translation_iso: spa
     name: Kallahan Keley-I
     auto: true

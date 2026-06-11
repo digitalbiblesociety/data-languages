@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Teanu
     auto: true
+  - translation_iso: rus
+    name: теануский язык
+    auto: true
   - translation_iso: spa
     name: Teanu
     auto: true

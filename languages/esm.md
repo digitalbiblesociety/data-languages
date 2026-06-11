@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Esuma
     auto: true
+  - translation_iso: rus
+    name: есумский язык
+    auto: true
   - translation_iso: spa
     name: Esuma
     auto: true

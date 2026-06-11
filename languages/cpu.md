@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ashéninka de Pichis
     auto: true
+  - translation_iso: rus
+    name: пичис ашенинкский язык
+    auto: true
   - translation_iso: spa
     name: Pichis Ashéninka
   - translation_iso: zho

@@ -43,6 +43,9 @@ translations:
   - translation_iso: por
     name: Malaio de Berau
     auto: true
+  - translation_iso: rus
+    name: берау малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo de Berau
     auto: true

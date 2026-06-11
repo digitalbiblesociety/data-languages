@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua hoava
+  - translation_iso: rus
+    name: хоавский язык
+    auto: true
   - translation_iso: spa
     name: Hoava
   - translation_iso: zho

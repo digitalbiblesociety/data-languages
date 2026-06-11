@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Grebo de Barclayville
     auto: true
+  - translation_iso: rus
+    name: барклайвилле гребоский язык
+    auto: true
   - translation_iso: spa
     name: Grebo de Barclayville
     auto: true

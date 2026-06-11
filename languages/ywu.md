@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: nasu de Wumeng
     auto: true
+  - translation_iso: rus
+    name: вуменг насуский язык
+    auto: true
   - translation_iso: spa
     name: Nasu de Wumeng
     auto: true

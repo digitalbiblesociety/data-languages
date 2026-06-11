@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bati (Camarões)
     auto: true
+  - translation_iso: rus
+    name: батийский язык
+    auto: true
   - translation_iso: spa
     name: bati
   - translation_iso: zho

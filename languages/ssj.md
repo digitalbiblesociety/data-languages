@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sausi
     auto: true
+  - translation_iso: rus
+    name: саусийский язык
+    auto: true
   - translation_iso: spa
     name: Sausi
     auto: true

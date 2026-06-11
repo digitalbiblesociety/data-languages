@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbariman-Gudhinma
     auto: true
+  - translation_iso: rus
+    name: мбариман-гудхинмский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mbariman-gudhinma
   - translation_iso: zho

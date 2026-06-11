@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: crioulo de Yilan
     auto: true
+  - translation_iso: rus
+    name: йилан креолейский язык
+    auto: true
   - translation_iso: spa
     name: Criollo de Yilan
   - translation_iso: zho

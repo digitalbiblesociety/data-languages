@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bauni
     auto: true
+  - translation_iso: rus
+    name: баунийский язык
+    auto: true
   - translation_iso: spa
     name: Bauni
     auto: true

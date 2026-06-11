@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "So'a"
+  - translation_iso: rus
+    name: соский язык
+    auto: true
   - translation_iso: spa
     name: "So'a"
   - translation_iso: zho

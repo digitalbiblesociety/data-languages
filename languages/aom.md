@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ömie
     auto: true
+  - translation_iso: rus
+    name: омиейский язык
+    auto: true
   - translation_iso: spa
     name: Ömie
     auto: true

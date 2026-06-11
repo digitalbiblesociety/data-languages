@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sabaot
     auto: true
+  - translation_iso: rus
+    name: сабаотский язык
+    auto: true
   - translation_iso: spa
     name: Sabaot
     auto: true

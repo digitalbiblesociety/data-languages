@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ambele
     auto: true
+  - translation_iso: rus
+    name: амбелейский язык
+    auto: true
   - translation_iso: spa
     name: Ambele
     auto: true

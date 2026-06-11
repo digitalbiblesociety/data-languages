@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Amahai
+  - translation_iso: rus
+    name: амахаийский язык
+    auto: true
   - translation_iso: spa
     name: Amahai
   - translation_iso: zho

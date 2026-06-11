@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Seki
     auto: true
+  - translation_iso: rus
+    name: секийский язык
+    auto: true
   - translation_iso: spa
     name: seki
   - translation_iso: zho

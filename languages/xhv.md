@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Khua
     auto: true
+  - translation_iso: rus
+    name: хуский язык
+    auto: true
   - translation_iso: spa
     name: Khua
     auto: true

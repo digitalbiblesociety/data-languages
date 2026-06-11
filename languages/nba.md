@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyemba
     auto: true
+  - translation_iso: rus
+    name: нембский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nyemba
   - translation_iso: zho

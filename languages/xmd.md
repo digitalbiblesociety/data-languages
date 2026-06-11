@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbudum
     auto: true
+  - translation_iso: rus
+    name: мбудумский язык
+    auto: true
   - translation_iso: spa
     name: Mbudum
     auto: true

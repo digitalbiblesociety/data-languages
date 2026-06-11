@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tchumbuli
     auto: true
+  - translation_iso: rus
+    name: чумбулийский язык
+    auto: true
   - translation_iso: spa
     name: Tchumbuli
     auto: true

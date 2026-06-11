@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Laeko-Libuat
     auto: true
+  - translation_iso: rus
+    name: лаеко-либуатский язык
+    auto: true
   - translation_iso: spa
     name: Laeko-Libuat
     auto: true

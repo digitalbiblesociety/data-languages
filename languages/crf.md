@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Caramanta
     auto: true
+  - translation_iso: rus
+    name: карамантский язык
+    auto: true
   - translation_iso: spa
     name: Caramanta
     auto: true

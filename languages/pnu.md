@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bunu Jiongnai
     auto: true
+  - translation_iso: rus
+    name: джионгнаи бунуский язык
+    auto: true
   - translation_iso: spa
     name: kiong nai
   - translation_iso: zho

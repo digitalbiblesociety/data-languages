@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zoque de Copainalá
     auto: true
+  - translation_iso: rus
+    name: копаинала зоквейский язык
+    auto: true
   - translation_iso: spa
     name: zoque de Copainalá
   - translation_iso: zho

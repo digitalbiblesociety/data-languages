@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tela-Masbuar
     auto: true
+  - translation_iso: rus
+    name: тела-масбуарский язык
+    auto: true
   - translation_iso: spa
     name: Tela-Masbuar
     auto: true

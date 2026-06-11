@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua murle
+  - translation_iso: rus
+    name: мурлейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma murle
   - translation_iso: zho

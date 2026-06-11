@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmong Don
     auto: true
+  - translation_iso: rus
+    name: хмонг донский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Don
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kemtuik
     auto: true
+  - translation_iso: rus
+    name: кемтуикский язык
+    auto: true
   - translation_iso: spa
     name: Kemtuik
     auto: true

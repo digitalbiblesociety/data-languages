@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Herdé
     auto: true
+  - translation_iso: rus
+    name: хердейский язык
+    auto: true
   - translation_iso: spa
     name: herdé
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dyan
     auto: true
+  - translation_iso: rus
+    name: дянский язык
+    auto: true
   - translation_iso: spa
     name: Dyan
     auto: true

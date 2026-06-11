@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Edolo
     auto: true
+  - translation_iso: rus
+    name: едолоский язык
+    auto: true
   - translation_iso: spa
     name: Edolo
     auto: true

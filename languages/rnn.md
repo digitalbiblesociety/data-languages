@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Roon
     auto: true
+  - translation_iso: rus
+    name: рунский язык
+    auto: true
   - translation_iso: spa
     name: Roon
     auto: true

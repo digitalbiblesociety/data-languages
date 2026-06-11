@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chaudangsi
     auto: true
+  - translation_iso: rus
+    name: чаудангсийский язык
+    auto: true
   - translation_iso: spa
     name: Chaudangsi
     auto: true

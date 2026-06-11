@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: yamben
     auto: true
+  - translation_iso: rus
+    name: ямбенский язык
+    auto: true
   - translation_iso: spa
     name: Yamben
     auto: true

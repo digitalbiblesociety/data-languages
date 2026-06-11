@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Bozaba
     auto: true
+  - translation_iso: rus
+    name: бозабский язык
+    auto: true
   - translation_iso: spa
     name: Bozaba
     auto: true

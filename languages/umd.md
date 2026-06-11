@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Umbindhamu
     auto: true
+  - translation_iso: rus
+    name: умбиндхамуский язык
+    auto: true
   - translation_iso: spa
     name: idioma umpithamu
   - translation_iso: zho

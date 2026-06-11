@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Litzlitz
     auto: true
+  - translation_iso: rus
+    name: литзлитзский язык
+    auto: true
   - translation_iso: spa
     name: Litzlitz
     auto: true

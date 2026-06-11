@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua shabaki
+  - translation_iso: rus
+    name: шабакский язык
+    auto: true
   - translation_iso: spa
     name: Shabak
     auto: true

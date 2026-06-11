@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jeri Kuo
     auto: true
+  - translation_iso: rus
+    name: ери куоский язык
+    auto: true
   - translation_iso: spa
     name: Jeri Kuo
     auto: true

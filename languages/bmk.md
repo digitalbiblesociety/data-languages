@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ghayavi
     auto: true
+  - translation_iso: rus
+    name: гхаявийский язык
+    auto: true
   - translation_iso: spa
     name: Ghayavi
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Loup B
     auto: true
+  - translation_iso: rus
+    name: луп бский язык
+    auto: true
   - translation_iso: spa
     name: Loup B
     auto: true

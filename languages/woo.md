@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Manombai
     auto: true
+  - translation_iso: rus
+    name: маномбаийский язык
+    auto: true
   - translation_iso: spa
     name: Manombai
     auto: true

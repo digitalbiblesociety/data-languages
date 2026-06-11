@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Namosi-Naitasiri-Serua
     auto: true
+  - translation_iso: rus
+    name: намоси-наитасири-серуский язык
+    auto: true
   - translation_iso: spa
     name: Namosi-Naitasiri-Serua
   - translation_iso: zho

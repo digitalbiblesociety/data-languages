@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Darai
     auto: true
+  - translation_iso: rus
+    name: дараийский язык
+    auto: true
   - translation_iso: spa
     name: Darai
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Língua kwara'ae"
+  - translation_iso: rus
+    name: кварааейский язык
+    auto: true
   - translation_iso: spa
     name: "Kwara'ae"
   - translation_iso: zho

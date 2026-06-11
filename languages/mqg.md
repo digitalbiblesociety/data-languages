@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: malaio kutai de Kota Bangun
     auto: true
+  - translation_iso: rus
+    name: кота бангун кутаи малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo Kutai de Kota Bangun
     auto: true

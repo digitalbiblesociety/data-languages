@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maiwala
     auto: true
+  - translation_iso: rus
+    name: маивалский язык
+    auto: true
   - translation_iso: spa
     name: Maiwala
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: One Inebu
     auto: true
+  - translation_iso: rus
+    name: инебу онейский язык
+    auto: true
   - translation_iso: spa
     name: One de Inebu
     auto: true

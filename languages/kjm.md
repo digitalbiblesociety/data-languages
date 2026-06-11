@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kháng
     auto: true
+  - translation_iso: rus
+    name: хангский язык
+    auto: true
   - translation_iso: spa
     name: Idioma khang
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kowaki
     auto: true
+  - translation_iso: rus
+    name: ковакийский язык
+    auto: true
   - translation_iso: spa
     name: Kowaki
     auto: true

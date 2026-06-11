@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tagakaulo
     auto: true
+  - translation_iso: rus
+    name: тагакаулоский язык
+    auto: true
   - translation_iso: spa
     name: Tagakaulo
     auto: true

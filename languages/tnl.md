@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Lenakel
     auto: true
+  - translation_iso: rus
+    name: ленакельский язык
+    auto: true
   - translation_iso: spa
     name: Lenakel
     auto: true

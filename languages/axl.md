@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua arrernte inferior
+  - translation_iso: rus
+    name: ловер сутерн арандский язык
+    auto: true
   - translation_iso: spa
     name: Aranda Meridional Inferior
     auto: true

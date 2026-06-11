@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Termanu
     auto: true
+  - translation_iso: rus
+    name: термануский язык
+    auto: true
   - translation_iso: spa
     name: Termanu
     auto: true

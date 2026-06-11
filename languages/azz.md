@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Náuatle de Puebla das Terras Altas
     auto: true
+  - translation_iso: rus
+    name: хигхланд пуебла нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl de la Sierra de Puebla
     auto: true

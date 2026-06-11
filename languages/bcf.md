@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bamu
     auto: true
+  - translation_iso: rus
+    name: бамуский язык
+    auto: true
   - translation_iso: spa
     name: Bamu
     auto: true

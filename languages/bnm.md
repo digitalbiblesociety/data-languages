@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Batanga
     auto: true
+  - translation_iso: rus
+    name: батангский язык
+    auto: true
   - translation_iso: spa
     name: batanga
   - translation_iso: zho

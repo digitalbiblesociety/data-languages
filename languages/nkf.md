@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Inpui
     auto: true
+  - translation_iso: rus
+    name: инпуи нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Inpui
     auto: true

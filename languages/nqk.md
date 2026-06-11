@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kura Ede Nago
     auto: true
+  - translation_iso: rus
+    name: кура еде нагоский язык
+    auto: true
   - translation_iso: spa
     name: Kura Ede Nago
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ai-Cham
     auto: true
+  - translation_iso: rus
+    name: аи-чамский язык
+    auto: true
   - translation_iso: spa
     name: Ai-Cham
     auto: true

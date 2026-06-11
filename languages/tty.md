@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Aikwakai
+  - translation_iso: rus
+    name: сикаритаийский язык
+    auto: true
   - translation_iso: spa
     name: Aikwakai
   - translation_iso: zho

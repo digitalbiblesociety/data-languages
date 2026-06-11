@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nehan
     auto: true
+  - translation_iso: rus
+    name: неханский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nehan
   - translation_iso: zho

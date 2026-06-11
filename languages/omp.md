@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: manipuri antigo
     auto: true
+  - translation_iso: rus
+    name: олд манипурийский язык
+    auto: true
   - translation_iso: spa
     name: Manipuri antiguo
     auto: true

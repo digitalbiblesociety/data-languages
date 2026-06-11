@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Koroni
     auto: true
+  - translation_iso: rus
+    name: коронийский язык
+    auto: true
   - translation_iso: spa
     name: Koroni
     auto: true

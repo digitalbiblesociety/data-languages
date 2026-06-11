@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dalabon
     auto: true
+  - translation_iso: rus
+    name: далабонский язык
+    auto: true
   - translation_iso: spa
     name: Dalabon
     auto: true

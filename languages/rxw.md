@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karuwali
     auto: true
+  - translation_iso: rus
+    name: карувалийский язык
+    auto: true
   - translation_iso: spa
     name: Karuwali
     auto: true

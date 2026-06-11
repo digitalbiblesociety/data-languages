@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naga Chokri
     auto: true
+  - translation_iso: rus
+    name: чокри нагский язык
+    auto: true
   - translation_iso: spa
     name: Chokri
   - translation_iso: zho

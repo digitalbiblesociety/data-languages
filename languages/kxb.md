@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Krobu
     auto: true
+  - translation_iso: rus
+    name: кробуский язык
+    auto: true
   - translation_iso: spa
     name: krobu
   - translation_iso: zho

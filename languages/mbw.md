@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Maring
     auto: true
+  - translation_iso: rus
+    name: марингский язык
+    auto: true
   - translation_iso: spa
     name: Idioma maring
   - translation_iso: zho

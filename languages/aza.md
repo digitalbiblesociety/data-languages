@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Azha
     auto: true
+  - translation_iso: rus
+    name: ажский язык
+    auto: true
   - translation_iso: spa
     name: Azha
     auto: true

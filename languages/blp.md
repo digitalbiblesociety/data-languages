@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Blablanga
     auto: true
+  - translation_iso: rus
+    name: блаблангский язык
+    auto: true
   - translation_iso: spa
     name: Blablanga
   - translation_iso: zho

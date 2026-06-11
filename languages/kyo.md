@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kelon
     auto: true
+  - translation_iso: rus
+    name: келонский язык
+    auto: true
   - translation_iso: spa
     name: Kelon
     auto: true

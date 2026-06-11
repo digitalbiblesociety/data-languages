@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tiefo
+  - translation_iso: rus
+    name: тиефоский язык
+    auto: true
   - translation_iso: spa
     name: Tiéfo
     auto: true

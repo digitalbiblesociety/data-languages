@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tuotomb
     auto: true
+  - translation_iso: rus
+    name: туотомбский язык
+    auto: true
   - translation_iso: spa
     name: Tuotomb
     auto: true

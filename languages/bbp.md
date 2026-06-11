@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Banda do Centro-Oeste
     auto: true
+  - translation_iso: rus
+    name: вест кентрал бандский язык
+    auto: true
   - translation_iso: spa
     name: Banda Centro-Occidental
     auto: true

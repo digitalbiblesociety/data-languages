@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kurumba de Mullu
     auto: true
+  - translation_iso: rus
+    name: муллу курумбский язык
+    auto: true
   - translation_iso: spa
     name: Mullu Kurumba
     auto: true

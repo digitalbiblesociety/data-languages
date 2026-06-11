@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Tulehu
+  - translation_iso: rus
+    name: тулехуский язык
+    auto: true
   - translation_iso: spa
     name: Tulehu
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nuaulu do Sul
     auto: true
+  - translation_iso: rus
+    name: сут нуаулуский язык
+    auto: true
   - translation_iso: spa
     name: Nuaulu del Sur
     auto: true

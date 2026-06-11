@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Murik (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: мурикский язык
+    auto: true
   - translation_iso: spa
     name: Murik (Papúa Nueva Guinea)
     auto: true

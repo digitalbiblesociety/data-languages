@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl de Oaxaca do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн оаксака нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Norte de Oaxaca
     auto: true

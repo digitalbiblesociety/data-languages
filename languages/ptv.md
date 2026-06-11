@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Port Vato
     auto: true
+  - translation_iso: rus
+    name: порт ватоский язык
+    auto: true
   - translation_iso: spa
     name: Port Vato
     auto: true

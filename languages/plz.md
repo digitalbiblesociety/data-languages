@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Paluan
     auto: true
+  - translation_iso: rus
+    name: палуанский язык
+    auto: true
   - translation_iso: spa
     name: Paluan
     auto: true

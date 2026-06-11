@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wik-Iiyanh
     auto: true
+  - translation_iso: rus
+    name: вик-ииянхский язык
+    auto: true
   - translation_iso: spa
     name: Wik-Iiyanh
     auto: true

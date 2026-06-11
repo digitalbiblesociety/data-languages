@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dhao
+  - translation_iso: rus
+    name: дхаоский язык
+    auto: true
   - translation_iso: spa
     name: Dhao
     auto: true

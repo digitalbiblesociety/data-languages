@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wampur
     auto: true
+  - translation_iso: rus
+    name: вампурский язык
+    auto: true
   - translation_iso: spa
     name: Wampur
     auto: true

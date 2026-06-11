@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mantsi
     auto: true
+  - translation_iso: rus
+    name: манцийский язык
+    auto: true
   - translation_iso: spa
     name: Mantsi
     auto: true

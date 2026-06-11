@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nimanbur
     auto: true
+  - translation_iso: rus
+    name: ниманбурский язык
+    auto: true
   - translation_iso: spa
     name: Nimanbur
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Befang
     auto: true
+  - translation_iso: rus
+    name: бефангский язык
+    auto: true
   - translation_iso: spa
     name: menchum
   - translation_iso: zho

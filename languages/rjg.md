@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Rajong
+  - translation_iso: rus
+    name: районгский язык
+    auto: true
   - translation_iso: spa
     name: Rajong
   - translation_iso: zho

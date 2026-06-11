@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wali (Sudão)
     auto: true
+  - translation_iso: rus
+    name: валийский язык
+    auto: true
   - translation_iso: spa
     name: wali
   - translation_iso: zho

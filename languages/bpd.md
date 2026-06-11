@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Banda-Banda
     auto: true
+  - translation_iso: rus
+    name: банда-бандский язык
+    auto: true
   - translation_iso: spa
     name: Banda-Banda
     auto: true

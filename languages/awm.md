@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Arawum
     auto: true
+  - translation_iso: rus
+    name: аравумский язык
+    auto: true
   - translation_iso: spa
     name: Arawum
     auto: true

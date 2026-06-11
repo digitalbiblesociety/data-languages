@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Karamajong
+  - translation_iso: rus
+    name: карамойонгский язык
+    auto: true
   - translation_iso: spa
     name: karamojong
   - translation_iso: zho

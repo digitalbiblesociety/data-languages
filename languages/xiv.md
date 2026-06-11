@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua harapeana
+  - translation_iso: rus
+    name: индус валлей лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma harapano
   - translation_iso: zho

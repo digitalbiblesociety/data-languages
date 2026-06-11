@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kol (Bangladesh)
     auto: true
+  - translation_iso: rus
+    name: кольский язык
+    auto: true
   - translation_iso: spa
     name: Kol (Bangladés)
     auto: true

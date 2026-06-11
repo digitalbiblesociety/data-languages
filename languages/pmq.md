@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pame Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн памейский язык
+    auto: true
   - translation_iso: spa
     name: Pame norteño
   - translation_iso: zho

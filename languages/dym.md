@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Yanda Dom
     auto: true
+  - translation_iso: rus
+    name: янда дом догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Yanda Dom
     auto: true

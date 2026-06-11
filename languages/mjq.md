@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Malaryan
     auto: true
+  - translation_iso: rus
+    name: маларянский язык
+    auto: true
   - translation_iso: spa
     name: Malaryan
     auto: true

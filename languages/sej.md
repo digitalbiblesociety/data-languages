@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sene
     auto: true
+  - translation_iso: rus
+    name: сенейский язык
+    auto: true
   - translation_iso: spa
     name: Sene
     auto: true

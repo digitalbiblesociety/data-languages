@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Numanggang
     auto: true
+  - translation_iso: rus
+    name: нуманггангский язык
+    auto: true
   - translation_iso: spa
     name: Numanggang
   - translation_iso: zho

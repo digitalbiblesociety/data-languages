@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga Khezha
     auto: true
+  - translation_iso: rus
+    name: хежа нагский язык
+    auto: true
   - translation_iso: spa
     name: Kuzhami
   - translation_iso: zho

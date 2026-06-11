@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Bidayuh Biatah
     auto: true
+  - translation_iso: rus
+    name: биатах бидаюхский язык
+    auto: true
   - translation_iso: spa
     name: Bidayuh Biatah
     auto: true

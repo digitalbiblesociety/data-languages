@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: náuatle de Puebla Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеастерн пуебла нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Sureste de Puebla
     auto: true

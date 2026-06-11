@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Eggon
     auto: true
+  - translation_iso: rus
+    name: еггонский язык
+    auto: true
   - translation_iso: spa
     name: eggon
   - translation_iso: zho

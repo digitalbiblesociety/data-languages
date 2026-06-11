@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Galeya
     auto: true
+  - translation_iso: rus
+    name: галейский язык
+    auto: true
   - translation_iso: spa
     name: Galeya
     auto: true

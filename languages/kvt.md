@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Karen Lahta
     auto: true
+  - translation_iso: rus
+    name: лахта каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Lahta
     auto: true

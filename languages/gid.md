@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gidar
     auto: true
+  - translation_iso: rus
+    name: гидарский язык
+    auto: true
   - translation_iso: spa
     name: Gidar
     auto: true

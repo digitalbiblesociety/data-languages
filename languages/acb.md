@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Áncá
     auto: true
+  - translation_iso: rus
+    name: анкский язык
+    auto: true
   - translation_iso: spa
     name: Áncá
     auto: true

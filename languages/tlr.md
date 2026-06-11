@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Talise
     auto: true
+  - translation_iso: rus
+    name: талисейский язык
+    auto: true
   - translation_iso: spa
     name: Talise
     auto: true

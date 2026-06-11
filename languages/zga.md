@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: kinga
     auto: true
+  - translation_iso: rus
+    name: кингский язык
+    auto: true
   - translation_iso: spa
     name: Kinga
     auto: true

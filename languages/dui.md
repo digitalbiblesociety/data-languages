@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dumun
     auto: true
+  - translation_iso: rus
+    name: думунский язык
+    auto: true
   - translation_iso: spa
     name: Dumun
   - translation_iso: zho

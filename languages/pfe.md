@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Peere
     auto: true
+  - translation_iso: rus
+    name: пирейский язык
+    auto: true
   - translation_iso: spa
     name: Peere
     auto: true

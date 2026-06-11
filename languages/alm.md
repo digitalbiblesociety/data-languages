@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Amblong
     auto: true
+  - translation_iso: rus
+    name: амблонгский язык
+    auto: true
   - translation_iso: spa
     name: Amblong
     auto: true

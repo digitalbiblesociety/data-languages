@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yoidik
     auto: true
+  - translation_iso: rus
+    name: йоидикский язык
+    auto: true
   - translation_iso: spa
     name: Yoidik
     auto: true

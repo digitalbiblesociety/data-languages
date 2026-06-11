@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kais
     auto: true
+  - translation_iso: rus
+    name: каисский язык
+    auto: true
   - translation_iso: spa
     name: Kais
     auto: true

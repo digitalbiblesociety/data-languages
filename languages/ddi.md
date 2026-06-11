@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Goodenough Ocidental
     auto: true
+  - translation_iso: rus
+    name: вест гуденугхский язык
+    auto: true
   - translation_iso: spa
     name: West Goodenough
     auto: true

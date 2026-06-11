@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: maridan
     auto: true
+  - translation_iso: rus
+    name: мариданский язык
+    auto: true
   - translation_iso: spa
     name: Maridan
     auto: true

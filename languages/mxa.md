@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco do noroeste de Oaxaca
     auto: true
+  - translation_iso: rus
+    name: нортвест оаксака микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco del Noroeste de Oaxaca
     auto: true

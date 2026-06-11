@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tugen
     auto: true
+  - translation_iso: rus
+    name: тугенский язык
+    auto: true
   - translation_iso: spa
     name: Tugen
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Comoriano Mwali
     auto: true
+  - translation_iso: rus
+    name: мвали коморианский язык
+    auto: true
   - translation_iso: spa
     name: Comoriano de Mwali
     auto: true

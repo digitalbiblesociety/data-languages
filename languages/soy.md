@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Miyobe
     auto: true
+  - translation_iso: rus
+    name: мийобейский язык
+    auto: true
   - translation_iso: spa
     name: Miyobe
     auto: true

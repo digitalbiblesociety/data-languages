@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Busang Kayan
     auto: true
+  - translation_iso: rus
+    name: бусанг каянский язык
+    auto: true
   - translation_iso: spa
     name: Kayan Busang
     auto: true

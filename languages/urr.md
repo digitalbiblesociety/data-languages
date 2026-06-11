@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Löyöp
+  - translation_iso: rus
+    name: лехалурупский язык
+    auto: true
   - translation_iso: spa
     name: Lehalurup
     auto: true

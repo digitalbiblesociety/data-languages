@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Yanahuanca Pasco
     auto: true
+  - translation_iso: rus
+    name: янахуанка паско квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua de Yanahuanca-Pasco
     auto: true

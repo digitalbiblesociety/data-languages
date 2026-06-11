@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tonsea
+  - translation_iso: rus
+    name: тонсеский язык
+    auto: true
   - translation_iso: spa
     name: Tonsea
     auto: true

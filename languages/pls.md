@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Popoloca de San Marcos Tlacoyalco
     auto: true
+  - translation_iso: rus
+    name: сан маркос тлакоялко пополокский язык
+    auto: true
   - translation_iso: spa
     name: Popoloca norteño
   - translation_iso: zho

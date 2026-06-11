@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Biali
     auto: true
+  - translation_iso: rus
+    name: биалийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Berba
   - translation_iso: zho

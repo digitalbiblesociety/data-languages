@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Semaq Beri
     auto: true
+  - translation_iso: rus
+    name: семак берийский язык
+    auto: true
   - translation_iso: spa
     name: Semaq Beri
     auto: true

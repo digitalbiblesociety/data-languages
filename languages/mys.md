@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mesmes
     auto: true
+  - translation_iso: rus
+    name: месмесский язык
+    auto: true
   - translation_iso: spa
     name: Mesmes
     auto: true

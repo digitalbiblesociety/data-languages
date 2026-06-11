@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: kpelle da Guiné
     auto: true
+  - translation_iso: rus
+    name: гуинеа кпеллейский язык
+    auto: true
   - translation_iso: spa
     name: Kpelle de Guinea
     auto: true

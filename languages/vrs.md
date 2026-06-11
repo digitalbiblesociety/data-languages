@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Varisi
     auto: true
+  - translation_iso: rus
+    name: варисийский язык
+    auto: true
   - translation_iso: spa
     name: Varisi
   - translation_iso: zho

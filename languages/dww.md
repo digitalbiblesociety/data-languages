@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dawawa
     auto: true
+  - translation_iso: rus
+    name: дававский язык
+    auto: true
   - translation_iso: spa
     name: Dawawa
     auto: true

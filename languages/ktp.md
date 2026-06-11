@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kaduo
     auto: true
+  - translation_iso: rus
+    name: кадуоский язык
+    auto: true
   - translation_iso: spa
     name: Kaduo
     auto: true

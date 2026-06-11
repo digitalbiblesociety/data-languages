@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Duungooma
     auto: true
+  - translation_iso: rus
+    name: дуунгумский язык
+    auto: true
   - translation_iso: spa
     name: Duungooma
     auto: true

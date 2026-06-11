@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tawbuid Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн тавбуидский язык
+    auto: true
   - translation_iso: spa
     name: Tawbuid occidental
     auto: true

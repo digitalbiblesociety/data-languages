@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Senaya
     auto: true
+  - translation_iso: rus
+    name: сенайский язык
+    auto: true
   - translation_iso: spa
     name: Senaya
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Guyani
     auto: true
+  - translation_iso: rus
+    name: гуянийский язык
+    auto: true
   - translation_iso: spa
     name: Guyani
     auto: true

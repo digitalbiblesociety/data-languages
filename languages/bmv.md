@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bum
     auto: true
+  - translation_iso: rus
+    name: бумский язык
+    auto: true
   - translation_iso: spa
     name: bum
   - translation_iso: zho

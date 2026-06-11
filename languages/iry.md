@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua Iraya
+  - translation_iso: rus
+    name: ирайский язык
+    auto: true
   - translation_iso: spa
     name: Iraya
     auto: true

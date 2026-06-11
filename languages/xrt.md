@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Aranama-Tamique
     auto: true
+  - translation_iso: rus
+    name: аранама-тамиквейский язык
+    auto: true
   - translation_iso: spa
     name: idioma aranama-tamique
   - translation_iso: zho

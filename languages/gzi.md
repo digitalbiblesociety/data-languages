@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Gazi
     auto: true
+  - translation_iso: rus
+    name: газийский язык
+    auto: true
   - translation_iso: spa
     name: Gazi
     auto: true

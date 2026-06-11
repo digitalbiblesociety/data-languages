@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ko
     auto: true
+  - translation_iso: rus
+    name: коский язык
+    auto: true
   - translation_iso: spa
     name: Ko
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: xwla gbe ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн ксвла гбейский язык
+    auto: true
   - translation_iso: spa
     name: Xwla Gbe occidental
     auto: true

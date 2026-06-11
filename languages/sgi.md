@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Suga
     auto: true
+  - translation_iso: rus
+    name: сугский язык
+    auto: true
   - translation_iso: spa
     name: Suga
     auto: true

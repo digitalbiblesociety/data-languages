@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Papasena
     auto: true
+  - translation_iso: rus
+    name: папасенский язык
+    auto: true
   - translation_iso: spa
     name: Papasena
     auto: true

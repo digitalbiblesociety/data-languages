@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: chin mün
     auto: true
+  - translation_iso: rus
+    name: мун чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Mün
     auto: true

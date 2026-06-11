@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karen Mobwa
     auto: true
+  - translation_iso: rus
+    name: мобва каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Mobwa
     auto: true

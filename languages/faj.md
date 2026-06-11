@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Faita
     auto: true
+  - translation_iso: rus
+    name: фаитский язык
+    auto: true
   - translation_iso: spa
     name: Faita
     auto: true

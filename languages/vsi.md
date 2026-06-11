@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Moldávia
     auto: true
+  - translation_iso: rus
+    name: молдова сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Moldavia
     auto: true

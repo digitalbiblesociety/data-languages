@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua naro
+  - translation_iso: rus
+    name: нароский язык
+    auto: true
   - translation_iso: spa
     name: Naro
     auto: true

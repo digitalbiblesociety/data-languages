@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nahuatl de Tabasco
     auto: true
+  - translation_iso: rus
+    name: табаско нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: náhuatl tabasqueño
   - translation_iso: zho

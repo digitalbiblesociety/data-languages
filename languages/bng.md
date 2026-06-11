@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua benga
+  - translation_iso: rus
+    name: бенгский язык
+    auto: true
   - translation_iso: spa
     name: benga mekenda
   - translation_iso: zho

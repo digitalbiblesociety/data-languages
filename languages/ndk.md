@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ndaka
     auto: true
+  - translation_iso: rus
+    name: ндакский язык
+    auto: true
   - translation_iso: spa
     name: Ndaka
     auto: true

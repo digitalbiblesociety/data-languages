@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Leningitij
     auto: true
+  - translation_iso: rus
+    name: ленингитиджский язык
+    auto: true
   - translation_iso: spa
     name: Leningitij
     auto: true

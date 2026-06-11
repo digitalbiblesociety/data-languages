@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: dabaense
+  - translation_iso: rus
+    name: дававенйоский язык
+    auto: true
   - translation_iso: spa
     name: davaeño
   - translation_iso: zho

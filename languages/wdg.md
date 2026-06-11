@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wadaginam
     auto: true
+  - translation_iso: rus
+    name: вадагинамский язык
+    auto: true
   - translation_iso: spa
     name: Wadaginam
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga long phuri
     auto: true
+  - translation_iso: rus
+    name: лонг фури нагский язык
+    auto: true
   - translation_iso: spa
     name: Long Phuri Naga
     auto: true

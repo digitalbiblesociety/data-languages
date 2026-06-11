@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gavar
+  - translation_iso: rus
+    name: гаварский язык
+    auto: true
   - translation_iso: spa
     name: Gavar
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Terebu
     auto: true
+  - translation_iso: rus
+    name: теребуский язык
+    auto: true
   - translation_iso: spa
     name: Terebu
     auto: true

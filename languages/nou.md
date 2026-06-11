@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ewage-Notu
     auto: true
+  - translation_iso: rus
+    name: еваге-нотуский язык
+    auto: true
   - translation_iso: spa
     name: Ewage-Notu
     auto: true

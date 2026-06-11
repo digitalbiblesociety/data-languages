@@ -36,6 +36,9 @@ translations:
     name: 톰불루어
   - translation_iso: por
     name: Língua tombulu
+  - translation_iso: rus
+    name: томбулуский язык
+    auto: true
   - translation_iso: spa
     name: Tombulu
     auto: true

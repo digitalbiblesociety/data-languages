@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Olkol
     auto: true
+  - translation_iso: rus
+    name: олкольский язык
+    auto: true
   - translation_iso: spa
     name: Olkol
     auto: true

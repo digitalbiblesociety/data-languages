@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mbangala
     auto: true
+  - translation_iso: rus
+    name: мбангалский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mbangala
   - translation_iso: zho

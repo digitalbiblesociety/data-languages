@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bada (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: бадский язык
+    auto: true
   - translation_iso: spa
     name: Bada
     auto: true

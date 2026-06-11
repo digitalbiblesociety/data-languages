@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Meoswar
     auto: true
+  - translation_iso: rus
+    name: меосварский язык
+    auto: true
   - translation_iso: spa
     name: Meoswar
     auto: true

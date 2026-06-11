@@ -43,6 +43,9 @@ translations:
   - translation_iso: por
     name: Punan Aput
     auto: true
+  - translation_iso: rus
+    name: пунан апутский язык
+    auto: true
   - translation_iso: spa
     name: Punan Aput
     auto: true

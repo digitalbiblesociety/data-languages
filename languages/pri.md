@@ -35,6 +35,9 @@ translations:
     name: 파이칭어
   - translation_iso: por
     name: Língua paicî
+  - translation_iso: rus
+    name: паикийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma paicî
   - translation_iso: zho

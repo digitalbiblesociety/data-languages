@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Jah Hut
     auto: true
+  - translation_iso: rus
+    name: ях хутский язык
+    auto: true
   - translation_iso: spa
     name: Jah Hut
     auto: true

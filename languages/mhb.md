@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mahongwe
     auto: true
+  - translation_iso: rus
+    name: махонгвейский язык
+    auto: true
   - translation_iso: spa
     name: Mahongwe
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kesawai
     auto: true
+  - translation_iso: rus
+    name: кесаваийский язык
+    auto: true
   - translation_iso: spa
     name: Kesawai
     auto: true

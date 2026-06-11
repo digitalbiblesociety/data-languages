@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ritharrngu
     auto: true
+  - translation_iso: rus
+    name: ритаррнгуский язык
+    auto: true
   - translation_iso: spa
     name: Ritharrngu
     auto: true

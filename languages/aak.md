@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ankave
     auto: true
+  - translation_iso: rus
+    name: анкавейский язык
+    auto: true
   - translation_iso: spa
     name: Ankave
     auto: true

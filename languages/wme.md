@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua wambule
+  - translation_iso: rus
+    name: вамбулейский язык
+    auto: true
   - translation_iso: spa
     name: Wambule
     auto: true

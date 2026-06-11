@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Riantana
     auto: true
+  - translation_iso: rus
+    name: риантанский язык
+    auto: true
   - translation_iso: spa
     name: Riantana
     auto: true

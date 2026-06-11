@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Aimol
     auto: true
+  - translation_iso: rus
+    name: аимольский язык
+    auto: true
   - translation_iso: spa
     name: Aimol
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Keapara
     auto: true
+  - translation_iso: rus
+    name: кеапарский язык
+    auto: true
   - translation_iso: spa
     name: Keapara
     auto: true

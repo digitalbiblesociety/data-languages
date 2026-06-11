@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yandjibara
     auto: true
+  - translation_iso: rus
+    name: яндджибарский язык
+    auto: true
   - translation_iso: spa
     name: Yandjibara
     auto: true

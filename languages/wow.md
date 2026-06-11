@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wawonii
     auto: true
+  - translation_iso: rus
+    name: вавониийский язык
+    auto: true
   - translation_iso: spa
     name: Wawonii
     auto: true

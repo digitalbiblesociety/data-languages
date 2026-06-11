@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Andajin
     auto: true
+  - translation_iso: rus
+    name: андаджинский язык
+    auto: true
   - translation_iso: spa
     name: Andajin
     auto: true

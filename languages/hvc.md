@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Língua da Cultura Vodu Haitiana
     auto: true
+  - translation_iso: rus
+    name: хаитиан водун културе лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de la cultura vudú haitiana
     auto: true

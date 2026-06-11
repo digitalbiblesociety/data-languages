@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tichurong
     auto: true
+  - translation_iso: rus
+    name: тичуронгский язык
+    auto: true
   - translation_iso: spa
     name: Tichurong
     auto: true

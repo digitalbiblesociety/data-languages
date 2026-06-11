@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: grebo do sul
     auto: true
+  - translation_iso: rus
+    name: сутерн гребоский язык
+    auto: true
   - translation_iso: spa
     name: Grebo del Sur
     auto: true

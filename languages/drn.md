@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Damar Ocidental
     auto: true
+  - translation_iso: rus
+    name: вест дамарский язык
+    auto: true
   - translation_iso: spa
     name: Damar Occidental
     auto: true

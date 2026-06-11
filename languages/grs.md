@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Gresi
     auto: true
+  - translation_iso: rus
+    name: гресийский язык
+    auto: true
   - translation_iso: spa
     name: Gresi
     auto: true

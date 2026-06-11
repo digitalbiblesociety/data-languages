@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Takua
     auto: true
+  - translation_iso: rus
+    name: такуский язык
+    auto: true
   - translation_iso: spa
     name: Takua
     auto: true

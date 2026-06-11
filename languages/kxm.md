@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto khmer setentrional
+  - translation_iso: rus
+    name: нортерн хмерский язык
+    auto: true
   - translation_iso: spa
     name: Jemer del Norte
     auto: true

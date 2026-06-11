@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kiwai do Nordeste
     auto: true
+  - translation_iso: rus
+    name: нортеаст киваийский язык
+    auto: true
   - translation_iso: spa
     name: Kiwai del Noreste
     auto: true

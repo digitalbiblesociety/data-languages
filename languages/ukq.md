@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ukwa
     auto: true
+  - translation_iso: rus
+    name: уквский язык
+    auto: true
   - translation_iso: spa
     name: Ukwa
     auto: true

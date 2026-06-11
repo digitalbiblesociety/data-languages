@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nengone
+  - translation_iso: rus
+    name: ненгонейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nengone
   - translation_iso: zho

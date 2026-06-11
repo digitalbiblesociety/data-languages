@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tukang Besi do Sul
     auto: true
+  - translation_iso: rus
+    name: туканг беси сутский язык
+    auto: true
   - translation_iso: spa
     name: Tukang Besi del sur
     auto: true

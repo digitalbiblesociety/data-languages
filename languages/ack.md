@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aka-Kora
     auto: true
+  - translation_iso: rus
+    name: ака-корский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kora
   - translation_iso: zho

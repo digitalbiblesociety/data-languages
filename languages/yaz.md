@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: lokaa
     auto: true
+  - translation_iso: rus
+    name: локаский язык
+    auto: true
   - translation_iso: spa
     name: Lokaa
     auto: true

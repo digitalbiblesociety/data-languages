@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Pastaza Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн пастаза квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua del Pastaza meridional
     auto: true

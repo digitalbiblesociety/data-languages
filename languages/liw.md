@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Col
     auto: true
+  - translation_iso: rus
+    name: кольский язык
+    auto: true
   - translation_iso: spa
     name: Col
     auto: true

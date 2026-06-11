@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Girirra
     auto: true
+  - translation_iso: rus
+    name: гириррский язык
+    auto: true
   - translation_iso: spa
     name: Girirra
     auto: true

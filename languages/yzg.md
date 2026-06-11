@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "buyang e'ma"
     auto: true
+  - translation_iso: rus
+    name: ема буянгский язык
+    auto: true
   - translation_iso: spa
     name: "Buyang E'ma"
     auto: true

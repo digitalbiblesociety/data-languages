@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gula (Chade)
     auto: true
+  - translation_iso: rus
+    name: гулский язык
+    auto: true
   - translation_iso: spa
     name: Gula (Chad)
     auto: true

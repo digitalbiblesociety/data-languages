@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Suíço-Alemã
     auto: true
+  - translation_iso: rus
+    name: свисс-герман сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas Alemana Suiza
     auto: true

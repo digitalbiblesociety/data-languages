@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua uduk
+  - translation_iso: rus
+    name: удукский язык
+    auto: true
   - translation_iso: spa
     name: Idioma uduk
   - translation_iso: zho

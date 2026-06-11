@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano Noroeste
     auto: true
+  - translation_iso: rus
+    name: нортвестерн тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio noroccidental
     auto: true

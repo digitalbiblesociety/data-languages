@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sira
     auto: true
+  - translation_iso: rus
+    name: сирский язык
+    auto: true
   - translation_iso: spa
     name: Sira
     auto: true

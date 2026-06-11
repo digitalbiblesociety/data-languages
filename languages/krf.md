@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Koro (Vanuatu)
     auto: true
+  - translation_iso: rus
+    name: короский язык
+    auto: true
   - translation_iso: spa
     name: Koro (Vanuatu)
     auto: true

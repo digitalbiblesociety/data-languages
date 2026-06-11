@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Obulom
     auto: true
+  - translation_iso: rus
+    name: обуломский язык
+    auto: true
   - translation_iso: spa
     name: Obulom
     auto: true

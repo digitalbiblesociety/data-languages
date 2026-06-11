@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ganza
     auto: true
+  - translation_iso: rus
+    name: ганзский язык
+    auto: true
   - translation_iso: spa
     name: Ganza
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sian
     auto: true
+  - translation_iso: rus
+    name: сианский язык
+    auto: true
   - translation_iso: spa
     name: Sian
     auto: true

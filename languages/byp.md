@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bumaji
     auto: true
+  - translation_iso: rus
+    name: бумаджийский язык
+    auto: true
   - translation_iso: spa
     name: Bumaji
     auto: true

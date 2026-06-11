@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua hamtai
+  - translation_iso: rus
+    name: хамтаийский язык
+    auto: true
   - translation_iso: spa
     name: Hamtai
     auto: true

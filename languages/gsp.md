@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wasembo
     auto: true
+  - translation_iso: rus
+    name: васембоский язык
+    auto: true
   - translation_iso: spa
     name: Wasembo
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Watut do Sul
     auto: true
+  - translation_iso: rus
+    name: сут ватутский язык
+    auto: true
   - translation_iso: spa
     name: Watut meridional
     auto: true

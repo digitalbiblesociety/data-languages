@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dokshi
     auto: true
+  - translation_iso: rus
+    name: докшийский язык
+    auto: true
   - translation_iso: spa
     name: Dokshi
     auto: true

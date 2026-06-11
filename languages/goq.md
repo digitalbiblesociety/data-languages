@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gorap
     auto: true
+  - translation_iso: rus
+    name: горапский язык
+    auto: true
   - translation_iso: spa
     name: Gorap
     auto: true

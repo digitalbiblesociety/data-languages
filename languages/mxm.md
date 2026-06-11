@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Meramera
     auto: true
+  - translation_iso: rus
+    name: мерамерский язык
+    auto: true
   - translation_iso: spa
     name: Meramera
     auto: true

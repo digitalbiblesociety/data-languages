@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Holu
     auto: true
+  - translation_iso: rus
+    name: холуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma holu
   - translation_iso: zho

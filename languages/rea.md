@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rerau
     auto: true
+  - translation_iso: rus
+    name: рерауский язык
+    auto: true
   - translation_iso: spa
     name: Rerau
     auto: true

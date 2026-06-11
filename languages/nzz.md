@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Nanga Dama
     auto: true
+  - translation_iso: rus
+    name: нанга дама догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Nanga Dama
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Barikewa
     auto: true
+  - translation_iso: rus
+    name: барикевский язык
+    auto: true
   - translation_iso: spa
     name: Barikewa
     auto: true

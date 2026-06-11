@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Doyayo
     auto: true
+  - translation_iso: rus
+    name: дояйоский язык
+    auto: true
   - translation_iso: spa
     name: Doyayo
     auto: true

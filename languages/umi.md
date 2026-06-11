@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ukit
     auto: true
+  - translation_iso: rus
+    name: укитский язык
+    auto: true
   - translation_iso: spa
     name: Ukit
     auto: true

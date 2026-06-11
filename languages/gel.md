@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "ut-Ma'in"
     auto: true
+  - translation_iso: rus
+    name: ут-маинский язык
+    auto: true
   - translation_iso: spa
     name: "ut-Ma'in"
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nyishi
     auto: true
+  - translation_iso: rus
+    name: нйишийский язык
+    auto: true
   - translation_iso: spa
     name: Nyishi
     auto: true

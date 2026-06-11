@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yaben
     auto: true
+  - translation_iso: rus
+    name: ябенский язык
+    auto: true
   - translation_iso: spa
     name: Yaben
     auto: true

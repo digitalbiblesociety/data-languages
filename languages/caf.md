@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Carrier meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн карриерский язык
+    auto: true
   - translation_iso: spa
     name: Carrier Meridional
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Barwe
     auto: true
+  - translation_iso: rus
+    name: барвейский язык
+    auto: true
   - translation_iso: spa
     name: Barwe
     auto: true

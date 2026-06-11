@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kein
     auto: true
+  - translation_iso: rus
+    name: кеинский язык
+    auto: true
   - translation_iso: spa
     name: Kein
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mboko
     auto: true
+  - translation_iso: rus
+    name: мбокоский язык
+    auto: true
   - translation_iso: spa
     name: Mboko
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Toku-No-Shima
     auto: true
+  - translation_iso: rus
+    name: току-но-шимский язык
+    auto: true
   - translation_iso: spa
     name: Toku-No-Shima
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Urigina
     auto: true
+  - translation_iso: rus
+    name: уригинский язык
+    auto: true
   - translation_iso: spa
     name: Urigina
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lawunuia
     auto: true
+  - translation_iso: rus
+    name: лавунуиский язык
+    auto: true
   - translation_iso: spa
     name: Lawunuia
   - translation_iso: zho

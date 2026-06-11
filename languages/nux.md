@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mehek
     auto: true
+  - translation_iso: rus
+    name: мехекский язык
+    auto: true
   - translation_iso: spa
     name: Mehek
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Andegerebinha
     auto: true
+  - translation_iso: rus
+    name: андегеребинхский язык
+    auto: true
   - translation_iso: spa
     name: Andegerebinha
     auto: true

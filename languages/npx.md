@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Noipx
     auto: true
+  - translation_iso: rus
+    name: ноипксский язык
+    auto: true
   - translation_iso: spa
     name: Noipx
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Konda
     auto: true
+  - translation_iso: rus
+    name: кондский язык
+    auto: true
   - translation_iso: spa
     name: Konda
     auto: true

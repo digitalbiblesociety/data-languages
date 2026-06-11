@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Terik
     auto: true
+  - translation_iso: rus
+    name: терикский язык
+    auto: true
   - translation_iso: spa
     name: Terik
     auto: true

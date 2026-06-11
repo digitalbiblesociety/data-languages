@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sonia
     auto: true
+  - translation_iso: rus
+    name: сониский язык
+    auto: true
   - translation_iso: spa
     name: Sonia
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Oriá Adivasi
     auto: true
+  - translation_iso: rus
+    name: адиваси орийский язык
+    auto: true
   - translation_iso: spa
     name: Oriya adivasi
     auto: true

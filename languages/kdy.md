@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Keder
     auto: true
+  - translation_iso: rus
+    name: кедерский язык
+    auto: true
   - translation_iso: spa
     name: keder
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua isnag
+  - translation_iso: rus
+    name: иснагский язык
+    auto: true
   - translation_iso: spa
     name: Isnag
     auto: true

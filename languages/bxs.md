@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Busam
     auto: true
+  - translation_iso: rus
+    name: бусамский язык
+    auto: true
   - translation_iso: spa
     name: Busam
   - translation_iso: zho

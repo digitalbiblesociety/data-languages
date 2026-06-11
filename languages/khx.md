@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kanu
     auto: true
+  - translation_iso: rus
+    name: кануский язык
+    auto: true
   - translation_iso: spa
     name: Kanu
     auto: true

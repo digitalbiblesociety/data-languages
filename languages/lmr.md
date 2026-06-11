@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lamalera
     auto: true
+  - translation_iso: rus
+    name: ламалерский язык
+    auto: true
   - translation_iso: spa
     name: Lamalera
     auto: true

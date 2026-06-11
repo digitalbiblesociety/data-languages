@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Noone
     auto: true
+  - translation_iso: rus
+    name: нунейский язык
+    auto: true
   - translation_iso: spa
     name: Noone
     auto: true

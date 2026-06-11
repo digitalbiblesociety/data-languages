@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Karen Yintale
     auto: true
+  - translation_iso: rus
+    name: йинтале каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Yintale
     auto: true

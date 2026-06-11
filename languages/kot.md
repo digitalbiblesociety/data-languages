@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua logone
+  - translation_iso: rus
+    name: лагванский язык
+    auto: true
   - translation_iso: spa
     name: Lagwan
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kiwai do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн киваийский язык
+    auto: true
   - translation_iso: spa
     name: Kiwai del Sur
     auto: true

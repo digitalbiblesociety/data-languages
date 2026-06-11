@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Musak
     auto: true
+  - translation_iso: rus
+    name: мусакский язык
+    auto: true
   - translation_iso: spa
     name: Musak
     auto: true

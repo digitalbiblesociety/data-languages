@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Huaylas Ancash
     auto: true
+  - translation_iso: rus
+    name: хуайлас анкаш квечуский язык
+    auto: true
   - translation_iso: spa
     name: quechua de Huailas
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Senufo Nanerigé
     auto: true
+  - translation_iso: rus
+    name: нанериге сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Nanerigé
     auto: true

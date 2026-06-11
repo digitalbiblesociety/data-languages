@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gaam
     auto: true
+  - translation_iso: rus
+    name: гаамский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gaam
   - translation_iso: zho

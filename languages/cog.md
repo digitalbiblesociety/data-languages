@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chong
     auto: true
+  - translation_iso: rus
+    name: чонгский язык
+    auto: true
   - translation_iso: spa
     name: Chong
     auto: true

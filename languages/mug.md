@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Musgu
     auto: true
+  - translation_iso: rus
+    name: мусгуский язык
+    auto: true
   - translation_iso: spa
     name: Musgu
     auto: true

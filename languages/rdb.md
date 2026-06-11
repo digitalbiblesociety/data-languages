@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Rudbari
     auto: true
+  - translation_iso: rus
+    name: рудбарийский язык
+    auto: true
   - translation_iso: spa
     name: Rudbari
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngemba
     auto: true
+  - translation_iso: rus
+    name: нгембский язык
+    auto: true
   - translation_iso: spa
     name: Ngemba
     auto: true

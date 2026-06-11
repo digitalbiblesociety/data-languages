@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sara
     auto: true
+  - translation_iso: rus
+    name: сарский язык
+    auto: true
   - translation_iso: spa
     name: Sara
     auto: true

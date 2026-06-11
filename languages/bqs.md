@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bosngun
     auto: true
+  - translation_iso: rus
+    name: боснгунский язык
+    auto: true
   - translation_iso: spa
     name: Bosngun
     auto: true

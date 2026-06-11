@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Toura (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: турский язык
+    auto: true
   - translation_iso: spa
     name: toura
   - translation_iso: zho

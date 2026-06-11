@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Berik
     auto: true
+  - translation_iso: rus
+    name: берикский язык
+    auto: true
   - translation_iso: spa
     name: Berik
     auto: true

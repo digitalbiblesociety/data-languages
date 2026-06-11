@@ -29,6 +29,9 @@ translations:
   - translation_iso: por
     name: Iranun (Filipinas)
     auto: true
+  - translation_iso: rus
+    name: иранунский язык
+    auto: true
   - translation_iso: spa
     name: Iranun (Filipinas)
     auto: true

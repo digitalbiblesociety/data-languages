@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Taloki
     auto: true
+  - translation_iso: rus
+    name: талокийский язык
+    auto: true
   - translation_iso: spa
     name: Taloki
     auto: true

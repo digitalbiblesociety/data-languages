@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kwoma
     auto: true
+  - translation_iso: rus
+    name: квомский язык
+    auto: true
   - translation_iso: spa
     name: Kwoma
     auto: true

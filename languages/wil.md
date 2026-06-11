@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wilawila
     auto: true
+  - translation_iso: rus
+    name: вилавилский язык
+    auto: true
   - translation_iso: spa
     name: Wilawila
     auto: true

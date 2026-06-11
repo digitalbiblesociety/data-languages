@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sori-Harengan
     auto: true
+  - translation_iso: rus
+    name: сори-харенганский язык
+    auto: true
   - translation_iso: spa
     name: Sori-Harengan
     auto: true

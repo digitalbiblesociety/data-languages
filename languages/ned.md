@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Nde-Gbite
     auto: true
+  - translation_iso: rus
+    name: нде-гбитейский язык
+    auto: true
   - translation_iso: spa
     name: Nde-Gbite
     auto: true

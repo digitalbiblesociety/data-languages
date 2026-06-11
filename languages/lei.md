@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lemio
     auto: true
+  - translation_iso: rus
+    name: лемиоский язык
+    auto: true
   - translation_iso: spa
     name: Lemio
     auto: true

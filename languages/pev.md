@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pémono
     auto: true
+  - translation_iso: rus
+    name: пемоноский язык
+    auto: true
   - translation_iso: spa
     name: Idioma pémono
   - translation_iso: zho

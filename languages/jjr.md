@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bankal
     auto: true
+  - translation_iso: rus
+    name: банкальский язык
+    auto: true
   - translation_iso: spa
     name: Bankal
     auto: true

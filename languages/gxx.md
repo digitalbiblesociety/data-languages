@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wè do Sul
     auto: true
+  - translation_iso: rus
+    name: ве сутернский язык
+    auto: true
   - translation_iso: spa
     name: Wè Meridional
     auto: true

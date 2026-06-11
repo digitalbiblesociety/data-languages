@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Birifor de Malba
     auto: true
+  - translation_iso: rus
+    name: малба бирифорский язык
+    auto: true
   - translation_iso: spa
     name: Birifor del norte
     auto: true

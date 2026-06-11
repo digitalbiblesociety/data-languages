@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mori-atas
+  - translation_iso: rus
+    name: мори атасский язык
+    auto: true
   - translation_iso: spa
     name: Mori Atas
     auto: true

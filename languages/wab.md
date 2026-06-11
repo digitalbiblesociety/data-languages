@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wab
     auto: true
+  - translation_iso: rus
+    name: вабский язык
+    auto: true
   - translation_iso: spa
     name: Wab
   - translation_iso: zho

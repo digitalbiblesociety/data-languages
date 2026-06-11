@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tatana
     auto: true
+  - translation_iso: rus
+    name: татанский язык
+    auto: true
   - translation_iso: spa
     name: Tatana
     auto: true

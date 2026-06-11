@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Burundesa
     auto: true
+  - translation_iso: rus
+    name: бурундиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Burundi
     auto: true

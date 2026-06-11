@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naga Rengma Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн ренгма нагский язык
+    auto: true
   - translation_iso: spa
     name: Rengma
   - translation_iso: zho

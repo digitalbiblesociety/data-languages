@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Urim
     auto: true
+  - translation_iso: rus
+    name: уримский язык
+    auto: true
   - translation_iso: spa
     name: Urim
     auto: true

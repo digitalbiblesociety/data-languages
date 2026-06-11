@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua darma
+  - translation_iso: rus
+    name: дармийский язык
+    auto: true
   - translation_iso: spa
     name: Darmiya
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fas
     auto: true
+  - translation_iso: rus
+    name: фасский язык
+    auto: true
   - translation_iso: spa
     name: fas
   - translation_iso: zho

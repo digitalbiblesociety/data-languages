@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Sabino
     auto: true
+  - translation_iso: rus
+    name: сабинейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma sabino
   - translation_iso: zho

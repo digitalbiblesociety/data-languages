@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bellari
     auto: true
+  - translation_iso: rus
+    name: белларийский язык
+    auto: true
   - translation_iso: spa
     name: Bellari
     auto: true

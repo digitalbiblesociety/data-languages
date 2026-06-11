@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Weme Gbe
     auto: true
+  - translation_iso: rus
+    name: веме гбейский язык
+    auto: true
   - translation_iso: spa
     name: Weme Gbe
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dogon Tene Kan
     auto: true
+  - translation_iso: rus
+    name: тене кан догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Tene Kan
     auto: true

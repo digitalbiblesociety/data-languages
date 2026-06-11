@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yotti
     auto: true
+  - translation_iso: rus
+    name: йоттийский язык
+    auto: true
   - translation_iso: spa
     name: Yotti
     auto: true

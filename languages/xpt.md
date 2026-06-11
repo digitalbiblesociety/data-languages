@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Punthamara
     auto: true
+  - translation_iso: rus
+    name: пунтамарский язык
+    auto: true
   - translation_iso: spa
     name: Punthamara
     auto: true

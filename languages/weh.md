@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Weh
     auto: true
+  - translation_iso: rus
+    name: вехский язык
+    auto: true
   - translation_iso: spa
     name: Weh
     auto: true

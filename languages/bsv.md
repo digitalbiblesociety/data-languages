@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Baga Sobané
     auto: true
+  - translation_iso: rus
+    name: бага собанейский язык
+    auto: true
   - translation_iso: spa
     name: Baga Sobané
     auto: true

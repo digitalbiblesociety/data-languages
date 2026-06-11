@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Samba Daka
     auto: true
+  - translation_iso: rus
+    name: самба дакский язык
+    auto: true
   - translation_iso: spa
     name: Samba Daka
     auto: true

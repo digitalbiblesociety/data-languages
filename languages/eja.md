@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ejamat
     auto: true
+  - translation_iso: rus
+    name: еяматский язык
+    auto: true
   - translation_iso: spa
     name: Ejamat
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tagalaka
     auto: true
+  - translation_iso: rus
+    name: тагалакский язык
+    auto: true
   - translation_iso: spa
     name: Idioma takalak
   - translation_iso: zho

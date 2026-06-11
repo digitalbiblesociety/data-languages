@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Holma
     auto: true
+  - translation_iso: rus
+    name: холмский язык
+    auto: true
   - translation_iso: spa
     name: holma
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gants
     auto: true
+  - translation_iso: rus
+    name: ганцский язык
+    auto: true
   - translation_iso: spa
     name: Gants
     auto: true

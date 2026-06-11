@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kalinga de Majukayang
     auto: true
+  - translation_iso: rus
+    name: маюкаянг калингский язык
+    auto: true
   - translation_iso: spa
     name: Kalinga Majukayang
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Minanibai
     auto: true
+  - translation_iso: rus
+    name: минанибаийский язык
+    auto: true
   - translation_iso: spa
     name: Minanibai
     auto: true

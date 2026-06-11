@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Musom
     auto: true
+  - translation_iso: rus
+    name: мусомский язык
+    auto: true
   - translation_iso: spa
     name: Musom
     auto: true

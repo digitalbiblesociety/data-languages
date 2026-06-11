@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua krongo
+  - translation_iso: rus
+    name: кронгоский язык
+    auto: true
   - translation_iso: spa
     name: Krongo
     auto: true

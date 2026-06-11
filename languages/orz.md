@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ormu
     auto: true
+  - translation_iso: rus
+    name: ормуский язык
+    auto: true
   - translation_iso: spa
     name: Ormu
     auto: true

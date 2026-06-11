@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kadai
     auto: true
+  - translation_iso: rus
+    name: кадаийский язык
+    auto: true
   - translation_iso: spa
     name: Kadai
     auto: true

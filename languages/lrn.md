@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Lorang
     auto: true
+  - translation_iso: rus
+    name: лорангский язык
+    auto: true
   - translation_iso: spa
     name: Lorang
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kwanka
     auto: true
+  - translation_iso: rus
+    name: кванкский язык
+    auto: true
   - translation_iso: spa
     name: Kwanka
     auto: true

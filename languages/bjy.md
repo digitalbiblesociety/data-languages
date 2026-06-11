@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bayali
     auto: true
+  - translation_iso: rus
+    name: баялийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma bayali
   - translation_iso: zho

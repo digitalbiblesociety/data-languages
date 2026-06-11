@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kurru
+  - translation_iso: rus
+    name: ерукулский язык
+    auto: true
   - translation_iso: spa
     name: Yerukula
     auto: true

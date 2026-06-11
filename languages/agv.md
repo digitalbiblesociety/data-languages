@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua remontado dumagat
+  - translation_iso: rus
+    name: ремонтадо думагатский язык
+    auto: true
   - translation_iso: spa
     name: Remontado Dumagat
     auto: true

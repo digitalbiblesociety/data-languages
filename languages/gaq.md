@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gta
+  - translation_iso: rus
+    name: гатский язык
+    auto: true
   - translation_iso: spa
     name: Gata
     auto: true

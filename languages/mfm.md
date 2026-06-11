@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Marghi do Sul
     auto: true
+  - translation_iso: rus
+    name: маргхи сутский язык
+    auto: true
   - translation_iso: spa
     name: margui meridional
   - translation_iso: zho

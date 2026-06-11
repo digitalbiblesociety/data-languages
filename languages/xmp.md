@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Kuku-Mu'inh"
     auto: true
+  - translation_iso: rus
+    name: куку-муинхский язык
+    auto: true
   - translation_iso: spa
     name: "Kuku-Mu'inh"
     auto: true

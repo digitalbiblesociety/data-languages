@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua triqui de chicacahuaxtia
+  - translation_iso: rus
+    name: чикахуакстла триквийский язык
+    auto: true
   - translation_iso: spa
     name: triqui de Chicahuaxtla
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vitou
     auto: true
+  - translation_iso: rus
+    name: витуский язык
+    auto: true
   - translation_iso: spa
     name: Vitou
     auto: true

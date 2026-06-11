@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nokuku
     auto: true
+  - translation_iso: rus
+    name: нокукуский язык
+    auto: true
   - translation_iso: spa
     name: Nokuku
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chinanteco de Chiltepec
     auto: true
+  - translation_iso: rus
+    name: чилтепек чинантекский язык
+    auto: true
   - translation_iso: spa
     name: chinanteca de Chiltepec
   - translation_iso: zho

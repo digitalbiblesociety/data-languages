@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Loarki
     auto: true
+  - translation_iso: rus
+    name: лоаркийский язык
+    auto: true
   - translation_iso: spa
     name: Loarki
     auto: true

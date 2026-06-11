@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sonha
     auto: true
+  - translation_iso: rus
+    name: сонхский язык
+    auto: true
   - translation_iso: spa
     name: Sonha
     auto: true

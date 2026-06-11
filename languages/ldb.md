@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dũya
     auto: true
+  - translation_iso: rus
+    name: дуйский язык
+    auto: true
   - translation_iso: spa
     name: Dũya
     auto: true

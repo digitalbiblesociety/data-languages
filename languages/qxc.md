@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Chincha
     auto: true
+  - translation_iso: rus
+    name: чинча квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua de Chincha
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Yuru
     auto: true
+  - translation_iso: rus
+    name: юруский язык
+    auto: true
   - translation_iso: spa
     name: Yuru
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Yaaku
     auto: true
+  - translation_iso: rus
+    name: яакуский язык
+    auto: true
   - translation_iso: spa
     name: Yaaku
     auto: true

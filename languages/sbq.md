@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sileibi
     auto: true
+  - translation_iso: rus
+    name: силеибийский язык
+    auto: true
   - translation_iso: spa
     name: Sileibi
     auto: true

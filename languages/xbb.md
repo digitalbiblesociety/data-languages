@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Burdekin Inferior
     auto: true
+  - translation_iso: rus
+    name: ловер бурдекинский язык
+    auto: true
   - translation_iso: spa
     name: Lower Burdekin
     auto: true

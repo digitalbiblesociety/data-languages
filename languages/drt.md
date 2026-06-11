@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Drents
     auto: true
+  - translation_iso: rus
+    name: дренцский язык
+    auto: true
   - translation_iso: spa
     name: Drents
     auto: true

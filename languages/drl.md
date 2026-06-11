@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua darling
+  - translation_iso: rus
+    name: паакантйийский язык
+    auto: true
   - translation_iso: spa
     name: Paakantyi
     auto: true

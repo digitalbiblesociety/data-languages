@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bukid
+  - translation_iso: rus
+    name: бинукидский язык
+    auto: true
   - translation_iso: spa
     name: Binukid
     auto: true

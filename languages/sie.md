@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Simaa
     auto: true
+  - translation_iso: rus
+    name: симаский язык
+    auto: true
   - translation_iso: spa
     name: Idioma simaa
   - translation_iso: zho

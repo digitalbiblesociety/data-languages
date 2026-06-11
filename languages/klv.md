@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua maskelynes
+  - translation_iso: rus
+    name: маскелйнесский язык
+    auto: true
   - translation_iso: spa
     name: Maskelynes
     auto: true

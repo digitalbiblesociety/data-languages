@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Illiun
+  - translation_iso: rus
+    name: илиуунский язык
+    auto: true
   - translation_iso: spa
     name: Illiun
   - translation_iso: zho

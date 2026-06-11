@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bisaya do Brunei
     auto: true
+  - translation_iso: rus
+    name: брунеи бисайский язык
+    auto: true
   - translation_iso: spa
     name: Bisaya de Brunéi
     auto: true

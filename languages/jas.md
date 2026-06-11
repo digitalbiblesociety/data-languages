@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: javanês da Nova Caledônia
     auto: true
+  - translation_iso: rus
+    name: нев каледониан яванесейский язык
+    auto: true
   - translation_iso: spa
     name: Javanés de Nueva Caledonia
     auto: true

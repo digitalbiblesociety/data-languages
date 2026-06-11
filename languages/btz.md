@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Batak Alas-Kluet
     auto: true
+  - translation_iso: rus
+    name: батак алас-клуетский язык
+    auto: true
   - translation_iso: spa
     name: Batak Alas-Kluet
     auto: true

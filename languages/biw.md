@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kol (Camarões)
     auto: true
+  - translation_iso: rus
+    name: кольский язык
+    auto: true
   - translation_iso: spa
     name: kol
   - translation_iso: zho

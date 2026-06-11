@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bokyi
     auto: true
+  - translation_iso: rus
+    name: бокйийский язык
+    auto: true
   - translation_iso: spa
     name: Bokyi
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Orma
     auto: true
+  - translation_iso: rus
+    name: ормский язык
+    auto: true
   - translation_iso: spa
     name: Orma
     auto: true

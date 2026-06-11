@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua hajong
+  - translation_iso: rus
+    name: хайонгский язык
+    auto: true
   - translation_iso: spa
     name: idioma hajong
   - translation_iso: zho

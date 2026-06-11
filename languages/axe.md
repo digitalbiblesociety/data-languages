@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Ayerrerenge
     auto: true
+  - translation_iso: rus
+    name: аерреренгейский язык
+    auto: true
   - translation_iso: spa
     name: Ayerrerenge
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kerewe
     auto: true
+  - translation_iso: rus
+    name: керевейский язык
+    auto: true
   - translation_iso: spa
     name: Kerewe
     auto: true

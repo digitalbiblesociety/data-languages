@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Zemba
     auto: true
+  - translation_iso: rus
+    name: зембский язык
+    auto: true
   - translation_iso: spa
     name: Idioma zemba
   - translation_iso: zho

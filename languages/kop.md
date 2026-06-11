@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Waube
     auto: true
+  - translation_iso: rus
+    name: ваубейский язык
+    auto: true
   - translation_iso: spa
     name: Waube
     auto: true

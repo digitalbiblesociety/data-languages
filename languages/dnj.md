@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dan
+  - translation_iso: rus
+    name: данский язык
+    auto: true
   - translation_iso: spa
     name: idioma Dan
   - translation_iso: zho

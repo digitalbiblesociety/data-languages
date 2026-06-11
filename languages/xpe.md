@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kpelle da Libéria
     auto: true
+  - translation_iso: rus
+    name: либериа кпеллейский язык
+    auto: true
   - translation_iso: spa
     name: Kpelle de Liberia
     auto: true

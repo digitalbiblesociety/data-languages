@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gaɓogbo
     auto: true
+  - translation_iso: rus
+    name: габогбоский язык
+    auto: true
   - translation_iso: spa
     name: Gaɓogbo
     auto: true

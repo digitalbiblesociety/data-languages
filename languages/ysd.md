@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: samatao
     auto: true
+  - translation_iso: rus
+    name: саматаоский язык
+    auto: true
   - translation_iso: spa
     name: Samatao
     auto: true

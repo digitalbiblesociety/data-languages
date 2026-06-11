@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ayu
     auto: true
+  - translation_iso: rus
+    name: аюский язык
+    auto: true
   - translation_iso: spa
     name: Ayu
     auto: true

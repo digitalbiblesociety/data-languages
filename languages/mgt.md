@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mongol
     auto: true
+  - translation_iso: rus
+    name: монгольский язык
+    auto: true
   - translation_iso: spa
     name: Mongol
     auto: true

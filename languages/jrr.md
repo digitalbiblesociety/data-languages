@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Jiru
     auto: true
+  - translation_iso: rus
+    name: джируский язык
+    auto: true
   - translation_iso: spa
     name: Jiru
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kuk
     auto: true
+  - translation_iso: rus
+    name: кукский язык
+    auto: true
   - translation_iso: spa
     name: Kuk
     auto: true

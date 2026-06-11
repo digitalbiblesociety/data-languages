@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mfumte
+  - translation_iso: rus
+    name: мфумтейский язык
+    auto: true
   - translation_iso: spa
     name: Mfumte
     auto: true

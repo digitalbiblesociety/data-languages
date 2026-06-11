@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Xârâgurè
     auto: true
+  - translation_iso: rus
+    name: ксарагурейский язык
+    auto: true
   - translation_iso: spa
     name: Xârâgurè
     auto: true

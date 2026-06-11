@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Teke Ibali
     auto: true
+  - translation_iso: rus
+    name: ибали текейский язык
+    auto: true
   - translation_iso: spa
     name: Teke Ibali
     auto: true

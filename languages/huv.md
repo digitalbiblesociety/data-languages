@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Huave de San Mateo del Mar
     auto: true
+  - translation_iso: rus
+    name: сан матео дел мар хуавейский язык
+    auto: true
   - translation_iso: spa
     name: huave de San Mateo del Mar
   - translation_iso: zho

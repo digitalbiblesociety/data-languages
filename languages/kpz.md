@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kupsabiny
     auto: true
+  - translation_iso: rus
+    name: купсабинйский язык
+    auto: true
   - translation_iso: spa
     name: Kupsabiny
     auto: true

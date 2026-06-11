@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Byep
     auto: true
+  - translation_iso: rus
+    name: бепский язык
+    auto: true
   - translation_iso: spa
     name: Byep
     auto: true

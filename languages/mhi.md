@@ -35,6 +35,9 @@ translations:
     name: 마디어
   - translation_iso: por
     name: "Língua ma'di"
+  - translation_iso: rus
+    name: мадийский язык
+    auto: true
   - translation_iso: spa
     name: "Ma'di"
     auto: true

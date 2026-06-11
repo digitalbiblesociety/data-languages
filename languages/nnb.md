@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nande
+  - translation_iso: rus
+    name: нандейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nande
   - translation_iso: zho

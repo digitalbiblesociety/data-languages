@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Takwane
     auto: true
+  - translation_iso: rus
+    name: такванейский язык
+    auto: true
   - translation_iso: spa
     name: Takwane
     auto: true

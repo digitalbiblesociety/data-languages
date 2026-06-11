@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gurdjar
     auto: true
+  - translation_iso: rus
+    name: гурдярский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gurdjar
   - translation_iso: zho

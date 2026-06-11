@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bina
     auto: true
+  - translation_iso: rus
+    name: бинский язык
+    auto: true
   - translation_iso: spa
     name: bina
   - translation_iso: zho

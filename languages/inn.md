@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Isinai
     auto: true
+  - translation_iso: rus
+    name: исинаийский язык
+    auto: true
   - translation_iso: spa
     name: Isinai
     auto: true

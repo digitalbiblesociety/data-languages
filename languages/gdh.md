@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gadjerawang
     auto: true
+  - translation_iso: rus
+    name: гадеравангский язык
+    auto: true
   - translation_iso: spa
     name: Gadjerawang
     auto: true

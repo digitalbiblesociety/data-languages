@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kete
     auto: true
+  - translation_iso: rus
+    name: кетейский язык
+    auto: true
   - translation_iso: spa
     name: Kete
     auto: true

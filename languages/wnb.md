@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wanambre
     auto: true
+  - translation_iso: rus
+    name: ванамбрейский язык
+    auto: true
   - translation_iso: spa
     name: Wanambre
     auto: true

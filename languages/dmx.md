@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dema
     auto: true
+  - translation_iso: rus
+    name: демский язык
+    auto: true
   - translation_iso: spa
     name: Dema
     auto: true

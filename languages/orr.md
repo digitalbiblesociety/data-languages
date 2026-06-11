@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Oruma
     auto: true
+  - translation_iso: rus
+    name: орумский язык
+    auto: true
   - translation_iso: spa
     name: oruma
   - translation_iso: zho

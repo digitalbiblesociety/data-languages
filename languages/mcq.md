@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ese
     auto: true
+  - translation_iso: rus
+    name: есейский язык
+    auto: true
   - translation_iso: spa
     name: Ese
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ayta de Sorsogon
     auto: true
+  - translation_iso: rus
+    name: сорсогон айтский язык
+    auto: true
   - translation_iso: spa
     name: Ayta de Sorsogón
     auto: true

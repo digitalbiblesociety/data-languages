@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Simba
     auto: true
+  - translation_iso: rus
+    name: симбский язык
+    auto: true
   - translation_iso: spa
     name: Simba
   - translation_iso: zho

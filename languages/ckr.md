@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kairak
     auto: true
+  - translation_iso: rus
+    name: каиракский язык
+    auto: true
   - translation_iso: spa
     name: Kairak
     auto: true

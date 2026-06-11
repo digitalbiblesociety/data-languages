@@ -32,6 +32,9 @@ translations:
     name: 사보사보어
   - translation_iso: por
     name: Língua savosavo
+  - translation_iso: rus
+    name: савосавоский язык
+    auto: true
   - translation_iso: spa
     name: Savosavo
     auto: true

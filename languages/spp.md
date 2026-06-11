@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua supyire
+  - translation_iso: rus
+    name: супйире сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Supyire Senoufo
     auto: true

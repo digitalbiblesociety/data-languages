@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tembé
+  - translation_iso: rus
+    name: тембейский язык
+    auto: true
   - translation_iso: spa
     name: tembé
   - translation_iso: zho

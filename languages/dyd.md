@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto djugun
+  - translation_iso: rus
+    name: дюгунский язык
+    auto: true
   - translation_iso: spa
     name: Dyugun
     auto: true

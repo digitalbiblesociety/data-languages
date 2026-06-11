@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Haigwai
     auto: true
+  - translation_iso: rus
+    name: хаигваийский язык
+    auto: true
   - translation_iso: spa
     name: Haigwai
     auto: true

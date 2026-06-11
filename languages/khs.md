@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kasua
     auto: true
+  - translation_iso: rus
+    name: касуский язык
+    auto: true
   - translation_iso: spa
     name: Kasua
     auto: true

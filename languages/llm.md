@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lasalimu
     auto: true
+  - translation_iso: rus
+    name: ласалимуский язык
+    auto: true
   - translation_iso: spa
     name: Lasalimu
     auto: true

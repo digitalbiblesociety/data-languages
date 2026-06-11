@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gimi (Nova Bretanha Ocidental)
     auto: true
+  - translation_iso: rus
+    name: гимийский язык
+    auto: true
   - translation_iso: spa
     name: Gimi (Nueva Bretaña Occidental)
     auto: true

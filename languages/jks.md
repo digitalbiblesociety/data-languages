@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Amami Koniya
     auto: true
+  - translation_iso: rus
+    name: амами кония сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Amami Koniya
     auto: true

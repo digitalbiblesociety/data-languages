@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bhattiyali
     auto: true
+  - translation_iso: rus
+    name: бхаттиялийский язык
+    auto: true
   - translation_iso: spa
     name: Bhattiyali
     auto: true

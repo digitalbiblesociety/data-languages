@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kofei
     auto: true
+  - translation_iso: rus
+    name: кофеийский язык
+    auto: true
   - translation_iso: spa
     name: Kofei
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bijori
     auto: true
+  - translation_iso: rus
+    name: бийорийский язык
+    auto: true
   - translation_iso: spa
     name: Bijori
     auto: true

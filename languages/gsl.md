@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gusilay
     auto: true
+  - translation_iso: rus
+    name: гусилайский язык
+    auto: true
   - translation_iso: spa
     name: Gusilay
     auto: true

@@ -38,6 +38,9 @@ translations:
     name: 마나도 말레이어
   - translation_iso: por
     name: Malaio Manado
+  - translation_iso: rus
+    name: манадо малайский язык
+    auto: true
   - translation_iso: spa
     name: Idioma malayo minahasa
   - translation_iso: zho

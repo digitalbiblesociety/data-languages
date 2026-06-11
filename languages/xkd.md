@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kayan Mendalam
     auto: true
+  - translation_iso: rus
+    name: мендалам каянский язык
+    auto: true
   - translation_iso: spa
     name: Kayan Mendalam
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dhalandji
     auto: true
+  - translation_iso: rus
+    name: дхаландджийский язык
+    auto: true
   - translation_iso: spa
     name: Dhalandji
     auto: true

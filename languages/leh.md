@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lenje
+  - translation_iso: rus
+    name: ленейский язык
+    auto: true
   - translation_iso: spa
     name: Lenje
     auto: true

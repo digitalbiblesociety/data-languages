@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ambo
     auto: true
+  - translation_iso: rus
+    name: амбоский язык
+    auto: true
   - translation_iso: spa
     name: Ambo
     auto: true

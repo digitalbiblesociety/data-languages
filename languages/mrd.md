@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: magar ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн магарский язык
+    auto: true
   - translation_iso: spa
     name: Magar Occidental
     auto: true

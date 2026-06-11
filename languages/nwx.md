@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Newar Médio
     auto: true
+  - translation_iso: rus
+    name: миддле неварский язык
+    auto: true
   - translation_iso: spa
     name: Newar Medio
     auto: true

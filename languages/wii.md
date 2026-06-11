@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Minidien
     auto: true
+  - translation_iso: rus
+    name: минидиенский язык
+    auto: true
   - translation_iso: spa
     name: Minidien
     auto: true

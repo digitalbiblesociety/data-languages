@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Malol
     auto: true
+  - translation_iso: rus
+    name: малольский язык
+    auto: true
   - translation_iso: spa
     name: Malol
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: kuthant
     auto: true
+  - translation_iso: rus
+    name: кутантский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kuthant
   - translation_iso: zho

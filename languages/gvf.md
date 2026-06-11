@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Golin
     auto: true
+  - translation_iso: rus
+    name: голинский язык
+    auto: true
   - translation_iso: spa
     name: Golin
     auto: true

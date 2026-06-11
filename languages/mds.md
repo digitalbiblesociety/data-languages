@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maria (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: мариский язык
+    auto: true
   - translation_iso: spa
     name: Maria (Papúa Nueva Guinea)
     auto: true

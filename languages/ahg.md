@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Qimant
     auto: true
+  - translation_iso: rus
+    name: кимантский язык
+    auto: true
   - translation_iso: spa
     name: Qimant
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kayan Rejang
     auto: true
+  - translation_iso: rus
+    name: реянг каянский язык
+    auto: true
   - translation_iso: spa
     name: Kayan Rejang
     auto: true

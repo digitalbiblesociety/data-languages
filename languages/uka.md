@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kaburi
     auto: true
+  - translation_iso: rus
+    name: кабурийский язык
+    auto: true
   - translation_iso: spa
     name: Kaburi
     auto: true

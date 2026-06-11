@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: manobo de Cotabato
     auto: true
+  - translation_iso: rus
+    name: котабато манобоский язык
+    auto: true
   - translation_iso: spa
     name: Manobo de Cotabato
     auto: true

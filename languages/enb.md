@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Markweeta
     auto: true
+  - translation_iso: rus
+    name: марквитский язык
+    auto: true
   - translation_iso: spa
     name: Markweeta
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Birifor meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн бирифорский язык
+    auto: true
   - translation_iso: spa
     name: Birifor del sur
     auto: true

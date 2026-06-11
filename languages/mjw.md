@@ -36,6 +36,9 @@ translations:
     name: 카르비어
   - translation_iso: por
     name: Língua karbi
+  - translation_iso: rus
+    name: карбийский язык
+    auto: true
   - translation_iso: spa
     name: karbi
   - translation_iso: zho

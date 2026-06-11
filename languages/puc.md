@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Punan Merap
     auto: true
+  - translation_iso: rus
+    name: пунан мерапский язык
+    auto: true
   - translation_iso: spa
     name: Punan Merap
     auto: true

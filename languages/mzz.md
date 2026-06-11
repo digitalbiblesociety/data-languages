@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Maiadomu
     auto: true
+  - translation_iso: rus
+    name: маиадомуский язык
+    auto: true
   - translation_iso: spa
     name: Maiadomu
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dusner
     auto: true
+  - translation_iso: rus
+    name: дуснерский язык
+    auto: true
   - translation_iso: spa
     name: Dusner
     auto: true

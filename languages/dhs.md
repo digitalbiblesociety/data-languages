@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dhaiso
     auto: true
+  - translation_iso: rus
+    name: дхаисоский язык
+    auto: true
   - translation_iso: spa
     name: Dhaiso
     auto: true

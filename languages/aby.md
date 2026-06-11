@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aneme Wake
     auto: true
+  - translation_iso: rus
+    name: анеме вакейский язык
+    auto: true
   - translation_iso: spa
     name: Aneme Wake
     auto: true

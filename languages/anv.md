@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Denya
     auto: true
+  - translation_iso: rus
+    name: денйский язык
+    auto: true
   - translation_iso: spa
     name: Denya
     auto: true

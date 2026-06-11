@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bambili-Bambui
     auto: true
+  - translation_iso: rus
+    name: бамбили-бамбуийский язык
+    auto: true
   - translation_iso: spa
     name: bambili bambui
   - translation_iso: zho

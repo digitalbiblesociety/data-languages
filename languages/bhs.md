@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Buwal
     auto: true
+  - translation_iso: rus
+    name: бувальский язык
+    auto: true
   - translation_iso: spa
     name: Buwal
     auto: true

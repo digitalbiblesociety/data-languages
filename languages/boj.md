@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Anjam
     auto: true
+  - translation_iso: rus
+    name: анямский язык
+    auto: true
   - translation_iso: spa
     name: Anjam
     auto: true

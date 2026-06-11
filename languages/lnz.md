@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Lonzo
     auto: true
+  - translation_iso: rus
+    name: лонзоский язык
+    auto: true
   - translation_iso: spa
     name: Lonzo
     auto: true

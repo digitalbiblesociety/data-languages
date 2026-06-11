@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chak
     auto: true
+  - translation_iso: rus
+    name: чакский язык
+    auto: true
   - translation_iso: spa
     name: Chak
     auto: true

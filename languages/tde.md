@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Tiranige Diga
     auto: true
+  - translation_iso: rus
+    name: тираниге дига догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Tiranige Diga
     auto: true

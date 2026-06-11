@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kobon
+  - translation_iso: rus
+    name: кобонский язык
+    auto: true
   - translation_iso: spa
     name: Kobon
     auto: true

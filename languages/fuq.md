@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: fulfulde do Níger centro-oriental
     auto: true
+  - translation_iso: rus
+    name: кентрал-еастерн нигер фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde centro-oriental de Níger
     auto: true

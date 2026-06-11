@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pano
     auto: true
+  - translation_iso: rus
+    name: паноский язык
+    auto: true
   - translation_iso: spa
     name: Pano
     auto: true

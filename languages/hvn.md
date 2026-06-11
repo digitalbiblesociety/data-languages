@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua hawu
+  - translation_iso: rus
+    name: сабуский язык
+    auto: true
   - translation_iso: spa
     name: Hawu
   - translation_iso: zho

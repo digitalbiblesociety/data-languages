@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Jamsay
     auto: true
+  - translation_iso: rus
+    name: ямсай догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Jamsay
     auto: true

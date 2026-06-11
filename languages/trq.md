@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua truqui de Itunyoso
+  - translation_iso: rus
+    name: сан мартин итунйосо триквийский язык
+    auto: true
   - translation_iso: spa
     name: Triqui de Itunyoso
   - translation_iso: zho

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dharawal
     auto: true
+  - translation_iso: rus
+    name: дхаравальский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tharawal
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ntomba
     auto: true
+  - translation_iso: rus
+    name: нтомбский язык
+    auto: true
   - translation_iso: spa
     name: ntomba
   - translation_iso: zho

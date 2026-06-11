@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nabak
     auto: true
+  - translation_iso: rus
+    name: набакский язык
+    auto: true
   - translation_iso: spa
     name: Nabak
     auto: true

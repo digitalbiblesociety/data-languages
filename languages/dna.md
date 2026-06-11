@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dani do Alto Grand Valley
     auto: true
+  - translation_iso: rus
+    name: уппер гранд валлей данийский язык
+    auto: true
   - translation_iso: spa
     name: Dani del Alto Valle Grande
     auto: true

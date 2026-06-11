@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Turca
     auto: true
+  - translation_iso: rus
+    name: туркиш сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas turca
   - translation_iso: zho

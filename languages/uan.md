@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kuan
     auto: true
+  - translation_iso: rus
+    name: куанский язык
+    auto: true
   - translation_iso: spa
     name: Kuan
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua chamling
+  - translation_iso: rus
+    name: камлингский язык
+    auto: true
   - translation_iso: spa
     name: Camling
     auto: true

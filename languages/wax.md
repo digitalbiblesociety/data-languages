@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Watam
     auto: true
+  - translation_iso: rus
+    name: ватамский язык
+    auto: true
   - translation_iso: spa
     name: Watam
     auto: true

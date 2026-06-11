@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: mnong do sul
     auto: true
+  - translation_iso: rus
+    name: сутерн мнонгский язык
+    auto: true
   - translation_iso: spa
     name: Mnong Meridional
     auto: true

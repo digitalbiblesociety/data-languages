@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kandawo
     auto: true
+  - translation_iso: rus
+    name: кандавоский язык
+    auto: true
   - translation_iso: spa
     name: Kandawo
     auto: true

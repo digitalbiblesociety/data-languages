@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bonerate
     auto: true
+  - translation_iso: rus
+    name: бонератейский язык
+    auto: true
   - translation_iso: spa
     name: Bonerate
     auto: true

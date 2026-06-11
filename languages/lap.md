@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Laka (Chade)
     auto: true
+  - translation_iso: rus
+    name: лакский язык
+    auto: true
   - translation_iso: spa
     name: Laka (Chad)
     auto: true

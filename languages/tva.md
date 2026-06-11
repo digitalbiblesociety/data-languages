@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vaghua
     auto: true
+  - translation_iso: rus
+    name: вагхуский язык
+    auto: true
   - translation_iso: spa
     name: Vaghua
   - translation_iso: zho

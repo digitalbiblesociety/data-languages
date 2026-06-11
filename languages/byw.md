@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua belhare
+  - translation_iso: rus
+    name: белхарийский язык
+    auto: true
   - translation_iso: spa
     name: Belhariya
     auto: true

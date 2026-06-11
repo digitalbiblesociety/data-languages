@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mufian
     auto: true
+  - translation_iso: rus
+    name: муфианский язык
+    auto: true
   - translation_iso: spa
     name: Mufian
     auto: true

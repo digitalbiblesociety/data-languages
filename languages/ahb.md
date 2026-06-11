@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Axamb
     auto: true
+  - translation_iso: rus
+    name: аксамбский язык
+    auto: true
   - translation_iso: spa
     name: Axamb
     auto: true

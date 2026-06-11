@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Watiwa
     auto: true
+  - translation_iso: rus
+    name: вативский язык
+    auto: true
   - translation_iso: spa
     name: Watiwa
     auto: true

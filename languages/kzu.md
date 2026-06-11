@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kayupulau
     auto: true
+  - translation_iso: rus
+    name: каюпулауский язык
+    auto: true
   - translation_iso: spa
     name: Kayupulau
     auto: true

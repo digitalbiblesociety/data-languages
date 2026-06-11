@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Karon Dori
     auto: true
+  - translation_iso: rus
+    name: карон дорийский язык
+    auto: true
   - translation_iso: spa
     name: Karon Dori
     auto: true

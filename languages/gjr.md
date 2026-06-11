@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: crioulo gurindji
     auto: true
+  - translation_iso: rus
+    name: гуриндджи криольский язык
+    auto: true
   - translation_iso: spa
     name: Gurindji Kriol
     auto: true

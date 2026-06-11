@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Singpho
     auto: true
+  - translation_iso: rus
+    name: сингфоский язык
+    auto: true
   - translation_iso: spa
     name: Singpho
     auto: true

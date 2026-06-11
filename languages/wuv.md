@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wuvulu-Aua
     auto: true
+  - translation_iso: rus
+    name: вувулу-ауский язык
+    auto: true
   - translation_iso: spa
     name: Wuvulu-Aua
     auto: true

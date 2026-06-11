@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Iduna
     auto: true
+  - translation_iso: rus
+    name: идунский язык
+    auto: true
   - translation_iso: spa
     name: Iduna
     auto: true

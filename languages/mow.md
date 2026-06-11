@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Moi (Congo)
     auto: true
+  - translation_iso: rus
+    name: моийский язык
+    auto: true
   - translation_iso: spa
     name: Moi (Congo)
     auto: true

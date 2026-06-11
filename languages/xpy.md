@@ -29,6 +29,9 @@ translations:
   - translation_iso: por
     name: Puyo
     auto: true
+  - translation_iso: rus
+    name: пуйоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma buyeo
   - translation_iso: zho

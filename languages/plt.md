@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malgaxe do Planalto
     auto: true
+  - translation_iso: rus
+    name: платеау малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache de las mesetas
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngelima
     auto: true
+  - translation_iso: rus
+    name: нгелимский язык
+    auto: true
   - translation_iso: spa
     name: Ngelima
     auto: true

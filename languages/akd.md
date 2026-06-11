@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ukpet-Ehom
     auto: true
+  - translation_iso: rus
+    name: укпет-ехомский язык
+    auto: true
   - translation_iso: spa
     name: Ukpet-Ehom
     auto: true

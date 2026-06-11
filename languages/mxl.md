@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Maxi Gbe
     auto: true
+  - translation_iso: rus
+    name: макси гбейский язык
+    auto: true
   - translation_iso: spa
     name: Maxi Gbe
     auto: true

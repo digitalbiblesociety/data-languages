@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Podena
     auto: true
+  - translation_iso: rus
+    name: поденский язык
+    auto: true
   - translation_iso: spa
     name: Podena
     auto: true

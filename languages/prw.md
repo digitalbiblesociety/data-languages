@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Parawen
     auto: true
+  - translation_iso: rus
+    name: паравенский язык
+    auto: true
   - translation_iso: spa
     name: Parawen
     auto: true

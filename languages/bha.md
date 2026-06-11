@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bharia
     auto: true
+  - translation_iso: rus
+    name: бхариский язык
+    auto: true
   - translation_iso: spa
     name: Bharia
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sekar
     auto: true
+  - translation_iso: rus
+    name: секарский язык
+    auto: true
   - translation_iso: spa
     name: Sekar
     auto: true

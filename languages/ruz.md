@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ruma
     auto: true
+  - translation_iso: rus
+    name: румский язык
+    auto: true
   - translation_iso: spa
     name: Ruma
     auto: true

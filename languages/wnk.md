@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wanukaka
     auto: true
+  - translation_iso: rus
+    name: ванукакский язык
+    auto: true
   - translation_iso: spa
     name: Wanukaka
     auto: true

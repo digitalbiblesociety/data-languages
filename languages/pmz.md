@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pame Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн памейский язык
+    auto: true
   - translation_iso: spa
     name: Pame meridional
     auto: true

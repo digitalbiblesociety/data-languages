@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Ke'o"
+  - translation_iso: rus
+    name: кеоский язык
+    auto: true
   - translation_iso: spa
     name: "Ke'o"
   - translation_iso: zho

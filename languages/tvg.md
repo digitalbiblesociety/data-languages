@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo Português de Java
+  - translation_iso: rus
+    name: тугунесейский язык
+    auto: true
   - translation_iso: spa
     name: Criollo portugués de Tugu
     auto: true

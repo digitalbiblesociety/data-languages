@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Aninka
     auto: true
+  - translation_iso: rus
+    name: анинкский язык
+    auto: true
   - translation_iso: spa
     name: Aninka
     auto: true

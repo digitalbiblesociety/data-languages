@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Holoholo
     auto: true
+  - translation_iso: rus
+    name: холохолоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma holoholo
   - translation_iso: zho

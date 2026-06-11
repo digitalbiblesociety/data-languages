@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua molbog
+  - translation_iso: rus
+    name: молбогский язык
+    auto: true
   - translation_iso: spa
     name: idioma molbog
   - translation_iso: zho

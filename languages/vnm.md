@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vinmavis
     auto: true
+  - translation_iso: rus
+    name: винмависский язык
+    auto: true
   - translation_iso: spa
     name: Vinmavis
     auto: true

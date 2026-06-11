@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Yangman
     auto: true
+  - translation_iso: rus
+    name: янгманский язык
+    auto: true
   - translation_iso: spa
     name: Yangman
     auto: true

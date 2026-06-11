@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bozo Kɛlɛngaxo
     auto: true
+  - translation_iso: rus
+    name: кэлэнгаксо бозоский язык
+    auto: true
   - translation_iso: spa
     name: Bozo Kɛlɛngaxo
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Samosa
     auto: true
+  - translation_iso: rus
+    name: самосский язык
+    auto: true
   - translation_iso: spa
     name: Samosa
     auto: true

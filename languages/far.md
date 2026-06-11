@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Fataleka
     auto: true
+  - translation_iso: rus
+    name: фаталекский язык
+    auto: true
   - translation_iso: spa
     name: Fataleka
     auto: true

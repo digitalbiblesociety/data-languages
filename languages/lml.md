@@ -35,6 +35,9 @@ translations:
     name: 라가어
   - translation_iso: por
     name: Língua raga
+  - translation_iso: rus
+    name: ханоский язык
+    auto: true
   - translation_iso: spa
     name: Hano
     auto: true

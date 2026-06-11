@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Lopi
     auto: true
+  - translation_iso: rus
+    name: лопийский язык
+    auto: true
   - translation_iso: spa
     name: Lopi
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Taliabu
     auto: true
+  - translation_iso: rus
+    name: талиабуский язык
+    auto: true
   - translation_iso: spa
     name: Taliabu
     auto: true

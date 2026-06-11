@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Neku
     auto: true
+  - translation_iso: rus
+    name: некуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma neku
   - translation_iso: zho

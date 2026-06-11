@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Marrucino
     auto: true
+  - translation_iso: rus
+    name: маррукинианский язык
+    auto: true
   - translation_iso: spa
     name: marrucino
   - translation_iso: zho

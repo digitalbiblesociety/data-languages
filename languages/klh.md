@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Weliki
     auto: true
+  - translation_iso: rus
+    name: великийский язык
+    auto: true
   - translation_iso: spa
     name: Weliki
     auto: true

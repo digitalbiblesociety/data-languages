@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyamal
     auto: true
+  - translation_iso: rus
+    name: нямальский язык
+    auto: true
   - translation_iso: spa
     name: Nyamal
     auto: true

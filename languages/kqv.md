@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Okolod
     auto: true
+  - translation_iso: rus
+    name: околодский язык
+    auto: true
   - translation_iso: spa
     name: Okolod
     auto: true

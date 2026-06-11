@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: kamviri
     auto: true
+  - translation_iso: rus
+    name: камвирийский язык
+    auto: true
   - translation_iso: spa
     name: Kamviri
   - translation_iso: zho

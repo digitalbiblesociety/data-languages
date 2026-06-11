@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lesing-Gelimi
     auto: true
+  - translation_iso: rus
+    name: лесинг-гелимийский язык
+    auto: true
   - translation_iso: spa
     name: Lesing-Gelimi
     auto: true

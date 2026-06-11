@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ponosakan
+  - translation_iso: rus
+    name: поносаканский язык
+    auto: true
   - translation_iso: spa
     name: Ponosakan
   - translation_iso: zho

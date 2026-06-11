@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyengo
     auto: true
+  - translation_iso: rus
+    name: ненгоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nyengo
   - translation_iso: zho

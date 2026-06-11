@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dhangu-Djangu
     auto: true
+  - translation_iso: rus
+    name: дхангу-дянгуский язык
+    auto: true
   - translation_iso: spa
     name: Dhangu-Djangu
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bambalang
     auto: true
+  - translation_iso: rus
+    name: бамбалангский язык
+    auto: true
   - translation_iso: spa
     name: Bambalang
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Urimo
     auto: true
+  - translation_iso: rus
+    name: уримоский язык
+    auto: true
   - translation_iso: spa
     name: Urimo
     auto: true

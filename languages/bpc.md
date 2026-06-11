@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mbuk
     auto: true
+  - translation_iso: rus
+    name: мбукский язык
+    auto: true
   - translation_iso: spa
     name: Mbuk
     auto: true

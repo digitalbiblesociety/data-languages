@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Bati
+  - translation_iso: rus
+    name: батийский язык
+    auto: true
   - translation_iso: spa
     name: Bati
   - translation_iso: zho

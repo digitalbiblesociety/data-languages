@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Semandang
     auto: true
+  - translation_iso: rus
+    name: семандангрский язык
+    auto: true
   - translation_iso: spa
     name: Semandang
     auto: true

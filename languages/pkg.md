@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pak-Tong
     auto: true
+  - translation_iso: rus
+    name: пак-тонгский язык
+    auto: true
   - translation_iso: spa
     name: Pak-Tong
     auto: true

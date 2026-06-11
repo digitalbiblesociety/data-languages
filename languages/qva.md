@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Ambo-Pasco
     auto: true
+  - translation_iso: rus
+    name: амбо-паско квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua de Ambo-Pasco
     auto: true

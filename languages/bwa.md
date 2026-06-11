@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bwatoo
     auto: true
+  - translation_iso: rus
+    name: бватуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma bwatoo
   - translation_iso: zho

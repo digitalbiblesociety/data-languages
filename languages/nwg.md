@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Ngayawung
     auto: true
+  - translation_iso: rus
+    name: нгаявунгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngayawung
   - translation_iso: zho

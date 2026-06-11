@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Beezen
     auto: true
+  - translation_iso: rus
+    name: бизенский язык
+    auto: true
   - translation_iso: spa
     name: beezen
   - translation_iso: zho

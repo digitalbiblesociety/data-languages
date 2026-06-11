@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nsongo
     auto: true
+  - translation_iso: rus
+    name: нсонгоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma songo
   - translation_iso: zho

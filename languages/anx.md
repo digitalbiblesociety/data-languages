@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Andra-Hus
     auto: true
+  - translation_iso: rus
+    name: андра-хусский язык
+    auto: true
   - translation_iso: spa
     name: Andra-Hus
     auto: true

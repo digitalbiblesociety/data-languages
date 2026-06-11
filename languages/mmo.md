@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mangga Buang
     auto: true
+  - translation_iso: rus
+    name: мангга буангский язык
+    auto: true
   - translation_iso: spa
     name: Mangga Buang
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Molo
     auto: true
+  - translation_iso: rus
+    name: молоский язык
+    auto: true
   - translation_iso: spa
     name: molo
   - translation_iso: zho

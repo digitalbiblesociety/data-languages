@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kanum Ngkâlmpw
     auto: true
+  - translation_iso: rus
+    name: нгкалмпв канумский язык
+    auto: true
   - translation_iso: spa
     name: Kanum Ngkâlmpw
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo inglês de Trinidad
+  - translation_iso: rus
+    name: тринидадиан креоле енглишский язык
+    auto: true
   - translation_iso: spa
     name: Criollo inglés de Trinidad
     auto: true

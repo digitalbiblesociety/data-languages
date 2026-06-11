@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tai Hongjin
     auto: true
+  - translation_iso: rus
+    name: таи хонгджинский язык
+    auto: true
   - translation_iso: spa
     name: Tai Hongjin
     auto: true

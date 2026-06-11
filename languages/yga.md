@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: malyangapa
     auto: true
+  - translation_iso: rus
+    name: малянгапский язык
+    auto: true
   - translation_iso: spa
     name: Malyangapa
     auto: true

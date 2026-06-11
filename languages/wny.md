@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wanyi
     auto: true
+  - translation_iso: rus
+    name: ванйийский язык
+    auto: true
   - translation_iso: spa
     name: Wanyi
     auto: true

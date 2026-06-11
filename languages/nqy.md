@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Naga Akyaung Ari
     auto: true
+  - translation_iso: rus
+    name: акяунг ари нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Akyaung Ari
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Wagiman
     auto: true
+  - translation_iso: rus
+    name: вагиманский язык
+    auto: true
   - translation_iso: spa
     name: Idioma wagiman
   - translation_iso: zho

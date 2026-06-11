@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Uda
     auto: true
+  - translation_iso: rus
+    name: удский язык
+    auto: true
   - translation_iso: spa
     name: Uda
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Língua vera'a"
+  - translation_iso: rus
+    name: вераский язык
+    auto: true
   - translation_iso: spa
     name: "Vera'a"
     auto: true

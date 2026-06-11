@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Jumli
     auto: true
+  - translation_iso: rus
+    name: юмлийский язык
+    auto: true
   - translation_iso: spa
     name: Jumli
     auto: true

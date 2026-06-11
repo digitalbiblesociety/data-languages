@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bamunka
     auto: true
+  - translation_iso: rus
+    name: бамункский язык
+    auto: true
   - translation_iso: spa
     name: bamunka
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hangaza
     auto: true
+  - translation_iso: rus
+    name: хангазский язык
+    auto: true
   - translation_iso: spa
     name: Hangaza
     auto: true

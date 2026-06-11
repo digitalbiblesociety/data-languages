@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kpessi
     auto: true
+  - translation_iso: rus
+    name: кпессийский язык
+    auto: true
   - translation_iso: spa
     name: Kpessi
     auto: true

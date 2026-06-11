@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: sTodsde
     auto: true
+  - translation_iso: rus
+    name: стодсдейский язык
+    auto: true
   - translation_iso: spa
     name: sTodsde
     auto: true

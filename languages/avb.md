@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Avau
     auto: true
+  - translation_iso: rus
+    name: авауский язык
+    auto: true
   - translation_iso: spa
     name: Avau
     auto: true

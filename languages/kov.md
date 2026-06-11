@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kudu-Camo
     auto: true
+  - translation_iso: rus
+    name: куду-камоский язык
+    auto: true
   - translation_iso: spa
     name: Kudu-Camo
     auto: true

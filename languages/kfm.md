@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Khunsari
     auto: true
+  - translation_iso: rus
+    name: хунсарийский язык
+    auto: true
   - translation_iso: spa
     name: Khunsari
     auto: true

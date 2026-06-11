@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Iha
     auto: true
+  - translation_iso: rus
+    name: ихский язык
+    auto: true
   - translation_iso: spa
     name: Iha
     auto: true

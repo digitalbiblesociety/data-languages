@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Ansus
     auto: true
+  - translation_iso: rus
+    name: ансусский язык
+    auto: true
   - translation_iso: spa
     name: Ansus
     auto: true

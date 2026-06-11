@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Melanau Sibu
     auto: true
+  - translation_iso: rus
+    name: сибу меланауский язык
+    auto: true
   - translation_iso: spa
     name: Melanau de Sibu
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wogeo
     auto: true
+  - translation_iso: rus
+    name: вогеоский язык
+    auto: true
   - translation_iso: spa
     name: Wogeo
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ma Manda
     auto: true
+  - translation_iso: rus
+    name: ма мандский язык
+    auto: true
   - translation_iso: spa
     name: Ma Manda
     auto: true

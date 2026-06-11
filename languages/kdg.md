@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Seba
+  - translation_iso: rus
+    name: себский язык
+    auto: true
   - translation_iso: spa
     name: Seba
   - translation_iso: zho

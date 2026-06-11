@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sengo
     auto: true
+  - translation_iso: rus
+    name: сенгоский язык
+    auto: true
   - translation_iso: spa
     name: Sengo
     auto: true

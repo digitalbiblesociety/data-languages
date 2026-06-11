@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Simbali
     auto: true
+  - translation_iso: rus
+    name: симбалийский язык
+    auto: true
   - translation_iso: spa
     name: Simbali
     auto: true

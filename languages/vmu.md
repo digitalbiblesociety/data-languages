@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Muluridyi
     auto: true
+  - translation_iso: rus
+    name: мулуридйийский язык
+    auto: true
   - translation_iso: spa
     name: Muluridyi
     auto: true

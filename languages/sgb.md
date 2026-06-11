@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ayta Mag-antsi
     auto: true
+  - translation_iso: rus
+    name: маг-анци айтский язык
+    auto: true
   - translation_iso: spa
     name: Ayta Mag-antsi
     auto: true

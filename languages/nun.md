@@ -35,6 +35,9 @@ translations:
     name: 아눙어
   - translation_iso: por
     name: Língua nung
+  - translation_iso: rus
+    name: анонгский язык
+    auto: true
   - translation_iso: spa
     name: Anong
     auto: true

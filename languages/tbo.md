@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tawala
     auto: true
+  - translation_iso: rus
+    name: тавалский язык
+    auto: true
   - translation_iso: spa
     name: Tawala
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nama (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: намский язык
+    auto: true
   - translation_iso: spa
     name: Nama
     auto: true

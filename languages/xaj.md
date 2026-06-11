@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Ararandewára
     auto: true
+  - translation_iso: rus
+    name: арарандеварский язык
+    auto: true
   - translation_iso: spa
     name: Ararandewára
     auto: true

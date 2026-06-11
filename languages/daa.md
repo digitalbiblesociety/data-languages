@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dangaleat
+  - translation_iso: rus
+    name: дангалеатский язык
+    auto: true
   - translation_iso: spa
     name: Dangaléat
     auto: true

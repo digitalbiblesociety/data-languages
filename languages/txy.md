@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malgaxe Tanosy
     auto: true
+  - translation_iso: rus
+    name: таносй малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache tanosy
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Akeu
     auto: true
+  - translation_iso: rus
+    name: акеуский язык
+    auto: true
   - translation_iso: spa
     name: Akeu
     auto: true

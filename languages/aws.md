@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Awyu do Sul
     auto: true
+  - translation_iso: rus
+    name: сут авюский язык
+    auto: true
   - translation_iso: spa
     name: Awyu del Sur
     auto: true

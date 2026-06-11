@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: gbe de Gbesi
     auto: true
+  - translation_iso: rus
+    name: гбеси гбейский язык
+    auto: true
   - translation_iso: spa
     name: Gbesi Gbe
     auto: true

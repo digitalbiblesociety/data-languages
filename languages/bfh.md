@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Blafe
     auto: true
+  - translation_iso: rus
+    name: блафейский язык
+    auto: true
   - translation_iso: spa
     name: Blafe
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Matumbi
     auto: true
+  - translation_iso: rus
+    name: матумбийский язык
+    auto: true
   - translation_iso: spa
     name: Matumbi
     auto: true

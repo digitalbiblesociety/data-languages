@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dewoin
     auto: true
+  - translation_iso: rus
+    name: девоинский язык
+    auto: true
   - translation_iso: spa
     name: Dewoin
     auto: true

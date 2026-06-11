@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Danu
     auto: true
+  - translation_iso: rus
+    name: дануский язык
+    auto: true
   - translation_iso: spa
     name: Danu
     auto: true

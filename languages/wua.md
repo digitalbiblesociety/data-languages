@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wikngenchera
     auto: true
+  - translation_iso: rus
+    name: викнгенчерский язык
+    auto: true
   - translation_iso: spa
     name: idioma kugu nganhcara
   - translation_iso: zho

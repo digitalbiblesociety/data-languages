@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Changriwa
     auto: true
+  - translation_iso: rus
+    name: чангривский язык
+    auto: true
   - translation_iso: spa
     name: Changriwa
     auto: true

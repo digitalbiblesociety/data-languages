@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rmeet
     auto: true
+  - translation_iso: rus
+    name: рмитский язык
+    auto: true
   - translation_iso: spa
     name: Rmeet
     auto: true

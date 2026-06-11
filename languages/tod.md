@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Toma
     auto: true
+  - translation_iso: rus
+    name: томский язык
+    auto: true
   - translation_iso: spa
     name: Toma
     auto: true

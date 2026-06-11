@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Masiwang
     auto: true
+  - translation_iso: rus
+    name: масивангский язык
+    auto: true
   - translation_iso: spa
     name: Masiwang
     auto: true

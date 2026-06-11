@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malgaxe Tesaka
     auto: true
+  - translation_iso: rus
+    name: тесака малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache Tesaka
     auto: true

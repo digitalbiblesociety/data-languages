@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Limba oriental
     auto: true
+  - translation_iso: rus
+    name: еаст лимбский язык
+    auto: true
   - translation_iso: spa
     name: Limba oriental
     auto: true

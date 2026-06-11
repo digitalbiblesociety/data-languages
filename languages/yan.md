@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mayangna
     auto: true
+  - translation_iso: rus
+    name: маянгнский язык
+    auto: true
   - translation_iso: spa
     name: Mayangna
   - translation_iso: zho

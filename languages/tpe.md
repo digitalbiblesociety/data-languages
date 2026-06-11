@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tippera
     auto: true
+  - translation_iso: rus
+    name: типперский язык
+    auto: true
   - translation_iso: spa
     name: Tippera
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Idioma yuyu
+  - translation_iso: rus
+    name: ююский язык
+    auto: true
   - translation_iso: spa
     name: idioma yuyu
   - translation_iso: zho

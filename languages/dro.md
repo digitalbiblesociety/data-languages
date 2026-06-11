@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Melanau Daro-Matu
     auto: true
+  - translation_iso: rus
+    name: даро-мату меланауский язык
+    auto: true
   - translation_iso: spa
     name: Melanau Daro-Matu
     auto: true

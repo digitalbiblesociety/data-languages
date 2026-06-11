@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kelo
     auto: true
+  - translation_iso: rus
+    name: келоский язык
+    auto: true
   - translation_iso: spa
     name: Kelo
     auto: true

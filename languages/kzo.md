@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kaningi
     auto: true
+  - translation_iso: rus
+    name: канингийский язык
+    auto: true
   - translation_iso: spa
     name: Kaningi
     auto: true

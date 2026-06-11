@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Arandai
     auto: true
+  - translation_iso: rus
+    name: арандаийский язык
+    auto: true
   - translation_iso: spa
     name: Arandai
     auto: true

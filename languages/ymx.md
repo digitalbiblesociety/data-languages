@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: muji do norte
     auto: true
+  - translation_iso: rus
+    name: нортерн муджийский язык
+    auto: true
   - translation_iso: spa
     name: Muji septentrional
     auto: true

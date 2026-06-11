@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mungkip
     auto: true
+  - translation_iso: rus
+    name: мунгкипский язык
+    auto: true
   - translation_iso: spa
     name: Mungkip
     auto: true

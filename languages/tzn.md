@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tugun
     auto: true
+  - translation_iso: rus
+    name: тугунский язык
+    auto: true
   - translation_iso: spa
     name: Tugun
     auto: true

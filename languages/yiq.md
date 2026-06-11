@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: miqie
     auto: true
+  - translation_iso: rus
+    name: микиейский язык
+    auto: true
   - translation_iso: spa
     name: Miqie
     auto: true

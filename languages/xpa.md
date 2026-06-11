@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pirriya
     auto: true
+  - translation_iso: rus
+    name: пиррийский язык
+    auto: true
   - translation_iso: spa
     name: Pirriya
     auto: true

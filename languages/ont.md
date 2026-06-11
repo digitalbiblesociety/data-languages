@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Ontenu
     auto: true
+  - translation_iso: rus
+    name: онтенуский язык
+    auto: true
   - translation_iso: spa
     name: Ontenu
     auto: true

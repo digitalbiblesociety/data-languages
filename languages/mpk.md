@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbara (Chade)
     auto: true
+  - translation_iso: rus
+    name: мбарский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mbara
   - translation_iso: zho

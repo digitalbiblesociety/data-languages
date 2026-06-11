@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mahou
     auto: true
+  - translation_iso: rus
+    name: махуский язык
+    auto: true
   - translation_iso: spa
     name: Mahou
     auto: true

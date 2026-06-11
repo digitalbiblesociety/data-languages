@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Abon
     auto: true
+  - translation_iso: rus
+    name: абонский язык
+    auto: true
   - translation_iso: spa
     name: Abon
     auto: true

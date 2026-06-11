@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Orang Seletar
     auto: true
+  - translation_iso: rus
+    name: оранг селетарский язык
+    auto: true
   - translation_iso: spa
     name: Orang Seletar
     auto: true

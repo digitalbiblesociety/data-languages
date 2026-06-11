@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Umbu-Ungu
     auto: true
+  - translation_iso: rus
+    name: умбу-унгуский язык
+    auto: true
   - translation_iso: spa
     name: Umbu-Ungu
     auto: true

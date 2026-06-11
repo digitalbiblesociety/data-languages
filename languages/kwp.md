@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kodia
     auto: true
+  - translation_iso: rus
+    name: кодиский язык
+    auto: true
   - translation_iso: spa
     name: Kodia
     auto: true

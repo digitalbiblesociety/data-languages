@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kenyah Wahau
     auto: true
+  - translation_iso: rus
+    name: вахау кеняхский язык
+    auto: true
   - translation_iso: spa
     name: Wahau Kenyah
     auto: true

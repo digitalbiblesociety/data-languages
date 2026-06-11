@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Muak Sa-aak
     auto: true
+  - translation_iso: rus
+    name: муак са-аакский язык
+    auto: true
   - translation_iso: spa
     name: Muak Sa-aak
     auto: true

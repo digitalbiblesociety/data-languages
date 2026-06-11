@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: yabula yabula
     auto: true
+  - translation_iso: rus
+    name: ябула ябулский язык
+    auto: true
   - translation_iso: spa
     name: Idioma yabula-yabula
   - translation_iso: zho

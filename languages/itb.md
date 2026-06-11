@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Itneg Binongan
     auto: true
+  - translation_iso: rus
+    name: бинонган итнегский язык
+    auto: true
   - translation_iso: spa
     name: Itneg Binongan
     auto: true

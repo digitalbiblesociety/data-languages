@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Mixe de Quetzaltepec
     auto: true
+  - translation_iso: rus
+    name: кветзалтепек миксейский язык
+    auto: true
   - translation_iso: spa
     name: Mixe de Quetzaltepec
     auto: true

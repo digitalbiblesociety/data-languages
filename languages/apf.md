@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Agta de Pahanan
     auto: true
+  - translation_iso: rus
+    name: паханан агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta de Pahanan
     auto: true

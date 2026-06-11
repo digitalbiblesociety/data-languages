@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nimboran
     auto: true
+  - translation_iso: rus
+    name: нимборанский язык
+    auto: true
   - translation_iso: spa
     name: Nimboran
     auto: true

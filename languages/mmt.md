@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malalamai
     auto: true
+  - translation_iso: rus
+    name: малаламаийский язык
+    auto: true
   - translation_iso: spa
     name: Malalamai
   - translation_iso: zho

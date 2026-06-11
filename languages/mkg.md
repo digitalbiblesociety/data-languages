@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mak (China)
     auto: true
+  - translation_iso: rus
+    name: макский язык
+    auto: true
   - translation_iso: spa
     name: Mak
     auto: true

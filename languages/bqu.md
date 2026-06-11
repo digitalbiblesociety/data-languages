@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Boguru
     auto: true
+  - translation_iso: rus
+    name: богуруский язык
+    auto: true
   - translation_iso: spa
     name: Boguru
     auto: true

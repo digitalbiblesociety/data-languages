@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yeyi
     auto: true
+  - translation_iso: rus
+    name: ейийский язык
+    auto: true
   - translation_iso: spa
     name: Yeyi
     auto: true

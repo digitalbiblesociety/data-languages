@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Piti
     auto: true
+  - translation_iso: rus
+    name: питийский язык
+    auto: true
   - translation_iso: spa
     name: Piti
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ngurimi
     auto: true
+  - translation_iso: rus
+    name: нгуримийский язык
+    auto: true
   - translation_iso: spa
     name: Ngurimi
     auto: true

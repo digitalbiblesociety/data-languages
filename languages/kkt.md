@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koi
     auto: true
+  - translation_iso: rus
+    name: коийский язык
+    auto: true
   - translation_iso: spa
     name: Koi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Cerma
     auto: true
+  - translation_iso: rus
+    name: кермский язык
+    auto: true
   - translation_iso: spa
     name: cerma
   - translation_iso: zho

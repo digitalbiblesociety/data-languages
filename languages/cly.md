@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chatino das terras altas orientais
     auto: true
+  - translation_iso: rus
+    name: еастерн хигхланд чатиноский язык
+    auto: true
   - translation_iso: spa
     name: Chatino de las Tierras Altas Orientales
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Hoti
+  - translation_iso: rus
+    name: хотийский язык
+    auto: true
   - translation_iso: spa
     name: Hoti
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua de sinais neerlandesa
+  - translation_iso: rus
+    name: дуч сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas neerlandesa
   - translation_iso: zho

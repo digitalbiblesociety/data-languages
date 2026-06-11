@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Agta do Monte Iriga
     auto: true
+  - translation_iso: rus
+    name: мт ирига агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta del monte Iriga
     auto: true

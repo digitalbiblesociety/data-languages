@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Wagdi
+  - translation_iso: rus
+    name: вагдийский язык
+    auto: true
   - translation_iso: spa
     name: Wagdi
   - translation_iso: zho

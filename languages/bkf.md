@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Beeke
     auto: true
+  - translation_iso: rus
+    name: бикейский язык
+    auto: true
   - translation_iso: spa
     name: Beeke
     auto: true

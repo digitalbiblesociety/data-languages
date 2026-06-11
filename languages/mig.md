@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de San Miguel El Grande
     auto: true
+  - translation_iso: rus
+    name: сан мигуел ел гранде микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de San Miguel el Grande
     auto: true

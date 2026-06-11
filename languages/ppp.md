@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Pelende
     auto: true
+  - translation_iso: rus
+    name: пелендейский язык
+    auto: true
   - translation_iso: spa
     name: Pelende
     auto: true

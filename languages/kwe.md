@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kwerba
     auto: true
+  - translation_iso: rus
+    name: квербский язык
+    auto: true
   - translation_iso: spa
     name: Kwerba
     auto: true

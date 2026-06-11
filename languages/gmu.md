@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gumalu
     auto: true
+  - translation_iso: rus
+    name: гумалуский язык
+    auto: true
   - translation_iso: spa
     name: Gumalu
     auto: true

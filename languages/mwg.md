@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Aiklep
     auto: true
+  - translation_iso: rus
+    name: аиклепский язык
+    auto: true
   - translation_iso: spa
     name: Aiklep
     auto: true

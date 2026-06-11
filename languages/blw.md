@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua balangao
+  - translation_iso: rus
+    name: балангаоский язык
+    auto: true
   - translation_iso: spa
     name: Balangao
     auto: true

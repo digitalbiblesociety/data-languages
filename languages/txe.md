@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Totoli
     auto: true
+  - translation_iso: rus
+    name: тотолийский язык
+    auto: true
   - translation_iso: spa
     name: Totoli
     auto: true

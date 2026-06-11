@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dampelas
     auto: true
+  - translation_iso: rus
+    name: дампеласский язык
+    auto: true
   - translation_iso: spa
     name: Dampelas
     auto: true

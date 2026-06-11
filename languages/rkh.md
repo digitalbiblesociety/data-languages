@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua rakahanga
+  - translation_iso: rus
+    name: ракаханга-манихикийский язык
+    auto: true
   - translation_iso: spa
     name: Rakahanga-Manihiki
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Butmas-Tur
     auto: true
+  - translation_iso: rus
+    name: бутмас-турский язык
+    auto: true
   - translation_iso: spa
     name: Butmas-Tur
     auto: true

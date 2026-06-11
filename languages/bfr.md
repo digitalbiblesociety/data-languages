@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bazigar
     auto: true
+  - translation_iso: rus
+    name: базигарский язык
+    auto: true
   - translation_iso: spa
     name: Bazigar
     auto: true

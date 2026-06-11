@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: zimba
     auto: true
+  - translation_iso: rus
+    name: зимбский язык
+    auto: true
   - translation_iso: spa
     name: Zimba
     auto: true

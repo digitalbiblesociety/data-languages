@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Agob
     auto: true
+  - translation_iso: rus
+    name: агобский язык
+    auto: true
   - translation_iso: spa
     name: Agob
     auto: true

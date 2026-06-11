@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Borong
     auto: true
+  - translation_iso: rus
+    name: боронгский язык
+    auto: true
   - translation_iso: spa
     name: Borong
     auto: true

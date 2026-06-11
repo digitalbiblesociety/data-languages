@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Warnman
     auto: true
+  - translation_iso: rus
+    name: варнманский язык
+    auto: true
   - translation_iso: spa
     name: Warnman
     auto: true

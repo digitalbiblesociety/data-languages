@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kunyi
     auto: true
+  - translation_iso: rus
+    name: кунйийский язык
+    auto: true
   - translation_iso: spa
     name: Kunyi
     auto: true

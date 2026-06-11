@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mada (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: мадский язык
+    auto: true
   - translation_iso: spa
     name: Mada (Nigeria)
     auto: true

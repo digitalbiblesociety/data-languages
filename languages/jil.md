@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jilim
     auto: true
+  - translation_iso: rus
+    name: джилимский язык
+    auto: true
   - translation_iso: spa
     name: Jilim
     auto: true

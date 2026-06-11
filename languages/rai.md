@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ramoaaina
+  - translation_iso: rus
+    name: рамоааинский язык
+    auto: true
   - translation_iso: spa
     name: Ramoaaina
   - translation_iso: zho

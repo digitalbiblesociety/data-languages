@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tauya
     auto: true
+  - translation_iso: rus
+    name: тауйский язык
+    auto: true
   - translation_iso: spa
     name: Tauya
   - translation_iso: zho

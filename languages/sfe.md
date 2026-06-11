@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Subanen Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн субаненский язык
+    auto: true
   - translation_iso: spa
     name: Subanen Oriental
     auto: true

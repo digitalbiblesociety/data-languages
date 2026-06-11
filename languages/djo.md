@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Jangkang
     auto: true
+  - translation_iso: rus
+    name: янгкангский язык
+    auto: true
   - translation_iso: spa
     name: Jangkang
     auto: true

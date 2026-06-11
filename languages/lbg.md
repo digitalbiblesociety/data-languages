@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Laopang
     auto: true
+  - translation_iso: rus
+    name: лаопангский язык
+    auto: true
   - translation_iso: spa
     name: Laopang
     auto: true

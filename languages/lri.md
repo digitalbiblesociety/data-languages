@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Marachi
     auto: true
+  - translation_iso: rus
+    name: марачийский язык
+    auto: true
   - translation_iso: spa
     name: Marachi
     auto: true

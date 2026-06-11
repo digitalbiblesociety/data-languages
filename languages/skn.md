@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Subanon Kolibugan
     auto: true
+  - translation_iso: rus
+    name: колибуган субанонский язык
+    auto: true
   - translation_iso: spa
     name: Subanon Kolibugan
     auto: true

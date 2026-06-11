@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyindu
     auto: true
+  - translation_iso: rus
+    name: нйиндуский язык
+    auto: true
   - translation_iso: spa
     name: Nyindu
     auto: true

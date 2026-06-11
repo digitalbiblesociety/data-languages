@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Janji
     auto: true
+  - translation_iso: rus
+    name: янджийский язык
+    auto: true
   - translation_iso: spa
     name: Janji
     auto: true

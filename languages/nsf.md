@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nisu Noroeste
     auto: true
+  - translation_iso: rus
+    name: нортвестерн нисуский язык
+    auto: true
   - translation_iso: spa
     name: Nisu Noroccidental
     auto: true

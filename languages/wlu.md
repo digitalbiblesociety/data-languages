@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wuliwuli
     auto: true
+  - translation_iso: rus
+    name: вуливулийский язык
+    auto: true
   - translation_iso: spa
     name: idioma wuliwuli
   - translation_iso: zho

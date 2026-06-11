@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bhil Sindi
     auto: true
+  - translation_iso: rus
+    name: синдхи бхильский язык
+    auto: true
   - translation_iso: spa
     name: Bhil sindhi
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dengese
     auto: true
+  - translation_iso: rus
+    name: денгесейский язык
+    auto: true
   - translation_iso: spa
     name: Dengese
     auto: true

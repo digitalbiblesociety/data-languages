@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mankania
+  - translation_iso: rus
+    name: манканйский язык
+    auto: true
   - translation_iso: spa
     name: Mankanya
     auto: true

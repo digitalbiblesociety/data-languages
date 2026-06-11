@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Seeku
     auto: true
+  - translation_iso: rus
+    name: сикуский язык
+    auto: true
   - translation_iso: spa
     name: Seeku
     auto: true

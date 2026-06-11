@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mingang Doso
     auto: true
+  - translation_iso: rus
+    name: минганг досоский язык
+    auto: true
   - translation_iso: spa
     name: Mingang Doso
     auto: true

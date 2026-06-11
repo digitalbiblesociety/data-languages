@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nhuwala
     auto: true
+  - translation_iso: rus
+    name: нхувалский язык
+    auto: true
   - translation_iso: spa
     name: Nhuwala
     auto: true

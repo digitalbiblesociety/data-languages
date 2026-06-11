@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wandji
     auto: true
+  - translation_iso: rus
+    name: вандджийский язык
+    auto: true
   - translation_iso: spa
     name: Wandji
     auto: true

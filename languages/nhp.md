@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl do Istmo-Pajapan
     auto: true
+  - translation_iso: rus
+    name: истмус-паяпан нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Istmo-Pajapan
     auto: true

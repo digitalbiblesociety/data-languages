@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Akpes
     auto: true
+  - translation_iso: rus
+    name: акпесский язык
+    auto: true
   - translation_iso: spa
     name: Akpes
     auto: true

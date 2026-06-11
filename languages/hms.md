@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Miao Qiandong do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн киандонг миаоский язык
+    auto: true
   - translation_iso: spa
     name: Miao Qiandong meridional
     auto: true

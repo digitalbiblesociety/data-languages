@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mulam
     auto: true
+  - translation_iso: rus
+    name: муламский язык
+    auto: true
   - translation_iso: spa
     name: Mulam
     auto: true

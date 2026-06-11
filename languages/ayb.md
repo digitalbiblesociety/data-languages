@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ayizo Gbe
     auto: true
+  - translation_iso: rus
+    name: айизо гбейский язык
+    auto: true
   - translation_iso: spa
     name: Ayizo Gbe
     auto: true

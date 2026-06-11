@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Koda
     auto: true
+  - translation_iso: rus
+    name: кодский язык
+    auto: true
   - translation_iso: spa
     name: Koda
     auto: true

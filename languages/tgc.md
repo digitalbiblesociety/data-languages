@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tigak
+  - translation_iso: rus
+    name: тигакский язык
+    auto: true
   - translation_iso: spa
     name: Tigak
     auto: true

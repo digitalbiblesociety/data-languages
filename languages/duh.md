@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bhil Dungra
     auto: true
+  - translation_iso: rus
+    name: дунгра бхильский язык
+    auto: true
   - translation_iso: spa
     name: Dungra Bhil
     auto: true

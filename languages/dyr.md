@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dyarim
     auto: true
+  - translation_iso: rus
+    name: дяримский язык
+    auto: true
   - translation_iso: spa
     name: Dyarim
     auto: true

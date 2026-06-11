@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bhoti Kinnauri
     auto: true
+  - translation_iso: rus
+    name: бхоти киннаурийский язык
+    auto: true
   - translation_iso: spa
     name: Bhoti Kinnauri
     auto: true

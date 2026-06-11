@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hote
     auto: true
+  - translation_iso: rus
+    name: хотейский язык
+    auto: true
   - translation_iso: spa
     name: Hote
   - translation_iso: zho

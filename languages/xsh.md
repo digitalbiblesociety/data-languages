@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Shamang
     auto: true
+  - translation_iso: rus
+    name: шамангский язык
+    auto: true
   - translation_iso: spa
     name: Shamang
     auto: true

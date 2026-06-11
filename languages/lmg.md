@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lamogai
     auto: true
+  - translation_iso: rus
+    name: ламогаийский язык
+    auto: true
   - translation_iso: spa
     name: Lamogai
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tumleo
     auto: true
+  - translation_iso: rus
+    name: тумлеоский язык
+    auto: true
   - translation_iso: spa
     name: Tumleo
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dia
     auto: true
+  - translation_iso: rus
+    name: диский язык
+    auto: true
   - translation_iso: spa
     name: Dia
     auto: true

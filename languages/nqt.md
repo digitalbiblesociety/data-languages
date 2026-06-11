@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nteng
     auto: true
+  - translation_iso: rus
+    name: нтенгский язык
+    auto: true
   - translation_iso: spa
     name: Nteng
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Itneg Inlaod
     auto: true
+  - translation_iso: rus
+    name: инлаод итнегский язык
+    auto: true
   - translation_iso: spa
     name: Itneg Inlaod
     auto: true

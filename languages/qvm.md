@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Margos-Yarowilca-Lauricocha
     auto: true
+  - translation_iso: rus
+    name: маргос-яровилка-лаурикоча квечуский язык
+    auto: true
   - translation_iso: spa
     name: quechua de Margos-Yarowilca-Lauricocha
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lahanan
     auto: true
+  - translation_iso: rus
+    name: лахананский язык
+    auto: true
   - translation_iso: spa
     name: Lahanan
     auto: true

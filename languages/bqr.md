@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Burusu
     auto: true
+  - translation_iso: rus
+    name: бурусуский язык
+    auto: true
   - translation_iso: spa
     name: Burusu
     auto: true

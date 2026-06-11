@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mashi (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: машийский язык
+    auto: true
   - translation_iso: spa
     name: Mashi (Nigeria)
     auto: true

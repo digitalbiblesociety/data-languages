@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Beginci
     auto: true
+  - translation_iso: rus
+    name: бегинкирский язык
+    auto: true
   - translation_iso: spa
     name: Beginci
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kanjari
     auto: true
+  - translation_iso: rus
+    name: канярийский язык
+    auto: true
   - translation_iso: spa
     name: Kanjari
     auto: true

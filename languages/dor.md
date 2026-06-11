@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Dori'o"
     auto: true
+  - translation_iso: rus
+    name: дориоский язык
+    auto: true
   - translation_iso: spa
     name: "Dori'o"
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: sonaga
     auto: true
+  - translation_iso: rus
+    name: сонагский язык
+    auto: true
   - translation_iso: spa
     name: Sonaga
     auto: true

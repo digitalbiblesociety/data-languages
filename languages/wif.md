@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wik-Keyangan
     auto: true
+  - translation_iso: rus
+    name: вик-кеянганский язык
+    auto: true
   - translation_iso: spa
     name: Wik-Keyangan
     auto: true

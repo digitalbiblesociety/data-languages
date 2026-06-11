@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pumi Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн пумийский язык
+    auto: true
   - translation_iso: spa
     name: Pumi septentrional
     auto: true

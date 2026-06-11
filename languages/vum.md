@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vumbu
     auto: true
+  - translation_iso: rus
+    name: вумбуский язык
+    auto: true
   - translation_iso: spa
     name: Vumbu
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Murut de Keningau
     auto: true
+  - translation_iso: rus
+    name: кенингау мурутский язык
+    auto: true
   - translation_iso: spa
     name: Murut de Keningau
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Thiin
     auto: true
+  - translation_iso: rus
+    name: тиинский язык
+    auto: true
   - translation_iso: spa
     name: Thiin
     auto: true

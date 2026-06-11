@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gaulês Cisalpino
     auto: true
+  - translation_iso: rus
+    name: кисалпине гаулишский язык
+    auto: true
   - translation_iso: spa
     name: galo cisalpino
   - translation_iso: zho

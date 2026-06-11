@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Parauk
     auto: true
+  - translation_iso: rus
+    name: параукский язык
+    auto: true
   - translation_iso: spa
     name: Parauk
     auto: true

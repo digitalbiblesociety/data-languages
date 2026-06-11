@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ngalum
+  - translation_iso: rus
+    name: нгалумский язык
+    auto: true
   - translation_iso: spa
     name: Ngalum
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Monzombo
     auto: true
+  - translation_iso: rus
+    name: монзомбоский язык
+    auto: true
   - translation_iso: spa
     name: Monzombo
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Manobo sarangani
     auto: true
+  - translation_iso: rus
+    name: сарангани манобоский язык
+    auto: true
   - translation_iso: spa
     name: Manobo de Sarangani
     auto: true

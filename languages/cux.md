@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Cuicateco de Tepeuxila
     auto: true
+  - translation_iso: rus
+    name: тепеуксила куикатекский язык
+    auto: true
   - translation_iso: spa
     name: Cuicateco de Tepeuxila
     auto: true

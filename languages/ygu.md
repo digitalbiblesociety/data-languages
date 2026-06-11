@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yugul
     auto: true
+  - translation_iso: rus
+    name: югульский язык
+    auto: true
   - translation_iso: spa
     name: Yugul
     auto: true

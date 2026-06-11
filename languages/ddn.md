@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dendi
+  - translation_iso: rus
+    name: дендийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma dendi
   - translation_iso: zho

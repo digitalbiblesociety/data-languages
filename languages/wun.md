@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bungu
     auto: true
+  - translation_iso: rus
+    name: бунгуский язык
+    auto: true
   - translation_iso: spa
     name: Bungu
     auto: true

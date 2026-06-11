@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lelepa
     auto: true
+  - translation_iso: rus
+    name: лелепский язык
+    auto: true
   - translation_iso: spa
     name: Lelepa
     auto: true

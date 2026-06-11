@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pahari
     auto: true
+  - translation_iso: rus
+    name: пахарийский язык
+    auto: true
   - translation_iso: spa
     name: Pahari
     auto: true

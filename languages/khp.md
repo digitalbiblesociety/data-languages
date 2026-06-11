@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kapori
     auto: true
+  - translation_iso: rus
+    name: капорийский язык
+    auto: true
   - translation_iso: spa
     name: Kapori
     auto: true

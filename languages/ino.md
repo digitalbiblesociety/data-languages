@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Inoke-Yate
     auto: true
+  - translation_iso: rus
+    name: иноке-ятейский язык
+    auto: true
   - translation_iso: spa
     name: Inoke-Yate
     auto: true

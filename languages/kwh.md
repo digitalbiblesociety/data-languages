@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kowiai
     auto: true
+  - translation_iso: rus
+    name: ковиаийский язык
+    auto: true
   - translation_iso: spa
     name: Kowiai
     auto: true

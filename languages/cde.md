@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chenchu
     auto: true
+  - translation_iso: rus
+    name: ченчуский язык
+    auto: true
   - translation_iso: spa
     name: Chenchu
     auto: true

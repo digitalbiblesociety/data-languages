@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Urat
     auto: true
+  - translation_iso: rus
+    name: уратский язык
+    auto: true
   - translation_iso: spa
     name: Urat
     auto: true

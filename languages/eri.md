@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ogea
     auto: true
+  - translation_iso: rus
+    name: огеский язык
+    auto: true
   - translation_iso: spa
     name: Ogea
     auto: true

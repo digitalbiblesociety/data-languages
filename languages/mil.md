@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de Peñoles
     auto: true
+  - translation_iso: rus
+    name: пеньолес микстекский язык
+    auto: true
   - translation_iso: spa
     name: mixteco de Peñoles
   - translation_iso: zho

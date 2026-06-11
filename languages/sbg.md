@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Seget
     auto: true
+  - translation_iso: rus
+    name: сегетский язык
+    auto: true
   - translation_iso: spa
     name: Seget
     auto: true

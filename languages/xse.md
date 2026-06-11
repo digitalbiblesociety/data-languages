@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sempan
     auto: true
+  - translation_iso: rus
+    name: семпанский язык
+    auto: true
   - translation_iso: spa
     name: Sempan
     auto: true

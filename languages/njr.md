@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua njerep
+  - translation_iso: rus
+    name: нерепский язык
+    auto: true
   - translation_iso: spa
     name: Njerep
     auto: true

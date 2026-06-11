@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: khmer antigo
     auto: true
+  - translation_iso: rus
+    name: олд хмерский язык
+    auto: true
   - translation_iso: spa
     name: Jemer antiguo
   - translation_iso: zho

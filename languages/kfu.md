@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Katkari
     auto: true
+  - translation_iso: rus
+    name: каткарийский язык
+    auto: true
   - translation_iso: spa
     name: Katkari
     auto: true

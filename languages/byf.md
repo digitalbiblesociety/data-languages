@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bete
     auto: true
+  - translation_iso: rus
+    name: бетейский язык
+    auto: true
   - translation_iso: spa
     name: bete
   - translation_iso: zho

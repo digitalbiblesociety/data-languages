@@ -41,6 +41,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bekati
+  - translation_iso: rus
+    name: бекатийский язык
+    auto: true
   - translation_iso: spa
     name: Bekati
     auto: true

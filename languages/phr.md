@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pahari-Potwari
     auto: true
+  - translation_iso: rus
+    name: пахари-потварийский язык
+    auto: true
   - translation_iso: spa
     name: Pahari-Potwari
     auto: true

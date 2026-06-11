@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Misima-Panaeati
     auto: true
+  - translation_iso: rus
+    name: мисима-панаеатийский язык
+    auto: true
   - translation_iso: spa
     name: Misima-Panaeati
     auto: true

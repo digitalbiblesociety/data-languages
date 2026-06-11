@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kupa
     auto: true
+  - translation_iso: rus
+    name: купский язык
+    auto: true
   - translation_iso: spa
     name: Kupa
     auto: true

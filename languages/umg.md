@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Morrobalama
     auto: true
+  - translation_iso: rus
+    name: морробаламский язык
+    auto: true
   - translation_iso: spa
     name: Idioma umbuygamu
   - translation_iso: zho

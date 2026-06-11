@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogosé
     auto: true
+  - translation_iso: rus
+    name: догосейский язык
+    auto: true
   - translation_iso: spa
     name: Dogosé
     auto: true

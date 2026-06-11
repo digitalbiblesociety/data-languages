@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Topoiyo
     auto: true
+  - translation_iso: rus
+    name: топоийоский язык
+    auto: true
   - translation_iso: spa
     name: Topoiyo
     auto: true

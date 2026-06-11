@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Puare
     auto: true
+  - translation_iso: rus
+    name: пуарейский язык
+    auto: true
   - translation_iso: spa
     name: Puare
     auto: true

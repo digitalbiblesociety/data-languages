@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lefa
     auto: true
+  - translation_iso: rus
+    name: лефский язык
+    auto: true
   - translation_iso: spa
     name: Lefa
     auto: true

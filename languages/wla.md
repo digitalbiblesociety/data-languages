@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Walio
     auto: true
+  - translation_iso: rus
+    name: валиоский язык
+    auto: true
   - translation_iso: spa
     name: Walio
     auto: true

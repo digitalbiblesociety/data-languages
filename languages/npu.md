@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Naga Puimei
     auto: true
+  - translation_iso: rus
+    name: пуимеи нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Puimei
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kisankasa
     auto: true
+  - translation_iso: rus
+    name: кисанкасский язык
+    auto: true
   - translation_iso: spa
     name: Kisankasa
     auto: true

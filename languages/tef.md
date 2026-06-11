@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Teressa
     auto: true
+  - translation_iso: rus
+    name: терессский язык
+    auto: true
   - translation_iso: spa
     name: Teressa
     auto: true

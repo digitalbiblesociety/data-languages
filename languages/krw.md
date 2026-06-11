@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Krahn ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн крахнский язык
+    auto: true
   - translation_iso: spa
     name: Krahn Occidental
     auto: true

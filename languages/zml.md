@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Matngala
     auto: true
+  - translation_iso: rus
+    name: матнгалский язык
+    auto: true
   - translation_iso: spa
     name: Matngala
     auto: true

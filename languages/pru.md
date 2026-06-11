@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Puragi
     auto: true
+  - translation_iso: rus
+    name: пурагийский язык
+    auto: true
   - translation_iso: spa
     name: Puragi
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bepour
     auto: true
+  - translation_iso: rus
+    name: бепурский язык
+    auto: true
   - translation_iso: spa
     name: Bepour
     auto: true

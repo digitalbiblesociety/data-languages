@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tidung Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн тидунгский язык
+    auto: true
   - translation_iso: spa
     name: Tidung Septentrional
     auto: true

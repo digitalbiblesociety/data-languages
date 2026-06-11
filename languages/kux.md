@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kukatja
     auto: true
+  - translation_iso: rus
+    name: кукатйский язык
+    auto: true
   - translation_iso: spa
     name: Kukatja
     auto: true

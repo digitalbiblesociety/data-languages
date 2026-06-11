@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Elu
     auto: true
+  - translation_iso: rus
+    name: елуский язык
+    auto: true
   - translation_iso: spa
     name: Elu
     auto: true

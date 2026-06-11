@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mubami
     auto: true
+  - translation_iso: rus
+    name: мубамийский язык
+    auto: true
   - translation_iso: spa
     name: Mubami
     auto: true

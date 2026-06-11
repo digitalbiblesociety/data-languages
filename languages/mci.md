@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mese
     auto: true
+  - translation_iso: rus
+    name: месейский язык
+    auto: true
   - translation_iso: spa
     name: Mese
     auto: true

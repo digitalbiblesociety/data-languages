@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sengele
     auto: true
+  - translation_iso: rus
+    name: сенгелейский язык
+    auto: true
   - translation_iso: spa
     name: Sengele
     auto: true

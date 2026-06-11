@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kirikiri
     auto: true
+  - translation_iso: rus
+    name: кирикирийский язык
+    auto: true
   - translation_iso: spa
     name: Kirikiri
     auto: true

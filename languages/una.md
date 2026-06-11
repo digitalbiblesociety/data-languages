@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Watut Setentrional
     auto: true
+  - translation_iso: rus
+    name: норт ватутский язык
+    auto: true
   - translation_iso: spa
     name: Watut del Norte
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ibuoro
     auto: true
+  - translation_iso: rus
+    name: ибуороский язык
+    auto: true
   - translation_iso: spa
     name: Ibuoro
     auto: true

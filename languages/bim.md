@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bimoba
     auto: true
+  - translation_iso: rus
+    name: бимобский язык
+    auto: true
   - translation_iso: spa
     name: Bimoba
     auto: true

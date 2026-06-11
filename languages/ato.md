@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Atong (Camarões)
     auto: true
+  - translation_iso: rus
+    name: атонгский язык
+    auto: true
   - translation_iso: spa
     name: Atong (Camerún)
     auto: true

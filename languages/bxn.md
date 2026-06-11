@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Burduna
     auto: true
+  - translation_iso: rus
+    name: бурдунский язык
+    auto: true
   - translation_iso: spa
     name: Burduna
     auto: true

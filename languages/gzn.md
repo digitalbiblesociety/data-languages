@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gane
     auto: true
+  - translation_iso: rus
+    name: ганейский язык
+    auto: true
   - translation_iso: spa
     name: Gane
     auto: true

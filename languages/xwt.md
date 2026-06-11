@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: wotjobaluk
     auto: true
+  - translation_iso: rus
+    name: вотйобалукский язык
+    auto: true
   - translation_iso: spa
     name: Wotjobaluk
     auto: true

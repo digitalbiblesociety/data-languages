@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gundi
     auto: true
+  - translation_iso: rus
+    name: гундийский язык
+    auto: true
   - translation_iso: spa
     name: Gundi
     auto: true

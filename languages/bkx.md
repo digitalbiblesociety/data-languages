@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Baikeno
     auto: true
+  - translation_iso: rus
+    name: баикеноский язык
+    auto: true
   - translation_iso: spa
     name: Baikeno
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Aguna
     auto: true
+  - translation_iso: rus
+    name: агунский язык
+    auto: true
   - translation_iso: spa
     name: Idioma aguna
   - translation_iso: zho

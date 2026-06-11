@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ma (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: мский язык
+    auto: true
   - translation_iso: spa
     name: Ma (Papúa Nueva Guinea)
     auto: true

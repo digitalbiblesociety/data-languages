@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ama (Sudão)
     auto: true
+  - translation_iso: rus
+    name: амский язык
+    auto: true
   - translation_iso: spa
     name: Ama (Sudán)
     auto: true

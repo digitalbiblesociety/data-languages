@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gana
     auto: true
+  - translation_iso: rus
+    name: ганский язык
+    auto: true
   - translation_iso: spa
     name: Gana
     auto: true

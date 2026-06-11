@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malavedan
     auto: true
+  - translation_iso: rus
+    name: малаведанский язык
+    auto: true
   - translation_iso: spa
     name: Malavedan
     auto: true

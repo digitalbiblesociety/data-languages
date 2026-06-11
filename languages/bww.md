@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bwa
     auto: true
+  - translation_iso: rus
+    name: бвский язык
+    auto: true
   - translation_iso: spa
     name: Bwa
     auto: true

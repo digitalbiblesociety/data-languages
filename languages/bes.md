@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua besme
+  - translation_iso: rus
+    name: бесмейский язык
+    auto: true
   - translation_iso: spa
     name: Besme
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: por
     name: Buu (Camarões)
     auto: true
+  - translation_iso: rus
+    name: бууский язык
+    auto: true
   - translation_iso: spa
     name: Buu
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: zeem
     auto: true
+  - translation_iso: rus
+    name: зимский язык
+    auto: true
   - translation_iso: spa
     name: Zeem
     auto: true

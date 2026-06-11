@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano de Bruny Island
     auto: true
+  - translation_iso: rus
+    name: брунй исланд тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio de la isla Bruny
     auto: true

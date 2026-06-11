@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gao
     auto: true
+  - translation_iso: rus
+    name: гаоский язык
+    auto: true
   - translation_iso: spa
     name: Gao
   - translation_iso: zho

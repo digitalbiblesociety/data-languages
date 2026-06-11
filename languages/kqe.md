@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kalagan
     auto: true
+  - translation_iso: rus
+    name: калаганский язык
+    auto: true
   - translation_iso: spa
     name: Kalagan
     auto: true

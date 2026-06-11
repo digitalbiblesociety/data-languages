@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Disa
     auto: true
+  - translation_iso: rus
+    name: дисский язык
+    auto: true
   - translation_iso: spa
     name: Disa
     auto: true

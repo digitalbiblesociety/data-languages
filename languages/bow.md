@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Rema
     auto: true
+  - translation_iso: rus
+    name: ремский язык
+    auto: true
   - translation_iso: spa
     name: Rema
     auto: true

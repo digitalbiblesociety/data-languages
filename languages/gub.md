@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua guajajara
+  - translation_iso: rus
+    name: гуаяджарский язык
+    auto: true
   - translation_iso: spa
     name: Guajajára
     auto: true

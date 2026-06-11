@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Malaio de Larantuka
     auto: true
+  - translation_iso: rus
+    name: ларантука малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo de Larantuka
     auto: true

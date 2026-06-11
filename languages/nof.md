@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nomane
     auto: true
+  - translation_iso: rus
+    name: номанейский язык
+    auto: true
   - translation_iso: spa
     name: Nomane
     auto: true

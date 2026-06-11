@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Rawang
     auto: true
+  - translation_iso: rus
+    name: равангский язык
+    auto: true
   - translation_iso: spa
     name: Rawang
     auto: true

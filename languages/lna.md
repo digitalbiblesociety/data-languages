@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Langbashe
     auto: true
+  - translation_iso: rus
+    name: лангбашейский язык
+    auto: true
   - translation_iso: spa
     name: Langbashe
     auto: true

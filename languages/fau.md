@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Fayu
     auto: true
+  - translation_iso: rus
+    name: фаюский язык
+    auto: true
   - translation_iso: spa
     name: Fayu
     auto: true

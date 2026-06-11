@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Guiberoua Béte
     auto: true
+  - translation_iso: rus
+    name: гуиберуа бетейский язык
+    auto: true
   - translation_iso: spa
     name: Béte de Guiberoua
     auto: true

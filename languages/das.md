@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Daho-Doo
     auto: true
+  - translation_iso: rus
+    name: дахо-дуский язык
+    auto: true
   - translation_iso: spa
     name: Daho-Doo
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Indri
     auto: true
+  - translation_iso: rus
+    name: индрийский язык
+    auto: true
   - translation_iso: spa
     name: Indri
     auto: true

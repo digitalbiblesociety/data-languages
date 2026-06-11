@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Javindo
     auto: true
+  - translation_iso: rus
+    name: явиндоский язык
+    auto: true
   - translation_iso: spa
     name: Criollo Javindo
   - translation_iso: zho

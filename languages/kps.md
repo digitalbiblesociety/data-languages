@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tehit
     auto: true
+  - translation_iso: rus
+    name: техитский язык
+    auto: true
   - translation_iso: spa
     name: Tehit
     auto: true

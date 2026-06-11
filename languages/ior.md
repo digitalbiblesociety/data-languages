@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua inor
+  - translation_iso: rus
+    name: инорский язык
+    auto: true
   - translation_iso: spa
     name: Inor
     auto: true

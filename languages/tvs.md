@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Taveta
     auto: true
+  - translation_iso: rus
+    name: таветский язык
+    auto: true
   - translation_iso: spa
     name: Taveta
     auto: true

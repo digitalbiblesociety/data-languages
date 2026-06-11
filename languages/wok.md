@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Longto
     auto: true
+  - translation_iso: rus
+    name: лонгтоский язык
+    auto: true
   - translation_iso: spa
     name: Longto
     auto: true

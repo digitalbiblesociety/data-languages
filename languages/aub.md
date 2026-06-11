@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Alugu
     auto: true
+  - translation_iso: rus
+    name: алугуский язык
+    auto: true
   - translation_iso: spa
     name: Alugu
     auto: true

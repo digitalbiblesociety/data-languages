@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kulango de Bondoukou
     auto: true
+  - translation_iso: rus
+    name: бондуку кулангоский язык
+    auto: true
   - translation_iso: spa
     name: Kulango de Bondoukou
     auto: true

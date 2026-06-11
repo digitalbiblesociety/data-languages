@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de San Juan Colorado
     auto: true
+  - translation_iso: rus
+    name: сан юан колорадо микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de San Juan Colorado
     auto: true

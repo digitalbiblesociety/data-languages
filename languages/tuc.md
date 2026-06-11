@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mutu
     auto: true
+  - translation_iso: rus
+    name: мутуский язык
+    auto: true
   - translation_iso: spa
     name: Mutu
   - translation_iso: zho

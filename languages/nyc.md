@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyanga-li
     auto: true
+  - translation_iso: rus
+    name: нянга-лийский язык
+    auto: true
   - translation_iso: spa
     name: Nyanga-li
     auto: true

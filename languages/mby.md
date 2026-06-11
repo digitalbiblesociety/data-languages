@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Memoni
     auto: true
+  - translation_iso: rus
+    name: мемонийский язык
+    auto: true
   - translation_iso: spa
     name: Memoni
     auto: true

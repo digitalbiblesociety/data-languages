@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tooro
     auto: true
+  - translation_iso: rus
+    name: туроский язык
+    auto: true
   - translation_iso: spa
     name: Tooro
     auto: true

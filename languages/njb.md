@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga Nocte
     auto: true
+  - translation_iso: rus
+    name: нокте нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Nocte
     auto: true

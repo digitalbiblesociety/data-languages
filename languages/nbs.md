@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais da Namíbia
+  - translation_iso: rus
+    name: намибиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Namibia
     auto: true

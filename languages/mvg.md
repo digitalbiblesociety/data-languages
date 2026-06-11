@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de Yucuañe
     auto: true
+  - translation_iso: rus
+    name: юкуанье микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Yucuañe
     auto: true

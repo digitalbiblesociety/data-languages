@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Ngombale
     auto: true
+  - translation_iso: rus
+    name: нгомбалейский язык
+    auto: true
   - translation_iso: spa
     name: Ngombale
     auto: true

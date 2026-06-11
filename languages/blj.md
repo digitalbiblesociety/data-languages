@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Bolongan
     auto: true
+  - translation_iso: rus
+    name: болонганский язык
+    auto: true
   - translation_iso: spa
     name: Bolongan
     auto: true

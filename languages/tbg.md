@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tairora do Norte
     auto: true
+  - translation_iso: rus
+    name: норт таирорский язык
+    auto: true
   - translation_iso: spa
     name: Tairora del Norte
     auto: true

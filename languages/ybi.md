@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yamphu
     auto: true
+  - translation_iso: rus
+    name: ямфуский язык
+    auto: true
   - translation_iso: spa
     name: idioma yamphu
   - translation_iso: zho

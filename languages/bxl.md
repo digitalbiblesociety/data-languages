@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jalkunan
     auto: true
+  - translation_iso: rus
+    name: ялкунанский язык
+    auto: true
   - translation_iso: spa
     name: Jalkunan
     auto: true

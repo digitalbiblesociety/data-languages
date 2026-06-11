@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nyaheun
     auto: true
+  - translation_iso: rus
+    name: няхеунский язык
+    auto: true
   - translation_iso: spa
     name: Nyaheun
     auto: true

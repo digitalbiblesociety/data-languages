@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jawoyn
     auto: true
+  - translation_iso: rus
+    name: явойнский язык
+    auto: true
   - translation_iso: spa
     name: Jawoyn
     auto: true

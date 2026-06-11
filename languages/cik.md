@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kinnauri de Chitkuli
     auto: true
+  - translation_iso: rus
+    name: читкули киннаурийский язык
+    auto: true
   - translation_iso: spa
     name: Chitkuli Kinnauri
     auto: true

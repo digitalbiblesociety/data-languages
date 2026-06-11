@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nkonya
+  - translation_iso: rus
+    name: нконйский язык
+    auto: true
   - translation_iso: spa
     name: Nkonya
     auto: true

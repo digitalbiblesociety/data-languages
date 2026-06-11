@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kunimaipa
     auto: true
+  - translation_iso: rus
+    name: кунимаипский язык
+    auto: true
   - translation_iso: spa
     name: Kunimaipa
     auto: true

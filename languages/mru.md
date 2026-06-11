@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mono (Camarões)
     auto: true
+  - translation_iso: rus
+    name: моноский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mono (Camerún)
   - translation_iso: zho

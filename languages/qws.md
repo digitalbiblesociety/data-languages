@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Sihuas Ancash
     auto: true
+  - translation_iso: rus
+    name: сихуас анкаш квечуский язык
+    auto: true
   - translation_iso: spa
     name: "Quechua de Sihuas, Áncash"
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sala
     auto: true
+  - translation_iso: rus
+    name: салский язык
+    auto: true
   - translation_iso: spa
     name: sala
   - translation_iso: zho

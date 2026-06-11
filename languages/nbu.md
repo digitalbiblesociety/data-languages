@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga Rongmei
     auto: true
+  - translation_iso: rus
+    name: ронгмеи нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Rongmei
     auto: true

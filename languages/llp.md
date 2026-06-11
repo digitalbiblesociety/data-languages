@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Efate do Norte
     auto: true
+  - translation_iso: rus
+    name: норт ефатейский язык
+    auto: true
   - translation_iso: spa
     name: Efate del norte
     auto: true

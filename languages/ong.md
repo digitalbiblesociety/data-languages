@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Olo
     auto: true
+  - translation_iso: rus
+    name: олоский язык
+    auto: true
   - translation_iso: spa
     name: Olo
   - translation_iso: zho

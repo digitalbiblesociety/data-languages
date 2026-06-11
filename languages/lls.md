@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais lituana
+  - translation_iso: rus
+    name: литуаниан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas lituana
     auto: true

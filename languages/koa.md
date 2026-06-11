@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Konomala
     auto: true
+  - translation_iso: rus
+    name: кономалский язык
+    auto: true
   - translation_iso: spa
     name: Konomala
   - translation_iso: zho

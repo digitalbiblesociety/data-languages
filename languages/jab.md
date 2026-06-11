@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Hyam
     auto: true
+  - translation_iso: rus
+    name: хямский язык
+    auto: true
   - translation_iso: spa
     name: Hyam
     auto: true

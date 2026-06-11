@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Song Tailandês
     auto: true
+  - translation_iso: rus
+    name: таи сонгский язык
+    auto: true
   - translation_iso: spa
     name: Thai del Sur
     auto: true

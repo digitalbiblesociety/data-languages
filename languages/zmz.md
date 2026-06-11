@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbandja
     auto: true
+  - translation_iso: rus
+    name: мбандйский язык
+    auto: true
   - translation_iso: spa
     name: Mbandja
     auto: true

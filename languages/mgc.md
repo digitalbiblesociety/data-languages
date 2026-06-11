@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Morokodo
     auto: true
+  - translation_iso: rus
+    name: морокодоский язык
+    auto: true
   - translation_iso: spa
     name: morocodo
   - translation_iso: zho

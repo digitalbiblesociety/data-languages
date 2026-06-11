@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Solos
     auto: true
+  - translation_iso: rus
+    name: солосский язык
+    auto: true
   - translation_iso: spa
     name: Idioma solos
   - translation_iso: zho

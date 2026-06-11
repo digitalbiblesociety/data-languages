@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Samo Maya
     auto: true
+  - translation_iso: rus
+    name: мая самоский язык
+    auto: true
   - translation_iso: spa
     name: Samo maya
     auto: true

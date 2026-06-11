@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Changthang
     auto: true
+  - translation_iso: rus
+    name: чангтангский язык
+    auto: true
   - translation_iso: spa
     name: Changthang
     auto: true

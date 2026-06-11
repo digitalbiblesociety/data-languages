@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kangeana
+  - translation_iso: rus
+    name: кангеанский язык
+    auto: true
   - translation_iso: spa
     name: Kangean
   - translation_iso: zho

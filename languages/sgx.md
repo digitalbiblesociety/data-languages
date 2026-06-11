@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais da Serra Leoa
+  - translation_iso: rus
+    name: сиерра леоне сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Sierra Leona
     auto: true

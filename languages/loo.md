@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lombo
     auto: true
+  - translation_iso: rus
+    name: ломбоский язык
+    auto: true
   - translation_iso: spa
     name: Lombo
     auto: true

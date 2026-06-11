@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Mao
     auto: true
+  - translation_iso: rus
+    name: мао нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Mao
     auto: true

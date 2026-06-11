@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mendankwe-Nkwen
     auto: true
+  - translation_iso: rus
+    name: менданкве-нквенский язык
+    auto: true
   - translation_iso: spa
     name: Mendankwe-Nkwen
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua acheron
+  - translation_iso: rus
+    name: ачеронский язык
+    auto: true
   - translation_iso: spa
     name: acheron
   - translation_iso: zho

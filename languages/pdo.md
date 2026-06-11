@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua padoe
+  - translation_iso: rus
+    name: падоейский язык
+    auto: true
   - translation_iso: spa
     name: padoe
   - translation_iso: zho

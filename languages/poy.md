@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pogolo
     auto: true
+  - translation_iso: rus
+    name: поголоский язык
+    auto: true
   - translation_iso: spa
     name: Pogolo
     auto: true

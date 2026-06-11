@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Surubu
     auto: true
+  - translation_iso: rus
+    name: сурубуский язык
+    auto: true
   - translation_iso: spa
     name: Surubu
     auto: true

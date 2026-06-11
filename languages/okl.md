@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Antiga de Kent
     auto: true
+  - translation_iso: rus
+    name: олд кентиш сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Antiguo lenguaje de señas de Kent
   - translation_iso: zho

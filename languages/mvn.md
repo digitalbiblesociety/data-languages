@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Minaveha
     auto: true
+  - translation_iso: rus
+    name: минавехский язык
+    auto: true
   - translation_iso: spa
     name: Minaveha
     auto: true

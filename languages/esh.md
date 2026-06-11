@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Eshtehardi
     auto: true
+  - translation_iso: rus
+    name: ештехардийский язык
+    auto: true
   - translation_iso: spa
     name: Eshtehardi
     auto: true

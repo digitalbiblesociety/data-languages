@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tavoyan
     auto: true
+  - translation_iso: rus
+    name: тавоянский язык
+    auto: true
   - translation_iso: spa
     name: Tavoyano
     auto: true

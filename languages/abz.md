@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua abui
+  - translation_iso: rus
+    name: абуийский язык
+    auto: true
   - translation_iso: spa
     name: Abui
     auto: true

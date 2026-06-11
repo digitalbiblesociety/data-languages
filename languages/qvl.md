@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Cajatambo Lima do Norte
     auto: true
+  - translation_iso: rus
+    name: каятамбо норт лима квечуский язык
+    auto: true
   - translation_iso: spa
     name: quechua de Cajatambo
   - translation_iso: zho

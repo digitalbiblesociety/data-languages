@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Allar
     auto: true
+  - translation_iso: rus
+    name: алларский язык
+    auto: true
   - translation_iso: spa
     name: Allar
     auto: true

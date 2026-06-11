@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nai
     auto: true
+  - translation_iso: rus
+    name: наийский язык
+    auto: true
   - translation_iso: spa
     name: Nai
     auto: true

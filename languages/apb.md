@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Língua sa'a"
+  - translation_iso: rus
+    name: саский язык
+    auto: true
   - translation_iso: spa
     name: "Sa'a"
     auto: true

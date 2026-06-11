@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sabüm
     auto: true
+  - translation_iso: rus
+    name: сабумский язык
+    auto: true
   - translation_iso: spa
     name: Sabüm
     auto: true

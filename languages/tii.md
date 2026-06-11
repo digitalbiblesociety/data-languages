@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tiene
     auto: true
+  - translation_iso: rus
+    name: тиенейский язык
+    auto: true
   - translation_iso: spa
     name: tiene
   - translation_iso: zho

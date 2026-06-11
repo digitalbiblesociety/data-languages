@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua buhid
+  - translation_iso: rus
+    name: бухидский язык
+    auto: true
   - translation_iso: spa
     name: Buhid
     auto: true

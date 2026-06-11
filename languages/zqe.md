@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: zhuang de Qiubei
     auto: true
+  - translation_iso: rus
+    name: киубеи жуангский язык
+    auto: true
   - translation_iso: spa
     name: Zhuang de Qiubei
     auto: true

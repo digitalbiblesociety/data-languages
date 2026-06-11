@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kyenele
     auto: true
+  - translation_iso: rus
+    name: кенелейский язык
+    auto: true
   - translation_iso: spa
     name: Kyenele
     auto: true

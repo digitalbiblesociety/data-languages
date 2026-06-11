@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jina
     auto: true
+  - translation_iso: rus
+    name: джинский язык
+    auto: true
   - translation_iso: spa
     name: Jina
     auto: true

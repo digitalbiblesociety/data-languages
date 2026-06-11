@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zhuang de Liuqian
     auto: true
+  - translation_iso: rus
+    name: лиукиан жуангский язык
+    auto: true
   - translation_iso: spa
     name: Zhuang de Liuqian
     auto: true

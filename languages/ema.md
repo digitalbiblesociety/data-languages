@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Emai-Iuleha-Ora
     auto: true
+  - translation_iso: rus
+    name: емаи-иулеха-орский язык
+    auto: true
   - translation_iso: spa
     name: Emai-Iuleha-Ora
     auto: true

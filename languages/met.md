@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mato
+  - translation_iso: rus
+    name: матоский язык
+    auto: true
   - translation_iso: spa
     name: Mato
     auto: true

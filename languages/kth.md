@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Karanga
     auto: true
+  - translation_iso: rus
+    name: карангский язык
+    auto: true
   - translation_iso: spa
     name: Karanga
     auto: true

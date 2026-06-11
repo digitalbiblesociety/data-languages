@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kumalu
     auto: true
+  - translation_iso: rus
+    name: кумалуский язык
+    auto: true
   - translation_iso: spa
     name: Kumalu
     auto: true

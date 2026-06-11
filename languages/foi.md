@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Foi
     auto: true
+  - translation_iso: rus
+    name: фоийский язык
+    auto: true
   - translation_iso: spa
     name: Foi
     auto: true

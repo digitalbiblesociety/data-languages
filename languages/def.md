@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dezfuli
     auto: true
+  - translation_iso: rus
+    name: дезфулийский язык
+    auto: true
   - translation_iso: spa
     name: Dezfuli
     auto: true

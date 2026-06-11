@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Khamyang
     auto: true
+  - translation_iso: rus
+    name: хамянгский язык
+    auto: true
   - translation_iso: spa
     name: Khamyang
     auto: true

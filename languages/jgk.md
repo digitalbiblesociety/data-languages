@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Gwak
     auto: true
+  - translation_iso: rus
+    name: гвакский язык
+    auto: true
   - translation_iso: spa
     name: Gwak
     auto: true

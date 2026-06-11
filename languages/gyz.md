@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gyaazi
     auto: true
+  - translation_iso: rus
+    name: гяазийский язык
+    auto: true
   - translation_iso: spa
     name: Gyaazi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wayu
     auto: true
+  - translation_iso: rus
+    name: ваюский язык
+    auto: true
   - translation_iso: spa
     name: Wayu
     auto: true

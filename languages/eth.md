@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais da Etiópia
+  - translation_iso: rus
+    name: етиопиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas etíope
     auto: true

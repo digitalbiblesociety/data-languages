@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua musey
+  - translation_iso: rus
+    name: мусейский язык
+    auto: true
   - translation_iso: spa
     name: musey
   - translation_iso: zho

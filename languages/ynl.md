@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yangulam
     auto: true
+  - translation_iso: rus
+    name: янгуламский язык
+    auto: true
   - translation_iso: spa
     name: Yangulam
     auto: true

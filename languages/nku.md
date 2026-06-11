@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kulango de Bouna
     auto: true
+  - translation_iso: rus
+    name: буна кулангоский язык
+    auto: true
   - translation_iso: spa
     name: Kulango de Bouna
     auto: true

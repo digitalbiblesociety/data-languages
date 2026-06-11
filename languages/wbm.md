@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wa
     auto: true
+  - translation_iso: rus
+    name: вский язык
+    auto: true
   - translation_iso: spa
     name: Wa
     auto: true

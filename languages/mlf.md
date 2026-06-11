@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mal
     auto: true
+  - translation_iso: rus
+    name: мальский язык
+    auto: true
   - translation_iso: spa
     name: Mal
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ejagham
     auto: true
+  - translation_iso: rus
+    name: еягхамский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Ekoi
   - translation_iso: zho

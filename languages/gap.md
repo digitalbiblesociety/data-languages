@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gal
     auto: true
+  - translation_iso: rus
+    name: гальский язык
+    auto: true
   - translation_iso: spa
     name: Gal
     auto: true

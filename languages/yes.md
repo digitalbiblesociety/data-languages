@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: nyankpa
     auto: true
+  - translation_iso: rus
+    name: нянкпский язык
+    auto: true
   - translation_iso: spa
     name: Nyankpa
     auto: true

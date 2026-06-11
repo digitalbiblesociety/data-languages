@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mesaka
     auto: true
+  - translation_iso: rus
+    name: месакский язык
+    auto: true
   - translation_iso: spa
     name: Mesaka
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bung
     auto: true
+  - translation_iso: rus
+    name: бунгский язык
+    auto: true
   - translation_iso: spa
     name: Bung
     auto: true

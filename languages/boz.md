@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tiéyaxo Bozo
     auto: true
+  - translation_iso: rus
+    name: тиеяксо бозоский язык
+    auto: true
   - translation_iso: spa
     name: Bozo Tiéyaxo
     auto: true

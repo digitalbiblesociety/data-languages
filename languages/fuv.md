@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: fulfulde nigeriano
     auto: true
+  - translation_iso: rus
+    name: нигериан фулфулдейский язык
+    auto: true
   - translation_iso: spa
     name: Fulfulde nigeriano
     auto: true

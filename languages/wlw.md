@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Walak
     auto: true
+  - translation_iso: rus
+    name: валакский язык
+    auto: true
   - translation_iso: spa
     name: Walak
     auto: true

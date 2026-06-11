@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kuna fronteiriço
     auto: true
+  - translation_iso: rus
+    name: бордер кунский язык
+    auto: true
   - translation_iso: spa
     name: Kuna Fronterizo
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Demisa
     auto: true
+  - translation_iso: rus
+    name: демисский язык
+    auto: true
   - translation_iso: spa
     name: Demisa
     auto: true

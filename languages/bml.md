@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bomboli
     auto: true
+  - translation_iso: rus
+    name: бомболийский язык
+    auto: true
   - translation_iso: spa
     name: Bomboli
     auto: true

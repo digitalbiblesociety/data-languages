@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: yopno
     auto: true
+  - translation_iso: rus
+    name: йопноский язык
+    auto: true
   - translation_iso: spa
     name: yopno
   - translation_iso: zho

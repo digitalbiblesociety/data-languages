@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yamba
     auto: true
+  - translation_iso: rus
+    name: ямбский язык
+    auto: true
   - translation_iso: spa
     name: Yamba
     auto: true

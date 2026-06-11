@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sawi
     auto: true
+  - translation_iso: rus
+    name: савийский язык
+    auto: true
   - translation_iso: spa
     name: Sawi
     auto: true

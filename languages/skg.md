@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Malgaxe Sakalava
     auto: true
+  - translation_iso: rus
+    name: сакалава малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache Sakalava
     auto: true

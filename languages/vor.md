@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Voro
     auto: true
+  - translation_iso: rus
+    name: вороский язык
+    auto: true
   - translation_iso: spa
     name: Voro
     auto: true

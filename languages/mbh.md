@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mangseng
     auto: true
+  - translation_iso: rus
+    name: мангсенгский язык
+    auto: true
   - translation_iso: spa
     name: Mangseng
     auto: true

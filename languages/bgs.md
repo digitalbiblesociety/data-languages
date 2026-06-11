@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tagabawa
+  - translation_iso: rus
+    name: тагабавский язык
+    auto: true
   - translation_iso: spa
     name: Tagabawa
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Seimat
     auto: true
+  - translation_iso: rus
+    name: сеиматский язык
+    auto: true
   - translation_iso: spa
     name: Seimat
     auto: true

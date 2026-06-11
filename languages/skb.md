@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Saek
     auto: true
+  - translation_iso: rus
+    name: саекский язык
+    auto: true
   - translation_iso: spa
     name: Idioma saek
   - translation_iso: zho

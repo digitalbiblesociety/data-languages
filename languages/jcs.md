@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Rural Jamaicana
     auto: true
+  - translation_iso: rus
+    name: ямаикан кунтрй сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas campesina jamaicana
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dirim
     auto: true
+  - translation_iso: rus
+    name: диримский язык
+    auto: true
   - translation_iso: spa
     name: Dirim
     auto: true

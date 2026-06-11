@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pidgin Naga
     auto: true
+  - translation_iso: rus
+    name: нага пидгинский язык
+    auto: true
   - translation_iso: spa
     name: Pidgin naga
     auto: true

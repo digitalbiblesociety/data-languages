@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Lalia
     auto: true
+  - translation_iso: rus
+    name: лалиский язык
+    auto: true
   - translation_iso: spa
     name: Lalia
     auto: true

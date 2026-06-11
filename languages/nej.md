@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Neko
     auto: true
+  - translation_iso: rus
+    name: некоский язык
+    auto: true
   - translation_iso: spa
     name: Neko
     auto: true

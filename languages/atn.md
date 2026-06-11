@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ashtiani
     auto: true
+  - translation_iso: rus
+    name: аштианийский язык
+    auto: true
   - translation_iso: spa
     name: Ashtiani
     auto: true

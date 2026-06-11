@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: banda-yangere
     auto: true
+  - translation_iso: rus
+    name: банда-янгерейский язык
+    auto: true
   - translation_iso: spa
     name: Banda-Yangere
     auto: true

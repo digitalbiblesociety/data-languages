@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua cipo
+  - translation_iso: rus
+    name: кикипуский язык
+    auto: true
   - translation_iso: spa
     name: Cicipu
     auto: true

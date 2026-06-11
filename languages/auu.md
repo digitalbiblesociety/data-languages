@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Auye
     auto: true
+  - translation_iso: rus
+    name: ауейский язык
+    auto: true
   - translation_iso: spa
     name: Auye
     auto: true

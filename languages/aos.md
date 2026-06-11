@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Taikat
     auto: true
+  - translation_iso: rus
+    name: таикатский язык
+    auto: true
   - translation_iso: spa
     name: Taikat
     auto: true

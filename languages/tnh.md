@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maiani
     auto: true
+  - translation_iso: rus
+    name: маианийский язык
+    auto: true
   - translation_iso: spa
     name: Maiani
     auto: true

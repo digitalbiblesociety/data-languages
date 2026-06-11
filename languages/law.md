@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lauje
     auto: true
+  - translation_iso: rus
+    name: лауейский язык
+    auto: true
   - translation_iso: spa
     name: Lauje
     auto: true

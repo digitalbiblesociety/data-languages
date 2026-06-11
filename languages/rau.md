@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua raute
+  - translation_iso: rus
+    name: раутейский язык
+    auto: true
   - translation_iso: spa
     name: Raute
     auto: true

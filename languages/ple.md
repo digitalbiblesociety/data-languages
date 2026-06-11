@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Palue
+  - translation_iso: rus
+    name: палуейский язык
+    auto: true
   - translation_iso: spa
     name: Palue
   - translation_iso: zho

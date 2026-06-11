@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lolo
     auto: true
+  - translation_iso: rus
+    name: лолоский язык
+    auto: true
   - translation_iso: spa
     name: Lolo
     auto: true

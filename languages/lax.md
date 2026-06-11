@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tiwa
     auto: true
+  - translation_iso: rus
+    name: тивский язык
+    auto: true
   - translation_iso: spa
     name: idioma tiwa
   - translation_iso: zho

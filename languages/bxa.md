@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tairaha
     auto: true
+  - translation_iso: rus
+    name: таирахский язык
+    auto: true
   - translation_iso: spa
     name: Tairaha
     auto: true

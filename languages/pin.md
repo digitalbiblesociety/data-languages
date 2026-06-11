@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Piame
     auto: true
+  - translation_iso: rus
+    name: пиамейский язык
+    auto: true
   - translation_iso: spa
     name: Piame
     auto: true

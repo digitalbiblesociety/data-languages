@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Wergaia
     auto: true
+  - translation_iso: rus
+    name: вергаиский язык
+    auto: true
   - translation_iso: spa
     name: Wergaia
     auto: true

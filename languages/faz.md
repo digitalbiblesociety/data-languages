@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: fars do noroeste
     auto: true
+  - translation_iso: rus
+    name: нортвестерн фарсский язык
+    auto: true
   - translation_iso: spa
     name: Fars del Noroeste
     auto: true

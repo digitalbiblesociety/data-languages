@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Forak
     auto: true
+  - translation_iso: rus
+    name: форакский язык
+    auto: true
   - translation_iso: spa
     name: Forak
     auto: true

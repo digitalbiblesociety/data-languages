@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Domu
     auto: true
+  - translation_iso: rus
+    name: домуский язык
+    auto: true
   - translation_iso: spa
     name: Domu
     auto: true

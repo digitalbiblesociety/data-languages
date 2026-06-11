@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karnai
     auto: true
+  - translation_iso: rus
+    name: карнаийский язык
+    auto: true
   - translation_iso: spa
     name: Karnai
     auto: true

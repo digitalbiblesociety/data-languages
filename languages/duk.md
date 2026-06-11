@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Uyajitaya
     auto: true
+  - translation_iso: rus
+    name: уяджитайский язык
+    auto: true
   - translation_iso: spa
     name: Uyajitaya
     auto: true

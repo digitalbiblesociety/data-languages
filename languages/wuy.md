@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wauyai
     auto: true
+  - translation_iso: rus
+    name: вауяийский язык
+    auto: true
   - translation_iso: spa
     name: Wauyai
     auto: true

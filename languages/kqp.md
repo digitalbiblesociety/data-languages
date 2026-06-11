@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kimré
     auto: true
+  - translation_iso: rus
+    name: кимрейский язык
+    auto: true
   - translation_iso: spa
     name: Kimré
     auto: true

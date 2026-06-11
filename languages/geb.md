@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kire
     auto: true
+  - translation_iso: rus
+    name: кирейский язык
+    auto: true
   - translation_iso: spa
     name: Kire
     auto: true

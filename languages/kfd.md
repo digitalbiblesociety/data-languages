@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koraga Korra
     auto: true
+  - translation_iso: rus
+    name: корра корагский язык
+    auto: true
   - translation_iso: spa
     name: Korra Koraga
     auto: true

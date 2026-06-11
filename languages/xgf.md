@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tongva
+  - translation_iso: rus
+    name: габриелино-фернанденьоский язык
+    auto: true
   - translation_iso: spa
     name: Tongva
   - translation_iso: zho

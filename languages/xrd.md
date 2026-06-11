@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Gundungurra
     auto: true
+  - translation_iso: rus
+    name: гундунгуррский язык
+    auto: true
   - translation_iso: spa
     name: Gundungurra
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jilbe
     auto: true
+  - translation_iso: rus
+    name: джилбейский язык
+    auto: true
   - translation_iso: spa
     name: Jilbe
     auto: true

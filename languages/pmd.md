@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pallanganmiddang
     auto: true
+  - translation_iso: rus
+    name: палланганмиддангский язык
+    auto: true
   - translation_iso: spa
     name: Idioma pallanganmiddang
   - translation_iso: zho

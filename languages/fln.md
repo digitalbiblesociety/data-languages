@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Flinders Island
     auto: true
+  - translation_iso: rus
+    name: флиндерс исландский язык
+    auto: true
   - translation_iso: spa
     name: Flinders Island
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mama
     auto: true
+  - translation_iso: rus
+    name: мамский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mama
   - translation_iso: zho

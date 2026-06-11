@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Waamwang
     auto: true
+  - translation_iso: rus
+    name: ваамвангский язык
+    auto: true
   - translation_iso: spa
     name: Waamwang
     auto: true

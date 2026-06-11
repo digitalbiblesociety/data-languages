@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Barakai
+  - translation_iso: rus
+    name: баракаийский язык
+    auto: true
   - translation_iso: spa
     name: Barakai
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ukuriguma
     auto: true
+  - translation_iso: rus
+    name: укуригумский язык
+    auto: true
   - translation_iso: spa
     name: Ukuriguma
     auto: true

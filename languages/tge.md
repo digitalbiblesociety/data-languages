@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tamang de Gorkha Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн горха тамангский язык
+    auto: true
   - translation_iso: spa
     name: Tamang Gorkha oriental
     auto: true

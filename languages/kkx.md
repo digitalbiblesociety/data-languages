@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kohin
     auto: true
+  - translation_iso: rus
+    name: кохинский язык
+    auto: true
   - translation_iso: spa
     name: Kohin
     auto: true

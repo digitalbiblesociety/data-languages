@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua chuwabo
+  - translation_iso: rus
+    name: чувабуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma echuwabo
   - translation_iso: zho

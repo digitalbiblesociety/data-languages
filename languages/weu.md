@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Chin Rawngtu
     auto: true
+  - translation_iso: rus
+    name: равнгту чинский язык
+    auto: true
   - translation_iso: spa
     name: Rawngtu Chin
     auto: true

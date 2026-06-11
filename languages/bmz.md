@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Baramu
     auto: true
+  - translation_iso: rus
+    name: барамуский язык
+    auto: true
   - translation_iso: spa
     name: Baramu
     auto: true

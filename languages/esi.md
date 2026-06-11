@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: inupiatum do norte do Alasca
     auto: true
+  - translation_iso: rus
+    name: норт аласкан инупиатунский язык
+    auto: true
   - translation_iso: spa
     name: Iñupiatun del norte de Alaska
     auto: true

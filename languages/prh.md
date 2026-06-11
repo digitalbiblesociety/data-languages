@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua porohanon
+  - translation_iso: rus
+    name: пороханонский язык
+    auto: true
   - translation_iso: spa
     name: Porohanon
     auto: true

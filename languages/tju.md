@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tjurruru
     auto: true
+  - translation_iso: rus
+    name: тюрруруский язык
+    auto: true
   - translation_iso: spa
     name: Tjurruru
     auto: true

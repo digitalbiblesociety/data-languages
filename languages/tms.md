@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tima
     auto: true
+  - translation_iso: rus
+    name: тимский язык
+    auto: true
   - translation_iso: spa
     name: Tima
     auto: true

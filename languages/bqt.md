@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bamukumbit
     auto: true
+  - translation_iso: rus
+    name: бамукумбитский язык
+    auto: true
   - translation_iso: spa
     name: Bamukumbit
     auto: true

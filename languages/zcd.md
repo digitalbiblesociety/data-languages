@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: zapoteco de Las Delicias
     auto: true
+  - translation_iso: rus
+    name: лас деликиас запотекский язык
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Las Delicias
     auto: true

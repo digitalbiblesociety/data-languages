@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mser
     auto: true
+  - translation_iso: rus
+    name: мсерский язык
+    auto: true
   - translation_iso: spa
     name: Mser
     auto: true

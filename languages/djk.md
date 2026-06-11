@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Crioulo Maroon Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн марун креолейский язык
+    auto: true
   - translation_iso: spa
     name: "idioma de los Aluku, Ndjuka y Paramaka"
   - translation_iso: zho

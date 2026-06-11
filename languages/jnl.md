@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rawat
     auto: true
+  - translation_iso: rus
+    name: раватский язык
+    auto: true
   - translation_iso: spa
     name: Rawat
     auto: true

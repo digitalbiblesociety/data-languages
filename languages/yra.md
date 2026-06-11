@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: yerakai
     auto: true
+  - translation_iso: rus
+    name: еракаийский язык
+    auto: true
   - translation_iso: spa
     name: Yerakai
     auto: true

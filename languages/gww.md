@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kwini
     auto: true
+  - translation_iso: rus
+    name: квинийский язык
+    auto: true
   - translation_iso: spa
     name: Kwini
     auto: true

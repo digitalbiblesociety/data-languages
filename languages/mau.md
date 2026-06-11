@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mazateco de Huautla
     auto: true
+  - translation_iso: rus
+    name: хуаутла мазатекский язык
+    auto: true
   - translation_iso: spa
     name: Mazateco de Huautla
     auto: true

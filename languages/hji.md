@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Haji
     auto: true
+  - translation_iso: rus
+    name: хаджийский язык
+    auto: true
   - translation_iso: spa
     name: Haji
     auto: true

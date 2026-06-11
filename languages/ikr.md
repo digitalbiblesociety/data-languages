@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ikaranggal
     auto: true
+  - translation_iso: rus
+    name: икаранггальский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ikarranggali
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kuturmi
     auto: true
+  - translation_iso: rus
+    name: кутурмийский язык
+    auto: true
   - translation_iso: spa
     name: Kuturmi
     auto: true

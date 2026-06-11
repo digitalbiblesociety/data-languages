@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chinanteco de Lalana
     auto: true
+  - translation_iso: rus
+    name: лалана чинантекский язык
+    auto: true
   - translation_iso: spa
     name: chinanteca de Lalana
   - translation_iso: zho

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kereho
     auto: true
+  - translation_iso: rus
+    name: керехоский язык
+    auto: true
   - translation_iso: spa
     name: Kereho
     auto: true

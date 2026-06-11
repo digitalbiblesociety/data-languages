@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: nasu wusa
     auto: true
+  - translation_iso: rus
+    name: вуса насуский язык
+    auto: true
   - translation_iso: spa
     name: Wusa Nasu
     auto: true

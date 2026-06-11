@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ibaloi
+  - translation_iso: rus
+    name: ибалоийский язык
+    auto: true
   - translation_iso: spa
     name: ivadoy
   - translation_iso: zho

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nipsan
     auto: true
+  - translation_iso: rus
+    name: нипсанский язык
+    auto: true
   - translation_iso: spa
     name: Nipsan
     auto: true

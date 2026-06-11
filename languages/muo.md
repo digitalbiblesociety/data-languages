@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyong
     auto: true
+  - translation_iso: rus
+    name: нйонгский язык
+    auto: true
   - translation_iso: spa
     name: Nyong
     auto: true

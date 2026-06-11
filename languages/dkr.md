@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kuijau
     auto: true
+  - translation_iso: rus
+    name: куияуский язык
+    auto: true
   - translation_iso: spa
     name: Kuijau
     auto: true

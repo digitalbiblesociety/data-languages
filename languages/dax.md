@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dayi
     auto: true
+  - translation_iso: rus
+    name: дайийский язык
+    auto: true
   - translation_iso: spa
     name: Dayi
     auto: true

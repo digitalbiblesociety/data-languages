@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Turi
     auto: true
+  - translation_iso: rus
+    name: турийский язык
+    auto: true
   - translation_iso: spa
     name: Turi
     auto: true

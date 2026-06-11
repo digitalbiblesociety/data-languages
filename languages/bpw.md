@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bo (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: боский язык
+    auto: true
   - translation_iso: spa
     name: Bo (Papúa Nueva Guinea)
     auto: true

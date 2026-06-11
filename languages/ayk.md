@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Akuku
     auto: true
+  - translation_iso: rus
+    name: акукуский язык
+    auto: true
   - translation_iso: spa
     name: Akuku
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chug
     auto: true
+  - translation_iso: rus
+    name: чугский язык
+    auto: true
   - translation_iso: spa
     name: Chug
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tunebo de Barro Negro
     auto: true
+  - translation_iso: rus
+    name: барро негро тунебоский язык
+    auto: true
   - translation_iso: spa
     name: Tunebo de Barro Negro
     auto: true

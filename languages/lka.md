@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lakalei
     auto: true
+  - translation_iso: rus
+    name: лакалеийский язык
+    auto: true
   - translation_iso: spa
     name: Lakalei
     auto: true

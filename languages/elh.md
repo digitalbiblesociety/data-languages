@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: El Hugeirat
     auto: true
+  - translation_iso: rus
+    name: ел хугеиратский язык
+    auto: true
   - translation_iso: spa
     name: El Hugeirat
     auto: true

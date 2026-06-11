@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kara (Tanzânia)
     auto: true
+  - translation_iso: rus
+    name: карский язык
+    auto: true
   - translation_iso: spa
     name: Kara (Tanzania)
     auto: true

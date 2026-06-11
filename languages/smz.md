@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Simeku
     auto: true
+  - translation_iso: rus
+    name: симекуский язык
+    auto: true
   - translation_iso: spa
     name: Simeku
     auto: true

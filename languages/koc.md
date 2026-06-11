@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kpati
     auto: true
+  - translation_iso: rus
+    name: кпатийский язык
+    auto: true
   - translation_iso: spa
     name: Kpati
     auto: true

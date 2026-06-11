@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ayabadhu
     auto: true
+  - translation_iso: rus
+    name: аябадхуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ayabadhu
   - translation_iso: zho

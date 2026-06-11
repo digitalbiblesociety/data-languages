@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Uruava
     auto: true
+  - translation_iso: rus
+    name: уруавский язык
+    auto: true
   - translation_iso: spa
     name: Idioma uruava
   - translation_iso: zho

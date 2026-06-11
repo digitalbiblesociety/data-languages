@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Sivia
     auto: true
+  - translation_iso: rus
+    name: сивиа сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Sivia
     auto: true

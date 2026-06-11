@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nar Phu
     auto: true
+  - translation_iso: rus
+    name: нар фуский язык
+    auto: true
   - translation_iso: spa
     name: Nar Phu
     auto: true

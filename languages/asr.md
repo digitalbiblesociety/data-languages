@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Asuri
     auto: true
+  - translation_iso: rus
+    name: асурийский язык
+    auto: true
   - translation_iso: spa
     name: Asuri
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Rongga
+  - translation_iso: rus
+    name: ронггский язык
+    auto: true
   - translation_iso: spa
     name: Rongga
   - translation_iso: zho

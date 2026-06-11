@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Senufo Sìcìté
     auto: true
+  - translation_iso: rus
+    name: сиките сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Sìcìté
     auto: true

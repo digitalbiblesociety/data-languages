@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Auwe
     auto: true
+  - translation_iso: rus
+    name: аувейский язык
+    auto: true
   - translation_iso: spa
     name: Auwe
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lou
     auto: true
+  - translation_iso: rus
+    name: луский язык
+    auto: true
   - translation_iso: spa
     name: Lou
     auto: true

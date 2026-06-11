@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Meyah
     auto: true
+  - translation_iso: rus
+    name: меяхский язык
+    auto: true
   - translation_iso: spa
     name: Meyah
     auto: true

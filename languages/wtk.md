@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Watakataui
     auto: true
+  - translation_iso: rus
+    name: ватакатауийский язык
+    auto: true
   - translation_iso: spa
     name: Watakataui
     auto: true

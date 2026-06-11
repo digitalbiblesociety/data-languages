@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Uhami
     auto: true
+  - translation_iso: rus
+    name: ухамийский язык
+    auto: true
   - translation_iso: spa
     name: Uhami
     auto: true

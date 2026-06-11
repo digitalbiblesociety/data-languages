@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mangerr
     auto: true
+  - translation_iso: rus
+    name: мангеррский язык
+    auto: true
   - translation_iso: spa
     name: Mangerr
     auto: true

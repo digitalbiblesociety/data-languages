@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Njen
     auto: true
+  - translation_iso: rus
+    name: ненский язык
+    auto: true
   - translation_iso: spa
     name: Njen
     auto: true

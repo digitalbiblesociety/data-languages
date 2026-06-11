@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Isabi
     auto: true
+  - translation_iso: rus
+    name: исабийский язык
+    auto: true
   - translation_iso: spa
     name: Isabi
     auto: true

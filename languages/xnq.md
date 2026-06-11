@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Ngoni (Moçambique)
     auto: true
+  - translation_iso: rus
+    name: нгонийский язык
+    auto: true
   - translation_iso: spa
     name: Ngoni (Mozambique)
     auto: true

@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Lafofa
     auto: true
+  - translation_iso: rus
+    name: лафофский язык
+    auto: true
   - translation_iso: spa
     name: Lenguas lalofa
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bisorio
     auto: true
+  - translation_iso: rus
+    name: бисориоский язык
+    auto: true
   - translation_iso: spa
     name: Bisorio
     auto: true

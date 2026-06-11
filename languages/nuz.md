@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: náhuatl de Tlamacazapa
+  - translation_iso: rus
+    name: тламаказапа нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: náhuatl de Tlamacazapa
   - translation_iso: zho

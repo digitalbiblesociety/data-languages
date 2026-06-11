@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sos Kundi
     auto: true
+  - translation_iso: rus
+    name: сос кундийский язык
+    auto: true
   - translation_iso: spa
     name: Sos Kundi
     auto: true

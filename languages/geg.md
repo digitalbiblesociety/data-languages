@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Gengle
     auto: true
+  - translation_iso: rus
+    name: генглейский язык
+    auto: true
   - translation_iso: spa
     name: Gengle
     auto: true

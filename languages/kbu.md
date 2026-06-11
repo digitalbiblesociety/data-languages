@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kabutra
     auto: true
+  - translation_iso: rus
+    name: кабутрский язык
+    auto: true
   - translation_iso: spa
     name: Kabutra
     auto: true

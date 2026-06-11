@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gureng Gureng
     auto: true
+  - translation_iso: rus
+    name: гуренг гуренгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gureng gureng
   - translation_iso: zho

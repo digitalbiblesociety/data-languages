@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gupa-Abawa
     auto: true
+  - translation_iso: rus
+    name: гупа-абавский язык
+    auto: true
   - translation_iso: spa
     name: Gupa-Abawa
     auto: true

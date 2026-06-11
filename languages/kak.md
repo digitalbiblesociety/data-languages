@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kalanguya
     auto: true
+  - translation_iso: rus
+    name: калангуйский язык
+    auto: true
   - translation_iso: spa
     name: Kalanguya
     auto: true

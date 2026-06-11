@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto amondaua
+  - translation_iso: rus
+    name: амундавский язык
+    auto: true
   - translation_iso: spa
     name: Amundava
     auto: true

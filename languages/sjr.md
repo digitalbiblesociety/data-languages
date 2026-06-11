@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua siar
+  - translation_iso: rus
+    name: сиар-лакский язык
+    auto: true
   - translation_iso: spa
     name: Siar-Lak
     auto: true

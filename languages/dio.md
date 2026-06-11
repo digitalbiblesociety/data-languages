@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dibo
     auto: true
+  - translation_iso: rus
+    name: дибоский язык
+    auto: true
   - translation_iso: spa
     name: Dibo
     auto: true

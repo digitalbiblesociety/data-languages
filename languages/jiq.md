@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Guanyinqiao
     auto: true
+  - translation_iso: rus
+    name: гуанйинкиаоский язык
+    auto: true
   - translation_iso: spa
     name: Guanyinqiao
     auto: true

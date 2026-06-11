@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lisabata-Nuniali
     auto: true
+  - translation_iso: rus
+    name: лисабата-нуниалийский язык
+    auto: true
   - translation_iso: spa
     name: Lisabata-Nuniali
     auto: true

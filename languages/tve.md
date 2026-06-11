@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Te'un"
+  - translation_iso: rus
+    name: теунский язык
+    auto: true
   - translation_iso: spa
     name: "Te'un"
   - translation_iso: zho

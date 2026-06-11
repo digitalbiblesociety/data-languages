@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Eipomek
     auto: true
+  - translation_iso: rus
+    name: еипомекский язык
+    auto: true
   - translation_iso: spa
     name: Eipomek
     auto: true

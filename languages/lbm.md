@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lodhi
     auto: true
+  - translation_iso: rus
+    name: лодхийский язык
+    auto: true
   - translation_iso: spa
     name: Lodhi
     auto: true

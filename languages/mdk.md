@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mangbutu
     auto: true
+  - translation_iso: rus
+    name: мангбутуский язык
+    auto: true
   - translation_iso: spa
     name: Mangbutu
   - translation_iso: zho

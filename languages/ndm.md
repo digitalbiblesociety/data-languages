@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ndam
+  - translation_iso: rus
+    name: ндамский язык
+    auto: true
   - translation_iso: spa
     name: Ndam
     auto: true

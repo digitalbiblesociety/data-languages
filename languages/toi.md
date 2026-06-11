@@ -33,6 +33,9 @@ translations:
     name: 통가어
   - translation_iso: por
     name: Língua tonga
+  - translation_iso: rus
+    name: тонгский язык
+    auto: true
   - translation_iso: spa
     name: chitonga
   - translation_iso: zho

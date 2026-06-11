@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Dutton World Speedwords
     auto: true
+  - translation_iso: rus
+    name: дуттон ворлд спидвордсский язык
+    auto: true
   - translation_iso: spa
     name: Dutton World Speedwords
     auto: true

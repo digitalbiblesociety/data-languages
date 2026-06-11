@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Dengka
     auto: true
+  - translation_iso: rus
+    name: денгкский язык
+    auto: true
   - translation_iso: spa
     name: Dengka
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Gebe
     auto: true
+  - translation_iso: rus
+    name: гебейский язык
+    auto: true
   - translation_iso: spa
     name: Gebe
     auto: true

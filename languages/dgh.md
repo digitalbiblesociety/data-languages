@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dghwede
     auto: true
+  - translation_iso: rus
+    name: дгхведейский язык
+    auto: true
   - translation_iso: spa
     name: Dghwede
     auto: true

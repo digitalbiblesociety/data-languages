@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: yela
     auto: true
+  - translation_iso: rus
+    name: елский язык
+    auto: true
   - translation_iso: spa
     name: Yela
     auto: true

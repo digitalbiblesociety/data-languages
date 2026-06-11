@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ede Cabe
     auto: true
+  - translation_iso: rus
+    name: еде кабейский язык
+    auto: true
   - translation_iso: spa
     name: Ede Cabe
     auto: true

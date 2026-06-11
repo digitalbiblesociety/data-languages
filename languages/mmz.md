@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mabaale
     auto: true
+  - translation_iso: rus
+    name: мабаалейский язык
+    auto: true
   - translation_iso: spa
     name: Mabaale
     auto: true

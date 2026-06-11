@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Palawano de Brooke's Point"
     auto: true
+  - translation_iso: rus
+    name: брукес поинт палаваноский язык
+    auto: true
   - translation_iso: spa
     name: "Palawano de Brooke's Point"
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua oorlans
+  - translation_iso: rus
+    name: урламсский язык
+    auto: true
   - translation_iso: spa
     name: Oorlams
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Manna-Dora
     auto: true
+  - translation_iso: rus
+    name: манна-дорский язык
+    auto: true
   - translation_iso: spa
     name: Manna-Dora
     auto: true

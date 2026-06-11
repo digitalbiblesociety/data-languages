@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kamaru
     auto: true
+  - translation_iso: rus
+    name: камаруский язык
+    auto: true
   - translation_iso: spa
     name: Kamaru
     auto: true

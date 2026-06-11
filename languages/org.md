@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Oring
     auto: true
+  - translation_iso: rus
+    name: орингский язык
+    auto: true
   - translation_iso: spa
     name: Oring
     auto: true

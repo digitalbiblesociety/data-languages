@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kaamba
     auto: true
+  - translation_iso: rus
+    name: каамбский язык
+    auto: true
   - translation_iso: spa
     name: Kaamba
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mpuono
     auto: true
+  - translation_iso: rus
+    name: мпуоноский язык
+    auto: true
   - translation_iso: spa
     name: Mpuono
     auto: true

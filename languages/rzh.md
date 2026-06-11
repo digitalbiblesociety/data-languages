@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rāziḥī
     auto: true
+  - translation_iso: rus
+    name: разиийский язык
+    auto: true
   - translation_iso: spa
     name: razihi
   - translation_iso: zho

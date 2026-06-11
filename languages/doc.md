@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dong Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн донгский язык
+    auto: true
   - translation_iso: spa
     name: Dong Septentrional
     auto: true

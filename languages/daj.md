@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Daju de Dar Fur
     auto: true
+  - translation_iso: rus
+    name: дар фур даюский язык
+    auto: true
   - translation_iso: spa
     name: Daju de Dar Fur
     auto: true

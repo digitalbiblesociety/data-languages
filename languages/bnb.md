@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bookan
     auto: true
+  - translation_iso: rus
+    name: буканский язык
+    auto: true
   - translation_iso: spa
     name: Bookan
     auto: true

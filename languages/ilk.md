@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bugkalot
+  - translation_iso: rus
+    name: илонготский язык
+    auto: true
   - translation_iso: spa
     name: Ilongot
     auto: true

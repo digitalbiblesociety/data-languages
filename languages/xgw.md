@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Guwa
     auto: true
+  - translation_iso: rus
+    name: гувский язык
+    auto: true
   - translation_iso: spa
     name: Guwa
     auto: true

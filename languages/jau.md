@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Yaur
     auto: true
+  - translation_iso: rus
+    name: яурский язык
+    auto: true
   - translation_iso: spa
     name: Yaur
     auto: true

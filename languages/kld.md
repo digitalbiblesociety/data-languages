@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gamilaraay
+  - translation_iso: rus
+    name: гамилараайский язык
+    auto: true
   - translation_iso: spa
     name: idioma gamilaraay
   - translation_iso: zho

@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua sursurunga
+  - translation_iso: rus
+    name: сурсурунгский язык
+    auto: true
   - translation_iso: spa
     name: Sursurunga
   - translation_iso: zho

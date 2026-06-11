@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Gowlan
     auto: true
+  - translation_iso: rus
+    name: говланский язык
+    auto: true
   - translation_iso: spa
     name: Gowlan
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Djawi
     auto: true
+  - translation_iso: rus
+    name: дявийский язык
+    auto: true
   - translation_iso: spa
     name: Djawi
     auto: true

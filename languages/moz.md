@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mukulu
     auto: true
+  - translation_iso: rus
+    name: мукулуский язык
+    auto: true
   - translation_iso: spa
     name: Mukulu
     auto: true

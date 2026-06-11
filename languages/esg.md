@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: gondi de Aheri
     auto: true
+  - translation_iso: rus
+    name: ахери гондийский язык
+    auto: true
   - translation_iso: spa
     name: Aheri Gondi
   - translation_iso: zho

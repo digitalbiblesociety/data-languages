@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: "T'en"
     auto: true
+  - translation_iso: rus
+    name: тенский язык
+    auto: true
   - translation_iso: spa
     name: "T'en"
     auto: true

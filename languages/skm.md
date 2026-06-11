@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kutong
     auto: true
+  - translation_iso: rus
+    name: кутонгский язык
+    auto: true
   - translation_iso: spa
     name: Kutong
     auto: true

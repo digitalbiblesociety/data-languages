@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl de Puebla do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн пуебла нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: náhuatl norte de Puebla
   - translation_iso: zho

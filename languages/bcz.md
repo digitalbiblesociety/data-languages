@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bainouk-Gunyaamolo
     auto: true
+  - translation_iso: rus
+    name: баинук-гуняамолоский язык
+    auto: true
   - translation_iso: spa
     name: Bainouk-Gunyaamolo
     auto: true

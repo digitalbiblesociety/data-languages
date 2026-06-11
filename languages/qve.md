@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Apurímac Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн апуримак квечуский язык
+    auto: true
   - translation_iso: spa
     name: Quechua del Apurímac oriental
     auto: true

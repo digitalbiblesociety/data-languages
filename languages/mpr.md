@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vangunu
     auto: true
+  - translation_iso: rus
+    name: вангунуский язык
+    auto: true
   - translation_iso: spa
     name: Vangunu
   - translation_iso: zho

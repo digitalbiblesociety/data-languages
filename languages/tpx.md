@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: "Me'phaa de Acatepec"
     auto: true
+  - translation_iso: rus
+    name: акатепек мефаский язык
+    auto: true
   - translation_iso: spa
     name: "Me'phaa de Acatepec"
     auto: true

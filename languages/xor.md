@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Korubo
     auto: true
+  - translation_iso: rus
+    name: корубоский язык
+    auto: true
   - translation_iso: spa
     name: idioma korubo
   - translation_iso: zho

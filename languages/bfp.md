@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Beba
     auto: true
+  - translation_iso: rus
+    name: бебский язык
+    auto: true
   - translation_iso: spa
     name: beba
   - translation_iso: zho

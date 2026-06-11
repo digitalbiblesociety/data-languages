@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngbinda
     auto: true
+  - translation_iso: rus
+    name: нгбиндский язык
+    auto: true
   - translation_iso: spa
     name: Ngbinda
     auto: true

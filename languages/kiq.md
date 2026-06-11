@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kosadle
     auto: true
+  - translation_iso: rus
+    name: косадлейский язык
+    auto: true
   - translation_iso: spa
     name: Kosadle
     auto: true

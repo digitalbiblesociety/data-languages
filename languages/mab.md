@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Yutanduchi
     auto: true
+  - translation_iso: rus
+    name: ютандучи микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Yutanduchi
     auto: true

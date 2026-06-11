@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbwela
     auto: true
+  - translation_iso: rus
+    name: мбвелский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mbwela
   - translation_iso: zho

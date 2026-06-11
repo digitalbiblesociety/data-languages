@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tanimbili
     auto: true
+  - translation_iso: rus
+    name: танимбилийский язык
+    auto: true
   - translation_iso: spa
     name: Tanimbili
     auto: true

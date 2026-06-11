@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pangwa
     auto: true
+  - translation_iso: rus
+    name: пангвский язык
+    auto: true
   - translation_iso: spa
     name: Pangwa
     auto: true

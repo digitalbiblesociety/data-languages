@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kintaq
     auto: true
+  - translation_iso: rus
+    name: кинтакский язык
+    auto: true
   - translation_iso: spa
     name: Kintaq
     auto: true

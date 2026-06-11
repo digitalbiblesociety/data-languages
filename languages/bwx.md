@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bunu Bu-Nao
     auto: true
+  - translation_iso: rus
+    name: бу-нао бунуский язык
+    auto: true
   - translation_iso: spa
     name: Bunu Bu-Nao
     auto: true

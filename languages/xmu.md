@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kamu
     auto: true
+  - translation_iso: rus
+    name: камуский язык
+    auto: true
   - translation_iso: spa
     name: Kamu
     auto: true

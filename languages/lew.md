@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ledo-kaili
+  - translation_iso: rus
+    name: ледо каилийский язык
+    auto: true
   - translation_iso: spa
     name: Kaili Ledo
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngungwel
     auto: true
+  - translation_iso: rus
+    name: нгунгвельский язык
+    auto: true
   - translation_iso: spa
     name: Ngungwel
     auto: true

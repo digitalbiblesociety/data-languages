@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Malaio de Banda
     auto: true
+  - translation_iso: rus
+    name: банда малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo de Banda
     auto: true

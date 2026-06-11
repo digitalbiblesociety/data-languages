@@ -28,6 +28,9 @@ translations:
     name: 동골라위어
   - translation_iso: por
     name: Língua dongolawi
+  - translation_iso: rus
+    name: андаандийский язык
+    auto: true
   - translation_iso: spa
     name: Andaandi
     auto: true

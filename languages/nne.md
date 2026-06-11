@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngandyera
     auto: true
+  - translation_iso: rus
+    name: нгандерский язык
+    auto: true
   - translation_iso: spa
     name: Ngandyera
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: nisi (China)
     auto: true
+  - translation_iso: rus
+    name: нисийский язык
+    auto: true
   - translation_iso: spa
     name: Nisi (China)
     auto: true

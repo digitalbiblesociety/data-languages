@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbalanhu
     auto: true
+  - translation_iso: rus
+    name: мбаланхуский язык
+    auto: true
   - translation_iso: spa
     name: Mbalanhu
     auto: true

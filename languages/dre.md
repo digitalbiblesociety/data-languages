@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dolpo
     auto: true
+  - translation_iso: rus
+    name: долпоский язык
+    auto: true
   - translation_iso: spa
     name: Dolpo
     auto: true

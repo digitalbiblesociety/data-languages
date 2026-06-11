@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chemakum
     auto: true
+  - translation_iso: rus
+    name: чемакумский язык
+    auto: true
   - translation_iso: spa
     name: chimakum
   - translation_iso: zho

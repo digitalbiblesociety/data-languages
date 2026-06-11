@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Palawano Central
     auto: true
+  - translation_iso: rus
+    name: кентрал палаваноский язык
+    auto: true
   - translation_iso: spa
     name: Palawano central
     auto: true

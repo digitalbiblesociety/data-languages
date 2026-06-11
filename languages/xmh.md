@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kugu-Muminh
     auto: true
+  - translation_iso: rus
+    name: кугу-муминхский язык
+    auto: true
   - translation_iso: spa
     name: Kugu-Muminh
     auto: true

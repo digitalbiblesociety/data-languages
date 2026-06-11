@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mbay
     auto: true
+  - translation_iso: rus
+    name: мбайский язык
+    auto: true
   - translation_iso: spa
     name: Mbay
     auto: true

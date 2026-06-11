@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Krikati-Timbira
     auto: true
+  - translation_iso: rus
+    name: крикати-тимбирский язык
+    auto: true
   - translation_iso: spa
     name: Krikati-Timbira
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Toussian do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн туссианский язык
+    auto: true
   - translation_iso: spa
     name: Toussian septentrional
     auto: true

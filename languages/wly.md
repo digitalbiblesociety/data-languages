@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Waling
     auto: true
+  - translation_iso: rus
+    name: валингский язык
+    auto: true
   - translation_iso: spa
     name: Waling
     auto: true

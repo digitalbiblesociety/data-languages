@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Doghoro
     auto: true
+  - translation_iso: rus
+    name: догхороский язык
+    auto: true
   - translation_iso: spa
     name: Doghoro
     auto: true

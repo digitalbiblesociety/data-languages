@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Arammba
     auto: true
+  - translation_iso: rus
+    name: араммбский язык
+    auto: true
   - translation_iso: spa
     name: Arammba
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nyulnyul
     auto: true
+  - translation_iso: rus
+    name: нюлнюльский язык
+    auto: true
   - translation_iso: spa
     name: Nyulnyul
     auto: true

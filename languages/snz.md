@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kou
     auto: true
+  - translation_iso: rus
+    name: куский язык
+    auto: true
   - translation_iso: spa
     name: Kou
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Me'phaa de Tlacoapa"
     auto: true
+  - translation_iso: rus
+    name: тлакоапа мефаский язык
+    auto: true
   - translation_iso: spa
     name: "Me'phaa de Tlacoapa"
     auto: true

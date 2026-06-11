@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mbowe
     auto: true
+  - translation_iso: rus
+    name: мбовейский язык
+    auto: true
   - translation_iso: spa
     name: mbowe
   - translation_iso: zho

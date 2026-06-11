@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Orokolo
     auto: true
+  - translation_iso: rus
+    name: ороколоский язык
+    auto: true
   - translation_iso: spa
     name: Orokolo
     auto: true

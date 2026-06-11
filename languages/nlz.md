@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nalögo
     auto: true
+  - translation_iso: rus
+    name: налогоский язык
+    auto: true
   - translation_iso: spa
     name: Nalögo
     auto: true

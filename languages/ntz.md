@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Natanzi
     auto: true
+  - translation_iso: rus
+    name: натанзийский язык
+    auto: true
   - translation_iso: spa
     name: Natanzi
     auto: true

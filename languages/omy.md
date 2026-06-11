@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Antigo malaio
+  - translation_iso: rus
+    name: олд малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo antiguo
     auto: true

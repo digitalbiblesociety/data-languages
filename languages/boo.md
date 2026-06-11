@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tiemacèwè Bozo
     auto: true
+  - translation_iso: rus
+    name: тиемакеве бозоский язык
+    auto: true
   - translation_iso: spa
     name: Bozo Tiemacèwè
     auto: true

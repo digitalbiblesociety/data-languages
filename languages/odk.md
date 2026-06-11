@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Od
     auto: true
+  - translation_iso: rus
+    name: одский язык
+    auto: true
   - translation_iso: spa
     name: Od
     auto: true

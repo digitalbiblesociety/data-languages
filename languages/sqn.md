@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Susquehannock
     auto: true
+  - translation_iso: rus
+    name: сусквеханнокский язык
+    auto: true
   - translation_iso: spa
     name: Susquehannock
   - translation_iso: zho

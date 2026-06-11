@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Adang
+  - translation_iso: rus
+    name: адангский язык
+    auto: true
   - translation_iso: spa
     name: Adang
   - translation_iso: zho

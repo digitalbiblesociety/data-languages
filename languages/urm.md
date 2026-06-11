@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Urapmin
     auto: true
+  - translation_iso: rus
+    name: урапминский язык
+    auto: true
   - translation_iso: spa
     name: Urapmin
     auto: true

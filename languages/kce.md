@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kaivi
     auto: true
+  - translation_iso: rus
+    name: каивийский язык
+    auto: true
   - translation_iso: spa
     name: Kaivi
     auto: true

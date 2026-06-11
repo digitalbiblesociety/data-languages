@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bilaspuri
+  - translation_iso: rus
+    name: биласпурийский язык
+    auto: true
   - translation_iso: spa
     name: Bilaspuri
     auto: true

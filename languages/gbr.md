@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gbagyi
     auto: true
+  - translation_iso: rus
+    name: гбагйийский язык
+    auto: true
   - translation_iso: spa
     name: Gbagyi
     auto: true

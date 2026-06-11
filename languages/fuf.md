@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: pular
     auto: true
+  - translation_iso: rus
+    name: пуларский язык
+    auto: true
   - translation_iso: spa
     name: Pular
     auto: true

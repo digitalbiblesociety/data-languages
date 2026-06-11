@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Maremgi
     auto: true
+  - translation_iso: rus
+    name: маремгийский язык
+    auto: true
   - translation_iso: spa
     name: maremgi
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Momuna
     auto: true
+  - translation_iso: rus
+    name: момунский язык
+    auto: true
   - translation_iso: spa
     name: Momuna
     auto: true

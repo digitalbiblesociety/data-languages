@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bebil
     auto: true
+  - translation_iso: rus
+    name: бебильский язык
+    auto: true
   - translation_iso: spa
     name: Bebil
   - translation_iso: zho

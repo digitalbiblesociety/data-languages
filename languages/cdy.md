@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chadong
     auto: true
+  - translation_iso: rus
+    name: чадонгский язык
+    auto: true
   - translation_iso: spa
     name: Chadong
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sekapan
     auto: true
+  - translation_iso: rus
+    name: секапанский язык
+    auto: true
   - translation_iso: spa
     name: Sekapan
     auto: true

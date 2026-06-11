@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pindiini
     auto: true
+  - translation_iso: rus
+    name: пиндиинийский язык
+    auto: true
   - translation_iso: spa
     name: Pindiini
     auto: true

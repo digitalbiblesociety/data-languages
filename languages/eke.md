@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ekit
     auto: true
+  - translation_iso: rus
+    name: екитский язык
+    auto: true
   - translation_iso: spa
     name: Ekit
     auto: true

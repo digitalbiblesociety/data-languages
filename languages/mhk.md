@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mungaka
     auto: true
+  - translation_iso: rus
+    name: мунгакский язык
+    auto: true
   - translation_iso: spa
     name: Mungaka
     auto: true

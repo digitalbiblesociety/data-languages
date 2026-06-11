@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Uisai
     auto: true
+  - translation_iso: rus
+    name: уисаийский язык
+    auto: true
   - translation_iso: spa
     name: Uisai
     auto: true

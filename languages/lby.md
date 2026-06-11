@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lamalama
     auto: true
+  - translation_iso: rus
+    name: ламаламский язык
+    auto: true
   - translation_iso: spa
     name: Idioma lama-lama
   - translation_iso: zho

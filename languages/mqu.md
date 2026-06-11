@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mandari
+  - translation_iso: rus
+    name: мандарийский язык
+    auto: true
   - translation_iso: spa
     name: Mandari
     auto: true

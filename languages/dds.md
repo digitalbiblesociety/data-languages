@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Donno So
     auto: true
+  - translation_iso: rus
+    name: донно со догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Donno So
     auto: true

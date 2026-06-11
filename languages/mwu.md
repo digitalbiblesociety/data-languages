@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mittu
     auto: true
+  - translation_iso: rus
+    name: миттуский язык
+    auto: true
   - translation_iso: spa
     name: Mittu
     auto: true

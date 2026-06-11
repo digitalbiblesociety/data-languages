@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Labir
     auto: true
+  - translation_iso: rus
+    name: лабирский язык
+    auto: true
   - translation_iso: spa
     name: Labir
     auto: true

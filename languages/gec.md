@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: grebo de Gboloo
     auto: true
+  - translation_iso: rus
+    name: гболу гребоский язык
+    auto: true
   - translation_iso: spa
     name: Grebo gboloo
     auto: true

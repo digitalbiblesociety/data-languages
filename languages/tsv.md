@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tsogo
     auto: true
+  - translation_iso: rus
+    name: цогоский язык
+    auto: true
   - translation_iso: spa
     name: Tsogo
     auto: true

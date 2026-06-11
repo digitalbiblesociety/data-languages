@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyokon
     auto: true
+  - translation_iso: rus
+    name: нйоконский язык
+    auto: true
   - translation_iso: spa
     name: Nyokon
     auto: true

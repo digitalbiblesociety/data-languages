@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kalinga de Butbut
     auto: true
+  - translation_iso: rus
+    name: бутбут калингский язык
+    auto: true
   - translation_iso: spa
     name: Kalinga Butbut
     auto: true

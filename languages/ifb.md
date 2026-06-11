@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ifugao Batad
     auto: true
+  - translation_iso: rus
+    name: батад ифугаоский язык
+    auto: true
   - translation_iso: spa
     name: Ifugao de Batad
     auto: true

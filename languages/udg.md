@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Muduga
     auto: true
+  - translation_iso: rus
+    name: мудугский язык
+    auto: true
   - translation_iso: spa
     name: Muduga
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mae
     auto: true
+  - translation_iso: rus
+    name: маейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tirax
   - translation_iso: zho

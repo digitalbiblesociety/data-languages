@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Napu
     auto: true
+  - translation_iso: rus
+    name: напуский язык
+    auto: true
   - translation_iso: spa
     name: Napu
     auto: true

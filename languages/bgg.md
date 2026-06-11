@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bugun
     auto: true
+  - translation_iso: rus
+    name: бугунский язык
+    auto: true
   - translation_iso: spa
     name: bugun
   - translation_iso: zho

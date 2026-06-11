@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kenswei Nsei
     auto: true
+  - translation_iso: rus
+    name: кенсвеи нсеийский язык
+    auto: true
   - translation_iso: spa
     name: Kenswei Nsei
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chetti de Wayanad
     auto: true
+  - translation_iso: rus
+    name: ваянад четтийский язык
+    auto: true
   - translation_iso: spa
     name: Chetti de Wayanad
     auto: true

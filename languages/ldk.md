@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Leelau
     auto: true
+  - translation_iso: rus
+    name: лилауский язык
+    auto: true
   - translation_iso: spa
     name: Leelau
     auto: true

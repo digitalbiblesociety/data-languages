@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sera
     auto: true
+  - translation_iso: rus
+    name: серский язык
+    auto: true
   - translation_iso: spa
     name: Sera
     auto: true

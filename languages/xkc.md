@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: "Kho'ini"
     auto: true
+  - translation_iso: rus
+    name: хоинийский язык
+    auto: true
   - translation_iso: spa
     name: "Kho'ini"
     auto: true

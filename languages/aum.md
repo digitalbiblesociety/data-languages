@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Asu (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: асуский язык
+    auto: true
   - translation_iso: spa
     name: Asu (Nigeria)
     auto: true

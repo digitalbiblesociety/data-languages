@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Rongpo
     auto: true
+  - translation_iso: rus
+    name: ронгпоский язык
+    auto: true
   - translation_iso: spa
     name: Rongpo
     auto: true

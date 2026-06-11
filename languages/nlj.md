@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyali
     auto: true
+  - translation_iso: rus
+    name: нялийский язык
+    auto: true
   - translation_iso: spa
     name: Nyali
     auto: true

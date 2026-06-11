@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koshin
     auto: true
+  - translation_iso: rus
+    name: кошинский язык
+    auto: true
   - translation_iso: spa
     name: Koshin
     auto: true

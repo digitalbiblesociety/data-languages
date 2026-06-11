@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Santa Ana de Tusi Pasco
     auto: true
+  - translation_iso: rus
+    name: санта ана де туси паско квечуский язык
+    auto: true
   - translation_iso: spa
     name: "Quechua de Santa Ana de Tusi, Pasco"
     auto: true

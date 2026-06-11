@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Doromu-Koki
     auto: true
+  - translation_iso: rus
+    name: дорому-кокийский язык
+    auto: true
   - translation_iso: spa
     name: Doromu-Koki
     auto: true

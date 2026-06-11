@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Taman (Myanmar)
     auto: true
+  - translation_iso: rus
+    name: таманский язык
+    auto: true
   - translation_iso: spa
     name: Taman (Myanmar)
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ugong
     auto: true
+  - translation_iso: rus
+    name: угонгский язык
+    auto: true
   - translation_iso: spa
     name: Ugong
     auto: true

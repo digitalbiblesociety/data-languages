@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lewotobi
     auto: true
+  - translation_iso: rus
+    name: левотобийский язык
+    auto: true
   - translation_iso: spa
     name: Lewotobi
     auto: true

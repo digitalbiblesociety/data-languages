@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Razajerdi
     auto: true
+  - translation_iso: rus
+    name: разаердийский язык
+    auto: true
   - translation_iso: spa
     name: Razajerdi
     auto: true

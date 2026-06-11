@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kiunum
     auto: true
+  - translation_iso: rus
+    name: киунумский язык
+    auto: true
   - translation_iso: spa
     name: Kiunum
     auto: true

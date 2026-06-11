@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wom (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: вомский язык
+    auto: true
   - translation_iso: spa
     name: Wom (Papúa Nueva Guinea)
     auto: true

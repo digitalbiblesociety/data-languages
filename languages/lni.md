@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Daantanai
     auto: true
+  - translation_iso: rus
+    name: даантанаийский язык
+    auto: true
   - translation_iso: spa
     name: Daantanai
     auto: true

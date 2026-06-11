@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ubaghara
     auto: true
+  - translation_iso: rus
+    name: убагхарский язык
+    auto: true
   - translation_iso: spa
     name: Ubaghara
     auto: true

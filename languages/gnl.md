@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gangulu
     auto: true
+  - translation_iso: rus
+    name: гангулуский язык
+    auto: true
   - translation_iso: spa
     name: Gangulu
     auto: true

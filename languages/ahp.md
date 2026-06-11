@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Aizi Aproumu
     auto: true
+  - translation_iso: rus
+    name: апруму аизийский язык
+    auto: true
   - translation_iso: spa
     name: Aizi Aproumu
     auto: true

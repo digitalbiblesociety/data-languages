@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dixon Reef
     auto: true
+  - translation_iso: rus
+    name: диксон рифский язык
+    auto: true
   - translation_iso: spa
     name: Dixon Reef
     auto: true

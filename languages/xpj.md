@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Mpalitjanh
     auto: true
+  - translation_iso: rus
+    name: мпалитянхский язык
+    auto: true
   - translation_iso: spa
     name: Mpalitjanh
     auto: true

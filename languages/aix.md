@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Aighon
     auto: true
+  - translation_iso: rus
+    name: аигхонский язык
+    auto: true
   - translation_iso: spa
     name: Aighon
     auto: true

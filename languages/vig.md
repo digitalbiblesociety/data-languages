@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Viemo
     auto: true
+  - translation_iso: rus
+    name: виемоский язык
+    auto: true
   - translation_iso: spa
     name: Viemo
     auto: true

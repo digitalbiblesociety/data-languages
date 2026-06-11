@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Cineni
     auto: true
+  - translation_iso: rus
+    name: киненийский язык
+    auto: true
   - translation_iso: spa
     name: Cineni
     auto: true

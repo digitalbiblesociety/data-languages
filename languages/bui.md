@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bongili
     auto: true
+  - translation_iso: rus
+    name: бонгилийский язык
+    auto: true
   - translation_iso: spa
     name: Bongili
     auto: true

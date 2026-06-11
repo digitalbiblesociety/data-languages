@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Surbakhal
     auto: true
+  - translation_iso: rus
+    name: сурбахальский язык
+    auto: true
   - translation_iso: spa
     name: Surbakhal
     auto: true

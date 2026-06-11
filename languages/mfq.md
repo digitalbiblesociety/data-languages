@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Moba
     auto: true
+  - translation_iso: rus
+    name: мобский язык
+    auto: true
   - translation_iso: spa
     name: Moba
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bo-Ung
     auto: true
+  - translation_iso: rus
+    name: бо-унгский язык
+    auto: true
   - translation_iso: spa
     name: Bo-Ung
     auto: true

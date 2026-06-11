@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kpatili
     auto: true
+  - translation_iso: rus
+    name: кпатилийский язык
+    auto: true
   - translation_iso: spa
     name: Kpatili
     auto: true

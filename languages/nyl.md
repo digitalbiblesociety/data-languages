@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyeu
     auto: true
+  - translation_iso: rus
+    name: неуский язык
+    auto: true
   - translation_iso: spa
     name: Nyeu
     auto: true

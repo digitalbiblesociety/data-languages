@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Batuley
     auto: true
+  - translation_iso: rus
+    name: батулейский язык
+    auto: true
   - translation_iso: spa
     name: Batuley
     auto: true

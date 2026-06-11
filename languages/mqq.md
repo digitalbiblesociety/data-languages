@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Minokok
     auto: true
+  - translation_iso: rus
+    name: минококский язык
+    auto: true
   - translation_iso: spa
     name: Minokok
     auto: true

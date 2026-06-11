@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ranglong
     auto: true
+  - translation_iso: rus
+    name: ранглонгский язык
+    auto: true
   - translation_iso: spa
     name: Ranglong
     auto: true

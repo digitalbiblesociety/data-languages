@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Delo
     auto: true
+  - translation_iso: rus
+    name: делоский язык
+    auto: true
   - translation_iso: spa
     name: Delo
     auto: true

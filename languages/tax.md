@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tamki
     auto: true
+  - translation_iso: rus
+    name: тамкийский язык
+    auto: true
   - translation_iso: spa
     name: Tamki
     auto: true

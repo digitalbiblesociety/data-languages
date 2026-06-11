@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: fali de Baissa
     auto: true
+  - translation_iso: rus
+    name: баисса фалийский язык
+    auto: true
   - translation_iso: spa
     name: Fali de Baissa
     auto: true

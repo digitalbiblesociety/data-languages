@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kwese
     auto: true
+  - translation_iso: rus
+    name: квесейский язык
+    auto: true
   - translation_iso: spa
     name: Kwese
     auto: true

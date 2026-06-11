@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tawoyan
     auto: true
+  - translation_iso: rus
+    name: тавоянский язык
+    auto: true
   - translation_iso: spa
     name: Tawoyan
     auto: true

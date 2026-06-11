@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lardil
     auto: true
+  - translation_iso: rus
+    name: лардильский язык
+    auto: true
   - translation_iso: spa
     name: Lardil
     auto: true

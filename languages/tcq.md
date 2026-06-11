@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kaiy
     auto: true
+  - translation_iso: rus
+    name: каийский язык
+    auto: true
   - translation_iso: spa
     name: Kaiy
     auto: true

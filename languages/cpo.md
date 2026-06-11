@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kpeego
     auto: true
+  - translation_iso: rus
+    name: кпигоский язык
+    auto: true
   - translation_iso: spa
     name: Kpeego
     auto: true

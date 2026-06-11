@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lungga
     auto: true
+  - translation_iso: rus
+    name: лунггский язык
+    auto: true
   - translation_iso: spa
     name: Lungga
   - translation_iso: zho

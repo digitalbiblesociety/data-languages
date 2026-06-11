@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chinanteco de Tepinapa
     auto: true
+  - translation_iso: rus
+    name: тепинапа чинантекский язык
+    auto: true
   - translation_iso: spa
     name: chinanteca de Tepinapa
   - translation_iso: zho

@@ -36,6 +36,9 @@ translations:
     name: 수리가오논어
   - translation_iso: por
     name: Língua surigaonon
+  - translation_iso: rus
+    name: суригаононский язык
+    auto: true
   - translation_iso: spa
     name: idioma surigaense
   - translation_iso: zho

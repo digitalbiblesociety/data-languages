@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lame
     auto: true
+  - translation_iso: rus
+    name: ламейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma lame
   - translation_iso: zho

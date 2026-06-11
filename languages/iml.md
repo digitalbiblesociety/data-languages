@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Miluk
     auto: true
+  - translation_iso: rus
+    name: милукский язык
+    auto: true
   - translation_iso: spa
     name: Miluk
     auto: true

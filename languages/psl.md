@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Porto-Riquenha
     auto: true
+  - translation_iso: rus
+    name: пуерто рикан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas puertorriqueña
   - translation_iso: zho

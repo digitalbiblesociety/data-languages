@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Beti (Costa do Marfim)
     auto: true
+  - translation_iso: rus
+    name: бетийский язык
+    auto: true
   - translation_iso: spa
     name: Beti (Costa de Marfil)
     auto: true

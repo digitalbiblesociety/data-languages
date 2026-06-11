@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua jita
+  - translation_iso: rus
+    name: джитский язык
+    auto: true
   - translation_iso: spa
     name: Jita
     auto: true

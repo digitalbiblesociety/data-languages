@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kamantan
     auto: true
+  - translation_iso: rus
+    name: камантанский язык
+    auto: true
   - translation_iso: spa
     name: Kamantan
     auto: true

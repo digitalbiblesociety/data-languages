@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hewa
     auto: true
+  - translation_iso: rus
+    name: хевский язык
+    auto: true
   - translation_iso: spa
     name: Hewa
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Saep
     auto: true
+  - translation_iso: rus
+    name: саепский язык
+    auto: true
   - translation_iso: spa
     name: Saep
     auto: true

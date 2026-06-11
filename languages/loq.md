@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lobala
     auto: true
+  - translation_iso: rus
+    name: лобалский язык
+    auto: true
   - translation_iso: spa
     name: Lobala
     auto: true

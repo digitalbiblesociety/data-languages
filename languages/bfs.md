@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bai meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн баийский язык
+    auto: true
   - translation_iso: spa
     name: Bai del sur
     auto: true

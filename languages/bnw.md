@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bisis
     auto: true
+  - translation_iso: rus
+    name: бисисский язык
+    auto: true
   - translation_iso: spa
     name: Bisis
     auto: true

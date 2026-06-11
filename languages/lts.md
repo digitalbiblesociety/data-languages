@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tachoni
     auto: true
+  - translation_iso: rus
+    name: тачонийский язык
+    auto: true
   - translation_iso: spa
     name: Tachoni
     auto: true

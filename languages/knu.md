@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kono (Guiné)
     auto: true
+  - translation_iso: rus
+    name: коноский язык
+    auto: true
   - translation_iso: spa
     name: Kono (Guinea)
     auto: true

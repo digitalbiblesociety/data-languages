@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Notsi
     auto: true
+  - translation_iso: rus
+    name: ноцийский язык
+    auto: true
   - translation_iso: spa
     name: Notsi
     auto: true

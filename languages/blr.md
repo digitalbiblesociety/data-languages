@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Blang
     auto: true
+  - translation_iso: rus
+    name: блангский язык
+    auto: true
   - translation_iso: spa
     name: Blang
     auto: true

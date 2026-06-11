@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pouye
     auto: true
+  - translation_iso: rus
+    name: пуейский язык
+    auto: true
   - translation_iso: spa
     name: Pouye
     auto: true

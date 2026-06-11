@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kemedzung
     auto: true
+  - translation_iso: rus
+    name: кемедзунгский язык
+    auto: true
   - translation_iso: spa
     name: Kemedzung
     auto: true

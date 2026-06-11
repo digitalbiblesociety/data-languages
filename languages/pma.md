@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua paama
+  - translation_iso: rus
+    name: паамский язык
+    auto: true
   - translation_iso: spa
     name: Paama
     auto: true

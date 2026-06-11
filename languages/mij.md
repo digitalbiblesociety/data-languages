@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Abar
     auto: true
+  - translation_iso: rus
+    name: абарский язык
+    auto: true
   - translation_iso: spa
     name: Abar
     auto: true

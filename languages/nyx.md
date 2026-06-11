@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nganyaywana
     auto: true
+  - translation_iso: rus
+    name: нганяйванский язык
+    auto: true
   - translation_iso: spa
     name: Idioma anewan
   - translation_iso: zho

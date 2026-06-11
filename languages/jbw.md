@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Yawijibaya
     auto: true
+  - translation_iso: rus
+    name: явиджибайский язык
+    auto: true
   - translation_iso: spa
     name: Yawijibaya
     auto: true

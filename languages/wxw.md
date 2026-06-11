@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Wardandi
     auto: true
+  - translation_iso: rus
+    name: вардандийский язык
+    auto: true
   - translation_iso: spa
     name: Wardandi
     auto: true

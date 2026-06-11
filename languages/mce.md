@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Itundujia
     auto: true
+  - translation_iso: rus
+    name: итундуджиа микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Itundujia
     auto: true

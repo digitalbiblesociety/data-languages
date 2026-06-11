@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Nawathinehena
     auto: true
+  - translation_iso: rus
+    name: наватинехенский язык
+    auto: true
   - translation_iso: spa
     name: Nawathinehena
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Madak
     auto: true
+  - translation_iso: rus
+    name: мадакский язык
+    auto: true
   - translation_iso: spa
     name: Madak
     auto: true

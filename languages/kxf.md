@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karen Manumanaw
     auto: true
+  - translation_iso: rus
+    name: мануманав каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Manumanaw
     auto: true

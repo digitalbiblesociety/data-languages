@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyanga
     auto: true
+  - translation_iso: rus
+    name: нянгский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nyanga
   - translation_iso: zho

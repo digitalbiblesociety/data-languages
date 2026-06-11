@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mahasu pahari
+  - translation_iso: rus
+    name: махасу пахарийский язык
+    auto: true
   - translation_iso: spa
     name: Pahari de Mahasu
     auto: true

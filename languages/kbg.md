@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Khamba
     auto: true
+  - translation_iso: rus
+    name: хамбский язык
+    auto: true
   - translation_iso: spa
     name: Khamba
     auto: true

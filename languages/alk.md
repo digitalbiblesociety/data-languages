@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Alak
     auto: true
+  - translation_iso: rus
+    name: алакский язык
+    auto: true
   - translation_iso: spa
     name: Alak
     auto: true

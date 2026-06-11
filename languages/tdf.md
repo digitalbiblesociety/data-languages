@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Talieng
     auto: true
+  - translation_iso: rus
+    name: талиенгский язык
+    auto: true
   - translation_iso: spa
     name: Talieng
     auto: true

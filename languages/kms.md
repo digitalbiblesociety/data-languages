@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kamasau
     auto: true
+  - translation_iso: rus
+    name: камасауский язык
+    auto: true
   - translation_iso: spa
     name: Kamasau
     auto: true

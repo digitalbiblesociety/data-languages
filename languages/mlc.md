@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Cao Lan
     auto: true
+  - translation_iso: rus
+    name: као ланский язык
+    auto: true
   - translation_iso: spa
     name: Cao Lan
     auto: true

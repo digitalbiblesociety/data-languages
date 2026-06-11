@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bonkeng
     auto: true
+  - translation_iso: rus
+    name: бонкенгский язык
+    auto: true
   - translation_iso: spa
     name: bonkeng
   - translation_iso: zho

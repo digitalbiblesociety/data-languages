@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Glio-Oubi
     auto: true
+  - translation_iso: rus
+    name: глио-убийский язык
+    auto: true
   - translation_iso: spa
     name: Glio-Oubi
     auto: true

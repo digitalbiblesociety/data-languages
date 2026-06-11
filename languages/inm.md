@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mineano
     auto: true
+  - translation_iso: rus
+    name: минаеанский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mineo
   - translation_iso: zho

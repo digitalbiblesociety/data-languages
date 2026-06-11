@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tontemboan
     auto: true
+  - translation_iso: rus
+    name: тонтембоанский язык
+    auto: true
   - translation_iso: spa
     name: Tontemboan
     auto: true

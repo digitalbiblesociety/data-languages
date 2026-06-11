@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nzanyi
     auto: true
+  - translation_iso: rus
+    name: нзанйийский язык
+    auto: true
   - translation_iso: spa
     name: Nzanyi
     auto: true

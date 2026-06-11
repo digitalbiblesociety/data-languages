@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: iaca (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: якский язык
+    auto: true
   - translation_iso: spa
     name: yaka
   - translation_iso: zho

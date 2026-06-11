@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sur
     auto: true
+  - translation_iso: rus
+    name: сурский язык
+    auto: true
   - translation_iso: spa
     name: Sur
     auto: true

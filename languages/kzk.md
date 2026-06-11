@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kazukuru
     auto: true
+  - translation_iso: rus
+    name: казукуруский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kazukuru
   - translation_iso: zho

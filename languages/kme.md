@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bakole
     auto: true
+  - translation_iso: rus
+    name: баколейский язык
+    auto: true
   - translation_iso: spa
     name: Bakole
     auto: true

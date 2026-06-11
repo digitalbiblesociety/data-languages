@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dupaningan acta
+  - translation_iso: rus
+    name: дупанинан агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta Dupaninan
     auto: true

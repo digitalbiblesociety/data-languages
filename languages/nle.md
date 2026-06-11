@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyala Oriental
     auto: true
+  - translation_iso: rus
+    name: еаст нялский язык
+    auto: true
   - translation_iso: spa
     name: Nyala oriental
     auto: true

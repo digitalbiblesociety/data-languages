@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: "Bikol Buhi'non"
     auto: true
+  - translation_iso: rus
+    name: бухинон бикольский язык
+    auto: true
   - translation_iso: spa
     name: "Bikol Buhi'non"
     auto: true

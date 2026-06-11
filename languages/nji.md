@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gudanji
     auto: true
+  - translation_iso: rus
+    name: гуданджийский язык
+    auto: true
   - translation_iso: spa
     name: Gudanji
     auto: true

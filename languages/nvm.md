@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Namiae
     auto: true
+  - translation_iso: rus
+    name: намиаейский язык
+    auto: true
   - translation_iso: spa
     name: Namiae
     auto: true

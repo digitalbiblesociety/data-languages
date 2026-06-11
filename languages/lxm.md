@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lakurumau
     auto: true
+  - translation_iso: rus
+    name: лакурумауский язык
+    auto: true
   - translation_iso: spa
     name: Lakurumau
     auto: true

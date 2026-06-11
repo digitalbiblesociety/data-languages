@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chinês ping setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн пинг чинесерский язык
+    auto: true
   - translation_iso: spa
     name: Chino Ping Septentrional
     auto: true

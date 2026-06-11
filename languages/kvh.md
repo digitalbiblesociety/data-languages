@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Komodo
+  - translation_iso: rus
+    name: комодоский язык
+    auto: true
   - translation_iso: spa
     name: Komodo
   - translation_iso: zho

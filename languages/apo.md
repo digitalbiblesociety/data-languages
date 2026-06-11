@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ambul
     auto: true
+  - translation_iso: rus
+    name: амбульский язык
+    auto: true
   - translation_iso: spa
     name: Ambul
     auto: true

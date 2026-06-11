@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Havu
     auto: true
+  - translation_iso: rus
+    name: хавуский язык
+    auto: true
   - translation_iso: spa
     name: Havu
     auto: true

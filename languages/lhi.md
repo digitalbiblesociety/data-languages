@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lahu Shi
     auto: true
+  - translation_iso: rus
+    name: лаху шийский язык
+    auto: true
   - translation_iso: spa
     name: Lahu shi
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tharu de Kochila
     auto: true
+  - translation_iso: rus
+    name: кочила таруский язык
+    auto: true
   - translation_iso: spa
     name: Tharu Kochila
     auto: true

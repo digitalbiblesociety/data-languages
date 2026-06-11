@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Roma
     auto: true
+  - translation_iso: rus
+    name: ромский язык
+    auto: true
   - translation_iso: spa
     name: Roma
     auto: true

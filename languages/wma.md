@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mawa (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: мавский язык
+    auto: true
   - translation_iso: spa
     name: Mawa
     auto: true

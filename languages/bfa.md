@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bari
+  - translation_iso: rus
+    name: барийский язык
+    auto: true
   - translation_iso: spa
     name: Bari
     auto: true

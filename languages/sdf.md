@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Sarli
     auto: true
+  - translation_iso: rus
+    name: сарлийский язык
+    auto: true
   - translation_iso: spa
     name: Sarli
     auto: true

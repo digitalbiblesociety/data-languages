@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sagalla
     auto: true
+  - translation_iso: rus
+    name: сагаллский язык
+    auto: true
   - translation_iso: spa
     name: Sagalla
     auto: true

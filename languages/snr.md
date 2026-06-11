@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sihan
     auto: true
+  - translation_iso: rus
+    name: сиханский язык
+    auto: true
   - translation_iso: spa
     name: Sihan
     auto: true

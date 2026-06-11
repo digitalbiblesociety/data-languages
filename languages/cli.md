@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Chakali
     auto: true
+  - translation_iso: rus
+    name: чакалийский язык
+    auto: true
   - translation_iso: spa
     name: Chakali
     auto: true

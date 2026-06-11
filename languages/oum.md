@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ouma
     auto: true
+  - translation_iso: rus
+    name: умский язык
+    auto: true
   - translation_iso: spa
     name: Ouma
     auto: true

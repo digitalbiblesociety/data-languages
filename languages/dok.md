@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dondo
     auto: true
+  - translation_iso: rus
+    name: дондоский язык
+    auto: true
   - translation_iso: spa
     name: Dondo
     auto: true

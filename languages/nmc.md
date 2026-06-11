@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ngam
     auto: true
+  - translation_iso: rus
+    name: нгамский язык
+    auto: true
   - translation_iso: spa
     name: Ngam
     auto: true

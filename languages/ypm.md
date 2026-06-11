@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: phuma
     auto: true
+  - translation_iso: rus
+    name: фумский язык
+    auto: true
   - translation_iso: spa
     name: Phuma
     auto: true

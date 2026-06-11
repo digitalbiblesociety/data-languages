@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua menya
+  - translation_iso: rus
+    name: менйский язык
+    auto: true
   - translation_iso: spa
     name: Menya
     auto: true

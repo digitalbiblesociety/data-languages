@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: muji qila
     auto: true
+  - translation_iso: rus
+    name: кила муджийский язык
+    auto: true
   - translation_iso: spa
     name: Muji de Qila
     auto: true

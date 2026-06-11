@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wangaaybuwan-Ngiyambaa
     auto: true
+  - translation_iso: rus
+    name: вангаайбуван-нгиямбаский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngiyambaa
   - translation_iso: zho

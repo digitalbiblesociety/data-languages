@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kwanga
     auto: true
+  - translation_iso: rus
+    name: квангский язык
+    auto: true
   - translation_iso: spa
     name: Kwanga
     auto: true

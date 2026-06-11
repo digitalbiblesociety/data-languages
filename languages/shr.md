@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua shi
+  - translation_iso: rus
+    name: шийский язык
+    auto: true
   - translation_iso: spa
     name: Shi
     auto: true

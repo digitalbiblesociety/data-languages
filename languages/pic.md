@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pinji
     auto: true
+  - translation_iso: rus
+    name: пинджийский язык
+    auto: true
   - translation_iso: spa
     name: Pinji
     auto: true

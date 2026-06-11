@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Koli de Wadiyara
     auto: true
+  - translation_iso: rus
+    name: вадияра колийский язык
+    auto: true
   - translation_iso: spa
     name: Koli Wadiyara
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tegali
     auto: true
+  - translation_iso: rus
+    name: тегалийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tegali
   - translation_iso: zho

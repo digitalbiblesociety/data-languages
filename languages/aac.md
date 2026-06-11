@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ari
     auto: true
+  - translation_iso: rus
+    name: арийский язык
+    auto: true
   - translation_iso: spa
     name: Ari
     auto: true

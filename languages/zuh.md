@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tokano
     auto: true
+  - translation_iso: rus
+    name: токаноский язык
+    auto: true
   - translation_iso: spa
     name: Tokano
     auto: true

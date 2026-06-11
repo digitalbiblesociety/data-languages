@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kapin
     auto: true
+  - translation_iso: rus
+    name: капинский язык
+    auto: true
   - translation_iso: spa
     name: Kapin
   - translation_iso: zho

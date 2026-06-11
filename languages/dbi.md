@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Doka
     auto: true
+  - translation_iso: rus
+    name: докский язык
+    auto: true
   - translation_iso: spa
     name: Doka
     auto: true

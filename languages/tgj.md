@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tagin
     auto: true
+  - translation_iso: rus
+    name: тагинский язык
+    auto: true
   - translation_iso: spa
     name: Tagin
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mofu-Gudur
     auto: true
+  - translation_iso: rus
+    name: мофу-гудурский язык
+    auto: true
   - translation_iso: spa
     name: Mofu-Gudur
     auto: true

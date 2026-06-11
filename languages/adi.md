@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Adi
+  - translation_iso: rus
+    name: адийский язык
+    auto: true
   - translation_iso: spa
     name: adi
   - translation_iso: zho

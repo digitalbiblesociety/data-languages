@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lyngngam
     auto: true
+  - translation_iso: rus
+    name: лйнгнгамский язык
+    auto: true
   - translation_iso: spa
     name: Lyngngam
     auto: true

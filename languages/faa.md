@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Fasu
     auto: true
+  - translation_iso: rus
+    name: фасуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma fasu
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gula Iro
     auto: true
+  - translation_iso: rus
+    name: гула ироский язык
+    auto: true
   - translation_iso: spa
     name: Gula Iro
     auto: true

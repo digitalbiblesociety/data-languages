@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bannoni
     auto: true
+  - translation_iso: rus
+    name: баннонийский язык
+    auto: true
   - translation_iso: spa
     name: Bannoni
   - translation_iso: zho

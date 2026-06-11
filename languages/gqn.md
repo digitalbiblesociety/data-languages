@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Guana (Brasil)
     auto: true
+  - translation_iso: rus
+    name: гуанский язык
+    auto: true
   - translation_iso: spa
     name: kinikinao
   - translation_iso: zho

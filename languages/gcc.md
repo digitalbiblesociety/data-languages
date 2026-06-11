@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mali
     auto: true
+  - translation_iso: rus
+    name: малийский язык
+    auto: true
   - translation_iso: spa
     name: Mali
     auto: true

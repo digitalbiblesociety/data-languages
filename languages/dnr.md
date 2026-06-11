@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Danaru
     auto: true
+  - translation_iso: rus
+    name: данаруский язык
+    auto: true
   - translation_iso: spa
     name: Danaru
     auto: true

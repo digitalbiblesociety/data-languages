@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Purari
     auto: true
+  - translation_iso: rus
+    name: пурарийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma purari
   - translation_iso: zho

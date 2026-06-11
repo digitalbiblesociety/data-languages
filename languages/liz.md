@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Libinza
     auto: true
+  - translation_iso: rus
+    name: либинзский язык
+    auto: true
   - translation_iso: spa
     name: Libinza
     auto: true

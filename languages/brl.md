@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua birwa
+  - translation_iso: rus
+    name: бирвский язык
+    auto: true
   - translation_iso: spa
     name: Birwa
     auto: true

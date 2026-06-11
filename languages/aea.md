@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Areba
     auto: true
+  - translation_iso: rus
+    name: аребский язык
+    auto: true
   - translation_iso: spa
     name: Areba
     auto: true

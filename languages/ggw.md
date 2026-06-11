@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gogodala
     auto: true
+  - translation_iso: rus
+    name: гогодалский язык
+    auto: true
   - translation_iso: spa
     name: Gogodala
     auto: true

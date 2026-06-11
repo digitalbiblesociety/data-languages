@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais Cubana
+  - translation_iso: rus
+    name: куба сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas cubana
   - translation_iso: zho

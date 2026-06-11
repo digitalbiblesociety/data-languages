@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chonyi-Dzihana-Kauma
     auto: true
+  - translation_iso: rus
+    name: чонйи-дзихана-каумский язык
+    auto: true
   - translation_iso: spa
     name: Chonyi-Dzihana-Kauma
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Serui-Laut
     auto: true
+  - translation_iso: rus
+    name: серуи-лаутский язык
+    auto: true
   - translation_iso: spa
     name: Serui-Laut
     auto: true

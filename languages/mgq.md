@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malila
     auto: true
+  - translation_iso: rus
+    name: малилский язык
+    auto: true
   - translation_iso: spa
     name: Malila
     auto: true

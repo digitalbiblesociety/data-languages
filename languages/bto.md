@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua rinconada bikol
+  - translation_iso: rus
+    name: ринконада бикольский язык
+    auto: true
   - translation_iso: spa
     name: Bikol Rinconada
     auto: true

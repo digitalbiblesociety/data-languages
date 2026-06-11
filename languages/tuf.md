@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tunebo Central
     auto: true
+  - translation_iso: rus
+    name: кентрал тунебоский язык
+    auto: true
   - translation_iso: spa
     name: Tunebo central
     auto: true

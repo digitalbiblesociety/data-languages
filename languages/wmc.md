@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wamas
     auto: true
+  - translation_iso: rus
+    name: вамасский язык
+    auto: true
   - translation_iso: spa
     name: Wamas
     auto: true

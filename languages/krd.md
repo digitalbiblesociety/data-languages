@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kairui-Midiki
     auto: true
+  - translation_iso: rus
+    name: каируи-мидикийский язык
+    auto: true
   - translation_iso: spa
     name: Kairui-Midiki
     auto: true

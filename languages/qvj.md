@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Altas de Loja
     auto: true
+  - translation_iso: rus
+    name: лоя хигхланд квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Loja
     auto: true

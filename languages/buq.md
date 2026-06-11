@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Brem
     auto: true
+  - translation_iso: rus
+    name: бремский язык
+    auto: true
   - translation_iso: spa
     name: Brem
     auto: true

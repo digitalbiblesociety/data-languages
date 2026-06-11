@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua haroi
+  - translation_iso: rus
+    name: хароийский язык
+    auto: true
   - translation_iso: spa
     name: Haroi
     auto: true

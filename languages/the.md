@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tharu de Chitwania
     auto: true
+  - translation_iso: rus
+    name: читваниа таруский язык
+    auto: true
   - translation_iso: spa
     name: Tharu Chitwania
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kaniok
+  - translation_iso: rus
+    name: канйокский язык
+    auto: true
   - translation_iso: spa
     name: Kanyok
     auto: true

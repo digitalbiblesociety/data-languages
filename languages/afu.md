@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Awutu
     auto: true
+  - translation_iso: rus
+    name: авутуский язык
+    auto: true
   - translation_iso: spa
     name: Awutu
     auto: true

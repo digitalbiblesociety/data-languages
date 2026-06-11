@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jirel
     auto: true
+  - translation_iso: rus
+    name: джирельский язык
+    auto: true
   - translation_iso: spa
     name: Jirel
     auto: true

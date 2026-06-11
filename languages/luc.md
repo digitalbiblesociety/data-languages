@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua aringa
+  - translation_iso: rus
+    name: арингский язык
+    auto: true
   - translation_iso: spa
     name: Aringa
     auto: true

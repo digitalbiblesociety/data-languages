@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nisu Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн нисуский язык
+    auto: true
   - translation_iso: spa
     name: Nisu Meridional
     auto: true

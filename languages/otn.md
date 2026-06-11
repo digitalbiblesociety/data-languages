@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: otomi de Tenango
     auto: true
+  - translation_iso: rus
+    name: тенанго отомийский язык
+    auto: true
   - translation_iso: spa
     name: Otomí de Tenango
     auto: true

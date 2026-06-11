@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Luo (Camarões)
     auto: true
+  - translation_iso: rus
+    name: луоский язык
+    auto: true
   - translation_iso: spa
     name: Luo (Camerún)
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Corongo Ancash
     auto: true
+  - translation_iso: rus
+    name: коронго анкаш квечуский язык
+    auto: true
   - translation_iso: spa
     name: quechua de Corongo
   - translation_iso: zho

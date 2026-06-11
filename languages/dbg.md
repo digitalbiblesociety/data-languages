@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Dogul Dom
     auto: true
+  - translation_iso: rus
+    name: догул дом догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Dogul Dom
     auto: true

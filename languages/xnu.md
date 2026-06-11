@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nunukul
+  - translation_iso: rus
+    name: нукунульский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nunukul
   - translation_iso: zho

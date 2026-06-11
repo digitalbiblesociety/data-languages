@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nhamuanga
+  - translation_iso: rus
+    name: нямвангский язык
+    auto: true
   - translation_iso: spa
     name: Nyamwanga
     auto: true

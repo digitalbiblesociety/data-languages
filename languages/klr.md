@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua khaling
+  - translation_iso: rus
+    name: халингский язык
+    auto: true
   - translation_iso: spa
     name: Khaling
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Obanliku
     auto: true
+  - translation_iso: rus
+    name: обанликуский язык
+    auto: true
   - translation_iso: spa
     name: Obanliku
     auto: true

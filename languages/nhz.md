@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl de Santa María La Alta
     auto: true
+  - translation_iso: rus
+    name: санта мариа ла алта нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl de Santa María la Alta
     auto: true

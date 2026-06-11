@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kur
     auto: true
+  - translation_iso: rus
+    name: курский язык
+    auto: true
   - translation_iso: spa
     name: Kur
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wolof Gambiano
     auto: true
+  - translation_iso: rus
+    name: гамбиан волофский язык
+    auto: true
   - translation_iso: spa
     name: Wolof gambiano
     auto: true

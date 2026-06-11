@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bendi
     auto: true
+  - translation_iso: rus
+    name: бендийский язык
+    auto: true
   - translation_iso: spa
     name: Bendi
     auto: true

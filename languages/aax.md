@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mandobo Atas
     auto: true
+  - translation_iso: rus
+    name: мандобо атасский язык
+    auto: true
   - translation_iso: spa
     name: Mandobo Atas
     auto: true

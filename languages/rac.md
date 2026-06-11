@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Rasawa
     auto: true
+  - translation_iso: rus
+    name: расавский язык
+    auto: true
   - translation_iso: spa
     name: Rasawa
     auto: true

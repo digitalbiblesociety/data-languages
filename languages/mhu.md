@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua digaro mishmi
+  - translation_iso: rus
+    name: дигаро-мишмийский язык
+    auto: true
   - translation_iso: spa
     name: digarú
   - translation_iso: zho

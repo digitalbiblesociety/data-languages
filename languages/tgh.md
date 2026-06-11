@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo inglês de Tobago
+  - translation_iso: rus
+    name: тобагониан креоле енглишский язык
+    auto: true
   - translation_iso: spa
     name: Criollo inglés de Tobago
     auto: true

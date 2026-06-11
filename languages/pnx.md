@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phong-Kniang
     auto: true
+  - translation_iso: rus
+    name: фонг-книангский язык
+    auto: true
   - translation_iso: spa
     name: Phong-Kniang
     auto: true

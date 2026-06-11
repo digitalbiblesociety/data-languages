@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sebop
     auto: true
+  - translation_iso: rus
+    name: себопский язык
+    auto: true
   - translation_iso: spa
     name: Sebop
     auto: true

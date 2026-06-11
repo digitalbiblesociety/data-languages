@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Armázico
     auto: true
+  - translation_iso: rus
+    name: армазикский язык
+    auto: true
   - translation_iso: spa
     name: armázico
   - translation_iso: zho

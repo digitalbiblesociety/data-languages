@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Altas de Calderón
     auto: true
+  - translation_iso: rus
+    name: калдерон хигхланд квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Calderón
     auto: true

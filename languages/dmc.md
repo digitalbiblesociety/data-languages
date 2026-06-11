@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gavak
     auto: true
+  - translation_iso: rus
+    name: гавакский язык
+    auto: true
   - translation_iso: spa
     name: Gavak
     auto: true

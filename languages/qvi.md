@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Altas de Imbabura
     auto: true
+  - translation_iso: rus
+    name: имбабура хигхланд квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Imbabura
     auto: true

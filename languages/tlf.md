@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Telefol
     auto: true
+  - translation_iso: rus
+    name: телефольский язык
+    auto: true
   - translation_iso: spa
     name: Telefol
     auto: true

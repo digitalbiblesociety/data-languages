@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Nduga
     auto: true
+  - translation_iso: rus
+    name: ндугский язык
+    auto: true
   - translation_iso: spa
     name: Nduga
     auto: true

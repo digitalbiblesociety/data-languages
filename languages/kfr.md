@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kutchi
+  - translation_iso: rus
+    name: качхийский язык
+    auto: true
   - translation_iso: spa
     name: Kachhi
     auto: true

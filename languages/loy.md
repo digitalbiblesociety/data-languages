@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Loke
     auto: true
+  - translation_iso: rus
+    name: локейский язык
+    auto: true
   - translation_iso: spa
     name: Loke
     auto: true

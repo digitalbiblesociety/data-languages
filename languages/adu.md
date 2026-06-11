@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Aduge
     auto: true
+  - translation_iso: rus
+    name: адугейский язык
+    auto: true
   - translation_iso: spa
     name: Aduge
     auto: true

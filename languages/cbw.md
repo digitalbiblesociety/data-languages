@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kinabalian
     auto: true
+  - translation_iso: rus
+    name: кинабалианский язык
+    auto: true
   - translation_iso: spa
     name: Kinabalian
     auto: true

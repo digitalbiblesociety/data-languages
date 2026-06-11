@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Salt-Yui
     auto: true
+  - translation_iso: rus
+    name: салт-юийский язык
+    auto: true
   - translation_iso: spa
     name: Salt-Yui
     auto: true

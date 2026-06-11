@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: mixteco de Alacatlatzala
     auto: true
+  - translation_iso: rus
+    name: алакатлатзала микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Alacatlatzala
     auto: true

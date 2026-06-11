@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rempi
     auto: true
+  - translation_iso: rus
+    name: ремпийский язык
+    auto: true
   - translation_iso: spa
     name: Rempi
     auto: true

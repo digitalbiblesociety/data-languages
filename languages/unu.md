@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Unubahe
     auto: true
+  - translation_iso: rus
+    name: унубахейский язык
+    auto: true
   - translation_iso: spa
     name: Unubahe
     auto: true

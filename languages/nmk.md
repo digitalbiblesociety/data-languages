@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Namakura
     auto: true
+  - translation_iso: rus
+    name: намакурский язык
+    auto: true
   - translation_iso: spa
     name: Namakura
     auto: true

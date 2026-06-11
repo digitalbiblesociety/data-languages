@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kanum Bädi
     auto: true
+  - translation_iso: rus
+    name: бади канумский язык
+    auto: true
   - translation_iso: spa
     name: Bädi Kanum
     auto: true

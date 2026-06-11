@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: buyang langnian
     auto: true
+  - translation_iso: rus
+    name: лангниан буянгский язык
+    auto: true
   - translation_iso: spa
     name: Buyang de Langnian
     auto: true

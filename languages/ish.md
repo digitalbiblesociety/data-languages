@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Esan
     auto: true
+  - translation_iso: rus
+    name: есанский язык
+    auto: true
   - translation_iso: spa
     name: Esan
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Baga Sitemu
     auto: true
+  - translation_iso: rus
+    name: бага ситемуский язык
+    auto: true
   - translation_iso: spa
     name: Baga Sitemu
     auto: true

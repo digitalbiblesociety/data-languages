@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kurudu
     auto: true
+  - translation_iso: rus
+    name: курудуский язык
+    auto: true
   - translation_iso: spa
     name: kurudu
   - translation_iso: zho

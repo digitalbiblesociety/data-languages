@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Agta do Cagayan Central
     auto: true
+  - translation_iso: rus
+    name: кентрал кагаян агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta del Cagayán central
     auto: true

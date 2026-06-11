@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Pagi
+  - translation_iso: rus
+    name: пагийский язык
+    auto: true
   - translation_iso: spa
     name: Pagi
   - translation_iso: zho

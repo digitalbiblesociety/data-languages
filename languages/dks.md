@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dinka Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеастерн динкский язык
+    auto: true
   - translation_iso: spa
     name: Dinka Suroriental
     auto: true

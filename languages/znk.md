@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Manangkari
     auto: true
+  - translation_iso: rus
+    name: манангкарийский язык
+    auto: true
   - translation_iso: spa
     name: Manangkari
     auto: true

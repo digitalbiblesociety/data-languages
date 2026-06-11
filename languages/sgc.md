@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kipsigis
     auto: true
+  - translation_iso: rus
+    name: кипсигисский язык
+    auto: true
   - translation_iso: spa
     name: Kipsigis
     auto: true

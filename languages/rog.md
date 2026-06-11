@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Roglai Setentrional
     auto: true
+  - translation_iso: rus
+    name: нортерн роглаийский язык
+    auto: true
   - translation_iso: spa
     name: Roglai septentrional
     auto: true

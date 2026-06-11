@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Guiné
     auto: true
+  - translation_iso: rus
+    name: гуинеан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas guineana
     auto: true

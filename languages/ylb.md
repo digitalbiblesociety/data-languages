@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: yaleba
     auto: true
+  - translation_iso: rus
+    name: ялебский язык
+    auto: true
   - translation_iso: spa
     name: Yaleba
     auto: true

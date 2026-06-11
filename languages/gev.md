@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Eviya
     auto: true
+  - translation_iso: rus
+    name: евийский язык
+    auto: true
   - translation_iso: spa
     name: Eviya
     auto: true

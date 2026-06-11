@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: mayawali
     auto: true
+  - translation_iso: rus
+    name: маявалийский язык
+    auto: true
   - translation_iso: spa
     name: Mayawali
     auto: true

@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gogo
+  - translation_iso: rus
+    name: гогоский язык
+    auto: true
   - translation_iso: spa
     name: Gogo
     auto: true

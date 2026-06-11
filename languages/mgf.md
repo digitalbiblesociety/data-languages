@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Maklew
     auto: true
+  - translation_iso: rus
+    name: маклевский язык
+    auto: true
   - translation_iso: spa
     name: Maklew
     auto: true

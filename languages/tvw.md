@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Sedoa
     auto: true
+  - translation_iso: rus
+    name: седоский язык
+    auto: true
   - translation_iso: spa
     name: Sedoa
     auto: true

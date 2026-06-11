@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Barababaraba
     auto: true
+  - translation_iso: rus
+    name: барабабарабский язык
+    auto: true
   - translation_iso: spa
     name: Barababaraba
     auto: true

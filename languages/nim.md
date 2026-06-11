@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nilamba
     auto: true
+  - translation_iso: rus
+    name: ниламбский язык
+    auto: true
   - translation_iso: spa
     name: Nilamba
     auto: true

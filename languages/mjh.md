@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mwera (Nyasa)
     auto: true
+  - translation_iso: rus
+    name: няса мверский язык
+    auto: true
   - translation_iso: spa
     name: Mwera (Nyasa)
     auto: true

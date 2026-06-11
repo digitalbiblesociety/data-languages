@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ngawun
+  - translation_iso: rus
+    name: нгавунский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngawun
   - translation_iso: zho

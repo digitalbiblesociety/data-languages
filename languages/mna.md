@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mbula
+  - translation_iso: rus
+    name: мбулский язык
+    auto: true
   - translation_iso: spa
     name: Mbula
     auto: true

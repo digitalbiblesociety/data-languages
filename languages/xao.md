@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Khao
     auto: true
+  - translation_iso: rus
+    name: хаоский язык
+    auto: true
   - translation_iso: spa
     name: Khao
     auto: true

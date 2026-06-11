@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: karankawa
     auto: true
+  - translation_iso: rus
+    name: каранкавский язык
+    auto: true
   - translation_iso: spa
     name: idioma karankawa
   - translation_iso: zho

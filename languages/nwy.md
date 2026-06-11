@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Nottoway-Meherrin
     auto: true
+  - translation_iso: rus
+    name: ноттовай-мехерринский язык
+    auto: true
   - translation_iso: spa
     name: Nottoway-Meherrin
     auto: true

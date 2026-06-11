@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mander
     auto: true
+  - translation_iso: rus
+    name: мандерский язык
+    auto: true
   - translation_iso: spa
     name: mander
   - translation_iso: zho

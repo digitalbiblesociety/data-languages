@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Askopan
     auto: true
+  - translation_iso: rus
+    name: аскопанский язык
+    auto: true
   - translation_iso: spa
     name: askopan
   - translation_iso: zho

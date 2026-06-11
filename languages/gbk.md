@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gaddi
+  - translation_iso: rus
+    name: гаддийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma gaddi
   - translation_iso: zho

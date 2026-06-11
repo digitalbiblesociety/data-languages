@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bago-Kusuntu
     auto: true
+  - translation_iso: rus
+    name: баго-кусунтуский язык
+    auto: true
   - translation_iso: spa
     name: bago kusuntu
   - translation_iso: zho

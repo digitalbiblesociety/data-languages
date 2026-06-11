@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua latundê
+  - translation_iso: rus
+    name: латундейский язык
+    auto: true
   - translation_iso: spa
     name: Latundê
     auto: true

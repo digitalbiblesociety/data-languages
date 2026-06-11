@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua chrau
+  - translation_iso: rus
+    name: чрауский язык
+    auto: true
   - translation_iso: spa
     name: Chrau
     auto: true

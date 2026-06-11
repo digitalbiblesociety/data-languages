@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Heyo
     auto: true
+  - translation_iso: rus
+    name: хейоский язык
+    auto: true
   - translation_iso: spa
     name: Heyo
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Aribwatsa
     auto: true
+  - translation_iso: rus
+    name: арибвацский язык
+    auto: true
   - translation_iso: spa
     name: Idioma aribwatsa
   - translation_iso: zho

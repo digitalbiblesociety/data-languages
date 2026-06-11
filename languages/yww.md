@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yawarawarga
     auto: true
+  - translation_iso: rus
+    name: явараваргский язык
+    auto: true
   - translation_iso: spa
     name: Yawarawarga
     auto: true

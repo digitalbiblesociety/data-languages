@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mombum
     auto: true
+  - translation_iso: rus
+    name: момбумский язык
+    auto: true
   - translation_iso: spa
     name: Mombum
     auto: true

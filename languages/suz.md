@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua sunwar
+  - translation_iso: rus
+    name: сунварский язык
+    auto: true
   - translation_iso: spa
     name: Sunwar
     auto: true

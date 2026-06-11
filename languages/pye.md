@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Krumen Pye
     auto: true
+  - translation_iso: rus
+    name: пе круменский язык
+    auto: true
   - translation_iso: spa
     name: Krumen Pye
     auto: true

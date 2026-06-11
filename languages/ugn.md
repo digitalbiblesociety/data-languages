@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais do Uganda
+  - translation_iso: rus
+    name: угандан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas ugandesa
     auto: true

@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bhatri
+  - translation_iso: rus
+    name: бхатрийский язык
+    auto: true
   - translation_iso: spa
     name: Bhatri
     auto: true

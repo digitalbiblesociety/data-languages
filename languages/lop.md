@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lopa
     auto: true
+  - translation_iso: rus
+    name: лопский язык
+    auto: true
   - translation_iso: spa
     name: Lopa
     auto: true

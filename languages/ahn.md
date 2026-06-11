@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Àhàn
     auto: true
+  - translation_iso: rus
+    name: аханский язык
+    auto: true
   - translation_iso: spa
     name: Àhàn
     auto: true

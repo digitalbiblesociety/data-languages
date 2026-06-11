@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vehes
     auto: true
+  - translation_iso: rus
+    name: вехесский язык
+    auto: true
   - translation_iso: spa
     name: Vehes
   - translation_iso: zho

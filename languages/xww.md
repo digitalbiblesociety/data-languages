@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua wemba wemba
+  - translation_iso: rus
+    name: вемба вембский язык
+    auto: true
   - translation_iso: spa
     name: Idioma wemba-wemba
   - translation_iso: zho

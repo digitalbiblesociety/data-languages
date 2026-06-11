@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tsetsaut
     auto: true
+  - translation_iso: rus
+    name: цецаутский язык
+    auto: true
   - translation_iso: spa
     name: tsetsaut
   - translation_iso: zho

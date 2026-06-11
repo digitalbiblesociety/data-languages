@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kélé
     auto: true
+  - translation_iso: rus
+    name: келейский язык
+    auto: true
   - translation_iso: spa
     name: Kélé
     auto: true

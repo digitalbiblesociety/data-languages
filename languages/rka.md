@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kraol
     auto: true
+  - translation_iso: rus
+    name: краольский язык
+    auto: true
   - translation_iso: spa
     name: Kraol
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Chepang
     auto: true
+  - translation_iso: rus
+    name: чепангский язык
+    auto: true
   - translation_iso: spa
     name: Chepang
     auto: true

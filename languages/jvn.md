@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: javanês caribenho
     auto: true
+  - translation_iso: rus
+    name: кариббеан яванесейский язык
+    auto: true
   - translation_iso: spa
     name: Javanés caribeño
     auto: true

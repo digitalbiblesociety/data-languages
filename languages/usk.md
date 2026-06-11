@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Usaghade
     auto: true
+  - translation_iso: rus
+    name: усагхадейский язык
+    auto: true
   - translation_iso: spa
     name: Usaghade
     auto: true

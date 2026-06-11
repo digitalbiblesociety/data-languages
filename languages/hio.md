@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tsoa
     auto: true
+  - translation_iso: rus
+    name: цоский язык
+    auto: true
   - translation_iso: spa
     name: Tsoa
   - translation_iso: zho

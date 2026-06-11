@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngarinyin
     auto: true
+  - translation_iso: rus
+    name: нгаринйинский язык
+    auto: true
   - translation_iso: spa
     name: Ngarinyin
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wapan
     auto: true
+  - translation_iso: rus
+    name: вапанский язык
+    auto: true
   - translation_iso: spa
     name: Wapan
     auto: true

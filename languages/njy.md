@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Njyem
     auto: true
+  - translation_iso: rus
+    name: нджемский язык
+    auto: true
   - translation_iso: spa
     name: Njyem
     auto: true

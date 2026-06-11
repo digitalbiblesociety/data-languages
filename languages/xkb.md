@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nago do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн нагоский язык
+    auto: true
   - translation_iso: spa
     name: Nago del Norte
     auto: true

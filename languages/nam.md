@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ngangikurrunggurr
+  - translation_iso: rus
+    name: нгангитемеррийский язык
+    auto: true
   - translation_iso: spa
     name: "Ngan'gityemerri"
     auto: true

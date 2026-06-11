@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nauna
     auto: true
+  - translation_iso: rus
+    name: наунский язык
+    auto: true
   - translation_iso: spa
     name: Nauna
     auto: true

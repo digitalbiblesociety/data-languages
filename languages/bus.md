@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bokobaru
     auto: true
+  - translation_iso: rus
+    name: бокобаруский язык
+    auto: true
   - translation_iso: spa
     name: Bokobaru
     auto: true

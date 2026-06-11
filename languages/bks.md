@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sorsoganon do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн сорсоганонский язык
+    auto: true
   - translation_iso: spa
     name: Sorsoganón del norte
     auto: true

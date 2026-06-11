@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Warungu
     auto: true
+  - translation_iso: rus
+    name: варунгуский язык
+    auto: true
   - translation_iso: spa
     name: idioma warrungu
   - translation_iso: zho

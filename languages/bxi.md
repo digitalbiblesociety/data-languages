@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pirlatapa
     auto: true
+  - translation_iso: rus
+    name: пирлатапский язык
+    auto: true
   - translation_iso: spa
     name: Pirlatapa
     auto: true

@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais da Tunísia
+  - translation_iso: rus
+    name: тунисиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas tunecina
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: labo phowa
     auto: true
+  - translation_iso: rus
+    name: лабо фовский язык
+    auto: true
   - translation_iso: spa
     name: Labo Phowa
     auto: true

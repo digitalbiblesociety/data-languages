@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Burak
     auto: true
+  - translation_iso: rus
+    name: буракский язык
+    auto: true
   - translation_iso: spa
     name: Burak
     auto: true

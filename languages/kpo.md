@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ikposo
     auto: true
+  - translation_iso: rus
+    name: икпосоский язык
+    auto: true
   - translation_iso: spa
     name: Ikposo
     auto: true

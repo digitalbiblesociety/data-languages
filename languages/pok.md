@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Pokangá
     auto: true
+  - translation_iso: rus
+    name: покангский язык
+    auto: true
   - translation_iso: spa
     name: Pokangá
     auto: true

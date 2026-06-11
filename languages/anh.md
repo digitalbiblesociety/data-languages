@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nend
     auto: true
+  - translation_iso: rus
+    name: нендский язык
+    auto: true
   - translation_iso: spa
     name: Nend
     auto: true

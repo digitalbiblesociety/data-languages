@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua rangpuri
+  - translation_iso: rus
+    name: рангпурийский язык
+    auto: true
   - translation_iso: spa
     name: Rangpuri
     auto: true

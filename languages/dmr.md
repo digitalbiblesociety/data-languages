@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Damar Timur
+  - translation_iso: rus
+    name: еаст дамарский язык
+    auto: true
   - translation_iso: spa
     name: Damar Timur
   - translation_iso: zho

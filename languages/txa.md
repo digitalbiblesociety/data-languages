@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tombonuo
     auto: true
+  - translation_iso: rus
+    name: томбонуоский язык
+    auto: true
   - translation_iso: spa
     name: Tombonuo
     auto: true

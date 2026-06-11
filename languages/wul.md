@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Silimo
     auto: true
+  - translation_iso: rus
+    name: силимоский язык
+    auto: true
   - translation_iso: spa
     name: Silimo
     auto: true

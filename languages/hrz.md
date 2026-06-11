@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Harzani
     auto: true
+  - translation_iso: rus
+    name: харзанийский язык
+    auto: true
   - translation_iso: spa
     name: Harzani
     auto: true

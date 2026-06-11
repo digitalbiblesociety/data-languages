@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mixteco de Tlaxiaco do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн тлаксиако микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco del norte de Tlaxiaco
     auto: true

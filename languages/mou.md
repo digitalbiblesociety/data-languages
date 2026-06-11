@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mogum
     auto: true
+  - translation_iso: rus
+    name: могумский язык
+    auto: true
   - translation_iso: spa
     name: Mogum
     auto: true

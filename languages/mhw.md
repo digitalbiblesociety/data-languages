@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mbukushu
+  - translation_iso: rus
+    name: мбукушуский язык
+    auto: true
   - translation_iso: spa
     name: Mbukushu
   - translation_iso: zho

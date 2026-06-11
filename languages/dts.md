@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dogon Toro So
     auto: true
+  - translation_iso: rus
+    name: торо со догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Toro So
     auto: true

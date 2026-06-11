@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gija
+  - translation_iso: rus
+    name: кийский язык
+    auto: true
   - translation_iso: spa
     name: Kija
   - translation_iso: zho

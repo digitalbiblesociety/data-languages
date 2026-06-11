@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nambas Grande
     auto: true
+  - translation_iso: rus
+    name: биг намбасский язык
+    auto: true
   - translation_iso: spa
     name: Idioma big nambas
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kaiku
     auto: true
+  - translation_iso: rus
+    name: каикуский язык
+    auto: true
   - translation_iso: spa
     name: Kaiku
     auto: true

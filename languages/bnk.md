@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bierebo
     auto: true
+  - translation_iso: rus
+    name: биеребоский язык
+    auto: true
   - translation_iso: spa
     name: Bierebo
     auto: true

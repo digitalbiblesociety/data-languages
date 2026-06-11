@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tulu-Bohuai
     auto: true
+  - translation_iso: rus
+    name: тулу-бохуаийский язык
+    auto: true
   - translation_iso: spa
     name: Tulu-Bohuai
     auto: true

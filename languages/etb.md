@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Etebi
     auto: true
+  - translation_iso: rus
+    name: етебийский язык
+    auto: true
   - translation_iso: spa
     name: Etebi
     auto: true

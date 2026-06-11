@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Morawa
     auto: true
+  - translation_iso: rus
+    name: моравский язык
+    auto: true
   - translation_iso: spa
     name: Morawa
     auto: true

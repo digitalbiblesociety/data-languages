@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hakö
     auto: true
+  - translation_iso: rus
+    name: хакоский язык
+    auto: true
   - translation_iso: spa
     name: Hakö
   - translation_iso: zho

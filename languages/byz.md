@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Banaro
     auto: true
+  - translation_iso: rus
+    name: банароский язык
+    auto: true
   - translation_iso: spa
     name: Banaro
     auto: true

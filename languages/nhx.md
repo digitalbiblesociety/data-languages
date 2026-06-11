@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nahuatl do Istmo-Mecayapan
     auto: true
+  - translation_iso: rus
+    name: истмус-мекаяпан нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Istmo-Mecayapan
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Moklen
     auto: true
+  - translation_iso: rus
+    name: мокленский язык
+    auto: true
   - translation_iso: spa
     name: Moklen
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: iamalele
     auto: true
+  - translation_iso: rus
+    name: иамалелейский язык
+    auto: true
   - translation_iso: spa
     name: Iamalele
     auto: true

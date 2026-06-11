@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sinasina
     auto: true
+  - translation_iso: rus
+    name: синасинский язык
+    auto: true
   - translation_iso: spa
     name: Sinasina
     auto: true

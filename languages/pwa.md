@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Pawaia
     auto: true
+  - translation_iso: rus
+    name: паваиский язык
+    auto: true
   - translation_iso: spa
     name: Pawaia
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Awbono
     auto: true
+  - translation_iso: rus
+    name: авбоноский язык
+    auto: true
   - translation_iso: spa
     name: Awbono
     auto: true

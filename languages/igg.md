@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Igana
     auto: true
+  - translation_iso: rus
+    name: иганский язык
+    auto: true
   - translation_iso: spa
     name: Igana
     auto: true

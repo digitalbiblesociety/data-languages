@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Suíço-Italiana
     auto: true
+  - translation_iso: rus
+    name: свисс-италиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas Suizo-Italiana
     auto: true

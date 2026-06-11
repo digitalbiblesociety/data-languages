@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mituku
     auto: true
+  - translation_iso: rus
+    name: митукуский язык
+    auto: true
   - translation_iso: spa
     name: Mituku
     auto: true

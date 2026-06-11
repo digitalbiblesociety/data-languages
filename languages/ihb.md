@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pidgin Baseado no Iha
     auto: true
+  - translation_iso: rus
+    name: иха басед пидгинский язык
+    auto: true
   - translation_iso: spa
     name: Pidgin basado en Iha
     auto: true

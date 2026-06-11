@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Daloa Bété
     auto: true
+  - translation_iso: rus
+    name: далоа бетейский язык
+    auto: true
   - translation_iso: spa
     name: Bété de Daloa
     auto: true

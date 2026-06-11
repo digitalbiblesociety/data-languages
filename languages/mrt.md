@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: marghi central
     auto: true
+  - translation_iso: rus
+    name: маргхи кентральский язык
+    auto: true
   - translation_iso: spa
     name: Marghi Central
     auto: true

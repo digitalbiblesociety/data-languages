@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maridjabin
     auto: true
+  - translation_iso: rus
+    name: маридябинский язык
+    auto: true
   - translation_iso: spa
     name: Maridjabin
     auto: true

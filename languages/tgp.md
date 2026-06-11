@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tangoa
+  - translation_iso: rus
+    name: тангоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma tangoa
   - translation_iso: zho

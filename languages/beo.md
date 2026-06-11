@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Beami
     auto: true
+  - translation_iso: rus
+    name: беамийский язык
+    auto: true
   - translation_iso: spa
     name: Beami
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Batu
     auto: true
+  - translation_iso: rus
+    name: батуский язык
+    auto: true
   - translation_iso: spa
     name: batu
   - translation_iso: zho

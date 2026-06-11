@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lidzonka
     auto: true
+  - translation_iso: rus
+    name: лидзонкский язык
+    auto: true
   - translation_iso: spa
     name: dzodinka
   - translation_iso: zho

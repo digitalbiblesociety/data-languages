@@ -35,6 +35,9 @@ translations:
     name: 체무힝어
   - translation_iso: por
     name: Língua cèmuhi
+  - translation_iso: rus
+    name: кемухийский язык
+    auto: true
   - translation_iso: spa
     name: Cemuhî
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tita
     auto: true
+  - translation_iso: rus
+    name: титский язык
+    auto: true
   - translation_iso: spa
     name: Tita
     auto: true

@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: batui
     auto: true
+  - translation_iso: rus
+    name: батуийский язык
+    auto: true
   - translation_iso: spa
     name: Batui
     auto: true

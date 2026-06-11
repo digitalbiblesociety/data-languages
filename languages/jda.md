@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jad
     auto: true
+  - translation_iso: rus
+    name: ядский язык
+    auto: true
   - translation_iso: spa
     name: Jad
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nekgini
     auto: true
+  - translation_iso: rus
+    name: некгинийский язык
+    auto: true
   - translation_iso: spa
     name: Nekgini
     auto: true

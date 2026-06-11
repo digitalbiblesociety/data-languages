@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Khayo
     auto: true
+  - translation_iso: rus
+    name: хайоский язык
+    auto: true
   - translation_iso: spa
     name: Khayo
     auto: true

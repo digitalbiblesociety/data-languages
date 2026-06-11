@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dhudhuroa
     auto: true
+  - translation_iso: rus
+    name: дхудхуроский язык
+    auto: true
   - translation_iso: spa
     name: Idioma dhudhuroa
   - translation_iso: zho

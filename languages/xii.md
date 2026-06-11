@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua xiri
+  - translation_iso: rus
+    name: ксирийский язык
+    auto: true
   - translation_iso: spa
     name: Xiri
     auto: true

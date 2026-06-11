@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mamboru
     auto: true
+  - translation_iso: rus
+    name: мамборуский язык
+    auto: true
   - translation_iso: spa
     name: Mamboru
     auto: true

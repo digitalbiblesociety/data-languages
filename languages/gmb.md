@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Gula'alaa"
     auto: true
+  - translation_iso: rus
+    name: гулаалаский язык
+    auto: true
   - translation_iso: spa
     name: "Gula'alaa"
   - translation_iso: zho

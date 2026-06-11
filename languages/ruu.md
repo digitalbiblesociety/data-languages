@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lanas Lobu
     auto: true
+  - translation_iso: rus
+    name: ланас лобуский язык
+    auto: true
   - translation_iso: spa
     name: Lanas Lobu
     auto: true

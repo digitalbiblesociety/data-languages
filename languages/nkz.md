@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nkari
     auto: true
+  - translation_iso: rus
+    name: нкарийский язык
+    auto: true
   - translation_iso: spa
     name: Nkari
     auto: true

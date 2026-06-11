@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Stod Bhoti
     auto: true
+  - translation_iso: rus
+    name: стод бхотийский язык
+    auto: true
   - translation_iso: spa
     name: Stod Bhoti
     auto: true

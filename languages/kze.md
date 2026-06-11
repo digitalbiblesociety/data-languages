@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Kosena
     auto: true
+  - translation_iso: rus
+    name: косенский язык
+    auto: true
   - translation_iso: spa
     name: Kosena
     auto: true

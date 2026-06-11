@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lorediakarkar
     auto: true
+  - translation_iso: rus
+    name: лоредиакаркарский язык
+    auto: true
   - translation_iso: spa
     name: Lorediakarkar
     auto: true

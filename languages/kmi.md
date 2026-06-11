@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kami (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: камийский язык
+    auto: true
   - translation_iso: spa
     name: Kami (Nigeria)
     auto: true

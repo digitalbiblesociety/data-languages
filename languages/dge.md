@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Degenan
     auto: true
+  - translation_iso: rus
+    name: дегенанский язык
+    auto: true
   - translation_iso: spa
     name: Degenan
     auto: true

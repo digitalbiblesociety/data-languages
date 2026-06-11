@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Baelelea
     auto: true
+  - translation_iso: rus
+    name: баелелеский язык
+    auto: true
   - translation_iso: spa
     name: Baelelea
   - translation_iso: zho

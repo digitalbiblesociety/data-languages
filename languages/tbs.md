@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tanguat
     auto: true
+  - translation_iso: rus
+    name: тангуатский язык
+    auto: true
   - translation_iso: spa
     name: Tanguat
     auto: true

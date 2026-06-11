@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Njebi
     auto: true
+  - translation_iso: rus
+    name: небийский язык
+    auto: true
   - translation_iso: spa
     name: Njebi
     auto: true

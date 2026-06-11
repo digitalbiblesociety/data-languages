@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Crioulo inglês de Granada
+  - translation_iso: rus
+    name: гренадиан креоле енглишский язык
+    auto: true
   - translation_iso: spa
     name: Inglés criollo granadino
   - translation_iso: zho

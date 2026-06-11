@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Kyan-Karyaw
     auto: true
+  - translation_iso: rus
+    name: кян-каряв нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Kyan-Karyaw
     auto: true

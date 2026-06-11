@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sumau
     auto: true
+  - translation_iso: rus
+    name: сумауский язык
+    auto: true
   - translation_iso: spa
     name: Sumau
     auto: true

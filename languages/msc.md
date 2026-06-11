@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: maninca de Sankaran
     auto: true
+  - translation_iso: rus
+    name: санкаран манинкский язык
+    auto: true
   - translation_iso: spa
     name: Maninka de Sankaran
     auto: true

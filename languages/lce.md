@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Loncong
     auto: true
+  - translation_iso: rus
+    name: лонконгский язык
+    auto: true
   - translation_iso: spa
     name: Loncong
     auto: true

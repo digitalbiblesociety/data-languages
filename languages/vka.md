@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kariyarra
     auto: true
+  - translation_iso: rus
+    name: карияррский язык
+    auto: true
   - translation_iso: spa
     name: Kariyarra
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Miwa
     auto: true
+  - translation_iso: rus
+    name: мивский язык
+    auto: true
   - translation_iso: spa
     name: Miwa
     auto: true

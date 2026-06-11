@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngasa
     auto: true
+  - translation_iso: rus
+    name: нгасский язык
+    auto: true
   - translation_iso: spa
     name: Ngasa
     auto: true

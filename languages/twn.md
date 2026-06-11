@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Twendi
     auto: true
+  - translation_iso: rus
+    name: твендийский язык
+    auto: true
   - translation_iso: spa
     name: Twendi
     auto: true

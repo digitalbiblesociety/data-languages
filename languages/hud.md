@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Huaulu
     auto: true
+  - translation_iso: rus
+    name: хуаулуский язык
+    auto: true
   - translation_iso: spa
     name: Huaulu
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Madhi Madhi
     auto: true
+  - translation_iso: rus
+    name: мадхи мадхийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma madhi-madhi
   - translation_iso: zho

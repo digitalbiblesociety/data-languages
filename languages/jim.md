@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jimi (Camarões)
     auto: true
+  - translation_iso: rus
+    name: джимийский язык
+    auto: true
   - translation_iso: spa
     name: Jimi (Camerún)
     auto: true

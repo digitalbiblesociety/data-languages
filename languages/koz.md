@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Korak
     auto: true
+  - translation_iso: rus
+    name: коракский язык
+    auto: true
   - translation_iso: spa
     name: Korak
     auto: true

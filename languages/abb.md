@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bankon
     auto: true
+  - translation_iso: rus
+    name: банконский язык
+    auto: true
   - translation_iso: spa
     name: bankon
   - translation_iso: zho

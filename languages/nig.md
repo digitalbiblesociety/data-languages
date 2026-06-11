@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngalakgan
     auto: true
+  - translation_iso: rus
+    name: нгалакганский язык
+    auto: true
   - translation_iso: spa
     name: Ngalakgan
     auto: true

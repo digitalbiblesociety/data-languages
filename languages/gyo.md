@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Gyalsumdo
     auto: true
+  - translation_iso: rus
+    name: гялсумдоский язык
+    auto: true
   - translation_iso: spa
     name: Gyalsumdo
     auto: true

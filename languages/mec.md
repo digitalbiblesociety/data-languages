@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Marra
     auto: true
+  - translation_iso: rus
+    name: маррский язык
+    auto: true
   - translation_iso: spa
     name: Marra
     auto: true

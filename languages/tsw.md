@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tsishingini
     auto: true
+  - translation_iso: rus
+    name: цишингинийский язык
+    auto: true
   - translation_iso: spa
     name: Tsishingini
     auto: true

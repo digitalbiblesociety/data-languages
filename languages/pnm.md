@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Punan Batu 1
     auto: true
+  - translation_iso: rus
+    name: пунан батуский язык
+    auto: true
   - translation_iso: spa
     name: Punan Batu 1
     auto: true

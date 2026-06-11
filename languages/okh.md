@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Koresh-e Rostam
     auto: true
+  - translation_iso: rus
+    name: кореш-е ростамский язык
+    auto: true
   - translation_iso: spa
     name: Koresh-e Rostam
     auto: true

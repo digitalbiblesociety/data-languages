@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Runga
     auto: true
+  - translation_iso: rus
+    name: рунгский язык
+    auto: true
   - translation_iso: spa
     name: Runga
     auto: true

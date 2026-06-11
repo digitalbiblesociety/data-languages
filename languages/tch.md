@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Inglês Crioulo de Turks e Caicos
     auto: true
+  - translation_iso: rus
+    name: туркс анд каикос креоле енглишский язык
+    auto: true
   - translation_iso: spa
     name: Criollo inglés de Turks y Caicos
     auto: true

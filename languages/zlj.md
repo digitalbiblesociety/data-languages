@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zhuang de Liujiang
     auto: true
+  - translation_iso: rus
+    name: лиуджианг жуангский язык
+    auto: true
   - translation_iso: spa
     name: Zhuang Liujiang
   - translation_iso: zho

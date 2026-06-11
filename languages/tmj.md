@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Samarokena
     auto: true
+  - translation_iso: rus
+    name: самарокенский язык
+    auto: true
   - translation_iso: spa
     name: idioma samarokena
   - translation_iso: zho

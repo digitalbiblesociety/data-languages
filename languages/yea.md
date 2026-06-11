@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ravula
+  - translation_iso: rus
+    name: равулский язык
+    auto: true
   - translation_iso: spa
     name: Ravula
     auto: true

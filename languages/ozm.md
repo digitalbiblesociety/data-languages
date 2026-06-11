@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koonzime
     auto: true
+  - translation_iso: rus
+    name: кунзимейский язык
+    auto: true
   - translation_iso: spa
     name: Koonzime
     auto: true

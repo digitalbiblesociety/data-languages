@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kir-Balar
     auto: true
+  - translation_iso: rus
+    name: кир-баларский язык
+    auto: true
   - translation_iso: spa
     name: Kir-Balar
     auto: true

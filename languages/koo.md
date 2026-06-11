@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua konjo
+  - translation_iso: rus
+    name: конзоский язык
+    auto: true
   - translation_iso: spa
     name: Konzo
     auto: true

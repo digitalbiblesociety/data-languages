@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Teke-Nzikou
     auto: true
+  - translation_iso: rus
+    name: теке-нзикуский язык
+    auto: true
   - translation_iso: spa
     name: Teke-Nzikou
     auto: true

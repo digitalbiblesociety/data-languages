@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Atampaya
     auto: true
+  - translation_iso: rus
+    name: атампайский язык
+    auto: true
   - translation_iso: spa
     name: Atampaya
     auto: true

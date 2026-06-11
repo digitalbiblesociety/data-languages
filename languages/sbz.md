@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sara Kaba
     auto: true
+  - translation_iso: rus
+    name: сара кабский язык
+    auto: true
   - translation_iso: spa
     name: Sara Kaba
     auto: true

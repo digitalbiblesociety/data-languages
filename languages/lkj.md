@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Remun
     auto: true
+  - translation_iso: rus
+    name: ремунский язык
+    auto: true
   - translation_iso: spa
     name: Remun
     auto: true

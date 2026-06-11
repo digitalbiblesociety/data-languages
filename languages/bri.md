@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mokpwe
     auto: true
+  - translation_iso: rus
+    name: мокпвейский язык
+    auto: true
   - translation_iso: spa
     name: Mokpwe
     auto: true

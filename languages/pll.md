@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Palaung Shwe
     auto: true
+  - translation_iso: rus
+    name: шве палаунгский язык
+    auto: true
   - translation_iso: spa
     name: Palaung shwe
     auto: true

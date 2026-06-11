@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kabalai
+  - translation_iso: rus
+    name: кабалаийский язык
+    auto: true
   - translation_iso: spa
     name: Kabalai
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua neyo
+  - translation_iso: rus
+    name: нейоский язык
+    auto: true
   - translation_iso: spa
     name: neyo
   - translation_iso: zho

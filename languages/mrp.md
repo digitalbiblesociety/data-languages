@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Morouas
     auto: true
+  - translation_iso: rus
+    name: моруасский язык
+    auto: true
   - translation_iso: spa
     name: Morouas
     auto: true

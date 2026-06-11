@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Fore
     auto: true
+  - translation_iso: rus
+    name: форейский язык
+    auto: true
   - translation_iso: spa
     name: Fore
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nisa
     auto: true
+  - translation_iso: rus
+    name: нисский язык
+    auto: true
   - translation_iso: spa
     name: Nisa
     auto: true

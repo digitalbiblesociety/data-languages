@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bekwel
     auto: true
+  - translation_iso: rus
+    name: беквельский язык
+    auto: true
   - translation_iso: spa
     name: Bekwel
     auto: true

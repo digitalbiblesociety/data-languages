@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Imroing
     auto: true
+  - translation_iso: rus
+    name: имроингский язык
+    auto: true
   - translation_iso: spa
     name: Imroing
     auto: true

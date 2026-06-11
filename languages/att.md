@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Atta de Pamplona
     auto: true
+  - translation_iso: rus
+    name: памплона аттский язык
+    auto: true
   - translation_iso: spa
     name: Atta de Pamplona
     auto: true

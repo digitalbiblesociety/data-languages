@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Seke (Nepal)
     auto: true
+  - translation_iso: rus
+    name: секейский язык
+    auto: true
   - translation_iso: spa
     name: Seke (Nepal)
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Worodougou
     auto: true
+  - translation_iso: rus
+    name: вородугуский язык
+    auto: true
   - translation_iso: spa
     name: Worodougou
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Vono
     auto: true
+  - translation_iso: rus
+    name: воноский язык
+    auto: true
   - translation_iso: spa
     name: Vono
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Yali de Ninia
     auto: true
+  - translation_iso: rus
+    name: ниниа ялийский язык
+    auto: true
   - translation_iso: spa
     name: Yali de Ninia
     auto: true

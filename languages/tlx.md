@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Khehek
     auto: true
+  - translation_iso: rus
+    name: хехекский язык
+    auto: true
   - translation_iso: spa
     name: Khehek
     auto: true

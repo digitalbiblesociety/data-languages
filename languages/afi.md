@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Akrukay
     auto: true
+  - translation_iso: rus
+    name: акрукайский язык
+    auto: true
   - translation_iso: spa
     name: akrukay
   - translation_iso: zho

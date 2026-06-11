@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Murut Sembakung
     auto: true
+  - translation_iso: rus
+    name: сембакунг мурутский язык
+    auto: true
   - translation_iso: spa
     name: Murut sembakung
     auto: true

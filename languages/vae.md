@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vale
     auto: true
+  - translation_iso: rus
+    name: валейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma vale
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vanuma
     auto: true
+  - translation_iso: rus
+    name: ванумский язык
+    auto: true
   - translation_iso: spa
     name: Vanuma
     auto: true

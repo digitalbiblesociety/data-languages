@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Uya
     auto: true
+  - translation_iso: rus
+    name: уйский язык
+    auto: true
   - translation_iso: spa
     name: Uya
     auto: true

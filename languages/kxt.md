@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Koiwat
     auto: true
+  - translation_iso: rus
+    name: коиватский язык
+    auto: true
   - translation_iso: spa
     name: Koiwat
     auto: true

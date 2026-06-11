@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lamu
     auto: true
+  - translation_iso: rus
+    name: ламуский язык
+    auto: true
   - translation_iso: spa
     name: Lamu
     auto: true

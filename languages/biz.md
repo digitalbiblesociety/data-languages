@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Baloi
     auto: true
+  - translation_iso: rus
+    name: балоийский язык
+    auto: true
   - translation_iso: spa
     name: Baloi
     auto: true

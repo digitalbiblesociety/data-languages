@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nakai
     auto: true
+  - translation_iso: rus
+    name: накаийский язык
+    auto: true
   - translation_iso: spa
     name: Nakai
     auto: true

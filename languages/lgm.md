@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lega-Mwenga
     auto: true
+  - translation_iso: rus
+    name: лега-мвенгский язык
+    auto: true
   - translation_iso: spa
     name: Lega-Mwenga
     auto: true

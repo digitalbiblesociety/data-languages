@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua gǀui
+  - translation_iso: rus
+    name: гвийский язык
+    auto: true
   - translation_iso: spa
     name: ǀGwi
     auto: true

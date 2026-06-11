@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua daga
+  - translation_iso: rus
+    name: дагский язык
+    auto: true
   - translation_iso: spa
     name: Daga
     auto: true

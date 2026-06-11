@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gumawana
     auto: true
+  - translation_iso: rus
+    name: гумаванский язык
+    auto: true
   - translation_iso: spa
     name: Gumawana
     auto: true

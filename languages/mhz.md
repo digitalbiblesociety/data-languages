@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mor (Ilhas Mor)
     auto: true
+  - translation_iso: rus
+    name: морский язык
+    auto: true
   - translation_iso: spa
     name: Mor (Islas Mor)
     auto: true

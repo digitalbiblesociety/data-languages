@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: "Me'phaa de Azoyú"
     auto: true
+  - translation_iso: rus
+    name: азойу мефаский язык
+    auto: true
   - translation_iso: spa
     name: "Me'phaa de Azoyú"
     auto: true

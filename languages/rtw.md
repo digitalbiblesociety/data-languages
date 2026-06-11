@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Rathawi
     auto: true
+  - translation_iso: rus
+    name: ратавийский язык
+    auto: true
   - translation_iso: spa
     name: Rathawi
     auto: true

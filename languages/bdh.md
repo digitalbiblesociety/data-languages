@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Baka (Sudão do Sul)
     auto: true
+  - translation_iso: rus
+    name: бакский язык
+    auto: true
   - translation_iso: spa
     name: Baka (Sudán del Sur)
     auto: true

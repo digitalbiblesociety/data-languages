@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gbanziri
     auto: true
+  - translation_iso: rus
+    name: гбанзирийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Gbanzili
   - translation_iso: zho

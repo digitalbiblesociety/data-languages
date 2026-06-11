@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dinka Centro-Meridional
     auto: true
+  - translation_iso: rus
+    name: сут кентрал динкский язык
+    auto: true
   - translation_iso: spa
     name: Dinka centro-meridional
     auto: true

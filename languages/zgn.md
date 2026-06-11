@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zhuang de Guibian
     auto: true
+  - translation_iso: rus
+    name: гуибиан жуангский язык
+    auto: true
   - translation_iso: spa
     name: Zhuang de Guibian
     auto: true

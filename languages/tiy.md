@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tiruray
+  - translation_iso: rus
+    name: тирурайский язык
+    auto: true
   - translation_iso: spa
     name: Tiruray
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Thaypan
     auto: true
+  - translation_iso: rus
+    name: тайпанский язык
+    auto: true
   - translation_iso: spa
     name: Idioma thaypan
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dagaari Dioula
     auto: true
+  - translation_iso: rus
+    name: дагаари диулский язык
+    auto: true
   - translation_iso: spa
     name: Dagaari Dioula
     auto: true

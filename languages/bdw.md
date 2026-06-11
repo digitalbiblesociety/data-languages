@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Baham
     auto: true
+  - translation_iso: rus
+    name: бахамский язык
+    auto: true
   - translation_iso: spa
     name: Baham
     auto: true

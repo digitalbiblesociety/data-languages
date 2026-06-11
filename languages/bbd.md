@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bau
     auto: true
+  - translation_iso: rus
+    name: бауский язык
+    auto: true
   - translation_iso: spa
     name: Bau
     auto: true

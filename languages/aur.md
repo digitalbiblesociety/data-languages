@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Aruek
     auto: true
+  - translation_iso: rus
+    name: аруекский язык
+    auto: true
   - translation_iso: spa
     name: Aruek
     auto: true

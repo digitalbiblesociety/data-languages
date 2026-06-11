@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais das Ilhas Salomão
     auto: true
+  - translation_iso: rus
+    name: соломон исландс сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de las Islas Salomón
     auto: true

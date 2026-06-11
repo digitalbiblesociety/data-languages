@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tadyawan
     auto: true
+  - translation_iso: rus
+    name: тадяванский язык
+    auto: true
   - translation_iso: spa
     name: Tadyawan
     auto: true

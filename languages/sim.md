@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mende (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: мендейский язык
+    auto: true
   - translation_iso: spa
     name: Mende (Papúa Nueva Guinea)
     auto: true

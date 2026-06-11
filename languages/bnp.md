@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bola
+  - translation_iso: rus
+    name: болский язык
+    auto: true
   - translation_iso: spa
     name: Bola
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Iguta
     auto: true
+  - translation_iso: rus
+    name: игутский язык
+    auto: true
   - translation_iso: spa
     name: Iguta
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Adhola
     auto: true
+  - translation_iso: rus
+    name: адхолский язык
+    auto: true
   - translation_iso: spa
     name: Adhola
     auto: true

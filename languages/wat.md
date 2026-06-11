@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kaninuwa
+  - translation_iso: rus
+    name: канинувский язык
+    auto: true
   - translation_iso: spa
     name: Kaninuwa
     auto: true

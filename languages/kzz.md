@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kalabra
     auto: true
+  - translation_iso: rus
+    name: калабрский язык
+    auto: true
   - translation_iso: spa
     name: Kalabra
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Cara
     auto: true
+  - translation_iso: rus
+    name: карский язык
+    auto: true
   - translation_iso: spa
     name: cara
   - translation_iso: zho

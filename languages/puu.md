@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: punu
+  - translation_iso: rus
+    name: пунуский язык
+    auto: true
   - translation_iso: spa
     name: punu
   - translation_iso: zho

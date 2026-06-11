@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Suabo
     auto: true
+  - translation_iso: rus
+    name: суабоский язык
+    auto: true
   - translation_iso: spa
     name: Suabo
     auto: true

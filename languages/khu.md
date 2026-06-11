@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nkhumbi
     auto: true
+  - translation_iso: rus
+    name: нхумбийский язык
+    auto: true
   - translation_iso: spa
     name: Nkhumbi
     auto: true

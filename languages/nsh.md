@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngoshie
     auto: true
+  - translation_iso: rus
+    name: нгошиейский язык
+    auto: true
   - translation_iso: spa
     name: Ngoshie
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pimbwe
     auto: true
+  - translation_iso: rus
+    name: пимбвейский язык
+    auto: true
   - translation_iso: spa
     name: Pimbwe
     auto: true

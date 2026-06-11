@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kwamera
     auto: true
+  - translation_iso: rus
+    name: квамерский язык
+    auto: true
   - translation_iso: spa
     name: Kwamera
     auto: true

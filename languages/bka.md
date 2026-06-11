@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kyak
+  - translation_iso: rus
+    name: кякский язык
+    auto: true
   - translation_iso: spa
     name: Kyak
     auto: true

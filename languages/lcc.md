@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Legenyem
     auto: true
+  - translation_iso: rus
+    name: легенемский язык
+    auto: true
   - translation_iso: spa
     name: Legenyem
     auto: true

@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tharu
+  - translation_iso: rus
+    name: рана таруский язык
+    auto: true
   - translation_iso: spa
     name: Tharu Rana
     auto: true

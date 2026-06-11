@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Baangi
     auto: true
+  - translation_iso: rus
+    name: баангийский язык
+    auto: true
   - translation_iso: spa
     name: Baangi
     auto: true

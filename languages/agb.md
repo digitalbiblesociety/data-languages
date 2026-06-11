@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Legbo
     auto: true
+  - translation_iso: rus
+    name: легбоский язык
+    auto: true
   - translation_iso: spa
     name: Legbo
     auto: true

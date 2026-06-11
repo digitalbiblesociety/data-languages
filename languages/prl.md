@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: língua de sinais peruana
+  - translation_iso: rus
+    name: перувиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas peruana
   - translation_iso: zho

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Lutos
     auto: true
+  - translation_iso: rus
+    name: лутосский язык
+    auto: true
   - translation_iso: spa
     name: Idioma lutos
   - translation_iso: zho

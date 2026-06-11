@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Agta de Villa Viciosa
     auto: true
+  - translation_iso: rus
+    name: вилла викиоса агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta Villa Viciosa
     auto: true

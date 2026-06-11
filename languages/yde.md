@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: yangum dey
     auto: true
+  - translation_iso: rus
+    name: янгум дейский язык
+    auto: true
   - translation_iso: spa
     name: Yangum Dey
     auto: true

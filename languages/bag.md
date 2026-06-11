@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tuki
     auto: true
+  - translation_iso: rus
+    name: тукийский язык
+    auto: true
   - translation_iso: spa
     name: Tuki
     auto: true

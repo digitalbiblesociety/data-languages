@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Wasa
     auto: true
+  - translation_iso: rus
+    name: васский язык
+    auto: true
   - translation_iso: spa
     name: Wasa
     auto: true

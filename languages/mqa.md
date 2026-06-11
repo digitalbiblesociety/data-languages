@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Maba (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: мабский язык
+    auto: true
   - translation_iso: spa
     name: Maba (Indonesia)
     auto: true

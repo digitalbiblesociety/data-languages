@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Muskum
     auto: true
+  - translation_iso: rus
+    name: мускумский язык
+    auto: true
   - translation_iso: spa
     name: Muskum
     auto: true

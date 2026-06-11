@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nchumbulu
     auto: true
+  - translation_iso: rus
+    name: нчумбулуский язык
+    auto: true
   - translation_iso: spa
     name: nchumbulu
   - translation_iso: zho

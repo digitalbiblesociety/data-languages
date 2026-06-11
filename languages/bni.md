@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bangi
     auto: true
+  - translation_iso: rus
+    name: бангийский язык
+    auto: true
   - translation_iso: spa
     name: Bangi
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Emberá-Tadó
     auto: true
+  - translation_iso: rus
+    name: ембера-тадоский язык
+    auto: true
   - translation_iso: spa
     name: Emberá-Tadó
     auto: true

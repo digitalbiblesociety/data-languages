@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bimin
     auto: true
+  - translation_iso: rus
+    name: биминский язык
+    auto: true
   - translation_iso: spa
     name: Bimin
     auto: true

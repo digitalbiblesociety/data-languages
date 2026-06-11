@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nyelâyu
+  - translation_iso: rus
+    name: нйалаюский язык
+    auto: true
   - translation_iso: spa
     name: Nyâlayu
     auto: true

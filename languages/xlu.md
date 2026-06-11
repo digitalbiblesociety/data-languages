@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Luvita Cuneiforme
     auto: true
+  - translation_iso: rus
+    name: кунеиформ лувианский язык
+    auto: true
   - translation_iso: spa
     name: luvita cuneiforme
   - translation_iso: zho

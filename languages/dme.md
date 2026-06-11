@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dugwor
     auto: true
+  - translation_iso: rus
+    name: дугворский язык
+    auto: true
   - translation_iso: spa
     name: dugwor
   - translation_iso: zho

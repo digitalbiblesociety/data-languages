@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pomo
     auto: true
+  - translation_iso: rus
+    name: помоский язык
+    auto: true
   - translation_iso: spa
     name: pol
   - translation_iso: zho

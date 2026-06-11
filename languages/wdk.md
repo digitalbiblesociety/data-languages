@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Wadikali
     auto: true
+  - translation_iso: rus
+    name: вадикалийский язык
+    auto: true
   - translation_iso: spa
     name: Wadikali
     auto: true

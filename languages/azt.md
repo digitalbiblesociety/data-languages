@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Atta de Faire
     auto: true
+  - translation_iso: rus
+    name: фаире аттский язык
+    auto: true
   - translation_iso: spa
     name: Atta Faire
     auto: true

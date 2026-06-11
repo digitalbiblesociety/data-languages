@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Neme
     auto: true
+  - translation_iso: rus
+    name: немейский язык
+    auto: true
   - translation_iso: spa
     name: Neme
     auto: true

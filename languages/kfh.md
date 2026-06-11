@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kurichiya
     auto: true
+  - translation_iso: rus
+    name: куричийский язык
+    auto: true
   - translation_iso: spa
     name: Kurichiya
     auto: true

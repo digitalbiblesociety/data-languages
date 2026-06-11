@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: "Naka'ela"
+  - translation_iso: rus
+    name: накаелский язык
+    auto: true
   - translation_iso: spa
     name: "Naka'ela"
   - translation_iso: zho

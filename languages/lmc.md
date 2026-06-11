@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Limilngan
     auto: true
+  - translation_iso: rus
+    name: лимилнганский язык
+    auto: true
   - translation_iso: spa
     name: Limilngan
     auto: true

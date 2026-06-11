@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ekpeye
     auto: true
+  - translation_iso: rus
+    name: екпеейский язык
+    auto: true
   - translation_iso: spa
     name: Ekpeye
     auto: true

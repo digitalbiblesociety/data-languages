@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Amuzgo de Ipalapa
     auto: true
+  - translation_iso: rus
+    name: ипалапа амузгоский язык
+    auto: true
   - translation_iso: spa
     name: Amuzgo de Ipalapa
     auto: true

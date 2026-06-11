@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jinuo Youle
     auto: true
+  - translation_iso: rus
+    name: йоуле джинуоский язык
+    auto: true
   - translation_iso: spa
     name: Jinuo Youle
     auto: true

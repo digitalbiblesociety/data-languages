@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dhatki
+  - translation_iso: rus
+    name: дхаткийский язык
+    auto: true
   - translation_iso: spa
     name: dhatki
   - translation_iso: zho

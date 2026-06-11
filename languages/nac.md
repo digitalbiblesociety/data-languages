@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Narak
     auto: true
+  - translation_iso: rus
+    name: наракский язык
+    auto: true
   - translation_iso: spa
     name: Narak
     auto: true

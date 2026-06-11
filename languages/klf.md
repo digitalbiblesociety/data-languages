@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kendeje
     auto: true
+  - translation_iso: rus
+    name: кендеейский язык
+    auto: true
   - translation_iso: spa
     name: Kendeje
     auto: true

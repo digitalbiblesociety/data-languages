@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Papel
     auto: true
+  - translation_iso: rus
+    name: папельский язык
+    auto: true
   - translation_iso: spa
     name: Papel
     auto: true

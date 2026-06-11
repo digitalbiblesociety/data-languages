@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yindjibarndi
     auto: true
+  - translation_iso: rus
+    name: йиндджибарндийский язык
+    auto: true
   - translation_iso: spa
     name: Yindjibarndi
     auto: true

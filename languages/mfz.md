@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mabaan
     auto: true
+  - translation_iso: rus
+    name: мабаанский язык
+    auto: true
   - translation_iso: spa
     name: Mabaan
     auto: true

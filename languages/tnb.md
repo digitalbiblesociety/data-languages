@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tunebo Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн тунебоский язык
+    auto: true
   - translation_iso: spa
     name: Tunebo Occidental
     auto: true

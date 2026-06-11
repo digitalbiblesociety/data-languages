@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kobiana
     auto: true
+  - translation_iso: rus
+    name: кобианский язык
+    auto: true
   - translation_iso: spa
     name: Kobiana
     auto: true

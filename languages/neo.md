@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ná-Meo
     auto: true
+  - translation_iso: rus
+    name: на-меоский язык
+    auto: true
   - translation_iso: spa
     name: Ná-Meo
     auto: true

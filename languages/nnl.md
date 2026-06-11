@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Naga Rengma do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн ренгма нагский язык
+    auto: true
   - translation_iso: spa
     name: Ntenyi
   - translation_iso: zho

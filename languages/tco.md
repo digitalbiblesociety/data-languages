@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Taungyo
     auto: true
+  - translation_iso: rus
+    name: таунгйоский язык
+    auto: true
   - translation_iso: spa
     name: Taungyo
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: tarok
     auto: true
+  - translation_iso: rus
+    name: тарокский язык
+    auto: true
   - translation_iso: spa
     name: Tarok
   - translation_iso: zho

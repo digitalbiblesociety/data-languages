@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Kemiehua
     auto: true
+  - translation_iso: rus
+    name: кемиехуский язык
+    auto: true
   - translation_iso: spa
     name: Kemiehua
     auto: true

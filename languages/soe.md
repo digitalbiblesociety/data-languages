@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Songomeno
     auto: true
+  - translation_iso: rus
+    name: сонгоменоский язык
+    auto: true
   - translation_iso: spa
     name: Songomeno
     auto: true

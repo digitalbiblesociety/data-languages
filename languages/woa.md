@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kuwema
     auto: true
+  - translation_iso: rus
+    name: кувемский язык
+    auto: true
   - translation_iso: spa
     name: Kuwema
     auto: true

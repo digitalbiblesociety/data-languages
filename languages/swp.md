@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Suau
     auto: true
+  - translation_iso: rus
+    name: суауский язык
+    auto: true
   - translation_iso: spa
     name: Suau
     auto: true

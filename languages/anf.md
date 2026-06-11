@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Animere
     auto: true
+  - translation_iso: rus
+    name: анимерейский язык
+    auto: true
   - translation_iso: spa
     name: Animere
     auto: true

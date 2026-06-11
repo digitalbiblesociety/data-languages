@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Marenje
     auto: true
+  - translation_iso: rus
+    name: маренейский язык
+    auto: true
   - translation_iso: spa
     name: Marenje
     auto: true

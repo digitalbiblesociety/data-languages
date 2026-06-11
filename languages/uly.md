@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Buli
     auto: true
+  - translation_iso: rus
+    name: булийский язык
+    auto: true
   - translation_iso: spa
     name: Buli
     auto: true

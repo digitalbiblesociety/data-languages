@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Iresim
     auto: true
+  - translation_iso: rus
+    name: иресимский язык
+    auto: true
   - translation_iso: spa
     name: Iresim
     auto: true

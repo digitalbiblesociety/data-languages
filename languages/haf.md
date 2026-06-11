@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Haiphong
     auto: true
+  - translation_iso: rus
+    name: хаифонг сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Haiphong
     auto: true

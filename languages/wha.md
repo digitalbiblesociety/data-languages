@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sou Upaa
     auto: true
+  - translation_iso: rus
+    name: су упаский язык
+    auto: true
   - translation_iso: spa
     name: Sou Upaa
     auto: true

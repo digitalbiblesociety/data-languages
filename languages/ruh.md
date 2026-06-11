@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ruga
     auto: true
+  - translation_iso: rus
+    name: ругский язык
+    auto: true
   - translation_iso: spa
     name: Ruga
     auto: true

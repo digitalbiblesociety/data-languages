@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Saparua
     auto: true
+  - translation_iso: rus
+    name: сапаруский язык
+    auto: true
   - translation_iso: spa
     name: Saparua
     auto: true

@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kepo
+  - translation_iso: rus
+    name: кепоский язык
+    auto: true
   - translation_iso: spa
     name: Kepo
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Moingi
     auto: true
+  - translation_iso: rus
+    name: моингийский язык
+    auto: true
   - translation_iso: spa
     name: Moingi
     auto: true

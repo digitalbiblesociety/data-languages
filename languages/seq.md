@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Senufo Senara
     auto: true
+  - translation_iso: rus
+    name: сенара сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Senara
     auto: true

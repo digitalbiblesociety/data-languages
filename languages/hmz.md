@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Hmong Shua
     auto: true
+  - translation_iso: rus
+    name: хмонг шуский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Shua
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Rara Bakati
     auto: true
+  - translation_iso: rus
+    name: рара бакатийский язык
+    auto: true
   - translation_iso: spa
     name: Rara Bakati
     auto: true

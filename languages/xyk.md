@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua mayi-kulan
+  - translation_iso: rus
+    name: майи-куланский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mayi-kulan
   - translation_iso: zho

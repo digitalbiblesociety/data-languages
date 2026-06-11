@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Yaka (República Centro-Africana)
     auto: true
+  - translation_iso: rus
+    name: якский язык
+    auto: true
   - translation_iso: spa
     name: Yaka
     auto: true

@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua biate
+  - translation_iso: rus
+    name: биетейский язык
+    auto: true
   - translation_iso: spa
     name: idioma biete
   - translation_iso: zho

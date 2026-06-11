@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gbii
     auto: true
+  - translation_iso: rus
+    name: гбиийский язык
+    auto: true
   - translation_iso: spa
     name: Gbii
     auto: true

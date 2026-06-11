@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Apali
     auto: true
+  - translation_iso: rus
+    name: апалийский язык
+    auto: true
   - translation_iso: spa
     name: Apali
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bahnar
     auto: true
+  - translation_iso: rus
+    name: бахнарский язык
+    auto: true
   - translation_iso: spa
     name: Bahnar
     auto: true

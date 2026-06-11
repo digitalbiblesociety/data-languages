@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dogon Tommo So
     auto: true
+  - translation_iso: rus
+    name: томмо со догонский язык
+    auto: true
   - translation_iso: spa
     name: Dogon Tommo So
     auto: true

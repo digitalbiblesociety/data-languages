@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tinputz
     auto: true
+  - translation_iso: rus
+    name: тинпутзский язык
+    auto: true
   - translation_iso: spa
     name: Tinputz
   - translation_iso: zho

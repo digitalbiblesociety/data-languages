@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Rahambuu
     auto: true
+  - translation_iso: rus
+    name: рахамбууский язык
+    auto: true
   - translation_iso: spa
     name: Rahambuu
     auto: true

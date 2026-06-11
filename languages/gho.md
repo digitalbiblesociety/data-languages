@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gomara
+  - translation_iso: rus
+    name: гхомарский язык
+    auto: true
   - translation_iso: spa
     name: bereber ghomari
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: us-Saare
     auto: true
+  - translation_iso: rus
+    name: ус-саарейский язык
+    auto: true
   - translation_iso: spa
     name: Us-Saare
     auto: true

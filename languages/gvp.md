@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gavião do Pará
     auto: true
+  - translation_iso: rus
+    name: пара гавиаоский язык
+    auto: true
   - translation_iso: spa
     name: Gavião del Pará
     auto: true

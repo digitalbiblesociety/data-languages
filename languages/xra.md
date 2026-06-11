@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua krahô
+  - translation_iso: rus
+    name: крахоский язык
+    auto: true
   - translation_iso: spa
     name: Krahô
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nkoroo
     auto: true
+  - translation_iso: rus
+    name: нкоруский язык
+    auto: true
   - translation_iso: spa
     name: Nkoroo
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tofin Gbe
     auto: true
+  - translation_iso: rus
+    name: тофин гбейский язык
+    auto: true
   - translation_iso: spa
     name: Tofin Gbe
     auto: true

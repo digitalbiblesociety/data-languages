@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bassa-Kontagora
     auto: true
+  - translation_iso: rus
+    name: басса-контагорский язык
+    auto: true
   - translation_iso: spa
     name: Bassa-Kontagora
     auto: true

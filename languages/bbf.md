@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Baibai
     auto: true
+  - translation_iso: rus
+    name: баибаийский язык
+    auto: true
   - translation_iso: spa
     name: baibai
   - translation_iso: zho

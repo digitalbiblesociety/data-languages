@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tira
     auto: true
+  - translation_iso: rus
+    name: тирский язык
+    auto: true
   - translation_iso: spa
     name: Tira
     auto: true

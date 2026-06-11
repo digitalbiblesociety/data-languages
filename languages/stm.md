@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Setaman
     auto: true
+  - translation_iso: rus
+    name: сетаманский язык
+    auto: true
   - translation_iso: spa
     name: Setaman
     auto: true

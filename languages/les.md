@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lese
     auto: true
+  - translation_iso: rus
+    name: лесейский язык
+    auto: true
   - translation_iso: spa
     name: Lese
     auto: true

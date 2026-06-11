@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mariyedi
     auto: true
+  - translation_iso: rus
+    name: мариедийский язык
+    auto: true
   - translation_iso: spa
     name: Mariyedi
     auto: true

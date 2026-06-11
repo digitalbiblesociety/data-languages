@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bina (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: бинский язык
+    auto: true
   - translation_iso: spa
     name: Bina (Nigeria)
     auto: true

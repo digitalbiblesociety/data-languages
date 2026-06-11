@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Awyu Asue
     auto: true
+  - translation_iso: rus
+    name: асуе авюский язык
+    auto: true
   - translation_iso: spa
     name: Asue Awyu
     auto: true

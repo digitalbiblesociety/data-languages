@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: línguas gestuais maias
+  - translation_iso: rus
+    name: юкатек мая сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas maya yucateca
   - translation_iso: zho

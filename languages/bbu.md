@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kulung (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: кулунгский язык
+    auto: true
   - translation_iso: spa
     name: kulung
   - translation_iso: zho

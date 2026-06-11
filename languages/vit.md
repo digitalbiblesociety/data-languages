@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Viti
     auto: true
+  - translation_iso: rus
+    name: витийский язык
+    auto: true
   - translation_iso: spa
     name: Viti
     auto: true

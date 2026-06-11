@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Narungga
     auto: true
+  - translation_iso: rus
+    name: нарунггский язык
+    auto: true
   - translation_iso: spa
     name: Idioma narangga
   - translation_iso: zho

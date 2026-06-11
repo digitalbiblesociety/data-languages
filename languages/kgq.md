@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kamora
+  - translation_iso: rus
+    name: камороский язык
+    auto: true
   - translation_iso: spa
     name: Kamora
   - translation_iso: zho

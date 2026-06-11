@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ndoe
     auto: true
+  - translation_iso: rus
+    name: ндоейский язык
+    auto: true
   - translation_iso: spa
     name: Ndoe
     auto: true

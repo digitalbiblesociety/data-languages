@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua teribe
+  - translation_iso: rus
+    name: терибейский язык
+    auto: true
   - translation_iso: spa
     name: naso tjerdi
   - translation_iso: zho

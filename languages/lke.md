@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kenyi
     auto: true
+  - translation_iso: rus
+    name: кенйийский язык
+    auto: true
   - translation_iso: spa
     name: Kenyi
     auto: true

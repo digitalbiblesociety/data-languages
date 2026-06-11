@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Katbol
     auto: true
+  - translation_iso: rus
+    name: катбольский язык
+    auto: true
   - translation_iso: spa
     name: Katbol
     auto: true

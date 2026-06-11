@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dubu
     auto: true
+  - translation_iso: rus
+    name: дубуский язык
+    auto: true
   - translation_iso: spa
     name: Dubu
     auto: true

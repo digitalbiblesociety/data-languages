@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kaulong
     auto: true
+  - translation_iso: rus
+    name: каулонгский язык
+    auto: true
   - translation_iso: spa
     name: Kaulong
     auto: true

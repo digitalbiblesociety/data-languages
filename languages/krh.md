@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kurama
     auto: true
+  - translation_iso: rus
+    name: курамский язык
+    auto: true
   - translation_iso: spa
     name: Kurama
     auto: true

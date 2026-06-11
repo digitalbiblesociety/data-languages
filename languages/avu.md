@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua avokaya
+  - translation_iso: rus
+    name: авокайский язык
+    auto: true
   - translation_iso: spa
     name: Avokaya
     auto: true

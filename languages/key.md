@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kupia
+  - translation_iso: rus
+    name: купиский язык
+    auto: true
   - translation_iso: spa
     name: Kupia
     auto: true

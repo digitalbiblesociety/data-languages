@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: ipulo
+  - translation_iso: rus
+    name: ипулоский язык
+    auto: true
   - translation_iso: spa
     name: Ipulo
     auto: true

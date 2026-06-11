@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kokola
     auto: true
+  - translation_iso: rus
+    name: коколский язык
+    auto: true
   - translation_iso: spa
     name: Kokola
     auto: true

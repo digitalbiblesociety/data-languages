@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Batak Karo
     auto: true
+  - translation_iso: rus
+    name: батак кароский язык
+    auto: true
   - translation_iso: spa
     name: Batak Karo
     auto: true

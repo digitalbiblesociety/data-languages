@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Teor
     auto: true
+  - translation_iso: rus
+    name: теорский язык
+    auto: true
   - translation_iso: spa
     name: Teor
     auto: true

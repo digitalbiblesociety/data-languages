@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Lule
     auto: true
+  - translation_iso: rus
+    name: лулейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma lule
   - translation_iso: zho

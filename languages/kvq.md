@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Karen Geba
     auto: true
+  - translation_iso: rus
+    name: геба каренский язык
+    auto: true
   - translation_iso: spa
     name: Karen Geba
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kanum Smärky
     auto: true
+  - translation_iso: rus
+    name: смаркй канумский язык
+    auto: true
   - translation_iso: spa
     name: Kanum Smärky
     auto: true

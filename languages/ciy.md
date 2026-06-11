@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chaima
     auto: true
+  - translation_iso: rus
+    name: чаимский язык
+    auto: true
   - translation_iso: spa
     name: Chaima
   - translation_iso: zho

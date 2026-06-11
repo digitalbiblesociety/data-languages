@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Tarangan Barat
+  - translation_iso: rus
+    name: вест таранганский язык
+    auto: true
   - translation_iso: spa
     name: Tarangan Barat
   - translation_iso: zho

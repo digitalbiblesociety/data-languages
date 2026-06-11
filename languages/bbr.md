@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Girawa
     auto: true
+  - translation_iso: rus
+    name: гиравский язык
+    auto: true
   - translation_iso: spa
     name: Girawa
     auto: true

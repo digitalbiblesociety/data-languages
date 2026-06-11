@@ -36,6 +36,9 @@ translations:
     name: 퀴리피어
   - translation_iso: por
     name: Língua quiripi
+  - translation_iso: rus
+    name: квирипийский язык
+    auto: true
   - translation_iso: spa
     name: Quiripi
   - translation_iso: zho

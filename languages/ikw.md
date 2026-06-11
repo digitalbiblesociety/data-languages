@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua icuerré
+  - translation_iso: rus
+    name: икверейский язык
+    auto: true
   - translation_iso: spa
     name: Ikwere
     auto: true

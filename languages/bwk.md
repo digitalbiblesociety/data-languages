@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bauwaki
     auto: true
+  - translation_iso: rus
+    name: баувакийский язык
+    auto: true
   - translation_iso: spa
     name: Bauwaki
     auto: true

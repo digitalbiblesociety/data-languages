@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kumukio
     auto: true
+  - translation_iso: rus
+    name: кумукиоский язык
+    auto: true
   - translation_iso: spa
     name: Kumukio
     auto: true

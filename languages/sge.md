@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Segai
     auto: true
+  - translation_iso: rus
+    name: сегаийский язык
+    auto: true
   - translation_iso: spa
     name: Segai
     auto: true

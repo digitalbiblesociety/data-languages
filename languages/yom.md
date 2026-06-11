@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: iombe
     auto: true
+  - translation_iso: rus
+    name: йомбейский язык
+    auto: true
   - translation_iso: spa
     name: Yombe
     auto: true

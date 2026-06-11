@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Asmat central
     auto: true
+  - translation_iso: rus
+    name: кентрал асматский язык
+    auto: true
   - translation_iso: spa
     name: Asmat Central
     auto: true

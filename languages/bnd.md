@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Banda
+  - translation_iso: rus
+    name: банда малукуский язык
+    auto: true
   - translation_iso: spa
     name: Banda
   - translation_iso: zho

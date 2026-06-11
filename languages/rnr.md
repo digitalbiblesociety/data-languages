@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Nari Nari
     auto: true
+  - translation_iso: rus
+    name: нари нарийский язык
+    auto: true
   - translation_iso: spa
     name: Nari Nari
     auto: true

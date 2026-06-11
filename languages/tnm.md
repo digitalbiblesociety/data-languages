@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tabla
     auto: true
+  - translation_iso: rus
+    name: таблский язык
+    auto: true
   - translation_iso: spa
     name: tabla
   - translation_iso: zho

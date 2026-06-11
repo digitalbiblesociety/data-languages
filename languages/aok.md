@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Arhö
     auto: true
+  - translation_iso: rus
+    name: архоский язык
+    auto: true
   - translation_iso: spa
     name: Arhö
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kove
+  - translation_iso: rus
+    name: ковейский язык
+    auto: true
   - translation_iso: spa
     name: Kove
     auto: true

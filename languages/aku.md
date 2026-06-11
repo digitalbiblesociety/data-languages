@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Akum
     auto: true
+  - translation_iso: rus
+    name: акумский язык
+    auto: true
   - translation_iso: spa
     name: akum
   - translation_iso: zho

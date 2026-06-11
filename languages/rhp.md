@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Yahang
     auto: true
+  - translation_iso: rus
+    name: яхангский язык
+    auto: true
   - translation_iso: spa
     name: Yahang
     auto: true

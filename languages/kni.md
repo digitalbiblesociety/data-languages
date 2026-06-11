@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kanufi
     auto: true
+  - translation_iso: rus
+    name: кануфийский язык
+    auto: true
   - translation_iso: spa
     name: Kanufi
     auto: true

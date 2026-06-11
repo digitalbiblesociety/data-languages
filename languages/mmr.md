@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: miao xiangxi ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн ксиангкси миаоский язык
+    auto: true
   - translation_iso: spa
     name: Miao Xiangxi Occidental
     auto: true

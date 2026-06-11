@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Bayono
     auto: true
+  - translation_iso: rus
+    name: байоноский язык
+    auto: true
   - translation_iso: spa
     name: Bayono
     auto: true

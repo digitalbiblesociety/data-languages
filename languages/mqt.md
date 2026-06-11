@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mok
     auto: true
+  - translation_iso: rus
+    name: мокский язык
+    auto: true
   - translation_iso: spa
     name: Mok
     auto: true

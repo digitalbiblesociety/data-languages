@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua buglere
+  - translation_iso: rus
+    name: буглерейский язык
+    auto: true
   - translation_iso: spa
     name: bocotas
   - translation_iso: zho

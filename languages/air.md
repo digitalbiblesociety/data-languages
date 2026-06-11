@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Airoran
+  - translation_iso: rus
+    name: аироранский язык
+    auto: true
   - translation_iso: spa
     name: Airoran
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sighu
     auto: true
+  - translation_iso: rus
+    name: сигхуский язык
+    auto: true
   - translation_iso: spa
     name: Sighu
     auto: true

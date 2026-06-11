@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: "C'Lela"
     auto: true
+  - translation_iso: rus
+    name: клелский язык
+    auto: true
   - translation_iso: spa
     name: "C'Lela"
     auto: true

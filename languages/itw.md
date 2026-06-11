@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ito
     auto: true
+  - translation_iso: rus
+    name: итоский язык
+    auto: true
   - translation_iso: spa
     name: Ito
     auto: true

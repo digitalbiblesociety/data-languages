@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Mariri
     auto: true
+  - translation_iso: rus
+    name: маририйский язык
+    auto: true
   - translation_iso: spa
     name: Mariri
     auto: true

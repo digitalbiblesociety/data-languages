@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Chin Khumi
     auto: true
+  - translation_iso: rus
+    name: хуми чинский язык
+    auto: true
   - translation_iso: spa
     name: idioma khumi
   - translation_iso: zho

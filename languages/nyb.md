@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Nyangbo
     auto: true
+  - translation_iso: rus
+    name: нянгбоский язык
+    auto: true
   - translation_iso: spa
     name: Nyangbo
   - translation_iso: zho

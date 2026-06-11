@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gbiri-Niragu
     auto: true
+  - translation_iso: rus
+    name: гбири-нирагуский язык
+    auto: true
   - translation_iso: spa
     name: Gbiri-Niragu
     auto: true

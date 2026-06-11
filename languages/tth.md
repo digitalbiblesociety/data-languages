@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Ta'oih Setentrional"
     auto: true
+  - translation_iso: rus
+    name: уппер таоихский язык
+    auto: true
   - translation_iso: spa
     name: "Ta'oih septentrional"
     auto: true

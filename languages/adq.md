@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Adangbe
     auto: true
+  - translation_iso: rus
+    name: адангбейский язык
+    auto: true
   - translation_iso: spa
     name: Adangbe
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mien biao-jiao
     auto: true
+  - translation_iso: rus
+    name: биао-джиао миенский язык
+    auto: true
   - translation_iso: spa
     name: Biao-Jiao Mien
     auto: true

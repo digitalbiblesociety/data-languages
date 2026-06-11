@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ifo
     auto: true
+  - translation_iso: rus
+    name: ифоский язык
+    auto: true
   - translation_iso: spa
     name: Ifo
     auto: true

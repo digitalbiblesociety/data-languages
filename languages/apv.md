@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nambikwara do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн намбикварский язык
+    auto: true
   - translation_iso: spa
     name: Nambikwara septentrional
     auto: true

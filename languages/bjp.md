@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Fanamaket
     auto: true
+  - translation_iso: rus
+    name: фанамакетский язык
+    auto: true
   - translation_iso: spa
     name: Fanamaket
     auto: true

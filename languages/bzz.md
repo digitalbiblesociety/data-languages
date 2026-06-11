@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Evant
     auto: true
+  - translation_iso: rus
+    name: евантский язык
+    auto: true
   - translation_iso: spa
     name: Evant
     auto: true

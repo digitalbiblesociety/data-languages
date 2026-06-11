@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mághdì
     auto: true
+  - translation_iso: rus
+    name: магхдийский язык
+    auto: true
   - translation_iso: spa
     name: Mághdì
     auto: true

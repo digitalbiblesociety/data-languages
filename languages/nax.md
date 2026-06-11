@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nakwi
     auto: true
+  - translation_iso: rus
+    name: наквийский язык
+    auto: true
   - translation_iso: spa
     name: Nakwi
     auto: true

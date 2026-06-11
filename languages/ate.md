@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Atemble
     auto: true
+  - translation_iso: rus
+    name: атемблейский язык
+    auto: true
   - translation_iso: spa
     name: Atemble
     auto: true

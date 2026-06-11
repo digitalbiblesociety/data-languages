@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kodi
     auto: true
+  - translation_iso: rus
+    name: кодийский язык
+    auto: true
   - translation_iso: spa
     name: Kodi
     auto: true

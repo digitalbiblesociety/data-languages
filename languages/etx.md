@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Eten
     auto: true
+  - translation_iso: rus
+    name: етенский язык
+    auto: true
   - translation_iso: spa
     name: Eten
     auto: true

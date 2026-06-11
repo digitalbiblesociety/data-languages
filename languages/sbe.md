@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua saliba
+  - translation_iso: rus
+    name: салибский язык
+    auto: true
   - translation_iso: spa
     name: Saliba
     auto: true

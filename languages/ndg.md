@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ndengereko
     auto: true
+  - translation_iso: rus
+    name: нденгерекоский язык
+    auto: true
   - translation_iso: spa
     name: Ndengereko
     auto: true

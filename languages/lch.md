@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua luchazi
+  - translation_iso: rus
+    name: лучазийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma luchazi
   - translation_iso: zho

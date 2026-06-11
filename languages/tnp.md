@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Whitesands
     auto: true
+  - translation_iso: rus
+    name: вхитесандсский язык
+    auto: true
   - translation_iso: spa
     name: Whitesands
     auto: true

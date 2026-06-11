@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lamja-Dengsa-Tola
     auto: true
+  - translation_iso: rus
+    name: ламя-денгса-толский язык
+    auto: true
   - translation_iso: spa
     name: Lamja-Dengsa-Tola
     auto: true

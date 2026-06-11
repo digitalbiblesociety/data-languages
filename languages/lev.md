@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lamma
     auto: true
+  - translation_iso: rus
+    name: ламмский язык
+    auto: true
   - translation_iso: spa
     name: Lamma
     auto: true

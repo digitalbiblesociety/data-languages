@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua klata
+  - translation_iso: rus
+    name: гианганский язык
+    auto: true
   - translation_iso: spa
     name: Giangan
     auto: true

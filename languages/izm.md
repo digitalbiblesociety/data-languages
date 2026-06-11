@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kizamani
     auto: true
+  - translation_iso: rus
+    name: кизаманийский язык
+    auto: true
   - translation_iso: spa
     name: Kizamani
     auto: true

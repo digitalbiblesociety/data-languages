@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ubir
+  - translation_iso: rus
+    name: убирский язык
+    auto: true
   - translation_iso: spa
     name: Ubir
     auto: true

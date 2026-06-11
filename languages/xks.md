@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kumbewaha
     auto: true
+  - translation_iso: rus
+    name: кумбевахский язык
+    auto: true
   - translation_iso: spa
     name: Kumbewaha
     auto: true

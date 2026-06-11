@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tétum de Díli
     auto: true
+  - translation_iso: rus
+    name: тетун дилийский язык
+    auto: true
   - translation_iso: spa
     name: tetun dili
   - translation_iso: zho

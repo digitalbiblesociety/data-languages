@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chiru
     auto: true
+  - translation_iso: rus
+    name: чируский язык
+    auto: true
   - translation_iso: spa
     name: Chiru
     auto: true

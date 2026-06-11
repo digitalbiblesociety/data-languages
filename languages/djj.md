@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Djeebbana
     auto: true
+  - translation_iso: rus
+    name: дееббанский язык
+    auto: true
   - translation_iso: spa
     name: Djeebbana
     auto: true

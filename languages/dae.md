@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Duupa
     auto: true
+  - translation_iso: rus
+    name: дуупский язык
+    auto: true
   - translation_iso: spa
     name: Duupa
     auto: true

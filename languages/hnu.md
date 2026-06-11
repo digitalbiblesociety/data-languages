@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hung
     auto: true
+  - translation_iso: rus
+    name: хунгский язык
+    auto: true
   - translation_iso: spa
     name: Hung
     auto: true

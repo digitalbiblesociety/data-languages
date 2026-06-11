@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vagla
     auto: true
+  - translation_iso: rus
+    name: ваглский язык
+    auto: true
   - translation_iso: spa
     name: Vagla
     auto: true

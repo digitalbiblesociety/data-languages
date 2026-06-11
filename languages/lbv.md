@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lavatbura-Lamusong
     auto: true
+  - translation_iso: rus
+    name: лаватбура-ламусонгский язык
+    auto: true
   - translation_iso: spa
     name: Lavatbura-Lamusong
     auto: true

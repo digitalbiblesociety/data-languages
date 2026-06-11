@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Awun
     auto: true
+  - translation_iso: rus
+    name: авунский язык
+    auto: true
   - translation_iso: spa
     name: awun
   - translation_iso: zho

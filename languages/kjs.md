@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kewa Oriental
     auto: true
+  - translation_iso: rus
+    name: еаст кевский язык
+    auto: true
   - translation_iso: spa
     name: Kewa Oriental
     auto: true

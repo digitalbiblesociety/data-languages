@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gitua
     auto: true
+  - translation_iso: rus
+    name: гитуский язык
+    auto: true
   - translation_iso: spa
     name: Gitua
   - translation_iso: zho

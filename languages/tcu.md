@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tarahumara do Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеастерн тарахумарский язык
+    auto: true
   - translation_iso: spa
     name: tarahumara suroriental
   - translation_iso: zho

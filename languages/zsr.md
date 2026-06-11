@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: zapoteco de Rincon do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн ринкон запотекский язык
+    auto: true
   - translation_iso: spa
     name: Zapoteco del Rincón Sur
     auto: true

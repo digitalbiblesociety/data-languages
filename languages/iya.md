@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Iyayu
     auto: true
+  - translation_iso: rus
+    name: ияюский язык
+    auto: true
   - translation_iso: spa
     name: Iyayu
     auto: true

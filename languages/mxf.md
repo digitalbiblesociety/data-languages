@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Malgbe
     auto: true
+  - translation_iso: rus
+    name: малгбейский язык
+    auto: true
   - translation_iso: spa
     name: Malgbe
     auto: true

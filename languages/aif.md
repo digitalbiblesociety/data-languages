@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Agi
     auto: true
+  - translation_iso: rus
+    name: агийский язык
+    auto: true
   - translation_iso: spa
     name: Agi
     auto: true

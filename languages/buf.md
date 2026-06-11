@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bushoong
     auto: true
+  - translation_iso: rus
+    name: бушунгский язык
+    auto: true
   - translation_iso: spa
     name: Bushoong
     auto: true

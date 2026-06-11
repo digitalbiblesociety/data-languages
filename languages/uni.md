@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Uni
     auto: true
+  - translation_iso: rus
+    name: унийский язык
+    auto: true
   - translation_iso: spa
     name: Uni
     auto: true

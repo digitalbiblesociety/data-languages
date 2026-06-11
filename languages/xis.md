@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Kisan
     auto: true
+  - translation_iso: rus
+    name: кисанский язык
+    auto: true
   - translation_iso: spa
     name: Kisan
     auto: true

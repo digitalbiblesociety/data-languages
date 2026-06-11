@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kahe
     auto: true
+  - translation_iso: rus
+    name: кахейский язык
+    auto: true
   - translation_iso: spa
     name: Kahe
     auto: true

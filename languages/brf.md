@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bera
     auto: true
+  - translation_iso: rus
+    name: берский язык
+    auto: true
   - translation_iso: spa
     name: Bera
     auto: true

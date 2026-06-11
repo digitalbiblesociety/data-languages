@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Semnam
     auto: true
+  - translation_iso: rus
+    name: семнамский язык
+    auto: true
   - translation_iso: spa
     name: Semnam
     auto: true

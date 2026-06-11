@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kopar
     auto: true
+  - translation_iso: rus
+    name: копарский язык
+    auto: true
   - translation_iso: spa
     name: Kopar
     auto: true

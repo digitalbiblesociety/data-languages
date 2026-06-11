@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "Ts'ün-Lao"
     auto: true
+  - translation_iso: rus
+    name: цун-лаоский язык
+    auto: true
   - translation_iso: spa
     name: "Ts'ün-Lao"
     auto: true

@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Äiwoo
+  - translation_iso: rus
+    name: айивоский язык
+    auto: true
   - translation_iso: spa
     name: Ayiwo
     auto: true

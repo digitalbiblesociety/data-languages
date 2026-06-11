@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kayah ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн каяхский язык
+    auto: true
   - translation_iso: spa
     name: Kayah Occidental
     auto: true

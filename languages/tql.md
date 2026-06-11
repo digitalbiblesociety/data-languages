@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lehali
+  - translation_iso: rus
+    name: лехалийский язык
+    auto: true
   - translation_iso: spa
     name: Lehali
     auto: true

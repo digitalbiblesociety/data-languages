@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kacipo-Balesi
     auto: true
+  - translation_iso: rus
+    name: какипо-балесийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma baalesi
   - translation_iso: zho

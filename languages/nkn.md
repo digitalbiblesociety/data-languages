@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nkangala
     auto: true
+  - translation_iso: rus
+    name: нкангалский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nkangala
   - translation_iso: zho

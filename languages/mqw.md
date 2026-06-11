@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Murupi
     auto: true
+  - translation_iso: rus
+    name: мурупийский язык
+    auto: true
   - translation_iso: spa
     name: Murupi
     auto: true

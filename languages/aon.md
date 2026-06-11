@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Arapesh Bumbita
     auto: true
+  - translation_iso: rus
+    name: бумбита арапешский язык
+    auto: true
   - translation_iso: spa
     name: arapeso bumbita
   - translation_iso: zho

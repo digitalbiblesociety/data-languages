@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Taromi do Alto
     auto: true
+  - translation_iso: rus
+    name: уппер таромийский язык
+    auto: true
   - translation_iso: spa
     name: Taromi Superior
     auto: true

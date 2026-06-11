@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Manza
     auto: true
+  - translation_iso: rus
+    name: манзский язык
+    auto: true
   - translation_iso: spa
     name: Manza
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lala-Roba
     auto: true
+  - translation_iso: rus
+    name: лала-робский язык
+    auto: true
   - translation_iso: spa
     name: Lala-Roba
     auto: true

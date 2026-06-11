@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Paulohi
     auto: true
+  - translation_iso: rus
+    name: паулохийский язык
+    auto: true
   - translation_iso: spa
     name: Paulohi
     auto: true

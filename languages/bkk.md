@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Brokskat
     auto: true
+  - translation_iso: rus
+    name: брокскатский язык
+    auto: true
   - translation_iso: spa
     name: Brokskat
     auto: true

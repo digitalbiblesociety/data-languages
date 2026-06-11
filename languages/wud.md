@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wudu
     auto: true
+  - translation_iso: rus
+    name: вудуский язык
+    auto: true
   - translation_iso: spa
     name: Wudu
     auto: true

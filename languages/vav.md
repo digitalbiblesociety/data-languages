@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Varli
     auto: true
+  - translation_iso: rus
+    name: варлийский язык
+    auto: true
   - translation_iso: spa
     name: Varli
     auto: true

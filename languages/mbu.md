@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mbula-Bwazza
     auto: true
+  - translation_iso: rus
+    name: мбула-бваззский язык
+    auto: true
   - translation_iso: spa
     name: Mbula-Bwazza
     auto: true

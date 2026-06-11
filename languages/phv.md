@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pahlavani
     auto: true
+  - translation_iso: rus
+    name: пахлаванийский язык
+    auto: true
   - translation_iso: spa
     name: Pahlavani
     auto: true

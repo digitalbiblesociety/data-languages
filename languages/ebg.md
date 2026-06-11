@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ebughu
     auto: true
+  - translation_iso: rus
+    name: ебугхуский язык
+    auto: true
   - translation_iso: spa
     name: ebughu
   - translation_iso: zho

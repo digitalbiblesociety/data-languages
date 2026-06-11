@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: malgaxe masikoro
     auto: true
+  - translation_iso: rus
+    name: масикоро малагасйский язык
+    auto: true
   - translation_iso: spa
     name: Malgache Masikoro
     auto: true

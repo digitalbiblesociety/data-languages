@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Rawo
     auto: true
+  - translation_iso: rus
+    name: равоский язык
+    auto: true
   - translation_iso: spa
     name: Rawo
     auto: true

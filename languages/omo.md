@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Utarmbung
     auto: true
+  - translation_iso: rus
+    name: утармбунгский язык
+    auto: true
   - translation_iso: spa
     name: Utarmbung
     auto: true

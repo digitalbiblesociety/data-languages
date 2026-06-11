@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Cora de El Nayar
     auto: true
+  - translation_iso: rus
+    name: ел наяр корский язык
+    auto: true
   - translation_iso: spa
     name: Cora
   - translation_iso: zho

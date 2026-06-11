@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Putukwam
     auto: true
+  - translation_iso: rus
+    name: путуквамский язык
+    auto: true
   - translation_iso: spa
     name: Putukwam
     auto: true

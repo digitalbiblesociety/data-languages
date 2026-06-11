@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Tunggare
     auto: true
+  - translation_iso: rus
+    name: тунггарейский язык
+    auto: true
   - translation_iso: spa
     name: Tunggare
     auto: true

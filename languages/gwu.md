@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Guwamu
     auto: true
+  - translation_iso: rus
+    name: гувамуский язык
+    auto: true
   - translation_iso: spa
     name: Guwamu
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nimbari
     auto: true
+  - translation_iso: rus
+    name: нимбарийский язык
+    auto: true
   - translation_iso: spa
     name: Nimbari
     auto: true

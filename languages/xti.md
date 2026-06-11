@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Sinicahua
     auto: true
+  - translation_iso: rus
+    name: синикахуа микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Sinicahua
     auto: true

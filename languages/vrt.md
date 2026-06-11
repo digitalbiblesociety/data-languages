@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Burmbar
     auto: true
+  - translation_iso: rus
+    name: бурмбарский язык
+    auto: true
   - translation_iso: spa
     name: Burmbar
     auto: true

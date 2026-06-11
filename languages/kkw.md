@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Teke-Kukuya
     auto: true
+  - translation_iso: rus
+    name: теке-кукуйский язык
+    auto: true
   - translation_iso: spa
     name: Idioma kukuya
   - translation_iso: zho

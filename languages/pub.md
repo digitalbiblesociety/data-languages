@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Purum
     auto: true
+  - translation_iso: rus
+    name: пурумский язык
+    auto: true
   - translation_iso: spa
     name: Purum
     auto: true

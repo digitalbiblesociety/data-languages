@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nancere
+  - translation_iso: rus
+    name: нанкерейский язык
+    auto: true
   - translation_iso: spa
     name: Nancere
     auto: true

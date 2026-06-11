@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: zizilivakan
     auto: true
+  - translation_iso: rus
+    name: зизиливаканский язык
+    auto: true
   - translation_iso: spa
     name: Idioma zizilivaka
   - translation_iso: zho

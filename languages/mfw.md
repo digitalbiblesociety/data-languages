@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Mulaha
     auto: true
+  - translation_iso: rus
+    name: мулахский язык
+    auto: true
   - translation_iso: spa
     name: Mulaha
     auto: true

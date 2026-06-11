@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mvanip
     auto: true
+  - translation_iso: rus
+    name: мванипский язык
+    auto: true
   - translation_iso: spa
     name: Mvanip
     auto: true

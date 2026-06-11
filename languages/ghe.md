@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: ghale do sul
     auto: true
+  - translation_iso: rus
+    name: сутерн гхалейский язык
+    auto: true
   - translation_iso: spa
     name: Ghale meridional
     auto: true

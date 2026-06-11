@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: fali do sul
     auto: true
+  - translation_iso: rus
+    name: сут фалийский язык
+    auto: true
   - translation_iso: spa
     name: Fali del Sur
     auto: true

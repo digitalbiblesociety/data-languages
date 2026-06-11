@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Eleme
     auto: true
+  - translation_iso: rus
+    name: елемейский язык
+    auto: true
   - translation_iso: spa
     name: Eleme
     auto: true

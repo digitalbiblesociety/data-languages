@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Siang
     auto: true
+  - translation_iso: rus
+    name: сиангский язык
+    auto: true
   - translation_iso: spa
     name: Siang
     auto: true

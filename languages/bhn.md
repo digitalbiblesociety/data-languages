@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Neoaramaico de Bohtan
     auto: true
+  - translation_iso: rus
+    name: бохтан нео-арамаикский язык
+    auto: true
   - translation_iso: spa
     name: neoarameo de Botan
   - translation_iso: zho

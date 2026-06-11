@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Suganga
     auto: true
+  - translation_iso: rus
+    name: сугангский язык
+    auto: true
   - translation_iso: spa
     name: Suganga
     auto: true

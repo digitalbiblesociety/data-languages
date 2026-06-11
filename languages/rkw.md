@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Arakwal
     auto: true
+  - translation_iso: rus
+    name: араквальский язык
+    auto: true
   - translation_iso: spa
     name: Arakwal
     auto: true

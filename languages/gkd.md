@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Magɨ (Província de Madang)
     auto: true
+  - translation_iso: rus
+    name: магыйский язык
+    auto: true
   - translation_iso: spa
     name: Magɨ (Provincia de Madang)
     auto: true

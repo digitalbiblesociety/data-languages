@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Silopi
     auto: true
+  - translation_iso: rus
+    name: силопийский язык
+    auto: true
   - translation_iso: spa
     name: Silopi
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nauo
     auto: true
+  - translation_iso: rus
+    name: науоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nauo
   - translation_iso: zho

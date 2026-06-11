@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Limba centro-ocidental
     auto: true
+  - translation_iso: rus
+    name: вест-кентрал лимбский язык
+    auto: true
   - translation_iso: spa
     name: Limba occidental-central
     auto: true

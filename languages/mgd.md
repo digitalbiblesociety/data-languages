@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua moru
+  - translation_iso: rus
+    name: моруский язык
+    auto: true
   - translation_iso: spa
     name: Moru
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Playero
     auto: true
+  - translation_iso: rus
+    name: плаероский язык
+    auto: true
   - translation_iso: spa
     name: Playero
   - translation_iso: zho

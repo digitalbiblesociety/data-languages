@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Karajarri
     auto: true
+  - translation_iso: rus
+    name: караяррийский язык
+    auto: true
   - translation_iso: spa
     name: Karajarri
     auto: true

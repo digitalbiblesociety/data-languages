@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dawera-Daweloor
     auto: true
+  - translation_iso: rus
+    name: давера-давелурский язык
+    auto: true
   - translation_iso: spa
     name: Dawera-Daweloor
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Degema
     auto: true
+  - translation_iso: rus
+    name: дегемский язык
+    auto: true
   - translation_iso: spa
     name: Degema
     auto: true

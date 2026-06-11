@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Arritinngithigh
     auto: true
+  - translation_iso: rus
+    name: арритиннгитигхский язык
+    auto: true
   - translation_iso: spa
     name: Idioma aritinngithigh
   - translation_iso: zho

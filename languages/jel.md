@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Yelmek
     auto: true
+  - translation_iso: rus
+    name: елмекский язык
+    auto: true
   - translation_iso: spa
     name: Yelmek
     auto: true

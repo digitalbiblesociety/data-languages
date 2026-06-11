@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sorkhei
     auto: true
+  - translation_iso: rus
+    name: сорхеийский язык
+    auto: true
   - translation_iso: spa
     name: Sorkhei
     auto: true

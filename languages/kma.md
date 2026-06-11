@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Konni
     auto: true
+  - translation_iso: rus
+    name: коннийский язык
+    auto: true
   - translation_iso: spa
     name: Konni
     auto: true

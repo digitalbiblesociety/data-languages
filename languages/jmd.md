@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Yamdena
+  - translation_iso: rus
+    name: ямденский язык
+    auto: true
   - translation_iso: spa
     name: Yamdena
   - translation_iso: zho

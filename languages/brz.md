@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bilbil
     auto: true
+  - translation_iso: rus
+    name: билбильский язык
+    auto: true
   - translation_iso: spa
     name: Bilbil
     auto: true

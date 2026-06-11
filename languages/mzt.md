@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mintil
     auto: true
+  - translation_iso: rus
+    name: минтильский язык
+    auto: true
   - translation_iso: spa
     name: Mintil
     auto: true

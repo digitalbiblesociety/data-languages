@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Dibiyaso
     auto: true
+  - translation_iso: rus
+    name: дибиясоский язык
+    auto: true
   - translation_iso: spa
     name: Dibiyaso
     auto: true

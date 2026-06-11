@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Laomian
     auto: true
+  - translation_iso: rus
+    name: лаомианский язык
+    auto: true
   - translation_iso: spa
     name: Laomian
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Rembong
+  - translation_iso: rus
+    name: рембонгский язык
+    auto: true
   - translation_iso: spa
     name: Rembong
   - translation_iso: zho

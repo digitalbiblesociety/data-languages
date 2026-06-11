@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: queres oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн кересский язык
+    auto: true
   - translation_iso: spa
     name: queresano oriental
   - translation_iso: zho

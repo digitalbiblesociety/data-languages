@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tunebo de Angosturas
     auto: true
+  - translation_iso: rus
+    name: ангостурас тунебоский язык
+    auto: true
   - translation_iso: spa
     name: Tunebo de Angosturas
     auto: true

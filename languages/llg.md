@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lole
     auto: true
+  - translation_iso: rus
+    name: лолейский язык
+    auto: true
   - translation_iso: spa
     name: Lole
     auto: true

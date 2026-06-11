@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hanga Hundi
     auto: true
+  - translation_iso: rus
+    name: ханга хундийский язык
+    auto: true
   - translation_iso: spa
     name: Hanga Hundi
     auto: true

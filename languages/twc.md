@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Teshenawa
     auto: true
+  - translation_iso: rus
+    name: тешенавский язык
+    auto: true
   - translation_iso: spa
     name: Teshenawa
     auto: true

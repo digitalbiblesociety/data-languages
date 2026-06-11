@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gbaya (Sudão)
     auto: true
+  - translation_iso: rus
+    name: гбайский язык
+    auto: true
   - translation_iso: spa
     name: Gbaya (Sudán)
     auto: true

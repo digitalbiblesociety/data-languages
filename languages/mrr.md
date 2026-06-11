@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Maria (Índia)
     auto: true
+  - translation_iso: rus
+    name: мариский язык
+    auto: true
   - translation_iso: spa
     name: maria
   - translation_iso: zho

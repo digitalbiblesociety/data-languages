@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Togoyo
     auto: true
+  - translation_iso: rus
+    name: тогойоский язык
+    auto: true
   - translation_iso: spa
     name: Togoyo
     auto: true

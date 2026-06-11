@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gamit
     auto: true
+  - translation_iso: rus
+    name: гамитский язык
+    auto: true
   - translation_iso: spa
     name: Gamit
     auto: true

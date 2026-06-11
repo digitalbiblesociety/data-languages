@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fwe
     auto: true
+  - translation_iso: rus
+    name: фвейский язык
+    auto: true
   - translation_iso: spa
     name: Fwe
   - translation_iso: zho

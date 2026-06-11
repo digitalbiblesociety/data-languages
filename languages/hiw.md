@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua hiw
+  - translation_iso: rus
+    name: хивский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Hiw
   - translation_iso: zho

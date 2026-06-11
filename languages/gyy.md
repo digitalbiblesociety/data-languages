@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gunya
     auto: true
+  - translation_iso: rus
+    name: гунйский язык
+    auto: true
   - translation_iso: spa
     name: Gunya
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Burunge
     auto: true
+  - translation_iso: rus
+    name: бурунгейский язык
+    auto: true
   - translation_iso: spa
     name: Burunge
     auto: true

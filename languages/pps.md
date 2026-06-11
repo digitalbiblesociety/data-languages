@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Popoloca de San Luís Temalacayuca
     auto: true
+  - translation_iso: rus
+    name: сан луис темалакаюка пополокский язык
+    auto: true
   - translation_iso: spa
     name: Popoloca de San Luis Temalacayuca
     auto: true

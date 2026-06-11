@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Nyaw
     auto: true
+  - translation_iso: rus
+    name: нявский язык
+    auto: true
   - translation_iso: spa
     name: Nyaw
     auto: true

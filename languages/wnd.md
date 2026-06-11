@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wandarang
     auto: true
+  - translation_iso: rus
+    name: вандарангский язык
+    auto: true
   - translation_iso: spa
     name: Wandarang
     auto: true

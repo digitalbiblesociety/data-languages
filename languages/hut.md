@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Humla
     auto: true
+  - translation_iso: rus
+    name: хумлский язык
+    auto: true
   - translation_iso: spa
     name: Humla
     auto: true

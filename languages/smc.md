@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Som
     auto: true
+  - translation_iso: rus
+    name: сомский язык
+    auto: true
   - translation_iso: spa
     name: Som
     auto: true

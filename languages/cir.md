@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tiri
     auto: true
+  - translation_iso: rus
+    name: тирийский язык
+    auto: true
   - translation_iso: spa
     name: Tiri
     auto: true

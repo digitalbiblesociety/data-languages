@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Warwar Feni
     auto: true
+  - translation_iso: rus
+    name: варвар фенийский язык
+    auto: true
   - translation_iso: spa
     name: Warwar Feni
     auto: true

@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Kafoa
     auto: true
+  - translation_iso: rus
+    name: кафоский язык
+    auto: true
   - translation_iso: spa
     name: Kafoa
     auto: true

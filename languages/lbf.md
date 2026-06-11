@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tinani
     auto: true
+  - translation_iso: rus
+    name: тинанийский язык
+    auto: true
   - translation_iso: spa
     name: Tinani
     auto: true

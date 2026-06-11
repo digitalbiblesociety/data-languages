@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua zou
+  - translation_iso: rus
+    name: зуский язык
+    auto: true
   - translation_iso: spa
     name: Zou
     auto: true

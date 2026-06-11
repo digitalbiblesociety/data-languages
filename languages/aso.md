@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dano
     auto: true
+  - translation_iso: rus
+    name: даноский язык
+    auto: true
   - translation_iso: spa
     name: Dano
     auto: true

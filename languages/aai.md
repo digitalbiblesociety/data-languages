@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Arifama-Miniafia
     auto: true
+  - translation_iso: rus
+    name: арифама-миниафиский язык
+    auto: true
   - translation_iso: spa
     name: Arifama-Miniafia
     auto: true

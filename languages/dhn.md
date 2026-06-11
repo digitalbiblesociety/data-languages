@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Dhanki
     auto: true
+  - translation_iso: rus
+    name: дханкийский язык
+    auto: true
   - translation_iso: spa
     name: Dhanki
     auto: true

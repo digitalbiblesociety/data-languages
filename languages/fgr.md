@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Fongoro
     auto: true
+  - translation_iso: rus
+    name: фонгороский язык
+    auto: true
   - translation_iso: spa
     name: Fongoro
     auto: true

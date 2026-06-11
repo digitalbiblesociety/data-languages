@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tanggu
     auto: true
+  - translation_iso: rus
+    name: танггуский язык
+    auto: true
   - translation_iso: spa
     name: Tanggu
     auto: true

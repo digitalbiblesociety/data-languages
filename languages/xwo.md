@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: oirate escrito
     auto: true
+  - translation_iso: rus
+    name: вриттен оиратский язык
+    auto: true
   - translation_iso: spa
     name: Oirat escrito
     auto: true

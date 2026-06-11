@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyiha (Tanzânia)
     auto: true
+  - translation_iso: rus
+    name: нйихский язык
+    auto: true
   - translation_iso: spa
     name: Nyiha
     auto: true

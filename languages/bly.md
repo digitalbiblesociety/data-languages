@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Notre
     auto: true
+  - translation_iso: rus
+    name: нотрейский язык
+    auto: true
   - translation_iso: spa
     name: Notre
     auto: true

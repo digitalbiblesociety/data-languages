@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Warembori
     auto: true
+  - translation_iso: rus
+    name: варемборийский язык
+    auto: true
   - translation_iso: spa
     name: Warembori
     auto: true

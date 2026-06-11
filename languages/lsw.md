@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais das Seicheles
     auto: true
+  - translation_iso: rus
+    name: сейчеллес сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Seychelles
     auto: true

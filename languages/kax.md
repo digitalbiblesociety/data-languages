@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kao
     auto: true
+  - translation_iso: rus
+    name: каоский язык
+    auto: true
   - translation_iso: spa
     name: Kao
     auto: true

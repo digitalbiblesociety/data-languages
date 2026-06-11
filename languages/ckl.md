@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Cibak
     auto: true
+  - translation_iso: rus
+    name: кибакский язык
+    auto: true
   - translation_iso: spa
     name: Cibak
     auto: true

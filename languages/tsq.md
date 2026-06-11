@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais tailandesa
+  - translation_iso: rus
+    name: таи сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas tailandesa
     auto: true

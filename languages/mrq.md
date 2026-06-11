@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: marquesano do norte
     auto: true
+  - translation_iso: rus
+    name: норт марквесанский язык
+    auto: true
   - translation_iso: spa
     name: Marquesano del Norte
     auto: true

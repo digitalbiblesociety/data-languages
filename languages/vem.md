@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vemgo-Mabas
     auto: true
+  - translation_iso: rus
+    name: вемго-мабасский язык
+    auto: true
   - translation_iso: spa
     name: Vemgo-Mabas
     auto: true

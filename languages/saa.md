@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Saba
     auto: true
+  - translation_iso: rus
+    name: сабский язык
+    auto: true
   - translation_iso: spa
     name: Saba
     auto: true

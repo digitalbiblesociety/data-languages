@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Biga
     auto: true
+  - translation_iso: rus
+    name: бигский язык
+    auto: true
   - translation_iso: spa
     name: Biga
     auto: true

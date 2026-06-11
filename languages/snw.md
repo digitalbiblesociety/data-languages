@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Selee
     auto: true
+  - translation_iso: rus
+    name: селийский язык
+    auto: true
   - translation_iso: spa
     name: Selee
     auto: true

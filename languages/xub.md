@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: betta kurumba
     auto: true
+  - translation_iso: rus
+    name: бетта курумбский язык
+    auto: true
   - translation_iso: spa
     name: Betta Kurumba
     auto: true

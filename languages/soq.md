@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kanasi
+  - translation_iso: rus
+    name: канасийский язык
+    auto: true
   - translation_iso: spa
     name: Kanasi
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Mamulique
     auto: true
+  - translation_iso: rus
+    name: мамуликвейский язык
+    auto: true
   - translation_iso: spa
     name: idioma mamulique
   - translation_iso: zho

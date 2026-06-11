@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Popoloca de San Juan Atzingo
     auto: true
+  - translation_iso: rus
+    name: сан юан атзинго пополокский язык
+    auto: true
   - translation_iso: spa
     name: Popoloca de San Juan Atzingo
     auto: true

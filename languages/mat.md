@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Matlatzinca de San Francisco
     auto: true
+  - translation_iso: rus
+    name: сан франкиско матлатзинкский язык
+    auto: true
   - translation_iso: spa
     name: Matlatzinca
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Phimbi
     auto: true
+  - translation_iso: rus
+    name: фимбийский язык
+    auto: true
   - translation_iso: spa
     name: Phimbi
     auto: true

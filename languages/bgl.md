@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bo (Laos)
     auto: true
+  - translation_iso: rus
+    name: боский язык
+    auto: true
   - translation_iso: spa
     name: Bo (Laos)
     auto: true

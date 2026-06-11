@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kurti
+  - translation_iso: rus
+    name: куртийский язык
+    auto: true
   - translation_iso: spa
     name: Kurti
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Yaka (Congo)
     auto: true
+  - translation_iso: rus
+    name: якский язык
+    auto: true
   - translation_iso: spa
     name: Yaka (Congo)
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mandaya
     auto: true
+  - translation_iso: rus
+    name: мандайский язык
+    auto: true
   - translation_iso: spa
     name: Mandaya
     auto: true

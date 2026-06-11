@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tomini
     auto: true
+  - translation_iso: rus
+    name: томинийский язык
+    auto: true
   - translation_iso: spa
     name: Tomini
     auto: true

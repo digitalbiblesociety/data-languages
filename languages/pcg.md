@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Paniya
     auto: true
+  - translation_iso: rus
+    name: панийский язык
+    auto: true
   - translation_iso: spa
     name: Paniya
     auto: true

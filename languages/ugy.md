@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais do Uruguai
+  - translation_iso: rus
+    name: уругуаян сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas uruguaya
   - translation_iso: zho

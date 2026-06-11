@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ede Ije
     auto: true
+  - translation_iso: rus
+    name: еде иейский язык
+    auto: true
   - translation_iso: spa
     name: Ede Ije
     auto: true

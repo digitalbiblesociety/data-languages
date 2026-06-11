@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Wejewa
     auto: true
+  - translation_iso: rus
+    name: веевский язык
+    auto: true
   - translation_iso: spa
     name: Wejewa
     auto: true

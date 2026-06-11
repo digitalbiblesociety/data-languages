@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fanbak
     auto: true
+  - translation_iso: rus
+    name: фанбакский язык
+    auto: true
   - translation_iso: spa
     name: Fanbak
     auto: true

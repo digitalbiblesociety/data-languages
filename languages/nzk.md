@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nzakara
     auto: true
+  - translation_iso: rus
+    name: нзакарский язык
+    auto: true
   - translation_iso: spa
     name: Nzakara
     auto: true

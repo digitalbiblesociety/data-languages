@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais de Gana
+  - translation_iso: rus
+    name: гханаиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lenguaje de signos de Ghana
   - translation_iso: zho

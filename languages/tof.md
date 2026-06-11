@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gizrra
     auto: true
+  - translation_iso: rus
+    name: гизррский язык
+    auto: true
   - translation_iso: spa
     name: Gizrra
     auto: true

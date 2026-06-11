@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Surgujia
     auto: true
+  - translation_iso: rus
+    name: сургуджиский язык
+    auto: true
   - translation_iso: spa
     name: Surgujia
     auto: true

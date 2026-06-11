@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: hlepho phowa
     auto: true
+  - translation_iso: rus
+    name: хлефо фовский язык
+    auto: true
   - translation_iso: spa
     name: Hlepho Phowa
     auto: true

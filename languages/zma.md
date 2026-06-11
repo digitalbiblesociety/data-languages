@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: manda (Austrália)
     auto: true
+  - translation_iso: rus
+    name: мандский язык
+    auto: true
   - translation_iso: spa
     name: Manda (Australia)
     auto: true

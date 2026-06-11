@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Krumen de Plapo
     auto: true
+  - translation_iso: rus
+    name: плапо круменский язык
+    auto: true
   - translation_iso: spa
     name: Krumen Plapo
     auto: true

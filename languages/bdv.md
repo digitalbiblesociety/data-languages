@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bodo Parja
     auto: true
+  - translation_iso: rus
+    name: бодо парйский язык
+    auto: true
   - translation_iso: spa
     name: idioma bodo parja
   - translation_iso: zho

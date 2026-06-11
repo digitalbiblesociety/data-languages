@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phuong
     auto: true
+  - translation_iso: rus
+    name: фуонгский язык
+    auto: true
   - translation_iso: spa
     name: Phuong
     auto: true

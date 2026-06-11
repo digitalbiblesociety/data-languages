@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kota Marudu Talantang
     auto: true
+  - translation_iso: rus
+    name: кота маруду талантангский язык
+    auto: true
   - translation_iso: spa
     name: Talantang de Kota Marudu
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Kla-Dan
     auto: true
+  - translation_iso: rus
+    name: кла-данский язык
+    auto: true
   - translation_iso: spa
     name: Kla-Dan
     auto: true

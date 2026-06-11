@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Pom
     auto: true
+  - translation_iso: rus
+    name: помский язык
+    auto: true
   - translation_iso: spa
     name: Pom
     auto: true

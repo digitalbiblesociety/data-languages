@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Popoloca de Santa Inés Ahuatempan
     auto: true
+  - translation_iso: rus
+    name: санта инес ахуатемпан пополокский язык
+    auto: true
   - translation_iso: spa
     name: Popoloca de Santa Inés Ahuatempan
     auto: true

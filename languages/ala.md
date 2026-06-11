@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Alago
     auto: true
+  - translation_iso: rus
+    name: алагоский язык
+    auto: true
   - translation_iso: spa
     name: alago
   - translation_iso: zho

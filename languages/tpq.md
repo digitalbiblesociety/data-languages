@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Tukpa
     auto: true
+  - translation_iso: rus
+    name: тукпский язык
+    auto: true
   - translation_iso: spa
     name: Tukpa
     auto: true

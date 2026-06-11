@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nahuatl do Istmo-Cosoleacaque
     auto: true
+  - translation_iso: rus
+    name: истмус-косолеакакве нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Istmo-Cosoleacaque
     auto: true

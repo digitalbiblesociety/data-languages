@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Popoloca de Mezontla
     auto: true
+  - translation_iso: rus
+    name: мезонтла пополокский язык
+    auto: true
   - translation_iso: spa
     name: Popoloca de Mezontla
     auto: true

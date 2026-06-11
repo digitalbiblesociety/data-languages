@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nimi
     auto: true
+  - translation_iso: rus
+    name: нимийский язык
+    auto: true
   - translation_iso: spa
     name: Nimi
     auto: true

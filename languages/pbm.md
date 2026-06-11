@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: mazateco de Puebla
     auto: true
+  - translation_iso: rus
+    name: пуебла мазатекский язык
+    auto: true
   - translation_iso: spa
     name: Mazateco de Puebla
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kim
+  - translation_iso: rus
+    name: кимский язык
+    auto: true
   - translation_iso: spa
     name: Kim
     auto: true

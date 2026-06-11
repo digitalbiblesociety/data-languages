@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gaikundi
     auto: true
+  - translation_iso: rus
+    name: гаикундийский язык
+    auto: true
   - translation_iso: spa
     name: Gaikundi
     auto: true

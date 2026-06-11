@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bajau indonésio
     auto: true
+  - translation_iso: rus
+    name: индонесиан баяуский язык
+    auto: true
   - translation_iso: spa
     name: Bajo
   - translation_iso: zho

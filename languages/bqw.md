@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Buru (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: буруский язык
+    auto: true
   - translation_iso: spa
     name: Buru (Nigeria)
     auto: true

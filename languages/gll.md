@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Garlali
     auto: true
+  - translation_iso: rus
+    name: гарлалийский язык
+    auto: true
   - translation_iso: spa
     name: Garlali
     auto: true

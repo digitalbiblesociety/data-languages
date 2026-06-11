@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Okpamheri
     auto: true
+  - translation_iso: rus
+    name: окпамхерийский язык
+    auto: true
   - translation_iso: spa
     name: Okpamheri
     auto: true

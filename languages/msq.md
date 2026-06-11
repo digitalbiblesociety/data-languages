@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Caac
     auto: true
+  - translation_iso: rus
+    name: каакский язык
+    auto: true
   - translation_iso: spa
     name: Caac
     auto: true

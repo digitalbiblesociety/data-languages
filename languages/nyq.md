@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nayini
     auto: true
+  - translation_iso: rus
+    name: найинийский язык
+    auto: true
   - translation_iso: spa
     name: Nayini
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chingoni
     auto: true
+  - translation_iso: rus
+    name: чингонийский язык
+    auto: true
   - translation_iso: spa
     name: Chingoni
     auto: true

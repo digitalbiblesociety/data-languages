@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chin Bualkhaw
     auto: true
+  - translation_iso: rus
+    name: буалхав чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Bualkhaw
     auto: true

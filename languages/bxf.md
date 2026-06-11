@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bilur
     auto: true
+  - translation_iso: rus
+    name: билурский язык
+    auto: true
   - translation_iso: spa
     name: Bilur
     auto: true

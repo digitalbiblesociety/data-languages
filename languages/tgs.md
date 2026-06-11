@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nume
     auto: true
+  - translation_iso: rus
+    name: нумейский язык
+    auto: true
   - translation_iso: spa
     name: Nume
     auto: true

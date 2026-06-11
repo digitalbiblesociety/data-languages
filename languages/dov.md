@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dombe
     auto: true
+  - translation_iso: rus
+    name: домбейский язык
+    auto: true
   - translation_iso: spa
     name: Dombe
     auto: true

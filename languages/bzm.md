@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bolondo
     auto: true
+  - translation_iso: rus
+    name: болондоский язык
+    auto: true
   - translation_iso: spa
     name: bolondo
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: birmanês antigo
     auto: true
+  - translation_iso: rus
+    name: олд бурмесейский язык
+    auto: true
   - translation_iso: spa
     name: birmano antiguo
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Magɨyi
     auto: true
+  - translation_iso: rus
+    name: магыйийский язык
+    auto: true
   - translation_iso: spa
     name: Magɨyi
     auto: true

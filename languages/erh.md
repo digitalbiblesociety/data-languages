@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Eruwa
     auto: true
+  - translation_iso: rus
+    name: ерувский язык
+    auto: true
   - translation_iso: spa
     name: Eruwa
     auto: true

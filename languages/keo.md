@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kakwa
     auto: true
+  - translation_iso: rus
+    name: каквский язык
+    auto: true
   - translation_iso: spa
     name: Kakwa
     auto: true

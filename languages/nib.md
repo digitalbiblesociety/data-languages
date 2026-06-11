@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nakame
     auto: true
+  - translation_iso: rus
+    name: накамейский язык
+    auto: true
   - translation_iso: spa
     name: Nakame
     auto: true

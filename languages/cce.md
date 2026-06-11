@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua chope
+  - translation_iso: rus
+    name: чопийский язык
+    auto: true
   - translation_iso: spa
     name: Chopi
     auto: true

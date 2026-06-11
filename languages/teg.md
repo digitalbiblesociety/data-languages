@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Teke-Tege
     auto: true
+  - translation_iso: rus
+    name: теке-тегейский язык
+    auto: true
   - translation_iso: spa
     name: Teke-Tege
     auto: true

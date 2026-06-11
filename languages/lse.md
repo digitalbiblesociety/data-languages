@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lusengo
     auto: true
+  - translation_iso: rus
+    name: лусенгоский язык
+    auto: true
   - translation_iso: spa
     name: Lusengo
     auto: true

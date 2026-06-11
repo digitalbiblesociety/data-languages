@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Noakhali
     auto: true
+  - translation_iso: rus
+    name: ноахалийский язык
+    auto: true
   - translation_iso: spa
     name: Noakhali
     auto: true

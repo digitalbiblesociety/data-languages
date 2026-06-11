@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tunzu
     auto: true
+  - translation_iso: rus
+    name: тунзуский язык
+    auto: true
   - translation_iso: spa
     name: Tunzu
     auto: true

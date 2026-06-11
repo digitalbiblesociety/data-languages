@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Okolie
     auto: true
+  - translation_iso: rus
+    name: околиейский язык
+    auto: true
   - translation_iso: spa
     name: Okolie
     auto: true

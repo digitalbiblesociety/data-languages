@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Murut Selungai
     auto: true
+  - translation_iso: rus
+    name: селунгаи мурутский язык
+    auto: true
   - translation_iso: spa
     name: Murut Selungai
     auto: true

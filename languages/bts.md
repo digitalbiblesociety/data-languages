@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Batak Simalungun
     auto: true
+  - translation_iso: rus
+    name: батак сималунгунский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Batak Simalungun
   - translation_iso: zho

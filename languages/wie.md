@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wik-Epa
     auto: true
+  - translation_iso: rus
+    name: вик-епский язык
+    auto: true
   - translation_iso: spa
     name: Wik-Epa
     auto: true

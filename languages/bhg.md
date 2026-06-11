@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Binandere
     auto: true
+  - translation_iso: rus
+    name: бинандерейский язык
+    auto: true
   - translation_iso: spa
     name: Binandere
     auto: true

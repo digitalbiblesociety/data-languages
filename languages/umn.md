@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Makyan Naga
     auto: true
+  - translation_iso: rus
+    name: макян нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Makyan
     auto: true

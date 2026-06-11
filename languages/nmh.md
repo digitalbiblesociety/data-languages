@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga Monsang
     auto: true
+  - translation_iso: rus
+    name: монсанг нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Monsang
     auto: true

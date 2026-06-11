@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngbandi do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн нгбандийский язык
+    auto: true
   - translation_iso: spa
     name: Ngbandi septentrional
     auto: true

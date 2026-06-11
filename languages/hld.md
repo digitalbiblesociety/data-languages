@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Halang Doan
     auto: true
+  - translation_iso: rus
+    name: халанг доанский язык
+    auto: true
   - translation_iso: spa
     name: Halang Doan
     auto: true

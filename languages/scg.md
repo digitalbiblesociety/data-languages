@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Sanggau
     auto: true
+  - translation_iso: rus
+    name: санггауский язык
+    auto: true
   - translation_iso: spa
     name: Sanggau
     auto: true

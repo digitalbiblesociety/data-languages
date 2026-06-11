@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pei
     auto: true
+  - translation_iso: rus
+    name: пеийский язык
+    auto: true
   - translation_iso: spa
     name: Pei
     auto: true

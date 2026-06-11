@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ulau-Suain
     auto: true
+  - translation_iso: rus
+    name: улау-суаинский язык
+    auto: true
   - translation_iso: spa
     name: Ulau-Suain
     auto: true

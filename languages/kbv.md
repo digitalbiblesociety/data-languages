@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Dera (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: дерский язык
+    auto: true
   - translation_iso: spa
     name: Dera (Indonesia)
     auto: true

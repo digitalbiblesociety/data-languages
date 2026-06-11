@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua massa
+  - translation_iso: rus
+    name: масанский язык
+    auto: true
   - translation_iso: spa
     name: masa
   - translation_iso: zho

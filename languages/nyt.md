@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyawaygi
     auto: true
+  - translation_iso: rus
+    name: нявайгийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nyawaygi
   - translation_iso: zho

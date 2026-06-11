@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Suundi
     auto: true
+  - translation_iso: rus
+    name: суундийский язык
+    auto: true
   - translation_iso: spa
     name: Suundi
     auto: true

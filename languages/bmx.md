@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Baimak
     auto: true
+  - translation_iso: rus
+    name: баимакский язык
+    auto: true
   - translation_iso: spa
     name: Baimak
     auto: true

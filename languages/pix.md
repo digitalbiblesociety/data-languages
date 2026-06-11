@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Piu
     auto: true
+  - translation_iso: rus
+    name: пиуский язык
+    auto: true
   - translation_iso: spa
     name: piu
   - translation_iso: zho

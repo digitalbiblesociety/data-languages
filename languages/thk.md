@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tharaka
     auto: true
+  - translation_iso: rus
+    name: таракский язык
+    auto: true
   - translation_iso: spa
     name: Tharaka
     auto: true

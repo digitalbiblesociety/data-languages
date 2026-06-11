@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tumtum
     auto: true
+  - translation_iso: rus
+    name: тумтумский язык
+    auto: true
   - translation_iso: spa
     name: Tumtum
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Náuatle de Durango Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн дуранго нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Durango Occidental
     auto: true

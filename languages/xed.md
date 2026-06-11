@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua hdi
+  - translation_iso: rus
+    name: хдийский язык
+    auto: true
   - translation_iso: spa
     name: Hdi
     auto: true

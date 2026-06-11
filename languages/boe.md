@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mundabli
     auto: true
+  - translation_iso: rus
+    name: мундаблийский язык
+    auto: true
   - translation_iso: spa
     name: mundabli
   - translation_iso: zho

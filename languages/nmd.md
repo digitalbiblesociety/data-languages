@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ndumu
     auto: true
+  - translation_iso: rus
+    name: ндумуский язык
+    auto: true
   - translation_iso: spa
     name: ndumu
   - translation_iso: zho

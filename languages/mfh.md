@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Matal
     auto: true
+  - translation_iso: rus
+    name: матальский язык
+    auto: true
   - translation_iso: spa
     name: Matal
     auto: true

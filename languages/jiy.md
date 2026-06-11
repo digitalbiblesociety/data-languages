@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Jinuo Buyuan
     auto: true
+  - translation_iso: rus
+    name: буюан джинуоский язык
+    auto: true
   - translation_iso: spa
     name: Jinuo Buyuan
     auto: true

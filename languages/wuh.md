@@ -34,6 +34,9 @@ translations:
     name: 우툰어
   - translation_iso: por
     name: Wutun
+  - translation_iso: rus
+    name: вутунхуский язык
+    auto: true
   - translation_iso: spa
     name: Wutun
   - translation_iso: zho

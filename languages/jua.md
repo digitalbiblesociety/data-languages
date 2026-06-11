@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Dialeto juma
+  - translation_iso: rus
+    name: джумский язык
+    auto: true
   - translation_iso: spa
     name: Júma
     auto: true

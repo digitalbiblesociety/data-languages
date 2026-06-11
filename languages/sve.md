@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Serili
+  - translation_iso: rus
+    name: серилийский язык
+    auto: true
   - translation_iso: spa
     name: Serili
   - translation_iso: zho

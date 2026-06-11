@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tembo (Kitembo)
     auto: true
+  - translation_iso: rus
+    name: китембо тембоский язык
+    auto: true
   - translation_iso: spa
     name: Tembo (Kitembo)
     auto: true

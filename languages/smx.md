@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Samba
     auto: true
+  - translation_iso: rus
+    name: самбский язык
+    auto: true
   - translation_iso: spa
     name: Samba
     auto: true

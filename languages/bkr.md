@@ -43,6 +43,9 @@ translations:
   - translation_iso: por
     name: Bakumpai
     auto: true
+  - translation_iso: rus
+    name: бакумпаийский язык
+    auto: true
   - translation_iso: spa
     name: Bakumpai
     auto: true

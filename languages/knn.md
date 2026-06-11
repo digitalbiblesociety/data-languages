@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: concani
     auto: true
+  - translation_iso: rus
+    name: конканийский язык
+    auto: true
   - translation_iso: spa
     name: Konkani
     auto: true

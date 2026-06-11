@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Womo
     auto: true
+  - translation_iso: rus
+    name: вомоский язык
+    auto: true
   - translation_iso: spa
     name: Womo
     auto: true

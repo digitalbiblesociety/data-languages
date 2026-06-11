@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ngile
     auto: true
+  - translation_iso: rus
+    name: нгилейский язык
+    auto: true
   - translation_iso: spa
     name: Ngile
     auto: true

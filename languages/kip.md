@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kham Sheshi
     auto: true
+  - translation_iso: rus
+    name: шеши хамский язык
+    auto: true
   - translation_iso: spa
     name: Kham Sheshi
     auto: true

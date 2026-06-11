@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Vili
     auto: true
+  - translation_iso: rus
+    name: вилийский язык
+    auto: true
   - translation_iso: spa
     name: Vili
     auto: true

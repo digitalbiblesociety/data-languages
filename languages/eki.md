@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Eki
     auto: true
+  - translation_iso: rus
+    name: екийский язык
+    auto: true
   - translation_iso: spa
     name: Eki
     auto: true

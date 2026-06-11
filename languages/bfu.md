@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gahri
     auto: true
+  - translation_iso: rus
+    name: гахрийский язык
+    auto: true
   - translation_iso: spa
     name: Gahri
     auto: true

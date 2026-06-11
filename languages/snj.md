@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sango Ribeirinho
     auto: true
+  - translation_iso: rus
+    name: ривераин сангоский язык
+    auto: true
   - translation_iso: spa
     name: Sango ribereño
     auto: true

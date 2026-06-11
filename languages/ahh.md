@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Aghu
+  - translation_iso: rus
+    name: агхуский язык
+    auto: true
   - translation_iso: spa
     name: Aghu
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Worimi
     auto: true
+  - translation_iso: rus
+    name: воримийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma worimi
   - translation_iso: zho

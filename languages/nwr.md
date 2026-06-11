@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nawaru
     auto: true
+  - translation_iso: rus
+    name: наваруский язык
+    auto: true
   - translation_iso: spa
     name: Nawaru
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Feroge
     auto: true
+  - translation_iso: rus
+    name: ферогейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Kaligi
   - translation_iso: zho

@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Tauade
     auto: true
+  - translation_iso: rus
+    name: тауадейский язык
+    auto: true
   - translation_iso: spa
     name: Tauade
     auto: true

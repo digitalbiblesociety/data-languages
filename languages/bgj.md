@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bangolan
     auto: true
+  - translation_iso: rus
+    name: банголанский язык
+    auto: true
   - translation_iso: spa
     name: bagolan
   - translation_iso: zho

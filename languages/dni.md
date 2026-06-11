@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dani do Baixo Grand Valley
     auto: true
+  - translation_iso: rus
+    name: ловер гранд валлей данийский язык
+    auto: true
   - translation_iso: spa
     name: Dani del Bajo Valle Grande
     auto: true

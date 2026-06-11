@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Sangu (Gabão)
     auto: true
+  - translation_iso: rus
+    name: сангуский язык
+    auto: true
   - translation_iso: spa
     name: Sangu
     auto: true

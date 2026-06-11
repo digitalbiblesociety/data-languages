@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga leinong
     auto: true
+  - translation_iso: rus
+    name: леинонг нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Leinong
     auto: true

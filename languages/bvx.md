@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dibole
     auto: true
+  - translation_iso: rus
+    name: диболейский язык
+    auto: true
   - translation_iso: spa
     name: Dibole
     auto: true

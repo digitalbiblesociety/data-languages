@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tswapong
     auto: true
+  - translation_iso: rus
+    name: цвапонгский язык
+    auto: true
   - translation_iso: spa
     name: Tswapong
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: kap
     auto: true
+  - translation_iso: rus
+    name: капский язык
+    auto: true
   - translation_iso: spa
     name: Kap
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Lango (Sudão do Sul)
     auto: true
+  - translation_iso: rus
+    name: лангоский язык
+    auto: true
   - translation_iso: spa
     name: Lango
     auto: true

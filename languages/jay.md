@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nhangu
+  - translation_iso: rus
+    name: ян-нхангуский язык
+    auto: true
   - translation_iso: spa
     name: Yan-nhangu
     auto: true

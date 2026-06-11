@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nankina
     auto: true
+  - translation_iso: rus
+    name: нанкинский язык
+    auto: true
   - translation_iso: spa
     name: Nankina
     auto: true

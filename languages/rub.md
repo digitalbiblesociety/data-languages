@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gungu
     auto: true
+  - translation_iso: rus
+    name: гунгуский язык
+    auto: true
   - translation_iso: spa
     name: Gungu
     auto: true

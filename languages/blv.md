@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kibala
     auto: true
+  - translation_iso: rus
+    name: кибалский язык
+    auto: true
   - translation_iso: spa
     name: Idioma bolo
   - translation_iso: zho

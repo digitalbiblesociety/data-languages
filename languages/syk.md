@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sukur
     auto: true
+  - translation_iso: rus
+    name: сукурский язык
+    auto: true
   - translation_iso: spa
     name: Sukur
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vwanji
     auto: true
+  - translation_iso: rus
+    name: вванджийский язык
+    auto: true
   - translation_iso: spa
     name: Vwanji
     auto: true

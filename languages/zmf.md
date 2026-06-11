@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: mfinu
     auto: true
+  - translation_iso: rus
+    name: мфинуский язык
+    auto: true
   - translation_iso: spa
     name: Mfinu
     auto: true

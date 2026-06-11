@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bit
     auto: true
+  - translation_iso: rus
+    name: битский язык
+    auto: true
   - translation_iso: spa
     name: Idioma bit
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bangandu
     auto: true
+  - translation_iso: rus
+    name: бангандуский язык
+    auto: true
   - translation_iso: spa
     name: Bangandu
     auto: true

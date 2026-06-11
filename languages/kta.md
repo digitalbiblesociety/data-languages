@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Katua
     auto: true
+  - translation_iso: rus
+    name: катуский язык
+    auto: true
   - translation_iso: spa
     name: Katua
     auto: true

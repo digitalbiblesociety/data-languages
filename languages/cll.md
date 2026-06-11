@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chala
     auto: true
+  - translation_iso: rus
+    name: чалский язык
+    auto: true
   - translation_iso: spa
     name: chala
   - translation_iso: zho

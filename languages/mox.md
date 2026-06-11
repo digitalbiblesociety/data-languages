@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Molima
     auto: true
+  - translation_iso: rus
+    name: молимский язык
+    auto: true
   - translation_iso: spa
     name: Molima
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua itawis
+  - translation_iso: rus
+    name: итавитский язык
+    auto: true
   - translation_iso: spa
     name: Itawit
     auto: true

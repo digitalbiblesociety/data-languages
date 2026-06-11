@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ashe
     auto: true
+  - translation_iso: rus
+    name: ашейский язык
+    auto: true
   - translation_iso: spa
     name: Ashe
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tomoip
     auto: true
+  - translation_iso: rus
+    name: томоипский язык
+    auto: true
   - translation_iso: spa
     name: Tomoip
     auto: true

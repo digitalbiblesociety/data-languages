@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nindi
     auto: true
+  - translation_iso: rus
+    name: ниндийский язык
+    auto: true
   - translation_iso: spa
     name: Nindi
     auto: true

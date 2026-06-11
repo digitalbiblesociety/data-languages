@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mandobo Bawah
     auto: true
+  - translation_iso: rus
+    name: мандобо бавахский язык
+    auto: true
   - translation_iso: spa
     name: Mandobo Bawah
     auto: true

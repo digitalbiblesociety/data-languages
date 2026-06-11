@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kele (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: келейский язык
+    auto: true
   - translation_iso: spa
     name: Kele (Papúa Nueva Guinea)
     auto: true

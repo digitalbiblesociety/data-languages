@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mixteco de San Juan Teita
     auto: true
+  - translation_iso: rus
+    name: сан юан теита микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de San Juan Teita
     auto: true

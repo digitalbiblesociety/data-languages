@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pankararé
     auto: true
+  - translation_iso: rus
+    name: панкарарейский язык
+    auto: true
   - translation_iso: spa
     name: Pankararé
     auto: true

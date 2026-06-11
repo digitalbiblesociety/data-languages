@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Baga Pokur
     auto: true
+  - translation_iso: rus
+    name: бага покурский язык
+    auto: true
   - translation_iso: spa
     name: Baga Pokur
     auto: true

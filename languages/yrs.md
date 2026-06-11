@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: yarsun
     auto: true
+  - translation_iso: rus
+    name: ярсунский язык
+    auto: true
   - translation_iso: spa
     name: Yarsun
     auto: true

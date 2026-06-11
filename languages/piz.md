@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pije
     auto: true
+  - translation_iso: rus
+    name: пиейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma pije
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Oko-Juwoi
     auto: true
+  - translation_iso: rus
+    name: око-ювоийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma juwoi
   - translation_iso: zho

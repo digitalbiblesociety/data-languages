@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Halia
     auto: true
+  - translation_iso: rus
+    name: халиский язык
+    auto: true
   - translation_iso: spa
     name: Halia
   - translation_iso: zho

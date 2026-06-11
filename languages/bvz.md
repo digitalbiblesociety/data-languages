@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Bauzi
+  - translation_iso: rus
+    name: баузийский язык
+    auto: true
   - translation_iso: spa
     name: Bauzi
   - translation_iso: zho

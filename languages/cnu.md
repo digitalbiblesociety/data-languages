@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua shenwa
+  - translation_iso: rus
+    name: ченуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Shenwa
   - translation_iso: zho

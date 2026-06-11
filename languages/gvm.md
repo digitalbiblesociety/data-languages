@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gurmana
     auto: true
+  - translation_iso: rus
+    name: гурманский язык
+    auto: true
   - translation_iso: spa
     name: Gurmana
     auto: true

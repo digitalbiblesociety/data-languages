@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: maninkakan oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн манинкаканский язык
+    auto: true
   - translation_iso: spa
     name: Maninkakán Oriental
     auto: true

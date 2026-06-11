@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Petats
     auto: true
+  - translation_iso: rus
+    name: петацский язык
+    auto: true
   - translation_iso: spa
     name: Petats
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yala
     auto: true
+  - translation_iso: rus
+    name: ялский язык
+    auto: true
   - translation_iso: spa
     name: Yala
     auto: true

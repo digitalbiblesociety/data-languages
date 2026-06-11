@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua zulgo
+  - translation_iso: rus
+    name: зулго-гемзекский язык
+    auto: true
   - translation_iso: spa
     name: Zulgo-Gemzek
     auto: true

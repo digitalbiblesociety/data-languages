@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Wae Rana
+  - translation_iso: rus
+    name: вае ранский язык
+    auto: true
   - translation_iso: spa
     name: Wae Rana
   - translation_iso: zho

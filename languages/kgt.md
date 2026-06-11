@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Somyev
     auto: true
+  - translation_iso: rus
+    name: сомевский язык
+    auto: true
   - translation_iso: spa
     name: Somyev
     auto: true

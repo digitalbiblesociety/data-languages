@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bete-Bendi
     auto: true
+  - translation_iso: rus
+    name: бете-бендийский язык
+    auto: true
   - translation_iso: spa
     name: Bete-Bendi
     auto: true

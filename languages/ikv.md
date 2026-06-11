@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Iku-Gora-Ankwa
     auto: true
+  - translation_iso: rus
+    name: ику-гора-анквский язык
+    auto: true
   - translation_iso: spa
     name: Iku-Gora-Ankwa
     auto: true

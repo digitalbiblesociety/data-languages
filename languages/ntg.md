@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Ngantangarra
     auto: true
+  - translation_iso: rus
+    name: нгантангаррский язык
+    auto: true
   - translation_iso: spa
     name: Ngantangarra
     auto: true

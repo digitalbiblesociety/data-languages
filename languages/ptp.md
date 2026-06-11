@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Patep
     auto: true
+  - translation_iso: rus
+    name: патепский язык
+    auto: true
   - translation_iso: spa
     name: Patep
     auto: true

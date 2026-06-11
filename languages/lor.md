@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Téén
     auto: true
+  - translation_iso: rus
+    name: теенский язык
+    auto: true
   - translation_iso: spa
     name: Téén
     auto: true

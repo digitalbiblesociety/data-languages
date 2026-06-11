@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lakon
     auto: true
+  - translation_iso: rus
+    name: лаконский язык
+    auto: true
   - translation_iso: spa
     name: Lakon
     auto: true

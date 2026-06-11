@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Belanda Bor
     auto: true
+  - translation_iso: rus
+    name: беланда борский язык
+    auto: true
   - translation_iso: spa
     name: belanda bor
   - translation_iso: zho

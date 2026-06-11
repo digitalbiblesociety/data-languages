@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Buol
     auto: true
+  - translation_iso: rus
+    name: буольский язык
+    auto: true
   - translation_iso: spa
     name: Buol
     auto: true

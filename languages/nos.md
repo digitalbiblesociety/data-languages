@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nisu Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн нисуский язык
+    auto: true
   - translation_iso: spa
     name: Nisu Oriental
     auto: true

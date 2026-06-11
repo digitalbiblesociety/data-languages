@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de Sinais da Zâmbia
+  - translation_iso: rus
+    name: замбиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Zambia
     auto: true

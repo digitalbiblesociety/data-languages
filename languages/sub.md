@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Suku
     auto: true
+  - translation_iso: rus
+    name: сукуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma suku
   - translation_iso: zho

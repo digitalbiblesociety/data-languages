@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bughotu
     auto: true
+  - translation_iso: rus
+    name: бугхотуский язык
+    auto: true
   - translation_iso: spa
     name: Bughotu
   - translation_iso: zho

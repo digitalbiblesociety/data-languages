@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pear
     auto: true
+  - translation_iso: rus
+    name: пеарский язык
+    auto: true
   - translation_iso: spa
     name: Pear
     auto: true

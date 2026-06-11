@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: I-Wak
     auto: true
+  - translation_iso: rus
+    name: и-вакский язык
+    auto: true
   - translation_iso: spa
     name: I-Wak
     auto: true

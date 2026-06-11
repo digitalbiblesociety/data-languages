@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naaba
     auto: true
+  - translation_iso: rus
+    name: наабский язык
+    auto: true
   - translation_iso: spa
     name: Naaba
     auto: true

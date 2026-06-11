@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gone Dau
     auto: true
+  - translation_iso: rus
+    name: гоне дауский язык
+    auto: true
   - translation_iso: spa
     name: Yahoo
   - translation_iso: zho

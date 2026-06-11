@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Samo Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн самоский язык
+    auto: true
   - translation_iso: spa
     name: Samo meridional
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Domung
     auto: true
+  - translation_iso: rus
+    name: домунгский язык
+    auto: true
   - translation_iso: spa
     name: Domung
     auto: true

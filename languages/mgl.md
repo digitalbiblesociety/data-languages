@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Maleu-Kilenge
     auto: true
+  - translation_iso: rus
+    name: малеу-киленгейский язык
+    auto: true
   - translation_iso: spa
     name: Maleu-Kilenge
     auto: true

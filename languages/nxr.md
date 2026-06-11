@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ninggerum
     auto: true
+  - translation_iso: rus
+    name: нинггерумский язык
+    auto: true
   - translation_iso: spa
     name: Ninggerum
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nahuatl da Huasteca Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн хуастека нахуатльский язык
+    auto: true
   - translation_iso: spa
     name: Náhuatl de la Huasteca occidental
   - translation_iso: zho

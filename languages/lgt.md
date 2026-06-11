@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pahi
     auto: true
+  - translation_iso: rus
+    name: пахийский язык
+    auto: true
   - translation_iso: spa
     name: Pahi
     auto: true

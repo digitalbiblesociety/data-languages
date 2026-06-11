@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: "O'du"
     auto: true
+  - translation_iso: rus
+    name: одуский язык
+    auto: true
   - translation_iso: spa
     name: "Idioma o'du"
   - translation_iso: zho

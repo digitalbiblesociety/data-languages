@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Phudagi
     auto: true
+  - translation_iso: rus
+    name: фудагийский язык
+    auto: true
   - translation_iso: spa
     name: phudagi
   - translation_iso: zho

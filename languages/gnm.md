@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ginuman
     auto: true
+  - translation_iso: rus
+    name: гинуманский язык
+    auto: true
   - translation_iso: spa
     name: Ginuman
     auto: true

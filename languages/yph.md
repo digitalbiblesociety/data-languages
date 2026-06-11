@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: phupha
     auto: true
+  - translation_iso: rus
+    name: фуфский язык
+    auto: true
   - translation_iso: spa
     name: Phupha
     auto: true

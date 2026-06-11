@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jowulu
     auto: true
+  - translation_iso: rus
+    name: йовулуский язык
+    auto: true
   - translation_iso: spa
     name: Jowulu
     auto: true

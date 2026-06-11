@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Isanzu
     auto: true
+  - translation_iso: rus
+    name: исанзуский язык
+    auto: true
   - translation_iso: spa
     name: Isanzu
     auto: true

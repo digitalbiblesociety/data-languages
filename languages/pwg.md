@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gapapaiwa
     auto: true
+  - translation_iso: rus
+    name: гапапаивский язык
+    auto: true
   - translation_iso: spa
     name: Gapapaiwa
     auto: true

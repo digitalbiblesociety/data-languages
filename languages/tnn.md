@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tanna do Norte
     auto: true
+  - translation_iso: rus
+    name: норт таннский язык
+    auto: true
   - translation_iso: spa
     name: Tanna del Norte
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bidjara
     auto: true
+  - translation_iso: rus
+    name: бидярский язык
+    auto: true
   - translation_iso: spa
     name: Bidjara
     auto: true

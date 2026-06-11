@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: yardliyawarra
     auto: true
+  - translation_iso: rus
+    name: ярдлияваррский язык
+    auto: true
   - translation_iso: spa
     name: Yardliyawarra
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bantayanon
     auto: true
+  - translation_iso: rus
+    name: бантаянонский язык
+    auto: true
   - translation_iso: spa
     name: Bantayanon
     auto: true

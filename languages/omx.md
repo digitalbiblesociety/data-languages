@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: mon antigo
     auto: true
+  - translation_iso: rus
+    name: олд монский язык
+    auto: true
   - translation_iso: spa
     name: Mon antiguo
     auto: true

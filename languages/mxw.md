@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Namo
     auto: true
+  - translation_iso: rus
+    name: намоский язык
+    auto: true
   - translation_iso: spa
     name: Namo
     auto: true

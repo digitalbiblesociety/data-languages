@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nkami
     auto: true
+  - translation_iso: rus
+    name: нкамийский язык
+    auto: true
   - translation_iso: spa
     name: Nkami
     auto: true

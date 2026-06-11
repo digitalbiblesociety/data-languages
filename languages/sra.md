@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Saruga
     auto: true
+  - translation_iso: rus
+    name: саругский язык
+    auto: true
   - translation_iso: spa
     name: Saruga
     auto: true

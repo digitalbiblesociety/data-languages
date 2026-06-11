@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: "Uma' Lasan"
     auto: true
+  - translation_iso: rus
+    name: ума ласанский язык
+    auto: true
   - translation_iso: spa
     name: "Uma' Lasan"
     auto: true

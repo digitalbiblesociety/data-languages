@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mmen
     auto: true
+  - translation_iso: rus
+    name: мменский язык
+    auto: true
   - translation_iso: spa
     name: mmen
   - translation_iso: zho

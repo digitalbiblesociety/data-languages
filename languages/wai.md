@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wares
     auto: true
+  - translation_iso: rus
+    name: варесский язык
+    auto: true
   - translation_iso: spa
     name: Wares
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nicobarês Central
     auto: true
+  - translation_iso: rus
+    name: кентрал никобаресейский язык
+    auto: true
   - translation_iso: spa
     name: Nicobarés central
     auto: true

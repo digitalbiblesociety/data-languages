@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dela-oenele
+  - translation_iso: rus
+    name: дела-оеналейский язык
+    auto: true
   - translation_iso: spa
     name: Dela-Oenale
     auto: true

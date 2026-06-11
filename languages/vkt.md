@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Malaio Kutai de Tenggarong
     auto: true
+  - translation_iso: rus
+    name: тенггаронг кутаи малайский язык
+    auto: true
   - translation_iso: spa
     name: Malayo Kutai de Tenggarong
     auto: true

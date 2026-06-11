@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wariyangga
     auto: true
+  - translation_iso: rus
+    name: вариянггский язык
+    auto: true
   - translation_iso: spa
     name: Wariyangga
     auto: true

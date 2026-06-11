@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bon Gula
     auto: true
+  - translation_iso: rus
+    name: бон гулский язык
+    auto: true
   - translation_iso: spa
     name: Bon Gula
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kioko
     auto: true
+  - translation_iso: rus
+    name: киокоский язык
+    auto: true
   - translation_iso: spa
     name: Kioko
     auto: true

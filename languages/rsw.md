@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Rishiwa
     auto: true
+  - translation_iso: rus
+    name: ришивский язык
+    auto: true
   - translation_iso: spa
     name: Rishiwa
     auto: true

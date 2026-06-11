@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gambera
     auto: true
+  - translation_iso: rus
+    name: гамберский язык
+    auto: true
   - translation_iso: spa
     name: Gambera
     auto: true

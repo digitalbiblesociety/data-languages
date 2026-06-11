@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Varhadi-Nagpuri
     auto: true
+  - translation_iso: rus
+    name: вархади-нагпурийский язык
+    auto: true
   - translation_iso: spa
     name: varhadi-nagpuri
   - translation_iso: zho

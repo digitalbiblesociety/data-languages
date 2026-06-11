@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Larteh
     auto: true
+  - translation_iso: rus
+    name: лартехский язык
+    auto: true
   - translation_iso: spa
     name: Larteh
     auto: true

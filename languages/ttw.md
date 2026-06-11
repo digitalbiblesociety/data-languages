@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Long Wat
     auto: true
+  - translation_iso: rus
+    name: лонг ватский язык
+    auto: true
   - translation_iso: spa
     name: Long Wat
     auto: true

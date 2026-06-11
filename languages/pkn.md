@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pakanha
     auto: true
+  - translation_iso: rus
+    name: паканхский язык
+    auto: true
   - translation_iso: spa
     name: idioma pakanha
   - translation_iso: zho

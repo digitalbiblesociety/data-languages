@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wagi
     auto: true
+  - translation_iso: rus
+    name: вагийский язык
+    auto: true
   - translation_iso: spa
     name: Wagi
     auto: true

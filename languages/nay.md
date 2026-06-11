@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngarrindjeri
     auto: true
+  - translation_iso: rus
+    name: нгарриндерийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngarinyeri
   - translation_iso: zho

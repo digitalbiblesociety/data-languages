@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Darlong
     auto: true
+  - translation_iso: rus
+    name: дарлонгский язык
+    auto: true
   - translation_iso: spa
     name: Darlong
     auto: true

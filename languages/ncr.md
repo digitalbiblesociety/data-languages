@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ncane
     auto: true
+  - translation_iso: rus
+    name: нканейский язык
+    auto: true
   - translation_iso: spa
     name: Ncane
     auto: true

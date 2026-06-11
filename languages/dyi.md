@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Senufo Djimini
     auto: true
+  - translation_iso: rus
+    name: дджимини сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Djimini
     auto: true

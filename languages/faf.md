@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fagani
     auto: true
+  - translation_iso: rus
+    name: фаганийский язык
+    auto: true
   - translation_iso: spa
     name: Fagani
     auto: true

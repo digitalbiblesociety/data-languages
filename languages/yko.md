@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yasa
     auto: true
+  - translation_iso: rus
+    name: ясский язык
+    auto: true
   - translation_iso: spa
     name: yasa
   - translation_iso: zho

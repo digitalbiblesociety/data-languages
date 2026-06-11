@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Katang do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн катангский язык
+    auto: true
   - translation_iso: spa
     name: Katang septentrional
     auto: true

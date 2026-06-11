@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ineseño
     auto: true
+  - translation_iso: rus
+    name: инесеньоский язык
+    auto: true
   - translation_iso: spa
     name: ineseño
   - translation_iso: zho

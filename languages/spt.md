@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Spiti Bhoti
     auto: true
+  - translation_iso: rus
+    name: спити бхотийский язык
+    auto: true
   - translation_iso: spa
     name: Spiti Bhoti
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Karawa
     auto: true
+  - translation_iso: rus
+    name: каравский язык
+    auto: true
   - translation_iso: spa
     name: Karawa
     auto: true

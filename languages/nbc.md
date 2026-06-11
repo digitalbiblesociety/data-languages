@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua chang
+  - translation_iso: rus
+    name: чанг нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Chang
     auto: true

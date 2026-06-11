@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Dhungaloo
     auto: true
+  - translation_iso: rus
+    name: дхунгалуский язык
+    auto: true
   - translation_iso: spa
     name: Dhungaloo
     auto: true

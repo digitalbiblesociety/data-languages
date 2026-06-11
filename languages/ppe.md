@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Papi
     auto: true
+  - translation_iso: rus
+    name: папийский язык
+    auto: true
   - translation_iso: spa
     name: Papi
     auto: true

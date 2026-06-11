@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ndambomo
     auto: true
+  - translation_iso: rus
+    name: ндамбомоский язык
+    auto: true
   - translation_iso: spa
     name: Ndambomo
     auto: true

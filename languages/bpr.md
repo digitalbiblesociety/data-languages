@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Blaan
     auto: true
+  - translation_iso: rus
+    name: блаанский язык
+    auto: true
   - translation_iso: spa
     name: Blaan
     auto: true

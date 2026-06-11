@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua zigula
+  - translation_iso: rus
+    name: зигулский язык
+    auto: true
   - translation_iso: spa
     name: Zigula
     auto: true

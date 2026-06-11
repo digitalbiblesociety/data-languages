@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bidayuh Bau
     auto: true
+  - translation_iso: rus
+    name: бау бидаюхский язык
+    auto: true
   - translation_iso: spa
     name: Bau Bidayuh
     auto: true

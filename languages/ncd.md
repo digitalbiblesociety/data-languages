@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nachering
     auto: true
+  - translation_iso: rus
+    name: начерингский язык
+    auto: true
   - translation_iso: spa
     name: Nachering
     auto: true

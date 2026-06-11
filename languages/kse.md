@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kuni
     auto: true
+  - translation_iso: rus
+    name: кунийский язык
+    auto: true
   - translation_iso: spa
     name: Kuni
     auto: true

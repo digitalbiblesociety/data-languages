@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Mgbolizhia
     auto: true
+  - translation_iso: rus
+    name: мгболижиский язык
+    auto: true
   - translation_iso: spa
     name: Mgbolizhia
     auto: true

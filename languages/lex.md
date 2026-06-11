@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Luang
     auto: true
+  - translation_iso: rus
+    name: луангский язык
+    auto: true
   - translation_iso: spa
     name: Luang
     auto: true

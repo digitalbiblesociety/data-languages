@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: macuíno oriental
     auto: true
+  - translation_iso: rus
+    name: еаст макианский язык
+    auto: true
   - translation_iso: spa
     name: Makian Oriental
     auto: true

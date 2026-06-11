@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yareba
     auto: true
+  - translation_iso: rus
+    name: яребский язык
+    auto: true
   - translation_iso: spa
     name: yareba
   - translation_iso: zho

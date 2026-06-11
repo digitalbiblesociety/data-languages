@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ahanta
+  - translation_iso: rus
+    name: ахантский язык
+    auto: true
   - translation_iso: spa
     name: Ahanta
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua thangmi
+  - translation_iso: rus
+    name: тангмийский язык
+    auto: true
   - translation_iso: spa
     name: thangmi
   - translation_iso: zho

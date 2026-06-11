@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua muera
+  - translation_iso: rus
+    name: чимвера мверский язык
+    auto: true
   - translation_iso: spa
     name: Mwera
     auto: true

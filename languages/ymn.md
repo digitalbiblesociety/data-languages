@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: yamna
     auto: true
+  - translation_iso: rus
+    name: ямнский язык
+    auto: true
   - translation_iso: spa
     name: sunum
   - translation_iso: zho

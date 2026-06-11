@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Eloyi
     auto: true
+  - translation_iso: rus
+    name: елойийский язык
+    auto: true
   - translation_iso: spa
     name: Eloyi
     auto: true

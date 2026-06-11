@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Guntai
     auto: true
+  - translation_iso: rus
+    name: гунтаийский язык
+    auto: true
   - translation_iso: spa
     name: Guntai
     auto: true

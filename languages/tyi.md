@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Teke-Tsaayi
     auto: true
+  - translation_iso: rus
+    name: теке-цаайийский язык
+    auto: true
   - translation_iso: spa
     name: Teke-Tsaayi
     auto: true

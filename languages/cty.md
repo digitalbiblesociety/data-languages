@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Moundadan Chetty
     auto: true
+  - translation_iso: rus
+    name: мундадан четтйский язык
+    auto: true
   - translation_iso: spa
     name: Chetty de Moundadan
     auto: true

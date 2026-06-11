@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Badui
     auto: true
+  - translation_iso: rus
+    name: бадуийский язык
+    auto: true
   - translation_iso: spa
     name: Badui
     auto: true

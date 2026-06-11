@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Shua
     auto: true
+  - translation_iso: rus
+    name: шуский язык
+    auto: true
   - translation_iso: spa
     name: Shua
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nnam
     auto: true
+  - translation_iso: rus
+    name: ннамский язык
+    auto: true
   - translation_iso: spa
     name: Nnam
     auto: true

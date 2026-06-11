@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kolbila
     auto: true
+  - translation_iso: rus
+    name: колбилский язык
+    auto: true
   - translation_iso: spa
     name: Kolbila
     auto: true

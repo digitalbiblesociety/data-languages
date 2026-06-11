@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wikalkan
     auto: true
+  - translation_iso: rus
+    name: викалканский язык
+    auto: true
   - translation_iso: spa
     name: idioma wik-ngatharr
   - translation_iso: zho

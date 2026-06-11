@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Konongo
     auto: true
+  - translation_iso: rus
+    name: кононгоский язык
+    auto: true
   - translation_iso: spa
     name: Konongo
     auto: true

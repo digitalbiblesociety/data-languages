@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Onjob
     auto: true
+  - translation_iso: rus
+    name: онйобский язык
+    auto: true
   - translation_iso: spa
     name: Onjob
     auto: true

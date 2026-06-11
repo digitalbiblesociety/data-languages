@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Baetora
     auto: true
+  - translation_iso: rus
+    name: баеторский язык
+    auto: true
   - translation_iso: spa
     name: Baetora
     auto: true

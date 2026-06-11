@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kwakum
     auto: true
+  - translation_iso: rus
+    name: квакумский язык
+    auto: true
   - translation_iso: spa
     name: Kwakum
     auto: true

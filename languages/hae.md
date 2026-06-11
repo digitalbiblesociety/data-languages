@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Oromo Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн оромоский язык
+    auto: true
   - translation_iso: spa
     name: Oromo Oriental
     auto: true

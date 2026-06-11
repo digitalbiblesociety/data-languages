@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Somba-Siawari
     auto: true
+  - translation_iso: rus
+    name: сомба-сиаварийский язык
+    auto: true
   - translation_iso: spa
     name: Somba-Siawari
     auto: true

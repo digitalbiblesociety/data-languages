@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Niksek
     auto: true
+  - translation_iso: rus
+    name: никсекский язык
+    auto: true
   - translation_iso: spa
     name: Niksek
     auto: true

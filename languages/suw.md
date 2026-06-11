@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sumbwa
     auto: true
+  - translation_iso: rus
+    name: сумбвский язык
+    auto: true
   - translation_iso: spa
     name: Sumbwa
     auto: true

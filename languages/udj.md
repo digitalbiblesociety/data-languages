@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ujir
     auto: true
+  - translation_iso: rus
+    name: уджирский язык
+    auto: true
   - translation_iso: spa
     name: ujir
   - translation_iso: zho

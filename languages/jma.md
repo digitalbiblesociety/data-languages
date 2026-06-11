@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dima
     auto: true
+  - translation_iso: rus
+    name: димский язык
+    auto: true
   - translation_iso: spa
     name: Dima
     auto: true

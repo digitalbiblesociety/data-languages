@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Kurumba Kannada
     auto: true
+  - translation_iso: rus
+    name: каннада курумбский язык
+    auto: true
   - translation_iso: spa
     name: kurumba
   - translation_iso: zho

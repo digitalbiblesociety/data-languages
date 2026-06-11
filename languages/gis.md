@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: giziga do norte
     auto: true
+  - translation_iso: rus
+    name: норт гизигский язык
+    auto: true
   - translation_iso: spa
     name: Giziga septentrional
     auto: true

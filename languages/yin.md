@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: riang lai
     auto: true
+  - translation_iso: rus
+    name: рианг лаийский язык
+    auto: true
   - translation_iso: spa
     name: idioma yinchia
   - translation_iso: zho

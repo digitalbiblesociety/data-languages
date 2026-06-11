@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nakanai
     auto: true
+  - translation_iso: rus
+    name: наканаийский язык
+    auto: true
   - translation_iso: spa
     name: Nakanai
     auto: true

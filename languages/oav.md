@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: avar antigo
     auto: true
+  - translation_iso: rus
+    name: олд аварский язык
+    auto: true
   - translation_iso: spa
     name: Avar antiguo
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tasmate
     auto: true
+  - translation_iso: rus
+    name: тасматейский язык
+    auto: true
   - translation_iso: spa
     name: Tasmate
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sangil
     auto: true
+  - translation_iso: rus
+    name: сангильский язык
+    auto: true
   - translation_iso: spa
     name: Sangil
     auto: true

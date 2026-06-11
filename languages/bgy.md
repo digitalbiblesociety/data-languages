@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Benggoi
     auto: true
+  - translation_iso: rus
+    name: бенггоийский язык
+    auto: true
   - translation_iso: spa
     name: Benggoi
     auto: true

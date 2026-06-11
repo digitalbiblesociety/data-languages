@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Bengala Ocidental
     auto: true
+  - translation_iso: rus
+    name: вест бенгал сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Bengala Occidental
     auto: true

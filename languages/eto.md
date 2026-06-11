@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua eton
+  - translation_iso: rus
+    name: етонский язык
+    auto: true
   - translation_iso: spa
     name: Eton
     auto: true

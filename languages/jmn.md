@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naga Makuri
     auto: true
+  - translation_iso: rus
+    name: макури нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Makuri
     auto: true

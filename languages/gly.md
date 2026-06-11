@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gule
+  - translation_iso: rus
+    name: гулейский язык
+    auto: true
   - translation_iso: spa
     name: Gule
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tarahumara do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн тарахумарский язык
+    auto: true
   - translation_iso: spa
     name: Tarahumara del Norte
     auto: true

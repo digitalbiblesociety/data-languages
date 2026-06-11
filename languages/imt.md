@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Imotong
     auto: true
+  - translation_iso: rus
+    name: имотонгский язык
+    auto: true
   - translation_iso: spa
     name: Imotong
     auto: true

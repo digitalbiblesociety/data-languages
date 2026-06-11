@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bugan
+  - translation_iso: rus
+    name: буганский язык
+    auto: true
   - translation_iso: spa
     name: Bugan
     auto: true

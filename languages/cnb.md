@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Chin Chinbon
     auto: true
+  - translation_iso: rus
+    name: чинбон чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Chinbon
     auto: true

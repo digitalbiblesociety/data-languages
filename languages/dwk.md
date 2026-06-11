@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Kui Dawik
     auto: true
+  - translation_iso: rus
+    name: давик куийский язык
+    auto: true
   - translation_iso: spa
     name: Dawik Kui
     auto: true

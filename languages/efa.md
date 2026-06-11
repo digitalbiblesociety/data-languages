@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Efai
     auto: true
+  - translation_iso: rus
+    name: ефаийский язык
+    auto: true
   - translation_iso: spa
     name: Efai
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Laiyolo
     auto: true
+  - translation_iso: rus
+    name: лаийолоский язык
+    auto: true
   - translation_iso: spa
     name: laiyolo
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sisaala Ocidental
     auto: true
+  - translation_iso: rus
+    name: вестерн сисаалский язык
+    auto: true
   - translation_iso: spa
     name: Sisaala occidental
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bitur
     auto: true
+  - translation_iso: rus
+    name: битурский язык
+    auto: true
   - translation_iso: spa
     name: Bitur
     auto: true

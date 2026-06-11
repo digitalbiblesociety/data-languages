@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: mandaico clássico
+  - translation_iso: rus
+    name: классикал мандаикский язык
+    auto: true
   - translation_iso: spa
     name: mandeo clásico
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nomu
     auto: true
+  - translation_iso: rus
+    name: номуский язык
+    auto: true
   - translation_iso: spa
     name: Nomu
     auto: true

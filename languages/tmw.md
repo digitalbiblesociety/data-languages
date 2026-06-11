@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Temuan
     auto: true
+  - translation_iso: rus
+    name: темуанский язык
+    auto: true
   - translation_iso: spa
     name: Temuan
     auto: true

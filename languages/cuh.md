@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chuka
     auto: true
+  - translation_iso: rus
+    name: чукский язык
+    auto: true
   - translation_iso: spa
     name: Chuka
     auto: true

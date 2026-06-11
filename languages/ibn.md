@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ibino
     auto: true
+  - translation_iso: rus
+    name: ибиноский язык
+    auto: true
   - translation_iso: spa
     name: Ibino
     auto: true

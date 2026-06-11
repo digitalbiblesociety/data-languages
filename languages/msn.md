@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua vurës
+  - translation_iso: rus
+    name: вуресский язык
+    auto: true
   - translation_iso: spa
     name: Idioma vurës
   - translation_iso: zho

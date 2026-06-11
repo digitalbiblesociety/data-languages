@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Hukumina
+  - translation_iso: rus
+    name: хукуминский язык
+    auto: true
   - translation_iso: spa
     name: Hukumina
   - translation_iso: zho

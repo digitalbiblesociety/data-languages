@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Merey
     auto: true
+  - translation_iso: rus
+    name: мерейский язык
+    auto: true
   - translation_iso: spa
     name: Merey
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Rufiji
     auto: true
+  - translation_iso: rus
+    name: руфиджийский язык
+    auto: true
   - translation_iso: spa
     name: Rufiji
     auto: true

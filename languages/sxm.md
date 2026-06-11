@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Samre
     auto: true
+  - translation_iso: rus
+    name: самрейский язык
+    auto: true
   - translation_iso: spa
     name: samrè
   - translation_iso: zho

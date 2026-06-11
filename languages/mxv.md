@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Metlatónoc
     auto: true
+  - translation_iso: rus
+    name: метлатонок микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Metlatónoc
     auto: true

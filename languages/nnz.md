@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: "Nda'nda"
     auto: true
+  - translation_iso: rus
+    name: ндандский язык
+    auto: true
   - translation_iso: spa
     name: "Nda'nda"
     auto: true

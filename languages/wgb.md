@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wagawaga
     auto: true
+  - translation_iso: rus
+    name: вагавагский язык
+    auto: true
   - translation_iso: spa
     name: Wagawaga
     auto: true

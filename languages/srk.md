@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Murut Serudung
     auto: true
+  - translation_iso: rus
+    name: серудунг мурутский язык
+    auto: true
   - translation_iso: spa
     name: Serudung Murut
     auto: true

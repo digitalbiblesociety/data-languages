@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pááfang
     auto: true
+  - translation_iso: rus
+    name: паафангский язык
+    auto: true
   - translation_iso: spa
     name: Pááfang
     auto: true

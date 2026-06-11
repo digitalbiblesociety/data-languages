@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngadjuri
     auto: true
+  - translation_iso: rus
+    name: нгадюрийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ngadjuri
   - translation_iso: zho

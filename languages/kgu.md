@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kobol
     auto: true
+  - translation_iso: rus
+    name: кобольский язык
+    auto: true
   - translation_iso: spa
     name: Kobol
     auto: true

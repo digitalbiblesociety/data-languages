@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Nugunu (Austrália)
     auto: true
+  - translation_iso: rus
+    name: нугунуский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nukunu
   - translation_iso: zho

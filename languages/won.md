@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wongo
     auto: true
+  - translation_iso: rus
+    name: вонгоский язык
+    auto: true
   - translation_iso: spa
     name: Wongo
     auto: true

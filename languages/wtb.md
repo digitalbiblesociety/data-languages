@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Matambwe
     auto: true
+  - translation_iso: rus
+    name: матамбвейский язык
+    auto: true
   - translation_iso: spa
     name: Matambwe
     auto: true

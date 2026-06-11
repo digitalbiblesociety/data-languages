@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kanuri Manga
     auto: true
+  - translation_iso: rus
+    name: манга канурийский язык
+    auto: true
   - translation_iso: spa
     name: Kanuri Manga
     auto: true

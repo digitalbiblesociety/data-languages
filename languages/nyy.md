@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nyakyusa-Ngonde
     auto: true
+  - translation_iso: rus
+    name: някюса-нгондейский язык
+    auto: true
   - translation_iso: spa
     name: Nyakyusa-Ngonde
     auto: true

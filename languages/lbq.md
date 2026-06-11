@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wampar
     auto: true
+  - translation_iso: rus
+    name: вампарский язык
+    auto: true
   - translation_iso: spa
     name: Wampar
     auto: true

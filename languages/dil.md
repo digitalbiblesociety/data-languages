@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dilling
     auto: true
+  - translation_iso: rus
+    name: диллингский язык
+    auto: true
   - translation_iso: spa
     name: Dilling
     auto: true

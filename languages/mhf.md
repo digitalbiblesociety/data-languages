@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mamaa
     auto: true
+  - translation_iso: rus
+    name: мамаский язык
+    auto: true
   - translation_iso: spa
     name: Mamaa
     auto: true

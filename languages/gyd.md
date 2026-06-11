@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kayardild
     auto: true
+  - translation_iso: rus
+    name: каярдилдский язык
+    auto: true
   - translation_iso: spa
     name: Kayardild
     auto: true

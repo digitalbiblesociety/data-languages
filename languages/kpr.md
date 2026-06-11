@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Korafe-Yegha
     auto: true
+  - translation_iso: rus
+    name: корафе-егхский язык
+    auto: true
   - translation_iso: spa
     name: Korafe-Yegha
     auto: true

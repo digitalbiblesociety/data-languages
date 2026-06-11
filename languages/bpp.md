@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kaure
     auto: true
+  - translation_iso: rus
+    name: каурейский язык
+    auto: true
   - translation_iso: spa
     name: Kaure
     auto: true

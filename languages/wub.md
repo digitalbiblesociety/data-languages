@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wunambal
     auto: true
+  - translation_iso: rus
+    name: вунамбальский язык
+    auto: true
   - translation_iso: spa
     name: wunambal
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Seluarsa
+  - translation_iso: rus
+    name: селувасанский язык
+    auto: true
   - translation_iso: spa
     name: Seluarsa
   - translation_iso: zho

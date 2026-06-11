@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tamang Oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн тамангский язык
+    auto: true
   - translation_iso: spa
     name: Tamang oriental
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Machinga
     auto: true
+  - translation_iso: rus
+    name: мачингский язык
+    auto: true
   - translation_iso: spa
     name: Machinga
     auto: true

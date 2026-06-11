@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ifugao Mayoyao
     auto: true
+  - translation_iso: rus
+    name: майояо ифугаоский язык
+    auto: true
   - translation_iso: spa
     name: Ifugao de Mayoyao
     auto: true

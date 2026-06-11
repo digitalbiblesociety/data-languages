@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tanjijili
     auto: true
+  - translation_iso: rus
+    name: танджиджилийский язык
+    auto: true
   - translation_iso: spa
     name: Tanjijili
     auto: true

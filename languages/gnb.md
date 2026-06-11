@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gangte
     auto: true
+  - translation_iso: rus
+    name: гангтейский язык
+    auto: true
   - translation_iso: spa
     name: Gangte
     auto: true

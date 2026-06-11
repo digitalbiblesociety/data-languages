@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yulu
     auto: true
+  - translation_iso: rus
+    name: юлуский язык
+    auto: true
   - translation_iso: spa
     name: Yulu
     auto: true

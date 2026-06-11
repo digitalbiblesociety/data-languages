@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mwimbi-Muthambi
     auto: true
+  - translation_iso: rus
+    name: мвимби-мутамбийский язык
+    auto: true
   - translation_iso: spa
     name: Mwimbi-Muthambi
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lingao
     auto: true
+  - translation_iso: rus
+    name: лингаоский язык
+    auto: true
   - translation_iso: spa
     name: Lingao
     auto: true

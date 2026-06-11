@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kakabe
     auto: true
+  - translation_iso: rus
+    name: какабейский язык
+    auto: true
   - translation_iso: spa
     name: Kakabe
     auto: true

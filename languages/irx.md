@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kamberau
     auto: true
+  - translation_iso: rus
+    name: камберауский язык
+    auto: true
   - translation_iso: spa
     name: Kamberau
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yorta yorta
     auto: true
+  - translation_iso: rus
+    name: йорта йортский язык
+    auto: true
   - translation_iso: spa
     name: idioma yorta yorta
   - translation_iso: zho

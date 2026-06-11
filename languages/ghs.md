@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Guhu-Samane
     auto: true
+  - translation_iso: rus
+    name: гуху-саманейский язык
+    auto: true
   - translation_iso: spa
     name: Guhu-Samane
     auto: true

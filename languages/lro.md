@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Laro
     auto: true
+  - translation_iso: rus
+    name: лароский язык
+    auto: true
   - translation_iso: spa
     name: Laro
     auto: true

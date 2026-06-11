@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pande
     auto: true
+  - translation_iso: rus
+    name: пандейский язык
+    auto: true
   - translation_iso: spa
     name: Pande
     auto: true

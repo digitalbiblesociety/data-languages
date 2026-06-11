@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: yarluyandi
     auto: true
+  - translation_iso: rus
+    name: ярлуяндийский язык
+    auto: true
   - translation_iso: spa
     name: Yarluyandi
     auto: true

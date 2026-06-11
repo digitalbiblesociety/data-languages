@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Awa (China)
     auto: true
+  - translation_iso: rus
+    name: авский язык
+    auto: true
   - translation_iso: spa
     name: Awa
     auto: true

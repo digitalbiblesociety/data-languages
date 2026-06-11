@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ipili
     auto: true
+  - translation_iso: rus
+    name: ипилийский язык
+    auto: true
   - translation_iso: spa
     name: Ipili
     auto: true

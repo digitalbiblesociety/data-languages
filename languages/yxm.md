@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yinwum
     auto: true
+  - translation_iso: rus
+    name: йинвумский язык
+    auto: true
   - translation_iso: spa
     name: Yinwum
     auto: true

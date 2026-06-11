@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Pwaamei
     auto: true
+  - translation_iso: rus
+    name: пваамеийский язык
+    auto: true
   - translation_iso: spa
     name: Pwaamei
     auto: true

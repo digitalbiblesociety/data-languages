@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nauete
     auto: true
+  - translation_iso: rus
+    name: науетейский язык
+    auto: true
   - translation_iso: spa
     name: Nauete
     auto: true

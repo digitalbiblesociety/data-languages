@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Serua
+  - translation_iso: rus
+    name: серуский язык
+    auto: true
   - translation_iso: spa
     name: Serua
   - translation_iso: zho

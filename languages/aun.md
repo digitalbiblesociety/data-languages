@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Molmo One
     auto: true
+  - translation_iso: rus
+    name: молмо онейский язык
+    auto: true
   - translation_iso: spa
     name: Molmo One
     auto: true

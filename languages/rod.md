@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Rogo
     auto: true
+  - translation_iso: rus
+    name: рогоский язык
+    auto: true
   - translation_iso: spa
     name: Rogo
     auto: true

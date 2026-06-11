@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kaniet
     auto: true
+  - translation_iso: rus
+    name: каниетский язык
+    auto: true
   - translation_iso: spa
     name: Kaniet
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wik Ngathan
     auto: true
+  - translation_iso: rus
+    name: вик нгатанский язык
+    auto: true
   - translation_iso: spa
     name: Idioma wik-ngathan
   - translation_iso: zho

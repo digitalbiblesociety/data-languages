@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tajio
     auto: true
+  - translation_iso: rus
+    name: таджиоский язык
+    auto: true
   - translation_iso: spa
     name: Tajio
     auto: true

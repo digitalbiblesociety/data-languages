@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Benamanga
     auto: true
+  - translation_iso: rus
+    name: бенамангский язык
+    auto: true
   - translation_iso: spa
     name: Benamanga
     auto: true

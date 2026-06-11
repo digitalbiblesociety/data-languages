@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pe
     auto: true
+  - translation_iso: rus
+    name: пейский язык
+    auto: true
   - translation_iso: spa
     name: Pe
     auto: true

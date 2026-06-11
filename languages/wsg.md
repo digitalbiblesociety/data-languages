@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Gondi de Adilabad
     auto: true
+  - translation_iso: rus
+    name: адилабад гондийский язык
+    auto: true
   - translation_iso: spa
     name: Gondi de Adilabad
     auto: true

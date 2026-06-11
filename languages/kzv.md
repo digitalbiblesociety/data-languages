@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Komyandaret
     auto: true
+  - translation_iso: rus
+    name: комяндаретский язык
+    auto: true
   - translation_iso: spa
     name: Idioma komyandaret
   - translation_iso: zho

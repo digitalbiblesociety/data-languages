@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Olulumo-Ikom
     auto: true
+  - translation_iso: rus
+    name: олулумо-икомский язык
+    auto: true
   - translation_iso: spa
     name: lengua Ikom
   - translation_iso: zho

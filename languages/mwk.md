@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: maninkakan de Kita
     auto: true
+  - translation_iso: rus
+    name: кита манинкаканский язык
+    auto: true
   - translation_iso: spa
     name: Maninkakan de Kita
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: efate do sul
     auto: true
+  - translation_iso: rus
+    name: сут ефатейский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nafsan
   - translation_iso: zho

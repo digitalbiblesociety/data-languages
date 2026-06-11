@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kayaw
     auto: true
+  - translation_iso: rus
+    name: каявский язык
+    auto: true
   - translation_iso: spa
     name: Kayaw
     auto: true

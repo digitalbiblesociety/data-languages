@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Vishavan
     auto: true
+  - translation_iso: rus
+    name: вишаванский язык
+    auto: true
   - translation_iso: spa
     name: Vishavan
     auto: true

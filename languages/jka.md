@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kaera
     auto: true
+  - translation_iso: rus
+    name: каерский язык
+    auto: true
   - translation_iso: spa
     name: Kaera
     auto: true

@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Noy
     auto: true
+  - translation_iso: rus
+    name: нойский язык
+    auto: true
   - translation_iso: spa
     name: Noy
     auto: true

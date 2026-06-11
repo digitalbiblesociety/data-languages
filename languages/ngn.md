@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngwo
     auto: true
+  - translation_iso: rus
+    name: нгвоский язык
+    auto: true
   - translation_iso: spa
     name: Ngwo
     auto: true

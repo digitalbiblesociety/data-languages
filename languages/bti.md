@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Burate
     auto: true
+  - translation_iso: rus
+    name: буратейский язык
+    auto: true
   - translation_iso: spa
     name: Burate
     auto: true

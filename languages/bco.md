@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kaluli
     auto: true
+  - translation_iso: rus
+    name: калулийский язык
+    auto: true
   - translation_iso: spa
     name: Kaluli
     auto: true

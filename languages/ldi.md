@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Laari
     auto: true
+  - translation_iso: rus
+    name: лаарийский язык
+    auto: true
   - translation_iso: spa
     name: Laari
     auto: true

@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Kungarakany
     auto: true
+  - translation_iso: rus
+    name: кунгараканйский язык
+    auto: true
   - translation_iso: spa
     name: Kungarakany
     auto: true

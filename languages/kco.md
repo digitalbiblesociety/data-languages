@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kinalakna
     auto: true
+  - translation_iso: rus
+    name: киналакнский язык
+    auto: true
   - translation_iso: spa
     name: Kinalakna
     auto: true

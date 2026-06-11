@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ndoola
     auto: true
+  - translation_iso: rus
+    name: ндулский язык
+    auto: true
   - translation_iso: spa
     name: Ndoola
     auto: true

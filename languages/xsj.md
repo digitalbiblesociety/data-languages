@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Subi
     auto: true
+  - translation_iso: rus
+    name: субийский язык
+    auto: true
   - translation_iso: spa
     name: Subi
     auto: true

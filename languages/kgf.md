@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kube
     auto: true
+  - translation_iso: rus
+    name: кубейский язык
+    auto: true
   - translation_iso: spa
     name: Kube
     auto: true

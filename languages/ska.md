@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Skagit
+  - translation_iso: rus
+    name: скагитский язык
+    auto: true
   - translation_iso: spa
     name: Skagit
   - translation_iso: zho

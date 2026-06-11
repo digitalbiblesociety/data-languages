@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bacama
     auto: true
+  - translation_iso: rus
+    name: бакамский язык
+    auto: true
   - translation_iso: spa
     name: Bacama
     auto: true

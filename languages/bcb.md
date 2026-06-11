@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Bainouk-Samik
     auto: true
+  - translation_iso: rus
+    name: баинук-самикский язык
+    auto: true
   - translation_iso: spa
     name: bainuko-samik
   - translation_iso: zho

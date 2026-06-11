@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: ambrym do norte
     auto: true
+  - translation_iso: rus
+    name: норт амбрймский язык
+    auto: true
   - translation_iso: spa
     name: Ambrym del Norte
     auto: true

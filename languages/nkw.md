@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nkutu
     auto: true
+  - translation_iso: rus
+    name: нкутуский язык
+    auto: true
   - translation_iso: spa
     name: Nkutu
     auto: true

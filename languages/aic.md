@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Ainbai
     auto: true
+  - translation_iso: rus
+    name: аинбаийский язык
+    auto: true
   - translation_iso: spa
     name: Ainbai
     auto: true

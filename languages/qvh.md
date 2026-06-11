@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Huamalíes-Dos de Mayo Huánuco
     auto: true
+  - translation_iso: rus
+    name: хуамалиес-дос де майо хуануко квечуский язык
+    auto: true
   - translation_iso: spa
     name: "Quechua de Huamalíes-Dos de Mayo, Huánuco"
     auto: true

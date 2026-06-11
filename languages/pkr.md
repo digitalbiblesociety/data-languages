@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Curumba de Attapady
     auto: true
+  - translation_iso: rus
+    name: аттападй курумбский язык
+    auto: true
   - translation_iso: spa
     name: Kurumba de Attapady
     auto: true

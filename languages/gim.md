@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gimi (Terras Altas Orientais)
     auto: true
+  - translation_iso: rus
+    name: гимийский язык
+    auto: true
   - translation_iso: spa
     name: Gimi (Tierras Altas Orientales)
     auto: true

@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua oko
+  - translation_iso: rus
+    name: око-ени-осаенский язык
+    auto: true
   - translation_iso: spa
     name: oko
   - translation_iso: zho

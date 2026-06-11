@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Dair
     auto: true
+  - translation_iso: rus
+    name: даирский язык
+    auto: true
   - translation_iso: spa
     name: Dair
     auto: true

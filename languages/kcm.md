@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gula (República Centro-Africana)
     auto: true
+  - translation_iso: rus
+    name: гулский язык
+    auto: true
   - translation_iso: spa
     name: Gula (República Centroafricana)
     auto: true

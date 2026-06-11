@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Makaa
     auto: true
+  - translation_iso: rus
+    name: макаский язык
+    auto: true
   - translation_iso: spa
     name: Makaa
     auto: true

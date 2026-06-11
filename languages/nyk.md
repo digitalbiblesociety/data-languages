@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nyaneka
     auto: true
+  - translation_iso: rus
+    name: нянекский язык
+    auto: true
   - translation_iso: spa
     name: Idioma nyaneka
   - translation_iso: zho

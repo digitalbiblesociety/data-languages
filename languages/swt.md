@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sawila
     auto: true
+  - translation_iso: rus
+    name: савилский язык
+    auto: true
   - translation_iso: spa
     name: Sawila
     auto: true

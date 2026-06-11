@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ikizu
+  - translation_iso: rus
+    name: икизуский язык
+    auto: true
   - translation_iso: spa
     name: Ikizu
     auto: true

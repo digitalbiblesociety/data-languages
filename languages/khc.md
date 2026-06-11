@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tukang Besi do Norte
     auto: true
+  - translation_iso: rus
+    name: туканг беси нортский язык
+    auto: true
   - translation_iso: spa
     name: Tukang Besi Norte
     auto: true

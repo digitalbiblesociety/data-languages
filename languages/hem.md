@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Hemba
     auto: true
+  - translation_iso: rus
+    name: хембский язык
+    auto: true
   - translation_iso: spa
     name: Hemba
     auto: true

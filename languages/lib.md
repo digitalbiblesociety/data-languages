@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Likum
     auto: true
+  - translation_iso: rus
+    name: ликумский язык
+    auto: true
   - translation_iso: spa
     name: Likum
     auto: true

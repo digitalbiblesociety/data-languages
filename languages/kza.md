@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua caraboro ocidental
+  - translation_iso: rus
+    name: вестерн карабороский язык
+    auto: true
   - translation_iso: spa
     name: Karaboro Occidental
     auto: true

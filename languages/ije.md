@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Biseni
     auto: true
+  - translation_iso: rus
+    name: бисенийский язык
+    auto: true
   - translation_iso: spa
     name: Biseni
     auto: true

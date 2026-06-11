@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Oblo
     auto: true
+  - translation_iso: rus
+    name: облоский язык
+    auto: true
   - translation_iso: spa
     name: oblo
   - translation_iso: zho

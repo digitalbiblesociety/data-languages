@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bhadrawahi
     auto: true
+  - translation_iso: rus
+    name: бхадравахийский язык
+    auto: true
   - translation_iso: spa
     name: Bhadrawahi
     auto: true

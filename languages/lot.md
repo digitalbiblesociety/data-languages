@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua lotuko
+  - translation_iso: rus
+    name: отухоский язык
+    auto: true
   - translation_iso: spa
     name: Otuho
     auto: true

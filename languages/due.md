@@ -40,6 +40,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua umiray dumaget agta
+  - translation_iso: rus
+    name: умирай думагет агтский язык
+    auto: true
   - translation_iso: spa
     name: Agta Umiray Dumaget
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Yafi
     auto: true
+  - translation_iso: rus
+    name: яфийский язык
+    auto: true
   - translation_iso: spa
     name: Yafi
     auto: true

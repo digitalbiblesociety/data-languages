@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Inglês liberiano
     auto: true
+  - translation_iso: rus
+    name: либериан енглишский язык
+    auto: true
   - translation_iso: spa
     name: Inglés liberiano
     auto: true

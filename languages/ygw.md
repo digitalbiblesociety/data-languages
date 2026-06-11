@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yagwoia
     auto: true
+  - translation_iso: rus
+    name: ягвоиский язык
+    auto: true
   - translation_iso: spa
     name: Yagwoia
     auto: true

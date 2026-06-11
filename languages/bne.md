@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bintauna
     auto: true
+  - translation_iso: rus
+    name: бинтаунский язык
+    auto: true
   - translation_iso: spa
     name: Bintauna
     auto: true

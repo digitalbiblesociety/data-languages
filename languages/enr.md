@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Emumu
     auto: true
+  - translation_iso: rus
+    name: емумуский язык
+    auto: true
   - translation_iso: spa
     name: Emumu
     auto: true

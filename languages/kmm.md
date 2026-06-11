@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kom (Índia)
     auto: true
+  - translation_iso: rus
+    name: комский язык
+    auto: true
   - translation_iso: spa
     name: Kom (India)
     auto: true

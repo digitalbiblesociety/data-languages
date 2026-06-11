@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Banggai
     auto: true
+  - translation_iso: rus
+    name: банггаийский язык
+    auto: true
   - translation_iso: spa
     name: Banggai
     auto: true

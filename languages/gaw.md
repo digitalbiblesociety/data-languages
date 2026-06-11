@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua nobonob
+  - translation_iso: rus
+    name: нобонобский язык
+    auto: true
   - translation_iso: spa
     name: Nobonob
     auto: true

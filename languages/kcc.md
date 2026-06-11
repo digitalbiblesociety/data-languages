@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lubila
     auto: true
+  - translation_iso: rus
+    name: лубилский язык
+    auto: true
   - translation_iso: spa
     name: Lubila
     auto: true

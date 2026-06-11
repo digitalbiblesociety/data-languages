@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ende
+  - translation_iso: rus
+    name: ендейский язык
+    auto: true
   - translation_iso: spa
     name: Ende
   - translation_iso: zho

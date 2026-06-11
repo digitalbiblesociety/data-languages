@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Bariji
     auto: true
+  - translation_iso: rus
+    name: бариджийский язык
+    auto: true
   - translation_iso: spa
     name: Bariji
     auto: true

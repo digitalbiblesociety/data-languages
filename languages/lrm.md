@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Marama
     auto: true
+  - translation_iso: rus
+    name: марамский язык
+    auto: true
   - translation_iso: spa
     name: Marama
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dorze
     auto: true
+  - translation_iso: rus
+    name: дорзейский язык
+    auto: true
   - translation_iso: spa
     name: Dorze
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chin Falam
     auto: true
+  - translation_iso: rus
+    name: фалам чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Falam
     auto: true

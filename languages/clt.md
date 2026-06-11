@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chin Lautu
     auto: true
+  - translation_iso: rus
+    name: лауту чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Lautu
     auto: true

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tanchangya
+  - translation_iso: rus
+    name: тангчангйский язык
+    auto: true
   - translation_iso: spa
     name: Idioma Tanchangya
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: ani phowa
     auto: true
+  - translation_iso: rus
+    name: ани фовский язык
+    auto: true
   - translation_iso: spa
     name: Ani Phowa
     auto: true

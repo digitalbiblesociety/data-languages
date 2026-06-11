@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Matengo
     auto: true
+  - translation_iso: rus
+    name: матенгоский язык
+    auto: true
   - translation_iso: spa
     name: Matengo
     auto: true

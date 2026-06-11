@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Kota (Gabão)
     auto: true
+  - translation_iso: rus
+    name: котский язык
+    auto: true
   - translation_iso: spa
     name: Kota (Gabón)
     auto: true

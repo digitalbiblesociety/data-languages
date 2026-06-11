@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: "lang'e"
     auto: true
+  - translation_iso: rus
+    name: лангейский язык
+    auto: true
   - translation_iso: spa
     name: "Lang'e"
     auto: true

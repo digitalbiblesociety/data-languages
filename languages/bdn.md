@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Baldemu
     auto: true
+  - translation_iso: rus
+    name: балдемуский язык
+    auto: true
   - translation_iso: spa
     name: Baldemu
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Awiyaana
     auto: true
+  - translation_iso: rus
+    name: авияанский язык
+    auto: true
   - translation_iso: spa
     name: Awiyaana
     auto: true

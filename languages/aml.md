@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: War-Jaintia
     auto: true
+  - translation_iso: rus
+    name: вар-яинтиский язык
+    auto: true
   - translation_iso: spa
     name: war
   - translation_iso: zho

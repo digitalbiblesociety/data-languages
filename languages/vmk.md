@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Makhuwa-Shirima
     auto: true
+  - translation_iso: rus
+    name: махува-ширимский язык
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Shirima
     auto: true

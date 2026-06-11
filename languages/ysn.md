@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: sani
     auto: true
+  - translation_iso: rus
+    name: санийский язык
+    auto: true
   - translation_iso: spa
     name: Sani
     auto: true

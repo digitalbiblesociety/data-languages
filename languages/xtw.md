@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tawandê
+  - translation_iso: rus
+    name: тавандейский язык
+    auto: true
   - translation_iso: spa
     name: Tawandê
     auto: true

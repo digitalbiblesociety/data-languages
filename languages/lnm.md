@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Langam
     auto: true
+  - translation_iso: rus
+    name: лангамский язык
+    auto: true
   - translation_iso: spa
     name: Langam
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kuri
     auto: true
+  - translation_iso: rus
+    name: курийский язык
+    auto: true
   - translation_iso: spa
     name: Kuri
     auto: true

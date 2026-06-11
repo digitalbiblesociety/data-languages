@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Minriq
     auto: true
+  - translation_iso: rus
+    name: минрикский язык
+    auto: true
   - translation_iso: spa
     name: Minriq
     auto: true

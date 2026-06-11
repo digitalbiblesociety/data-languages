@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ngendelengo
     auto: true
+  - translation_iso: rus
+    name: нгенделенгоский язык
+    auto: true
   - translation_iso: spa
     name: Ngendelengo
     auto: true

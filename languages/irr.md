@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Ir
     auto: true
+  - translation_iso: rus
+    name: ирский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ir
   - translation_iso: zho

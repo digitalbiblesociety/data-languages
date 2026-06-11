@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua suwawa
+  - translation_iso: rus
+    name: сувавский язык
+    auto: true
   - translation_iso: spa
     name: Suwawa
     auto: true

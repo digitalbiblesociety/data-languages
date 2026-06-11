@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Abom
     auto: true
+  - translation_iso: rus
+    name: абомский язык
+    auto: true
   - translation_iso: spa
     name: Abom
     auto: true

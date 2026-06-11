@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tereweng
     auto: true
+  - translation_iso: rus
+    name: теревенгский язык
+    auto: true
   - translation_iso: spa
     name: Tereweng
     auto: true

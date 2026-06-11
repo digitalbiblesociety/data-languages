@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bidhawal
     auto: true
+  - translation_iso: rus
+    name: бидхавальский язык
+    auto: true
   - translation_iso: spa
     name: Bidhawal
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Berom
     auto: true
+  - translation_iso: rus
+    name: беромский язык
+    auto: true
   - translation_iso: spa
     name: Berom
     auto: true

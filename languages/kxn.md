@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Melanau de Kanowit-Tanjong
     auto: true
+  - translation_iso: rus
+    name: кановит-танйонг меланауский язык
+    auto: true
   - translation_iso: spa
     name: Melanau Kanowit-Tanjong
     auto: true

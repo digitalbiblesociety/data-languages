@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wagaya
     auto: true
+  - translation_iso: rus
+    name: вагайский язык
+    auto: true
   - translation_iso: spa
     name: Wagaya
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tsaangi
     auto: true
+  - translation_iso: rus
+    name: цаангийский язык
+    auto: true
   - translation_iso: spa
     name: Tsaangi
     auto: true

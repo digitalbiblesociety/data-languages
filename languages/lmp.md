@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua limbum
+  - translation_iso: rus
+    name: лимбумский язык
+    auto: true
   - translation_iso: spa
     name: Limbum
     auto: true

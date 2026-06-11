@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Bobot
     auto: true
+  - translation_iso: rus
+    name: боботский язык
+    auto: true
   - translation_iso: spa
     name: Bobot
     auto: true

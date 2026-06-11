@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ndogo
     auto: true
+  - translation_iso: rus
+    name: ндогоский язык
+    auto: true
   - translation_iso: spa
     name: Ndogo
     auto: true

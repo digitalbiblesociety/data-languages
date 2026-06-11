@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lanoh
     auto: true
+  - translation_iso: rus
+    name: ланохский язык
+    auto: true
   - translation_iso: spa
     name: Lanoh
     auto: true

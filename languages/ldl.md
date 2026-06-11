@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kaan
     auto: true
+  - translation_iso: rus
+    name: каанский язык
+    auto: true
   - translation_iso: spa
     name: Kaan
     auto: true

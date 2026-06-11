@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Lubu
     auto: true
+  - translation_iso: rus
+    name: лубуский язык
+    auto: true
   - translation_iso: spa
     name: Lubu
     auto: true

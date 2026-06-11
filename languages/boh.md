@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Boma
     auto: true
+  - translation_iso: rus
+    name: бомский язык
+    auto: true
   - translation_iso: spa
     name: Boma
     auto: true

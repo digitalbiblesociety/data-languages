@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Basa-Gumna
     auto: true
+  - translation_iso: rus
+    name: баса-гумнский язык
+    auto: true
   - translation_iso: spa
     name: Basa-Gumna
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mairasi
     auto: true
+  - translation_iso: rus
+    name: маирасийский язык
+    auto: true
   - translation_iso: spa
     name: Mairasi
     auto: true

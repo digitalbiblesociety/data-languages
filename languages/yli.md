@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: yali de Angguruk
     auto: true
+  - translation_iso: rus
+    name: анггурук ялийский язык
+    auto: true
   - translation_iso: spa
     name: Yali de Angguruk
     auto: true

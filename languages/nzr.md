@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dir-Nyamzak-Mbarimi
     auto: true
+  - translation_iso: rus
+    name: дир-нямзак-мбаримийский язык
+    auto: true
   - translation_iso: spa
     name: Dir-Nyamzak-Mbarimi
     auto: true

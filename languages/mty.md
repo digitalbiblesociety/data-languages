@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nabi
     auto: true
+  - translation_iso: rus
+    name: набийский язык
+    auto: true
   - translation_iso: spa
     name: Nabi
     auto: true

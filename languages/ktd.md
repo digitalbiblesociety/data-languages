@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kokata
     auto: true
+  - translation_iso: rus
+    name: кокатский язык
+    auto: true
   - translation_iso: spa
     name: Kokata
     auto: true

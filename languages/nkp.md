@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Niuatoputapu
     auto: true
+  - translation_iso: rus
+    name: ниуатопутапуский язык
+    auto: true
   - translation_iso: spa
     name: Niuatoputapu
     auto: true

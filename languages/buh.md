@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bunu Younuo
     auto: true
+  - translation_iso: rus
+    name: йоунуо бунуский язык
+    auto: true
   - translation_iso: spa
     name: Bunu Younuo
     auto: true

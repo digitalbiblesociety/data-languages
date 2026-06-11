@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chin Ngawn
     auto: true
+  - translation_iso: rus
+    name: нгавн чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Ngawn
     auto: true

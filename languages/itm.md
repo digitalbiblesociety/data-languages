@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Itu Mbon Uzo
     auto: true
+  - translation_iso: rus
+    name: иту мбон узоский язык
+    auto: true
   - translation_iso: spa
     name: Itu Mbon Uzo
     auto: true

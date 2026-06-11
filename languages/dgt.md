@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: "Ndra'ngith"
     auto: true
+  - translation_iso: rus
+    name: ндрангитский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mangarla
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua turu
+  - translation_iso: rus
+    name: нятуруский язык
+    auto: true
   - translation_iso: spa
     name: Nyaturu
     auto: true

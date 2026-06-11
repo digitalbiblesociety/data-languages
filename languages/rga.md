@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Roria
     auto: true
+  - translation_iso: rus
+    name: рориский язык
+    auto: true
   - translation_iso: spa
     name: Roria
     auto: true

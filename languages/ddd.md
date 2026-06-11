@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua dongotono
+  - translation_iso: rus
+    name: донготоноский язык
+    auto: true
   - translation_iso: spa
     name: Dongotono
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Wannu
     auto: true
+  - translation_iso: rus
+    name: ваннуский язык
+    auto: true
   - translation_iso: spa
     name: Wannu
     auto: true

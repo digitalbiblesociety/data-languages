@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Anyin Morofo
     auto: true
+  - translation_iso: rus
+    name: анйин морофоский язык
+    auto: true
   - translation_iso: spa
     name: Anyin Morofo
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Naba
     auto: true
+  - translation_iso: rus
+    name: набский язык
+    auto: true
   - translation_iso: spa
     name: Naba
     auto: true

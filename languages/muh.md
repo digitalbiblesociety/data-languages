@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mündü
     auto: true
+  - translation_iso: rus
+    name: мундуский язык
+    auto: true
   - translation_iso: spa
     name: Mündü
     auto: true

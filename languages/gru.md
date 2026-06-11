@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Kistane
     auto: true
+  - translation_iso: rus
+    name: кистанейский язык
+    auto: true
   - translation_iso: spa
     name: soddo
   - translation_iso: zho

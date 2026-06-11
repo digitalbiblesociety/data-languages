@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Hovongan
     auto: true
+  - translation_iso: rus
+    name: ховонганский язык
+    auto: true
   - translation_iso: spa
     name: Hovongan
     auto: true

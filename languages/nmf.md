@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tangkhul
+  - translation_iso: rus
+    name: тангхул нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Tangkhul
     auto: true

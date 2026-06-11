@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Moma
     auto: true
+  - translation_iso: rus
+    name: момский язык
+    auto: true
   - translation_iso: spa
     name: Moma
     auto: true

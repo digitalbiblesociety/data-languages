@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Buso
     auto: true
+  - translation_iso: rus
+    name: бусоский язык
+    auto: true
   - translation_iso: spa
     name: buso
   - translation_iso: zho

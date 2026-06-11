@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Nkongho
     auto: true
+  - translation_iso: rus
+    name: нконгхоский язык
+    auto: true
   - translation_iso: spa
     name: nkongho
   - translation_iso: zho

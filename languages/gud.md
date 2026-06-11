@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dida Yocoboué
     auto: true
+  - translation_iso: rus
+    name: йокобуе дидский язык
+    auto: true
   - translation_iso: spa
     name: Dida de Yocoboué
     auto: true

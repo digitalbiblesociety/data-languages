@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ikpeshi
     auto: true
+  - translation_iso: rus
+    name: икпешийский язык
+    auto: true
   - translation_iso: spa
     name: Ikpeshi
     auto: true

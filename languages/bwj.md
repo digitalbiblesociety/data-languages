@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua láá láá bwam
+  - translation_iso: rus
+    name: лаа лаа бвамуский язык
+    auto: true
   - translation_iso: spa
     name: Láá Láá Bwamu
     auto: true

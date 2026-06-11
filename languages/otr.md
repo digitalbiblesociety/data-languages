@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Otoro
     auto: true
+  - translation_iso: rus
+    name: отороский язык
+    auto: true
   - translation_iso: spa
     name: Otoro
     auto: true

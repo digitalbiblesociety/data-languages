@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua koti
+  - translation_iso: rus
+    name: котийский язык
+    auto: true
   - translation_iso: spa
     name: ekoti
   - translation_iso: zho

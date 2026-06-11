@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gwere
+  - translation_iso: rus
+    name: гверейский язык
+    auto: true
   - translation_iso: spa
     name: Gwere
     auto: true

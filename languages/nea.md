@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Ngada Timur
+  - translation_iso: rus
+    name: еастерн нгадский язык
+    auto: true
   - translation_iso: spa
     name: Ngada Timur
   - translation_iso: zho

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Belning
     auto: true
+  - translation_iso: rus
+    name: белнингский язык
+    auto: true
   - translation_iso: spa
     name: Belnəng
   - translation_iso: zho

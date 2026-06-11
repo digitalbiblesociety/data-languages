@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Toro
     auto: true
+  - translation_iso: rus
+    name: тороский язык
+    auto: true
   - translation_iso: spa
     name: Toro
     auto: true

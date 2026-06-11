@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Valman
     auto: true
+  - translation_iso: rus
+    name: валманский язык
+    auto: true
   - translation_iso: spa
     name: Valman
     auto: true

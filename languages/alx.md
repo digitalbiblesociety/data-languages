@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Amol
     auto: true
+  - translation_iso: rus
+    name: амольский язык
+    auto: true
   - translation_iso: spa
     name: Amol
     auto: true

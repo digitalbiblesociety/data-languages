@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Patani
     auto: true
+  - translation_iso: rus
+    name: патанийский язык
+    auto: true
   - translation_iso: spa
     name: Patani
     auto: true

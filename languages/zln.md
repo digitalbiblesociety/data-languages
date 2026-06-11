@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: zhuang de Lianshan
     auto: true
+  - translation_iso: rus
+    name: лианшан жуангский язык
+    auto: true
   - translation_iso: spa
     name: Zhuang Lianshan
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
     name: 모리오리어
   - translation_iso: por
     name: Língua moriori
+  - translation_iso: rus
+    name: мориорийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma moriori
   - translation_iso: zho

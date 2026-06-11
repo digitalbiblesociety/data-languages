@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: tumshuqês
     auto: true
+  - translation_iso: rus
+    name: тумшукесейский язык
+    auto: true
   - translation_iso: spa
     name: Tumshuqués
     auto: true

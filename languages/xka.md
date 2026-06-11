@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kalkot
+  - translation_iso: rus
+    name: калкотийский язык
+    auto: true
   - translation_iso: spa
     name: Kalkoti
   - translation_iso: zho

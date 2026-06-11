@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Muyang
     auto: true
+  - translation_iso: rus
+    name: муянгский язык
+    auto: true
   - translation_iso: spa
     name: Muyang
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Yangkam
     auto: true
+  - translation_iso: rus
+    name: янгкамский язык
+    auto: true
   - translation_iso: spa
     name: Yangkam
     auto: true

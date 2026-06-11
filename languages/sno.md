@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Snohomish
+  - translation_iso: rus
+    name: снохомишский язык
+    auto: true
   - translation_iso: spa
     name: Snohomish
   - translation_iso: zho

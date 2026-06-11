@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Lahul Lohar
     auto: true
+  - translation_iso: rus
+    name: лахул лохарский язык
+    auto: true
   - translation_iso: spa
     name: Lahul lohar
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Shwai
     auto: true
+  - translation_iso: rus
+    name: шваийский язык
+    auto: true
   - translation_iso: spa
     name: Shwai
     auto: true

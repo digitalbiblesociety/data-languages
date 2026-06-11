@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua ndai
+  - translation_iso: rus
+    name: ндаийский язык
+    auto: true
   - translation_iso: spa
     name: Ndai
     auto: true

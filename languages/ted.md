@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Krumen Tepo
     auto: true
+  - translation_iso: rus
+    name: тепо круменский язык
+    auto: true
   - translation_iso: spa
     name: Krumen Tepo
     auto: true

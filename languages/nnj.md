@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyangatom
     auto: true
+  - translation_iso: rus
+    name: нянгатомский язык
+    auto: true
   - translation_iso: spa
     name: Nyangatom
     auto: true

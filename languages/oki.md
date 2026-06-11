@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Okiek
     auto: true
+  - translation_iso: rus
+    name: окиекский язык
+    auto: true
   - translation_iso: spa
     name: ogiek
   - translation_iso: zho

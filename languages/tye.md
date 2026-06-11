@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kyanga
     auto: true
+  - translation_iso: rus
+    name: кянгский язык
+    auto: true
   - translation_iso: spa
     name: Kyanga
     auto: true

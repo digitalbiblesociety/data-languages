@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kono (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: коноский язык
+    auto: true
   - translation_iso: spa
     name: Kono (Nigeria)
     auto: true

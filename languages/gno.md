@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: gondi do norte
     auto: true
+  - translation_iso: rus
+    name: нортерн гондийский язык
+    auto: true
   - translation_iso: spa
     name: Gondi del Norte
     auto: true

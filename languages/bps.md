@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Blaan de Sarangani
     auto: true
+  - translation_iso: rus
+    name: сарангани блаанский язык
+    auto: true
   - translation_iso: spa
     name: Blaan de Sarangani
     auto: true

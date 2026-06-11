@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Kaibobo
+  - translation_iso: rus
+    name: каибобоский язык
+    auto: true
   - translation_iso: spa
     name: Kaibobo
   - translation_iso: zho

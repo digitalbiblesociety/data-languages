@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Vaagri Booli
     auto: true
+  - translation_iso: rus
+    name: ваагри булийский язык
+    auto: true
   - translation_iso: spa
     name: Vaagri Booli
     auto: true

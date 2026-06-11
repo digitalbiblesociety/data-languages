@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ika
     auto: true
+  - translation_iso: rus
+    name: икский язык
+    auto: true
   - translation_iso: spa
     name: Ika
     auto: true

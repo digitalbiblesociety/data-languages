@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: gbe xwla oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн ксвла гбейский язык
+    auto: true
   - translation_iso: spa
     name: Xwla Gbe oriental
     auto: true

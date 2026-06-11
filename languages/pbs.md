@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Pame Central
     auto: true
+  - translation_iso: rus
+    name: кентрал памейский язык
+    auto: true
   - translation_iso: spa
     name: Pame central
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Konjo das Terras Altas
     auto: true
+  - translation_iso: rus
+    name: хигхланд конйоский язык
+    auto: true
   - translation_iso: spa
     name: Konjo de las Tierras Altas
     auto: true

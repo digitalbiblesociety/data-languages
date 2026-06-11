@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bidayuh Tringgus-Sembaan
     auto: true
+  - translation_iso: rus
+    name: тринггус-сембаан бидаюхский язык
+    auto: true
   - translation_iso: spa
     name: Bidayuh Tringgus-Sembaan
     auto: true

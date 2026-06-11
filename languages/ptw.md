@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pentlatch
     auto: true
+  - translation_iso: rus
+    name: пентлачский язык
+    auto: true
   - translation_iso: spa
     name: Pentlatch
     auto: true

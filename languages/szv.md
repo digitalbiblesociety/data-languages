@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Isu (Distrito de Fako)
     auto: true
+  - translation_iso: rus
+    name: исуский язык
+    auto: true
   - translation_iso: spa
     name: Isubu
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Awyu Jair
     auto: true
+  - translation_iso: rus
+    name: яир авюский язык
+    auto: true
   - translation_iso: spa
     name: Awyu Jair
     auto: true

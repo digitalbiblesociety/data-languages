@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gobu
     auto: true
+  - translation_iso: rus
+    name: гобуский язык
+    auto: true
   - translation_iso: spa
     name: Gobu
     auto: true

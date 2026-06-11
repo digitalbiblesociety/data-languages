@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Ikwo
     auto: true
+  - translation_iso: rus
+    name: иквоский язык
+    auto: true
   - translation_iso: spa
     name: Ikwo
     auto: true

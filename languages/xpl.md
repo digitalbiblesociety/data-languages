@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano de Port Sorell
     auto: true
+  - translation_iso: rus
+    name: порт сорелл тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio de Port Sorell
     auto: true

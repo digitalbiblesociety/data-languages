@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Seroa
     auto: true
+  - translation_iso: rus
+    name: сероский язык
+    auto: true
   - translation_iso: spa
     name: Seroa
     auto: true

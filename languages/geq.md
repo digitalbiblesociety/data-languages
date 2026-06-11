@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Geme
     auto: true
+  - translation_iso: rus
+    name: гемейский язык
+    auto: true
   - translation_iso: spa
     name: Geme
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Bonkiman
     auto: true
+  - translation_iso: rus
+    name: бонкиманский язык
+    auto: true
   - translation_iso: spa
     name: Bonkiman
     auto: true

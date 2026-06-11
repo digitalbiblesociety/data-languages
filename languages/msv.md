@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Maslam
     auto: true
+  - translation_iso: rus
+    name: масламский язык
+    auto: true
   - translation_iso: spa
     name: Maslam
     auto: true

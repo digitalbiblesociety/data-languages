@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dida de Lakota
     auto: true
+  - translation_iso: rus
+    name: лакота дидский язык
+    auto: true
   - translation_iso: spa
     name: Dida de Lakota
     auto: true

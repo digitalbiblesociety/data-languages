@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Kobo
     auto: true
+  - translation_iso: rus
+    name: кобоский язык
+    auto: true
   - translation_iso: spa
     name: Kobo
     auto: true

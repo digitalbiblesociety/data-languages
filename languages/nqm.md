@@ -37,6 +37,9 @@ translations:
     name: 은돔어
   - translation_iso: por
     name: Língua ndom
+  - translation_iso: rus
+    name: ндомский язык
+    auto: true
   - translation_iso: spa
     name: Ndom
     auto: true

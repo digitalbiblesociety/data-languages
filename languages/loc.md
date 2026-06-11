@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Inonhan
     auto: true
+  - translation_iso: rus
+    name: инонханский язык
+    auto: true
   - translation_iso: spa
     name: Inonhan
     auto: true

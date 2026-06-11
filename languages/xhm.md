@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Khmer Médio (1400 a 1850 d.C.)
     auto: true
+  - translation_iso: rus
+    name: миддле хмерский язык
+    auto: true
   - translation_iso: spa
     name: Jemer medio
   - translation_iso: zho

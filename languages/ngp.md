@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngulu
     auto: true
+  - translation_iso: rus
+    name: нгулуский язык
+    auto: true
   - translation_iso: spa
     name: Ngulu
     auto: true

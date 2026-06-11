@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua igala
+  - translation_iso: rus
+    name: игалский язык
+    auto: true
   - translation_iso: spa
     name: Igala
     auto: true

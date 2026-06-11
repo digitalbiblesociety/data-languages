@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Moresada
     auto: true
+  - translation_iso: rus
+    name: моресадский язык
+    auto: true
   - translation_iso: spa
     name: Moresada
     auto: true

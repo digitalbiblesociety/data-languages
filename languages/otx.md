@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: otomi de Texcatepec
     auto: true
+  - translation_iso: rus
+    name: текскатепек отомийский язык
+    auto: true
   - translation_iso: spa
     name: Otomí de Texcatepec
     auto: true

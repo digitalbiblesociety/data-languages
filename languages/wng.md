@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wanggom
     auto: true
+  - translation_iso: rus
+    name: ванггомский язык
+    auto: true
   - translation_iso: spa
     name: Wanggom
     auto: true

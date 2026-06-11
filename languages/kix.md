@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Naga Khiamniungan
     auto: true
+  - translation_iso: rus
+    name: хиамниунган нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Khiamniungan
     auto: true

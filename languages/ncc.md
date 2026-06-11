@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ponam
     auto: true
+  - translation_iso: rus
+    name: понамский язык
+    auto: true
   - translation_iso: spa
     name: Ponam
     auto: true

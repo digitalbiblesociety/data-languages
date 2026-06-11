@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Koalib
     auto: true
+  - translation_iso: rus
+    name: коалибский язык
+    auto: true
   - translation_iso: spa
     name: koalib
   - translation_iso: zho

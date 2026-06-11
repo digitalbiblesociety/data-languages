@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Seit-Kaitetu
     auto: true
+  - translation_iso: rus
+    name: сеит-каитетуский язык
+    auto: true
   - translation_iso: spa
     name: Seit-Kaitetu
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: nepali
     auto: true
+  - translation_iso: rus
+    name: непалийский язык
+    auto: true
   - translation_iso: spa
     name: Nepalés
     auto: true

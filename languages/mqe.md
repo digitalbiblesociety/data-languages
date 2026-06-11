@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Matepi
     auto: true
+  - translation_iso: rus
+    name: матепийский язык
+    auto: true
   - translation_iso: spa
     name: Matepi
     auto: true

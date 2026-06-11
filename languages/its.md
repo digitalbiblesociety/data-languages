@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua itsequiri
+  - translation_iso: rus
+    name: исекирийский язык
+    auto: true
   - translation_iso: spa
     name: Isekiri
     auto: true

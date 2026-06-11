@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Lelak
     auto: true
+  - translation_iso: rus
+    name: лелакский язык
+    auto: true
   - translation_iso: spa
     name: Lelak
     auto: true

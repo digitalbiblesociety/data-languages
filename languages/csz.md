@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Hanis
+  - translation_iso: rus
+    name: кусский язык
+    auto: true
   - translation_iso: spa
     name: Hanis
   - translation_iso: zho

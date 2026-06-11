@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: tripuri antigo
     auto: true
+  - translation_iso: rus
+    name: еарлй трипурийский язык
+    auto: true
   - translation_iso: spa
     name: Tripuri antiguo
     auto: true

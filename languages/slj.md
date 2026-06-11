@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Salumá
     auto: true
+  - translation_iso: rus
+    name: салумский язык
+    auto: true
   - translation_iso: spa
     name: Salumá
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mbara (Austrália)
     auto: true
+  - translation_iso: rus
+    name: мбарский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mbara-yanga
   - translation_iso: zho

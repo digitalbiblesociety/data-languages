@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tombelala
     auto: true
+  - translation_iso: rus
+    name: томбелалский язык
+    auto: true
   - translation_iso: spa
     name: Tombelala
     auto: true

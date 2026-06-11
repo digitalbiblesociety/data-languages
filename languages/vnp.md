@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vunapu
     auto: true
+  - translation_iso: rus
+    name: вунапуский язык
+    auto: true
   - translation_iso: spa
     name: Vunapu
     auto: true

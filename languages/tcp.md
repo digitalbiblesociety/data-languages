@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Chin Tawr
     auto: true
+  - translation_iso: rus
+    name: тавр чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin Tawr
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Nago Setentrional
     auto: true
+  - translation_iso: rus
+    name: сутерн нагоский язык
+    auto: true
   - translation_iso: spa
     name: Nago del Sur
     auto: true

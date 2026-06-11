@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kanum de Sota
     auto: true
+  - translation_iso: rus
+    name: сота канумский язык
+    auto: true
   - translation_iso: spa
     name: Kanum Sota
     auto: true

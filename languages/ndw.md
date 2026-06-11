@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Ndobo
     auto: true
+  - translation_iso: rus
+    name: ндобоский язык
+    auto: true
   - translation_iso: spa
     name: Ndobo
     auto: true

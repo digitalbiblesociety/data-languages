@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: "Wa'ema"
     auto: true
+  - translation_iso: rus
+    name: ваемский язык
+    auto: true
   - translation_iso: spa
     name: "Wa'ema"
     auto: true

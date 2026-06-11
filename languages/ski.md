@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Sika
+  - translation_iso: rus
+    name: сикский язык
+    auto: true
   - translation_iso: spa
     name: Sika
   - translation_iso: zho

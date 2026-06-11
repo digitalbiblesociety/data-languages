@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua yaroame
+  - translation_iso: rus
+    name: яроамейский язык
+    auto: true
   - translation_iso: spa
     name: Yaroamë
     auto: true

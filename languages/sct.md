@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Katang Meridional
     auto: true
+  - translation_iso: rus
+    name: сутерн катангский язык
+    auto: true
   - translation_iso: spa
     name: Katang meridional
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Buruwai
     auto: true
+  - translation_iso: rus
+    name: буруваийский язык
+    auto: true
   - translation_iso: spa
     name: Buruwai
     auto: true

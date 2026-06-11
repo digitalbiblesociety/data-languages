@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Aruop
     auto: true
+  - translation_iso: rus
+    name: аруопский язык
+    auto: true
   - translation_iso: spa
     name: Aruop
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mefele
     auto: true
+  - translation_iso: rus
+    name: мефелейский язык
+    auto: true
   - translation_iso: spa
     name: Mefele
     auto: true

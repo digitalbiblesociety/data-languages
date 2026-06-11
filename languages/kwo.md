@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kwomtari
     auto: true
+  - translation_iso: rus
+    name: квомтарийский язык
+    auto: true
   - translation_iso: spa
     name: Kwomtari
     auto: true

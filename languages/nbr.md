@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Numana
     auto: true
+  - translation_iso: rus
+    name: нуманский язык
+    auto: true
   - translation_iso: spa
     name: Numana
     auto: true

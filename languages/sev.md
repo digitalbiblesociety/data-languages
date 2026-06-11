@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Senufo Nyarafolo
     auto: true
+  - translation_iso: rus
+    name: нярафоло сенуфоский язык
+    auto: true
   - translation_iso: spa
     name: Senoufo Nyarafolo
     auto: true

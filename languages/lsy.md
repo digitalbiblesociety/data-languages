@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Mauriciana
     auto: true
+  - translation_iso: rus
+    name: мауритиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Mauricio
     auto: true

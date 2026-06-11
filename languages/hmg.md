@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmong Guiyang do Sudoeste
     auto: true
+  - translation_iso: rus
+    name: сутвестерн гуиянг хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Guiyang suroccidental
     auto: true

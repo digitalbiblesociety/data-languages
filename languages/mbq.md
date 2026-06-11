@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Maisin
     auto: true
+  - translation_iso: rus
+    name: маисинский язык
+    auto: true
   - translation_iso: spa
     name: Maisin
     auto: true

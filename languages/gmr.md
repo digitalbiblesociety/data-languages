@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Mirning
     auto: true
+  - translation_iso: rus
+    name: мирнингрский язык
+    auto: true
   - translation_iso: spa
     name: Idioma mirning
   - translation_iso: zho

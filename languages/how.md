@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Honi
     auto: true
+  - translation_iso: rus
+    name: хонийский язык
+    auto: true
   - translation_iso: spa
     name: Honi
     auto: true

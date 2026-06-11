@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Ngombe (República Centro-Africana)
     auto: true
+  - translation_iso: rus
+    name: нгомбейский язык
+    auto: true
   - translation_iso: spa
     name: Ngombe
     auto: true

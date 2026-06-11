@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Sartang
     auto: true
+  - translation_iso: rus
+    name: сартангский язык
+    auto: true
   - translation_iso: spa
     name: Sartang
     auto: true

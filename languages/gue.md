@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gurindji
     auto: true
+  - translation_iso: rus
+    name: гуриндджийский язык
+    auto: true
   - translation_iso: spa
     name: Gurindji
     auto: true

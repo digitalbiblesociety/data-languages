@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Hitu
     auto: true
+  - translation_iso: rus
+    name: хитуский язык
+    auto: true
   - translation_iso: spa
     name: Hitu
     auto: true

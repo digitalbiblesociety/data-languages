@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Jogi
     auto: true
+  - translation_iso: rus
+    name: йогийский язык
+    auto: true
   - translation_iso: spa
     name: Jogi
     auto: true

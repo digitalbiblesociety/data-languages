@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: awyu do norte
     auto: true
+  - translation_iso: rus
+    name: норт авюский язык
+    auto: true
   - translation_iso: spa
     name: Awyu del norte
     auto: true

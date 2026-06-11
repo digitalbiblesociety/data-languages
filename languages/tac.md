@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tarahumara das Terras Baixas
     auto: true
+  - translation_iso: rus
+    name: ловланд тарахумарский язык
+    auto: true
   - translation_iso: spa
     name: Tarahumara de las Tierras Bajas
     auto: true

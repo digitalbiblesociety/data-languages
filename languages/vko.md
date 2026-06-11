@@ -39,6 +39,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua kodehoa
+  - translation_iso: rus
+    name: кодеохский язык
+    auto: true
   - translation_iso: spa
     name: Kodeoha
     auto: true

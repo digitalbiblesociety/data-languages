@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: masela ocidental
     auto: true
+  - translation_iso: rus
+    name: вест маселский язык
+    auto: true
   - translation_iso: spa
     name: Masela Occidental
     auto: true

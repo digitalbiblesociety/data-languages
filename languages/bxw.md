@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bankagooma
     auto: true
+  - translation_iso: rus
+    name: банкагумский язык
+    auto: true
   - translation_iso: spa
     name: Bankagooma
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Komo (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: комоский язык
+    auto: true
   - translation_iso: spa
     name: Komo (República Democrática del Congo)
     auto: true

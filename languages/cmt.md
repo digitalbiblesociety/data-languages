@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Camtho
     auto: true
+  - translation_iso: rus
+    name: камтоский язык
+    auto: true
   - translation_iso: spa
     name: Camtho
     auto: true

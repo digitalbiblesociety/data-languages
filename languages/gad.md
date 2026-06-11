@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gaddang
+  - translation_iso: rus
+    name: гаддангский язык
+    auto: true
   - translation_iso: spa
     name: gaddang
   - translation_iso: zho

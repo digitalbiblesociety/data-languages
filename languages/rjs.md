@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua rajbanshi
+  - translation_iso: rus
+    name: раджбаншийский язык
+    auto: true
   - translation_iso: spa
     name: Rajbanshi
     auto: true

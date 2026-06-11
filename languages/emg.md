@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: meohang oriental
     auto: true
+  - translation_iso: rus
+    name: еастерн меохангский язык
+    auto: true
   - translation_iso: spa
     name: Meohang Oriental
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Sumariup
     auto: true
+  - translation_iso: rus
+    name: сумариупский язык
+    auto: true
   - translation_iso: spa
     name: Sumariup
     auto: true

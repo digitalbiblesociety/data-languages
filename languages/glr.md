@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Glaro-Twabo
     auto: true
+  - translation_iso: rus
+    name: гларо-твабоский язык
+    auto: true
   - translation_iso: spa
     name: Glaro-Twabo
     auto: true

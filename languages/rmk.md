@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Romkun
     auto: true
+  - translation_iso: rus
+    name: ромкунский язык
+    auto: true
   - translation_iso: spa
     name: Romkun
     auto: true

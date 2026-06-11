@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Krache
     auto: true
+  - translation_iso: rus
+    name: крачейский язык
+    auto: true
   - translation_iso: spa
     name: Krache
     auto: true

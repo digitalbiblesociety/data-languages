@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua siwu
+  - translation_iso: rus
+    name: сивуский язык
+    auto: true
   - translation_iso: spa
     name: siwu
   - translation_iso: zho

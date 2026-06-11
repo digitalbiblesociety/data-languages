@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bigambal
     auto: true
+  - translation_iso: rus
+    name: бигамбальский язык
+    auto: true
   - translation_iso: spa
     name: Bigambal
     auto: true

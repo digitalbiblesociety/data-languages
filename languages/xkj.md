@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kajali
     auto: true
+  - translation_iso: rus
+    name: каялийский язык
+    auto: true
   - translation_iso: spa
     name: Kajali
     auto: true

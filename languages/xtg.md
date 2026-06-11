@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gaulês Transalpino
     auto: true
+  - translation_iso: rus
+    name: трансалпине гаулишский язык
+    auto: true
   - translation_iso: spa
     name: Galo transalpino
     auto: true

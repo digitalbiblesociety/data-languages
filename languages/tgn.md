@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tandaganon
     auto: true
+  - translation_iso: rus
+    name: тандаганонский язык
+    auto: true
   - translation_iso: spa
     name: Tandaganon
     auto: true

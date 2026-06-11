@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bantawa
+  - translation_iso: rus
+    name: бантавский язык
+    auto: true
   - translation_iso: spa
     name: Bantawa
     auto: true

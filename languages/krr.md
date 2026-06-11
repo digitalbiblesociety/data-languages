@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Krung
     auto: true
+  - translation_iso: rus
+    name: крунгский язык
+    auto: true
   - translation_iso: spa
     name: Krung
     auto: true

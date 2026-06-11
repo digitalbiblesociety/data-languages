@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Panamenha
     auto: true
+  - translation_iso: rus
+    name: панаманиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas panameñas
   - translation_iso: zho

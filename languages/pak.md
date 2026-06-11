@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua paracanã
+  - translation_iso: rus
+    name: параканский язык
+    auto: true
   - translation_iso: spa
     name: Parakanã
     auto: true

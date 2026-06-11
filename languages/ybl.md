@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yukuben
     auto: true
+  - translation_iso: rus
+    name: юкубенский язык
+    auto: true
   - translation_iso: spa
     name: Yukuben
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Quíchua das Terras Altas de Salasaca
     auto: true
+  - translation_iso: rus
+    name: саласака хигхланд квичуский язык
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Salasaca
     auto: true

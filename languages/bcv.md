@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Shoo-Minda-Nye
     auto: true
+  - translation_iso: rus
+    name: шу-минда-нейский язык
+    auto: true
   - translation_iso: spa
     name: shoo-minda-nye
   - translation_iso: zho

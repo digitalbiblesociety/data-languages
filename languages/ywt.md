@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: lalo de Xishanba
     auto: true
+  - translation_iso: rus
+    name: ксишанба лалоский язык
+    auto: true
   - translation_iso: spa
     name: Lalo de Xishanba
     auto: true

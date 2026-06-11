@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Maru
     auto: true
+  - translation_iso: rus
+    name: маруский язык
+    auto: true
   - translation_iso: spa
     name: Maru
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tay Khang
     auto: true
+  - translation_iso: rus
+    name: тай хангский язык
+    auto: true
   - translation_iso: spa
     name: Tay Khang
     auto: true

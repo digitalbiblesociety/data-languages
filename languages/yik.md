@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: lalo de Dongshanba
     auto: true
+  - translation_iso: rus
+    name: донгшанба лалоский язык
+    auto: true
   - translation_iso: spa
     name: Lalo de Dongshanba
     auto: true

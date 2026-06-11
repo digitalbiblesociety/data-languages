@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Okpe (Edo Noroeste)
     auto: true
+  - translation_iso: rus
+    name: нортвестерн едо окпейский язык
+    auto: true
   - translation_iso: spa
     name: Okpe (Edo noroccidental)
     auto: true

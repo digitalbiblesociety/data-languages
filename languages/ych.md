@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: chesu
     auto: true
+  - translation_iso: rus
+    name: чесуский язык
+    auto: true
   - translation_iso: spa
     name: Chesu
     auto: true

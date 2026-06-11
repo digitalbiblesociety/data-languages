@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: lolopo do sul
     auto: true
+  - translation_iso: rus
+    name: сутерн лолопоский язык
+    auto: true
   - translation_iso: spa
     name: Lolopo meridional
     auto: true

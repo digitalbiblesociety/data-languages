@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Tengger
     auto: true
+  - translation_iso: rus
+    name: тенггерский язык
+    auto: true
   - translation_iso: spa
     name: Tengger
     auto: true

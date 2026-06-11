@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Alta do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн алтский язык
+    auto: true
   - translation_iso: spa
     name: Alta meridional
     auto: true

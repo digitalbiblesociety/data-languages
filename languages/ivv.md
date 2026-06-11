@@ -38,6 +38,9 @@ translations:
     name: 이바탄어
   - translation_iso: por
     name: Língua ivatan
+  - translation_iso: rus
+    name: иватанский язык
+    auto: true
   - translation_iso: spa
     name: idioma batán
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koyo
     auto: true
+  - translation_iso: rus
+    name: койоский язык
+    auto: true
   - translation_iso: spa
     name: koyo
   - translation_iso: zho

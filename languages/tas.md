@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Tay Boi
     auto: true
+  - translation_iso: rus
+    name: тай боийский язык
+    auto: true
   - translation_iso: spa
     name: Tay Boi
     auto: true

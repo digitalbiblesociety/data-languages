@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mbangi
     auto: true
+  - translation_iso: rus
+    name: мбангийский язык
+    auto: true
   - translation_iso: spa
     name: Mbangi
     auto: true

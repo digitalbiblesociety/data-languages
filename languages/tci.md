@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Wára
     auto: true
+  - translation_iso: rus
+    name: варский язык
+    auto: true
   - translation_iso: spa
     name: Wára
     auto: true

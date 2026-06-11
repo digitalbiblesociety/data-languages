@@ -33,6 +33,9 @@ translations:
   - translation_iso: por
     name: Tobo
     auto: true
+  - translation_iso: rus
+    name: тобоский язык
+    auto: true
   - translation_iso: spa
     name: Tobo
     auto: true

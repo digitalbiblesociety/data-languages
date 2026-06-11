@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Thu Lao
     auto: true
+  - translation_iso: rus
+    name: ту лаоский язык
+    auto: true
   - translation_iso: spa
     name: Thu Lao
     auto: true

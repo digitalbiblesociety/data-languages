@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ndrulo
     auto: true
+  - translation_iso: rus
+    name: ндрулоский язык
+    auto: true
   - translation_iso: spa
     name: Ndrulo
     auto: true

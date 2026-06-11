@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Ogbogolo
     auto: true
+  - translation_iso: rus
+    name: огбоголоский язык
+    auto: true
   - translation_iso: spa
     name: Ogbogolo
     auto: true

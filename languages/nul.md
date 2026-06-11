@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Nusa Laut
     auto: true
+  - translation_iso: rus
+    name: нуса лаутский язык
+    auto: true
   - translation_iso: spa
     name: Nusa Laut
     auto: true

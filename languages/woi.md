@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Kamang
     auto: true
+  - translation_iso: rus
+    name: камангский язык
+    auto: true
   - translation_iso: spa
     name: Kamang
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Cidade de Ho Chi Minh
     auto: true
+  - translation_iso: rus
+    name: хо чи минх китй сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Ciudad Ho Chi Minh
     auto: true

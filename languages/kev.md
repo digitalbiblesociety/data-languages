@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kanikkaran
     auto: true
+  - translation_iso: rus
+    name: каниккаранский язык
+    auto: true
   - translation_iso: spa
     name: Kanikkaran
     auto: true

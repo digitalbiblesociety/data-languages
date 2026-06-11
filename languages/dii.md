@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Dimbong
     auto: true
+  - translation_iso: rus
+    name: димбонгский язык
+    auto: true
   - translation_iso: spa
     name: Dimbong
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Balo
     auto: true
+  - translation_iso: rus
+    name: балоский язык
+    auto: true
   - translation_iso: spa
     name: balo
   - translation_iso: zho

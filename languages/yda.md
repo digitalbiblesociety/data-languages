@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: yanda
     auto: true
+  - translation_iso: rus
+    name: яндский язык
+    auto: true
   - translation_iso: spa
     name: Yanda
     auto: true

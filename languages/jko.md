@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kubo
     auto: true
+  - translation_iso: rus
+    name: кубоский язык
+    auto: true
   - translation_iso: spa
     name: Kubo
     auto: true

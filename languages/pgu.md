@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Pagu
     auto: true
+  - translation_iso: rus
+    name: пагуский язык
+    auto: true
   - translation_iso: spa
     name: Pagu
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chuave
     auto: true
+  - translation_iso: rus
+    name: чуавейский язык
+    auto: true
   - translation_iso: spa
     name: Chuave
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mouk-Aria
     auto: true
+  - translation_iso: rus
+    name: мук-ариский язык
+    auto: true
   - translation_iso: spa
     name: Mouk-Aria
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: zhuang de Hongshuihe central
     auto: true
+  - translation_iso: rus
+    name: кентрал хонгшуихе жуангский язык
+    auto: true
   - translation_iso: spa
     name: Zhuang central del Hongshuihe
     auto: true

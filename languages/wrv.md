@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Waruna
     auto: true
+  - translation_iso: rus
+    name: варунский язык
+    auto: true
   - translation_iso: spa
     name: Waruna
     auto: true

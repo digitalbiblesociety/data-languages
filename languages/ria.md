@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Riang (Índia)
     auto: true
+  - translation_iso: rus
+    name: риангский язык
+    auto: true
   - translation_iso: spa
     name: idioma riang
   - translation_iso: zho

@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Sallands
     auto: true
+  - translation_iso: rus
+    name: салландсский язык
+    auto: true
   - translation_iso: spa
     name: Sallands
     auto: true

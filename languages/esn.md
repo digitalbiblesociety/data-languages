@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Salvadorenha
     auto: true
+  - translation_iso: rus
+    name: салвадоран сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: lengua de señas salvadoreñas
   - translation_iso: zho

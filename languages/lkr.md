@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua päri
+  - translation_iso: rus
+    name: парийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma päri
   - translation_iso: zho

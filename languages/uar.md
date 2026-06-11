@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tairuma
+  - translation_iso: rus
+    name: таирумский язык
+    auto: true
   - translation_iso: spa
     name: Tairuma
     auto: true

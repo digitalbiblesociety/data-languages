@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Oune
     auto: true
+  - translation_iso: rus
+    name: унейский язык
+    auto: true
   - translation_iso: spa
     name: Oune
     auto: true

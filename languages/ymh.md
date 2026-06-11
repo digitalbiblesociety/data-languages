@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: mili
     auto: true
+  - translation_iso: rus
+    name: милийский язык
+    auto: true
   - translation_iso: spa
     name: Mili
     auto: true

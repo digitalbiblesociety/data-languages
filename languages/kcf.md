@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ukaan
     auto: true
+  - translation_iso: rus
+    name: укаанский язык
+    auto: true
   - translation_iso: spa
     name: Idioma ukaan
   - translation_iso: zho

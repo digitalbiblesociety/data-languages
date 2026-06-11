@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Mabire
     auto: true
+  - translation_iso: rus
+    name: мабирейский язык
+    auto: true
   - translation_iso: spa
     name: Mabire
     auto: true

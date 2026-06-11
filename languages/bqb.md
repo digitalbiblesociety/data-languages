@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Bagusa
     auto: true
+  - translation_iso: rus
+    name: багусский язык
+    auto: true
   - translation_iso: spa
     name: Bagusa
     auto: true

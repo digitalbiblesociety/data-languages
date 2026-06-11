@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mawan
     auto: true
+  - translation_iso: rus
+    name: маванский язык
+    auto: true
   - translation_iso: spa
     name: Mawan
     auto: true

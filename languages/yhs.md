@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: língua de sinais yan-nhaŋu
     auto: true
+  - translation_iso: rus
+    name: ян-нхангу сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas Yan-nhaŋu
     auto: true

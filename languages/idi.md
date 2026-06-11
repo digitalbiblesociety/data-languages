@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Idi
     auto: true
+  - translation_iso: rus
+    name: идийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma idi
   - translation_iso: zho

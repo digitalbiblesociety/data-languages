@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Bomitaba
     auto: true
+  - translation_iso: rus
+    name: бомитабский язык
+    auto: true
   - translation_iso: spa
     name: Bomitaba
     auto: true

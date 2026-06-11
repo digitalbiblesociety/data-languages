@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Fiwaga
     auto: true
+  - translation_iso: rus
+    name: фивагский язык
+    auto: true
   - translation_iso: spa
     name: Fiwaga
     auto: true

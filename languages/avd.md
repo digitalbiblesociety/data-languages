@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Alviri-Vidari
     auto: true
+  - translation_iso: rus
+    name: алвири-видарийский язык
+    auto: true
   - translation_iso: spa
     name: Alviri-Vidari
     auto: true

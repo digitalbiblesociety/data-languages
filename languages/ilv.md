@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ilue
     auto: true
+  - translation_iso: rus
+    name: илуейский язык
+    auto: true
   - translation_iso: spa
     name: Ilue
     auto: true

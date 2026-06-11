@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Duriankere
     auto: true
+  - translation_iso: rus
+    name: дурианкерейский язык
+    auto: true
   - translation_iso: spa
     name: Duriankere
     auto: true

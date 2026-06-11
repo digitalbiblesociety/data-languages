@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua akaselem
+  - translation_iso: rus
+    name: акаселемский язык
+    auto: true
   - translation_iso: spa
     name: Akaselem
     auto: true

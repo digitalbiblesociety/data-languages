@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua wadi-wadi
+  - translation_iso: rus
+    name: вади вадийский язык
+    auto: true
   - translation_iso: spa
     name: idioma wadi-wadi
   - translation_iso: zho

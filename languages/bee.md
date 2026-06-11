@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Byangsi
     auto: true
+  - translation_iso: rus
+    name: бянгсийский язык
+    auto: true
   - translation_iso: spa
     name: byangsi
   - translation_iso: zho

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mixteco de Tijaltepec
     auto: true
+  - translation_iso: rus
+    name: тиялтепек микстекский язык
+    auto: true
   - translation_iso: spa
     name: Mixteco de Tijaltepec
     auto: true

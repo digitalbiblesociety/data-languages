@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Babar Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеаст бабарский язык
+    auto: true
   - translation_iso: spa
     name: Babar suroriental
     auto: true

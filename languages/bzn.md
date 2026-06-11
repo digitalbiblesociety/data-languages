@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Boano (Molucas)
     auto: true
+  - translation_iso: rus
+    name: боаноский язык
+    auto: true
   - translation_iso: spa
     name: Boano (Maluku)
     auto: true

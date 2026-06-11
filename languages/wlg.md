@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kunbarlang
     auto: true
+  - translation_iso: rus
+    name: кунбарлангский язык
+    auto: true
   - translation_iso: spa
     name: Kunbarlang
     auto: true

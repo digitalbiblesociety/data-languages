@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Koro Zuba
     auto: true
+  - translation_iso: rus
+    name: коро зубский язык
+    auto: true
   - translation_iso: spa
     name: Koro Zuba
     auto: true

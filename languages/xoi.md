@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kominimung
     auto: true
+  - translation_iso: rus
+    name: коминимунгский язык
+    auto: true
   - translation_iso: spa
     name: Kominimung
     auto: true

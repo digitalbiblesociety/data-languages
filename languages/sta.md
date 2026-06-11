@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Settla
     auto: true
+  - translation_iso: rus
+    name: сеттлский язык
+    auto: true
   - translation_iso: spa
     name: Settla
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sapuan
     auto: true
+  - translation_iso: rus
+    name: сапуанский язык
+    auto: true
   - translation_iso: spa
     name: Sapuan
     auto: true

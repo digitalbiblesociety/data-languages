@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Jadgali
     auto: true
+  - translation_iso: rus
+    name: ядгалийский язык
+    auto: true
   - translation_iso: spa
     name: Jadgali
     auto: true

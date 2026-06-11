@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Goaria
     auto: true
+  - translation_iso: rus
+    name: гоариский язык
+    auto: true
   - translation_iso: spa
     name: Goaria
     auto: true

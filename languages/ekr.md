@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Yace
     auto: true
+  - translation_iso: rus
+    name: якейский язык
+    auto: true
   - translation_iso: spa
     name: Yace
     auto: true

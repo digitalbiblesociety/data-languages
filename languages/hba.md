@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hamba
     auto: true
+  - translation_iso: rus
+    name: хамбский язык
+    auto: true
   - translation_iso: spa
     name: Hamba
     auto: true

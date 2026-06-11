@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Jofotek-Bromnya
     auto: true
+  - translation_iso: rus
+    name: йофотек-бромнйский язык
+    auto: true
   - translation_iso: spa
     name: Jofotek-Bromnya
     auto: true

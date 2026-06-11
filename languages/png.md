@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Pongu
     auto: true
+  - translation_iso: rus
+    name: понгуский язык
+    auto: true
   - translation_iso: spa
     name: Pongu
     auto: true

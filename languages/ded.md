@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Dedua
     auto: true
+  - translation_iso: rus
+    name: дедуский язык
+    auto: true
   - translation_iso: spa
     name: Dedua
     auto: true

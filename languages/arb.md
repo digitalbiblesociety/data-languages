@@ -34,6 +34,9 @@ translations:
   - translation_iso: por
     name: Árabe
     auto: true
+  - translation_iso: rus
+    name: арабикский язык
+    auto: true
   - translation_iso: spa
     name: Árabe estándar moderno
     auto: true

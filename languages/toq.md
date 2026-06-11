@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua toposa
+  - translation_iso: rus
+    name: топосский язык
+    auto: true
   - translation_iso: spa
     name: Toposa
     auto: true

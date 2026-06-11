@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Ak
     auto: true
+  - translation_iso: rus
+    name: акский язык
+    auto: true
   - translation_iso: spa
     name: ak
   - translation_iso: zho

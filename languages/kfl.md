@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Kung
     auto: true
+  - translation_iso: rus
+    name: кунгский язык
+    auto: true
   - translation_iso: spa
     name: Kung
     auto: true

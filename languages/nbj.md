@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngarinyman
     auto: true
+  - translation_iso: rus
+    name: нгаринйманский язык
+    auto: true
   - translation_iso: spa
     name: Ngarinyman
     auto: true

@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: "Kw'adza"
     auto: true
+  - translation_iso: rus
+    name: квадзский язык
+    auto: true
   - translation_iso: spa
     name: "Kw'adza"
     auto: true

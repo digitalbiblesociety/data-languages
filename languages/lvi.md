@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lavi
     auto: true
+  - translation_iso: rus
+    name: лавийский язык
+    auto: true
   - translation_iso: spa
     name: Lavi
     auto: true

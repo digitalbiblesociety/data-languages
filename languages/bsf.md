@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Bauchi
     auto: true
+  - translation_iso: rus
+    name: баучийский язык
+    auto: true
   - translation_iso: spa
     name: Bauchi
     auto: true

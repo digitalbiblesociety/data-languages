@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Somray
     auto: true
+  - translation_iso: rus
+    name: сомрайский язык
+    auto: true
   - translation_iso: spa
     name: Somray
     auto: true

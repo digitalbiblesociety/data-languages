@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua paite
+  - translation_iso: rus
+    name: паите чинский язык
+    auto: true
   - translation_iso: spa
     name: chin paite
   - translation_iso: zho

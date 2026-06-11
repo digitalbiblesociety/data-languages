@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Gor
     auto: true
+  - translation_iso: rus
+    name: горский язык
+    auto: true
   - translation_iso: spa
     name: Gor
     auto: true

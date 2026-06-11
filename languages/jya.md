@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: Jiarong
     auto: true
+  - translation_iso: rus
+    name: джиаронгский язык
+    auto: true
   - translation_iso: spa
     name: Jiarong
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bwile
     auto: true
+  - translation_iso: rus
+    name: бвилейский язык
+    auto: true
   - translation_iso: spa
     name: Bwile
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Sasaru
     auto: true
+  - translation_iso: rus
+    name: сасаруский язык
+    auto: true
   - translation_iso: spa
     name: Sasaru
     auto: true

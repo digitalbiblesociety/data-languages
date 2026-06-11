@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Spokane
     auto: true
+  - translation_iso: rus
+    name: споканейский язык
+    auto: true
   - translation_iso: spa
     name: Spokane
     auto: true

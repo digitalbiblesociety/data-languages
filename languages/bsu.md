@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Bahonsuai
     auto: true
+  - translation_iso: rus
+    name: бахонсуаийский язык
+    auto: true
   - translation_iso: spa
     name: Bahonsuai
     auto: true

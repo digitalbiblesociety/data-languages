@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Nyindrou
     auto: true
+  - translation_iso: rus
+    name: нйиндруский язык
+    auto: true
   - translation_iso: spa
     name: Nyindrou
     auto: true

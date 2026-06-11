@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Katabaga
     auto: true
+  - translation_iso: rus
+    name: катабагский язык
+    auto: true
   - translation_iso: spa
     name: catabaga
   - translation_iso: zho

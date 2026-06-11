@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Sisaala Tumulung
     auto: true
+  - translation_iso: rus
+    name: тумулунг сисаалский язык
+    auto: true
   - translation_iso: spa
     name: Sisaala de Tumulung
     auto: true

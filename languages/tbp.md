@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Taworta
     auto: true
+  - translation_iso: rus
+    name: тавортский язык
+    auto: true
   - translation_iso: spa
     name: Taworta
     auto: true

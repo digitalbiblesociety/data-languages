@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Teke-Laali
     auto: true
+  - translation_iso: rus
+    name: теке-лаалийский язык
+    auto: true
   - translation_iso: spa
     name: Teke-Laali
     auto: true

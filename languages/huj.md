@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Hmong Guiyang do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн гуиянг хмонгский язык
+    auto: true
   - translation_iso: spa
     name: Hmong Guiyang septentrional
     auto: true

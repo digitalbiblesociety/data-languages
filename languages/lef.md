@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Lelemi
     auto: true
+  - translation_iso: rus
+    name: лелемийский язык
+    auto: true
   - translation_iso: spa
     name: lelemi
   - translation_iso: zho

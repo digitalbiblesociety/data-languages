@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Binumarien
     auto: true
+  - translation_iso: rus
+    name: бинумариенский язык
+    auto: true
   - translation_iso: spa
     name: Binumarien
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Chin Rungtu
     auto: true
+  - translation_iso: rus
+    name: рунгту чинский язык
+    auto: true
   - translation_iso: spa
     name: Chin rungtu
     auto: true

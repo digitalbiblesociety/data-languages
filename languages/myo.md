@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Anfillo
     auto: true
+  - translation_iso: rus
+    name: анфиллоский язык
+    auto: true
   - translation_iso: spa
     name: Anfillo
     auto: true

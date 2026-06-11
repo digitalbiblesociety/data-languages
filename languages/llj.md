@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua latji-latji
+  - translation_iso: rus
+    name: ладджи ладджийский язык
+    auto: true
   - translation_iso: spa
     name: Idioma latji latji
   - translation_iso: zho

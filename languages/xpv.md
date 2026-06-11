@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Tasmaniano do Norte
     auto: true
+  - translation_iso: rus
+    name: нортерн тасманианрский язык
+    auto: true
   - translation_iso: spa
     name: Tasmanio septentrional
     auto: true

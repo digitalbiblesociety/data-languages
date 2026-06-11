@@ -31,6 +31,9 @@ translations:
   - translation_iso: por
     name: kanan
     auto: true
+  - translation_iso: rus
+    name: кананский язык
+    auto: true
   - translation_iso: spa
     name: Kanan
     auto: true

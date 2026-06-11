@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: oromo de Borana-Arsi-Guji
     auto: true
+  - translation_iso: rus
+    name: борана-арси-гуджи оромоский язык
+    auto: true
   - translation_iso: spa
     name: Oromo borana-arsi-guji
     auto: true

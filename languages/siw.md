@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua siwai
+  - translation_iso: rus
+    name: сиваийский язык
+    auto: true
   - translation_iso: spa
     name: Siwai
     auto: true

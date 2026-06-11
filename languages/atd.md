@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Manobo Ata
     auto: true
+  - translation_iso: rus
+    name: ата манобоский язык
+    auto: true
   - translation_iso: spa
     name: Ata Manobo
     auto: true

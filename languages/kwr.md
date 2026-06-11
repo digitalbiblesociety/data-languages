@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Kwer
     auto: true
+  - translation_iso: rus
+    name: кверский язык
+    auto: true
   - translation_iso: spa
     name: Kwer
     auto: true

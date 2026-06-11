@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua goundo
+  - translation_iso: rus
+    name: гундоский язык
+    auto: true
   - translation_iso: spa
     name: Goundo
     auto: true

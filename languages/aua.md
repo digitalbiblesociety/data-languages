@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Asumboa
     auto: true
+  - translation_iso: rus
+    name: асумбоский язык
+    auto: true
   - translation_iso: spa
     name: Idioma asumboa
   - translation_iso: zho

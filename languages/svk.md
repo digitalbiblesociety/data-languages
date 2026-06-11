@@ -34,6 +34,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua de sinais eslovaca
+  - translation_iso: rus
+    name: словакиан сигн лангуагейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de señas eslovaca
     auto: true

@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Baba
     auto: true
+  - translation_iso: rus
+    name: бабский язык
+    auto: true
   - translation_iso: spa
     name: Baba
     auto: true

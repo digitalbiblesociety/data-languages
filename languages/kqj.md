@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Koromira
     auto: true
+  - translation_iso: rus
+    name: коромирский язык
+    auto: true
   - translation_iso: spa
     name: Koromira
     auto: true

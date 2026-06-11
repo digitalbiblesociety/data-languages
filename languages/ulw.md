@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Ulwa
     auto: true
+  - translation_iso: rus
+    name: улвский язык
+    auto: true
   - translation_iso: spa
     name: idioma ulwa
   - translation_iso: zho

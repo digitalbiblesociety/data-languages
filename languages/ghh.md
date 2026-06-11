@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: ghale do norte
     auto: true
+  - translation_iso: rus
+    name: нортерн гхалейский язык
+    auto: true
   - translation_iso: spa
     name: Ghale septentrional
     auto: true

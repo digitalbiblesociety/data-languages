@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Demta
     auto: true
+  - translation_iso: rus
+    name: демтский язык
+    auto: true
   - translation_iso: spa
     name: Demta
     auto: true

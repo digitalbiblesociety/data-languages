@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua haya
+  - translation_iso: rus
+    name: хайский язык
+    auto: true
   - translation_iso: spa
     name: Haya
     auto: true

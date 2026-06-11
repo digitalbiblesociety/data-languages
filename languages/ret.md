@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Retta
+  - translation_iso: rus
+    name: реттский язык
+    auto: true
   - translation_iso: spa
     name: Retta
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Bélgica Francófona
     auto: true
+  - translation_iso: rus
+    name: лангуе дес сигнес де белгикве франкофонейский язык
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Bélgica Francófona
     auto: true

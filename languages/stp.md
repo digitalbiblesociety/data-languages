@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tepehuán do Sudeste
     auto: true
+  - translation_iso: rus
+    name: сутеастерн тепехуанский язык
+    auto: true
   - translation_iso: spa
     name: Tepehuano sureño
   - translation_iso: zho

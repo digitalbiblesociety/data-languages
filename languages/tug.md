@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tunia
     auto: true
+  - translation_iso: rus
+    name: туниский язык
+    auto: true
   - translation_iso: spa
     name: Tunia
     auto: true

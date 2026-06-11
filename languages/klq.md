@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Rumu
     auto: true
+  - translation_iso: rus
+    name: румуский язык
+    auto: true
   - translation_iso: spa
     name: Rumu
     auto: true

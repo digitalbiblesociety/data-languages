@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: zapoteco antigo
     auto: true
+  - translation_iso: rus
+    name: анкиент запотекский язык
+    auto: true
   - translation_iso: spa
     name: Zapoteco antiguo
     auto: true

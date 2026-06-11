@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Selaru
+  - translation_iso: rus
+    name: селаруский язык
+    auto: true
   - translation_iso: spa
     name: Selaru
   - translation_iso: zho

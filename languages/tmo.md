@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Temoq
     auto: true
+  - translation_iso: rus
+    name: темокский язык
+    auto: true
   - translation_iso: spa
     name: Temoq
     auto: true

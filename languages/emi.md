@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mussau-Emira
     auto: true
+  - translation_iso: rus
+    name: муссау-емирский язык
+    auto: true
   - translation_iso: spa
     name: Mussau-Emira
     auto: true

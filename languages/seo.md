@@ -35,6 +35,9 @@ translations:
   - translation_iso: por
     name: Suarmin
     auto: true
+  - translation_iso: rus
+    name: суарминский язык
+    auto: true
   - translation_iso: spa
     name: Suarmin
   - translation_iso: zho

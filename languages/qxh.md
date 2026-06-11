@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Quíchua de Panao Huánuco
     auto: true
+  - translation_iso: rus
+    name: панао хуануко квечуский язык
+    auto: true
   - translation_iso: spa
     name: "Quechua de Panao, Huánuco"
     auto: true

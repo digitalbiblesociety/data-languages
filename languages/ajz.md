@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Karbi Amri
     auto: true
+  - translation_iso: rus
+    name: амри карбийский язык
+    auto: true
   - translation_iso: spa
     name: idioma amri
   - translation_iso: zho

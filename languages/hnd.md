@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Hindko do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн хиндкоский язык
+    auto: true
   - translation_iso: spa
     name: Hindko meridional
     auto: true

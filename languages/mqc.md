@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mangole
     auto: true
+  - translation_iso: rus
+    name: манголейский язык
+    auto: true
   - translation_iso: spa
     name: Mangole
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Beng
     auto: true
+  - translation_iso: rus
+    name: бенгский язык
+    auto: true
   - translation_iso: spa
     name: Beng
     auto: true

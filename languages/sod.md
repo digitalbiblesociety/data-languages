@@ -37,6 +37,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua songola
+  - translation_iso: rus
+    name: сонгурский язык
+    auto: true
   - translation_iso: spa
     name: Songoora
     auto: true

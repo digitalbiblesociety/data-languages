@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Malango
     auto: true
+  - translation_iso: rus
+    name: малангоский язык
+    auto: true
   - translation_iso: spa
     name: Malango
     auto: true

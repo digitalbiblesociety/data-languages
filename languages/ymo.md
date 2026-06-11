@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: yangum mon
     auto: true
+  - translation_iso: rus
+    name: янгум монский язык
+    auto: true
   - translation_iso: spa
     name: Yangum Mon
     auto: true

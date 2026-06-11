@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Vasavi
     auto: true
+  - translation_iso: rus
+    name: васавийский язык
+    auto: true
   - translation_iso: spa
     name: Vasavi
     auto: true

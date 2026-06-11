@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lawangan
     auto: true
+  - translation_iso: rus
+    name: лаванганский язык
+    auto: true
   - translation_iso: spa
     name: Lawangan
     auto: true

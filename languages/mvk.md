@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Mekmek
     auto: true
+  - translation_iso: rus
+    name: мекмекский язык
+    auto: true
   - translation_iso: spa
     name: Mekmek
     auto: true

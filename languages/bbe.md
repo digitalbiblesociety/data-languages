@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bangba
     auto: true
+  - translation_iso: rus
+    name: бангбский язык
+    auto: true
   - translation_iso: spa
     name: Bangba
     auto: true

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Gbaya do Sudoeste
     auto: true
+  - translation_iso: rus
+    name: сутвест гбайский язык
+    auto: true
   - translation_iso: spa
     name: Gbaya del Suroeste
     auto: true

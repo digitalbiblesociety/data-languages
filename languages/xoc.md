@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: "O'chi'chi"
     auto: true
+  - translation_iso: rus
+    name: очичийский язык
+    auto: true
   - translation_iso: spa
     name: "O'chi'chi"
     auto: true

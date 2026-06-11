@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Todrah
     auto: true
+  - translation_iso: rus
+    name: тодрахский язык
+    auto: true
   - translation_iso: spa
     name: Todrah
     auto: true

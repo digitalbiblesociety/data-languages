@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Naga Sangtam
     auto: true
+  - translation_iso: rus
+    name: сангтам нагский язык
+    auto: true
   - translation_iso: spa
     name: Naga Sangtam
     auto: true

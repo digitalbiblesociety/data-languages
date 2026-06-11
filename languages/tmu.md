@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Iau
     auto: true
+  - translation_iso: rus
+    name: иауский язык
+    auto: true
   - translation_iso: spa
     name: Iau
     auto: true

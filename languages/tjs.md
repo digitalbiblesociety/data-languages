@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tujia do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн туджиский язык
+    auto: true
   - translation_iso: spa
     name: Tujia del Sur
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Slavey Setentrional
     auto: true
+  - translation_iso: rus
+    name: норт славейский язык
+    auto: true
   - translation_iso: spa
     name: slave septentrional
   - translation_iso: zho

@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Psikye
     auto: true
+  - translation_iso: rus
+    name: псикейский язык
+    auto: true
   - translation_iso: spa
     name: psikye
   - translation_iso: zho

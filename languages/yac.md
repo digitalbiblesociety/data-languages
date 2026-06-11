@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: yali de Pass Valley
     auto: true
+  - translation_iso: rus
+    name: пасс валлей ялийский язык
+    auto: true
   - translation_iso: spa
     name: Yali del valle de los pasos
     auto: true

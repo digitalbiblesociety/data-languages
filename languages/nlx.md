@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Nahali
     auto: true
+  - translation_iso: rus
+    name: нахалийский язык
+    auto: true
   - translation_iso: spa
     name: Nahali
     auto: true

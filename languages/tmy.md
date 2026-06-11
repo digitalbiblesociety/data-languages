@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua tami
+  - translation_iso: rus
+    name: тамийский язык
+    auto: true
   - translation_iso: spa
     name: Tami
     auto: true

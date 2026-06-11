@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Ngarla
     auto: true
+  - translation_iso: rus
+    name: нгарлский язык
+    auto: true
   - translation_iso: spa
     name: Ngarla
     auto: true

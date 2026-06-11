@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Mawchi
     auto: true
+  - translation_iso: rus
+    name: мавчийский язык
+    auto: true
   - translation_iso: spa
     name: Mawchi
     auto: true

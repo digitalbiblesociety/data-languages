@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Cua
     auto: true
+  - translation_iso: rus
+    name: куский язык
+    auto: true
   - translation_iso: spa
     name: Cua
     auto: true

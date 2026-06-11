@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Monpa de Kalaktang
     auto: true
+  - translation_iso: rus
+    name: калактанг монпский язык
+    auto: true
   - translation_iso: spa
     name: Kalaktang Monpa
     auto: true

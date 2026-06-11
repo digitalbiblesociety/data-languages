@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Rao
     auto: true
+  - translation_iso: rus
+    name: раоский язык
+    auto: true
   - translation_iso: spa
     name: Rao
     auto: true

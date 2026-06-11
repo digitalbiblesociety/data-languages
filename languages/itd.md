@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Tidung do Sul
     auto: true
+  - translation_iso: rus
+    name: сутерн тидунгский язык
+    auto: true
   - translation_iso: spa
     name: Tidung Meridional
     auto: true

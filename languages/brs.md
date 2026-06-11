@@ -41,6 +41,9 @@ translations:
   - translation_iso: por
     name: Baras
     auto: true
+  - translation_iso: rus
+    name: барасский язык
+    auto: true
   - translation_iso: spa
     name: Baras
     auto: true

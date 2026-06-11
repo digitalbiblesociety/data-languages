@@ -32,6 +32,9 @@ translations:
   - translation_iso: por
     name: Hérnico
     auto: true
+  - translation_iso: rus
+    name: херниканский язык
+    auto: true
   - translation_iso: spa
     name: érnico
   - translation_iso: zho

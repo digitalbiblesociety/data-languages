@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mankiyali
     auto: true
+  - translation_iso: rus
+    name: манкиялийский язык
+    auto: true
   - translation_iso: spa
     name: Mankiyali
     auto: true

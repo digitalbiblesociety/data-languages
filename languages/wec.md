@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Wè Ocidental
     auto: true
+  - translation_iso: rus
+    name: ве вестернский язык
+    auto: true
   - translation_iso: spa
     name: Wè Occidental
     auto: true

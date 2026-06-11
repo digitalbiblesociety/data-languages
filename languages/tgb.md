@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Tobilung
     auto: true
+  - translation_iso: rus
+    name: тобилунгский язык
+    auto: true
   - translation_iso: spa
     name: Tobilung
     auto: true

@@ -40,6 +40,9 @@ translations:
   - translation_iso: por
     name: Lamboya
     auto: true
+  - translation_iso: rus
+    name: ламбойский язык
+    auto: true
   - translation_iso: spa
     name: Lamboya
     auto: true

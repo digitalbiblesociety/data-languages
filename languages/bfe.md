@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Betaf
     auto: true
+  - translation_iso: rus
+    name: бетафский язык
+    auto: true
   - translation_iso: spa
     name: Betaf
     auto: true

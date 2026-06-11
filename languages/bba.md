@@ -38,6 +38,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua bariba
+  - translation_iso: rus
+    name: баатонумский язык
+    auto: true
   - translation_iso: spa
     name: Idioma bariba
   - translation_iso: zho

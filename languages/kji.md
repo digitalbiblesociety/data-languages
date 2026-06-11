@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Zabana
     auto: true
+  - translation_iso: rus
+    name: забанский язык
+    auto: true
   - translation_iso: spa
     name: Zabana
   - translation_iso: zho

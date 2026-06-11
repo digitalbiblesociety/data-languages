@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Njalgulgule
     auto: true
+  - translation_iso: rus
+    name: нялгулгулейский язык
+    auto: true
   - translation_iso: spa
     name: Njalgulgule
     auto: true

@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Guramalum
     auto: true
+  - translation_iso: rus
+    name: гурамалумский язык
+    auto: true
   - translation_iso: spa
     name: Guramalum
     auto: true

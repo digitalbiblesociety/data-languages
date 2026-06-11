@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Koireng
     auto: true
+  - translation_iso: rus
+    name: коиренгский язык
+    auto: true
   - translation_iso: spa
     name: Koireng
     auto: true

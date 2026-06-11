@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Chinanteco de Tlacoatzintepec
     auto: true
+  - translation_iso: rus
+    name: тлакоатзинтепек чинантекский язык
+    auto: true
   - translation_iso: spa
     name: chinanteca de Tlacoatzintepec
   - translation_iso: zho

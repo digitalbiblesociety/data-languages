@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Homa
     auto: true
+  - translation_iso: rus
+    name: хомский язык
+    auto: true
   - translation_iso: spa
     name: Homa
     auto: true

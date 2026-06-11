@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Gbayi
     auto: true
+  - translation_iso: rus
+    name: гбайийский язык
+    auto: true
   - translation_iso: spa
     name: Gbayi
     auto: true

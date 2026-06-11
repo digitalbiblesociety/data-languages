@@ -35,6 +35,9 @@ translations:
     auto: true
   - translation_iso: por
     name: Língua gadaba
+  - translation_iso: rus
+    name: бодо гадабский язык
+    auto: true
   - translation_iso: spa
     name: idioma gutob
   - translation_iso: zho

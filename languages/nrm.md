@@ -36,6 +36,9 @@ translations:
     auto: true
   - translation_iso: por
     name: narom
+  - translation_iso: rus
+    name: наромский язык
+    auto: true
   - translation_iso: spa
     name: Narom
     auto: true

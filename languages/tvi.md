@@ -36,6 +36,9 @@ translations:
   - translation_iso: por
     name: Tulai
     auto: true
+  - translation_iso: rus
+    name: тулаийский язык
+    auto: true
   - translation_iso: spa
     name: Tulai
     auto: true

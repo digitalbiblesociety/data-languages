@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Bieria
     auto: true
+  - translation_iso: rus
+    name: биериский язык
+    auto: true
   - translation_iso: spa
     name: Bieria
     auto: true

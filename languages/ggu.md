@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Gagu
     auto: true
+  - translation_iso: rus
+    name: гагуский язык
+    auto: true
   - translation_iso: spa
     name: Gagu
     auto: true

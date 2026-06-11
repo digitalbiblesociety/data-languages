@@ -42,6 +42,9 @@ translations:
   - translation_iso: por
     name: Barapasi
     auto: true
+  - translation_iso: rus
+    name: барапасийский язык
+    auto: true
   - translation_iso: spa
     name: Barapasi
     auto: true

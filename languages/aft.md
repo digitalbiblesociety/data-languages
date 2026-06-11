@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Afitti
     auto: true
+  - translation_iso: rus
+    name: афиттийский язык
+    auto: true
   - translation_iso: spa
     name: afitti
   - translation_iso: zho

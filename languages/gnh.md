@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Lere
     auto: true
+  - translation_iso: rus
+    name: лерейский язык
+    auto: true
   - translation_iso: spa
     name: Lere
     auto: true

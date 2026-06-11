@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: magori
     auto: true
+  - translation_iso: rus
+    name: магорийский язык
+    auto: true
   - translation_iso: spa
     name: Magori
     auto: true

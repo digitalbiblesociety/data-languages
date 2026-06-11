@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Kurnai
     auto: true
+  - translation_iso: rus
+    name: курнаийский язык
+    auto: true
   - translation_iso: spa
     name: idioma gunai
   - translation_iso: zho

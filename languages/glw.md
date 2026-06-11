@@ -38,6 +38,9 @@ translations:
   - translation_iso: por
     name: Glavda
     auto: true
+  - translation_iso: rus
+    name: главдский язык
+    auto: true
   - translation_iso: spa
     name: Glavda
     auto: true

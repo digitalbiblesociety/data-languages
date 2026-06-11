@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Tày Tac
     auto: true
+  - translation_iso: rus
+    name: тай такский язык
+    auto: true
   - translation_iso: spa
     name: Tày Tac
     auto: true

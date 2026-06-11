@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Manyawa
     auto: true
+  - translation_iso: rus
+    name: манявский язык
+    auto: true
   - translation_iso: spa
     name: Manyawa
     auto: true

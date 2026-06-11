@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Mape
     auto: true
+  - translation_iso: rus
+    name: мапейский язык
+    auto: true
   - translation_iso: spa
     name: Mape
     auto: true

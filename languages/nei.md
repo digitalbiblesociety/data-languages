@@ -30,6 +30,9 @@ translations:
   - translation_iso: por
     name: Neo-hitita
     auto: true
+  - translation_iso: rus
+    name: нео-хиттитейский язык
+    auto: true
   - translation_iso: spa
     name: neohitita
   - translation_iso: zho

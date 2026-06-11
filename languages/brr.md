@@ -37,6 +37,9 @@ translations:
   - translation_iso: por
     name: Birao
     auto: true
+  - translation_iso: rus
+    name: бираоский язык
+    auto: true
   - translation_iso: spa
     name: Birao
     auto: true

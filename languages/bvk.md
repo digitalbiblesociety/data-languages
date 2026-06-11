@@ -39,6 +39,9 @@ translations:
   - translation_iso: por
     name: Bukat
     auto: true
+  - translation_iso: rus
+    name: букатский язык
+    auto: true
   - translation_iso: spa
     name: Bukat
     auto: true
