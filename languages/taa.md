@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تانانا السفلى
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের তানানা
+    auto: true
   - translation_iso: deu
     name: Lower Tanana
   - translation_iso: fra
     name: tanana
   - translation_iso: hin
     name: निचली तानाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lower Tanana
     auto: true
   - translation_iso: jpn
     name: タナナ語

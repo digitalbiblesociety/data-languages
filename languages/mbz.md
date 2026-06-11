@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अमोल्तेपेक मिश्तेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amoltepec Mixtec
+    auto: true
   - translation_iso: jpn
     name: アモルテペク・ミステク語
     auto: true

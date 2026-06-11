@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توللوا
     auto: true
+  - translation_iso: ben
+    name: তোলোওয়া
+    auto: true
   - translation_iso: deu
     name: Tolowa
   - translation_iso: fra

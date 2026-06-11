@@ -30,6 +30,9 @@ translations:
     name: sherdukpen
   - translation_iso: hin
     name: शेरडुकपेन भाषा
+  - translation_iso: ind
+    name: Bahasa Sherdukpen
+    auto: true
   - translation_iso: jpn
     name: メイ語
     auto: true

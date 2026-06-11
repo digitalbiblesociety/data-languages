@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lak_language"
 translations:
   - translation_iso: ara
     name: لغة لاك
+  - translation_iso: ben
+    name: লাক
+    auto: true
   - translation_iso: deu
     name: Lakisch
   - translation_iso: fra

@@ -31,6 +31,9 @@ translations:
     name: khetrani
   - translation_iso: hin
     name: खेतरानी
+  - translation_iso: ind
+    name: Bahasa Khetrani
+    auto: true
   - translation_iso: jpn
     name: ケートラーニー語
   - translation_iso: kor

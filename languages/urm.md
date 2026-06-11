@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوراب مين
     auto: true
+  - translation_iso: ben
+    name: উরাপমিন
+    auto: true
   - translation_iso: deu
     name: Urapmin
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: urapmin
   - translation_iso: hin
     name: उरापमिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urapmin
     auto: true
   - translation_iso: jpn
     name: ティファルミン語

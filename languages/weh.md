@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويه
     auto: true
+  - translation_iso: ben
+    name: ওয়েহ
+    auto: true
   - translation_iso: deu
     name: Weh
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: weh
   - translation_iso: hin
     name: वेह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Weh
     auto: true
   - translation_iso: jpn
     name: ウェハ語

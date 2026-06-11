@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة ادجي ادجي
     auto: true
+  - translation_iso: ben
+    name: লাদজি লাদজি
+    auto: true
   - translation_iso: deu
     name: Ladji Ladji
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: ladji ladji
   - translation_iso: hin
     name: लाडजी लाडजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ladji Ladji
     auto: true
   - translation_iso: jpn
     name: ラジ・ラジ語

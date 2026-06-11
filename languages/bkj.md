@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: باندي
     auto: true
+  - translation_iso: ben
+    name: পানদে
+    auto: true
   - translation_iso: deu
     name: Pande
   - translation_iso: fra
     name: pande
   - translation_iso: hin
     name: पांडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pande
     auto: true
   - translation_iso: jpn
     name: パンデ語

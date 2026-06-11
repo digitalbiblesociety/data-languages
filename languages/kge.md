@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
 translations:
   - translation_iso: ara
     name: كومرينج
+  - translation_iso: ben
+    name: কোমেরিং
+    auto: true
   - translation_iso: deu
     name: Lampung
   - translation_iso: fra

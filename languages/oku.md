@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو
     auto: true
+  - translation_iso: ben
+    name: ওকু
+    auto: true
   - translation_iso: deu
     name: Oku
   - translation_iso: fra
     name: oku
   - translation_iso: hin
     name: ओकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oku
     auto: true
   - translation_iso: jpn
     name: オク語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلارو
     auto: true
+  - translation_iso: ben
+    name: সেলারু
+    auto: true
   - translation_iso: deu
     name: Selaru
   - translation_iso: fra

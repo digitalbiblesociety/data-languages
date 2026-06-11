@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बाल्टिक रोमानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baltic Romani
+    auto: true
   - translation_iso: jpn
     name: バルト・ロマ語
   - translation_iso: kor

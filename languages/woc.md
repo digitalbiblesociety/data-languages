@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووغيو
     auto: true
+  - translation_iso: ben
+    name: ওয়োগেও
+    auto: true
   - translation_iso: deu
     name: Wogeo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wogeo
   - translation_iso: hin
     name: वोगेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wogeo
     auto: true
   - translation_iso: jpn
     name: ウォゲオ語

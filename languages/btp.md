@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوديبود
     auto: true
+  - translation_iso: ben
+    name: বুদিবুদ
+    auto: true
   - translation_iso: deu
     name: Budibud
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: budibud
   - translation_iso: hin
     name: बुदिबुद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Budibud
     auto: true
   - translation_iso: jpn
     name: ブディブド語

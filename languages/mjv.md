@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانان
     auto: true
+  - translation_iso: ben
+    name: মান্নান
+    auto: true
   - translation_iso: deu
     name: Mannan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mannan
   - translation_iso: hin
     name: मन्नान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mannan
     auto: true
   - translation_iso: jpn
     name: マンナン語

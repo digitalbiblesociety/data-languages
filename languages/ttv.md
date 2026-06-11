@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيتان
     auto: true
+  - translation_iso: ben
+    name: তিতান
+    auto: true
   - translation_iso: deu
     name: Titan
   - translation_iso: fra
     name: titan
   - translation_iso: hin
     name: टाइटन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Titan
     auto: true
   - translation_iso: jpn
     name: ティタン語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बंगांडु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangandu
+    auto: true
   - translation_iso: jpn
     name: ンゴンベ語
   - translation_iso: kor

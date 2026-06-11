@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بينوكدنون الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন বিনুকিদনোন
+    auto: true
   - translation_iso: deu
     name: Süd-Binukidnon
     auto: true

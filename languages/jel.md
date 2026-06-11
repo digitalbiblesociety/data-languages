@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يلميك
     auto: true
+  - translation_iso: ben
+    name: য়েলমেক
+    auto: true
   - translation_iso: deu
     name: Yelmek
     auto: true

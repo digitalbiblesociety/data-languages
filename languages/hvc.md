@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ثقافة الفودو الهاitian
     auto: true
+  - translation_iso: ben
+    name: হাইতিয়ান ভোদোউন কুলতুরে লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Langaj
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हाईशियन वूडू सांस्कृतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haitian Vodoun Culture Language
     auto: true
   - translation_iso: jpn
     name: ハイチ・ヴォードゥー・カルチャー言語

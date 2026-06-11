@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يهانج
     auto: true
+  - translation_iso: ben
+    name: য়াহাং
+    auto: true
   - translation_iso: deu
     name: Yahang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yahang
   - translation_iso: hin
     name: याहांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yahang
     auto: true
   - translation_iso: jpn
     name: ヤハン語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كبلانج
     auto: true
+  - translation_iso: ben
+    name: কপলাং
+    auto: true
   - translation_iso: deu
     name: Kplang
   - translation_iso: fra
     name: kplang
   - translation_iso: hin
     name: क्प्लांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kplang
     auto: true
   - translation_iso: jpn
     name: クプラン語

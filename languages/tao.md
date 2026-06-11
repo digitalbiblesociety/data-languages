@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يامي
     auto: true
+  - translation_iso: ben
+    name: য়ামি
+    auto: true
   - translation_iso: deu
     name: Yami
     auto: true

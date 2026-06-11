@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكا
     auto: true
+  - translation_iso: ben
+    name: ইকা
+    auto: true
   - translation_iso: deu
     name: Ikah
   - translation_iso: fra

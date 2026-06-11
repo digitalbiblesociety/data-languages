@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كوسكوكويم العليا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের কুসকোকওয়িম
+    auto: true
   - translation_iso: deu
     name: Upper Kuskokwim
   - translation_iso: fra
     name: kolchan
   - translation_iso: hin
     name: ऊपरी कुस्कोक्विम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Kuskokwim
     auto: true
   - translation_iso: jpn
     name: アッパー・クスコクウィム語

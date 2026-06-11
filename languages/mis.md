@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغات غير المشفرة
     auto: true
+  - translation_iso: ben
+    name: উনকোদেদ লাঙুয়াগেস
+    auto: true
   - translation_iso: deu
     name: Sprache ohne Sprachcode
   - translation_iso: fra

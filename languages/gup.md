@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غونوينجغو
     auto: true
+  - translation_iso: ben
+    name: গুনওয়িংগু
+    auto: true
   - translation_iso: deu
     name: Gunwinggu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gunwinggu
   - translation_iso: hin
     name: गनविंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gunwinggu
     auto: true
   - translation_iso: jpn
     name: グンウィング語

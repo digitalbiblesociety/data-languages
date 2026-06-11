@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دوواي
     auto: true
+  - translation_iso: ben
+    name: দুওয়াই
+    auto: true
   - translation_iso: deu
     name: Ɗuwai
   - translation_iso: fra
     name: Ɗuwai
   - translation_iso: hin
     name: दुवाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duwai
     auto: true
   - translation_iso: jpn
     name: ドゥワイ語

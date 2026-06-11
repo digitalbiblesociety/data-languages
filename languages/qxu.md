@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरेकीपा-ला उनिओन क्वेचुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arequipa-La Unión Quechua
+    auto: true
   - translation_iso: jpn
     name: アレキッパラウニオンケチュア語
     auto: true

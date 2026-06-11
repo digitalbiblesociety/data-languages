@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتا بانجون كوتاي مالاي
     auto: true
+  - translation_iso: ben
+    name: কোতা বাঙুন কুতাই মালায়
+    auto: true
   - translation_iso: deu
     name: Kota-Bangun-Kutai-Malaiisch
     auto: true

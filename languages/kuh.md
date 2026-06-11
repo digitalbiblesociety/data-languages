@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوشي
     auto: true
+  - translation_iso: ben
+    name: কুশি
+    auto: true
   - translation_iso: deu
     name: Kushi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kushi
   - translation_iso: hin
     name: कुशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kushi
     auto: true
   - translation_iso: jpn
     name: クシ語

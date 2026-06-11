@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بازيه
     auto: true
+  - translation_iso: ben
+    name: পাজেহ
+    auto: true
   - translation_iso: deu
     name: Pazeh
   - translation_iso: fra

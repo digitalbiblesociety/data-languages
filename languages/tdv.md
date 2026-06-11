@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تورو
     auto: true
+  - translation_iso: ben
+    name: তোরো
+    auto: true
   - translation_iso: deu
     name: Toro
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toro
     auto: true
   - translation_iso: jpn
     name: トロ語

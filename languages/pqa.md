@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باعا
     auto: true
+  - translation_iso: ben
+    name: পা
+    auto: true
   - translation_iso: deu
     name: "Pa'a"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "pa'a"
   - translation_iso: hin
     name: पाआ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Pa'a"
     auto: true
   - translation_iso: jpn
     name: パアー語

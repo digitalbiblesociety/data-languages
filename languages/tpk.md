@@ -13,6 +13,9 @@ longitude: -40.41666
 wikidata_id: Q33924
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupiniquim_dialect"
 translations:
+  - translation_iso: ben
+    name: তুপিনিকিন
+    auto: true
   - translation_iso: deu
     name: Tupinikin
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: tupiniquim
   - translation_iso: hin
     name: तुपिनिकिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tupinikin
     auto: true
   - translation_iso: jpn
     name: トゥピナンバ語

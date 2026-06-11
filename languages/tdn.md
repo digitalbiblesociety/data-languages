@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونداونو
     auto: true
+  - translation_iso: ben
+    name: তোনদানো
+    auto: true
   - translation_iso: deu
     name: Tondano
   - translation_iso: fra

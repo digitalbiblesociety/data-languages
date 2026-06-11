@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سالمان
     auto: true
+  - translation_iso: ben
+    name: সালেমান
+    auto: true
   - translation_iso: deu
     name: Saleman
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بوسو
     auto: true
+  - translation_iso: ben
+    name: বুসো
+    auto: true
   - translation_iso: deu
     name: Buso
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: buso
   - translation_iso: hin
     name: बुसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buso
     auto: true
   - translation_iso: jpn
     name: ブソ語

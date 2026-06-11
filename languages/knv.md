@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تابو
     auto: true
+  - translation_iso: ben
+    name: তাবো
+    auto: true
   - translation_iso: deu
     name: Tabo
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: tabo
   - translation_iso: hin
     name: ताबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tabo
     auto: true
   - translation_iso: jpn
     name: タボ語

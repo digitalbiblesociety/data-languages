@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بولاري
     auto: true
+  - translation_iso: ben
+    name: পোলারি
+    auto: true
   - translation_iso: deu
     name: Polari
   - translation_iso: fra
     name: polari
   - translation_iso: hin
     name: पोलारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Polari
     auto: true
   - translation_iso: jpn
     name: ポラリ

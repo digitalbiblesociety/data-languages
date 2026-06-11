@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فونجوا
     auto: true
+  - translation_iso: ben
+    name: ফুংওয়া
+    auto: true
   - translation_iso: deu
     name: Fungwa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: फुंग्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fungwa
     auto: true
   - translation_iso: jpn
     name: ウラ語

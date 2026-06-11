@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बिले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bile
+    auto: true
   - translation_iso: jpn
     name: ビレ語
     auto: true

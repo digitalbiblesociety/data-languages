@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बायनूक-गुन्युञो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bainouk-Gunyuño
+    auto: true
   - translation_iso: jpn
     name: バイノック・グニュニョ語
     auto: true

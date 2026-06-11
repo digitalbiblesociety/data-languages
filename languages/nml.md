@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ندملي
     auto: true
+  - translation_iso: ben
+    name: নদেমলি
+    auto: true
   - translation_iso: deu
     name: Ndemli
   - translation_iso: fra
     name: ndemli
   - translation_iso: hin
     name: न्देम्ली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndemli
     auto: true
   - translation_iso: jpn
     name: ンデムリ語

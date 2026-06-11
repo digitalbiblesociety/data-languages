@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: أوميدا
     auto: true
+  - translation_iso: ben
+    name: উমিদা
+    auto: true
   - translation_iso: deu
     name: Umiida
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: umiida
   - translation_iso: hin
     name: उमीदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umiida
     auto: true
   - translation_iso: jpn
     name: ウミイダ語

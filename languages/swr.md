@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساويرو
     auto: true
+  - translation_iso: ben
+    name: সাওয়েরু
+    auto: true
   - translation_iso: deu
     name: Saweru
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الشادونغ
     auto: true
+  - translation_iso: ben
+    name: চাদোং
+    auto: true
   - translation_iso: deu
     name: Chadong
     auto: true

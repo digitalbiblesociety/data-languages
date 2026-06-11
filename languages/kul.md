@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوليري
     auto: true
+  - translation_iso: ben
+    name: কুলেরে
+    auto: true
   - translation_iso: deu
     name: Kulere
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुलेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kulere
     auto: true
   - translation_iso: jpn
     name: クレレ語

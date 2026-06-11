@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراتشي
     auto: true
+  - translation_iso: ben
+    name: পারাচি
+    auto: true
   - translation_iso: deu
     name: Parachi
   - translation_iso: fra

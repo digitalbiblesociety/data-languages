@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاديّاوان
     auto: true
+  - translation_iso: ben
+    name: তাদয়াওয়ান
+    auto: true
   - translation_iso: deu
     name: Tadyawan
     auto: true

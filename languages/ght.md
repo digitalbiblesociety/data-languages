@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوكإ
     auto: true
+  - translation_iso: ben
+    name: কুকে
+    auto: true
   - translation_iso: deu
     name: Kuke
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuke
   - translation_iso: hin
     name: कुके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuke
     auto: true
   - translation_iso: jpn
     name: クケ語

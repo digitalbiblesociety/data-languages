@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अल्कोज़ौका मिश्तेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alcozauca Mixtec
+    auto: true
   - translation_iso: jpn
     name: アルコザウカ・ミステク語
     auto: true

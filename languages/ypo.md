@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलो फोला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alo Phola
+    auto: true
   - translation_iso: jpn
     name: アロフォラ語
     auto: true

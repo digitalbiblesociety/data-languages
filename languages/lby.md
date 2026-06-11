@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاماالما
     auto: true
+  - translation_iso: ben
+    name: লামালামা
+    auto: true
   - translation_iso: deu
     name: Lamalama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lamu-lamu
   - translation_iso: hin
     name: लामालामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamalama
     auto: true
   - translation_iso: jpn
     name: ラマラマ語

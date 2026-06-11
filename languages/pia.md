@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيما بخا
     auto: true
+  - translation_iso: ben
+    name: পিমা বাজো
+    auto: true
   - translation_iso: deu
     name: Pima Bajo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pima bajo
   - translation_iso: hin
     name: पीमा बाहो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pima Bajo
     auto: true
   - translation_iso: jpn
     name: ピマバホ語

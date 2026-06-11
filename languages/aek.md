@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هايك
     auto: true
+  - translation_iso: ben
+    name: হাএকে
+    auto: true
   - translation_iso: deu
     name: Haeke
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: haéké
   - translation_iso: hin
     name: हाएके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haeke
     auto: true
   - translation_iso: jpn
     name: ハエケ語

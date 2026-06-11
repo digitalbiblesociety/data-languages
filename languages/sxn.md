@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: سانغير
     auto: true
+  - translation_iso: ben
+    name: সাঙির
+    auto: true
   - translation_iso: deu
     name: Sangir
   - translation_iso: fra

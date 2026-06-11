@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بوم
     auto: true
+  - translation_iso: ben
+    name: বুম
+    auto: true
   - translation_iso: deu
     name: Bum
   - translation_iso: fra
     name: bum
   - translation_iso: hin
     name: बुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bum
     auto: true
   - translation_iso: jpn
     name: ブム語

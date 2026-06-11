@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة مانكانيا
     auto: true
+  - translation_iso: ben
+    name: মানকানয়া
+    auto: true
   - translation_iso: deu
     name: Mankanja
   - translation_iso: fra
     name: mancagne
   - translation_iso: hin
     name: मांकान्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mankanya
     auto: true
   - translation_iso: jpn
     name: マンカニャ語

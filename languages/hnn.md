@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: هانونو
     auto: true
+  - translation_iso: ben
+    name: হানুনো
+    auto: true
   - translation_iso: deu
     name: "Hanunó'o"
   - translation_iso: fra
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हानुनू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hanunoo
     auto: true
   - translation_iso: jpn
     name: ハヌノオ語

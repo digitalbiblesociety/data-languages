@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: إهيفبي
     auto: true
+  - translation_iso: ben
+    name: ইহিএভবে
+    auto: true
   - translation_iso: deu
     name: Ihievbe
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: ihievbe
   - translation_iso: hin
     name: इहियेवबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ihievbe
     auto: true
   - translation_iso: jpn
     name: イヒエブベ語

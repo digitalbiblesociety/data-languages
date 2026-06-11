@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाजिरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Badjiri
+    auto: true
   - translation_iso: jpn
     name: バジリ語
     auto: true

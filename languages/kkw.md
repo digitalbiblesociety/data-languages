@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة تيكي كوكويا
     auto: true
+  - translation_iso: ben
+    name: তেকে-কুকুয়া
+    auto: true
   - translation_iso: deu
     name: Teke-Kukuya
   - translation_iso: fra
     name: kukuya
   - translation_iso: hin
     name: तेके-कुकुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Kukuya
     auto: true
   - translation_iso: jpn
     name: ククヤ語

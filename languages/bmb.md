@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेम्बे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bembe
+    auto: true
   - translation_iso: jpn
     name: ベンベ語
     auto: true

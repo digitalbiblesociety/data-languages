@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: فآرإفآرإ
     auto: true
+  - translation_iso: ben
+    name: ফারেফারে
+    auto: true
   - translation_iso: deu
     name: Farefare
   - translation_iso: fra
     name: gurenne
   - translation_iso: hin
     name: फरेफरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Farefare
     auto: true
   - translation_iso: jpn
     name: フラフラ語

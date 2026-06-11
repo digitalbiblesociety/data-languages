@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبوكو
     auto: true
+  - translation_iso: ben
+    name: মবোকো
+    auto: true
   - translation_iso: deu
     name: Mboko
   - translation_iso: fra
     name: mboko
   - translation_iso: hin
     name: म्बोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mboko
     auto: true
   - translation_iso: jpn
     name: ムボコ語

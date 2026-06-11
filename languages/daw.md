@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داوافينيو
     auto: true
+  - translation_iso: ben
+    name: দাভাওয়েনয়ো
+    auto: true
   - translation_iso: deu
     name: Davawenyo
     auto: true

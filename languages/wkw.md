@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واكاواكا
     auto: true
+  - translation_iso: ben
+    name: ওয়াকাওয়াকা
+    auto: true
   - translation_iso: deu
     name: Wakawaka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wakawaka
   - translation_iso: hin
     name: वाकावाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wakawaka
     auto: true
   - translation_iso: jpn
     name: ワカワカ語

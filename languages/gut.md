@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مالكو خايكا
     auto: true
+  - translation_iso: ben
+    name: মালেকু জাইকা
+    auto: true
   - translation_iso: deu
     name: Maléku Jaíka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maleku
   - translation_iso: hin
     name: मालेकू हाइका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maléku Jaíka
     auto: true
   - translation_iso: jpn
     name: マレク・ハイカ語

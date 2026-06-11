@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كوانجالي
     auto: true
+  - translation_iso: ben
+    name: কওয়াঙালি
+    auto: true
   - translation_iso: deu
     name: RuKwangali
   - translation_iso: fra
     name: kwangali
   - translation_iso: hin
     name: क्वांगाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwangali
     auto: true
   - translation_iso: jpn
     name: クワンガリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ياويويوها
     auto: true
+  - translation_iso: ben
+    name: য়াওয়েয়ুহা
+    auto: true
   - translation_iso: deu
     name: Yaweyuha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yabiyufa
   - translation_iso: hin
     name: यावेयूहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaweyuha
     auto: true
   - translation_iso: jpn
     name: ヤウェユハ語

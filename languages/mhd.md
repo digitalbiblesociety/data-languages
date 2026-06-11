@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبوجو
     auto: true
+  - translation_iso: ben
+    name: মবুগু
+    auto: true
   - translation_iso: deu
     name: Mbugu
   - translation_iso: fra
     name: mbugu
   - translation_iso: hin
     name: म्बुगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbugu
     auto: true
   - translation_iso: jpn
     name: ムブグ語

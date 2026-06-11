@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لودهي
     auto: true
+  - translation_iso: ben
+    name: লোধি
+    auto: true
   - translation_iso: deu
     name: Lodhi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: lodhi
+  - translation_iso: ind
+    name: Bahasa Lodhi
+    auto: true
   - translation_iso: jpn
     name: ロディ語
     auto: true

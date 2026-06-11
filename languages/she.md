@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيكو
     auto: true
+  - translation_iso: ben
+    name: শেকো
+    auto: true
   - translation_iso: deu
     name: Sheko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sheko
   - translation_iso: hin
     name: शेको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sheko
     auto: true
   - translation_iso: jpn
     name: シャック語

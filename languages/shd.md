@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكندالية الشاهية
     auto: true
+  - translation_iso: ben
+    name: কুনদাল শাহি
+    auto: true
   - translation_iso: deu
     name: Kundal Shahi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुंडल शाही की ज़ुबान
+  - translation_iso: ind
+    name: Bahasa Kundal Shahi
+    auto: true
   - translation_iso: jpn
     name: クンダルシャー語
     auto: true

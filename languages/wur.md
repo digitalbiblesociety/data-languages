@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وورروغو
     auto: true
+  - translation_iso: ben
+    name: ওয়ুর্রুগু
+    auto: true
   - translation_iso: deu
     name: Wurrugu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वुर्रुगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wurrugu
     auto: true
   - translation_iso: jpn
     name: ウルルグ語

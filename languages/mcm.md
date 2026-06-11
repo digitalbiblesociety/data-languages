@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كريول ملاكا البرتغالية
     auto: true
+  - translation_iso: ben
+    name: মালাক্কান করেওলে পোরতুগুএসে
+    auto: true
   - translation_iso: deu
     name: Malakka-Kreolportugiesisch
     auto: true

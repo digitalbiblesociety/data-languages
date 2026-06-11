@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالابويا
     auto: true
+  - translation_iso: ben
+    name: কালাপুয়া
+    auto: true
   - translation_iso: deu
     name: Kalapuya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kalapuya central
   - translation_iso: hin
     name: कालापुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalapuya
     auto: true
   - translation_iso: jpn
     name: カラプヤ語

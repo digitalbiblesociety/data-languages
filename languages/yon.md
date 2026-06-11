@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يونغكوم
     auto: true
+  - translation_iso: ben
+    name: য়োংকোম
+    auto: true
   - translation_iso: deu
     name: Yongkom
     auto: true

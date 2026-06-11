@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة مازاتيك بويبلا
     auto: true
+  - translation_iso: ben
+    name: পুএবলা মাজাতেক
+    auto: true
   - translation_iso: deu
     name: Puebla-Mazatekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुएब्ला माज़ाटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puebla Mazatec
     auto: true
   - translation_iso: jpn
     name: プエブラ・マザテク語

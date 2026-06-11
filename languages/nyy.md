@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نياكيوسا-نغوندي
     auto: true
+  - translation_iso: ben
+    name: নয়াকয়ুসা-ঙোনদে
+    auto: true
   - translation_iso: deu
     name: Nyakyusa-Ngonde
   - translation_iso: fra
     name: nyakyusa
   - translation_iso: hin
     name: न्याक्युसा-न्गोंडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyakyusa-Ngonde
     auto: true
   - translation_iso: jpn
     name: ニャキュサ語

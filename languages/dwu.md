@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: دهوال
     auto: true
+  - translation_iso: ben
+    name: ধুওয়াল
+    auto: true
   - translation_iso: deu
     name: Dhuwal
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: dhuwal
   - translation_iso: hin
     name: धुवाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhuwal
     auto: true
   - translation_iso: jpn
     name: ドゥワル語

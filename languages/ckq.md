@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاجاكي
     auto: true
+  - translation_iso: ben
+    name: কাজাকসে
+    auto: true
   - translation_iso: deu
     name: Kajakse
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kajakse
   - translation_iso: hin
     name: काजाक्से
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kajakse
     auto: true
   - translation_iso: jpn
     name: カジャクセ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نغومبي
     auto: true
+  - translation_iso: ben
+    name: ঙুমবি
+    auto: true
   - translation_iso: deu
     name: Ngumbi
   - translation_iso: fra
     name: langue kombe
   - translation_iso: hin
     name: न्गुम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngumbi
     auto: true
   - translation_iso: jpn
     name: コンベ語

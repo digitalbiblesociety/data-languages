@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مينوكوك
     auto: true
+  - translation_iso: ben
+    name: মিনোকোক
+    auto: true
   - translation_iso: deu
     name: Minokok
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: minokok
   - translation_iso: hin
     name: मिनोकोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minokok
     auto: true
   - translation_iso: jpn
     name: ミノコク語

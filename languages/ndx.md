@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندوجا
     auto: true
+  - translation_iso: ben
+    name: নদুগা
+    auto: true
   - translation_iso: deu
     name: Nduga
     auto: true

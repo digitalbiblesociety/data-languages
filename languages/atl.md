@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة آجتا جبل إيرايا
     auto: true
+  - translation_iso: ben
+    name: মত ইরায়া আগতা
+    auto: true
   - translation_iso: deu
     name: Mt.-Iraya-Agta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: agta du mont Iraya
   - translation_iso: hin
     name: माउंट इराया अग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mt. Iraya Agta
     auto: true
   - translation_iso: jpn
     name: Mt.イラヤ・アグタ語

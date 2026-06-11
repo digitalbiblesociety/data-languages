@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لونجالونجا
     auto: true
+  - translation_iso: ben
+    name: লুঙালুঙা
+    auto: true
   - translation_iso: deu
     name: Lungalunga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: minigir
   - translation_iso: hin
     name: लुंगालुंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lungalunga
     auto: true
   - translation_iso: jpn
     name: ミニギール語

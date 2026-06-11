@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lutos_language"
 translations:
   - translation_iso: ara
     name: ليتوس
+  - translation_iso: ben
+    name: লুতোস
+    auto: true
   - translation_iso: deu
     name: Lutos
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: luto
   - translation_iso: hin
     name: लुतोस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lutos
     auto: true
   - translation_iso: jpn
     name: ルトス語

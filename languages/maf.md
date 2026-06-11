@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مافا
     auto: true
+  - translation_iso: ben
+    name: মাফা
+    auto: true
   - translation_iso: deu
     name: Mafa
   - translation_iso: fra

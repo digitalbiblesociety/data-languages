@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالكوتي
     auto: true
+  - translation_iso: ben
+    name: কালকোতি
+    auto: true
   - translation_iso: deu
     name: Kalkoti
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कलकोटी भाषा
+  - translation_iso: ind
+    name: Bahasa Kalkoti
+    auto: true
   - translation_iso: jpn
     name: カルコート語
   - translation_iso: kor

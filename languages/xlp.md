@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ليبونتية
     auto: true
+  - translation_iso: ben
+    name: লেপোনতিক
+    auto: true
   - translation_iso: deu
     name: Lepontisch
   - translation_iso: fra

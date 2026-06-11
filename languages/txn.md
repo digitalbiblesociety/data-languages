@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تارانغان الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত তারাঙান
+    auto: true
   - translation_iso: deu
     name: Tarangan Barat
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زولغو-غإمزإك
     auto: true
+  - translation_iso: ben
+    name: জুলগো-গেমজেক
+    auto: true
   - translation_iso: deu
     name: Zulgo-Gemzek
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zulgo
   - translation_iso: hin
     name: ज़ुल्गो-गेम्ज़ेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zulgo-Gemzek
     auto: true
   - translation_iso: jpn
     name: ズルゴ・ゲムゼク語

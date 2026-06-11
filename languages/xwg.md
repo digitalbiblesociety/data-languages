@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويجو
     auto: true
+  - translation_iso: ben
+    name: কওয়েগু
+    auto: true
   - translation_iso: deu
     name: Kwegu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwegu
   - translation_iso: hin
     name: क्वेगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwegu
     auto: true
   - translation_iso: jpn
     name: クウェグ語

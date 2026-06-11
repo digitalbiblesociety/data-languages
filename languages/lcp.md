@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاوا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন লাওয়া
+    auto: true
   - translation_iso: deu
     name: West-Lawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "lawa de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी लावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Lawa
     auto: true
   - translation_iso: jpn
     name: 西ラワ語

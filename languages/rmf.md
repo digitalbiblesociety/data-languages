@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: كالو فنلندي رومانية
     auto: true
+  - translation_iso: ben
+    name: কালো ফিন্নিশ রোমানি
+    auto: true
   - translation_iso: deu
     name: Kalo-Finnisch-Romani
     auto: true
@@ -30,6 +33,9 @@ translations:
     name: romani finlandais
   - translation_iso: hin
     name: कालो फिनिश रोमानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalo Finnish Romani
     auto: true
   - translation_iso: jpn
     name: カロ・フィンランドロマ語

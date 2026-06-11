@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تيديم تشين
     auto: true
+  - translation_iso: ben
+    name: তেদিম চিন
+    auto: true
   - translation_iso: deu
     name: Tedim-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tedim
   - translation_iso: hin
     name: टेडिम चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tedim Chin
     auto: true
   - translation_iso: jpn
     name: ティディム・チン語

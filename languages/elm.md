@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإليم
     auto: true
+  - translation_iso: ben
+    name: এলেমে
+    auto: true
   - translation_iso: deu
     name: Eleme
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: eleme
   - translation_iso: hin
     name: एलेमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eleme
     auto: true
   - translation_iso: jpn
     name: エレメ語

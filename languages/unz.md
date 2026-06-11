@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أندي كايلي
     auto: true
+  - translation_iso: ben
+    name: উনদে কাইলি
+    auto: true
   - translation_iso: deu
     name: Unde Kaili
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kaili unde
   - translation_iso: hin
     name: उन्डे कैली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Unde Kaili
     auto: true
   - translation_iso: jpn
     name: バナヴァ語

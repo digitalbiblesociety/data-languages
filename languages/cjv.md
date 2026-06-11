@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشويفي
     auto: true
+  - translation_iso: ben
+    name: চুয়াভে
+    auto: true
   - translation_iso: deu
     name: Chuave
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chuave
   - translation_iso: hin
     name: चुआवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chuave
     auto: true
   - translation_iso: jpn
     name: チュアヴェ語

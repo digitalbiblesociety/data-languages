@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مانغاس
     auto: true
+  - translation_iso: ben
+    name: মাঙাস
+    auto: true
   - translation_iso: deu
     name: Mangas
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mangas
   - translation_iso: hin
     name: मांगस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangas
     auto: true
   - translation_iso: jpn
     name: マンガス語

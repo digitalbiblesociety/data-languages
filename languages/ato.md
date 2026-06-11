@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अतोंग (कैमरून)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atong
+    auto: true
   - translation_iso: jpn
     name: アトン語(カメルーン)
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هيا
     auto: true
+  - translation_iso: ben
+    name: হয়া
+    auto: true
   - translation_iso: deu
     name: Hya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hya
   - translation_iso: hin
     name: ह्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hya
     auto: true
   - translation_iso: jpn
     name: ヒャ語

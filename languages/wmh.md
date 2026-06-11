@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: وايماا
     auto: true
+  - translation_iso: ben
+    name: ওয়াইমা
+    auto: true
   - translation_iso: deu
     name: Waimaha
   - translation_iso: fra
     name: "waima'a"
   - translation_iso: hin
     name: वाइमा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Waima'a"
     auto: true
   - translation_iso: jpn
     name: ワイマア語

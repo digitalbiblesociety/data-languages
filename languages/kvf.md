@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابالاي
     auto: true
+  - translation_iso: ben
+    name: কাবালাই
+    auto: true
   - translation_iso: deu
     name: Kabalai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kabalai
   - translation_iso: hin
     name: काबालाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kabalai
     auto: true
   - translation_iso: jpn
     name: カバライ語

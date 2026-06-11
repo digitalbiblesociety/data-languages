@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كو
     auto: true
+  - translation_iso: ben
+    name: কোউ
+    auto: true
   - translation_iso: deu
     name: Kou
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kou
     auto: true
   - translation_iso: jpn
     name: シンサウル語

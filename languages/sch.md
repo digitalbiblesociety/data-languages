@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: साकाचेप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sakachep
+    auto: true
   - translation_iso: jpn
     name: ケルマ語
     auto: true

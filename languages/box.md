@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوامو
     auto: true
+  - translation_iso: ben
+    name: বুয়ামু
+    auto: true
   - translation_iso: deu
     name: Bwamu
   - translation_iso: fra
     name: bwamu
   - translation_iso: hin
     name: बुआमू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buamu
     auto: true
   - translation_iso: jpn
     name: ブヮム語

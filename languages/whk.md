@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واهاو كينياه
     auto: true
+  - translation_iso: ben
+    name: ওয়াহাউ কেনয়াহ
+    auto: true
   - translation_iso: deu
     name: Wahau Kenyah
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجبكا
     auto: true
+  - translation_iso: ben
+    name: ংবাকা
+    auto: true
   - translation_iso: deu
     name: Ngbaka
   - translation_iso: fra
     name: ngbaka minangende
   - translation_iso: hin
     name: न्गबाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngbaka
     auto: true
   - translation_iso: jpn
     name: ングバカ・バヤ語

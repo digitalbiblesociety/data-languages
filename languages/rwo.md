@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راوا
     auto: true
+  - translation_iso: ben
+    name: রাওয়া
+    auto: true
   - translation_iso: deu
     name: Rawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rawa
   - translation_iso: hin
     name: रावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rawa
     auto: true
   - translation_iso: jpn
     name: カロ語

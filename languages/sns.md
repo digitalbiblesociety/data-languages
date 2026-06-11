@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة خليج الجنوب الغربي
     auto: true
+  - translation_iso: ben
+    name: সোউথ ওয়েসত বায়
+    auto: true
   - translation_iso: deu
     name: South West Bay
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahavaq
   - translation_iso: hin
     name: साउथ वेस्ट बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South West Bay
     auto: true
   - translation_iso: jpn
     name: シエシップ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تاي دام
     auto: true
+  - translation_iso: ben
+    name: তাই দাম
+    auto: true
   - translation_iso: deu
     name: Tai Dam
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tay dam
   - translation_iso: hin
     name: ताई दाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Dam
     auto: true
   - translation_iso: jpn
     name: タイ・ダム語

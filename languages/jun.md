@@ -29,6 +29,9 @@ translations:
     name: juang
   - translation_iso: hin
     name: जुआंग भाषा
+  - translation_iso: ind
+    name: Bahasa Juang
+    auto: true
   - translation_iso: jpn
     name: ジュアング語
   - translation_iso: kor

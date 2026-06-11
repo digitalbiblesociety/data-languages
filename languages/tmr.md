@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Babylonian_Aramaic"
 translations:
   - translation_iso: ara
     name: آرامية بابلية عربيه
+  - translation_iso: ben
+    name: জেওয়িশ বাবয়লোনিয়ান আরামাইক
+    auto: true
   - translation_iso: deu
     name: jüdisch-babylonisches Aramäisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هإهإ
     auto: true
+  - translation_iso: ben
+    name: হেহে
+    auto: true
   - translation_iso: deu
     name: Hehe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hehe
   - translation_iso: hin
     name: हेहे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hehe
     auto: true
   - translation_iso: jpn
     name: ヘヘ語

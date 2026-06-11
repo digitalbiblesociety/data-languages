@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تلاهويتولتيبيك ميكسي
     auto: true
+  - translation_iso: ben
+    name: তলাহুইতোলতেপেক মিকসে
+    auto: true
   - translation_iso: deu
     name: Tlahuitoltepec-Mixe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixe de Tlahuitoltepec
   - translation_iso: hin
     name: त्लाहुइतोलतेपेक मिक्से
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tlahuitoltepec Mixe
     auto: true
   - translation_iso: jpn
     name: トラウィトルテペック・ミクセ語

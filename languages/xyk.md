@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مايي-كولان
     auto: true
+  - translation_iso: ben
+    name: মায়ি-কুলান
+    auto: true
   - translation_iso: deu
     name: Mayi-Kulan
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: mayi-kulan
   - translation_iso: hin
     name: मायी-कुलान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayi-Kulan
     auto: true
   - translation_iso: jpn
     name: マイイ・クラン語

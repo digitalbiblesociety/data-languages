@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامبن
     auto: true
+  - translation_iso: ben
+    name: য়ামবেন
+    auto: true
   - translation_iso: deu
     name: Yamben
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यांबेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yamben
     auto: true
   - translation_iso: jpn
     name: ヤンベン語

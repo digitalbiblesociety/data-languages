@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كابواري
     auto: true
+  - translation_iso: ben
+    name: কাবওয়ারি
+    auto: true
   - translation_iso: deu
     name: Kabwari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue kabwari
   - translation_iso: hin
     name: काबवारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kabwari
     auto: true
   - translation_iso: jpn
     name: カブワリ語

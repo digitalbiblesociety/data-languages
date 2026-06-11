@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالي كيلينج
     auto: true
+  - translation_iso: ben
+    name: মালেউ-কিলেঙে
+    auto: true
   - translation_iso: deu
     name: Maleu-Kilenge
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maleu-kilenge
   - translation_iso: hin
     name: मालेउ-किलेंगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maleu-Kilenge
     auto: true
   - translation_iso: jpn
     name: イドゥネ語

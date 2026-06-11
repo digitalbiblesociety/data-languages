@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تينغير
     auto: true
+  - translation_iso: ben
+    name: তেংগের
+    auto: true
   - translation_iso: deu
     name: Tengger
     auto: true

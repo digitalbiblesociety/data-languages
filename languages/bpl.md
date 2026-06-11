@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بروم بيرلينج لوجير بيدجن
     auto: true
+  - translation_iso: ben
+    name: বরোমে পেয়ারলিং লুগ্গের পিদগিন
+    auto: true
   - translation_iso: deu
     name: Broome Pearling Lugger Pidgin
     auto: true

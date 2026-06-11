@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة الاامايا
     auto: true
+  - translation_iso: ben
+    name: কালামায়া
+    auto: true
   - translation_iso: deu
     name: Kalaamaya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalaamaya
   - translation_iso: hin
     name: कलामाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalaamaya
     auto: true
   - translation_iso: jpn
     name: カラアマヤ語

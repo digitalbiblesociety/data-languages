@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واراي اوستراليا
     auto: true
+  - translation_iso: ben
+    name: ওয়ারায়
+    auto: true
   - translation_iso: deu
     name: Waray (Australien)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warray
   - translation_iso: hin
     name: वाराय (ऑस्ट्रेलिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waray
     auto: true
   - translation_iso: jpn
     name: ワレイ語（オーストラリア）

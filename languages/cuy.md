@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: الكويتلاتك
     auto: true
+  - translation_iso: ben
+    name: কুইতলাতেক
+    auto: true
   - translation_iso: deu
     name: Cuitlatec
   - translation_iso: fra
     name: cuitlatèque
   - translation_iso: hin
     name: कुइतलातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cuitlatec
     auto: true
   - translation_iso: jpn
     name: クイトラテック語

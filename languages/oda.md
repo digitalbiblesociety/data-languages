@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة أودوت
     auto: true
+  - translation_iso: ben
+    name: ওদুত
+    auto: true
   - translation_iso: deu
     name: Odut
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: odut
   - translation_iso: hin
     name: ओदुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Odut
     auto: true
   - translation_iso: jpn
     name: オドゥト語

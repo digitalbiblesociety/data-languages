@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة جاكاتي
     auto: true
+  - translation_iso: ben
+    name: জাকাতি
+    auto: true
   - translation_iso: deu
     name: Jakati
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: inku
   - translation_iso: hin
     name: जकाती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jakati
     auto: true
   - translation_iso: jpn
     name: インク語

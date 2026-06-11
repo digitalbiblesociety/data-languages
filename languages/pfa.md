@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بافانغ
     auto: true
+  - translation_iso: ben
+    name: পাফাং
+    auto: true
   - translation_iso: deu
     name: Pááfang
   - translation_iso: fra
     name: paafang
   - translation_iso: hin
     name: पाफांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pááfang
     auto: true
   - translation_iso: jpn
     name: パアファン語

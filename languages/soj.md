@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سوي
     auto: true
+  - translation_iso: ben
+    name: সোই
+    auto: true
   - translation_iso: deu
     name: Soi
   - translation_iso: fra
     name: soi
   - translation_iso: hin
     name: सोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Soi
     auto: true
   - translation_iso: jpn
     name: ソウ語

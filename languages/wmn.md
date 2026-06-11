@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وااموانغ
     auto: true
+  - translation_iso: ben
+    name: ওয়ামওয়াং
+    auto: true
   - translation_iso: deu
     name: Waamwang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waamwang
   - translation_iso: hin
     name: वामवांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waamwang
     auto: true
   - translation_iso: jpn
     name: ワムワン語

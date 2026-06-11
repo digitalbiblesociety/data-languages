@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बरज़ानी यहूदी नव-अरामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barzani Jewish Neo-Aramaic
+    auto: true
   - translation_iso: jpn
     name: バルザーニ・ユダヤ・ネオ・アラム語
     auto: true

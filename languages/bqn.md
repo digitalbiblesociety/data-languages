@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बल्गेरियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bulgarian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ブルガリア手話
   - translation_iso: kor

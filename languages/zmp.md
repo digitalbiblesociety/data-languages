@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مبوونو
     auto: true
+  - translation_iso: ben
+    name: মপুওনো
+    auto: true
   - translation_iso: deu
     name: Mpuono
   - translation_iso: fra
     name: mbuun
   - translation_iso: hin
     name: म्पुओनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mpuono
     auto: true
   - translation_iso: jpn
     name: Mpuono語

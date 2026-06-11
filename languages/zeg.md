@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيناغ
     auto: true
+  - translation_iso: ben
+    name: জেনাগ
+    auto: true
   - translation_iso: deu
     name: Zenag
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: zenag
   - translation_iso: hin
     name: ज़ेनाग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zenag
     auto: true
   - translation_iso: jpn
     name: ゼナグ語

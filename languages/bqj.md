@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बंदियाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bandial
+    auto: true
   - translation_iso: jpn
     name: バンジャル語
   - translation_iso: kor

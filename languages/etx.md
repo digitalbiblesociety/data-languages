@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإتين
     auto: true
+  - translation_iso: ben
+    name: এতেন
+    auto: true
   - translation_iso: deu
     name: Eten
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Eten
   - translation_iso: hin
     name: एतेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eten
     auto: true
   - translation_iso: jpn
     name: エテン語

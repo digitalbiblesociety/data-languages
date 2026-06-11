@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإميريون
     auto: true
+  - translation_iso: ben
+    name: এমেরিল্লোন
+    auto: true
   - translation_iso: deu
     name: Emerillon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: émérillon
   - translation_iso: hin
     name: एमेरिलॉन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Emerillon
     auto: true
   - translation_iso: jpn
     name: エメリヨン語

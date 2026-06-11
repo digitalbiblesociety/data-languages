@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موسي
     auto: true
+  - translation_iso: ben
+    name: মুরসি
+    auto: true
   - translation_iso: deu
     name: Mursi
   - translation_iso: fra
     name: mursi
   - translation_iso: hin
     name: मुर्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mursi
     auto: true
   - translation_iso: jpn
     name: ムルシ語

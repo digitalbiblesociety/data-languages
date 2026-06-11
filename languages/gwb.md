@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غوآ
     auto: true
+  - translation_iso: ben
+    name: গওয়া
+    auto: true
   - translation_iso: deu
     name: Gwa
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: gwa
   - translation_iso: hin
     name: ग्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gwa
     auto: true
   - translation_iso: jpn
     name: グワ語

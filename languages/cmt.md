@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكامثو
     auto: true
+  - translation_iso: ben
+    name: কামথো
+    auto: true
   - translation_iso: deu
     name: Camtho
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: camtho
   - translation_iso: hin
     name: कैम्थो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Camtho
     auto: true
   - translation_iso: jpn
     name: カムトー語

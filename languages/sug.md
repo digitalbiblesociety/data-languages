@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوجانجا
     auto: true
+  - translation_iso: ben
+    name: সুগাঙা
+    auto: true
   - translation_iso: deu
     name: Suganga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suganga
   - translation_iso: hin
     name: सुगांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suganga
     auto: true
   - translation_iso: jpn
     name: スガンガ語

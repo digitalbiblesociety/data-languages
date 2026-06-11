@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نييكا
     auto: true
+  - translation_iso: ben
+    name: নয়িকা
+    auto: true
   - translation_iso: deu
     name: Nyika
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyika
   - translation_iso: hin
     name: न्यिका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyika
     auto: true
   - translation_iso: jpn
     name: ニイカ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ليجيلي
     auto: true
+  - translation_iso: ben
+    name: লিজিলি
+    auto: true
   - translation_iso: deu
     name: Lijili
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Lijili
   - translation_iso: hin
     name: लिजिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lijili
     auto: true
   - translation_iso: jpn
     name: リジリ語

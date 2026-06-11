@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوريجينا
     auto: true
+  - translation_iso: ben
+    name: উরিগিনা
+    auto: true
   - translation_iso: deu
     name: Urigina
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उरिगिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urigina
     auto: true
   - translation_iso: jpn
     name: オリガナウ語

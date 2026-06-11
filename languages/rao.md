@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راو
     auto: true
+  - translation_iso: ben
+    name: রাও
+    auto: true
   - translation_iso: deu
     name: Rao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rao
   - translation_iso: hin
     name: राओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rao
     auto: true
   - translation_iso: jpn
     name: ラオ語

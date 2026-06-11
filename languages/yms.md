@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميسيان
     auto: true
+  - translation_iso: ben
+    name: ময়সিয়ান
+    auto: true
   - translation_iso: deu
     name: Mysisch
     auto: true

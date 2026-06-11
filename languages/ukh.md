@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: أوخويجو
     auto: true
+  - translation_iso: ben
+    name: উখওয়েজো
+    auto: true
   - translation_iso: deu
     name: Ukhwejo
   - translation_iso: fra
     name: ukhwejo
   - translation_iso: hin
     name: उख्वेजो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukhwejo
     auto: true
   - translation_iso: jpn
     name: ベンコンホ語

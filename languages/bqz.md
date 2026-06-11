@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बकाका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bakaka
+    auto: true
   - translation_iso: jpn
     name: バカカ語
     auto: true

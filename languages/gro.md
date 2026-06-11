@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غرومآ
     auto: true
+  - translation_iso: ben
+    name: গরোমা
+    auto: true
   - translation_iso: deu
     name: Groma
   - translation_iso: fra
     name: groma
   - translation_iso: hin
     name: ग्रोमा भाषा
+  - translation_iso: ind
+    name: Bahasa Groma
+    auto: true
   - translation_iso: jpn
     name: グロマ語
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاروري
     auto: true
+  - translation_iso: ben
+    name: কারোরে
+    auto: true
   - translation_iso: deu
     name: Karore
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: karore
   - translation_iso: hin
     name: करोरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karore
     auto: true
   - translation_iso: jpn
     name: カロレ語

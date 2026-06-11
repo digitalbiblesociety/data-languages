@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الشويابو
     auto: true
+  - translation_iso: ben
+    name: চুওয়াবু
+    auto: true
   - translation_iso: deu
     name: Chuwabu
   - translation_iso: fra
     name: chuwabu
   - translation_iso: hin
     name: चुवाबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chuwabu
     auto: true
   - translation_iso: jpn
     name: チュワブ語

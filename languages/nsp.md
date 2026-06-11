@@ -28,6 +28,9 @@ translations:
     name: langue des signes népalaise
   - translation_iso: hin
     name: नेपाली सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Nepalese Sign Language
+    auto: true
   - translation_iso: jpn
     name: ネパール手話
   - translation_iso: kor

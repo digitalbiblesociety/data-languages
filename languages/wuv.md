@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووفولواوا
     auto: true
+  - translation_iso: ben
+    name: ওয়ুভুলু-আউয়া
+    auto: true
   - translation_iso: deu
     name: Wuvulu-Aua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wuvulu-aua
   - translation_iso: hin
     name: वुवुलू-औआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wuvulu-Aua
     auto: true
   - translation_iso: jpn
     name: ウブル・アウア語

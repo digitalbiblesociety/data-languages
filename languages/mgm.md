@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مامبا
     auto: true
+  - translation_iso: ben
+    name: মামবাএ
+    auto: true
   - translation_iso: deu
     name: Mambai
   - translation_iso: fra

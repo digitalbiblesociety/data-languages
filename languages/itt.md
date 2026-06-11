@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مايينغ إيتنيغ
     auto: true
+  - translation_iso: ben
+    name: মাএং ইতনেগ
+    auto: true
   - translation_iso: deu
     name: Maeng-Itneg
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: itneg maeng
   - translation_iso: hin
     name: माएंग इतनेग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maeng Itneg
     auto: true
   - translation_iso: jpn
     name: マエング・イトネグ語

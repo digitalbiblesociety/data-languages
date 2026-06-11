@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوارواركا
     auto: true
+  - translation_iso: ben
+    name: য়াওয়ারাওয়ারগা
+    auto: true
   - translation_iso: deu
     name: Yawarawarga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yawarawarga
   - translation_iso: hin
     name: यवरवर्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yawarawarga
     auto: true
   - translation_iso: jpn
     name: ヤワラワーガ語

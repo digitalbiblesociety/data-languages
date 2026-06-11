@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ييي
     auto: true
+  - translation_iso: ben
+    name: য়েয়ি
+    auto: true
   - translation_iso: deu
     name: Yeyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yeyi
   - translation_iso: hin
     name: येयी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yeyi
     auto: true
   - translation_iso: jpn
     name: イェイ語

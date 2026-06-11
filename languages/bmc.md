@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बिएम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biem
+    auto: true
   - translation_iso: jpn
     name: ビエム語
     auto: true

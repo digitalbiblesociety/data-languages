@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيبانغ
     auto: true
+  - translation_iso: ben
+    name: চেপাং
+    auto: true
   - translation_iso: deu
     name: Chepang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chepang
   - translation_iso: hin
     name: चेपाङ भाषा
+  - translation_iso: ind
+    name: Bahasa Chepang
+    auto: true
   - translation_iso: jpn
     name: チェパン語
   - translation_iso: kor

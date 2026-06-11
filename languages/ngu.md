@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جويريرو ناهواتل
     auto: true
+  - translation_iso: ben
+    name: গুএর্রেরো নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Guerrero-Nahuatl
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गेरेरो नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guerrero Nahuatl
     auto: true
   - translation_iso: jpn
     name: ゲレロ・ナワトル語

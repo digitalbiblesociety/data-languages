@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التايلندية
     auto: true
+  - translation_iso: ben
+    name: থাই সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Thailändische Gebärdensprache
   - translation_iso: fra

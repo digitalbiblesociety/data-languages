@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेंच
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bench
+    auto: true
   - translation_iso: jpn
     name: ベンチ語
   - translation_iso: kor

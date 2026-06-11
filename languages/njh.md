@@ -30,6 +30,9 @@ translations:
     name: lotha
   - translation_iso: hin
     name: लोथा भाषा
+  - translation_iso: ind
+    name: Bahasa Lotha Naga
+    auto: true
   - translation_iso: jpn
     name: ロタ・ナガ語
   - translation_iso: kor

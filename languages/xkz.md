@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كورتوخا
     auto: true
+  - translation_iso: ben
+    name: কুরতোখা
+    auto: true
   - translation_iso: deu
     name: Kurtokha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kurtöp
   - translation_iso: hin
     name: कुर्तोखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kurtokha
     auto: true
   - translation_iso: jpn
     name: クルトプ語

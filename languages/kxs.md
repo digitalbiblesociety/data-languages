@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كانجيا
     auto: true
+  - translation_iso: ben
+    name: কাংজিয়া
+    auto: true
   - translation_iso: deu
     name: Kangjia
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kangjia
   - translation_iso: hin
     name: कांगजिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kangjia
     auto: true
   - translation_iso: jpn
     name: 康家語

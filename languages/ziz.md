@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيزيليفاكان
     auto: true
+  - translation_iso: ben
+    name: জিজিলিভাকান
+    auto: true
   - translation_iso: deu
     name: Zizilivakan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zizilivakan
   - translation_iso: hin
     name: ज़िज़िलिवाकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zizilivakan
     auto: true
   - translation_iso: jpn
     name: ジジリヴァカン語

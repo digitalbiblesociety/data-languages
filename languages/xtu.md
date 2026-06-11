@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويامكالكو ميكستيك
     auto: true
+  - translation_iso: ben
+    name: কুয়ামেকালকো মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Cuyamecalco-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुयामेकाल्को मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cuyamecalco Mixtec
     auto: true
   - translation_iso: jpn
     name: クヤメカルコ・ミステク語

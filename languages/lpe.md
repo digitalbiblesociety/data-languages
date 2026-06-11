@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يپكي
     auto: true
+  - translation_iso: ben
+    name: লেপকি
+    auto: true
   - translation_iso: deu
     name: Lepki
     auto: true

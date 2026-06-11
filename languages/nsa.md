@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: संगतम भाषा
+  - translation_iso: ind
+    name: Bahasa Sangtam Naga
+    auto: true
   - translation_iso: jpn
     name: サンタム・ナガ語
   - translation_iso: kor

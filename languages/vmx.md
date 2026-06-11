@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاماسولا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: তামাজোলা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Tamazola-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque tamazola
   - translation_iso: hin
     name: तामासोला मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tamazola Mixtec
     auto: true
   - translation_iso: jpn
     name: タマゾラ・ミシテク語

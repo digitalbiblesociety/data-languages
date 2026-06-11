@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كانغغابي
     auto: true
+  - translation_iso: ben
+    name: কাংগাপে
+    auto: true
   - translation_iso: deu
     name: Kanggape
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kanggape
   - translation_iso: hin
     name: कांगगापे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanggape
     auto: true
   - translation_iso: jpn
     name: カンガペ語

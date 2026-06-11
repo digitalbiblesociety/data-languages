@@ -29,6 +29,9 @@ translations:
     name: langue des signes maya yucatèque
   - translation_iso: hin
     name: मय साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Yucatec Maya Sign Language
+    auto: true
   - translation_iso: jpn
     name: ユカテク・マヤ手話
   - translation_iso: kor

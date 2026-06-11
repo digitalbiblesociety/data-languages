@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تينانغو
     auto: true
+  - translation_iso: ben
+    name: তেনাঙো ওতোমি
+    auto: true
   - translation_iso: deu
     name: Tenango-Otomí
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: otomi de Tenango
   - translation_iso: hin
     name: तेनांगो ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tenango Otomi
     auto: true
   - translation_iso: jpn
     name: テナンゴ・オトミ語

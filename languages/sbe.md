@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سالبا
     auto: true
+  - translation_iso: ben
+    name: সালিবা
+    auto: true
   - translation_iso: deu
     name: Saliba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: saliba
   - translation_iso: hin
     name: सालिबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saliba
     auto: true
   - translation_iso: jpn
     name: サリバ語

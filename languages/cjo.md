@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अशेनिंका पाहोनाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ashéninka Pajonal
+    auto: true
   - translation_iso: jpn
     name: アシェニンカ・パホナル語
     auto: true

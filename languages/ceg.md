@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشاماكوكو
     auto: true
+  - translation_iso: ben
+    name: চামাকোকো
+    auto: true
   - translation_iso: deu
     name: Chamacoco
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chamacoco
   - translation_iso: hin
     name: चामाकोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chamacoco
     auto: true
   - translation_iso: jpn
     name: チャマココ語

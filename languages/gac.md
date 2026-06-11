@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أندمانية عظيمة مختلطة
     auto: true
+  - translation_iso: ben
+    name: মিকসেদ গরেয়াত আনদামানেসে
+    auto: true
   - translation_iso: deu
     name: Gemischtes Groß-Andamanisch
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: grand andamanais
   - translation_iso: hin
     name: मिश्रित ग्रेट अंडमानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mixed Great Andamanese
     auto: true
   - translation_iso: jpn
     name: 混合大アンダマン語

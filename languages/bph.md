@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوتليخ
     auto: true
+  - translation_iso: ben
+    name: বোতলিখ
+    auto: true
   - translation_iso: deu
     name: Botlikh
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: botlikh
   - translation_iso: hin
     name: बोतलिख
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Botlikh
     auto: true
   - translation_iso: jpn
     name: ボトリフ語

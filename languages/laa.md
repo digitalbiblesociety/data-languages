@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سوبانين الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন সুবানেন
+    auto: true
   - translation_iso: deu
     name: Süd-Subanen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: subanon du Sud
   - translation_iso: hin
     name: दक्षिणी सुबानेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Subanen
     auto: true
   - translation_iso: jpn
     name: 南スバネン語

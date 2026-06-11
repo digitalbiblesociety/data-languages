@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كسويلا جيبي
     auto: true
+  - translation_iso: ben
+    name: কসওয়েলা গবে
+    auto: true
   - translation_iso: deu
     name: Xwela
   - translation_iso: fra
     name: xwela
   - translation_iso: hin
     name: ख्वेला ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xwela Gbe
     auto: true
   - translation_iso: jpn
     name: クウェラ・ゲベ語

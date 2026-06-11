@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يبيدو
     auto: true
+  - translation_iso: ben
+    name: লিবিদো
+    auto: true
   - translation_iso: deu
     name: Marako/Libido
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लिबिदो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Libido
     auto: true
   - translation_iso: jpn
     name: リビド語

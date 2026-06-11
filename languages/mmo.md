@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجا بوانج
     auto: true
+  - translation_iso: ben
+    name: মাংগা বুয়াং
+    auto: true
   - translation_iso: deu
     name: Mangga Buang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: buang mangga
   - translation_iso: hin
     name: मांगा बुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangga Buang
     auto: true
   - translation_iso: jpn
     name: マンガ・ブアン語

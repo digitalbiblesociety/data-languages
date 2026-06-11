@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كورونجو أنكاش
     auto: true
+  - translation_iso: ben
+    name: কোরোঙো আনকাশ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Corongo-Ancash-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua ancash de Corongo
   - translation_iso: hin
     name: कोरोंगो आंकाश क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Corongo Ancash Quechua
     auto: true
   - translation_iso: jpn
     name: コロンゴアンカシュケチュア語

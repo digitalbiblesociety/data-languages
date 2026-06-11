@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو
     auto: true
+  - translation_iso: ben
+    name: পিউ
+    auto: true
   - translation_iso: deu
     name: Piu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piu
   - translation_iso: hin
     name: पिउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piu
     auto: true
   - translation_iso: jpn
     name: ピウ語

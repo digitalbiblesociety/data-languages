@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإريتاي
     auto: true
+  - translation_iso: ben
+    name: এরিতাই
+    auto: true
   - translation_iso: deu
     name: Eritai
     auto: true

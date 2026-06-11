@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة آمي
     auto: true
+  - translation_iso: ben
+    name: আমি
+    auto: true
   - translation_iso: deu
     name: Ami
   - translation_iso: fra
     name: ami
   - translation_iso: hin
     name: आमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ami
     auto: true
   - translation_iso: jpn
     name: アミ語

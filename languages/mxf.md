@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malgbe_language"
 translations:
   - translation_iso: ara
     name: مالغبي
+  - translation_iso: ben
+    name: মালগবে
+    auto: true
   - translation_iso: deu
     name: Malgbe
   - translation_iso: fra
     name: malgbe
   - translation_iso: hin
     name: मालग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malgbe
     auto: true
   - translation_iso: jpn
     name: マルグベ語

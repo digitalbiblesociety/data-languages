@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: السيباك
     auto: true
+  - translation_iso: ben
+    name: কিবাক
+    auto: true
   - translation_iso: deu
     name: Kibaku
   - translation_iso: fra
     name: cibak
   - translation_iso: hin
     name: सिबाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cibak
     auto: true
   - translation_iso: jpn
     name: チボク語

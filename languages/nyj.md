@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييانغا
     auto: true
+  - translation_iso: ben
+    name: নয়াঙা
+    auto: true
   - translation_iso: deu
     name: Nyanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyanga
   - translation_iso: hin
     name: न्यांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyanga
     auto: true
   - translation_iso: jpn
     name: ニャンガ語

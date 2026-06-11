@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هويتشول
     auto: true
+  - translation_iso: ben
+    name: হুইচোল
+    auto: true
   - translation_iso: deu
     name: Huichol-Sprache
   - translation_iso: fra

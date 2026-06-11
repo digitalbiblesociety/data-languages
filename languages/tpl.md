@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميفاع تلاكواپا
     auto: true
+  - translation_iso: ben
+    name: তলাকোয়াপা মেফা
+    auto: true
   - translation_iso: deu
     name: "Tlacoapa Me'phaa"
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्लाकोआपा मेफा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Tlacoapa Me'phaa"
     auto: true
   - translation_iso: jpn
     name: メーファア語

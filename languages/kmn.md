@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आवतुव
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awtuw
+    auto: true
   - translation_iso: jpn
     name: アウトゥウ語
     auto: true

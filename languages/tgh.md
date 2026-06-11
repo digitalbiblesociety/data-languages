@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الإنجليزية الكريولية التوباغونية
     auto: true
+  - translation_iso: ben
+    name: তোবাগোনিয়ান করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Tobagonian Creole English
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तोबागोनियन क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tobagonian Creole English
     auto: true
   - translation_iso: jpn
     name: トバゴ・クレオール語

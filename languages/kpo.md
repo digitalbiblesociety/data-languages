@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة إيكبوسو
     auto: true
+  - translation_iso: ben
+    name: ইকপোসো
+    auto: true
   - translation_iso: deu
     name: Akposo
   - translation_iso: fra
     name: ikposso
   - translation_iso: hin
     name: इकपोसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikposo
     auto: true
   - translation_iso: jpn
     name: イクポソ語

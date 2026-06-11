@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فولوبا
     auto: true
+  - translation_iso: ben
+    name: ফোলোপা
+    auto: true
   - translation_iso: deu
     name: Folopa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: folopa
   - translation_iso: hin
     name: फोलोपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Folopa
     auto: true
   - translation_iso: jpn
     name: フォロパ語

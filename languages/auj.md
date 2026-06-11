@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अव्जिलाह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awjilah
+    auto: true
   - translation_iso: jpn
     name: アウジラ語
   - translation_iso: kor

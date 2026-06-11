@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتاتس
     auto: true
+  - translation_iso: ben
+    name: পেতাতস
+    auto: true
   - translation_iso: deu
     name: Petats
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: petats
   - translation_iso: hin
     name: पेटाट्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Petats
     auto: true
   - translation_iso: jpn
     name: ペタツ語

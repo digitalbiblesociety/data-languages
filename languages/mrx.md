@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارمجي
     auto: true
+  - translation_iso: ben
+    name: মারেমগি
+    auto: true
   - translation_iso: deu
     name: Maremgi
     auto: true

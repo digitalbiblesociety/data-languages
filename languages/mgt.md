@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة منجول
     auto: true
+  - translation_iso: ben
+    name: মোঙোল
+    auto: true
   - translation_iso: deu
     name: Mongol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mongol
   - translation_iso: hin
     name: मोंगोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mongol
     auto: true
   - translation_iso: jpn
     name: モンゴル語

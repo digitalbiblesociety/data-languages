@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وجبارا
     auto: true
+  - translation_iso: ben
+    name: লুগবারা
+    auto: true
   - translation_iso: deu
     name: Lugbara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lugbara
   - translation_iso: hin
     name: लुगबारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lugbara
     auto: true
   - translation_iso: jpn
     name: ルグバラ語

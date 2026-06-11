@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الشرقية
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসত তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Südosttasmanisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nuenonne
   - translation_iso: hin
     name: दक्षिणपूर्वी तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeast Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: 南東タスマニア語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موالي كوموريان
     auto: true
+  - translation_iso: ben
+    name: মওয়ালি কোমোরিয়ান
+    auto: true
   - translation_iso: deu
     name: Mwali-Komorisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mohélien
   - translation_iso: hin
     name: म्वाली कोमोरियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mwali Comorian
     auto: true
   - translation_iso: jpn
     name: ムワリ・コモロ語

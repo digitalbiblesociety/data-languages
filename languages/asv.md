@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: असोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Asoa
+    auto: true
   - translation_iso: jpn
     name: アソア語
     auto: true

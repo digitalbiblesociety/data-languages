@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: उत्तरी अल्ताई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Altai
+    auto: true
   - translation_iso: jpn
     name: 北アルタイ語
   - translation_iso: kor

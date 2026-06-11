@@ -27,6 +27,9 @@ translations:
   - translation_iso: hin
     name: बेर्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Berta
+    auto: true
   - translation_iso: jpn
     name: ベルタ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميراميرا
     auto: true
+  - translation_iso: ben
+    name: মেরামেরা
+    auto: true
   - translation_iso: deu
     name: Meramera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: meramera
   - translation_iso: hin
     name: मेरामेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Meramera
     auto: true
   - translation_iso: jpn
     name: メラメラ語

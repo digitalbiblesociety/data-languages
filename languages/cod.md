@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكوكاما-كوكاميلا
     auto: true
+  - translation_iso: ben
+    name: কোকামা-কোকামিল্লা
+    auto: true
   - translation_iso: deu
     name: Kokáma
   - translation_iso: fra
     name: cocama-cocamilla
   - translation_iso: hin
     name: कोकामा-कोकामिल्ला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cocama-Cocamilla
     auto: true
   - translation_iso: jpn
     name: コカマ語

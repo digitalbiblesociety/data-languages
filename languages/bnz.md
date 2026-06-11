@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बीज़ेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Beezen
+    auto: true
   - translation_iso: jpn
     name: ベーゼン語
     auto: true

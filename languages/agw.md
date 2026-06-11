@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاهوا
     auto: true
+  - translation_iso: ben
+    name: কাহুয়া
+    auto: true
   - translation_iso: deu
     name: Kahua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kahua
   - translation_iso: hin
     name: काहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kahua
     auto: true
   - translation_iso: jpn
     name: カフア語

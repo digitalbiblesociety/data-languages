@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मेनफ्रेंकिश
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mainfränkisch
+    auto: true
   - translation_iso: jpn
     name: マインフランク語
   - translation_iso: kor

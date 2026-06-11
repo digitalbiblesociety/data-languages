@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا كاتارينا ألبارادس
     auto: true
+  - translation_iso: ben
+    name: সানতা কাতারিনা আলবার্রাদাস জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Santa Catarina Albarradas)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Santa Catarina Albarradas
   - translation_iso: hin
     name: सांता काटारिना अल्बाराडास ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa Catarina Albarradas Zapotec
     auto: true
   - translation_iso: jpn
     name: サンタ・カタリナ・アルバラダス・サポテク語

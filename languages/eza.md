@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: الإزا
     auto: true
+  - translation_iso: ben
+    name: এজা
+    auto: true
   - translation_iso: deu
     name: Ezaa
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: ezaa
   - translation_iso: hin
     name: एज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ezaa
     auto: true
   - translation_iso: jpn
     name: エザア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نكيم-نكوم
     auto: true
+  - translation_iso: ben
+    name: নকেম-নকুম
+    auto: true
   - translation_iso: deu
     name: Nkem-Nkum
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नकेम-नकुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkem-Nkum
     auto: true
   - translation_iso: jpn
     name: ンケム・ンクム語

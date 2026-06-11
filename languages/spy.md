@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة ساباوت
     auto: true
+  - translation_iso: ben
+    name: সাবাওত
+    auto: true
   - translation_iso: deu
     name: Sabaot
   - translation_iso: fra
     name: sabaot
   - translation_iso: hin
     name: साबाओत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sabaot
     auto: true
   - translation_iso: jpn
     name: サバオット語

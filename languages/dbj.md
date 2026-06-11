@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيداآن
     auto: true
+  - translation_iso: ben
+    name: ইদান
+    auto: true
   - translation_iso: deu
     name: "Ida'an"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ida’an
   - translation_iso: hin
     name: इदाआन
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Ida'an"
     auto: true
   - translation_iso: jpn
     name: イダアン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبليمي
     auto: true
+  - translation_iso: ben
+    name: মবেলিমে
+    auto: true
   - translation_iso: deu
     name: Mbelime
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbèlimè
   - translation_iso: hin
     name: म्बेलिमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbelime
     auto: true
   - translation_iso: jpn
     name: ムベリメ語

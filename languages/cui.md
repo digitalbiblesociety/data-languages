@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكويبا
     auto: true
+  - translation_iso: ben
+    name: কুইবা
+    auto: true
   - translation_iso: deu
     name: Cuiba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cuiba
   - translation_iso: hin
     name: कुइबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cuiba
     auto: true
   - translation_iso: jpn
     name: クイバ語

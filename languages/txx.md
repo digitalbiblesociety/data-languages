@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاتانا
     auto: true
+  - translation_iso: ben
+    name: তাতানা
+    auto: true
   - translation_iso: deu
     name: Tatana
     auto: true

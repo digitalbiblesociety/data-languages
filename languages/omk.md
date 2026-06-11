@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوموك
     auto: true
+  - translation_iso: ben
+    name: ওমোক
+    auto: true
   - translation_iso: deu
     name: Omokisch
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओमोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Omok
     auto: true
   - translation_iso: jpn
     name: オモク語

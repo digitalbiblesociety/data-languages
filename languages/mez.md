@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Menominee_language"
 translations:
   - translation_iso: ara
     name: مينوميني
+  - translation_iso: ben
+    name: মেনোমিনে
+    auto: true
   - translation_iso: deu
     name: Menominee-Sprache
   - translation_iso: fra

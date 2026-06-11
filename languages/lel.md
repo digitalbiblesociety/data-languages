@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: ben
+    name: লেলে
+    auto: true
   - translation_iso: deu
     name: Lele (Demokratische Republik Kongo)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेले (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lele
     auto: true
   - translation_iso: jpn
     name: レレ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كايمبولاوا
     auto: true
+  - translation_iso: ben
+    name: কাইমবুলাওয়া
+    auto: true
   - translation_iso: deu
     name: Kaimbulawa
     auto: true

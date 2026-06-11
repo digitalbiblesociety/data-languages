@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واندامين
     auto: true
+  - translation_iso: ben
+    name: ওয়ানদামেন
+    auto: true
   - translation_iso: deu
     name: Wandamen
     auto: true

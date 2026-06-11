@@ -29,6 +29,9 @@ translations:
     name: chhattisgarhi
   - translation_iso: hin
     name: छत्तीसगढ़ी
+  - translation_iso: ind
+    name: Bahasa Chhattisgarhi
+    auto: true
   - translation_iso: jpn
     name: チャッティースガリー語
   - translation_iso: kor

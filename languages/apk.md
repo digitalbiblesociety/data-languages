@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة كيوا أباتشي
     auto: true
+  - translation_iso: ben
+    name: কিওওয়া আপাচে
+    auto: true
   - translation_iso: deu
     name: Plains Apache
   - translation_iso: fra
     name: apache des plaines
   - translation_iso: hin
     name: कियोवा अपाचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kiowa Apache
     auto: true
   - translation_iso: jpn
     name: キオワ・アパッチ語

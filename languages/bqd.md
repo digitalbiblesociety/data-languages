@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بونج
     auto: true
+  - translation_iso: ben
+    name: বুং
+    auto: true
   - translation_iso: deu
     name: Bung
     auto: true

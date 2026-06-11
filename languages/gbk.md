@@ -30,6 +30,9 @@ translations:
     name: gaddi
   - translation_iso: hin
     name: गदी
+  - translation_iso: ind
+    name: Bahasa Gaddi
+    auto: true
   - translation_iso: jpn
     name: ガッディ語
     auto: true

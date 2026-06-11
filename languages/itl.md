@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Itelmen_language"
 translations:
   - translation_iso: ara
     name: لغة إيتلمينية
+  - translation_iso: ben
+    name: ইতেলমেন
+    auto: true
   - translation_iso: deu
     name: Itelmenisch
   - translation_iso: fra

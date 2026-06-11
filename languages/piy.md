@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيّا-كوونتسي
     auto: true
+  - translation_iso: ben
+    name: পিয়া-কওয়োনকি
+    auto: true
   - translation_iso: deu
     name: Piya-Kwonci
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piya-kwonci
   - translation_iso: hin
     name: पिया-क्वोंची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piya-Kwonci
     auto: true
   - translation_iso: jpn
     name: ピヤクウォンシ語

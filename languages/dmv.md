@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دومباس
     auto: true
+  - translation_iso: ben
+    name: দুমপাস
+    auto: true
   - translation_iso: deu
     name: Dumpas
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dumpas
   - translation_iso: hin
     name: दुम्पास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dumpas
     auto: true
   - translation_iso: jpn
     name: ダンパス語

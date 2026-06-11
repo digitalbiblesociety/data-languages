@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कुलुंग (नेपाल)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kulung
+    auto: true
   - translation_iso: jpn
     name: クルン語
     auto: true

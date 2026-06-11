@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ لوبوهي
     auto: true
+  - translation_iso: ben
+    name: লুওপোহে হমোং
+    auto: true
   - translation_iso: deu
     name: Luopohe-Hmong
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: miao de Xijia
   - translation_iso: hin
     name: लुओपोहे ह्मोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luopohe Hmong
     auto: true
   - translation_iso: jpn
     name: 羅泊河フモン語

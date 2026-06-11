@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكا
     auto: true
+  - translation_iso: ben
+    name: আকা
+    auto: true
   - translation_iso: deu
     name: Aka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sillok
   - translation_iso: hin
     name: आका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Aka
     auto: true
   - translation_iso: jpn
     name: アカ語

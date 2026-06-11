@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونوج دوجون
     auto: true
+  - translation_iso: ben
+    name: বুনোগে দোগোন
+    auto: true
   - translation_iso: deu
     name: Bunoge-Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bunoge
   - translation_iso: hin
     name: बुनोगे दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bunoge Dogon
     auto: true
   - translation_iso: jpn
     name: ブノゲ・ドゴン語

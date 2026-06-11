@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سووا
     auto: true
+  - translation_iso: ben
+    name: সুওয়াওয়া
+    auto: true
   - translation_iso: deu
     name: Suwawa
     auto: true

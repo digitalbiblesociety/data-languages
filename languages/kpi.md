@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوفي
     auto: true
+  - translation_iso: ben
+    name: কোফেই
+    auto: true
   - translation_iso: deu
     name: Kofei
     auto: true

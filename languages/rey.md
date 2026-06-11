@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريسانو
     auto: true
+  - translation_iso: ben
+    name: রেয়েসানো
+    auto: true
   - translation_iso: deu
     name: Reyesano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: reyesano
   - translation_iso: hin
     name: रेयेसानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Reyesano
     auto: true
   - translation_iso: jpn
     name: レイェサノ語

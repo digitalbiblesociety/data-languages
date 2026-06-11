@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بيررپايي
     auto: true
+  - translation_iso: ben
+    name: বির্রপায়ি
+    auto: true
   - translation_iso: deu
     name: Birrpayi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: birrpayi
   - translation_iso: hin
     name: बिरपायी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Birrpayi
     auto: true
   - translation_iso: jpn
     name: ビルパイ語

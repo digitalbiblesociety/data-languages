@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أودو
     auto: true
+  - translation_iso: ben
+    name: ওদু
+    auto: true
   - translation_iso: deu
     name: "O'du"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iduh
   - translation_iso: hin
     name: ओदु
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa O'du"
     auto: true
   - translation_iso: jpn
     name: オドゥ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واندارانغ
     auto: true
+  - translation_iso: ben
+    name: ওয়ানদারাং
+    auto: true
   - translation_iso: deu
     name: Wandarang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wandarang
   - translation_iso: hin
     name: वंदारंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wandarang
     auto: true
   - translation_iso: jpn
     name: ワンダラン語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bulgar_language"
 translations:
   - translation_iso: ara
     name: لغة البلغار
+  - translation_iso: ben
+    name: বোলগারিয়ান
+    auto: true
   - translation_iso: deu
     name: Bolgarisch
   - translation_iso: fra
     name: protobulgare
   - translation_iso: hin
     name: बोलगर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolgarian
     auto: true
   - translation_iso: jpn
     name: ブルガール語

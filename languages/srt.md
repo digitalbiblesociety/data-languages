@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساوري
     auto: true
+  - translation_iso: ben
+    name: সাউরি
+    auto: true
   - translation_iso: deu
     name: Sauri
     auto: true

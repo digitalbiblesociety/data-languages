@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة مسكاليرو-تشيريكاهوا أباتشي
     auto: true
+  - translation_iso: ben
+    name: মেসকালেরো-চিরিকাহুয়া আপাচে
+    auto: true
   - translation_iso: deu
     name: Chiricahua
   - translation_iso: fra
     name: chiricahua
   - translation_iso: hin
     name: मेस्कालेरो-चिरीकाहुआ अपाचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mescalero-Chiricahua Apache
     auto: true
   - translation_iso: jpn
     name: チリカワ語

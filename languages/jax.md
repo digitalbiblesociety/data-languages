@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jambi_Malay"
 translations:
   - translation_iso: ara
     name: الملايوية الجامبية
+  - translation_iso: ben
+    name: জামবি মালায়
+    auto: true
   - translation_iso: deu
     name: Jambi-Malaiisch
     auto: true

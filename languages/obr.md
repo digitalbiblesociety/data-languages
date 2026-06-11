@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة البورمية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ বুরমেসে
+    auto: true
   - translation_iso: deu
     name: Altbirmanisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موفيان
     auto: true
+  - translation_iso: ben
+    name: মুফিয়ান
+    auto: true
   - translation_iso: deu
     name: Mufian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muhiang
   - translation_iso: hin
     name: मुफियान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mufian
     auto: true
   - translation_iso: jpn
     name: 南部アラペシュ語

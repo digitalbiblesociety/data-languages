@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسالا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন সিসালা
+    auto: true
   - translation_iso: deu
     name: Western Sisaala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "sisaala de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी सिसाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Sisaala
     auto: true
   - translation_iso: jpn
     name: シッサーラ語

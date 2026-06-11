@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوما
     auto: true
+  - translation_iso: ben
+    name: ওউমা
+    auto: true
   - translation_iso: deu
     name: Ouma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ouma
   - translation_iso: hin
     name: ओउमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ouma
     auto: true
   - translation_iso: jpn
     name: ウマ語

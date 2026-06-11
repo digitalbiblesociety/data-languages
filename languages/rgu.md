@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رينجو
     auto: true
+  - translation_iso: ben
+    name: রিংগোউ
+    auto: true
   - translation_iso: deu
     name: Ringgou
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جايا
     auto: true
+  - translation_iso: ben
+    name: জায়া
+    auto: true
   - translation_iso: deu
     name: Jaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jaya
   - translation_iso: hin
     name: जाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jaya
     auto: true
   - translation_iso: jpn
     name: ジャヤ語

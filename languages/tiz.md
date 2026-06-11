@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي هونغجين
     auto: true
+  - translation_iso: ben
+    name: তাই হোংজিন
+    auto: true
   - translation_iso: deu
     name: Tai Hongjin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: taï hongjin
   - translation_iso: hin
     name: ताई होंगजिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Hongjin
     auto: true
   - translation_iso: jpn
     name: 紅金タイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مباريمان-غودهينما
     auto: true
+  - translation_iso: ben
+    name: মবারিমান-গুধিনমা
+    auto: true
   - translation_iso: deu
     name: Mbariman-Gudhinma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbariman-gudhinma
   - translation_iso: hin
     name: म्बारिमन-गुधिन्मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbariman-Gudhinma
     auto: true
   - translation_iso: jpn
     name: ググ・ワラ語

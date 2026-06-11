@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سارا
     auto: true
+  - translation_iso: ben
+    name: সারা
+    auto: true
   - translation_iso: deu
     name: Sara
   - translation_iso: fra

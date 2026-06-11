@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوتوانون
     auto: true
+  - translation_iso: ben
+    name: বুতুয়ানোন
+    auto: true
   - translation_iso: deu
     name: Butuanon
     auto: true

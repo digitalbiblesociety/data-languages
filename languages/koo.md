@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونزو
     auto: true
+  - translation_iso: ben
+    name: কোনজো
+    auto: true
   - translation_iso: deu
     name: Konzo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: konjo
   - translation_iso: hin
     name: कोंज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konzo
     auto: true
   - translation_iso: jpn
     name: コンゾ語

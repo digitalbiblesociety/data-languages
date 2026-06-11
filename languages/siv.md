@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومريوب
     auto: true
+  - translation_iso: ben
+    name: সুমারিউপ
+    auto: true
   - translation_iso: deu
     name: Sumariup
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sumariup
   - translation_iso: hin
     name: सुमारियुप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sumariup
     auto: true
   - translation_iso: jpn
     name: ラトマ語

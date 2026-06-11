@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بيكول بوهي
     auto: true
+  - translation_iso: ben
+    name: বুহিনোন বিকোল
+    auto: true
   - translation_iso: deu
     name: "Buhi'non Bikol"
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: bikol buhi
   - translation_iso: hin
     name: बुहीनोन बिकोल
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Buhi'non Bikol"
     auto: true
   - translation_iso: jpn
     name: ブヒノン・ビコール語

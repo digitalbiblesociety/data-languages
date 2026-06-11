@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فواينجي
     auto: true
+  - translation_iso: ben
+    name: ভওয়ানজি
+    auto: true
   - translation_iso: deu
     name: Vwanji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vwanji
   - translation_iso: hin
     name: व्वान्जी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vwanji
     auto: true
   - translation_iso: jpn
     name: ヴワンジ語

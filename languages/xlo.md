@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لوب ألف
     auto: true
+  - translation_iso: ben
+    name: লোউপ আ
+    auto: true
   - translation_iso: deu
     name: Loup A
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nipmuck
   - translation_iso: hin
     name: लूप ए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loup A
     auto: true
   - translation_iso: jpn
     name: ルーポA語

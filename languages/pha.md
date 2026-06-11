@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة با هنغ
     auto: true
+  - translation_iso: ben
+    name: পা-হং
+    auto: true
   - translation_iso: deu
     name: Pa-Hng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: baheng
   - translation_iso: hin
     name: पा-ह्न्ग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pa-Hng
     auto: true
   - translation_iso: jpn
     name: Pa-Hng語

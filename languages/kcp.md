@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانغا
     auto: true
+  - translation_iso: ben
+    name: কাঙা
+    auto: true
   - translation_iso: deu
     name: Kanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kanga
   - translation_iso: hin
     name: कांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanga
     auto: true
   - translation_iso: jpn
     name: カンガ語

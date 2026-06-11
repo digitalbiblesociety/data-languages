@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مانتا
     auto: true
+  - translation_iso: ben
+    name: মানতা
+    auto: true
   - translation_iso: deu
     name: Manta
   - translation_iso: fra
     name: manta
   - translation_iso: hin
     name: मांता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manta
     auto: true
   - translation_iso: jpn
     name: マンタ語

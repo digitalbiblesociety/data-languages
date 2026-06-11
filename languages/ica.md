@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: إيدي إيكا
     auto: true
+  - translation_iso: ben
+    name: এদে ইকা
+    auto: true
   - translation_iso: deu
     name: Ede Ica
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: Ede ica
   - translation_iso: hin
     name: एदे इका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ede Ica
     auto: true
   - translation_iso: jpn
     name: エデ・イカ語

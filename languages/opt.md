@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوباتا
     auto: true
+  - translation_iso: ben
+    name: ওপাতা
+    auto: true
   - translation_iso: deu
     name: Opata
   - translation_iso: fra
     name: opata
   - translation_iso: hin
     name: ओपाता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Opata
     auto: true
   - translation_iso: jpn
     name: オパタ語

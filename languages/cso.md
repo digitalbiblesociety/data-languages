@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوتشيابام تشينانتك
     auto: true
+  - translation_iso: ben
+    name: সোচিয়াপাম চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Sochiapam-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinantèque de Sochiapam
   - translation_iso: hin
     name: सोचियापम चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sochiapam Chinantec
     auto: true
   - translation_iso: jpn
     name: ソチアパム・チナンテク語

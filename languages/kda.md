@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ووريمي
     auto: true
+  - translation_iso: ben
+    name: ওয়োরিমি
+    auto: true
   - translation_iso: deu
     name: Worimi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वोरिमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Worimi
     auto: true
   - translation_iso: jpn
     name: ウォリミ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوغو واررا
     auto: true
+  - translation_iso: ben
+    name: গুগু ওয়ার্রা
+    auto: true
   - translation_iso: deu
     name: Gugu Warra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gugu warra
   - translation_iso: hin
     name: गुगु वाररा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gugu Warra
     auto: true
   - translation_iso: jpn
     name: ググ・ワッラ語

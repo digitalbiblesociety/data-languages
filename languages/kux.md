@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوكاتشا
     auto: true
+  - translation_iso: ben
+    name: কুকাতজা
+    auto: true
   - translation_iso: deu
     name: Kukatja
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kukatja
   - translation_iso: hin
     name: कुकात्जा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kukatja
     auto: true
   - translation_iso: jpn
     name: クカトゥジャ語

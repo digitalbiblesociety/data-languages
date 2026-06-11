@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوي
     auto: true
+  - translation_iso: ben
+    name: মবোই
+    auto: true
   - translation_iso: deu
     name: Mboi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: म्बोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mboi
     auto: true
   - translation_iso: jpn
     name: ムボイ語

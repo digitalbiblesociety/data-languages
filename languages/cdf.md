@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيرو
     auto: true
+  - translation_iso: ben
+    name: চিরু
+    auto: true
   - translation_iso: deu
     name: Chiru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chiru
   - translation_iso: hin
     name: चीरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chiru
     auto: true
   - translation_iso: jpn
     name: チル語

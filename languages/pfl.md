@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة بفالتسيش
     auto: true
+  - translation_iso: ben
+    name: পফাএলজিসচ
+    auto: true
   - translation_iso: deu
     name: Pfälzisch
   - translation_iso: fra

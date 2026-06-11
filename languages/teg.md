@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيكي تيغي
     auto: true
+  - translation_iso: ben
+    name: তেকে-তেগে
+    auto: true
   - translation_iso: deu
     name: Teke-Tege
   - translation_iso: fra
     name: latege
   - translation_iso: hin
     name: तेके-तेगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Tege
     auto: true
   - translation_iso: jpn
     name: テケ・テゲ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبي
     auto: true
+  - translation_iso: ben
+    name: লোমবি
+    auto: true
   - translation_iso: deu
     name: Lombi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lombi
   - translation_iso: hin
     name: लोंबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lombi
     auto: true
   - translation_iso: jpn
     name: ロンビ語

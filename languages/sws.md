@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيلوواسان
     auto: true
+  - translation_iso: ben
+    name: সেলুওয়াসান
+    auto: true
   - translation_iso: deu
     name: Seluarsa
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نالوغو
     auto: true
+  - translation_iso: ben
+    name: নালোগো
+    auto: true
   - translation_iso: deu
     name: Nalögo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nalögo
   - translation_iso: hin
     name: नालोगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nalögo
     auto: true
   - translation_iso: jpn
     name: ナロゴ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غبيي
     auto: true
+  - translation_iso: ben
+    name: গবি
+    auto: true
   - translation_iso: deu
     name: Gbii
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gbii
   - translation_iso: hin
     name: ग्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbii
     auto: true
   - translation_iso: jpn
     name: ギビ語

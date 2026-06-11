@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واجا
     auto: true
+  - translation_iso: ben
+    name: ওয়াজা
+    auto: true
   - translation_iso: deu
     name: Waja
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Waja
   - translation_iso: hin
     name: वाजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waja
     auto: true
   - translation_iso: jpn
     name: ワジャ語

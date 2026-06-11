@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بروفيدينسيا
     auto: true
+  - translation_iso: ben
+    name: পরোভিদেনকিয়া সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Providencia-Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Providencia
   - translation_iso: hin
     name: प्रोविडेंस आइलैंड सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Providencia Sign Language
+    auto: true
   - translation_iso: jpn
     name: プロビデンシア手話
   - translation_iso: kor

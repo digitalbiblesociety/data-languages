@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيينيلي
     auto: true
+  - translation_iso: ben
+    name: কয়েনেলে
+    auto: true
   - translation_iso: deu
     name: Kyenele
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kyenele
   - translation_iso: hin
     name: क्येनेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kyenele
     auto: true
   - translation_iso: jpn
     name: キェネレ語

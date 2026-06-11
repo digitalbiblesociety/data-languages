@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ يونغنان
     auto: true
+  - translation_iso: ben
+    name: য়োংনান ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Yongnan-Zhuang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zhuang de Yongnan
   - translation_iso: hin
     name: योंगनान ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yongnan Zhuang
     auto: true
   - translation_iso: jpn
     name: 邕南チワン語

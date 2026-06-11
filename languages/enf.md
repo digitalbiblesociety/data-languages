@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الإنتس الحرجية
     auto: true
+  - translation_iso: ben
+    name: ফোরেসত এনেতস
+    auto: true
   - translation_iso: deu
     name: Wald-Enzisch
   - translation_iso: fra
     name: énètse des forêts
   - translation_iso: hin
     name: वन एनेट्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Forest Enets
     auto: true
   - translation_iso: jpn
     name: 森林エネツ語

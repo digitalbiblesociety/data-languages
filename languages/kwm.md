@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوامبي
     auto: true
+  - translation_iso: ben
+    name: কওয়ামবি
+    auto: true
   - translation_iso: deu
     name: Kwambi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: क्वाम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwambi
     auto: true
   - translation_iso: jpn
     name: クワンビ語

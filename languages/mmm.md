@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مايي
     auto: true
+  - translation_iso: ben
+    name: মাই
+    auto: true
   - translation_iso: deu
     name: Maii
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maii
   - translation_iso: hin
     name: माई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maii
     auto: true
   - translation_iso: jpn
     name: マイイ語

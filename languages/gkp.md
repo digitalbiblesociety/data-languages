@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غوينإآ كبإللإ
     auto: true
+  - translation_iso: ben
+    name: গুইনেয়া কপেল্লে
+    auto: true
   - translation_iso: deu
     name: Guinea-Kpelle
   - translation_iso: fra
     name: kpellé de Guinée
   - translation_iso: hin
     name: गिनी क्पेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guinea Kpelle
     auto: true
   - translation_iso: jpn
     name: ギニア・クペレ語

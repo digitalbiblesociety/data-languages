@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سولكا
     auto: true
+  - translation_iso: ben
+    name: সুলকা
+    auto: true
   - translation_iso: deu
     name: Sulka
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: sulka
   - translation_iso: hin
     name: सुल्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sulka
     auto: true
   - translation_iso: jpn
     name: スルカ語

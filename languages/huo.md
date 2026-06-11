@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هو
     auto: true
+  - translation_iso: ben
+    name: হু
+    auto: true
   - translation_iso: deu
     name: Hu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hu
   - translation_iso: hin
     name: हू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hu
     auto: true
   - translation_iso: jpn
     name: フー語

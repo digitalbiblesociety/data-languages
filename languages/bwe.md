@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوي كاريْن
     auto: true
+  - translation_iso: ben
+    name: বওয়ে কারেন
+    auto: true
   - translation_iso: deu
     name: Bwe-Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karen bwe
   - translation_iso: hin
     name: ब्वे करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwe Karen
     auto: true
   - translation_iso: jpn
     name: ブウェ・カレン語

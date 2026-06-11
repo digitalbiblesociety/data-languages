@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فولو
     auto: true
+  - translation_iso: ben
+    name: ফোলো
+    auto: true
   - translation_iso: deu
     name: Pholo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: फोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pholo
     auto: true
   - translation_iso: jpn
     name: フォロ語

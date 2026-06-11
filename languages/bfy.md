@@ -31,6 +31,9 @@ translations:
     name: bagheli
   - translation_iso: hin
     name: बघेली
+  - translation_iso: ind
+    name: Bahasa Bagheli
+    auto: true
   - translation_iso: jpn
     name: バゲーリー語
   - translation_iso: kor

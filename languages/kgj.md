@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جامالي خام
     auto: true
+  - translation_iso: ben
+    name: গামালে খাম
+    auto: true
   - translation_iso: deu
     name: Gamale Kham
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kham gamale
   - translation_iso: hin
     name: गामले खाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gamale Kham
     auto: true
   - translation_iso: jpn
     name: ガマレ・ハム語

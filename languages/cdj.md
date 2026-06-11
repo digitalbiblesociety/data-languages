@@ -30,6 +30,9 @@ translations:
     name: churahi
   - translation_iso: hin
     name: चुराही
+  - translation_iso: ind
+    name: Bahasa Churahi
+    auto: true
   - translation_iso: jpn
     name: チュラヒ語
     auto: true

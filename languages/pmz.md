@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন পামে
+    auto: true
   - translation_iso: deu
     name: Süd-Pame
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pame du Sud
   - translation_iso: hin
     name: दक्षिणी पामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Pame
     auto: true
   - translation_iso: jpn
     name: 南パメ語

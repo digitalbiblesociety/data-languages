@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بويو
     auto: true
+  - translation_iso: ben
+    name: বুয়ু
+    auto: true
   - translation_iso: deu
     name: Buyu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: buyu
   - translation_iso: hin
     name: बुयू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buyu
     auto: true
   - translation_iso: jpn
     name: ブユ語

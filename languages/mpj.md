@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مارتو وانكا
     auto: true
+  - translation_iso: ben
+    name: মারতু ওয়াংকা
+    auto: true
   - translation_iso: deu
     name: Martu Wangka
   - translation_iso: fra
     name: martu wangka
   - translation_iso: hin
     name: मार्तु वांगका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Martu Wangka
     auto: true
   - translation_iso: jpn
     name: マルトゥ・ワンカ語

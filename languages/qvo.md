@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا نابو المنخفضة
     auto: true
+  - translation_iso: ben
+    name: নাপো লোওয়লানদ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Napo-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua de Napo
   - translation_iso: hin
     name: नापो तराई क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Napo Lowland Quechua
     auto: true
   - translation_iso: jpn
     name: ナポ低地ケチュア語

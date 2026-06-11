@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: أوني
     auto: true
+  - translation_iso: ben
+    name: উনি
+    auto: true
   - translation_iso: deu
     name: Uni
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uni
     auto: true
   - translation_iso: jpn
     name: ラモ語

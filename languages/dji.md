@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دجيناند
     auto: true
+  - translation_iso: ben
+    name: দজিনাং
+    auto: true
   - translation_iso: deu
     name: Djinang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djinang
   - translation_iso: hin
     name: जिनांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djinang
     auto: true
   - translation_iso: jpn
     name: ジイナング語

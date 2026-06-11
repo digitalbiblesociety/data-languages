@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك الجبلي
     auto: true
+  - translation_iso: ben
+    name: হিঘলানদ তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Highland Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque de la sierra
   - translation_iso: hin
     name: हाइलैंड टोटोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Highland Totonac
     auto: true
   - translation_iso: jpn
     name: ハイランド・トトナック語

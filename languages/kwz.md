@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كوادي
     auto: true
+  - translation_iso: ben
+    name: কওয়াদি
+    auto: true
   - translation_iso: deu
     name: Kwadi
   - translation_iso: fra
     name: kwadi
   - translation_iso: hin
     name: क्वाडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwadi
     auto: true
   - translation_iso: jpn
     name: クワディ語

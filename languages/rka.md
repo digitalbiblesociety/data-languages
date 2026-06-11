@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كراول
     auto: true
+  - translation_iso: ben
+    name: করাওল
+    auto: true
   - translation_iso: deu
     name: Kraol
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kraol
   - translation_iso: hin
     name: क्राओल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kraol
     auto: true
   - translation_iso: jpn
     name: クラオル語

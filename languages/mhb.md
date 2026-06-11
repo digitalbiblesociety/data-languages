@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماهونجوي
     auto: true
+  - translation_iso: ben
+    name: মাহোংওয়ে
+    auto: true
   - translation_iso: deu
     name: Mahongwe
   - translation_iso: fra
     name: mahongwé
   - translation_iso: hin
     name: माहोंग्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mahongwe
     auto: true
   - translation_iso: jpn
     name: マホングウェ語

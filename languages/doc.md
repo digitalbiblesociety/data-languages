@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نورثرن دونج
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন দোং
+    auto: true
   - translation_iso: deu
     name: Nord-Dong
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kam du Nord
   - translation_iso: hin
     name: उत्तरी डोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Dong
     auto: true
   - translation_iso: jpn
     name: 北ドン語

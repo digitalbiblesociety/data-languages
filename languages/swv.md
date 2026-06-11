@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: شيخاواتي
     auto: true
+  - translation_iso: ben
+    name: শেখাওয়াতি
+    auto: true
   - translation_iso: deu
     name: Shekhawati
     auto: true
@@ -31,6 +34,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शेखावाटी भाषा
+  - translation_iso: ind
+    name: Bahasa Shekhawati
+    auto: true
   - translation_iso: jpn
     name: シェカワティ語
   - translation_iso: kor

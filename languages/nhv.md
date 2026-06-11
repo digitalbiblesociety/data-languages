@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيماسكالتيبيك ناهواتل
     auto: true
+  - translation_iso: ben
+    name: তেমাসকালতেপেক নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Temascaltepec-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl du Temascaltepec
   - translation_iso: hin
     name: तेमास्कालतेपेक नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Temascaltepec Nahuatl
     auto: true
   - translation_iso: jpn
     name: テマスカルテペク・ナワトル語

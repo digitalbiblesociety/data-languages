@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولوما
     auto: true
+  - translation_iso: ben
+    name: ওলোমা
+    auto: true
   - translation_iso: deu
     name: Oloma
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओलोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oloma
     auto: true
   - translation_iso: jpn
     name: オロマ語

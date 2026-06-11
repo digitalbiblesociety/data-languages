@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة مورو
     auto: true
+  - translation_iso: ben
+    name: মোরো
+    auto: true
   - translation_iso: deu
     name: Moro
   - translation_iso: fra
     name: moro
   - translation_iso: hin
     name: मोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moro
     auto: true
   - translation_iso: jpn
     name: モロ語

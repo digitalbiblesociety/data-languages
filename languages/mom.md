@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة مانجوي
     auto: true
+  - translation_iso: ben
+    name: মাঙুএ
+    auto: true
   - translation_iso: deu
     name: Chorotega
   - translation_iso: fra
     name: chorotega
   - translation_iso: hin
     name: मांगुए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangue
     auto: true
   - translation_iso: jpn
     name: マングエ語

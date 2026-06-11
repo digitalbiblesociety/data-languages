@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولرات
     auto: true
+  - translation_iso: ben
+    name: ওলরাত
+    auto: true
   - translation_iso: deu
     name: Olrat
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: olrat
   - translation_iso: hin
     name: ओलरात भाषा
+  - translation_iso: ind
+    name: Bahasa Olrat
+    auto: true
   - translation_iso: jpn
     name: オルラット語
     auto: true

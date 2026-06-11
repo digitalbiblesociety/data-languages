@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: داونجوروند
     auto: true
+  - translation_iso: ben
+    name: দাউংওয়ুর্রুং
+    auto: true
   - translation_iso: deu
     name: Daungwurrung
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दौंगवुर्रुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daungwurrung
     auto: true
   - translation_iso: jpn
     name: ダウングワルング語

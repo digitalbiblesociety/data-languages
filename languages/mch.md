@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكويريتاري
     auto: true
+  - translation_iso: ben
+    name: মাকুইরিতারি
+    auto: true
   - translation_iso: deu
     name: Maquiritari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maquiritari
   - translation_iso: hin
     name: माकिरितारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maquiritari
     auto: true
   - translation_iso: jpn
     name: マキリタリ語

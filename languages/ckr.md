@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكايراك
     auto: true
+  - translation_iso: ben
+    name: কাইরাক
+    auto: true
   - translation_iso: deu
     name: Kairak
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कैराक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kairak
     auto: true
   - translation_iso: jpn
     name: カイラック語

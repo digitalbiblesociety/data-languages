@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tajiki_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة بخارية
+  - translation_iso: ben
+    name: তাজিকি আরাবিক
+    auto: true
   - translation_iso: deu
     name: tadschikisches Arabisch
   - translation_iso: fra
     name: arabe du Tadjikistan
   - translation_iso: hin
     name: ताजिकी अरबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tajiki Arabic
     auto: true
   - translation_iso: jpn
     name: タジキアラビア語

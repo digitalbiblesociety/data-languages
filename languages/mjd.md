@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مايدو الشمالية الغربية
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসত মাইদু
+    auto: true
   - translation_iso: deu
     name: Konkow
   - translation_iso: fra
     name: konkow
   - translation_iso: hin
     name: उत्तर-पश्चिमी माइदू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwest Maidu
     auto: true
   - translation_iso: jpn
     name: ノースウェスト・マイドゥ語

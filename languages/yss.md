@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يسان-مايو
     auto: true
+  - translation_iso: ben
+    name: য়েস্সান-মায়ো
+    auto: true
   - translation_iso: deu
     name: Yessan-Mayo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yessan-mayo
   - translation_iso: hin
     name: येसन-मायो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yessan-Mayo
     auto: true
   - translation_iso: jpn
     name: イェッサン-マヨ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيليسو
     auto: true
+  - translation_iso: ben
+    name: চিলিস্সো
+    auto: true
   - translation_iso: deu
     name: Chilisso
     auto: true

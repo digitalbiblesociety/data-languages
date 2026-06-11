@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاوونويا
     auto: true
+  - translation_iso: ben
+    name: লাওয়ুনুইয়া
+    auto: true
   - translation_iso: deu
     name: Lawunuia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lawunuia
   - translation_iso: hin
     name: लावुनुइया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lawunuia
     auto: true
   - translation_iso: jpn
     name: ラウヌイア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوجهوم
     auto: true
+  - translation_iso: ben
+    name: বোঘোম
+    auto: true
   - translation_iso: deu
     name: Boghom
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बोघोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boghom
     auto: true
   - translation_iso: jpn
     name: ボグホム語

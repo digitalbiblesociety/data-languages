@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيراتابويو
     auto: true
+  - translation_iso: ben
+    name: পিরাতাপুয়ো
+    auto: true
   - translation_iso: deu
     name: Piratapuyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piratapuya
   - translation_iso: hin
     name: पिरातापुयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piratapuyo
     auto: true
   - translation_iso: jpn
     name: ピラタプーヨ語

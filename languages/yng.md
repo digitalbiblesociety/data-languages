@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانغو
     auto: true
+  - translation_iso: ben
+    name: য়াঙো
+    auto: true
   - translation_iso: deu
     name: Yango
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: yango
   - translation_iso: hin
     name: यांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yango
     auto: true
   - translation_iso: jpn
     name: ヤンゴ語

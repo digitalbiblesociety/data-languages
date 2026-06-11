@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيري
     auto: true
+  - translation_iso: ben
+    name: সিরি
+    auto: true
   - translation_iso: deu
     name: Siri
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siri
     auto: true
   - translation_iso: jpn
     name: シラワ語

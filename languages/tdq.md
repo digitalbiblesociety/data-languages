@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيتا
     auto: true
+  - translation_iso: ben
+    name: তিতা
+    auto: true
   - translation_iso: deu
     name: Tita
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तिता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tita
     auto: true
   - translation_iso: jpn
     name: ティタ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: روريا
     auto: true
+  - translation_iso: ben
+    name: রোরিয়া
+    auto: true
   - translation_iso: deu
     name: Roria
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: roria
   - translation_iso: hin
     name: रोरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Roria
     auto: true
   - translation_iso: jpn
     name: ロリア語

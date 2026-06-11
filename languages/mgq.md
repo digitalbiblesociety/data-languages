@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماليلا
     auto: true
+  - translation_iso: ben
+    name: মালিলা
+    auto: true
   - translation_iso: deu
     name: Malila
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मालिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malila
     auto: true
   - translation_iso: jpn
     name: マリラ語

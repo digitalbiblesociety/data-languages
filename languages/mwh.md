@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موك-أريا
     auto: true
+  - translation_iso: ben
+    name: মোউক-আরিয়া
+    auto: true
   - translation_iso: deu
     name: Mouk-Aria
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mouk-aria
   - translation_iso: hin
     name: मौक-अरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mouk-Aria
     auto: true
   - translation_iso: jpn
     name: モク・アリア語

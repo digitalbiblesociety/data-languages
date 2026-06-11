@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تابويان
     auto: true
+  - translation_iso: ben
+    name: তাওয়োয়ান
+    auto: true
   - translation_iso: deu
     name: Tawoyan
     auto: true

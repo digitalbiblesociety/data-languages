@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نانده
     auto: true
+  - translation_iso: ben
+    name: নানদে
+    auto: true
   - translation_iso: deu
     name: Nande
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kinande
   - translation_iso: hin
     name: नान्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nande
     auto: true
   - translation_iso: jpn
     name: ナンデ語

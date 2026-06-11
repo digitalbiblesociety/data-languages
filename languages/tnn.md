@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شمال تانا
     auto: true
+  - translation_iso: ben
+    name: নোরথ তান্না
+    auto: true
   - translation_iso: deu
     name: Nord-Tanna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tanna du Nord
   - translation_iso: hin
     name: उत्तरी तन्ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Tanna
     auto: true
   - translation_iso: jpn
     name: 北タンナ語

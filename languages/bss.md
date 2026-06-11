@@ -20,6 +20,9 @@ wikidata_id: Q34806
 translations:
   - translation_iso: ara
     name: أكوس
+  - translation_iso: ben
+    name: আকোসে
+    auto: true
   - translation_iso: deu
     name: Akoose
   - translation_iso: fra

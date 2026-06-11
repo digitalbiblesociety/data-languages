@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيرا
     auto: true
+  - translation_iso: ben
+    name: তেরা
+    auto: true
   - translation_iso: deu
     name: Tera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tera
   - translation_iso: hin
     name: तेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tera
     auto: true
   - translation_iso: jpn
     name: ニミャルティ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: باسا-جورْمانا
     auto: true
+  - translation_iso: ben
+    name: বাসা-গুরমানা
+    auto: true
   - translation_iso: deu
     name: Basa-Gurmana
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बासा-गुरमाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Basa-Gurmana
     auto: true
   - translation_iso: jpn
     name: バサ・グルマナ語

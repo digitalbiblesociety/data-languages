@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيجيما
     auto: true
+  - translation_iso: ben
+    name: বানয়জিমা
+    auto: true
   - translation_iso: deu
     name: Banyjima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: panytyima
   - translation_iso: hin
     name: बान्यजिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Banyjima
     auto: true
   - translation_iso: jpn
     name: バンジマ語

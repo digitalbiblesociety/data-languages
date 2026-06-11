@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآوآر-بآتي
     auto: true
+  - translation_iso: ben
+    name: গাওয়ার-বাতি
+    auto: true
   - translation_iso: deu
     name: Gawar-Bati
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gawar-bati
   - translation_iso: hin
     name: ग्वार-बती भाषा
+  - translation_iso: ind
+    name: Bahasa Gawar-Bati
+    auto: true
   - translation_iso: jpn
     name: ガワール・バティ語
   - translation_iso: kor

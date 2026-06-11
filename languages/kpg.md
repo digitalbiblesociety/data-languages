@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة كابينجاماراني
     auto: true
+  - translation_iso: ben
+    name: কাপিঙামারাঙি
+    auto: true
   - translation_iso: deu
     name: Kapingamarangisch
   - translation_iso: fra
     name: kapingamarangi
   - translation_iso: hin
     name: कापिंगामारांगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kapingamarangi
     auto: true
   - translation_iso: jpn
     name: カピンガマランギ語

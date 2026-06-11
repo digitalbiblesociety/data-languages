@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سنكاران مانينكا
     auto: true
+  - translation_iso: ben
+    name: সানকারান মানিনকা
+    auto: true
   - translation_iso: deu
     name: Sankaran-Maninka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maninka sankaran
   - translation_iso: hin
     name: संकरन मानिन्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sankaran Maninka
     auto: true
   - translation_iso: jpn
     name: サンカラン・マニンカ語

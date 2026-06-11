@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كونيي
     auto: true
+  - translation_iso: ben
+    name: কুনয়ি
+    auto: true
   - translation_iso: deu
     name: Kunyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kikugni
   - translation_iso: hin
     name: कुन्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunyi
     auto: true
   - translation_iso: jpn
     name: クンイ語

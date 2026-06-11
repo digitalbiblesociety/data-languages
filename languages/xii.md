@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: خيري
     auto: true
+  - translation_iso: ben
+    name: কসিরি
+    auto: true
   - translation_iso: deu
     name: Xiri
   - translation_iso: fra
     name: xiri
   - translation_iso: hin
     name: ख़िरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xiri
     auto: true
   - translation_iso: jpn
     name: シリ語

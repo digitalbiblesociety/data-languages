@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: निस्गा
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Nisga'a"
+    auto: true
   - translation_iso: jpn
     name: ニスガ語
     auto: true

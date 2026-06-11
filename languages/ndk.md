@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندكا
     auto: true
+  - translation_iso: ben
+    name: নদাকা
+    auto: true
   - translation_iso: deu
     name: Ndaka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Ndaka
   - translation_iso: hin
     name: न्दाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndaka
     auto: true
   - translation_iso: jpn
     name: ンダカ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآفيãو دو جيبآرآنá
     auto: true
+  - translation_iso: ben
+    name: গাভিয়াও দো জিপারানা
+    auto: true
   - translation_iso: deu
     name: Gavião do Jiparaná
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gavião de Jiparaná
   - translation_iso: hin
     name: गाव्यांव डो जिपराना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gavião Do Jiparaná
     auto: true
   - translation_iso: jpn
     name: ガヴィアン・ド・ジパラナ語

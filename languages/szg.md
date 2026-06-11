@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينجيلي
     auto: true
+  - translation_iso: ben
+    name: সেঙেলে
+    auto: true
   - translation_iso: deu
     name: Sengele
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sengele
   - translation_iso: hin
     name: सेंगेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sengele
     auto: true
   - translation_iso: jpn
     name: センゲレ語

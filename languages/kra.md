@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कुमहाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kumhali
+    auto: true
   - translation_iso: jpn
     name: クムハリ語
     auto: true

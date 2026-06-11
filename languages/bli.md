@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوليا
     auto: true
+  - translation_iso: ben
+    name: বোলিয়া
+    auto: true
   - translation_iso: deu
     name: Bolia
   - translation_iso: fra
     name: bolia
   - translation_iso: hin
     name: बोलिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolia
     auto: true
   - translation_iso: jpn
     name: ボリア語

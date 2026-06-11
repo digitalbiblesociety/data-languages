@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيتاويت
     auto: true
+  - translation_iso: ben
+    name: ইতাওয়িত
+    auto: true
   - translation_iso: deu
     name: Itawit
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: itawit
   - translation_iso: hin
     name: इतावित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Itawit
     auto: true
   - translation_iso: jpn
     name: イタウィット語

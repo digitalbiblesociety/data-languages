@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاريتيانا
     auto: true
+  - translation_iso: ben
+    name: কারিতিয়ানা
+    auto: true
   - translation_iso: deu
     name: Karitiâna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karitiana
   - translation_iso: hin
     name: करितियाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karitiâna
     auto: true
   - translation_iso: jpn
     name: カリティアナ語

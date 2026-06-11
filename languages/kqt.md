@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كادازان كليس ريفير
     auto: true
+  - translation_iso: ben
+    name: কলিয়াস রিভের কাদাজান
+    auto: true
   - translation_iso: deu
     name: Klias River Kadazan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: क्लियास रिवर कादाज़ान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Klias River Kadazan
     auto: true
   - translation_iso: jpn
     name: クリアス・リバー・カダザン語

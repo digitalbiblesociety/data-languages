@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوبري
     auto: true
+  - translation_iso: ben
+    name: নুবরি
+    auto: true
   - translation_iso: deu
     name: Nubri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nupri
   - translation_iso: hin
     name: नुबरी भाषा
+  - translation_iso: ind
+    name: Bahasa Nubri
+    auto: true
   - translation_iso: jpn
     name: ヌブリ語
     auto: true

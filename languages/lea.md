@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يجا-هابوندا
     auto: true
+  - translation_iso: ben
+    name: লেগা-শাবুনদা
+    auto: true
   - translation_iso: deu
     name: Lega-Shabunda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lega de Shabunda
   - translation_iso: hin
     name: लेगा-शाबुंदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lega-Shabunda
     auto: true
   - translation_iso: jpn
     name: レガ・シャブンダ語

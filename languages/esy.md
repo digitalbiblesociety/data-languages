@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإسكايان
     auto: true
+  - translation_iso: ben
+    name: এসকায়ান
+    auto: true
   - translation_iso: deu
     name: Eskayan
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: eskayen
   - translation_iso: hin
     name: एस्कायन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eskayan
     auto: true
   - translation_iso: jpn
     name: エスカヤ語

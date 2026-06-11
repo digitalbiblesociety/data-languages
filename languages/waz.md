@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وامبور
     auto: true
+  - translation_iso: ben
+    name: ওয়ামপুর
+    auto: true
   - translation_iso: deu
     name: Wampur
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वम्पुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wampur
     auto: true
   - translation_iso: jpn
     name: ワンプル語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maay_Maay"
 translations:
   - translation_iso: ara
     name: ماي-ماي
+  - translation_iso: ben
+    name: মায়
+    auto: true
   - translation_iso: deu
     name: Maay
   - translation_iso: fra
     name: maay
   - translation_iso: hin
     name: माय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maay
     auto: true
   - translation_iso: jpn
     name: マーイ方言

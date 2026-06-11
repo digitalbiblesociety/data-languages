@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سوميييف
     auto: true
+  - translation_iso: ben
+    name: সোময়েভ
+    auto: true
   - translation_iso: deu
     name: Somyev
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: somyev
   - translation_iso: hin
     name: सोम्येव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Somyev
     auto: true
   - translation_iso: jpn
     name: ソミエフ語

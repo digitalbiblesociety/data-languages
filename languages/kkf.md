@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاكتانج مونبا
     auto: true
+  - translation_iso: ben
+    name: কালাকতাং মোনপা
+    auto: true
   - translation_iso: deu
     name: Kalaktang Monpa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: monpa de Kalaktang
   - translation_iso: hin
     name: कलकतांग मोनपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalaktang Monpa
     auto: true
   - translation_iso: jpn
     name: カラクタン・モンパ語

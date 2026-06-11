@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ نجوا
     auto: true
+  - translation_iso: ben
+    name: হমোং নজুয়া
+    auto: true
   - translation_iso: deu
     name: Hmong Njua
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: hmong njua
   - translation_iso: hin
     name: हमोंग नजुआ
+  - translation_iso: ind
+    name: Bahasa Hmong Njua
+    auto: true
   - translation_iso: jpn
     name: 緑苗語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيتسيميسارaka الشمالية ملاجاشي
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন বেতসিমিসারাকা মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Northern Betsimisaraka Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malgache betsimisaraka du Nord
   - translation_iso: hin
     name: उत्तरी बेत्सिमिसारका मलागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Betsimisaraka Malagasy
     auto: true
   - translation_iso: jpn
     name: 北ベツィミサラカ・マダガスカル語

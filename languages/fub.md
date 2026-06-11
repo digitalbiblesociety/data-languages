@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अदामावा फुलफुल्दे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adamawa Fulfulde
+    auto: true
   - translation_iso: jpn
     name: アダマワ・フルフルディ語
   - translation_iso: kor

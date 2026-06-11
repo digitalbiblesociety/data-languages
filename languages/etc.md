@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإتشيمين
     auto: true
+  - translation_iso: ben
+    name: এতচেমিন
+    auto: true
   - translation_iso: deu
     name: Etchemin
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: etchemin
   - translation_iso: hin
     name: एचेमिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Etchemin
     auto: true
   - translation_iso: jpn
     name: エッチェミン語

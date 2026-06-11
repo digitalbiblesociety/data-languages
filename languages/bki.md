@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baki
+    auto: true
   - translation_iso: jpn
     name: バキ語
     auto: true

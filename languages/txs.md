@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تونسيا
     auto: true
+  - translation_iso: ben
+    name: তোনসেয়া
+    auto: true
   - translation_iso: deu
     name: Tonsea
   - translation_iso: fra

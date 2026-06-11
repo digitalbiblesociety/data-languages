@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاراجاري
     auto: true
+  - translation_iso: ben
+    name: কারাজার্রি
+    auto: true
   - translation_iso: deu
     name: Karajarri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karadjeri
   - translation_iso: hin
     name: कराजर्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karajarri
     auto: true
   - translation_iso: jpn
     name: カラジャリ語

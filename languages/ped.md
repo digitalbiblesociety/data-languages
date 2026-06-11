@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالا
     auto: true
+  - translation_iso: ben
+    name: মালা
+    auto: true
   - translation_iso: deu
     name: Mala (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mala
   - translation_iso: hin
     name: माला (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mala
     auto: true
   - translation_iso: jpn
     name: マラ語（パプアニューギニア）

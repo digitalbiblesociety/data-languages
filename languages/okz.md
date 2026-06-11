@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة الخمير القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ খমের
+    auto: true
   - translation_iso: deu
     name: Alt-Khmer
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: vieux khmer
   - translation_iso: hin
     name: प्राचीन ख्मेर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Khmer
     auto: true
   - translation_iso: jpn
     name: 古クメール語

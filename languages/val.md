@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فيهس
     auto: true
+  - translation_iso: ben
+    name: ভেহেস
+    auto: true
   - translation_iso: deu
     name: Vehes
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vehes
   - translation_iso: hin
     name: वेहेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vehes
     auto: true
   - translation_iso: jpn
     name: ブアシ語

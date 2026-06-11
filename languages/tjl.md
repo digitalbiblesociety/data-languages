@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاي لاينغ
     auto: true
+  - translation_iso: ben
+    name: তাই লাইং
+    auto: true
   - translation_iso: deu
     name: Tai Laing
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tai laing
   - translation_iso: hin
     name: ताई लाइंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Laing
     auto: true
   - translation_iso: jpn
     name: タイ・ライン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تمتم
     auto: true
+  - translation_iso: ben
+    name: তুমতুম
+    auto: true
   - translation_iso: deu
     name: Tumtum
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tumtum
   - translation_iso: hin
     name: तुमतुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tumtum
     auto: true
   - translation_iso: jpn
     name: トゥムトゥム語

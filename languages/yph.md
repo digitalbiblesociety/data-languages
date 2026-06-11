@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوفا
     auto: true
+  - translation_iso: ben
+    name: ফুফা
+    auto: true
   - translation_iso: deu
     name: Phupha
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: phupha
   - translation_iso: hin
     name: फूफा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phupha
     auto: true
   - translation_iso: jpn
     name: フーファ語

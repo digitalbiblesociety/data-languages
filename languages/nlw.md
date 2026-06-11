@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: والانغاما
     auto: true
+  - translation_iso: ben
+    name: ওয়ালাঙামা
+    auto: true
   - translation_iso: deu
     name: Walangama
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वालंगामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Walangama
     auto: true
   - translation_iso: jpn
     name: ワランガマ語

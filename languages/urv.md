@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: أورواوا
     auto: true
+  - translation_iso: ben
+    name: উরুয়াভা
+    auto: true
   - translation_iso: deu
     name: Uruava
   - translation_iso: fra
     name: uruava
   - translation_iso: hin
     name: उरुआवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uruava
     auto: true
   - translation_iso: jpn
     name: ウルアヴァ語

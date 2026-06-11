@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाराई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barai
+    auto: true
   - translation_iso: jpn
     name: バライ語
     auto: true

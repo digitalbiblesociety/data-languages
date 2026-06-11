@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فينتوريينو
     auto: true
+  - translation_iso: ben
+    name: ভেনতুরেনয়ো
+    auto: true
   - translation_iso: deu
     name: Ventureño
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chumash ventureño
   - translation_iso: hin
     name: वेन्तुरेन्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ventureño
     auto: true
   - translation_iso: jpn
     name: ミツカナカン語

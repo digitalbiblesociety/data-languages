@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: روجو
     auto: true
+  - translation_iso: ben
+    name: রোগো
+    auto: true
   - translation_iso: deu
     name: Rogo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रोगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rogo
     auto: true
   - translation_iso: jpn
     name: ロゴ語

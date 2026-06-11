@@ -30,6 +30,9 @@ translations:
     name: bhatri
   - translation_iso: hin
     name: भातरी भाषा
+  - translation_iso: ind
+    name: Bahasa Bhatri
+    auto: true
   - translation_iso: jpn
     name: バトリ語
     auto: true

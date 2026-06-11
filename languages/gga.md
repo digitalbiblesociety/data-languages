@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غآو
     auto: true
+  - translation_iso: ben
+    name: গাও
+    auto: true
   - translation_iso: deu
     name: Gao
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gao
   - translation_iso: hin
     name: गाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gao
     auto: true
   - translation_iso: jpn
     name: ガオ語

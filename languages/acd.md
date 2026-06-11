@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة جيكيود
     auto: true
+  - translation_iso: ben
+    name: গিকয়োদে
+    auto: true
   - translation_iso: deu
     name: Gikyode
   - translation_iso: fra
     name: gikyode
   - translation_iso: hin
     name: गिक्योदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gikyode
     auto: true
   - translation_iso: jpn
     name: ギチョーデ語

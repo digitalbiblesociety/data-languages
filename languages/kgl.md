@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كونغاري
     auto: true
+  - translation_iso: ben
+    name: কুংগারি
+    auto: true
   - translation_iso: deu
     name: Kunggari
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kunggari
   - translation_iso: hin
     name: कुंगगारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunggari
     auto: true
   - translation_iso: jpn
     name: クングガリ語

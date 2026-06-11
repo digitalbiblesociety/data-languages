@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنكسيت
     auto: true
+  - translation_iso: ben
+    name: এনকসেত
+    auto: true
   - translation_iso: deu
     name: Enxet
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: enxet
   - translation_iso: hin
     name: एनशेट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enxet
     auto: true
   - translation_iso: jpn
     name: エンシェット語

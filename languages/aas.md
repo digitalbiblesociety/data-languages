@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة آسّاع
     auto: true
+  - translation_iso: ben
+    name: আসাকস
+    auto: true
   - translation_iso: deu
     name: Aasáx
   - translation_iso: fra
     name: aasá
   - translation_iso: hin
     name: आसाक्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Aasáx
     auto: true
   - translation_iso: jpn
     name: アアサックス語

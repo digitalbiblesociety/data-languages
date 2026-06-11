@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي
     auto: true
+  - translation_iso: ben
+    name: পিতি
+    auto: true
   - translation_iso: deu
     name: Piti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piti
   - translation_iso: hin
     name: पिटी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piti
     auto: true
   - translation_iso: jpn
     name: ピティ語

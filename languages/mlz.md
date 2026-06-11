@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مالايانون
     auto: true
+  - translation_iso: ben
+    name: মালায়নোন
+    auto: true
   - translation_iso: deu
     name: Malaynon
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: malaynon
   - translation_iso: hin
     name: मालायनोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malaynon
     auto: true
   - translation_iso: jpn
     name: マライノン語

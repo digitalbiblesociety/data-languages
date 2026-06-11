@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نينجوني
     auto: true
+  - translation_iso: ben
+    name: নেঙোনে
+    auto: true
   - translation_iso: deu
     name: Nengone
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nengone
   - translation_iso: hin
     name: नेंगोने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nengone
     auto: true
   - translation_iso: jpn
     name: ネンゴネ語

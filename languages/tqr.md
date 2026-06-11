@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تورونا
     auto: true
+  - translation_iso: ben
+    name: তোরোনা
+    auto: true
   - translation_iso: deu
     name: Torona
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तोरोना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Torona
     auto: true
   - translation_iso: jpn
     name: トロナ語

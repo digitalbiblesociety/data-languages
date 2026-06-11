@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: باموسو
     auto: true
+  - translation_iso: ben
+    name: পামোসু
+    auto: true
   - translation_iso: deu
     name: Pamosu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पामोसु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pamosu
     auto: true
   - translation_iso: jpn
     name: パモス語

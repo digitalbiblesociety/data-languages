@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجورا
     auto: true
+  - translation_iso: ben
+    name: সোঙোরা
+    auto: true
   - translation_iso: deu
     name: Songoora
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोंगूरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Songoora
     auto: true
   - translation_iso: jpn
     name: Songoora語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غآووآدآ
     auto: true
+  - translation_iso: ben
+    name: গাওয়্ওয়াদা
+    auto: true
   - translation_iso: deu
     name: Gawwada
   - translation_iso: fra
     name: gollango
   - translation_iso: hin
     name: गव्वादा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gawwada
     auto: true
   - translation_iso: jpn
     name: Dullay諸語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غيمنيمإ
     auto: true
+  - translation_iso: ben
+    name: গিমনিমে
+    auto: true
   - translation_iso: deu
     name: Gimnime
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gimnime
   - translation_iso: hin
     name: गिम्निमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gimnime
     auto: true
   - translation_iso: jpn
     name: ギムニメ語

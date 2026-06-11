@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة لوسي
     auto: true
+  - translation_iso: ben
+    name: লুসি
+    auto: true
   - translation_iso: deu
     name: Lusi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lusi
   - translation_iso: hin
     name: लुसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lusi
     auto: true
   - translation_iso: jpn
     name: ルシ語

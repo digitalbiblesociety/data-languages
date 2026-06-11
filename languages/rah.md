@@ -29,6 +29,9 @@ translations:
     name: rabha
   - translation_iso: hin
     name: रभा भाषा
+  - translation_iso: ind
+    name: Bahasa Rabha
+    auto: true
   - translation_iso: jpn
     name: ラバ語
   - translation_iso: kor

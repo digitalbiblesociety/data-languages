@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ارا
     auto: true
+  - translation_iso: ben
+    name: কারা
+    auto: true
   - translation_iso: deu
     name: Kara
   - translation_iso: fra
     name: kara
   - translation_iso: hin
     name: कारा (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kara
     auto: true
   - translation_iso: jpn
     name: カラ語

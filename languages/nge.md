@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجيمبا
     auto: true
+  - translation_iso: ben
+    name: ঙেমবা
+    auto: true
   - translation_iso: deu
     name: Ngemba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngemba
   - translation_iso: hin
     name: न्गेम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngemba
     auto: true
   - translation_iso: jpn
     name: マンコン語

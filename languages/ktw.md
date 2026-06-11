@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كاتو
     auto: true
+  - translation_iso: ben
+    name: কাতো
+    auto: true
   - translation_iso: deu
     name: Kato
   - translation_iso: fra
     name: cahto
   - translation_iso: hin
     name: काटो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kato
     auto: true
   - translation_iso: jpn
     name: カト語

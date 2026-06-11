@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: لغة كول
     auto: true
+  - translation_iso: ben
+    name: কোল
+    auto: true
   - translation_iso: deu
     name: Kol
   - translation_iso: fra
     name: kol
   - translation_iso: hin
     name: कोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kol
     auto: true
   - translation_iso: jpn
     name: コル語

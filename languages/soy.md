@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة مييوبي
     auto: true
+  - translation_iso: ben
+    name: মিয়োবে
+    auto: true
   - translation_iso: deu
     name: Miyobe
   - translation_iso: fra
     name: miyobé
   - translation_iso: hin
     name: मियोबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miyobe
     auto: true
   - translation_iso: jpn
     name: ソルバ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كولانغو بونا
     auto: true
+  - translation_iso: ben
+    name: বোউনা কুলাঙো
+    auto: true
   - translation_iso: deu
     name: Bouna-Kulango
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koulango de Bouna
   - translation_iso: hin
     name: बौना कुलांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bouna Kulango
     auto: true
   - translation_iso: jpn
     name: ボウナ・クラング語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سامبال
     auto: true
+  - translation_iso: ben
+    name: সামবাল
+    auto: true
   - translation_iso: deu
     name: Sambal
     auto: true

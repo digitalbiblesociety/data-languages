@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوامي
     auto: true
+  - translation_iso: ben
+    name: কওয়ামা
+    auto: true
   - translation_iso: deu
     name: Kwama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwama
   - translation_iso: hin
     name: क्वामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwama
     auto: true
   - translation_iso: jpn
     name: クワマ語

@@ -30,6 +30,9 @@ translations:
     name: pengo
   - translation_iso: hin
     name: पेंगो भाषा
+  - translation_iso: ind
+    name: Bahasa Pengo
+    auto: true
   - translation_iso: jpn
     name: ペンゴ語
   - translation_iso: kor

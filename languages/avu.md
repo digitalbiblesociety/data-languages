@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अवोकाया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Avokaya
+    auto: true
   - translation_iso: jpn
     name: アヴォカヤ語
     auto: true

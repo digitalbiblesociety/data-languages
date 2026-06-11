@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكولو
     auto: true
+  - translation_iso: ben
+    name: ওরোকোলো
+    auto: true
   - translation_iso: deu
     name: Orokolo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओरोकोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Orokolo
     auto: true
   - translation_iso: jpn
     name: オロコロ語

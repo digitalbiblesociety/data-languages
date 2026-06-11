@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موندي
     auto: true
+  - translation_iso: ben
+    name: মোনদে
+    auto: true
   - translation_iso: deu
     name: Mondé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mondé
   - translation_iso: hin
     name: मोंदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mondé
     auto: true
   - translation_iso: jpn
     name: モンデ語

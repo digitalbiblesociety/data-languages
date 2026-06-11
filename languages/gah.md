@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अलेकानो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alekano
+    auto: true
   - translation_iso: jpn
     name: ガフク・アサロ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجارايي
     auto: true
+  - translation_iso: ben
+    name: মাঙার্রায়ি
+    auto: true
   - translation_iso: deu
     name: Mangarrayi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mangarayi
   - translation_iso: hin
     name: मंगारायी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangarrayi
     auto: true
   - translation_iso: jpn
     name: マンガライ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بانتشبرغانيا
     auto: true
+  - translation_iso: ben
+    name: পানচপারগানিয়া
+    auto: true
   - translation_iso: deu
     name: Panchpargania
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: panchpargania
   - translation_iso: hin
     name: पंचपरगनिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Panchpargania
     auto: true
   - translation_iso: jpn
     name: パンチパルガニア語

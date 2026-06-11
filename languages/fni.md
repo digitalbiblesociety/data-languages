@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفانيا
     auto: true
+  - translation_iso: ben
+    name: ফানিয়া
+    auto: true
   - translation_iso: deu
     name: Fania
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fania
   - translation_iso: hin
     name: फानिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fania
     auto: true
   - translation_iso: jpn
     name: ファニア語

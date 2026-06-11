@@ -22,12 +22,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gheg_Albanian"
 translations:
   - translation_iso: ara
     name: ألبانية غيغية
+  - translation_iso: ben
+    name: ঘেগ আলবানিয়ান
+    auto: true
   - translation_iso: deu
     name: Gegisch
   - translation_iso: fra
     name: guègue
   - translation_iso: hin
     name: गेग अल्बानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gheg Albanian
     auto: true
   - translation_iso: jpn
     name: ゲグ方言

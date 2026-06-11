@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ماردين ساين لانجويج
     auto: true
+  - translation_iso: ben
+    name: মারদিন সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Mardin-Gebärdensprache
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: langue des signes de Mardin
   - translation_iso: hin
     name: मार्डिन सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Mardin Sign Language
+    auto: true
   - translation_iso: jpn
     name: マルディン手話
   - translation_iso: kor

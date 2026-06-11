@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واجيجيني
     auto: true
+  - translation_iso: ben
+    name: ওয়াদজিগিনয়
+    auto: true
   - translation_iso: deu
     name: Wadjiginy
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: wadjiginy
   - translation_iso: hin
     name: वजिगिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wadjiginy
     auto: true
   - translation_iso: jpn
     name: ワジギニ語

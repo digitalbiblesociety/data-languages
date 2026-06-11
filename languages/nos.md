@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيسو الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন নিসু
+    auto: true
   - translation_iso: deu
     name: Östliches Nisu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी निसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Nisu
     auto: true
   - translation_iso: jpn
     name: 東ニス語

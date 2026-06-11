@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बागुपी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bagupi
+    auto: true
   - translation_iso: jpn
     name: バグピ語
     auto: true

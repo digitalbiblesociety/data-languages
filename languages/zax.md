@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك زادني
     auto: true
+  - translation_iso: ben
+    name: কসাদানি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Xadani)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Xadani
   - translation_iso: hin
     name: ज़ादानी सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xadani Zapotec
     auto: true
   - translation_iso: jpn
     name: サダニ・サポテク語

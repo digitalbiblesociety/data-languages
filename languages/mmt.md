@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مالالامي
     auto: true
+  - translation_iso: ben
+    name: মালালামাই
+    auto: true
   - translation_iso: deu
     name: Malalamai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: malalamai
   - translation_iso: hin
     name: मालालामाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malalamai
     auto: true
   - translation_iso: jpn
     name: マララマイ語

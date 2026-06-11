@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوندي
     auto: true
+  - translation_iso: ben
+    name: সুনদি
+    auto: true
   - translation_iso: deu
     name: Suundi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sundi
   - translation_iso: hin
     name: सुउंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suundi
     auto: true
   - translation_iso: jpn
     name: キスウンディ語

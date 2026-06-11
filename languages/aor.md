@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आओरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aore
+    auto: true
   - translation_iso: jpn
     name: アオレ語
     auto: true

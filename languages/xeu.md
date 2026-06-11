@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيورو-أهيا
     auto: true
+  - translation_iso: ben
+    name: কেওরু-আহিয়া
+    auto: true
   - translation_iso: deu
     name: Keoru-Ahia
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: केओरू-अहिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keoru-Ahia
     auto: true
   - translation_iso: jpn
     name: ケオル・アヒア語

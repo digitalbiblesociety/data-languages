@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك كوايتسوسبان
     auto: true
+  - translation_iso: ben
+    name: কোয়াতজোসপান মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Coatzospan Mixtec
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque de Coatzospan
   - translation_iso: hin
     name: कोआत्सोस्पान मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coatzospan Mixtec
     auto: true
   - translation_iso: jpn
     name: コアツォスパン・ミステク語

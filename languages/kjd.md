@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيواي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কিওয়াই
+    auto: true
   - translation_iso: deu
     name: Süd-Kiwai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kiwai du Sud
   - translation_iso: hin
     name: दक्षिणी किवाई
+  - translation_iso: ind
+    name: Bahasa Southern Kiwai
+    auto: true
   - translation_iso: jpn
     name: サザン・キワイ語
     auto: true

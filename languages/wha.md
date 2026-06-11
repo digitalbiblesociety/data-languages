@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوو وپاا
     auto: true
+  - translation_iso: ben
+    name: সোউ উপা
+    auto: true
   - translation_iso: deu
     name: Sou Upaa
     auto: true

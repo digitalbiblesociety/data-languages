@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لامجا-دينجسا-تولا
     auto: true
+  - translation_iso: ben
+    name: লামজা-দেংসা-তোলা
+    auto: true
   - translation_iso: deu
     name: Lamja-Dengsa-Tola
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lamja-dengsa-tola
   - translation_iso: hin
     name: लामजा-डेंगसा-तोला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamja-Dengsa-Tola
     auto: true
   - translation_iso: jpn
     name: ラムジャ・デンサ・トラ語

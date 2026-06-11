@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيبانغ
     auto: true
+  - translation_iso: ben
+    name: ইবানাগ
+    auto: true
   - translation_iso: deu
     name: Ibanag
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومي
     auto: true
+  - translation_iso: ben
+    name: ওমি
+    auto: true
   - translation_iso: deu
     name: Omi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: omi
   - translation_iso: hin
     name: ओमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Omi
     auto: true
   - translation_iso: jpn
     name: オミ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآيسلآ
     auto: true
+  - translation_iso: ben
+    name: হাইসলা
+    auto: true
   - translation_iso: deu
     name: Haisla
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: haisla
   - translation_iso: hin
     name: हाइस्ला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haisla
     auto: true
   - translation_iso: jpn
     name: ハイスラ語

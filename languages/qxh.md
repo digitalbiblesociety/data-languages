@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بانائو هوانوكو
     auto: true
+  - translation_iso: ben
+    name: পানাও হুয়ানুকো কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Panao-Huánuco-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua de Panao Huánuco
   - translation_iso: hin
     name: पानाओ वानूको क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Panao Huánuco Quechua
     auto: true
   - translation_iso: jpn
     name: パナオワヌコケチュア語

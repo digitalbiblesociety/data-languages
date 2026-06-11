@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيسترن سوبانين
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন সুবানেন
+    auto: true
   - translation_iso: deu
     name: Ost-Subanen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "subanen de l'Est"
   - translation_iso: hin
     name: पूर्वी सुबानेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Subanen
     auto: true
   - translation_iso: jpn
     name: スバノン語

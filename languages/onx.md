@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونين بيدجن
     auto: true
+  - translation_iso: ben
+    name: ওনিন বাসেদ পিদগিন
+    auto: true
   - translation_iso: deu
     name: Onin Based Pidgin
     auto: true

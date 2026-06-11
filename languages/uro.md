@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورا
     auto: true
+  - translation_iso: ben
+    name: উরা
+    auto: true
   - translation_iso: deu
     name: Ura (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ura
   - translation_iso: hin
     name: उरा (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ura
     auto: true
   - translation_iso: jpn
     name: アウラモット語

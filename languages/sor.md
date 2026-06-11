@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: सोमराई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Somrai
+    auto: true
   - translation_iso: jpn
     name: シビネ語
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अमाराकाएरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aratbuten huaʼa
+    auto: true
   - translation_iso: jpn
     name: アラトブテン・フアア語
     auto: true

@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة يلي
     auto: true
+  - translation_iso: ben
+    name: য়েলে
+    auto: true
   - translation_iso: deu
     name: Yélî Dnye
   - translation_iso: fra
     name: yele
   - translation_iso: hin
     name: येले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yele
     auto: true
   - translation_iso: jpn
     name: イェレ語

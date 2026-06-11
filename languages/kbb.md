@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكسويانا
     auto: true
+  - translation_iso: ben
+    name: কাকসুইয়ানা
+    auto: true
   - translation_iso: deu
     name: Kaxuiâna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaxuiâna
   - translation_iso: hin
     name: काशुइआना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaxuiâna
     auto: true
   - translation_iso: jpn
     name: カシュイアナ語

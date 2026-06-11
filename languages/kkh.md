@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة خون
     auto: true
+  - translation_iso: ben
+    name: খুন
+    auto: true
   - translation_iso: deu
     name: Khün
   - translation_iso: fra
     name: khün
   - translation_iso: hin
     name: खून
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khün
     auto: true
   - translation_iso: jpn
     name: キュン語

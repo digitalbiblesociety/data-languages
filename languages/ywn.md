@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يواناوا
     auto: true
+  - translation_iso: ben
+    name: য়াওয়ানাওয়া
+    auto: true
   - translation_iso: deu
     name: Yawanawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yawanawa
   - translation_iso: hin
     name: यवानावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yawanawa
     auto: true
   - translation_iso: jpn
     name: ヤワナワ語

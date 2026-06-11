@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अम्बुलास
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambulas
+    auto: true
   - translation_iso: jpn
     name: アベラム語
   - translation_iso: kor

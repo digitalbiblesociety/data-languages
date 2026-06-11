@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: دراي
     auto: true
+  - translation_iso: ben
+    name: দারাই
+    auto: true
   - translation_iso: deu
     name: Darai
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: darai
   - translation_iso: hin
     name: दराई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Darai
     auto: true
   - translation_iso: jpn
     name: ダライ語

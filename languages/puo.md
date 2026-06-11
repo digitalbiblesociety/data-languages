@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بووك
     auto: true
+  - translation_iso: ben
+    name: পুওক
+    auto: true
   - translation_iso: deu
     name: Puoc
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुओक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puoc
     auto: true
   - translation_iso: jpn
     name: プオク語

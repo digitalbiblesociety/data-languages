@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شاروا
     auto: true
+  - translation_iso: ben
+    name: শারওয়া
+    auto: true
   - translation_iso: deu
     name: Sharwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sharwa
   - translation_iso: hin
     name: शार्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sharwa
     auto: true
   - translation_iso: jpn
     name: シャルワ語

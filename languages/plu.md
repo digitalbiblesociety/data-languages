@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باليكور
     auto: true
+  - translation_iso: ben
+    name: পালিকুর
+    auto: true
   - translation_iso: deu
     name: Palikúr
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: palikur
   - translation_iso: hin
     name: पालिकुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Palikúr
     auto: true
   - translation_iso: jpn
     name: パリクール語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامالالي
     auto: true
+  - translation_iso: ben
+    name: ইয়ামালেলে
+    auto: true
   - translation_iso: deu
     name: Iamalele
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इयामालेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iamalele
     auto: true
   - translation_iso: jpn
     name: イアマレレ語

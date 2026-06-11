@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووليوولي
     auto: true
+  - translation_iso: ben
+    name: ওয়ুলিওয়ুলি
+    auto: true
   - translation_iso: deu
     name: Wuliwuli
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वुलिवुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wuliwuli
     auto: true
   - translation_iso: jpn
     name: ウーリウーリ語

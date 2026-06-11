@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: تيكي تسعي
     auto: true
+  - translation_iso: ben
+    name: তেকে-তসায়ি
+    auto: true
   - translation_iso: deu
     name: Teke-Tsaayi
   - translation_iso: fra
     name: teke-tsaayi
   - translation_iso: hin
     name: तेके-त्साई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Tsaayi
     auto: true
   - translation_iso: jpn
     name: ゲツァーイ語

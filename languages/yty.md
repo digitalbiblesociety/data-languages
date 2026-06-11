@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياتاي
     auto: true
+  - translation_iso: ben
+    name: য়াতায়
+    auto: true
   - translation_iso: deu
     name: Yatay
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: yatay
   - translation_iso: hin
     name: यातय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yatay
     auto: true
   - translation_iso: jpn
     name: ヤタイ語

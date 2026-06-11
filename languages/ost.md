@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوساتو
     auto: true
+  - translation_iso: ben
+    name: ওসাতু
+    auto: true
   - translation_iso: deu
     name: Osatu
   - translation_iso: fra
     name: osatu
   - translation_iso: hin
     name: ओसातु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Osatu
     auto: true
   - translation_iso: jpn
     name: オサトゥ語

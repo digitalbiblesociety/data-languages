@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موكيرانج
     auto: true
+  - translation_iso: ben
+    name: মোকেরাং
+    auto: true
   - translation_iso: deu
     name: Mokerang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mokoreng
   - translation_iso: hin
     name: मोकेरांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mokerang
     auto: true
   - translation_iso: jpn
     name: モケラン語

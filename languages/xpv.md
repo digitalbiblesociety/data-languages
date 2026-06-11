@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Nordtasmanisch
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: tommeginne
   - translation_iso: hin
     name: उत्तरी तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: 北タスマニア語

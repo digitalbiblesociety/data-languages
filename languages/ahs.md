@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة أشي
     auto: true
+  - translation_iso: ben
+    name: আশে
+    auto: true
   - translation_iso: deu
     name: Asche
   - translation_iso: fra
     name: koro wachi
   - translation_iso: hin
     name: अशे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ashe
     auto: true
   - translation_iso: jpn
     name: アシェ語

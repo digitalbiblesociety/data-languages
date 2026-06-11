@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: अल्सिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alsea
+    auto: true
   - translation_iso: jpn
     name: アルシー語
   - translation_iso: kor

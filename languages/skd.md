@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب سييرا ميووك
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন সিএর্রা মিওয়োক
+    auto: true
   - translation_iso: deu
     name: Süd-Sierra-Miwok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miwok de la Sierra du Sud
   - translation_iso: hin
     name: दक्षिणी सिएरा मिवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Sierra Miwok
     auto: true
   - translation_iso: jpn
     name: ヨセミテ語

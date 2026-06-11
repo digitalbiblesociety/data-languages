@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Igala_language"
 translations:
   - translation_iso: ara
     name: إجالا
+  - translation_iso: ben
+    name: ইগালা
+    auto: true
   - translation_iso: deu
     name: Igala
   - translation_iso: fra
     name: igala
   - translation_iso: hin
     name: इगाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Igala
     auto: true
   - translation_iso: jpn
     name: イガラ語

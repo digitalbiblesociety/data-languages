@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dagik_language"
 translations:
   - translation_iso: ara
     name: لغة داغك
+  - translation_iso: ben
+    name: দাগিক
+    auto: true
   - translation_iso: deu
     name: Dagik
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दागिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dagik
     auto: true
   - translation_iso: jpn
     name: ダギク語

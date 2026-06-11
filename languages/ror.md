@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونجا
     auto: true
+  - translation_iso: ben
+    name: রোংগা
+    auto: true
   - translation_iso: deu
     name: Rongga
   - translation_iso: fra

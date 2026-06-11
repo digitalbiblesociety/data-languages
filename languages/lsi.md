@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة لاشي
     auto: true
+  - translation_iso: ben
+    name: লাশি
+    auto: true
   - translation_iso: deu
     name: Lashi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lashi
   - translation_iso: hin
     name: लाशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lashi
     auto: true
   - translation_iso: jpn
     name: ラシ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وامبار
     auto: true
+  - translation_iso: ben
+    name: ওয়ামপার
+    auto: true
   - translation_iso: deu
     name: Wampar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Wampar
   - translation_iso: hin
     name: वंपार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wampar
     auto: true
   - translation_iso: jpn
     name: ワンパル語

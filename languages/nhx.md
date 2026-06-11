@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إستموس ميكايابان ناهواتل
     auto: true
+  - translation_iso: ben
+    name: ইসথমুস-মেকায়াপান নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Isthmus-Mecayapan-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de l’isthme de Mecayapan
   - translation_iso: hin
     name: इस्थमस-मेकायापान नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isthmus-Mecayapan Nahuatl
     auto: true
   - translation_iso: jpn
     name: 地峡メカヤパン・ナワトル語

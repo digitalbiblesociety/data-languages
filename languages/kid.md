@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوشين
     auto: true
+  - translation_iso: ben
+    name: কোশিন
+    auto: true
   - translation_iso: deu
     name: Koschin
   - translation_iso: fra
     name: koshin
   - translation_iso: hin
     name: कोशिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koshin
     auto: true
   - translation_iso: jpn
     name: コシン語

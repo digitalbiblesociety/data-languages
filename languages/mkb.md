@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مال باهاريا
     auto: true
+  - translation_iso: ben
+    name: মাল পাহারিয়া
+    auto: true
   - translation_iso: deu
     name: Mal Paharia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mal paharia
   - translation_iso: hin
     name: माल पहाड़िया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mal Paharia
     auto: true
   - translation_iso: jpn
     name: マル・パハリア語

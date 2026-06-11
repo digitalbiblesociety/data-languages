@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جادابا بوتانجي أولار
     auto: true
+  - translation_iso: ben
+    name: পোত্তাঙি ওল্লার গাদাবা
+    auto: true
   - translation_iso: deu
     name: Gadaba
   - translation_iso: fra
     name: gadaba pottangi ollar
   - translation_iso: hin
     name: पोट्टांगी ओल्लर गडबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pottangi Ollar Gadaba
     auto: true
   - translation_iso: jpn
     name: オッラーリ語

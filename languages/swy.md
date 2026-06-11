@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساروا
     auto: true
+  - translation_iso: ben
+    name: সারুয়া
+    auto: true
   - translation_iso: deu
     name: Sarua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sarua
   - translation_iso: hin
     name: सारुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sarua
     auto: true
   - translation_iso: jpn
     name: サルア語

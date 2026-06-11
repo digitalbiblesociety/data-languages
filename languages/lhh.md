@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اها
     auto: true
+  - translation_iso: ben
+    name: লাহা
+    auto: true
   - translation_iso: deu
     name: Laha (Indonesien)
   - translation_iso: fra

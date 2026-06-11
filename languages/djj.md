@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دجيبانا
     auto: true
+  - translation_iso: ben
+    name: দজেব্বানা
+    auto: true
   - translation_iso: deu
     name: Djeebbana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djeebbana
   - translation_iso: hin
     name: जीब्बाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djeebbana
     auto: true
   - translation_iso: jpn
     name: ジェッバナ語

@@ -20,12 +20,18 @@ wikidata_id: Q33236
 translations:
   - translation_iso: ara
     name: لغة آرامية كلدانية حديثة
+  - translation_iso: ben
+    name: চালদেয়ান নেও-আরামাইক
+    auto: true
   - translation_iso: deu
     name: Chaldäisch-Neuaramäisch
   - translation_iso: fra
     name: néo-araméen chaldéen
   - translation_iso: hin
     name: कलदी नव-अरामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chaldean Neo-Aramaic
     auto: true
   - translation_iso: jpn
     name: カルデア現代アラム語

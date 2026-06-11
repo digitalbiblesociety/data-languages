@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكافالان
     auto: true
+  - translation_iso: ben
+    name: কাভালান
+    auto: true
   - translation_iso: deu
     name: Kavalan
     auto: true

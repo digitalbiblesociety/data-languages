@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توران
     auto: true
+  - translation_iso: ben
+    name: তোরাম
+    auto: true
   - translation_iso: deu
     name: Toram
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: toram
   - translation_iso: hin
     name: तोराम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toram
     auto: true
   - translation_iso: jpn
     name: トロム語

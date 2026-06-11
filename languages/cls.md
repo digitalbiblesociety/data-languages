@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: السنسكريتية الكلاسيكية
     auto: true
+  - translation_iso: ben
+    name: কলাস্সিকাল সানসকরিত
+    auto: true
   - translation_iso: deu
     name: Klassisches Sanskrit
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: sanskrit classique
   - translation_iso: hin
     name: शास्त्रीय संस्कृत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Classical Sanskrit
     auto: true
   - translation_iso: jpn
     name: 古典サンスクリット

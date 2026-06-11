@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كالكوتونج
     auto: true
+  - translation_iso: ben
+    name: কালকুতুং
+    auto: true
   - translation_iso: deu
     name: Kalkadoon
   - translation_iso: fra
     name: kalkatungu
   - translation_iso: hin
     name: कलकुटुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalkutung
     auto: true
   - translation_iso: jpn
     name: カルクトゥン語

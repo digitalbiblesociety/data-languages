@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيسا
     auto: true
+  - translation_iso: ben
+    name: নিসা
+    auto: true
   - translation_iso: deu
     name: Nisa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nisa
   - translation_iso: hin
     name: निसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nisa
     auto: true
   - translation_iso: jpn
     name: ニサ語

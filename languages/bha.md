@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: भरीयाटी
+  - translation_iso: ind
+    name: Bahasa Bharia
+    auto: true
   - translation_iso: jpn
     name: バリアティ
   - translation_iso: kor

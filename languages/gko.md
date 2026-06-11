@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوك-نآر
     auto: true
+  - translation_iso: ben
+    name: কোক-নার
+    auto: true
   - translation_iso: deu
     name: Kok-Nar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kok-nar
   - translation_iso: hin
     name: कोक-नार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kok-Nar
     auto: true
   - translation_iso: jpn
     name: コック・ナル語

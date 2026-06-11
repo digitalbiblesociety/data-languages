@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बिल्मा कानुरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bilma Kanuri
+    auto: true
   - translation_iso: jpn
     name: ビルマ・カヌリ語
   - translation_iso: kor

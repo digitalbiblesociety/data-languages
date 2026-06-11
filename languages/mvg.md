@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك يوكويني
     auto: true
+  - translation_iso: ben
+    name: য়ুকুয়ানয়ে মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Yucuañe-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Yucuañe
   - translation_iso: hin
     name: युकुआञे मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yucuañe Mixtec
     auto: true
   - translation_iso: jpn
     name: ユクアニェ・ミステク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوسارفا
     auto: true
+  - translation_iso: ben
+    name: উসারুফা
+    auto: true
   - translation_iso: deu
     name: Usarufa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उसारुफा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Usarufa
     auto: true
   - translation_iso: jpn
     name: ウサルファ語

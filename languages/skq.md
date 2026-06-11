@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينينكري
     auto: true
+  - translation_iso: ben
+    name: সিনিনকেরে
+    auto: true
   - translation_iso: deu
     name: Sininkere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sininkéré
   - translation_iso: hin
     name: सिनिंकेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sininkere
     auto: true
   - translation_iso: jpn
     name: シランケ語

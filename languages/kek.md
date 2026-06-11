@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيكتشي
     auto: true
+  - translation_iso: ben
+    name: কেকচি
+    auto: true
   - translation_iso: deu
     name: Kekchí-Sprache
   - translation_iso: fra

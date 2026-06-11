@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هوني
     auto: true
+  - translation_iso: ben
+    name: হোনি
+    auto: true
   - translation_iso: deu
     name: Honi
   - translation_iso: fra
     name: honi
   - translation_iso: hin
     name: होनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Honi
     auto: true
   - translation_iso: jpn
     name: ホニ語

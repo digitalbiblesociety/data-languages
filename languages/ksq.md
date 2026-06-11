@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوامي
     auto: true
+  - translation_iso: ben
+    name: কওয়ামি
+    auto: true
   - translation_iso: deu
     name: Kwaami
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwaami
   - translation_iso: hin
     name: क्वामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwaami
     auto: true
   - translation_iso: jpn
     name: クワアミ語

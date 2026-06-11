@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: روفيجي
     auto: true
+  - translation_iso: ben
+    name: রুফিজি
+    auto: true
   - translation_iso: deu
     name: Rufiji
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: rufiji
   - translation_iso: hin
     name: रुफिजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rufiji
     auto: true
   - translation_iso: jpn
     name: ルフィジ語

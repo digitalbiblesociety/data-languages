@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: روفيانا
     auto: true
+  - translation_iso: ben
+    name: রোভিয়ানা
+    auto: true
   - translation_iso: deu
     name: Roviana
   - translation_iso: fra
     name: roviana
   - translation_iso: hin
     name: रोवियाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Roviana
     auto: true
   - translation_iso: jpn
     name: ロヴィアナ語

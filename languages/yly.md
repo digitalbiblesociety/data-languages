@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة نيالايو
     auto: true
+  - translation_iso: ben
+    name: নয়ালায়ু
+    auto: true
   - translation_iso: deu
     name: Nyâlayu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyelâyu
   - translation_iso: hin
     name: न्यालायू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyâlayu
     auto: true
   - translation_iso: jpn
     name: ニャラユ語

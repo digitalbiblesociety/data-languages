@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشوتشوتك
     auto: true
+  - translation_iso: ben
+    name: চোচোতেক
+    auto: true
   - translation_iso: deu
     name: Chochotekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chocho
   - translation_iso: hin
     name: चोचोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chochotec
     auto: true
   - translation_iso: jpn
     name: チョショテク語

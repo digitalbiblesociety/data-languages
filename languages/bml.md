@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بومبولي
     auto: true
+  - translation_iso: ben
+    name: বোমবোলি
+    auto: true
   - translation_iso: deu
     name: Bomboli
   - translation_iso: fra
     name: bomboli
   - translation_iso: hin
     name: बोम्बोली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bomboli
     auto: true
   - translation_iso: jpn
     name: ボンボリ語

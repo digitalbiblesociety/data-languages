@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: डेनिश सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Danish Sign Language
+    auto: true
   - translation_iso: jpn
     name: デンマーク手話
   - translation_iso: kor

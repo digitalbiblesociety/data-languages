@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: إل نايار كورا
     auto: true
+  - translation_iso: ben
+    name: এল নায়ার কোরা
+    auto: true
   - translation_iso: deu
     name: El Nayar Cora
   - translation_iso: fra
     name: cora El Nayar
   - translation_iso: hin
     name: एल नायार कोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa El Nayar Cora
     auto: true
   - translation_iso: jpn
     name: エル・ナヤル・コラ語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كباغوا
     auto: true
+  - translation_iso: ben
+    name: কপাগুয়া
+    auto: true
   - translation_iso: deu
     name: Kpagua
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: kpagua
   - translation_iso: hin
     name: क्पागुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpagua
     auto: true
   - translation_iso: jpn
     name: クパグア語

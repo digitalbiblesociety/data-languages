@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وارييانغغا
     auto: true
+  - translation_iso: ben
+    name: ওয়ারিয়াংগা
+    auto: true
   - translation_iso: deu
     name: Wariyangga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wariyangga
   - translation_iso: hin
     name: वारियांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wariyangga
     auto: true
   - translation_iso: jpn
     name: ワリヤンガ語

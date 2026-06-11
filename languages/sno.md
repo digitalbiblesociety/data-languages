@@ -14,6 +14,9 @@ wikidata_id: Q25559662
 translations:
   - translation_iso: ara
     name: سنوهوميش
+  - translation_iso: ben
+    name: সনোহোমিশ
+    auto: true
   - translation_iso: deu
     name: Snohomish
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: snohomish
   - translation_iso: hin
     name: स्नोहोमिश
+  - translation_iso: ind
+    name: Bahasa Snohomish
+    auto: true
   - translation_iso: jpn
     name: スカジット・ニスクワリ語
     auto: true

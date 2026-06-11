@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريونج
     auto: true
+  - translation_iso: ben
+    name: রিউং
+    auto: true
   - translation_iso: deu
     name: Riung
   - translation_iso: fra

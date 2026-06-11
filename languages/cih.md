@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشينالي
     auto: true
+  - translation_iso: ben
+    name: চিনালি
+    auto: true
   - translation_iso: deu
     name: Chinali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinali
   - translation_iso: hin
     name: चिनाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chinali
     auto: true
   - translation_iso: jpn
     name: チナリ語

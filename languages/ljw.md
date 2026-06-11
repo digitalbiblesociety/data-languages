@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يراندالي
     auto: true
+  - translation_iso: ben
+    name: য়িরানদালি
+    auto: true
   - translation_iso: deu
     name: Yirandali
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yirandali
   - translation_iso: hin
     name: यिरांदाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yirandali
     auto: true
   - translation_iso: jpn
     name: イイランダリ語

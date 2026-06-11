@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تينادن
     auto: true
+  - translation_iso: ben
+    name: তেনেদন
+    auto: true
   - translation_iso: deu
     name: "Ten'edn"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tonga
   - translation_iso: hin
     name: तेनेदन
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Ten'edn"
     auto: true
   - translation_iso: jpn
     name: テネドゥン語

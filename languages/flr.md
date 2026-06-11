@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفولييرو
     auto: true
+  - translation_iso: ben
+    name: ফুলিরু
+    auto: true
   - translation_iso: deu
     name: Fuliiru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fuliro
   - translation_iso: hin
     name: फुलीरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fuliiru
     auto: true
   - translation_iso: jpn
     name: フリイル語

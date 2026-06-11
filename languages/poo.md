@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল পোমো
+    auto: true
   - translation_iso: deu
     name: Zentrales Pomo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pomo central
   - translation_iso: hin
     name: मध्य पोमो भाषा
+  - translation_iso: ind
+    name: Bahasa Central Pomo
+    auto: true
   - translation_iso: jpn
     name: 中央ポモ語
   - translation_iso: kor

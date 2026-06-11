@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Salvadoran
     auto: true
+  - translation_iso: ben
+    name: সালভাদোরান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Salvadorische Gebärdensprache
   - translation_iso: fra
     name: langue des signes salvadorienne
   - translation_iso: hin
     name: साल्वाडोरी सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Salvadoran Sign Language
     auto: true
   - translation_iso: jpn
     name: サルバドル手話

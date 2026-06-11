@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अनुआक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anuak
+    auto: true
   - translation_iso: jpn
     name: アヌアク語
   - translation_iso: kor

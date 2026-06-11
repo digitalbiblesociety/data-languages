@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: ben
+    name: বোঙু
+    auto: true
   - translation_iso: deu
     name: Bongu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बोंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bongu
     auto: true
   - translation_iso: jpn
     name: ボング語

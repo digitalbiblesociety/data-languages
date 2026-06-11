@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إفييآ
     auto: true
+  - translation_iso: ben
+    name: এভিয়া
+    auto: true
   - translation_iso: deu
     name: Eviya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: geviya
   - translation_iso: hin
     name: एविया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eviya
     auto: true
   - translation_iso: jpn
     name: ヴィヤ語

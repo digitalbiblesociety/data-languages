@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الخومي الشرقية تشين
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন খুমি চিন
+    auto: true
   - translation_iso: deu
     name: Östliches Khumi-Chin
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी खुमी चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Khumi Chin
     auto: true
   - translation_iso: jpn
     name: 東クミ・チン語

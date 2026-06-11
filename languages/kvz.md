@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تساكوامبو
     auto: true
+  - translation_iso: ben
+    name: তসাকওয়ামবো
+    auto: true
   - translation_iso: deu
     name: Tsakwambo
     auto: true

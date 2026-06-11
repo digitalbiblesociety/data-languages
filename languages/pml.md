@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: लिंगुआ फ़्रैंका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lingua Franca
+    auto: true
   - translation_iso: jpn
     name: 地中海共通語
   - translation_iso: kor

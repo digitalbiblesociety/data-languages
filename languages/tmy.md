@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تامي
     auto: true
+  - translation_iso: ben
+    name: তামি
+    auto: true
   - translation_iso: deu
     name: Tami
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tami
   - translation_iso: hin
     name: तामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tami
     auto: true
   - translation_iso: jpn
     name: タミ語

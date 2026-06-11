@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Me%C3%A4nkieli"
 translations:
   - translation_iso: ara
     name: منكيلي
+  - translation_iso: ben
+    name: তোরনেদালেন ফিন্নিশ
+    auto: true
   - translation_iso: deu
     name: Tornedalfinnisch
   - translation_iso: fra

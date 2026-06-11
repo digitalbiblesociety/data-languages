@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अनिमेरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Animere
+    auto: true
   - translation_iso: jpn
     name: アニメレ語
     auto: true

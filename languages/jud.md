@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وورودوغو
     auto: true
+  - translation_iso: ben
+    name: ওয়োরোদোউগোউ
+    auto: true
   - translation_iso: deu
     name: Worodougou
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: worodougou
   - translation_iso: hin
     name: वोरोदुगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Worodougou
     auto: true
   - translation_iso: jpn
     name: ウォロドゥグ語

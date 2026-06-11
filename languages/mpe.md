@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماجانج
     auto: true
+  - translation_iso: ben
+    name: মাজাং
+    auto: true
   - translation_iso: deu
     name: Majangir
   - translation_iso: fra
     name: majang
   - translation_iso: hin
     name: माजांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Majang
     auto: true
   - translation_iso: jpn
     name: マジャン語

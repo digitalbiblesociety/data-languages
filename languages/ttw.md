@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: طويل وات
     auto: true
+  - translation_iso: ben
+    name: লোং ওয়াত
+    auto: true
   - translation_iso: deu
     name: Long Wat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: long wat
   - translation_iso: hin
     name: लोंग वाट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Long Wat
     auto: true
   - translation_iso: jpn
     name: ロング・ワット語

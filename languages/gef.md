@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: جيراي
     auto: true
+  - translation_iso: ben
+    name: গেরাইর
+    auto: true
   - translation_iso: deu
     name: Gerai
     auto: true

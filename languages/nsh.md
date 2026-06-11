@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغوشي
     auto: true
+  - translation_iso: ben
+    name: ঙোশিএ
+    auto: true
   - translation_iso: deu
     name: Ngoshie
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngoshie
   - translation_iso: hin
     name: न्गोशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngoshie
     auto: true
   - translation_iso: jpn
     name: ゴシエ語

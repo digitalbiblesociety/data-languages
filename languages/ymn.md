@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامنا
     auto: true
+  - translation_iso: ben
+    name: য়ামনা
+    auto: true
   - translation_iso: deu
     name: Yamna
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غومآوآنآ
     auto: true
+  - translation_iso: ben
+    name: গুমাওয়ানা
+    auto: true
   - translation_iso: deu
     name: Gumawana
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गुमावाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gumawana
     auto: true
   - translation_iso: jpn
     name: グマワナ語

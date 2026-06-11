@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मलायो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Malayo
+    auto: true
   - translation_iso: jpn
     name: ウィワ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشي
     auto: true
+  - translation_iso: ben
+    name: শি
+    auto: true
   - translation_iso: deu
     name: Shi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shi
   - translation_iso: hin
     name: शी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shi
     auto: true
   - translation_iso: jpn
     name: シ語

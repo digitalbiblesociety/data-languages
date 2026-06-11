@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-ساكا
     auto: true
+  - translation_iso: ben
+    name: মাখুওয়া-সাকা
+    auto: true
   - translation_iso: deu
     name: Makhuwa-Saka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: makhuwa-saka
   - translation_iso: hin
     name: माखुवा-साका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makhuwa-Saka
     auto: true
   - translation_iso: jpn
     name: マク​​ワ・サカ語

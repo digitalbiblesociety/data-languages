@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: إيفي
     auto: true
+  - translation_iso: ben
+    name: ইফে
+    auto: true
   - translation_iso: deu
     name: Ife
   - translation_iso: fra
     name: ifè
   - translation_iso: hin
     name: इफे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ifè
     auto: true
   - translation_iso: jpn
     name: イフェ語

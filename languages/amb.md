@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अम्बो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambo
+    auto: true
   - translation_iso: jpn
     name: アンボ語
     auto: true

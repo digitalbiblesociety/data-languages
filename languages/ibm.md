@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अगोई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agoi
+    auto: true
   - translation_iso: jpn
     name: アゴイ語
     auto: true

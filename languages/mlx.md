@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالفاخال
     auto: true
+  - translation_iso: ben
+    name: মালফাকসাল
+    auto: true
   - translation_iso: deu
     name: Malfaxal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "naha'ai"
   - translation_iso: hin
     name: मालफाक्साल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malfaxal
     auto: true
   - translation_iso: jpn
     name: マルファクサル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كواجا
     auto: true
+  - translation_iso: ben
+    name: কওয়াজা
+    auto: true
   - translation_iso: deu
     name: Kwaja
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kwaja
   - translation_iso: hin
     name: क्वाजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwaja
     auto: true
   - translation_iso: jpn
     name: クワジャ語

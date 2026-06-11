@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: हर्निकन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hernican
+    auto: true
   - translation_iso: jpn
     name: ヘルニカン語
     auto: true

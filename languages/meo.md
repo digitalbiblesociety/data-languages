@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو كيدا
     auto: true
+  - translation_iso: ben
+    name: কেদাহ মালায়
+    auto: true
   - translation_iso: deu
     name: Kedah-Malaiisch
     auto: true

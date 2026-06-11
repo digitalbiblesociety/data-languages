@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eblaite_language"
 translations:
   - translation_iso: ara
     name: الإبلاوية
+  - translation_iso: ben
+    name: এবলান
+    auto: true
   - translation_iso: deu
     name: Eblaitisch
   - translation_iso: fra

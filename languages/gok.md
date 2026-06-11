@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: غوولي
     auto: true
+  - translation_iso: ben
+    name: গোওয়লি
+    auto: true
   - translation_iso: deu
     name: Gowli
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: gowli
   - translation_iso: hin
     name: गौली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gowli
     auto: true
   - translation_iso: jpn
     name: ゴウリ語

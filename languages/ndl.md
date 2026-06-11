@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندولو
     auto: true
+  - translation_iso: ben
+    name: নদোলো
+    auto: true
   - translation_iso: deu
     name: Ndolo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्दोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndolo
     auto: true
   - translation_iso: jpn
     name: ンドロ語

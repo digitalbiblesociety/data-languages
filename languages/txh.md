@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ثراقي
     auto: true
+  - translation_iso: ben
+    name: থরাকিয়ান
+    auto: true
   - translation_iso: deu
     name: Thrakisch
   - translation_iso: fra

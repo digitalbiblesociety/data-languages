@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مايوا يندونيسيا
     auto: true
+  - translation_iso: ben
+    name: মাইওয়া
+    auto: true
   - translation_iso: deu
     name: Maiwa
   - translation_iso: fra

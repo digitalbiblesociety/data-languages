@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دولبو
     auto: true
+  - translation_iso: ben
+    name: দোলপো
+    auto: true
   - translation_iso: deu
     name: Dolpo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dolpo
   - translation_iso: hin
     name: डोल्पो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dolpo
     auto: true
   - translation_iso: jpn
     name: ドルポ語

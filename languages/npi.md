@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة النيبالية
     auto: true
+  - translation_iso: ben
+    name: নেপালি
+    auto: true
   - translation_iso: deu
     name: Nepalesisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नेपाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nepali
     auto: true
   - translation_iso: jpn
     name: ネパール語

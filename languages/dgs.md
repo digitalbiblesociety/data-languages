@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دوجوسو
     auto: true
+  - translation_iso: ben
+    name: দোগোসো
+    auto: true
   - translation_iso: deu
     name: Dogoso
   - translation_iso: fra
     name: dogoso
   - translation_iso: hin
     name: दोगोसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dogoso
     auto: true
   - translation_iso: jpn
     name: ドゴソ語

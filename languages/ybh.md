@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ياخا
     auto: true
+  - translation_iso: ben
+    name: য়াখা
+    auto: true
   - translation_iso: deu
     name: Yakha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yakkha
   - translation_iso: hin
     name: याखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yakha
     auto: true
   - translation_iso: jpn
     name: ヤク語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अकुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akum
+    auto: true
   - translation_iso: jpn
     name: アクム語
     auto: true

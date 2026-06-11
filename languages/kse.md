@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوني
     auto: true
+  - translation_iso: ben
+    name: কুনি
+    auto: true
   - translation_iso: deu
     name: Kuni
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuni
     auto: true
   - translation_iso: jpn
     name: クニ語

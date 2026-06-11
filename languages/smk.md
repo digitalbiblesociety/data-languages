@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولينياو
     auto: true
+  - translation_iso: ben
+    name: বোলিনাও
+    auto: true
   - translation_iso: deu
     name: Bolinao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bolinao
   - translation_iso: hin
     name: बोलिनाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolinao
     auto: true
   - translation_iso: jpn
     name: ボリナオ語

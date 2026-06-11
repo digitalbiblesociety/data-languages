@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Kentish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة كينتش القديمة
+  - translation_iso: ben
+    name: ওলদ কেনতিশ সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Alt-Kentische Gebärdensprache
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुरानी केंटिश सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Old Kentish Sign Language
+    auto: true
   - translation_iso: jpn
     name: 古ケント手話
   - translation_iso: kor

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مولينْجي
     auto: true
+  - translation_iso: ben
+    name: মোলেঙুএ
+    auto: true
   - translation_iso: deu
     name: Molengue
   - translation_iso: fra
     name: lengue
   - translation_iso: hin
     name: मोलेंगुए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Molengue
     auto: true
   - translation_iso: jpn
     name: レング語

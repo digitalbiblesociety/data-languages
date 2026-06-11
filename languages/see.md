@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seneca_language"
 translations:
   - translation_iso: ara
     name: سينيكا
+  - translation_iso: ben
+    name: সেনেকা
+    auto: true
   - translation_iso: deu
     name: Seneka
   - translation_iso: fra

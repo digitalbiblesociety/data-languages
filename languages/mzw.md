@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديج
     auto: true
+  - translation_iso: ben
+    name: দেগ
+    auto: true
   - translation_iso: deu
     name: Deg
   - translation_iso: fra
     name: degha
   - translation_iso: hin
     name: देग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Deg
     auto: true
   - translation_iso: jpn
     name: デグ語

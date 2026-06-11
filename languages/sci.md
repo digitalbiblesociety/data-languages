@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سري لانكا كريول ملاي
     auto: true
+  - translation_iso: ben
+    name: সরি লানকান করেওলে মালায়
+    auto: true
   - translation_iso: deu
     name: Sri-Lanka-Kreolmalaiisch
     auto: true

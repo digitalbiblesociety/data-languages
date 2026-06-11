@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإيرافالان
     auto: true
+  - translation_iso: ben
+    name: এরাভাল্লান
+    auto: true
   - translation_iso: deu
     name: Eravallan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: eravalla
   - translation_iso: hin
     name: एरवल्लन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eravallan
     auto: true
   - translation_iso: jpn
     name: エラヴァッラン語

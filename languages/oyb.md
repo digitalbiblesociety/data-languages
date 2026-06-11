@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوي
     auto: true
+  - translation_iso: ben
+    name: ওয়
+    auto: true
   - translation_iso: deu
     name: Oy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: oy
   - translation_iso: hin
     name: ओय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oy
     auto: true
   - translation_iso: jpn
     name: オイ語

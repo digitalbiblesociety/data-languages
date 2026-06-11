@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مانانغكاري
     auto: true
+  - translation_iso: ben
+    name: মানাংকারি
+    auto: true
   - translation_iso: deu
     name: Manangkari
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मनंगकरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manangkari
     auto: true
   - translation_iso: jpn
     name: マナングカリ語

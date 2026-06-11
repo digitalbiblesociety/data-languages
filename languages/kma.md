@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوني
     auto: true
+  - translation_iso: ben
+    name: কোন্নি
+    auto: true
   - translation_iso: deu
     name: Konni
   - translation_iso: fra
     name: koma
   - translation_iso: hin
     name: कोन्नी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konni
     auto: true
   - translation_iso: jpn
     name: コンニ語

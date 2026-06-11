@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تاندًاغانون
     auto: true
+  - translation_iso: ben
+    name: তানদাগানোন
+    auto: true
   - translation_iso: deu
     name: Tandaganon
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: tandaganon
   - translation_iso: hin
     name: तंदागानोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tandaganon
     auto: true
   - translation_iso: jpn
     name: タンダガノン語

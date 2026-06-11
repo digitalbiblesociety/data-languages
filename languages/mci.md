@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسي
     auto: true
+  - translation_iso: ben
+    name: মেসে
+    auto: true
   - translation_iso: deu
     name: Mese
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mesem
   - translation_iso: hin
     name: मेसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mese
     auto: true
   - translation_iso: jpn
     name: メセム語

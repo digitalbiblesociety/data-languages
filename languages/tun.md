@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توني كا
     auto: true
+  - translation_iso: ben
+    name: তুনিকা
+    auto: true
   - translation_iso: deu
     name: Tunica
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: tunica
   - translation_iso: hin
     name: तुनिका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tunica
     auto: true
   - translation_iso: jpn
     name: トゥニカ語

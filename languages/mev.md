@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانو
     auto: true
+  - translation_iso: ben
+    name: মানো
+    auto: true
   - translation_iso: deu
     name: Mano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mano
   - translation_iso: hin
     name: मानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mano
     auto: true
   - translation_iso: jpn
     name: マノ語

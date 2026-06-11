@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كإرآك
     auto: true
+  - translation_iso: ben
+    name: কেরাক
+    auto: true
   - translation_iso: deu
     name: Kerak
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: keerak
   - translation_iso: hin
     name: केराक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kerak
     auto: true
   - translation_iso: jpn
     name: ケラク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاو
     auto: true
+  - translation_iso: ben
+    name: কালাও
+    auto: true
   - translation_iso: deu
     name: Kalao
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبيهويتلا تيبيهوا
     auto: true
+  - translation_iso: ben
+    name: হুএহুএতলা তেপেহুয়া
+    auto: true
   - translation_iso: deu
     name: Huehuetla Tepehua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tepehua de Huehuetla
   - translation_iso: hin
     name: हुएहुएतला तेपेहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huehuetla Tepehua
     auto: true
   - translation_iso: jpn
     name: ウエウエトラ・テペフア語

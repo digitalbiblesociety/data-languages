@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتاجالبا
     auto: true
+  - translation_iso: ben
+    name: মাতাগালপা
+    auto: true
   - translation_iso: deu
     name: Matagalpa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मातागाल्पा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matagalpa
     auto: true
   - translation_iso: jpn
     name: マタガルパ語

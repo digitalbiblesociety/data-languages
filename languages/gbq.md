@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: جبايا-بوزوم
     auto: true
+  - translation_iso: ben
+    name: গবায়া-বোজোউম
+    auto: true
   - translation_iso: deu
     name: Gbaya-Bozoum
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: gbaya bozom
   - translation_iso: hin
     name: ग्बाया-बोज़ूम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbaya-Bozoum
     auto: true
   - translation_iso: jpn
     name: グバヤ＝ボズム語

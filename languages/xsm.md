@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاسيم
     auto: true
+  - translation_iso: ben
+    name: কাসেম
+    auto: true
   - translation_iso: deu
     name: Kasem
   - translation_iso: fra

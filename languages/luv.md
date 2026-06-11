@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: लुवाती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Luwati
+    auto: true
   - translation_iso: jpn
     name: ルワティ語
     auto: true

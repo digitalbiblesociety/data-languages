@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وپيت
     auto: true
+  - translation_iso: ben
+    name: লোপিত
+    auto: true
   - translation_iso: deu
     name: Lopit
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lopit
   - translation_iso: hin
     name: लोपित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lopit
     auto: true
   - translation_iso: jpn
     name: ロピット語

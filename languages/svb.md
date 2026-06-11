@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولاو-سواين
     auto: true
+  - translation_iso: ben
+    name: উলাউ-সুয়াইন
+    auto: true
   - translation_iso: deu
     name: Ulau-Suain
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ulau-suain
   - translation_iso: hin
     name: उलाउ-सुआइन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ulau-Suain
     auto: true
   - translation_iso: jpn
     name: ウラウ・スアイン語

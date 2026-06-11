@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كومام
     auto: true
+  - translation_iso: ben
+    name: কুমাম
+    auto: true
   - translation_iso: deu
     name: Kumam
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुमाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kumam
     auto: true
   - translation_iso: jpn
     name: クマム語

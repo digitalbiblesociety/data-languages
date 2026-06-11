@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मारबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Marba
+    auto: true
   - translation_iso: jpn
     name: マルバ語
     auto: true

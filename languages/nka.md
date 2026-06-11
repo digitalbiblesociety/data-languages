@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نكويا
     auto: true
+  - translation_iso: ben
+    name: নকোয়া
+    auto: true
   - translation_iso: deu
     name: Nkoya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nkoya
   - translation_iso: hin
     name: नकोया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkoya
     auto: true
   - translation_iso: jpn
     name: ンコヤ語

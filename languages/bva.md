@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बरीन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barein
+    auto: true
   - translation_iso: jpn
     name: バレイン語
     auto: true

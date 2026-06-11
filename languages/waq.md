@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واجيمان
     auto: true
+  - translation_iso: ben
+    name: ওয়াগিমান
+    auto: true
   - translation_iso: deu
     name: Wagiman
   - translation_iso: fra

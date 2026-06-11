@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: موندابلي
     auto: true
+  - translation_iso: ben
+    name: মুনদাবলি
+    auto: true
   - translation_iso: deu
     name: Mundabli
   - translation_iso: fra
     name: mundabli
   - translation_iso: hin
     name: मुंडाब्ली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mundabli
     auto: true
   - translation_iso: jpn
     name: ムンダブリ語

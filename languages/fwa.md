@@ -18,6 +18,9 @@ glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Pol
 wikidata_id: Q3091331
 wikipedia_url: "https://en.wikipedia.org/wiki/Fw%C3%A2i_language"
 translations:
+  - translation_iso: ben
+    name: ফওয়াই
+    auto: true
   - translation_iso: deu
     name: Fwâi
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: fwâi
   - translation_iso: hin
     name: फ्वाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fwâi
     auto: true
   - translation_iso: jpn
     name: フワイ語

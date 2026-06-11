@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زاو مين
     auto: true
+  - translation_iso: ben
+    name: দজাও মিন
+    auto: true
   - translation_iso: deu
     name: Dzao Min
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dzao min
   - translation_iso: hin
     name: ज़ाओ मिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dzao Min
     auto: true
   - translation_iso: jpn
     name: ジャオ・ミン語

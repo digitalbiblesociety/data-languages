@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sangsari_language"
 translations:
   - translation_iso: ara
     name: اللغة السنغسري
+  - translation_iso: ben
+    name: সাঙিসারি
+    auto: true
   - translation_iso: deu
     name: Sangsari
   - translation_iso: fra
     name: sangesari
   - translation_iso: hin
     name: संगिसारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sangisari
     auto: true
   - translation_iso: jpn
     name: サンギセリー語

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تآيآب
     auto: true
+  - translation_iso: ben
+    name: তাইয়াপ
+    auto: true
   - translation_iso: deu
     name: Taiap
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: taiap
   - translation_iso: hin
     name: तायाप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taiap
     auto: true
   - translation_iso: jpn
     name: タヤプ語

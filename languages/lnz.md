@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ونزو
     auto: true
+  - translation_iso: ben
+    name: লোনজো
+    auto: true
   - translation_iso: deu
     name: Lonzo
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: lonzo
   - translation_iso: hin
     name: लोंज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lonzo
     auto: true
   - translation_iso: jpn
     name: ロンゾ語

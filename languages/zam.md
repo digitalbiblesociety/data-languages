@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك مياهوتلان
     auto: true
+  - translation_iso: ben
+    name: মিয়াহুয়াতলান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Miahuatlán)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Miahuatlán
   - translation_iso: hin
     name: मिहुआतलान ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miahuatlán Zapotec
     auto: true
   - translation_iso: jpn
     name: ミアウアトラン・サポテク語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अज़ा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Azha
+    auto: true
   - translation_iso: jpn
     name: アズハ語
     auto: true

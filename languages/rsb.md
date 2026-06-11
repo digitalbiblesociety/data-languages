@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: رومانو صربي
     auto: true
+  - translation_iso: ben
+    name: রোমানো-সেরবিয়ান
+    auto: true
   - translation_iso: deu
     name: Romano-Serbisch
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: romano-serbe
   - translation_iso: hin
     name: रोमानो-सर्बियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romano-Serbian
     auto: true
   - translation_iso: jpn
     name: ロマーノセルビア語

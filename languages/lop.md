@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وپا
     auto: true
+  - translation_iso: ben
+    name: লোপা
+    auto: true
   - translation_iso: deu
     name: Lopa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लोपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lopa
     auto: true
   - translation_iso: jpn
     name: ロパ語

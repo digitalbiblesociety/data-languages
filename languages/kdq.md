@@ -30,6 +30,9 @@ translations:
     name: koch
   - translation_iso: hin
     name: कोच भाषा
+  - translation_iso: ind
+    name: Bahasa Koch
+    auto: true
   - translation_iso: jpn
     name: コーチ語
   - translation_iso: kor

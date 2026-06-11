@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ويليكي
     auto: true
+  - translation_iso: ben
+    name: ওয়েলিকি
+    auto: true
   - translation_iso: deu
     name: Weliki
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वेलिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Weliki
     auto: true
   - translation_iso: jpn
     name: ウェリキ語

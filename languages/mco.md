@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كواتلان ميكسي
     auto: true
+  - translation_iso: ben
+    name: কোয়াতলান মিকসে
+    auto: true
   - translation_iso: deu
     name: Coatlán Mixe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixe de Coatlán
   - translation_iso: hin
     name: कोआत्लान मिशे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coatlán Mixe
     auto: true
   - translation_iso: jpn
     name: コアトラン・ミヘ語

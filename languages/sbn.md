@@ -30,6 +30,9 @@ translations:
     name: sindhi bhil
   - translation_iso: hin
     name: सिंधी भील
+  - translation_iso: ind
+    name: Bahasa Sindhi Bhil
+    auto: true
   - translation_iso: jpn
     name: シンディ・ビル語
     auto: true

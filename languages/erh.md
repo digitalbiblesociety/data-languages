@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإروا
     auto: true
+  - translation_iso: ben
+    name: এরুওয়া
+    auto: true
   - translation_iso: deu
     name: Eruwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: eruwa
   - translation_iso: hin
     name: एरुवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eruwa
     auto: true
   - translation_iso: jpn
     name: エルワ語

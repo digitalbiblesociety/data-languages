@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بانو
     auto: true
+  - translation_iso: ben
+    name: পানো
+    auto: true
   - translation_iso: deu
     name: Pano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pano
   - translation_iso: hin
     name: पानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pano
     auto: true
   - translation_iso: jpn
     name: パノ語

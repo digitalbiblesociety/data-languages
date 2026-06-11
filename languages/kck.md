@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة كالانغا
     auto: true
+  - translation_iso: ben
+    name: কালাঙা
+    auto: true
   - translation_iso: deu
     name: Kalanga
   - translation_iso: fra

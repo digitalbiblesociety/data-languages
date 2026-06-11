@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: कातकरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Katkari
+    auto: true
   - translation_iso: jpn
     name: カツカリ語
     auto: true

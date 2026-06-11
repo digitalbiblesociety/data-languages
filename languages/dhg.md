@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديانجو
     auto: true
+  - translation_iso: ben
+    name: ধাঙু-দজাঙু
+    auto: true
   - translation_iso: deu
     name: Dhangu-Djangu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dhangu-djangu
   - translation_iso: hin
     name: धंगु-जंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhangu-Djangu
     auto: true
   - translation_iso: jpn
     name: ダングゥ・ジャングゥ語

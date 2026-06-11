@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: نييوري
     auto: true
+  - translation_iso: ben
+    name: নয়োরে
+    auto: true
   - translation_iso: deu
     name: Nyore
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: lunyore
   - translation_iso: hin
     name: न्योरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyore
     auto: true
   - translation_iso: jpn
     name: ニョレ語

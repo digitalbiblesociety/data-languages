@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أنونغ
     auto: true
+  - translation_iso: ben
+    name: আনোং
+    auto: true
   - translation_iso: deu
     name: Anong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: anong
   - translation_iso: hin
     name: अनोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Anong
     auto: true
   - translation_iso: jpn
     name: アヌン語

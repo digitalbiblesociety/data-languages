@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अबादी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abadi
+    auto: true
   - translation_iso: jpn
     name: アバディ語
     auto: true

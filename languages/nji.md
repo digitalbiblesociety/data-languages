@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جودانجي
     auto: true
+  - translation_iso: ben
+    name: গুদানজি
+    auto: true
   - translation_iso: deu
     name: Gudanji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngarnka
   - translation_iso: hin
     name: गुदानजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gudanji
     auto: true
   - translation_iso: jpn
     name: グダンジ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هوبلآ
     auto: true
+  - translation_iso: ben
+    name: হুপলা
+    auto: true
   - translation_iso: deu
     name: Hupla
     auto: true

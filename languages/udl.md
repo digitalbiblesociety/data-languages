@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وزلام
     auto: true
+  - translation_iso: ben
+    name: ওয়ুজলাম
+    auto: true
   - translation_iso: deu
     name: Wuzlam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ouldémé
   - translation_iso: hin
     name: वुज़्लाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wuzlam
     auto: true
   - translation_iso: jpn
     name: ミズリメ語

@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة بانوا
     auto: true
+  - translation_iso: ben
+    name: পানাওয়া
+    auto: true
   - translation_iso: deu
     name: Panawa
   - translation_iso: fra
     name: panawa
   - translation_iso: hin
     name: पनावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Panawa
     auto: true
   - translation_iso: jpn
     name: パナワ語

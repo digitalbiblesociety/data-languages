@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سما الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল সামা
+    auto: true
   - translation_iso: deu
     name: Zentral-Sama
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sama central
   - translation_iso: hin
     name: मध्य सामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Sama
     auto: true
   - translation_iso: jpn
     name: バジャウ語

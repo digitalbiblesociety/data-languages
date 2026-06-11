@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يجا-وينجا
     auto: true
+  - translation_iso: ben
+    name: লেগা-মওয়েঙা
+    auto: true
   - translation_iso: deu
     name: Lega-Mwenga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lega de Mwenga
   - translation_iso: hin
     name: लेगा-म्वेंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lega-Mwenga
     auto: true
   - translation_iso: jpn
     name: レガ・ムウェンガ語

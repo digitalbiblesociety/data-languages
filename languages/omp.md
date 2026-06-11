@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्राचीन मणिपुरी भाषा
+  - translation_iso: ind
+    name: Bahasa Old Manipuri
+    auto: true
   - translation_iso: jpn
     name: 古マニプリ語
     auto: true

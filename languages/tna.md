@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاكانا
     auto: true
+  - translation_iso: ben
+    name: তাকানা
+    auto: true
   - translation_iso: deu
     name: Tacana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tacana
   - translation_iso: hin
     name: ताकाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tacana
     auto: true
   - translation_iso: jpn
     name: タカナ語

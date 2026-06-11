@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوكومانو
     auto: true
+  - translation_iso: ben
+    name: নুকুমানু
+    auto: true
   - translation_iso: deu
     name: Nukumanu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नुकुमानु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nukumanu
     auto: true
   - translation_iso: jpn
     name: ヌクマヌ語

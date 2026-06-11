@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جنوب شرق كولامي
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসতেরন কোলামি
+    auto: true
   - translation_iso: deu
     name: Südöstliches Kolami
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kolami du Sud-Est
   - translation_iso: hin
     name: नेईकी भाषा
+  - translation_iso: ind
+    name: Bahasa Southeastern Kolami
+    auto: true
   - translation_iso: jpn
     name: ナイキー語
   - translation_iso: kor

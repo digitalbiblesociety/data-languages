@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبا
     auto: true
+  - translation_iso: ben
+    name: জিবা
+    auto: true
   - translation_iso: deu
     name: Jiba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jiba
   - translation_iso: hin
     name: जिबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jiba
     auto: true
   - translation_iso: jpn
     name: ジバ語

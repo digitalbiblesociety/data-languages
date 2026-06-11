@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: توتشو
     auto: true
+  - translation_iso: ben
+    name: তোচো
+    auto: true
   - translation_iso: deu
     name: Totscho
   - translation_iso: fra
     name: tocho
   - translation_iso: hin
     name: तोचो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tocho
     auto: true
   - translation_iso: jpn
     name: トチョ語

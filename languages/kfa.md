@@ -29,6 +29,9 @@ translations:
     name: kodagu
   - translation_iso: hin
     name: कोडवा भाषा
+  - translation_iso: ind
+    name: Bahasa Kodava
+    auto: true
   - translation_iso: jpn
     name: コダヴァ語
   - translation_iso: kor

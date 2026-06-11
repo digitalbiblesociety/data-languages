@@ -28,6 +28,9 @@ translations:
     name: langue des signes mexicaine
   - translation_iso: hin
     name: मैक्सिकन सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Mexican Sign Language
+    auto: true
   - translation_iso: jpn
     name: メキシコ手話
   - translation_iso: kor

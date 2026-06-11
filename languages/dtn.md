@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داتسيين
     auto: true
+  - translation_iso: ben
+    name: দাতসিন
+    auto: true
   - translation_iso: deu
     name: Daatsʼíin
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: daatsʼíin
   - translation_iso: hin
     name: दात्सीन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daatsʼíin
     auto: true
   - translation_iso: jpn
     name: ダーツイン語

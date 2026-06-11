@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اليوغوسلافية
     auto: true
+  - translation_iso: ben
+    name: য়ুগোসলাভিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Jugoslawische Gebärdensprache
   - translation_iso: fra
     name: langue des signes yougoslave
   - translation_iso: hin
     name: यूगोस्लावियाई सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yugoslavian Sign Language
     auto: true
   - translation_iso: jpn
     name: ユーゴスラビア手話

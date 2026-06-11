@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: واهاو كايان
     auto: true
+  - translation_iso: ben
+    name: ওয়াহাউ কায়ান
+    auto: true
   - translation_iso: deu
     name: Wahau Kayan
     auto: true

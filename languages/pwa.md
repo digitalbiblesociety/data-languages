@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوايا
     auto: true
+  - translation_iso: ben
+    name: পাওয়াইয়া
+    auto: true
   - translation_iso: deu
     name: Pawaia
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: pawaia
   - translation_iso: hin
     name: पवाइया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pawaia
     auto: true
   - translation_iso: jpn
     name: パワイア語

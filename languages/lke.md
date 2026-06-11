@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ينيي
     auto: true
+  - translation_iso: ben
+    name: কেনয়ি
+    auto: true
   - translation_iso: deu
     name: Kenyi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kenyi
   - translation_iso: hin
     name: केन्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kenyi
     auto: true
   - translation_iso: jpn
     name: ケニイ語

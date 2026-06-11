@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نجيريب
     auto: true
+  - translation_iso: ben
+    name: নজেরেপ
+    auto: true
   - translation_iso: deu
     name: Njerep
   - translation_iso: fra
     name: njerep
   - translation_iso: hin
     name: न्जेरेप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Njerep
     auto: true
   - translation_iso: jpn
     name: ンジェレプ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अदांगबे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adangbe
+    auto: true
   - translation_iso: jpn
     name: アダンゲベ語
     auto: true

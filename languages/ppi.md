@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايباي
     auto: true
+  - translation_iso: ben
+    name: পাইপাই
+    auto: true
   - translation_iso: deu
     name: Paipai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paipai
   - translation_iso: hin
     name: पाइपाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paipai
     auto: true
   - translation_iso: jpn
     name: パイパイ語

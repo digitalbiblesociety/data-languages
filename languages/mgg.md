@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبومبونج
     auto: true
+  - translation_iso: ben
+    name: মপুমপোং
+    auto: true
   - translation_iso: deu
     name: Mpongmpong
   - translation_iso: fra
     name: mpumpong
   - translation_iso: hin
     name: म्पुम्पोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mpumpong
     auto: true
   - translation_iso: jpn
     name: ムプムポン語

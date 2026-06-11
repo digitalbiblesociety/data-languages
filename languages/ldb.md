@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دويا
     auto: true
+  - translation_iso: ben
+    name: দুয়া
+    auto: true
   - translation_iso: deu
     name: Dũya
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दुन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dũya
     auto: true
   - translation_iso: jpn
     name: ドゥヤ語

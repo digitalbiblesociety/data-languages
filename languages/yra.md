@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يراكاي
     auto: true
+  - translation_iso: ben
+    name: য়েরাকাই
+    auto: true
   - translation_iso: deu
     name: Yerakai
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: yerakai
   - translation_iso: hin
     name: येराकाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yerakai
     auto: true
   - translation_iso: jpn
     name: イェラカイ語

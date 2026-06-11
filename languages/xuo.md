@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوو
     auto: true
+  - translation_iso: ben
+    name: কুও
+    auto: true
   - translation_iso: deu
     name: Kuo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuo
   - translation_iso: hin
     name: कुओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuo
     auto: true
   - translation_iso: jpn
     name: クオ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دارلونج
     auto: true
+  - translation_iso: ben
+    name: দারলোং
+    auto: true
   - translation_iso: deu
     name: Darlong
     auto: true

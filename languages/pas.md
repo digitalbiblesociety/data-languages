@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باباسينا
     auto: true
+  - translation_iso: ben
+    name: পাপাসেনা
+    auto: true
   - translation_iso: deu
     name: Papasena
     auto: true

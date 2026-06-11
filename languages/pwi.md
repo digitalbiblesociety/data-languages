@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتوين
     auto: true
+  - translation_iso: ben
+    name: পাতওয়িন
+    auto: true
   - translation_iso: deu
     name: Patwin
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: patwin
   - translation_iso: hin
     name: पैटविन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Patwin
     auto: true
   - translation_iso: jpn
     name: パットウィン語

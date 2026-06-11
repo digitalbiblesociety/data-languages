@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نارونغا
     auto: true
+  - translation_iso: ben
+    name: নারুংগা
+    auto: true
   - translation_iso: deu
     name: Narungga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: narungga
   - translation_iso: hin
     name: नारुंग्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Narungga
     auto: true
   - translation_iso: jpn
     name: ナルングガ語

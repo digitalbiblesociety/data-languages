@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سينيكاهوا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: সিনিকাহুয়া মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Sinicahua-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de San Antonio Sinicahua
   - translation_iso: hin
     name: सिनिकाहुआ मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sinicahua Mixtec
     auto: true
   - translation_iso: jpn
     name: シニカフア・ミステク語

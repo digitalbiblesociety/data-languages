@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجادجيرواج
     auto: true
+  - translation_iso: ben
+    name: গাদজেরাওয়াং
+    auto: true
   - translation_iso: deu
     name: Gadjerawang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gadjerawang
   - translation_iso: hin
     name: गादजेरावांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gadjerawang
     auto: true
   - translation_iso: jpn
     name: ガジェラワン語

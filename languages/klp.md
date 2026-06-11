@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كاماسا
     auto: true
+  - translation_iso: ben
+    name: কামাসা
+    auto: true
   - translation_iso: deu
     name: Kamasa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kamasa
   - translation_iso: hin
     name: कामासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamasa
     auto: true
   - translation_iso: jpn
     name: カマサ語

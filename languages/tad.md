@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاوسي
     auto: true
+  - translation_iso: ben
+    name: তাউসে
+    auto: true
   - translation_iso: deu
     name: Tause
     auto: true

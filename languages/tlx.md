@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خيهيك
     auto: true
+  - translation_iso: ben
+    name: খেহেক
+    auto: true
   - translation_iso: deu
     name: Khehek
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khehek
   - translation_iso: hin
     name: खेहेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khehek
     auto: true
   - translation_iso: jpn
     name: ケヘク語

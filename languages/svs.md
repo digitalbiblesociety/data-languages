@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سافوسافو
     auto: true
+  - translation_iso: ben
+    name: সাভোসাভো
+    auto: true
   - translation_iso: deu
     name: Savosavo
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: savosavo
   - translation_iso: hin
     name: सावोसावो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Savosavo
     auto: true
   - translation_iso: jpn
     name: サヴォサヴォ語

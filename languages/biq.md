@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيبي
     auto: true
+  - translation_iso: ben
+    name: বিপি
+    auto: true
   - translation_iso: deu
     name: Bipi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bipi
   - translation_iso: hin
     name: बिपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bipi
     auto: true
   - translation_iso: jpn
     name: ビピ語

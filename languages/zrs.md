@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مايراسي
     auto: true
+  - translation_iso: ben
+    name: মাইরাসি
+    auto: true
   - translation_iso: deu
     name: Mairasi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mairasi
   - translation_iso: hin
     name: मैरासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mairasi
     auto: true
   - translation_iso: jpn
     name: マイラシ語

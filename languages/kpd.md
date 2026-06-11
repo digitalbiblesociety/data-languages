@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبا
     auto: true
+  - translation_iso: ben
+    name: কোবা
+    auto: true
   - translation_iso: deu
     name: Koba
     auto: true

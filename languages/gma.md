@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غامبيرا
     auto: true
+  - translation_iso: ben
+    name: গামবেরা
+    auto: true
   - translation_iso: deu
     name: Gambera
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gambera
   - translation_iso: hin
     name: गाम्बेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gambera
     auto: true
   - translation_iso: jpn
     name: ガンベラ語

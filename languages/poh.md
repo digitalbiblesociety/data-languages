@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوقومتشي
     auto: true
+  - translation_iso: ben
+    name: পোকোমচি
+    auto: true
   - translation_iso: deu
     name: Pocomchí-Sprache
   - translation_iso: fra
     name: poqomchi’
   - translation_iso: hin
     name: पोकोमची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Poqomchi
     auto: true
   - translation_iso: jpn
     name: ポコムチ語

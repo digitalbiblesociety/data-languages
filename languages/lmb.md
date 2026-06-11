@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يريي
     auto: true
+  - translation_iso: ben
+    name: মেরেই
+    auto: true
   - translation_iso: deu
     name: Merei
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: merei
   - translation_iso: hin
     name: मेरेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Merei
     auto: true
   - translation_iso: jpn
     name: メレイ語

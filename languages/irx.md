@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كامبيراو
     auto: true
+  - translation_iso: ben
+    name: কামবেরাউ
+    auto: true
   - translation_iso: deu
     name: Kamberau
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कांबेराऊ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamberau
     auto: true
   - translation_iso: jpn
     name: カムベラウ語

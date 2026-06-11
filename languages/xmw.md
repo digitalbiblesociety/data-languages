@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ملغاشية تسيميهيتي
     auto: true
+  - translation_iso: ben
+    name: তসিমিহেতয় মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Tsimihety-Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsimihety
   - translation_iso: hin
     name: त्सिमिहेती मालागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsimihety Malagasy
     auto: true
   - translation_iso: jpn
     name: ツィミヘティ・マダガスカル語

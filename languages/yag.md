@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: يامانا
     auto: true
+  - translation_iso: ben
+    name: য়ামানা
+    auto: true
   - translation_iso: deu
     name: Yaghan-Sprache
   - translation_iso: fra
     name: yagan
   - translation_iso: hin
     name: यामाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yámana
     auto: true
   - translation_iso: jpn
     name: ヤーガン語

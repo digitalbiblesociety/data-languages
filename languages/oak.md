@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नवाखालीय बोली
+  - translation_iso: ind
+    name: Bahasa Noakhali
+    auto: true
   - translation_iso: jpn
     name: ノアカリ語
     auto: true

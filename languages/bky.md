@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوكيي
     auto: true
+  - translation_iso: ben
+    name: বোকয়ি
+    auto: true
   - translation_iso: deu
     name: Bokyi
   - translation_iso: fra
     name: boki
   - translation_iso: hin
     name: बोक्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bokyi
     auto: true
   - translation_iso: jpn
     name: ボキ語

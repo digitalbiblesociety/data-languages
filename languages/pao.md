@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন পাইউতে
+    auto: true
   - translation_iso: deu
     name: Nördliches Paiute
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paiute du Nord
   - translation_iso: hin
     name: उत्तरी पाइयूट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Paiute
     auto: true
   - translation_iso: jpn
     name: 北部パイユート語

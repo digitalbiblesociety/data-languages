@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يوكوبين
     auto: true
+  - translation_iso: ben
+    name: য়ুকুবেন
+    auto: true
   - translation_iso: deu
     name: Yukuben
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yukuben
   - translation_iso: hin
     name: युकुबेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yukuben
     auto: true
   - translation_iso: jpn
     name: ユクベン語

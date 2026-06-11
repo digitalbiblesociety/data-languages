@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بونيريت
     auto: true
+  - translation_iso: ben
+    name: বোনেরাতে
+    auto: true
   - translation_iso: deu
     name: Bonerate
     auto: true

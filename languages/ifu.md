@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مايوياو إيفوغاو
     auto: true
+  - translation_iso: ben
+    name: মায়োয়াও ইফুগাও
+    auto: true
   - translation_iso: deu
     name: Mayoyao-Ifugao
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mayoyao
   - translation_iso: hin
     name: मायोयाओ इफुगाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayoyao Ifugao
     auto: true
   - translation_iso: jpn
     name: マヨヤオ・イフガオ語

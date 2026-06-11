@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mararit_language"
 translations:
   - translation_iso: ara
     name: لغة ماراريت
+  - translation_iso: ben
+    name: মারারিত
+    auto: true
   - translation_iso: deu
     name: Mararit
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मारारित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mararit
     auto: true
   - translation_iso: jpn
     name: マラリット語

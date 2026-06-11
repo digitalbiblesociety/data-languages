@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يانغوم مون
     auto: true
+  - translation_iso: ben
+    name: য়াঙুম মোন
+    auto: true
   - translation_iso: deu
     name: Yangum Mon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yangum mon
   - translation_iso: hin
     name: यांगुम मोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yangum Mon
     auto: true
   - translation_iso: jpn
     name: ヤングム・モン語

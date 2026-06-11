@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناهواتل الكلاسيكي
     auto: true
+  - translation_iso: ben
+    name: কলাস্সিকাল নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Klassisches Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl classique
   - translation_iso: hin
     name: शास्त्रीय नाहुआत्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Classical Nahuatl
     auto: true
   - translation_iso: jpn
     name: 古典ナワトル語

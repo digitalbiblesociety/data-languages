@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: "الشا'اري"
     auto: true
+  - translation_iso: ben
+    name: চারি
+    auto: true
   - translation_iso: deu
     name: "Cha'ari"
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: danshe
   - translation_iso: hin
     name: चआरी
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Cha'ari"
     auto: true
   - translation_iso: jpn
     name: チャアリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جاهري
     auto: true
+  - translation_iso: ben
+    name: গাহরি
+    auto: true
   - translation_iso: deu
     name: Gahri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gahri
   - translation_iso: hin
     name: बुनान भाषा
+  - translation_iso: ind
+    name: Bahasa Gahri
+    auto: true
   - translation_iso: jpn
     name: ガフリ語
     auto: true

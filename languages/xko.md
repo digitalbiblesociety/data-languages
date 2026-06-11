@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كيور
     auto: true
+  - translation_iso: ben
+    name: কিওর্র
+    auto: true
   - translation_iso: deu
     name: Kiorr
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kiorr
   - translation_iso: hin
     name: कियोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kiorr
     auto: true
   - translation_iso: jpn
     name: キオール語

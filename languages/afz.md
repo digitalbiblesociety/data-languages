@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة أوبوكويتاي
     auto: true
+  - translation_iso: ben
+    name: ওবোকুইতাই
+    auto: true
   - translation_iso: deu
     name: Obokuitai
     auto: true

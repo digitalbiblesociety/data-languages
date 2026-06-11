@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ورته يفاتي
     auto: true
+  - translation_iso: ben
+    name: নোরথ এফাতে
+    auto: true
   - translation_iso: deu
     name: Nord-Efate
   - translation_iso: fra
     name: éfaté du Nord
   - translation_iso: hin
     name: उत्तरी एफाते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Efate
     auto: true
   - translation_iso: jpn
     name: グナ語

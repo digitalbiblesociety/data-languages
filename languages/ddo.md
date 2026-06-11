@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديدو
     auto: true
+  - translation_iso: ben
+    name: দিদো
+    auto: true
   - translation_iso: deu
     name: Tsesisch
   - translation_iso: fra
     name: tsez
   - translation_iso: hin
     name: दीदो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dido
     auto: true
   - translation_iso: jpn
     name: ツェズ語

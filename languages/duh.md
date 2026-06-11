@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: دونجرا بيل
     auto: true
+  - translation_iso: ben
+    name: দুংরা ভিল
+    auto: true
   - translation_iso: deu
     name: Dungra Bhil
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: bhil de Dungra
   - translation_iso: hin
     name: डूंगरा भील
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dungra Bhil
     auto: true
   - translation_iso: jpn
     name: ドゥングラ・ビル語

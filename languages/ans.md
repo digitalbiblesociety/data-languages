@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अनसरमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anserma
+    auto: true
   - translation_iso: jpn
     name: アンセルマ語
     auto: true

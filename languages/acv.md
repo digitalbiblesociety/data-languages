@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अचुमावी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Achumawi
+    auto: true
   - translation_iso: jpn
     name: アチョマウィ語
   - translation_iso: kor

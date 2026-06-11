@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دايي
     auto: true
+  - translation_iso: ben
+    name: দায়ি
+    auto: true
   - translation_iso: deu
     name: Dayi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dayi
   - translation_iso: hin
     name: दायी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dayi
     auto: true
   - translation_iso: jpn
     name: ダイ語

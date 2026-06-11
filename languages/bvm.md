@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بامونْكا
     auto: true
+  - translation_iso: ben
+    name: বামুনকা
+    auto: true
   - translation_iso: deu
     name: Bamunka
   - translation_iso: fra
     name: bamunka
   - translation_iso: hin
     name: बामुंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bamunka
     auto: true
   - translation_iso: jpn
     name: バムンカ語

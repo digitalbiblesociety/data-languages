@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الشمالية
     auto: true
+  - translation_iso: ben
+    name: পওয়ো নোরথেরন কারেন
+    auto: true
   - translation_iso: deu
     name: Nördliches Pwo-Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pwo du Nord
   - translation_iso: hin
     name: उत्तरी प्वो करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pwo Northern Karen
     auto: true
   - translation_iso: jpn
     name: プウォ北カレン語

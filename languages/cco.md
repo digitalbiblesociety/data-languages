@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكوماتيبك تشينانتك
     auto: true
+  - translation_iso: ben
+    name: কোমালতেপেক চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Comaltepec-Chinantekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chinantèque de Comaltepec
   - translation_iso: hin
     name: कोमाल्टेपेक चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Comaltepec Chinantec
     auto: true
   - translation_iso: jpn
     name: コマルテペック・チナンテク語

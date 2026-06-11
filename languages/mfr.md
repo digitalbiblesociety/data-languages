@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريثيل
     auto: true
+  - translation_iso: ben
+    name: মার্রিথিয়েল
+    auto: true
   - translation_iso: deu
     name: Marrithiyel
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marithiel
   - translation_iso: hin
     name: मारिथियेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marrithiyel
     auto: true
   - translation_iso: jpn
     name: マルリ・ジャビン語

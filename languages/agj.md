@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अर्गोब्बा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Argobba
+    auto: true
   - translation_iso: jpn
     name: アルゴッバ語
   - translation_iso: kor

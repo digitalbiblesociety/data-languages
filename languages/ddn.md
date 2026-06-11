@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديندي
     auto: true
+  - translation_iso: ben
+    name: দেনদি
+    auto: true
   - translation_iso: deu
     name: Dendi
   - translation_iso: fra
     name: dendi
   - translation_iso: hin
     name: देंदी (बेनिन)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dendi
     auto: true
   - translation_iso: jpn
     name: デンディ語

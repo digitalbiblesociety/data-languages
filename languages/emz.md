@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الميسا
     auto: true
+  - translation_iso: ben
+    name: মবেস্সা
+    auto: true
   - translation_iso: deu
     name: Mbessa
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: mbessa
   - translation_iso: hin
     name: म्बेसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbessa
     auto: true
   - translation_iso: jpn
     name: ムベッサ語

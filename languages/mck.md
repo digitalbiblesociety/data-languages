@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوندا
     auto: true
+  - translation_iso: ben
+    name: মবুনদা
+    auto: true
   - translation_iso: deu
     name: Mbunda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbunda
   - translation_iso: hin
     name: म्बुंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbunda
     auto: true
   - translation_iso: jpn
     name: ムブンダ語

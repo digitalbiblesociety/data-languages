@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشين بورْيات
     auto: true
+  - translation_iso: ben
+    name: চিনা বুরিয়াত
+    auto: true
   - translation_iso: deu
     name: Chinesisches Burjatisch
     auto: true

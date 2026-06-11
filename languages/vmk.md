@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-شيريما
     auto: true
+  - translation_iso: ben
+    name: মাখুওয়া-শিরিমা
+    auto: true
   - translation_iso: deu
     name: Makhuwa-Shirima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chirima
   - translation_iso: hin
     name: माखुवा-शिरिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makhuwa-Shirima
     auto: true
   - translation_iso: jpn
     name: マクワ・シリマ語

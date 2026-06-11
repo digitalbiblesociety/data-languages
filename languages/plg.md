@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيلاغا
     auto: true
+  - translation_iso: ben
+    name: পিলাগা
+    auto: true
   - translation_iso: deu
     name: Pilagá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pilagá
   - translation_iso: hin
     name: पिलागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pilagá
     auto: true
   - translation_iso: jpn
     name: ピラガ語

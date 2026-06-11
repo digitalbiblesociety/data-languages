@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوساريك يال
     auto: true
+  - translation_iso: ben
+    name: কোসারেক য়ালে
+    auto: true
   - translation_iso: deu
     name: Kosarek Yale
     auto: true

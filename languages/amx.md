@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अनमाटियेरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anmatyerre
+    auto: true
   - translation_iso: jpn
     name: アンマティエッレ語
     auto: true

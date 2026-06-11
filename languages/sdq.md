@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: سيماندانج
     auto: true
+  - translation_iso: ben
+    name: সেমানদাংর
+    auto: true
   - translation_iso: deu
     name: Semandang
     auto: true

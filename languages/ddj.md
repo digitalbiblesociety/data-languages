@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جارو
     auto: true
+  - translation_iso: ben
+    name: জারু
+    auto: true
   - translation_iso: deu
     name: Jaru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jaru
   - translation_iso: hin
     name: जारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jaru
     auto: true
   - translation_iso: jpn
     name: ジャル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كينغا
     auto: true
+  - translation_iso: ben
+    name: কিঙা
+    auto: true
   - translation_iso: deu
     name: Kinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kinga
   - translation_iso: hin
     name: किंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kinga
     auto: true
   - translation_iso: jpn
     name: キンガ語

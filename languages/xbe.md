@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बिगांबल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bigambal
+    auto: true
   - translation_iso: jpn
     name: ビガンバル語
     auto: true

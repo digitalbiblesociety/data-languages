@@ -33,6 +33,9 @@ translations:
   - translation_iso: hin
     name: जुमली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jumli
+    auto: true
   - translation_iso: jpn
     name: ジュムリー語
   - translation_iso: kor

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ندي جبيتي
     auto: true
+  - translation_iso: ben
+    name: নদে-গবিতে
+    auto: true
   - translation_iso: deu
     name: Nde-Gbite
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: nde-gbite
   - translation_iso: hin
     name: न्दे-ग्बिते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nde-Gbite
     auto: true
   - translation_iso: jpn
     name: ンデ・グビテ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serua_language"
 translations:
   - translation_iso: ara
     name: لغة سيروا
+  - translation_iso: ben
+    name: সেরুয়া
+    auto: true
   - translation_iso: deu
     name: Serua
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكبيشي
     auto: true
+  - translation_iso: ben
+    name: ইকপেশি
+    auto: true
   - translation_iso: deu
     name: Ikpeshi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इकपेशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikpeshi
     auto: true
   - translation_iso: jpn
     name: イクペシ語

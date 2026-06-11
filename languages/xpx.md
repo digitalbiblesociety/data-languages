@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الغربية
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Südwesttasmanisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: toogee
   - translation_iso: hin
     name: दक्षिण-पश्चिमी तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: 南西タスマニア語

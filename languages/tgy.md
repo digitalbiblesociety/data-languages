@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: توغويو
     auto: true
+  - translation_iso: ben
+    name: তোগোয়ো
+    auto: true
   - translation_iso: deu
     name: Togoyo
   - translation_iso: fra
     name: togoyo
   - translation_iso: hin
     name: तोगोयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Togoyo
     auto: true
   - translation_iso: jpn
     name: トゴヨ語

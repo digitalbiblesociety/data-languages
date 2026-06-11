@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة توموتوان
     auto: true
+  - translation_iso: ben
+    name: তুয়ামোতুয়ান
+    auto: true
   - translation_iso: deu
     name: Tuamotuisch
   - translation_iso: fra
     name: paumotu
   - translation_iso: hin
     name: तुआमोतुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuamotuan
     auto: true
   - translation_iso: jpn
     name: トゥアモトゥ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ياكا
     auto: true
+  - translation_iso: ben
+    name: য়াকা
+    auto: true
   - translation_iso: deu
     name: Kiyaka
   - translation_iso: fra
     name: yaka
   - translation_iso: hin
     name: याका (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaka
     auto: true
   - translation_iso: jpn
     name: ヤカ語（コンゴ民主共和国）

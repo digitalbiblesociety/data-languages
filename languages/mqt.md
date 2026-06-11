@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موك
     auto: true
+  - translation_iso: ben
+    name: মোক
+    auto: true
   - translation_iso: deu
     name: Mok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mok
   - translation_iso: hin
     name: मोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mok
     auto: true
   - translation_iso: jpn
     name: モク語

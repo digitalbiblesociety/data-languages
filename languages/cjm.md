@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الشام الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন চাম
+    auto: true
   - translation_iso: deu
     name: Östliches Cham
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: cham de Phan Rang
   - translation_iso: hin
     name: पूर्वी चाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Cham
     auto: true
   - translation_iso: jpn
     name: チャム語

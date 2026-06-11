@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tunisian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة التونسية
+  - translation_iso: ben
+    name: তুনিসিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Tunesische Gebärdensprache
   - translation_iso: fra
     name: langue des signes tunisienne
   - translation_iso: hin
     name: ट्यूनीशियाई सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tunisian Sign Language
     auto: true
   - translation_iso: jpn
     name: チュニジア手話

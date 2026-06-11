@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هإيبآن
     auto: true
+  - translation_iso: ben
+    name: হেইবান
+    auto: true
   - translation_iso: deu
     name: Heiban
   - translation_iso: fra
     name: heiban
   - translation_iso: hin
     name: हेइबान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Heiban
     auto: true
   - translation_iso: jpn
     name: ヘイバン語

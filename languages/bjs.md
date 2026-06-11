@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बजान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bajan
+    auto: true
   - translation_iso: jpn
     name: バジャン語
     auto: true

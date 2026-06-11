@@ -29,6 +29,9 @@ translations:
     name: langue des signes hondurienne
   - translation_iso: hin
     name: होंडुरन सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Honduras Sign Language
+    auto: true
   - translation_iso: jpn
     name: ホンジュラス手話
   - translation_iso: kor

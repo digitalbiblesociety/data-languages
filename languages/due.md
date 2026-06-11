@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوميراي دوماجت أجتا
     auto: true
+  - translation_iso: ben
+    name: উমিরায় দুমাগেত আগতা
+    auto: true
   - translation_iso: deu
     name: Umiray-Dumaget-Agta
     auto: true

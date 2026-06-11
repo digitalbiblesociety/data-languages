@@ -30,6 +30,9 @@ translations:
     name: phom
   - translation_iso: hin
     name: फोम भाषा
+  - translation_iso: ind
+    name: Bahasa Phom Naga
+    auto: true
   - translation_iso: jpn
     name: フォム・ナガ語
     auto: true

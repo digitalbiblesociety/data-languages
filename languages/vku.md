@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوراما
     auto: true
+  - translation_iso: ben
+    name: কুর্রামা
+    auto: true
   - translation_iso: deu
     name: Kurrama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kurrama
   - translation_iso: hin
     name: कुर्रामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kurrama
     auto: true
   - translation_iso: jpn
     name: グラマ語

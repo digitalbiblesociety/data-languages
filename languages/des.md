@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديسانو
     auto: true
+  - translation_iso: ben
+    name: দেসানো
+    auto: true
   - translation_iso: deu
     name: Desano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: desano
   - translation_iso: hin
     name: देसानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Desano
     auto: true
   - translation_iso: jpn
     name: デサノ語

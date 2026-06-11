@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: الشونغ
     auto: true
+  - translation_iso: ben
+    name: চুং
+    auto: true
   - translation_iso: deu
     name: Cung
   - translation_iso: fra
     name: chungmboko
   - translation_iso: hin
     name: चुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chung
     auto: true
   - translation_iso: jpn
     name: チュング語

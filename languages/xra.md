@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كراهو
     auto: true
+  - translation_iso: ben
+    name: করাহো
+    auto: true
   - translation_iso: deu
     name: Krahô
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: krahô
   - translation_iso: hin
     name: क्राहो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krahô
     auto: true
   - translation_iso: jpn
     name: クラホ語

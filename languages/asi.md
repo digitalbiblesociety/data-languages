@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروواي
     auto: true
+  - translation_iso: ben
+    name: বুরুওয়াই
+    auto: true
   - translation_iso: deu
     name: Buruwai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुरूवाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buruwai
     auto: true
   - translation_iso: jpn
     name: ブルウァイ語

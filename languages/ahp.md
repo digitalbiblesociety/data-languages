@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अप्रौमू आइज़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aproumu Aizi
+    auto: true
   - translation_iso: jpn
     name: アプロウム・アイジ語
     auto: true

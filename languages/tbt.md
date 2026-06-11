@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيمبو
     auto: true
+  - translation_iso: ben
+    name: কিতেমবো তেমবো
+    auto: true
   - translation_iso: deu
     name: Tembo (Kitembo)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tembo
   - translation_iso: hin
     name: तेम्बो (कितेम्बो)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kitembo Tembo
     auto: true
   - translation_iso: jpn
     name: テンボ語

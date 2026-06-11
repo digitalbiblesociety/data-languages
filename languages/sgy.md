@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: سانجليتشي
     auto: true
+  - translation_iso: ben
+    name: সাংলেচি
+    auto: true
   - translation_iso: deu
     name: Sanglechi
   - translation_iso: fra
     name: sangletchi
   - translation_iso: hin
     name: सांगलेची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sanglechi
     auto: true
   - translation_iso: jpn
     name: サングリチュ語

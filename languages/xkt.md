@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كانتوسي
     auto: true
+  - translation_iso: ben
+    name: কানতোসি
+    auto: true
   - translation_iso: deu
     name: Kantosi
   - translation_iso: fra
     name: kantosi
   - translation_iso: hin
     name: कांतोसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kantosi
     auto: true
   - translation_iso: jpn
     name: カントシ語

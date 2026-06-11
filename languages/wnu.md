@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وسان
     auto: true
+  - translation_iso: ben
+    name: উসান
+    auto: true
   - translation_iso: deu
     name: Usan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: usan
   - translation_iso: hin
     name: उसान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Usan
     auto: true
   - translation_iso: jpn
     name: ウサン語

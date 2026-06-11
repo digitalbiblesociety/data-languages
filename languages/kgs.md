@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كومبايينجار
     auto: true
+  - translation_iso: ben
+    name: কুমবাইংগার
+    auto: true
   - translation_iso: deu
     name: Gumbaynggirr
   - translation_iso: fra
     name: gumbaynggirr
   - translation_iso: hin
     name: कुम्बैन्गर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kumbainggar
     auto: true
   - translation_iso: jpn
     name: クンバインガル語

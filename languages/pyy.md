@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيين
     auto: true
+  - translation_iso: ben
+    name: পয়েন
+    auto: true
   - translation_iso: deu
     name: Pyen
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्येन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pyen
     auto: true
   - translation_iso: jpn
     name: ピェン語

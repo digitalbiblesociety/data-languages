@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داي تشين
     auto: true
+  - translation_iso: ben
+    name: দাই চিন
+    auto: true
   - translation_iso: deu
     name: Daai-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दाई चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daai Chin
     auto: true
   - translation_iso: jpn
     name: ダアイ・チン語

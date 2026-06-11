@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ميكاسوكي
     auto: true
+  - translation_iso: ben
+    name: মিকাসুকি
+    auto: true
   - translation_iso: deu
     name: Hitchiti-Mikasuki-Sprache
   - translation_iso: fra
     name: mikasuki
   - translation_iso: hin
     name: मिकासुकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mikasuki
     auto: true
   - translation_iso: jpn
     name: ミカスキ語

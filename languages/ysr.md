@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة سيرينيك يوبيك
     auto: true
+  - translation_iso: ben
+    name: সিরেনিক য়ুপিক
+    auto: true
   - translation_iso: deu
     name: Sirenik
   - translation_iso: fra
     name: sirenik
   - translation_iso: hin
     name: सिरेनिक युपिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sirenik Yupik
     auto: true
   - translation_iso: jpn
     name: シレニック語

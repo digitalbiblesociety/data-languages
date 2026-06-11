@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماريييدي
     auto: true
+  - translation_iso: ben
+    name: মারিয়েদি
+    auto: true
   - translation_iso: deu
     name: Mariyedi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mariyedi
   - translation_iso: hin
     name: मरियेदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mariyedi
     auto: true
   - translation_iso: jpn
     name: マリイェディ語

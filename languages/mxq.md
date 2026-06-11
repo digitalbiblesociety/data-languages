@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: خوكيلا ميكسي
     auto: true
+  - translation_iso: ben
+    name: জুকুইলা মিকসে
+    auto: true
   - translation_iso: deu
     name: Juquila-Mixe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixe de Juquila
   - translation_iso: hin
     name: हुकिला मिक्से
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Juquila Mixe
     auto: true
   - translation_iso: jpn
     name: フキラ・ミクセ語

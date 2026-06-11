@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفانباك
     auto: true
+  - translation_iso: ben
+    name: ফানবাক
+    auto: true
   - translation_iso: deu
     name: Fanbak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: orkon-fanbak
   - translation_iso: hin
     name: फानबाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fanbak
     auto: true
   - translation_iso: jpn
     name: ファンバク語

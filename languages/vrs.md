@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: فاريسي
     auto: true
+  - translation_iso: ben
+    name: ভারিসি
+    auto: true
   - translation_iso: deu
     name: Varisi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: varisi
   - translation_iso: hin
     name: वारिसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Varisi
     auto: true
   - translation_iso: jpn
     name: バリシ語

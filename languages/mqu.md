@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندري
     auto: true
+  - translation_iso: ben
+    name: মানদারি
+    auto: true
   - translation_iso: deu
     name: Mandari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mandari
   - translation_iso: hin
     name: मांदारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandari
     auto: true
   - translation_iso: jpn
     name: マンダリ語

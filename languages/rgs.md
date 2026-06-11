@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ساذرن روجلاي
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন রোগলাই
+    auto: true
   - translation_iso: deu
     name: Süd-Roglai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: roglai du Sud
   - translation_iso: hin
     name: दक्षिणी रोग्लाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Roglai
     auto: true
   - translation_iso: jpn
     name: 南ログライ語

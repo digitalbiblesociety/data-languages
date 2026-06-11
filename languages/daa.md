@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الدانغاليات
     auto: true
+  - translation_iso: ben
+    name: দাঙালেয়াত
+    auto: true
   - translation_iso: deu
     name: Dangla
   - translation_iso: fra
     name: dangaléat
   - translation_iso: hin
     name: दांगालेआत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dangaléat
     auto: true
   - translation_iso: jpn
     name: ダンガレアト語

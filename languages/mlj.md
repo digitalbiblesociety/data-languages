@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميلتو
     auto: true
+  - translation_iso: ben
+    name: মিলতু
+    auto: true
   - translation_iso: deu
     name: Miltu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miltu
   - translation_iso: hin
     name: मिल्तु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miltu
     auto: true
   - translation_iso: jpn
     name: ミルトゥ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكوتي
     auto: true
+  - translation_iso: ben
+    name: কোতি
+    auto: true
   - translation_iso: deu
     name: Ekoti-Sprache
   - translation_iso: fra
     name: koti
   - translation_iso: hin
     name: कोती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koti
     auto: true
   - translation_iso: jpn
     name: コティ語

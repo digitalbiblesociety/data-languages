@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوانج
     auto: true
+  - translation_iso: ben
+    name: কওয়াং
+    auto: true
   - translation_iso: deu
     name: Kwang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwang
   - translation_iso: hin
     name: क्वांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwang
     auto: true
   - translation_iso: jpn
     name: クワン語

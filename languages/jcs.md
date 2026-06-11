@@ -30,6 +30,9 @@ translations:
     name: langue des signes jamaïcaine rurale
   - translation_iso: hin
     name: जमैका देश की सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Jamaican Country Sign Language
+    auto: true
   - translation_iso: jpn
     name: ジャマイカ・カントリー手話
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبون
     auto: true
+  - translation_iso: ben
+    name: কোবোন
+    auto: true
   - translation_iso: deu
     name: Kobon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: Kobon
   - translation_iso: hin
     name: कोबोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kobon
     auto: true
   - translation_iso: jpn
     name: コボン語

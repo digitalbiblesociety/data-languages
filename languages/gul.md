@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gullah_language"
 translations:
   - translation_iso: ara
     name: كولا
+  - translation_iso: ben
+    name: সেয়া ইসলানদ করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Gullah
   - translation_iso: fra
     name: gullah
   - translation_iso: hin
     name: सी आइलैंड क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sea Island Creole English
     auto: true
   - translation_iso: jpn
     name: ガラ語

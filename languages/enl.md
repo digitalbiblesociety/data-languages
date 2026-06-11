@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنلهيت
     auto: true
+  - translation_iso: ben
+    name: এনলহেত
+    auto: true
   - translation_iso: deu
     name: Enlhet
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: enlhet
   - translation_iso: hin
     name: एनलहेट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enlhet
     auto: true
   - translation_iso: jpn
     name: エンレット語

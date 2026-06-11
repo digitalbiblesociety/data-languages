@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اراكهي
     auto: true
+  - translation_iso: ben
+    name: মারাচি
+    auto: true
   - translation_iso: deu
     name: Marachi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marachi
   - translation_iso: hin
     name: मराची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marachi
     auto: true
   - translation_iso: jpn
     name: マラチ語

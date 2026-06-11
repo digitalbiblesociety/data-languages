@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: बलैबलन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balaibalan\r
+    auto: true
   - translation_iso: jpn
     name: バライバラン語
     auto: true

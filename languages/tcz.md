@@ -30,6 +30,9 @@ translations:
     name: thado
   - translation_iso: hin
     name: थडो भाषा
+  - translation_iso: ind
+    name: Bahasa Thado Chin
+    auto: true
   - translation_iso: jpn
     name: タドウ語
   - translation_iso: kor

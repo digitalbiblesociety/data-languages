@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيوا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত কেওয়া
+    auto: true
   - translation_iso: deu
     name: West-Kewa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "kewa de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी केवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Kewa
     auto: true
   - translation_iso: jpn
     name: ウェスト・ケワ語

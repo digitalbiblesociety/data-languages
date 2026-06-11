@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناودم
     auto: true
+  - translation_iso: ben
+    name: নাওয়দম
+    auto: true
   - translation_iso: deu
     name: Nawdm
   - translation_iso: fra
     name: nawdm
   - translation_iso: hin
     name: नौद्म
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nawdm
     auto: true
   - translation_iso: jpn
     name: ナウドム語

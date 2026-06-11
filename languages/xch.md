@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كهيماكوم
     auto: true
+  - translation_iso: ben
+    name: চেমাকুম
+    auto: true
   - translation_iso: deu
     name: Chimakum
   - translation_iso: fra
     name: chimakum
   - translation_iso: hin
     name: चेमाकुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chemakum
     auto: true
   - translation_iso: jpn
     name: チェマクム語

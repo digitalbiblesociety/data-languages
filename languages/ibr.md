@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إبواورو
     auto: true
+  - translation_iso: ben
+    name: ইবুওরো
+    auto: true
   - translation_iso: deu
     name: Ibuoro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ibuoro
   - translation_iso: hin
     name: इबुओरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ibuoro
     auto: true
   - translation_iso: jpn
     name: イブオロ語

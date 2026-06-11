@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غورمانشيما
     auto: true
+  - translation_iso: ben
+    name: গোউরমানচেমা
+    auto: true
   - translation_iso: deu
     name: Gurma
   - translation_iso: fra
     name: gourmantché
   - translation_iso: hin
     name: गोरमांचेमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gourmanchéma
     auto: true
   - translation_iso: jpn
     name: グルマンチェマ語

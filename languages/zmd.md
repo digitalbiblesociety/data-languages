@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماريدان
     auto: true
+  - translation_iso: ben
+    name: মারিদান
+    auto: true
   - translation_iso: deu
     name: Maridan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: maridan
   - translation_iso: hin
     name: मारिदान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maridan
     auto: true
   - translation_iso: jpn
     name: マリダン語

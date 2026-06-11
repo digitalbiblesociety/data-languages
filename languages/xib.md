@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iberian_language"
 translations:
   - translation_iso: ara
     name: لغة ايبيرية
+  - translation_iso: ben
+    name: ইবেরিয়ান
+    auto: true
   - translation_iso: deu
     name: Iberisch
   - translation_iso: fra

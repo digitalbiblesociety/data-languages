@@ -30,6 +30,9 @@ translations:
     name: "langue des signes urubú-ka'apór"
   - translation_iso: hin
     name: कापोर सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Urubú-Kaapor Sign Language
+    auto: true
   - translation_iso: jpn
     name: ウルブ・カァポル手話
   - translation_iso: kor

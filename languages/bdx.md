@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودونج-بودونج
     auto: true
+  - translation_iso: ben
+    name: বুদোং-বুদোং
+    auto: true
   - translation_iso: deu
     name: Budong-Budong
   - translation_iso: fra

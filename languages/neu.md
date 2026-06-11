@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: نيو
     auto: true
+  - translation_iso: ben
+    name: নেও
+    auto: true
   - translation_iso: deu
     name: Neo
   - translation_iso: fra
     name: neo
   - translation_iso: hin
     name: नेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Neo
     auto: true
   - translation_iso: jpn
     name: ネオ

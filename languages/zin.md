@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زينزا
     auto: true
+  - translation_iso: ben
+    name: জিনজা
+    auto: true
   - translation_iso: deu
     name: Zinza
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zinza
   - translation_iso: hin
     name: ज़िंज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zinza
     auto: true
   - translation_iso: jpn
     name: ジンザ語

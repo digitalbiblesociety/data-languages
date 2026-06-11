@@ -29,6 +29,9 @@ translations:
     name: avikam
   - translation_iso: hin
     name: अविकम भाषा
+  - translation_iso: ind
+    name: Bahasa Avikam
+    auto: true
   - translation_iso: jpn
     name: アヴィカム語
   - translation_iso: kor

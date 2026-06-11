@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إينابري
     auto: true
+  - translation_iso: ben
+    name: ইনয়াপারি
+    auto: true
   - translation_iso: deu
     name: Iñapari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iñapari
   - translation_iso: hin
     name: इन्यापारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iñapari
     auto: true
   - translation_iso: jpn
     name: イニャパリ語

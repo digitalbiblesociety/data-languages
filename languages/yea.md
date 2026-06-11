@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رافولا
     auto: true
+  - translation_iso: ben
+    name: রাভুলা
+    auto: true
   - translation_iso: deu
     name: Ravula
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: adiya
   - translation_iso: hin
     name: रावुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ravula
     auto: true
   - translation_iso: jpn
     name: ラブラ語

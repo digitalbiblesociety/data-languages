@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الليبية
+  - translation_iso: ben
+    name: লিবয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Libysche Gebärdensprache
   - translation_iso: fra
     name: langue des signes libyenne
   - translation_iso: hin
     name: लीबियाई सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Libyan Sign Language
     auto: true
   - translation_iso: jpn
     name: リビア手話

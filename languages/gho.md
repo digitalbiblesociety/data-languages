@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghomara_language"
 translations:
   - translation_iso: ara
     name: أمازيغية غمارة
+  - translation_iso: ben
+    name: ঘোমারা
+    auto: true
   - translation_iso: deu
     name: Ghomara
   - translation_iso: fra
     name: ghomari
   - translation_iso: hin
     name: घोमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghomara
     auto: true
   - translation_iso: jpn
     name: ゴマラ語

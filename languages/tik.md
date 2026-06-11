@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيكار
     auto: true
+  - translation_iso: ben
+    name: তিকার
+    auto: true
   - translation_iso: deu
     name: Tikar
   - translation_iso: fra
     name: tikar
   - translation_iso: hin
     name: तिकार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tikar
     auto: true
   - translation_iso: jpn
     name: ティカル語

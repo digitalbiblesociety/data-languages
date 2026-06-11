@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: ऐकाना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aikanã
+    auto: true
   - translation_iso: jpn
     name: アイカナ語
   - translation_iso: kor

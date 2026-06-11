@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكو
     auto: true
+  - translation_iso: ben
+    name: ইকো
+    auto: true
   - translation_iso: deu
     name: Iko
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iko
     auto: true
   - translation_iso: jpn
     name: イコ語

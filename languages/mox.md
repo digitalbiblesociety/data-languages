@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موليما
     auto: true
+  - translation_iso: ben
+    name: মোলিমা
+    auto: true
   - translation_iso: deu
     name: Molima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: molima
   - translation_iso: hin
     name: मोलिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Molima
     auto: true
   - translation_iso: jpn
     name: モリマ語

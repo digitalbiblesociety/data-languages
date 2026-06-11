@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشايما
     auto: true
+  - translation_iso: ben
+    name: চাইমা
+    auto: true
   - translation_iso: deu
     name: Chaima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chaima
   - translation_iso: hin
     name: चाइमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chaima
     auto: true
   - translation_iso: jpn
     name: チャイマ語

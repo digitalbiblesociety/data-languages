@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فينزا
     auto: true
+  - translation_iso: ben
+    name: ভিনজা
+    auto: true
   - translation_iso: deu
     name: Vinza
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vinza
   - translation_iso: hin
     name: विन्ज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vinza
     auto: true
   - translation_iso: jpn
     name: キヴィンザ語

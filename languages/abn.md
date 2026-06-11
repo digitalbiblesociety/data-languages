@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अबुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abua
+    auto: true
   - translation_iso: jpn
     name: アブア語
     auto: true

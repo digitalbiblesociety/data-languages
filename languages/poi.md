@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا الجبلية
     auto: true
+  - translation_iso: ben
+    name: হিঘলানদ পোপোলুকা
+    auto: true
   - translation_iso: deu
     name: Hochland-Popoluca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: popoluca de la Sierra
   - translation_iso: hin
     name: हाइलैंड पोपोलुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Highland Popoluca
     auto: true
   - translation_iso: jpn
     name: シエラポポルカ語

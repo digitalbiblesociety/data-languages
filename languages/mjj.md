@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مافاك
     auto: true
+  - translation_iso: ben
+    name: মাওয়াক
+    auto: true
   - translation_iso: deu
     name: Mawak
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mawak
   - translation_iso: hin
     name: मावाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mawak
     auto: true
   - translation_iso: jpn
     name: マワク語

@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: سيليان
     auto: true
+  - translation_iso: ben
+    name: সেলিয়ান
+    auto: true
   - translation_iso: deu
     name: Selonisch
   - translation_iso: fra
     name: sélonien
   - translation_iso: hin
     name: सेलियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Selian
     auto: true
   - translation_iso: jpn
     name: セロニア語

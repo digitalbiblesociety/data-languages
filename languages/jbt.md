@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جابوتي
     auto: true
+  - translation_iso: ben
+    name: জাবুতি
+    auto: true
   - translation_iso: deu
     name: Jabutí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djeoromitxi
   - translation_iso: hin
     name: जाबुती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jabutí
     auto: true
   - translation_iso: jpn
     name: ジャブティ語

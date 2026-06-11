@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تلاكسياكو الجنوبي الغربي
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন তলাকসিয়াকো মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Southwestern Tlaxiaco Mixtec
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिण-पश्चिमी त्लाशियाको मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Tlaxiaco Mixtec
     auto: true
   - translation_iso: jpn
     name: 南西トラシアコ・ミステク語

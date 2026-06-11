@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة الشواي
     auto: true
+  - translation_iso: ben
+    name: শওয়াই
+    auto: true
   - translation_iso: deu
     name: Schwai
   - translation_iso: fra
     name: shwai
   - translation_iso: hin
     name: श्वाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shwai
     auto: true
   - translation_iso: jpn
     name: シルムバ語

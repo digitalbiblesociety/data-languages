@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي خانج
     auto: true
+  - translation_iso: ben
+    name: তায় খাং
+    auto: true
   - translation_iso: deu
     name: Tay Khang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khang tay
   - translation_iso: hin
     name: ताय खांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tay Khang
     auto: true
   - translation_iso: jpn
     name: タイ・カン語

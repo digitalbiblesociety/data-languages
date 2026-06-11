@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايولي
     auto: true
+  - translation_iso: ben
+    name: ওয়াইওলি
+    auto: true
   - translation_iso: deu
     name: Waioli
     auto: true

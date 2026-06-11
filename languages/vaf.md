@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: فافسي
     auto: true
+  - translation_iso: ben
+    name: ভাফসি
+    auto: true
   - translation_iso: deu
     name: Vafsi
   - translation_iso: fra
     name: vafsi
   - translation_iso: hin
     name: वाफ्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vafsi
     auto: true
   - translation_iso: jpn
     name: ヴァフスィ語

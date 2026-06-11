@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيديان
     auto: true
+  - translation_iso: ben
+    name: মাপিদিয়ান
+    auto: true
   - translation_iso: deu
     name: Mapidian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mapidian
   - translation_iso: hin
     name: मापिदियान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mapidian
     auto: true
   - translation_iso: jpn
     name: マピディア語

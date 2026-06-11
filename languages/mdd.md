@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبوم
     auto: true
+  - translation_iso: ben
+    name: মবুম
+    auto: true
   - translation_iso: deu
     name: Mbum
   - translation_iso: fra
     name: mboum
   - translation_iso: hin
     name: म्बुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbum
     auto: true
   - translation_iso: jpn
     name: ムブム語

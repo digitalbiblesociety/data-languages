@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أوكواني-أبوه-ندوني
     auto: true
+  - translation_iso: ben
+    name: উকওয়ুয়ানি-আবোহ-নদোনি
+    auto: true
   - translation_iso: deu
     name: Ukwuani-aboh-ndoni
   - translation_iso: fra
     name: ukwuani-aboh-ndoni
   - translation_iso: hin
     name: उक्वुआनी-अबोह-न्दोनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukwuani-Aboh-Ndoni
     auto: true
   - translation_iso: jpn
     name: アボ語

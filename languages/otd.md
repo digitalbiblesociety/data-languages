@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوت دانوم
     auto: true
+  - translation_iso: ben
+    name: ওত দানুম
+    auto: true
   - translation_iso: deu
     name: Ot Danum
     auto: true

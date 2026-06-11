@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كسانغويا
     auto: true
+  - translation_iso: ben
+    name: কসানাগুইয়া জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Xanaguía)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Xanaguía
   - translation_iso: hin
     name: ज़ानागुइया ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xanaguía Zapotec
     auto: true
   - translation_iso: jpn
     name: サナグア・サポテク語

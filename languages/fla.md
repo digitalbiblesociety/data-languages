@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كاليسبيل-بند ديري
     auto: true
+  - translation_iso: ben
+    name: কালিসপেল-পেনদ দোরেইল্লে
+    auto: true
   - translation_iso: deu
     name: Salish-Spokane-Kalispel Sprache
   - translation_iso: fra
     name: kalispel
   - translation_iso: hin
     name: सेलिश भाषा
+  - translation_iso: ind
+    name: "Bahasa Kalispel-Pend d'Oreille"
+    auto: true
   - translation_iso: jpn
     name: カリスペル語
   - translation_iso: kor

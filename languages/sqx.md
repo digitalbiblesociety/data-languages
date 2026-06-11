@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة لغة الإشارة قصر قاسم
     auto: true
+  - translation_iso: ben
+    name: কুফর কাস্সেম সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Kufr Qassem Sign Language (KQSL)
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: काफ़र कासेम सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Kufr Qassem Sign Language
+    auto: true
   - translation_iso: jpn
     name: クフルカッセムサイン言語
     auto: true

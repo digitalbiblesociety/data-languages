@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيديري
     auto: true
+  - translation_iso: ben
+    name: ইদেরে
+    auto: true
   - translation_iso: deu
     name: Idere
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इदेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idere
     auto: true
   - translation_iso: jpn
     name: イデレ語

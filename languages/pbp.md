@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बाद्यारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Badyara
+    auto: true
   - translation_iso: jpn
     name: バジャラ語
     auto: true

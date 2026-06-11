@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توبويو
     auto: true
+  - translation_iso: ben
+    name: তোপোইয়ো
+    auto: true
   - translation_iso: deu
     name: Topoiyo
     auto: true

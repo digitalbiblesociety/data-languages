@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بويسي
     auto: true
+  - translation_iso: ben
+    name: বওয়িসি
+    auto: true
   - translation_iso: deu
     name: Bwisi
   - translation_iso: fra
     name: bwisi
   - translation_iso: hin
     name: ब्विसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwisi
     auto: true
   - translation_iso: jpn
     name: ブウィシ語

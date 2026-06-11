@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نجونجويل
     auto: true
+  - translation_iso: ben
+    name: ঙুংওয়েল
+    auto: true
   - translation_iso: deu
     name: Ngungwel
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गुंग्वेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngungwel
     auto: true
   - translation_iso: jpn
     name: ングングウェル語

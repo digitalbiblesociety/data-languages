@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: زاي
     auto: true
+  - translation_iso: ben
+    name: জায়
+    auto: true
   - translation_iso: deu
     name: Zay
   - translation_iso: fra
     name: zay
   - translation_iso: hin
     name: ज़ाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zay
     auto: true
   - translation_iso: jpn
     name: ザイ語

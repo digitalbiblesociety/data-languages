@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مبوي
     auto: true
+  - translation_iso: ben
+    name: মবোওয়ে
+    auto: true
   - translation_iso: deu
     name: Mbowe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mbowe
   - translation_iso: hin
     name: म्बोवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbowe
     auto: true
   - translation_iso: jpn
     name: ムボウェ語

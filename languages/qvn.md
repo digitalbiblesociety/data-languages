@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا خونين الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ জুনিন কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Nord-Junín-Quechua
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: quechua de Junín du Nord
   - translation_iso: hin
     name: उत्तरी हुनिन क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Junín Quechua
     auto: true
   - translation_iso: jpn
     name: 北フニン語

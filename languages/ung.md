@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجارينيين
     auto: true
+  - translation_iso: ben
+    name: ঙারিনয়িন
+    auto: true
   - translation_iso: deu
     name: Ngarinyin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngarinyin
   - translation_iso: hin
     name: नगारिनयिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngarinyin
     auto: true
   - translation_iso: jpn
     name: 東ウォロラン語

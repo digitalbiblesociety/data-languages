@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بونْكيْنج
     auto: true
+  - translation_iso: ben
+    name: বোনকেং
+    auto: true
   - translation_iso: deu
     name: Bonkeng
   - translation_iso: fra
     name: bonkeng
   - translation_iso: hin
     name: बोंकेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bonkeng
     auto: true
   - translation_iso: jpn
     name: ボンケング語

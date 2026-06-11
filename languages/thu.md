@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثوري
     auto: true
+  - translation_iso: ben
+    name: থুরি
+    auto: true
   - translation_iso: deu
     name: Thuri
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: थुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thuri
     auto: true
   - translation_iso: jpn
     name: トゥリ語

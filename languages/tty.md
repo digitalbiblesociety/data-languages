@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيكاريتاي
     auto: true
+  - translation_iso: ben
+    name: সিকারিতাই
+    auto: true
   - translation_iso: deu
     name: Aikwakai
   - translation_iso: fra

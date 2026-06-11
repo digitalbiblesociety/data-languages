@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجوار
     auto: true
+  - translation_iso: ben
+    name: মাঝওয়ার
+    auto: true
   - translation_iso: deu
     name: Majhwar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: majhwar
   - translation_iso: hin
     name: मझवार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Majhwar
     auto: true
   - translation_iso: jpn
     name: マジュワル語

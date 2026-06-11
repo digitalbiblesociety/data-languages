@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك الحزم
     auto: true
+  - translation_iso: ben
+    name: ইসথমুস জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Isthmus-Zapotekisch
   - translation_iso: fra
     name: "zapotèque de l'Isthme"
   - translation_iso: hin
     name: इस्तमस ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isthmus Zapotec
     auto: true
   - translation_iso: jpn
     name: イスムス・サポテク語

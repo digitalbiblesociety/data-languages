@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يو - مورويب
     auto: true
+  - translation_iso: ben
+    name: য়াউ
+    auto: true
   - translation_iso: deu
     name: Yau (Provinz Morobe)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yau
   - translation_iso: hin
     name: याउ (मोरोबे प्रांत)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yau
     auto: true
   - translation_iso: jpn
     name: ヤウ語（モロベ州）

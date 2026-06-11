@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: ثولونغ
     auto: true
+  - translation_iso: ben
+    name: থুলুং
+    auto: true
   - translation_iso: deu
     name: Thulung
   - translation_iso: fra
     name: thulung
   - translation_iso: hin
     name: थुलुङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thulung
     auto: true
   - translation_iso: jpn
     name: スルン語

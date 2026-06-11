@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: مبيá غوآرآنí
     auto: true
+  - translation_iso: ben
+    name: মবয়া গুয়ারানি
+    auto: true
   - translation_iso: deu
     name: Mbyá-Guaraní
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: mbyá
   - translation_iso: hin
     name: म्ब्या गुआरानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbyá Guaraní
     auto: true
   - translation_iso: jpn
     name: ムビア・グアラニー語

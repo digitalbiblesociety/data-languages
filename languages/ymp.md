@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامب
     auto: true
+  - translation_iso: ben
+    name: য়ামাপ
+    auto: true
   - translation_iso: deu
     name: Yamap
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यामाप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yamap
     auto: true
   - translation_iso: jpn
     name: ヤマップ語

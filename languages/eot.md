@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: البيتي
     auto: true
+  - translation_iso: ben
+    name: বেতি
+    auto: true
   - translation_iso: deu
     name: Beti (Elfenbeinküste)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: eotilé
   - translation_iso: hin
     name: बेती (कोत दिवुआर)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Beti
     auto: true
   - translation_iso: jpn
     name: ベティ語

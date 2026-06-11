@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيدي
     auto: true
+  - translation_iso: ben
+    name: ইদি
+    auto: true
   - translation_iso: deu
     name: Idi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: idi
   - translation_iso: hin
     name: इदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idi
     auto: true
   - translation_iso: jpn
     name: イディ語

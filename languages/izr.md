@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيزيري
     auto: true
+  - translation_iso: ben
+    name: ইজেরে
+    auto: true
   - translation_iso: deu
     name: Izere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: izere
   - translation_iso: hin
     name: इज़ेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Izere
     auto: true
   - translation_iso: jpn
     name: イゼレ語

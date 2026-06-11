@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيتيني
     auto: true
+  - translation_iso: ben
+    name: ইতেনে
+    auto: true
   - translation_iso: deu
     name: Itene
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moré
   - translation_iso: hin
     name: इतेने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Itene
     auto: true
   - translation_iso: jpn
     name: イテネ語

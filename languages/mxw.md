@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نامو
     auto: true
+  - translation_iso: ben
+    name: নামো
+    auto: true
   - translation_iso: deu
     name: Namo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: namo
   - translation_iso: hin
     name: नामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namo
     auto: true
   - translation_iso: jpn
     name: ナモ語

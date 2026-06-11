@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة خاميتي
     auto: true
+  - translation_iso: ben
+    name: খামতি
+    auto: true
   - translation_iso: deu
     name: Khamti
     auto: true

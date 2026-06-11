@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سووتهيرن تووسسيان
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন তোউস্সিয়ান
+    auto: true
   - translation_iso: deu
     name: Süd-Toussian
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: toussian du Sud
   - translation_iso: hin
     name: दक्षिणी तौसियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Toussian
     auto: true
   - translation_iso: jpn
     name: 南トゥシアン語

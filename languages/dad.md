@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الماريك
     auto: true
+  - translation_iso: ben
+    name: মারিক
+    auto: true
   - translation_iso: deu
     name: Marik
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marik
   - translation_iso: hin
     name: मारिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marik
     auto: true
   - translation_iso: jpn
     name: マリク語

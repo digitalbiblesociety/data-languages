@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ريريب
     auto: true
+  - translation_iso: ben
+    name: রেরেপ
+    auto: true
   - translation_iso: deu
     name: Rerep
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rerep
   - translation_iso: hin
     name: रेरेप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rerep
     auto: true
   - translation_iso: jpn
     name: レレップ語

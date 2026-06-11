@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومبو
     auto: true
+  - translation_iso: ben
+    name: ওমবো
+    auto: true
   - translation_iso: deu
     name: Ombo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ombo
   - translation_iso: hin
     name: ओम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ombo
     auto: true
   - translation_iso: jpn
     name: Ombo語

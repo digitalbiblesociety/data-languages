@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جانغشونغ
     auto: true
+  - translation_iso: ben
+    name: জাংশুং
+    auto: true
   - translation_iso: deu
     name: Jangshung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jangshung
   - translation_iso: hin
     name: जंगशुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jangshung
     auto: true
   - translation_iso: jpn
     name: ジャングシュン語

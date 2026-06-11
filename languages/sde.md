@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوروبو
     auto: true
+  - translation_iso: ben
+    name: সুরুবু
+    auto: true
   - translation_iso: deu
     name: Surubu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: surubu
   - translation_iso: hin
     name: सुरुबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Surubu
     auto: true
   - translation_iso: jpn
     name: スルブ語

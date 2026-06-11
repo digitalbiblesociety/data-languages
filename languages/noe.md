@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निमाड़ी
+  - translation_iso: ind
+    name: Bahasa Nimadi
+    auto: true
   - translation_iso: jpn
     name: ニマディ語
   - translation_iso: kor

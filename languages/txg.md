@@ -28,6 +28,9 @@ translations:
     name: tangoute
   - translation_iso: hin
     name: तान्गूत भाषा
+  - translation_iso: ind
+    name: Bahasa Tangut
+    auto: true
   - translation_iso: jpn
     name: 西夏語
   - translation_iso: kor

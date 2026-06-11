@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarjumo_language"
 translations:
   - translation_iso: ara
     name: ترجمو
+  - translation_iso: ben
+    name: তারজুমো
+    auto: true
   - translation_iso: deu
     name: Tarjumo
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: Vieux kanembou
   - translation_iso: hin
     name: तरजुमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tarjumo
     auto: true
   - translation_iso: jpn
     name: タルフモ語

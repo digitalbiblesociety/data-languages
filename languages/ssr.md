@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: स्विस-फ़्रेंच सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Swiss-French Sign Language
+    auto: true
   - translation_iso: jpn
     name: スイス・フランス手話
   - translation_iso: kor

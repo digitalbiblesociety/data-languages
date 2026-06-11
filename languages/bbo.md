@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوبو مادوري الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন বোবো মাদারে
+    auto: true
   - translation_iso: deu
     name: Boboda
   - translation_iso: fra
     name: konabéré
   - translation_iso: hin
     name: उत्तरी बोबो मादारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Bobo Madaré
     auto: true
   - translation_iso: jpn
     name: 北ボボ・マダレ語

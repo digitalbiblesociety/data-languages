@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बंबासी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bambassi
+    auto: true
   - translation_iso: jpn
     name: バンバッシ語
     auto: true

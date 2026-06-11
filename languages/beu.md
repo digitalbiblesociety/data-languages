@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بلاغار
     auto: true
+  - translation_iso: ben
+    name: বলাগার
+    auto: true
   - translation_iso: deu
     name: Blagar
     auto: true

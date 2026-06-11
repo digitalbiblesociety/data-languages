@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نكاني
     auto: true
+  - translation_iso: ben
+    name: নকানে
+    auto: true
   - translation_iso: deu
     name: Ncane
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ncane
   - translation_iso: hin
     name: न्काने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ncane
     auto: true
   - translation_iso: jpn
     name: ンカネ語

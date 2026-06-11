@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جافاك
     auto: true
+  - translation_iso: ben
+    name: গাভাক
+    auto: true
   - translation_iso: deu
     name: Gavak
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गावक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gavak
     auto: true
   - translation_iso: jpn
     name: ガヴァク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميندي (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: ben
+    name: মেনদে
+    auto: true
   - translation_iso: deu
     name: Mende (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mende
   - translation_iso: hin
     name: मेंडे (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mende
     auto: true
   - translation_iso: jpn
     name: セイム語

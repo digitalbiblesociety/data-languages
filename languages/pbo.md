@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بابيل
     auto: true
+  - translation_iso: ben
+    name: পাপেল
+    auto: true
   - translation_iso: deu
     name: Pepel
   - translation_iso: fra
     name: papel
   - translation_iso: hin
     name: पापेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Papel
     auto: true
   - translation_iso: jpn
     name: パペル語

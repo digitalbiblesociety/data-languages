@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيمباري
     auto: true
+  - translation_iso: ben
+    name: সিমবারি
+    auto: true
   - translation_iso: deu
     name: Simbari
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिम्बारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Simbari
     auto: true
   - translation_iso: jpn
     name: シンバリ語

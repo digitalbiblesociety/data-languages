@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانا الجنوبية الغربية
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসত তান্না
+    auto: true
   - translation_iso: deu
     name: Südwest-Tanna
     auto: true

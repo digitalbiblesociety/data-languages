@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي باو
     auto: true
+  - translation_iso: ben
+    name: তাই পাও
+    auto: true
   - translation_iso: deu
     name: Tai Pao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tai pao
   - translation_iso: hin
     name: ताई पाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Pao
     auto: true
   - translation_iso: jpn
     name: タイ・パオ語

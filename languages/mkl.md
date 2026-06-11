@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موكول
     auto: true
+  - translation_iso: ben
+    name: মোকোলে
+    auto: true
   - translation_iso: deu
     name: Mokole
   - translation_iso: fra
     name: mokole
   - translation_iso: hin
     name: मोकोले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mokole
     auto: true
   - translation_iso: jpn
     name: モコレ語

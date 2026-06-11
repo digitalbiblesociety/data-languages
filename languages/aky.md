@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: आका-कोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aka-Kol
+    auto: true
   - translation_iso: jpn
     name: アカコル語
     auto: true

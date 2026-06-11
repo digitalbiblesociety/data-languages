@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كانييت
     auto: true
+  - translation_iso: ben
+    name: কানিএত
+    auto: true
   - translation_iso: deu
     name: Kaniet
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaniet
   - translation_iso: hin
     name: कानिएट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaniet
     auto: true
   - translation_iso: jpn
     name: カニエット語

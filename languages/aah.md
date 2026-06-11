@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अबू अरापेश
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Abu' Arapesh"
+    auto: true
   - translation_iso: jpn
     name: アブ・アラペシュ語
     auto: true

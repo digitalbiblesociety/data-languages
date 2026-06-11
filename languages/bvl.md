@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बोलिवियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bolivian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ボリビア手話
   - translation_iso: kor

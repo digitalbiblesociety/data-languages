@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: बाराबाबाराबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barababaraba
+    auto: true
   - translation_iso: jpn
     name: バラババラバ語
     auto: true

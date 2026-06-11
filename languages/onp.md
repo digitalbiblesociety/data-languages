@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सरतंग भाषा
+  - translation_iso: ind
+    name: Bahasa Sartang
+    auto: true
   - translation_iso: jpn
     name: サルタング語
     auto: true

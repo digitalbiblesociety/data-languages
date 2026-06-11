@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيلونغوت
     auto: true
+  - translation_iso: ben
+    name: ইলোঙোত
+    auto: true
   - translation_iso: deu
     name: Ilongot
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ilongot
   - translation_iso: hin
     name: इलोंगोट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ilongot
     auto: true
   - translation_iso: jpn
     name: イロンゴット語

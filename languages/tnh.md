@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مايياني
     auto: true
+  - translation_iso: ben
+    name: মাইয়ানি
+    auto: true
   - translation_iso: deu
     name: Maiani
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maiani
   - translation_iso: hin
     name: माइआनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maiani
     auto: true
   - translation_iso: jpn
     name: マイアニ語

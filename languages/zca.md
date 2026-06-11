@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك كواتيكاس ألتاس
     auto: true
+  - translation_iso: ben
+    name: কোয়াতেকাস আলতাস জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Coatecas Altas)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Coatecas Altas
   - translation_iso: hin
     name: कोआतेकास अल्तास सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coatecas Altas Zapotec
     auto: true
   - translation_iso: jpn
     name: コアテカス・アルタス・サポテク語

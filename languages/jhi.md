@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيهاي
     auto: true
+  - translation_iso: ben
+    name: জেহাই
+    auto: true
   - translation_iso: deu
     name: Jehai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jehai
   - translation_iso: hin
     name: जेहाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jehai
     auto: true
   - translation_iso: jpn
     name: ジェハイ語

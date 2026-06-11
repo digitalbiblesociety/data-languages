@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شوغني
     auto: true
+  - translation_iso: ben
+    name: শুঘনি
+    auto: true
   - translation_iso: deu
     name: Shughni
   - translation_iso: fra

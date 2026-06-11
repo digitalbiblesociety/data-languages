@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوجول
     auto: true
+  - translation_iso: ben
+    name: য়ুগুল
+    auto: true
   - translation_iso: deu
     name: Yugul
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: युगुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yugul
     auto: true
   - translation_iso: jpn
     name: ユグル語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غوسيلآي
     auto: true
+  - translation_iso: ben
+    name: গুসিলায়
+    auto: true
   - translation_iso: deu
     name: Gusilay
   - translation_iso: fra
     name: gusilay
   - translation_iso: hin
     name: गुसिलाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gusilay
     auto: true
   - translation_iso: jpn
     name: グスィライ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيمبي
     auto: true
+  - translation_iso: ben
+    name: তিমবে
+    auto: true
   - translation_iso: deu
     name: Timbe
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: टिम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Timbe
     auto: true
   - translation_iso: jpn
     name: ティンベ語

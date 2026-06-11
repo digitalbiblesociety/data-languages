@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غوبآبوينجو
     auto: true
+  - translation_iso: ben
+    name: গুপাপুয়ঙু
+    auto: true
   - translation_iso: deu
     name: Gupapuyngu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gupapuyngu
   - translation_iso: hin
     name: गुपापुयंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gupapuyngu
     auto: true
   - translation_iso: jpn
     name: グパプユングゥ語

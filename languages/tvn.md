@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تافويان
     auto: true
+  - translation_iso: ben
+    name: তাভোয়ান
+    auto: true
   - translation_iso: deu
     name: Tavoyan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tavoyan
   - translation_iso: hin
     name: तावोयन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tavoyan
     auto: true
   - translation_iso: jpn
     name: ダウェイ語

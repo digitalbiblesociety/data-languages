@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بومولي
     auto: true
+  - translation_iso: ben
+    name: বোমওয়ালি
+    auto: true
   - translation_iso: deu
     name: Bomwali
   - translation_iso: fra
     name: bomwali
   - translation_iso: hin
     name: बोम्वाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bomwali
     auto: true
   - translation_iso: jpn
     name: ボムワリ語

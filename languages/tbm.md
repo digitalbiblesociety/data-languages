@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاغبو
     auto: true
+  - translation_iso: ben
+    name: তাগবু
+    auto: true
   - translation_iso: deu
     name: Tagbu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tagbu
   - translation_iso: hin
     name: तागबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagbu
     auto: true
   - translation_iso: jpn
     name: タグブ語

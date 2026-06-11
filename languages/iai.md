@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إياي
     auto: true
+  - translation_iso: ben
+    name: ইয়াই
+    auto: true
   - translation_iso: deu
     name: Iaai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iaai
   - translation_iso: hin
     name: इयाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iaai
     auto: true
   - translation_iso: jpn
     name: イアイ語

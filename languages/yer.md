@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarok_language"
 translations:
   - translation_iso: ara
     name: تاروك
+  - translation_iso: ben
+    name: তারোক
+    auto: true
   - translation_iso: deu
     name: Tarok
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tarok
   - translation_iso: hin
     name: तारोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tarok
     auto: true
   - translation_iso: jpn
     name: タロク語

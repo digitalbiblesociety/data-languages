@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غيبآنآوآ
     auto: true
+  - translation_iso: ben
+    name: গিবানাওয়া
+    auto: true
   - translation_iso: deu
     name: Gibanawa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gibanawa
   - translation_iso: hin
     name: गिबानावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gibanawa
     auto: true
   - translation_iso: jpn
     name: ギバナワ語

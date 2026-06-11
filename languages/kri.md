@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كريو
     auto: true
+  - translation_iso: ben
+    name: করিও
+    auto: true
   - translation_iso: deu
     name: Krio
   - translation_iso: fra

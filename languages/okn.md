@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكي نو إيرابو
     auto: true
+  - translation_iso: ben
+    name: ওকি-নো-এরাবু
+    auto: true
   - translation_iso: deu
     name: Oki-No-Erabu
     auto: true

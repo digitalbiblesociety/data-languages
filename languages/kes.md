@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوغبو
     auto: true
+  - translation_iso: ben
+    name: কুগবো
+    auto: true
   - translation_iso: deu
     name: Kugbo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kugbo
   - translation_iso: hin
     name: कुग्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kugbo
     auto: true
   - translation_iso: jpn
     name: クグボ語

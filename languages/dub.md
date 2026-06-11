@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوبلي
     auto: true
+  - translation_iso: ben
+    name: দুবলি
+    auto: true
   - translation_iso: deu
     name: Dubli
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dubli
   - translation_iso: hin
     name: डुबली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dubli
     auto: true
   - translation_iso: jpn
     name: ドゥブリ語

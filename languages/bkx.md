@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाइकेनो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baikeno
+    auto: true
   - translation_iso: jpn
     name: バイケノ語
     auto: true

@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarifit"
 translations:
   - translation_iso: ara
     name: الريفية
+  - translation_iso: ben
+    name: তারিফিত
+    auto: true
   - translation_iso: deu
     name: Tarifit
   - translation_iso: fra
     name: rifain
   - translation_iso: hin
     name: तारिफित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tarifit
     auto: true
   - translation_iso: jpn
     name: リーフ語

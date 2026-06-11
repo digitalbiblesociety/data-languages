@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوساغي
     auto: true
+  - translation_iso: ben
+    name: কুসাঘে
+    auto: true
   - translation_iso: deu
     name: Kusaghe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kusaghe
   - translation_iso: hin
     name: कुसाघे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kusaghe
     auto: true
   - translation_iso: jpn
     name: クサゲ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيتك
     auto: true
+  - translation_iso: ben
+    name: ইতিক
+    auto: true
   - translation_iso: deu
     name: Itik
     auto: true

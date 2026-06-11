@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بيديوجو
     auto: true
+  - translation_iso: ben
+    name: বিদয়োগো
+    auto: true
   - translation_iso: deu
     name: Bidyogo
   - translation_iso: fra
     name: bijogo
   - translation_iso: hin
     name: बिदियोगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bidyogo
     auto: true
   - translation_iso: jpn
     name: ビジャゴ語

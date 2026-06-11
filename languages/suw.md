@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سومبوا
     auto: true
+  - translation_iso: ben
+    name: সুমবওয়া
+    auto: true
   - translation_iso: deu
     name: Sumbwa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sumbwa
   - translation_iso: hin
     name: सुम्बवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sumbwa
     auto: true
   - translation_iso: jpn
     name: スンブワ語

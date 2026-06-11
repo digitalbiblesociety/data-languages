@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجو
     auto: true
+  - translation_iso: ben
+    name: কানজু
+    auto: true
   - translation_iso: deu
     name: Kanju
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kanju
   - translation_iso: hin
     name: कांजू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanju
     auto: true
   - translation_iso: jpn
     name: カンジュ語

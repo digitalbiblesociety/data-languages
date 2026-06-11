@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बलंता-केंतोहे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balanta-Kentohe
+    auto: true
   - translation_iso: jpn
     name: バランタ・ケントヘ語
     auto: true

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: وادي وادي
     auto: true
+  - translation_iso: ben
+    name: ওয়াদি ওয়াদি
+    auto: true
   - translation_iso: deu
     name: Wadi Wadi
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: wadi wadi
   - translation_iso: hin
     name: वाडी वाडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wadi Wadi
     auto: true
   - translation_iso: jpn
     name: ワディ・ワディ語

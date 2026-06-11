@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بولونجان
     auto: true
+  - translation_iso: ben
+    name: বোলোঙান
+    auto: true
   - translation_iso: deu
     name: Bolongan
     auto: true

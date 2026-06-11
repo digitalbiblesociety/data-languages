@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mingrelian_language"
 translations:
   - translation_iso: ara
     name: المنغرلية
+  - translation_iso: ben
+    name: মিংরেলিয়ান
+    auto: true
   - translation_iso: deu
     name: Mingrelisch
   - translation_iso: fra

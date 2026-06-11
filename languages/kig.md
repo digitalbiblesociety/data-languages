@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيماما
     auto: true
+  - translation_iso: ben
+    name: কিমামা
+    auto: true
   - translation_iso: deu
     name: Kimaama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kimaghima
   - translation_iso: hin
     name: किमामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kimaama
     auto: true
   - translation_iso: jpn
     name: キマーマ語

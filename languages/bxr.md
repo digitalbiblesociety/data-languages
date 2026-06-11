@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: روسيا بورْيات
     auto: true
+  - translation_iso: ben
+    name: রুস্সিয়া বুরিয়াত
+    auto: true
   - translation_iso: deu
     name: Russisches Burjatisch
   - translation_iso: fra

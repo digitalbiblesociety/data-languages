@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغورمبور
     auto: true
+  - translation_iso: ben
+    name: ঙুরমবুর
+    auto: true
   - translation_iso: deu
     name: Ngurmbur
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngurmbur
   - translation_iso: hin
     name: नगुर्म्बुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngurmbur
     auto: true
   - translation_iso: jpn
     name: ングルンブル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سار
     auto: true
+  - translation_iso: ben
+    name: সার
+    auto: true
   - translation_iso: deu
     name: Sar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sar
   - translation_iso: hin
     name: सार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sar
     auto: true
   - translation_iso: jpn
     name: サール語

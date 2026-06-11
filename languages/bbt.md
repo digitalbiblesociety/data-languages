@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مبوركو
     auto: true
+  - translation_iso: ben
+    name: মবুরকু
+    auto: true
   - translation_iso: deu
     name: Mburku
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मबुर्कू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mburku
     auto: true
   - translation_iso: jpn
     name: ムブルク語

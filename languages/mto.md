@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكسي توتونتيبك
     auto: true
+  - translation_iso: ben
+    name: তোতোনতেপেক মিকসে
+    auto: true
   - translation_iso: deu
     name: Totontepec-Mixe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixe de Totontepec
   - translation_iso: hin
     name: टोटोंटेपेक मिशे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Totontepec Mixe
     auto: true
   - translation_iso: jpn
     name: トトンテペック・ミクセ語

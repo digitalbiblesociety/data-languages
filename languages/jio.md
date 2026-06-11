@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيامو
     auto: true
+  - translation_iso: ben
+    name: জিয়ামাও
+    auto: true
   - translation_iso: deu
     name: Jiamao
     auto: true

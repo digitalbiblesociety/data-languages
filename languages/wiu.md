@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويرو
     auto: true
+  - translation_iso: ben
+    name: ওয়িরু
+    auto: true
   - translation_iso: deu
     name: Wiru
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: wiru
   - translation_iso: hin
     name: विरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wiru
     auto: true
   - translation_iso: jpn
     name: ウィル語

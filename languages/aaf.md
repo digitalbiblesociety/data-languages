@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरनाडन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aranadan
+    auto: true
   - translation_iso: jpn
     name: アラナダン語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيخين-أوكو
     auto: true
+  - translation_iso: ben
+    name: ইখিন-আওখো
+    auto: true
   - translation_iso: deu
     name: Ikhin-Aokho
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इखिन-आओखो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikhin-Aokho
     auto: true
   - translation_iso: jpn
     name: イキン・アオホ語

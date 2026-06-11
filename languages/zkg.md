@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوغوريو
     auto: true
+  - translation_iso: ben
+    name: কোগুরয়ো
+    auto: true
   - translation_iso: deu
     name: Koguryo
     auto: true

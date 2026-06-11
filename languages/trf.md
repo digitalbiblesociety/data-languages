@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Trinidadian_Creole"
 translations:
   - translation_iso: ara
     name: كريولية ترينيدية
+  - translation_iso: ben
+    name: তরিনিদাদিয়ান করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Trinidad-Kreolenglisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: créole trinidadien
   - translation_iso: hin
     name: त्रिनिदादी क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Trinidadian Creole English
     auto: true
   - translation_iso: jpn
     name: トリニダード・クレオール英語

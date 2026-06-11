@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وانتوات
     auto: true
+  - translation_iso: ben
+    name: ওয়ানতোয়াত
+    auto: true
   - translation_iso: deu
     name: Wantoat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wantoat
   - translation_iso: hin
     name: वंतोआत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wantoat
     auto: true
   - translation_iso: jpn
     name: ワントアト語

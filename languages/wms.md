@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وامبون
     auto: true
+  - translation_iso: ben
+    name: ওয়ামবোন
+    auto: true
   - translation_iso: deu
     name: Wambon
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نومان
     auto: true
+  - translation_iso: ben
+    name: নোমানে
+    auto: true
   - translation_iso: deu
     name: Nomane
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नोमाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nomane
     auto: true
   - translation_iso: jpn
     name: ノマネ語

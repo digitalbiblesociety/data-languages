@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاكوا
     auto: true
+  - translation_iso: ben
+    name: তাকুয়া
+    auto: true
   - translation_iso: deu
     name: Takua
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताकुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Takua
     auto: true
   - translation_iso: jpn
     name: タクア語

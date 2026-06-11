@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बांकोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bankon
+    auto: true
   - translation_iso: jpn
     name: バンコン語
     auto: true

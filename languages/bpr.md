@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بلاان
     auto: true
+  - translation_iso: ben
+    name: বলান
+    auto: true
   - translation_iso: deu
     name: Blaan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्लान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Blaan
     auto: true
   - translation_iso: jpn
     name: ブラアン語

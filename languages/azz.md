@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ناهوتل بويبلا الجبلية
     auto: true
+  - translation_iso: ben
+    name: হিঘলানদ পুএবলা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Hochland-Puebla-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl du haut Puebla
   - translation_iso: hin
     name: हाइलैंड प्वेबला नवात्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Highland Puebla Nahuatl
     auto: true
   - translation_iso: jpn
     name: 高地プエブラ・ナワトル語

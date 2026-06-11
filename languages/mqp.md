@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيبا
     auto: true
+  - translation_iso: ben
+    name: মানিপা
+    auto: true
   - translation_iso: deu
     name: Manipa
     auto: true

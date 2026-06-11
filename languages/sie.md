@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيما
     auto: true
+  - translation_iso: ben
+    name: সিমা
+    auto: true
   - translation_iso: deu
     name: Simaa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: simaa
   - translation_iso: hin
     name: सिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Simaa
     auto: true
   - translation_iso: jpn
     name: シマー語

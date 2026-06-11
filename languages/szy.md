@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساكيزايا
     auto: true
+  - translation_iso: ben
+    name: সাকিজায়া
+    auto: true
   - translation_iso: deu
     name: Sakizaya
     auto: true

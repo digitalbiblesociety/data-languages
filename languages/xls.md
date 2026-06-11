@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوسيتانية
     auto: true
+  - translation_iso: ben
+    name: লুসিতানিয়ান
+    auto: true
   - translation_iso: deu
     name: Lusitanisch
   - translation_iso: fra

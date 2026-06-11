@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yedina_language"
 translations:
   - translation_iso: ara
     name: بودوما
+  - translation_iso: ben
+    name: বুদুমা
+    auto: true
   - translation_iso: deu
     name: Buduma
   - translation_iso: fra
     name: buduma
   - translation_iso: hin
     name: बुदुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buduma
     auto: true
   - translation_iso: jpn
     name: ブドゥマ語

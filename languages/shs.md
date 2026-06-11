@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشوسواب
     auto: true
+  - translation_iso: ben
+    name: শুসওয়াপ
+    auto: true
   - translation_iso: deu
     name: Shuswap
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shuswap
   - translation_iso: hin
     name: शुस्वाप भाषा
+  - translation_iso: ind
+    name: Bahasa Shuswap
+    auto: true
   - translation_iso: jpn
     name: シュスワプ語
   - translation_iso: kor

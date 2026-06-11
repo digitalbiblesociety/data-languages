@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جارا
     auto: true
+  - translation_iso: ben
+    name: জারা
+    auto: true
   - translation_iso: deu
     name: Jara
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jara
     auto: true
   - translation_iso: jpn
     name: ジャラ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مّالا
     auto: true
+  - translation_iso: ben
+    name: ম্মালা
+    auto: true
   - translation_iso: deu
     name: Mmaala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mmaala
   - translation_iso: hin
     name: म्माला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mmaala
     auto: true
   - translation_iso: jpn
     name: ンマアラ語

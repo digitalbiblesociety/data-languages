@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة براغات
     auto: true
+  - translation_iso: ben
+    name: বরাগাত
+    auto: true
   - translation_iso: deu
     name: Bragat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bragat
   - translation_iso: hin
     name: ब्रागाट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bragat
     auto: true
   - translation_iso: jpn
     name: ブラガット語

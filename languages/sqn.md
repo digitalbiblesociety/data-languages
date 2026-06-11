@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سوسكويهانوك
     auto: true
+  - translation_iso: ben
+    name: সুসকুএহান্নোক
+    auto: true
   - translation_iso: deu
     name: Susquehannock
   - translation_iso: fra
     name: susquehannock
   - translation_iso: hin
     name: सस्केहनॉक भाषा
+  - translation_iso: ind
+    name: Bahasa Susquehannock
+    auto: true
   - translation_iso: jpn
     name: コネストガ語
     auto: true

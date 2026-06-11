@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكريولية الفرنسية جوادلوب
     auto: true
+  - translation_iso: ben
+    name: গুয়াদেলোউপেয়ান করেওলে ফরেনচ
+    auto: true
   - translation_iso: deu
     name: Guadeloupe-Kreolfranzösisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: créole guadeloupéen
   - translation_iso: hin
     name: ग्वाडेलूपी क्रियोल फ्रेंच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guadeloupean Creole French
     auto: true
   - translation_iso: jpn
     name: グアドループ・クレオール語

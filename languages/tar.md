@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল তারাহুমারা
+    auto: true
   - translation_iso: deu
     name: Central Tarahumara
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tarahumara central
   - translation_iso: hin
     name: मध्य तारहुमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Tarahumara
     auto: true
   - translation_iso: jpn
     name: 中央タラウマラ語

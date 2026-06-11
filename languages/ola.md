@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة والونغي
     auto: true
+  - translation_iso: ben
+    name: ওয়ালুংগে
+    auto: true
   - translation_iso: deu
     name: Walungge
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: walungge
   - translation_iso: hin
     name: वालुंगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Walungge
     auto: true
   - translation_iso: jpn
     name: ワルングゲ語

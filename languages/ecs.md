@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: इक्वाडोरियन सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ecuadorian Sign Language
+    auto: true
   - translation_iso: jpn
     name: エクアドル手話
   - translation_iso: kor

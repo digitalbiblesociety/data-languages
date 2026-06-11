@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: भेले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bhele
+    auto: true
   - translation_iso: jpn
     name: ベレ語
     auto: true

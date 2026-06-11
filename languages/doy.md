@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دومبو
     auto: true
+  - translation_iso: ben
+    name: দোমপো
+    auto: true
   - translation_iso: deu
     name: Dompo
   - translation_iso: fra
     name: dompo
   - translation_iso: hin
     name: डोम्पो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dompo
     auto: true
   - translation_iso: jpn
     name: ドンポ語

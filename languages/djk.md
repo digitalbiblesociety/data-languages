@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيسترن مارون كريول
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মারোন করেওলে
+    auto: true
   - translation_iso: deu
     name: Östliches Maroon-Kreol
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: aluku-ndjuka-paramaka
   - translation_iso: hin
     name: पूर्वी मरून क्रियोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Maroon Creole
     auto: true
   - translation_iso: jpn
     name: イースタン・マルーン・クレオール語

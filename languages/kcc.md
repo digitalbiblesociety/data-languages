@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة لوبيلا
     auto: true
+  - translation_iso: ben
+    name: লুবিলা
+    auto: true
   - translation_iso: deu
     name: Lubila
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लुबिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lubila
     auto: true
   - translation_iso: jpn
     name: ルビラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيتزا
     auto: true
+  - translation_iso: ben
+    name: ইতজা
+    auto: true
   - translation_iso: deu
     name: Itzá-Sprache
   - translation_iso: fra
@@ -29,7 +32,7 @@ translations:
     name: इत्ज़ा
     auto: true
   - translation_iso: ind
-    name: "Bahasa Itza'"
+    name: Bahasa Itza
   - translation_iso: jpn
     name: イツァ語
   - translation_iso: kor

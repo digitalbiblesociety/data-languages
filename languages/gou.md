@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآفآر
     auto: true
+  - translation_iso: ben
+    name: গাভার
+    auto: true
   - translation_iso: deu
     name: Gavar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gawar
   - translation_iso: hin
     name: गावर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gavar
     auto: true
   - translation_iso: jpn
     name: ガヴァル語

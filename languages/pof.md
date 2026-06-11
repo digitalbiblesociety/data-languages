@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكي
     auto: true
+  - translation_iso: ben
+    name: পোকে
+    auto: true
   - translation_iso: deu
     name: Poke
     auto: true

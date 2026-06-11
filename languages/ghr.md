@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غإرآ
     auto: true
+  - translation_iso: ben
+    name: ঘেরা
+    auto: true
   - translation_iso: deu
     name: Ghera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ghera
   - translation_iso: hin
     name: घेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghera
     auto: true
   - translation_iso: jpn
     name: ゲラ語

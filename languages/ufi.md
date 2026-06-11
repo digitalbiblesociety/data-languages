@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوفيم
     auto: true
+  - translation_iso: ben
+    name: উফিম
+    auto: true
   - translation_iso: deu
     name: Ufim
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ufim
   - translation_iso: hin
     name: उफिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ufim
     auto: true
   - translation_iso: jpn
     name: ウフィム語

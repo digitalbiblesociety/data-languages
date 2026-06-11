@@ -30,6 +30,9 @@ translations:
     name: teressa
   - translation_iso: hin
     name: तेरेस्सा भाषा
+  - translation_iso: ind
+    name: Bahasa Teressa
+    auto: true
   - translation_iso: jpn
     name: テレッサ語
   - translation_iso: kor

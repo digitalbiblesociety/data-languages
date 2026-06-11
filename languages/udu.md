@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أودوك
     auto: true
+  - translation_iso: ben
+    name: উদুক
+    auto: true
   - translation_iso: deu
     name: Uduk
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: uduk
   - translation_iso: hin
     name: उडुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uduk
     auto: true
   - translation_iso: jpn
     name: トゥワンパ語

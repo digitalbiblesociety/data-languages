@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تامنيم تسيتاك
     auto: true
+  - translation_iso: ben
+    name: তামনিম কিতাক
+    auto: true
   - translation_iso: deu
     name: Tamnim Citak
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: citak tamnim
   - translation_iso: hin
     name: तामनिम चिताक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tamnim Citak
     auto: true
   - translation_iso: jpn
     name: タムニン・チタク語

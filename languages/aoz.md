@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواب ميتو
     auto: true
+  - translation_iso: ben
+    name: উয়াব মেতো
+    auto: true
   - translation_iso: deu
     name: Uab Meto
   - translation_iso: fra

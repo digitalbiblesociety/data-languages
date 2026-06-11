@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيرودونج موروت
     auto: true
+  - translation_iso: ben
+    name: সেরুদুং মুরুত
+    auto: true
   - translation_iso: deu
     name: Serudung Murut
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: serudung
   - translation_iso: hin
     name: सेरुडुंग मुरुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Serudung Murut
     auto: true
   - translation_iso: jpn
     name: ティドング語

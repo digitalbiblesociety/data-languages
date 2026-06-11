@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سياوي
     auto: true
+  - translation_iso: ben
+    name: সিয়াওয়ি
+    auto: true
   - translation_iso: deu
     name: Siawi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: siawi
   - translation_iso: hin
     name: सियावी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siawi
     auto: true
   - translation_iso: jpn
     name: シアウィ語

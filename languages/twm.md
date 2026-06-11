@@ -24,6 +24,9 @@ translations:
     name: monba
   - translation_iso: hin
     name: तवांग भाषा
+  - translation_iso: ind
+    name: Bahasa Tawang Monpa
+    auto: true
   - translation_iso: jpn
     name: 東部チベット諸語
   - translation_iso: kor

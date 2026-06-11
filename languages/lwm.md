@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اوميان
     auto: true
+  - translation_iso: ben
+    name: লাওমিয়ান
+    auto: true
   - translation_iso: deu
     name: Laomian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: laomien
   - translation_iso: hin
     name: लाओमियान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laomian
     auto: true
   - translation_iso: jpn
     name: ラオミアン語

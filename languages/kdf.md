@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماموسي
     auto: true
+  - translation_iso: ben
+    name: মামুসি
+    auto: true
   - translation_iso: deu
     name: Mamusi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मामुसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mamusi
     auto: true
   - translation_iso: jpn
     name: マムシ語

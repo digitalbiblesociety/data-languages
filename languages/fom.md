@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الفوما
     auto: true
+  - translation_iso: ben
+    name: ফোমা
+    auto: true
   - translation_iso: deu
     name: Foma
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: foma
   - translation_iso: hin
     name: फोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Foma
     auto: true
   - translation_iso: jpn
     name: フォマ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيمبي
     auto: true
+  - translation_iso: ben
+    name: ফিমবি
+    auto: true
   - translation_iso: deu
     name: Phimbi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: phimbi
   - translation_iso: hin
     name: फिम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phimbi
     auto: true
   - translation_iso: jpn
     name: フィンビ語

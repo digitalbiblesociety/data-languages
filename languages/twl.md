@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاوارا
     auto: true
+  - translation_iso: ben
+    name: তাওয়ারা
+    auto: true
   - translation_iso: deu
     name: Tawara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tawara
   - translation_iso: hin
     name: तावारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tawara
     auto: true
   - translation_iso: jpn
     name: チショナ語

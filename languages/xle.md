@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لمنية
     auto: true
+  - translation_iso: ben
+    name: লেমনিয়ান
+    auto: true
   - translation_iso: deu
     name: Lemnisch
   - translation_iso: fra

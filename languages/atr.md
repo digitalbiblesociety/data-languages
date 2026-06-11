@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة وايميري-أترواري
     auto: true
+  - translation_iso: ben
+    name: ওয়াইমিরি-আতরোয়ারি
+    auto: true
   - translation_iso: deu
     name: Waimiri-Atroari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waimiri-atroari
   - translation_iso: hin
     name: वाइमिरी-अत्रोआरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waimiri-Atroari
     auto: true
   - translation_iso: jpn
     name: ワイミリアトロアリ語

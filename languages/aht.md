@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अहतेना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ahtena
+    auto: true
   - translation_iso: jpn
     name: アトナ語
   - translation_iso: kor

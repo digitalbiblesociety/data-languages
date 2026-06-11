@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كابيا
     auto: true
+  - translation_iso: ben
+    name: কাপয়া
+    auto: true
   - translation_iso: deu
     name: Kapya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kapya
   - translation_iso: hin
     name: कापिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kapya
     auto: true
   - translation_iso: jpn
     name: カピア語

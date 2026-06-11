@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أون
     auto: true
+  - translation_iso: ben
+    name: ওউনে
+    auto: true
   - translation_iso: deu
     name: Oune
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओउने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oune
     auto: true
   - translation_iso: jpn
     name: ウネ語

@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Javindo"
 translations:
   - translation_iso: ara
     name: جاوندو
+  - translation_iso: ben
+    name: জাভিনদো
+    auto: true
   - translation_iso: deu
     name: Javindo
     auto: true

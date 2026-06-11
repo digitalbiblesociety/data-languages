@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كريولية جزر توريس
     auto: true
+  - translation_iso: ben
+    name: তোর্রেস সতরাইত করেওলে
+    auto: true
   - translation_iso: deu
     name: Torres Creole
   - translation_iso: fra
     name: créole du détroit de Torrès
   - translation_iso: hin
     name: टॉरेस जलसंधि क्रियोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Torres Strait Creole
     auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール

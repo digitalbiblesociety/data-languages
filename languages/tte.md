@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوانابوانا
     auto: true
+  - translation_iso: ben
+    name: বওয়ানাবওয়ানা
+    auto: true
   - translation_iso: deu
     name: Bwanabwana
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्वानाब्वाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwanabwana
     auto: true
   - translation_iso: jpn
     name: トゥベトゥベ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينونهان
     auto: true
+  - translation_iso: ben
+    name: ইনোনহান
+    auto: true
   - translation_iso: deu
     name: Inonhan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: inonhan
   - translation_iso: hin
     name: इनोन्हान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Inonhan
     auto: true
   - translation_iso: jpn
     name: イノンハン語

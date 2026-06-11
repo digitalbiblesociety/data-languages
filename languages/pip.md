@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيرو
     auto: true
+  - translation_iso: ben
+    name: পেরো
+    auto: true
   - translation_iso: deu
     name: Pero
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pero
   - translation_iso: hin
     name: पेरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pero
     auto: true
   - translation_iso: jpn
     name: ペロ語

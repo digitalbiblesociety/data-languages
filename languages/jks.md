@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोनिया सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Amami Koniya Sign Language
+    auto: true
   - translation_iso: jpn
     name: 奄美大島手話
   - translation_iso: kor

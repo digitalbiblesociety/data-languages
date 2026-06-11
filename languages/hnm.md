@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الهاينانية
     auto: true
+  - translation_iso: ben
+    name: হাইনানেসে
+    auto: true
   - translation_iso: deu
     name: Hainanesisch
     auto: true

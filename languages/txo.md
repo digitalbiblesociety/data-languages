@@ -29,6 +29,9 @@ translations:
     name: toto
   - translation_iso: hin
     name: टोटो भाषा
+  - translation_iso: ind
+    name: Bahasa Toto
+    auto: true
   - translation_iso: jpn
     name: トト語
   - translation_iso: kor

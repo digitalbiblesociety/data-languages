@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوموز
     auto: true
+  - translation_iso: ben
+    name: গুমুজ
+    auto: true
   - translation_iso: deu
     name: Gumuz
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gumuz
   - translation_iso: hin
     name: गुमुज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gumuz
     auto: true
   - translation_iso: jpn
     name: グムズ語

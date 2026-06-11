@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوك
     auto: true
+  - translation_iso: ben
+    name: পারাউক
+    auto: true
   - translation_iso: deu
     name: Parauk
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: parauk
   - translation_iso: hin
     name: पाराउक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Parauk
     auto: true
   - translation_iso: jpn
     name: パラウク語

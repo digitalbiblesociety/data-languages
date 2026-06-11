@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاو لان
     auto: true
+  - translation_iso: ben
+    name: কাও লান
+    auto: true
   - translation_iso: deu
     name: Cao Lan
     auto: true

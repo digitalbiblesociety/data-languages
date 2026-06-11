@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غووآمو
     auto: true
+  - translation_iso: ben
+    name: গুওয়ামু
+    auto: true
   - translation_iso: deu
     name: Guwamu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: guwamu
   - translation_iso: hin
     name: गुवामू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guwamu
     auto: true
   - translation_iso: jpn
     name: グワム語

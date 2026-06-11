@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة امو
     auto: true
+  - translation_iso: ben
+    name: লামু
+    auto: true
   - translation_iso: deu
     name: Lamu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lamu
   - translation_iso: hin
     name: लामू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamu
     auto: true
   - translation_iso: jpn
     name: ラムー語

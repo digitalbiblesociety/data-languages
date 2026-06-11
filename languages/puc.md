@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان ميراب
     auto: true
+  - translation_iso: ben
+    name: পুনান মেরাপ
+    auto: true
   - translation_iso: deu
     name: Punan Merap
     auto: true

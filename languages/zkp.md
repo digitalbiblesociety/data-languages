@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ساو باولو كاينغانج
     auto: true
+  - translation_iso: ben
+    name: সাও পাউলো কাইঙাং
+    auto: true
   - translation_iso: deu
     name: Kaingáng (São Paulo)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: साओ पाउलो काइंगांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa São Paulo Kaingáng
     auto: true
   - translation_iso: jpn
     name: サウ・パウロ・カイングアング語

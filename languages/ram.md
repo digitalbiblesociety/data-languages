@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كانيلا
     auto: true
+  - translation_iso: ben
+    name: কানেলা
+    auto: true
   - translation_iso: deu
     name: Canela
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: canela
   - translation_iso: hin
     name: कानेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Canela
     auto: true
   - translation_iso: jpn
     name: カネラ語

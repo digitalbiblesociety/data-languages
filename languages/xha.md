@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: هارامي
     auto: true
+  - translation_iso: ben
+    name: হারামি
+    auto: true
   - translation_iso: deu
     name: Harami
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: harami
   - translation_iso: hin
     name: हरामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Harami
     auto: true
   - translation_iso: jpn
     name: ハラミ語

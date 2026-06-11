@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موندوروكو
     auto: true
+  - translation_iso: ben
+    name: মুনদুরুকু
+    auto: true
   - translation_iso: deu
     name: Mundurukú
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: munduruku
   - translation_iso: hin
     name: मुंदुरुकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mundurukú
     auto: true
   - translation_iso: jpn
     name: ムンドゥルク

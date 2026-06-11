@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وويينياكا
     auto: true
+  - translation_iso: ben
+    name: ওয়োজেনাকা
+    auto: true
   - translation_iso: deu
     name: Wojenaka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wojenaka
   - translation_iso: hin
     name: वोजेनाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wojenaka
     auto: true
   - translation_iso: jpn
     name: ウォジェナカ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سواو
     auto: true
+  - translation_iso: ben
+    name: সুয়াউ
+    auto: true
   - translation_iso: deu
     name: Suau
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: suau
   - translation_iso: hin
     name: सुआउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suau
     auto: true
   - translation_iso: jpn
     name: スアウ語

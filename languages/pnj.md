@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينجاروب
     auto: true
+  - translation_iso: ben
+    name: পিনজারুপ
+    auto: true
   - translation_iso: deu
     name: Pinjarup
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: pinjarup
   - translation_iso: hin
     name: पिंजारुप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pinjarup
     auto: true
   - translation_iso: jpn
     name: ピンジャルップ語

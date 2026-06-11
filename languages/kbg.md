@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خامبا
     auto: true
+  - translation_iso: ben
+    name: খামবা
+    auto: true
   - translation_iso: deu
     name: Khamba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khamba
   - translation_iso: hin
     name: खाम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khamba
     auto: true
   - translation_iso: jpn
     name: ハンバ語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نجانكاكاتي
     auto: true
+  - translation_iso: ben
+    name: ঙানাকারতি
+    auto: true
   - translation_iso: deu
     name: Nganakarti
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: nganakarti
   - translation_iso: hin
     name: न्गनकर्ती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nganakarti
     auto: true
   - translation_iso: jpn
     name: ンガナカルティ語

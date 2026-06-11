@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واكدي
     auto: true
+  - translation_iso: ben
+    name: ওয়াকদে
+    auto: true
   - translation_iso: deu
     name: Wakde
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वकदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wakde
     auto: true
   - translation_iso: jpn
     name: ワクデ語

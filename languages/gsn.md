@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نإمآ
     auto: true
+  - translation_iso: ben
+    name: নেমা
+    auto: true
   - translation_iso: deu
     name: Nema
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nema
   - translation_iso: hin
     name: नेमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nema
     auto: true
   - translation_iso: jpn
     name: ネマ語

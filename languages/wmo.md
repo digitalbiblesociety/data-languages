@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووم پاپوا نيو غوينيا
     auto: true
+  - translation_iso: ben
+    name: ওয়োম
+    auto: true
   - translation_iso: deu
     name: Wom (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wom
   - translation_iso: hin
     name: वोम (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wom
     auto: true
   - translation_iso: jpn
     name: ウォム語（パプアニューギニア）

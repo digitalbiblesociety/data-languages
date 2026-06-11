@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ديnya
     auto: true
+  - translation_iso: ben
+    name: দেনয়া
+    auto: true
   - translation_iso: deu
     name: Denya
   - translation_iso: fra
     name: denya
   - translation_iso: hin
     name: देन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Denya
     auto: true
   - translation_iso: jpn
     name: デニャ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أموزجو سان بيدرو
     auto: true
+  - translation_iso: ben
+    name: সান পেদরো আমুজগোস আমুজগো
+    auto: true
   - translation_iso: deu
     name: San-Pedro-Amuzgos-Amuzgo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: amuzgo de San Pedro Amuzgos
   - translation_iso: hin
     name: सान पेद्रो अमुज़गोस अमुज़गो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Pedro Amuzgos Amuzgo
     auto: true
   - translation_iso: jpn
     name: サン・ペドロ・アムズゴス・アムズゴ語

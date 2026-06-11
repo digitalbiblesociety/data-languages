@@ -29,6 +29,9 @@ translations:
     name: irula
   - translation_iso: hin
     name: ईरुला भाषा
+  - translation_iso: ind
+    name: Bahasa Irula
+    auto: true
   - translation_iso: jpn
     name: イルラ語
   - translation_iso: kor

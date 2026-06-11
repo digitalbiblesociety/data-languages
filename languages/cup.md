@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوپينو
     auto: true
+  - translation_iso: ben
+    name: কুপেনয়ো
+    auto: true
   - translation_iso: deu
     name: Cupeño
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cupeño
   - translation_iso: hin
     name: कुपेन्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cupeño
     auto: true
   - translation_iso: jpn
     name: クペニョ語

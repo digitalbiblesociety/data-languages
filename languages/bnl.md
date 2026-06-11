@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Boon_language"
 translations:
   - translation_iso: ara
     name: بون
+  - translation_iso: ben
+    name: বোন
+    auto: true
   - translation_iso: deu
     name: Boon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: boon
   - translation_iso: hin
     name: बून
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boon
     auto: true
   - translation_iso: jpn
     name: ブーン語

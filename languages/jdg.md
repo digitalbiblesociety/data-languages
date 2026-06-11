@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जदगाली
+  - translation_iso: ind
+    name: Bahasa Jadgali
+    auto: true
   - translation_iso: jpn
     name: ジャガリ語
   - translation_iso: kor

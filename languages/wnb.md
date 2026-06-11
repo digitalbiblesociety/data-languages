@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وانامبري
     auto: true
+  - translation_iso: ben
+    name: ওয়ানামবরে
+    auto: true
   - translation_iso: deu
     name: Wanambre
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वानाम्ब्रे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanambre
     auto: true
   - translation_iso: jpn
     name: ワナンブレ語

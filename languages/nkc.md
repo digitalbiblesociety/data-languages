@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نكونغو
     auto: true
+  - translation_iso: ben
+    name: নকোংহো
+    auto: true
   - translation_iso: deu
     name: Nkongho
   - translation_iso: fra
     name: nkongho
   - translation_iso: hin
     name: नकोंघो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkongho
     auto: true
   - translation_iso: jpn
     name: ンコンゴ語

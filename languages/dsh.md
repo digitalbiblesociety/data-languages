@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: داسانتش
     auto: true
+  - translation_iso: ben
+    name: দাসানাচ
+    auto: true
   - translation_iso: deu
     name: Dassanetch
   - translation_iso: fra
     name: daasanach
   - translation_iso: hin
     name: दासानाच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daasanach
     auto: true
   - translation_iso: jpn
     name: ダサネッチ語

@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Hebrew"
 translations:
   - translation_iso: ara
     name: عبرية سامرية
+  - translation_iso: ben
+    name: সামারিতান
+    auto: true
   - translation_iso: deu
     name: Samaritanisches Hebräisch
   - translation_iso: fra

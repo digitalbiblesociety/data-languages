@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة النون
     auto: true
+  - translation_iso: ben
+    name: নোন
+    auto: true
   - translation_iso: deu
     name: Noon
   - translation_iso: fra
     name: sérère-Noon
   - translation_iso: hin
     name: नून
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Noon
     auto: true
   - translation_iso: jpn
     name: ノーン語

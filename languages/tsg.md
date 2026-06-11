@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tausug_language"
 translations:
   - translation_iso: ara
     name: التوسوكية
+  - translation_iso: ben
+    name: তাউসুগ
+    auto: true
   - translation_iso: deu
     name: Tausūg
   - translation_iso: fra

@@ -29,6 +29,9 @@ translations:
     name: atong
   - translation_iso: hin
     name: अटोंग भाषा
+  - translation_iso: ind
+    name: Bahasa Atong
+    auto: true
   - translation_iso: jpn
     name: アトン語(インド)
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كاثوريا ثارو
     auto: true
+  - translation_iso: ben
+    name: কাথোরিয়া থারু
+    auto: true
   - translation_iso: deu
     name: Kathoriya Tharu
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tharu kathoriya
   - translation_iso: hin
     name: कथोरिया थारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kathoriya Tharu
     auto: true
   - translation_iso: jpn
     name: カトリア・タル語

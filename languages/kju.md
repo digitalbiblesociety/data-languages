@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاشايا
     auto: true
+  - translation_iso: ben
+    name: কাশায়া
+    auto: true
   - translation_iso: deu
     name: Kashaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kashaya
   - translation_iso: hin
     name: काशाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kashaya
     auto: true
   - translation_iso: jpn
     name: カシャヤ語

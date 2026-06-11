@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अम्ब्राक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambrak
+    auto: true
   - translation_iso: jpn
     name: アンブラク語
     auto: true

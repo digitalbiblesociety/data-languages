@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوهو
     auto: true
+  - translation_iso: ben
+    name: লুহু
+    auto: true
   - translation_iso: deu
     name: Luhu
   - translation_iso: fra

@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Medumba_language"
 translations:
   - translation_iso: ara
     name: لغة الميدومبا
+  - translation_iso: ben
+    name: মেদুমবা
+    auto: true
   - translation_iso: deu
     name: Medumba
   - translation_iso: fra

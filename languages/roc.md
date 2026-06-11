@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاجيا روجلاي
     auto: true
+  - translation_iso: ben
+    name: কাকগিয়া রোগলাই
+    auto: true
   - translation_iso: deu
     name: Cacgia-Roglai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: cacgia
   - translation_iso: hin
     name: कैकगिया रोग्लाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cacgia Roglai
     auto: true
   - translation_iso: jpn
     name: カギアログライ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايكي
     auto: true
+  - translation_iso: ben
+    name: কাইকে
+    auto: true
   - translation_iso: deu
     name: Kaike
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaike
   - translation_iso: hin
     name: कैके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaike
     auto: true
   - translation_iso: jpn
     name: カイケ語

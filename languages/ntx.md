@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تانخول ناغا (ميانمار)
     auto: true
+  - translation_iso: ben
+    name: তাংখুল নাগা
+    auto: true
   - translation_iso: deu
     name: Tangkhul-Naga (Myanmar)
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: somra
   - translation_iso: hin
     name: तांगखुल नागा (म्यांमार)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tangkhul Naga
     auto: true
   - translation_iso: jpn
     name: タングクル・ナガ語

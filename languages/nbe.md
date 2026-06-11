@@ -30,6 +30,9 @@ translations:
     name: konyak
   - translation_iso: hin
     name: कोन्यक भाषा
+  - translation_iso: ind
+    name: Bahasa Konyak Naga
+    auto: true
   - translation_iso: jpn
     name: コニャック語
   - translation_iso: kor

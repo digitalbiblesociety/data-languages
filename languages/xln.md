@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: एलैनिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alanic
+    auto: true
   - translation_iso: jpn
     name: アラン語
   - translation_iso: kor

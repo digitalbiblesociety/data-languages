@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بودزا
     auto: true
+  - translation_iso: ben
+    name: বুদজা
+    auto: true
   - translation_iso: deu
     name: Budza
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ebudza
   - translation_iso: hin
     name: बुद्ज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Budza
     auto: true
   - translation_iso: jpn
     name: ブッザ語

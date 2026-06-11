@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল বেরাওয়ান
+    auto: true
   - translation_iso: deu
     name: Zentral-Berawan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: batu belah
   - translation_iso: hin
     name: मध्य बेरावन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Berawan
     auto: true
   - translation_iso: jpn
     name: セントラル・ベラワン語

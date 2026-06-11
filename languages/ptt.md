@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة إنريكانج
     auto: true
+  - translation_iso: ben
+    name: এনরেকাং
+    auto: true
   - translation_iso: deu
     name: Enrekang
   - translation_iso: fra

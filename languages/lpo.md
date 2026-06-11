@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يپو
     auto: true
+  - translation_iso: ben
+    name: লিপো
+    auto: true
   - translation_iso: deu
     name: Lipo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lipo
   - translation_iso: hin
     name: लिपो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lipo
     auto: true
   - translation_iso: jpn
     name: リポ語

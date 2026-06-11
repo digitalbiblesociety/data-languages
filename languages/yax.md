@@ -15,12 +15,18 @@ translations:
   - translation_iso: ara
     name: ياوما
     auto: true
+  - translation_iso: ben
+    name: য়াউমা
+    auto: true
   - translation_iso: deu
     name: Yauma
   - translation_iso: fra
     name: yauma
   - translation_iso: hin
     name: यौमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yauma
     auto: true
   - translation_iso: jpn
     name: ヤウマ語

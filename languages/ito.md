@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: إيتونما
     auto: true
+  - translation_iso: ben
+    name: ইতোনামা
+    auto: true
   - translation_iso: deu
     name: Itonama
   - translation_iso: fra
     name: itonama
   - translation_iso: hin
     name: इतोनामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Itonama
     auto: true
   - translation_iso: jpn
     name: イトナマ語

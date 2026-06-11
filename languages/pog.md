@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوتيجوارا
     auto: true
+  - translation_iso: ben
+    name: পোতিগুয়ারা
+    auto: true
   - translation_iso: deu
     name: Potiguára
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: potiguára
   - translation_iso: hin
     name: पोतिगुआरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Potiguára
     auto: true
   - translation_iso: jpn
     name: ポティグアラ語

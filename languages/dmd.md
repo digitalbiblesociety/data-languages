@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مادي مادي
     auto: true
+  - translation_iso: ben
+    name: মাধি মাধি
+    auto: true
   - translation_iso: deu
     name: Madhi Madhi
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: madhi madhi
   - translation_iso: hin
     name: मधी मधी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Madhi Madhi
     auto: true
   - translation_iso: jpn
     name: マディ・マディ語

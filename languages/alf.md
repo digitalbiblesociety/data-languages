@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलेगे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alege
+    auto: true
   - translation_iso: jpn
     name: アレゲ語
     auto: true

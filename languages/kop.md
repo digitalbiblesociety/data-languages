@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وابي
     auto: true
+  - translation_iso: ben
+    name: ওয়াউবে
+    auto: true
   - translation_iso: deu
     name: Waube
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waube
   - translation_iso: hin
     name: वाउबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waube
     auto: true
   - translation_iso: jpn
     name: ワウベ語

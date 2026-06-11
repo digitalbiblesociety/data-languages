@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيلوبي
     auto: true
+  - translation_iso: ben
+    name: সিলোপি
+    auto: true
   - translation_iso: deu
     name: Silopi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: silopi
   - translation_iso: hin
     name: सिलोपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Silopi
     auto: true
   - translation_iso: jpn
     name: シロピ語

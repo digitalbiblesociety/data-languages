@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الشاتينو الغربي الأعلى
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন হিঘলানদ চাতিনো
+    auto: true
   - translation_iso: deu
     name: Westliches Hochland-Chatino
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "chatino des hauts-plateaux de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी उच्चभूमि चातीनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Highland Chatino
     auto: true
   - translation_iso: jpn
     name: ウェスタン・ハイランド・チャティーノ語

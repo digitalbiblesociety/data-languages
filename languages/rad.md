@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رادي
     auto: true
+  - translation_iso: ben
+    name: রাদে
+    auto: true
   - translation_iso: deu
     name: Rade
     auto: true

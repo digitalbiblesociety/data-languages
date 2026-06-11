@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يرونج
     auto: true
+  - translation_iso: ben
+    name: য়েরোং
+    auto: true
   - translation_iso: deu
     name: Yerong
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yerong
   - translation_iso: hin
     name: येरोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yerong
     auto: true
   - translation_iso: jpn
     name: イェロング語

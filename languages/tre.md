@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تارانغان الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত তারাঙান
+    auto: true
   - translation_iso: deu
     name: Ost-Tarangan
     auto: true

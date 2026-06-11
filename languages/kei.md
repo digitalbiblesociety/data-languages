@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاي
     auto: true
+  - translation_iso: ben
+    name: কেই
+    auto: true
   - translation_iso: deu
     name: Kei
     auto: true

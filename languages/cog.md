@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشونغ
     auto: true
+  - translation_iso: ben
+    name: চোং
+    auto: true
   - translation_iso: deu
     name: Chong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chong
   - translation_iso: hin
     name: चोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chong
     auto: true
   - translation_iso: jpn
     name: チョング語

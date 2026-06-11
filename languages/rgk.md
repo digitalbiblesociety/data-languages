@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رانجكاس
     auto: true
+  - translation_iso: ben
+    name: রাংকাস
+    auto: true
   - translation_iso: deu
     name: Rangkas
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rangkas
   - translation_iso: hin
     name: रंगस भाषा
+  - translation_iso: ind
+    name: Bahasa Rangkas
+    auto: true
   - translation_iso: jpn
     name: ラングカス語
     auto: true

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: فلاكس رومانية
     auto: true
+  - translation_iso: ben
+    name: ভলাকস রোমানি
+    auto: true
   - translation_iso: deu
     name: Vlax-Romani
   - translation_iso: fra
     name: romani vlax
   - translation_iso: hin
     name: व्लाक्स रोमानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vlax Romani
     auto: true
   - translation_iso: jpn
     name: ワラキア方言群

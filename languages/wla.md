@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واليو
     auto: true
+  - translation_iso: ben
+    name: ওয়ালিও
+    auto: true
   - translation_iso: deu
     name: Walio
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: walio
   - translation_iso: hin
     name: वालियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Walio
     auto: true
   - translation_iso: jpn
     name: ワリオ語

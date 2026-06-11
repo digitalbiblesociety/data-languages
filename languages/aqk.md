@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنينكا
     auto: true
+  - translation_iso: ben
+    name: আনিনকা
+    auto: true
   - translation_iso: deu
     name: Aninka
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: ninka
   - translation_iso: hin
     name: अनिन्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Aninka
     auto: true
   - translation_iso: jpn
     name: アニンカ語

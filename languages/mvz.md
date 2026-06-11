@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mesqan_language"
 translations:
   - translation_iso: ara
     name: مسكان (لغة)
+  - translation_iso: ben
+    name: মেসকান
+    auto: true
   - translation_iso: deu
     name: Mesqan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मेस्कान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mesqan
     auto: true
   - translation_iso: jpn
     name: メスカン語

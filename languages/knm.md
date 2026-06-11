@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانامي
     auto: true
+  - translation_iso: ben
+    name: কানামারি
+    auto: true
   - translation_iso: deu
     name: Kanamarí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: katukína-kanamarí
   - translation_iso: hin
     name: कनामारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanamarí
     auto: true
   - translation_iso: jpn
     name: カナマリ語

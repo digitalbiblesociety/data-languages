@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كوكو-مانك
     auto: true
+  - translation_iso: ben
+    name: কুকু-মাংক
+    auto: true
   - translation_iso: deu
     name: Kuku-Mangk
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: kuku-mangk
   - translation_iso: hin
     name: कुकु-मांक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuku-Mangk
     auto: true
   - translation_iso: jpn
     name: クク・マング語

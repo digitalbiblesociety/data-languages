@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويمي غبي
     auto: true
+  - translation_iso: ben
+    name: ওয়েমে গবে
+    auto: true
   - translation_iso: deu
     name: Weme Gbe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: weme
   - translation_iso: hin
     name: वेमे ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Weme Gbe
     auto: true
   - translation_iso: jpn
     name: ウェメ・ゲベ語

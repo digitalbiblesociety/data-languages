@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يسا
     auto: true
+  - translation_iso: ben
+    name: কিসা
+    auto: true
   - translation_iso: deu
     name: Kisa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kisa
   - translation_iso: hin
     name: किसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kisa
     auto: true
   - translation_iso: jpn
     name: キサ語

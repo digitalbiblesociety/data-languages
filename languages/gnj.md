@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: نجإن
     auto: true
+  - translation_iso: ben
+    name: ঙেন
+    auto: true
   - translation_iso: deu
     name: Ngen
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: ngen
   - translation_iso: hin
     name: न्गेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngen
     auto: true
   - translation_iso: jpn
     name: ンゲン語

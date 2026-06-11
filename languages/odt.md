@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Dutch"
 translations:
   - translation_iso: ara
     name: اللغة الهولندية القديمة
+  - translation_iso: ben
+    name: ওলদ দুতচ
+    auto: true
   - translation_iso: deu
     name: Altniederländisch
   - translation_iso: fra

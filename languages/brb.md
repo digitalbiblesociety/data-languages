@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاڤي
     auto: true
+  - translation_iso: ben
+    name: লাভে
+    auto: true
   - translation_iso: deu
     name: Lave
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: brao
   - translation_iso: hin
     name: लावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lave
     auto: true
   - translation_iso: jpn
     name: ラヴェ語

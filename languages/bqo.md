@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बालो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balo
+    auto: true
   - translation_iso: jpn
     name: バロ語
     auto: true

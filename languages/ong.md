@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أولو
     auto: true
+  - translation_iso: ben
+    name: ওলো
+    auto: true
   - translation_iso: deu
     name: Olo
   - translation_iso: fra
     name: olo
   - translation_iso: hin
     name: ओलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Olo
     auto: true
   - translation_iso: jpn
     name: オロ語

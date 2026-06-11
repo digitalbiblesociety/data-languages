@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كوبو
     auto: true
+  - translation_iso: ben
+    name: কুবু
+    auto: true
   - translation_iso: deu
     name: Kubu
   - translation_iso: fra

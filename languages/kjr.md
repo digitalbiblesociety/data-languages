@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروودو
     auto: true
+  - translation_iso: ben
+    name: কুরুদু
+    auto: true
   - translation_iso: deu
     name: Kurudu
     auto: true

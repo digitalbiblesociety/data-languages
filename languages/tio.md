@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيوب
     auto: true
+  - translation_iso: ben
+    name: তেওপ
+    auto: true
   - translation_iso: deu
     name: Teop
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: teop
   - translation_iso: hin
     name: तेओप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teop
     auto: true
   - translation_iso: jpn
     name: テオプ語

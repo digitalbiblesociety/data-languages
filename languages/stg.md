@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة تريينج
     auto: true
+  - translation_iso: ben
+    name: তরিএং
+    auto: true
   - translation_iso: deu
     name: Trieng
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: trieng
   - translation_iso: hin
     name: त्रिएंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Trieng
     auto: true
   - translation_iso: jpn
     name: トリエン語

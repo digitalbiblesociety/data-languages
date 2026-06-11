@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: अदितिंगिथि
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adithinngithigh
+    auto: true
   - translation_iso: jpn
     name: アディティンギティ語
     auto: true

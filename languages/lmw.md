@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اكي يووك
     auto: true
+  - translation_iso: ben
+    name: লাকে মিওয়োক
+    auto: true
   - translation_iso: deu
     name: Lake Miwok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miwok du lac
   - translation_iso: hin
     name: लेक मिवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lake Miwok
     auto: true
   - translation_iso: jpn
     name: レイク・ミウォク語

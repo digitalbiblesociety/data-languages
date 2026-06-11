@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراناوات
     auto: true
+  - translation_iso: ben
+    name: পারানাওয়াত
+    auto: true
   - translation_iso: deu
     name: Paranawát
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: paranawát
   - translation_iso: hin
     name: पारानावात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paranawát
     auto: true
   - translation_iso: jpn
     name: パラナワッ語

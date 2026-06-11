@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآرلآلي
     auto: true
+  - translation_iso: ben
+    name: গারলালি
+    auto: true
   - translation_iso: deu
     name: Garlali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: garlali
   - translation_iso: hin
     name: गारलाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garlali
     auto: true
   - translation_iso: jpn
     name: ガルラリ語

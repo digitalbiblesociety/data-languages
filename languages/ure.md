@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أورو
     auto: true
+  - translation_iso: ben
+    name: উরু
+    auto: true
   - translation_iso: deu
     name: Uruquilla
   - translation_iso: fra
     name: uru
   - translation_iso: hin
     name: उरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uru
     auto: true
   - translation_iso: jpn
     name: イル・イツ語

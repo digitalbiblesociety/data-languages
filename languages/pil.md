@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يوم
     auto: true
+  - translation_iso: ben
+    name: য়োম
+    auto: true
   - translation_iso: deu
     name: Yom
   - translation_iso: fra
     name: yom
   - translation_iso: hin
     name: योम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yom
     auto: true
   - translation_iso: jpn
     name: ヨム語

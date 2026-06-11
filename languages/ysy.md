@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ساني
     auto: true
+  - translation_iso: ben
+    name: সানিএ
+    auto: true
   - translation_iso: deu
     name: Sanie
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sanie
   - translation_iso: hin
     name: सानिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sanie
     auto: true
   - translation_iso: jpn
     name: サニー語

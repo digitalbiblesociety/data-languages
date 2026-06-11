@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: روماي بالاونج
     auto: true
+  - translation_iso: ben
+    name: রুমাই পালাউং
+    auto: true
   - translation_iso: deu
     name: Rumai-Palaung
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: rumai
   - translation_iso: hin
     name: रुमाई पलौंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rumai Palaung
     auto: true
   - translation_iso: jpn
     name: ルマイパラウン語

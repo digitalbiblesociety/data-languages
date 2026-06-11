@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوفالي
     auto: true
+  - translation_iso: ben
+    name: কুভালে
+    auto: true
   - translation_iso: deu
     name: Kuvale
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kuvale
   - translation_iso: hin
     name: कुवाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuvale
     auto: true
   - translation_iso: jpn
     name: クバレ語

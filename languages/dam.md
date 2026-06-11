@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: داماكاوا
     auto: true
+  - translation_iso: ben
+    name: দামাকাওয়া
+    auto: true
   - translation_iso: deu
     name: Damakawa
   - translation_iso: fra
     name: damakawa
   - translation_iso: hin
     name: दामाकावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Damakawa
     auto: true
   - translation_iso: jpn
     name: ダマカワ語

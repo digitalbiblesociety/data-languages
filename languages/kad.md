@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अदारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adara
+    auto: true
   - translation_iso: jpn
     name: アダラ語
     auto: true

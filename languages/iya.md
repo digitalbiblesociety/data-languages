@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إياي
     auto: true
+  - translation_iso: ben
+    name: ইয়ায়ু
+    auto: true
   - translation_iso: deu
     name: Iyayu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इयायु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iyayu
     auto: true
   - translation_iso: jpn
     name: イヤユ語

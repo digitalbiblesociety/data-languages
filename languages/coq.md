@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكوكيل
     auto: true
+  - translation_iso: ben
+    name: কোকুইল্লে
+    auto: true
   - translation_iso: deu
     name: Coquille
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: coquille
   - translation_iso: hin
     name: शंख
+  - translation_iso: ind
+    name: Bahasa Coquille
+    auto: true
   - translation_iso: jpn
     name: コキール語
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميديبور
     auto: true
+  - translation_iso: ben
+    name: মেদেবুর
+    auto: true
   - translation_iso: deu
     name: Medebur
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: medebur
   - translation_iso: hin
     name: मेदेबुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Medebur
     auto: true
   - translation_iso: jpn
     name: メデブル語

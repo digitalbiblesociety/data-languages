@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هرزاني
     auto: true
+  - translation_iso: ben
+    name: হারজানি
+    auto: true
   - translation_iso: deu
     name: Harzandi
   - translation_iso: fra
     name: harzani
   - translation_iso: hin
     name: हरज़ानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Harzani
     auto: true
   - translation_iso: jpn
     name: Herzendī

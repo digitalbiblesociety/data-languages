@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نغانتانغارا
     auto: true
+  - translation_iso: ben
+    name: ঙানতাঙার্রা
+    auto: true
   - translation_iso: deu
     name: Ngantangarra
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: ngantangarra
   - translation_iso: hin
     name: न्गंतंगारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngantangarra
     auto: true
   - translation_iso: jpn
     name: ンガンタンガラ語

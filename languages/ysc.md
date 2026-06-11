@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياسيك
     auto: true
+  - translation_iso: ben
+    name: য়াস্সিক
+    auto: true
   - translation_iso: deu
     name: Jassisch
     auto: true

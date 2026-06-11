@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوآهيبو
     auto: true
+  - translation_iso: ben
+    name: গুয়াহিবো
+    auto: true
   - translation_iso: deu
     name: Guahibo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sikuani
   - translation_iso: hin
     name: गुआहिबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guahibo
     auto: true
   - translation_iso: jpn
     name: グアヒボ語

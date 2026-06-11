@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল আওয়য়ু
+    auto: true
   - translation_iso: deu
     name: Zentral-Awyu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: aghu central
   - translation_iso: hin
     name: मध्य अव्यू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Awyu
     auto: true
   - translation_iso: jpn
     name: 中央アウユ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ووشي
     auto: true
+  - translation_iso: ben
+    name: ওয়ুশি
+    auto: true
   - translation_iso: deu
     name: Wuschi
   - translation_iso: fra
     name: wushi
   - translation_iso: hin
     name: वुशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wushi
     auto: true
   - translation_iso: jpn
     name: ウシ語

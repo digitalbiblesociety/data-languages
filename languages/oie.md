@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكولي
     auto: true
+  - translation_iso: ben
+    name: ওকোলিএ
+    auto: true
   - translation_iso: deu
     name: Okolie
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओकोलिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Okolie
     auto: true
   - translation_iso: jpn
     name: オコリエ語

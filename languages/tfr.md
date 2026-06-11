@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيريبي
     auto: true
+  - translation_iso: ben
+    name: তেরিবে
+    auto: true
   - translation_iso: deu
     name: Teribe
   - translation_iso: fra
     name: teribe
   - translation_iso: hin
     name: तेरिबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teribe
     auto: true
   - translation_iso: jpn
     name: テリベ語

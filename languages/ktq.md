@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاتاباجا
     auto: true
+  - translation_iso: ben
+    name: কাতাবাগা
+    auto: true
   - translation_iso: deu
     name: Katabaga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: katabaga
   - translation_iso: hin
     name: कताबागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katabaga
     auto: true
   - translation_iso: jpn
     name: カタバガ語

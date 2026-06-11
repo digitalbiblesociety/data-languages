@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغينية
     auto: true
+  - translation_iso: ben
+    name: গুইনেয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Guineische Gebärdensprache
   - translation_iso: fra
     name: langue des signes guinéenne
   - translation_iso: hin
     name: गिनी सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guinean Sign Language
     auto: true
   - translation_iso: jpn
     name: ギニア手話

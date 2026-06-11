@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروبون سيلا
     auto: true
+  - translation_iso: ben
+    name: কোরুপুন-সেলা
+    auto: true
   - translation_iso: deu
     name: Korupun-Sela
     auto: true

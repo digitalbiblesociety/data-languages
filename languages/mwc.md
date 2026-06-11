@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Are
+    auto: true
   - translation_iso: jpn
     name: アレ語
   - translation_iso: kor

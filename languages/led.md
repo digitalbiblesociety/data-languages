@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يندو
     auto: true
+  - translation_iso: ben
+    name: লেনদু
+    auto: true
   - translation_iso: deu
     name: Lendu
   - translation_iso: fra
     name: lendu
   - translation_iso: hin
     name: लेंदु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lendu
     auto: true
   - translation_iso: jpn
     name: レンドュ語

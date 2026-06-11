@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مودا
     auto: true
+  - translation_iso: ben
+    name: মোদা
+    auto: true
   - translation_iso: deu
     name: "Mo'da"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "mo'da"
   - translation_iso: hin
     name: "मो'दा"
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Mo'da"
     auto: true
   - translation_iso: jpn
     name: モダ語

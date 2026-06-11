@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيا
     auto: true
+  - translation_iso: ben
+    name: মাপিয়া
+    auto: true
   - translation_iso: deu
     name: Mapia
   - translation_iso: fra

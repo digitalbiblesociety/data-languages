@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوآنآ
     auto: true
+  - translation_iso: ben
+    name: গুয়ানা
+    auto: true
   - translation_iso: deu
     name: Guana (Paraguay)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guaná
   - translation_iso: hin
     name: गुआना (पराग्वे)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guana
     auto: true
   - translation_iso: jpn
     name: グアナ語

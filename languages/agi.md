@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अगरिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agariya
+    auto: true
   - translation_iso: jpn
     name: アガリア語
   - translation_iso: kor

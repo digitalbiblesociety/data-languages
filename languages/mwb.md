@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جوال
     auto: true
+  - translation_iso: ben
+    name: জুওয়াল
+    auto: true
   - translation_iso: deu
     name: Juwal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: juwal
   - translation_iso: hin
     name: जुवाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Juwal
     auto: true
   - translation_iso: jpn
     name: ジュワル語

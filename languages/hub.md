@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوامبيسا
     auto: true
+  - translation_iso: ben
+    name: হুয়ামবিসা
+    auto: true
   - translation_iso: deu
     name: Huambisa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: huambisa
   - translation_iso: hin
     name: हुआम्बिसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huambisa
     auto: true
   - translation_iso: jpn
     name: フアンビサ語

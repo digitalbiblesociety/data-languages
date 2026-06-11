@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشراو
     auto: true
+  - translation_iso: ben
+    name: চরাউ
+    auto: true
   - translation_iso: deu
     name: Chrau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chrau
   - translation_iso: hin
     name: च्राउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chrau
     auto: true
   - translation_iso: jpn
     name: チョラウ語

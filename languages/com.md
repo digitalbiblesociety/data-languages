@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكومانتشي
     auto: true
+  - translation_iso: ben
+    name: কোমানচে
+    auto: true
   - translation_iso: deu
     name: Comanche
   - translation_iso: fra
     name: comanche
   - translation_iso: hin
     name: कोमांचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Comanche
     auto: true
   - translation_iso: jpn
     name: コマンチェ語

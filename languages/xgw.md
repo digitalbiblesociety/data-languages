@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غووا
     auto: true
+  - translation_iso: ben
+    name: গুওয়া
+    auto: true
   - translation_iso: deu
     name: Guwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guwa
   - translation_iso: hin
     name: गुवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guwa
     auto: true
   - translation_iso: jpn
     name: グワ語

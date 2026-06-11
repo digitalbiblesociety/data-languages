@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة البيلينية
     auto: true
+  - translation_iso: ben
+    name: পাএলিগনিয়ান
+    auto: true
   - translation_iso: deu
     name: Pälignisch
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पेलिग्नियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paelignian
     auto: true
   - translation_iso: jpn
     name: パエリグニア語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نتومبا
     auto: true
+  - translation_iso: ben
+    name: নতোমবা
+    auto: true
   - translation_iso: deu
     name: Ntomba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ntomba
   - translation_iso: hin
     name: न्तोम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ntomba
     auto: true
   - translation_iso: jpn
     name: ントンバ語

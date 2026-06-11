@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نغارلا
     auto: true
+  - translation_iso: ben
+    name: ঙারলা
+    auto: true
   - translation_iso: deu
     name: Ngarla
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngarla
   - translation_iso: hin
     name: नगारला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngarla
     auto: true
   - translation_iso: jpn
     name: ングアルラ語

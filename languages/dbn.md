@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوريانكيري
     auto: true
+  - translation_iso: ben
+    name: দুরিয়ানকেরে
+    auto: true
   - translation_iso: deu
     name: Duriankere
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويككييانغان
     auto: true
+  - translation_iso: ben
+    name: ওয়িক-কেয়াঙান
+    auto: true
   - translation_iso: deu
     name: Wik-Keyangan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wik-keyangan
   - translation_iso: hin
     name: विक-केयांगन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wik-Keyangan
     auto: true
   - translation_iso: jpn
     name: ウィク・キヤンガン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة تيبول
     auto: true
+  - translation_iso: ben
+    name: তেবুল সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Tebul-Gebärdensprache
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langue des signes de Tebul
   - translation_iso: hin
     name: टेबुल सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Tebul Sign Language
+    auto: true
   - translation_iso: jpn
     name: テブル手話
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أونيمي
     auto: true
+  - translation_iso: ben
+    name: উনেমে
+    auto: true
   - translation_iso: deu
     name: Uneme
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उनेमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uneme
     auto: true
   - translation_iso: jpn
     name: ウネメ・ネクア語

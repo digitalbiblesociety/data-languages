@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جزر ماسيلا الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত মাসেলা
+    auto: true
   - translation_iso: deu
     name: Ost-Masela
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "masela de l'Est"
   - translation_iso: hin
     name: पूर्वी मासेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa East Masela
     auto: true
   - translation_iso: jpn
     name: 東マセラ語

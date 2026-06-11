@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وانج
     auto: true
+  - translation_iso: ben
+    name: লুয়াং
+    auto: true
   - translation_iso: deu
     name: Luang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luang
   - translation_iso: hin
     name: लुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luang
     auto: true
   - translation_iso: jpn
     name: ルアン語

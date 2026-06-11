@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سيغو
     auto: true
+  - translation_iso: ben
+    name: সিঘু
+    auto: true
   - translation_iso: deu
     name: Sighu
   - translation_iso: fra
     name: lisiwu
   - translation_iso: hin
     name: सिघु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sighu
     auto: true
   - translation_iso: jpn
     name: シグ語

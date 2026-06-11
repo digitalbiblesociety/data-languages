@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لاندوما
     auto: true
+  - translation_iso: ben
+    name: লানদোমা
+    auto: true
   - translation_iso: deu
     name: Landoma
   - translation_iso: fra
     name: landoma
   - translation_iso: hin
     name: लांदोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Landoma
     auto: true
   - translation_iso: jpn
     name: ランドマ語

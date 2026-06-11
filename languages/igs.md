@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: إنتيرغلوسا
     auto: true
+  - translation_iso: ben
+    name: ইনতেরগলোস্সা
+    auto: true
   - translation_iso: deu
     name: Interglossa
   - translation_iso: fra
     name: interglossa
   - translation_iso: hin
     name: इंटरग्लोसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Interglossa
     auto: true
   - translation_iso: jpn
     name: インターグロッサ

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميريووج
     auto: true
+  - translation_iso: ben
+    name: মিরিওয়োং
+    auto: true
   - translation_iso: deu
     name: Miriwoong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miriwoong
   - translation_iso: hin
     name: मिरिवूंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miriwoong
     auto: true
   - translation_iso: jpn
     name: ミリウォング語

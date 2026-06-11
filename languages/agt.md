@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سنترال كاغايان أغتا
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল কাগায়ান আগতা
+    auto: true
   - translation_iso: deu
     name: Zentral-Cagayan-Agta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: agta du Cagayan central
   - translation_iso: hin
     name: मध्य कागायान अग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Cagayan Agta
     auto: true
   - translation_iso: jpn
     name: 中央カガヤン・アグタ語

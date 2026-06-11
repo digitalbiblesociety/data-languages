@@ -31,6 +31,9 @@ translations:
     name: mewari
   - translation_iso: hin
     name: मेवाड़ी भाषा
+  - translation_iso: ind
+    name: Bahasa Mewari
+    auto: true
   - translation_iso: jpn
     name: メワール語
   - translation_iso: kor

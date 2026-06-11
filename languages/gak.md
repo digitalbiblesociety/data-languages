@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجامكونورا
     auto: true
+  - translation_iso: ben
+    name: গামকোনোরা
+    auto: true
   - translation_iso: deu
     name: Gamkonora
     auto: true

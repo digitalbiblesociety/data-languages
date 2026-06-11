@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ মুয়ু
+    auto: true
   - translation_iso: deu
     name: Süd-Muyu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muyu du Sud
   - translation_iso: hin
     name: दक्षिणी मुयु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Muyu
     auto: true
   - translation_iso: jpn
     name: 南ムユ語

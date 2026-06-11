@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونتين كويالي
     auto: true
+  - translation_iso: ben
+    name: মোউনতাইন কোইয়ালি
+    auto: true
   - translation_iso: deu
     name: Berg-Koiali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koiari des montagnes
   - translation_iso: hin
     name: माउंटेन कोयाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mountain Koiali
     auto: true
   - translation_iso: jpn
     name: マウンテン・コイアリ語

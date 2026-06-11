@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الزاير
     auto: true
+  - translation_iso: ben
+    name: জিরে
+    auto: true
   - translation_iso: deu
     name: Zire
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sîshëë
   - translation_iso: hin
     name: ज़िरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zire
     auto: true
   - translation_iso: jpn
     name: ネレ語

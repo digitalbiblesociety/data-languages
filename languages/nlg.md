@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جيلا
     auto: true
+  - translation_iso: ben
+    name: গেলা
+    auto: true
   - translation_iso: deu
     name: Gela
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gela
   - translation_iso: hin
     name: गेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gela
     auto: true
   - translation_iso: jpn
     name: ンゲラ語

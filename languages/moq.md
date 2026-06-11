@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مور
     auto: true
+  - translation_iso: ben
+    name: মোর
+    auto: true
   - translation_iso: deu
     name: Mor (Bomberai-Halbinsel)
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: mor
   - translation_iso: hin
     name: मोर (बोम्बेराई प्रायद्वीप)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mor
     auto: true
   - translation_iso: jpn
     name: モル語

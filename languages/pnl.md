@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالني
     auto: true
+  - translation_iso: ben
+    name: পালেনি
+    auto: true
   - translation_iso: deu
     name: Paleni
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: paleni
   - translation_iso: hin
     name: पालेनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paleni
     auto: true
   - translation_iso: jpn
     name: パレニ語

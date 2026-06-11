@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإيفن
     auto: true
+  - translation_iso: ben
+    name: এভেন
+    auto: true
   - translation_iso: deu
     name: Ewenisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كورتي
     auto: true
+  - translation_iso: ben
+    name: কুরতি
+    auto: true
   - translation_iso: deu
     name: Kurti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kurti
   - translation_iso: hin
     name: कुर्ती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kurti
     auto: true
   - translation_iso: jpn
     name: クルティ語

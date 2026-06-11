@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: यहूदी-इतालवी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Judeo-Italian
+    auto: true
   - translation_iso: jpn
     name: ユダヤ・イタリア語群
   - translation_iso: kor

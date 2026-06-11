@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة موتشيكا
     auto: true
+  - translation_iso: ben
+    name: মোচিকা
+    auto: true
   - translation_iso: deu
     name: Muchik
   - translation_iso: fra
     name: muchik
   - translation_iso: hin
     name: मोचिका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mochica
     auto: true
   - translation_iso: jpn
     name: モチカ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موايانج
     auto: true
+  - translation_iso: ben
+    name: মুয়াং
+    auto: true
   - translation_iso: deu
     name: Muyang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muyang
   - translation_iso: hin
     name: मुयांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muyang
     auto: true
   - translation_iso: jpn
     name: ムヤン語

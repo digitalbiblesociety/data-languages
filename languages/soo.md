@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجو
     auto: true
+  - translation_iso: ben
+    name: সোঙো
+    auto: true
   - translation_iso: deu
     name: Songo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: songo
   - translation_iso: hin
     name: सोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Songo
     auto: true
   - translation_iso: jpn
     name: エヤンシ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توبوسا
     auto: true
+  - translation_iso: ben
+    name: তোপোসা
+    auto: true
   - translation_iso: deu
     name: Toposa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: toposa
   - translation_iso: hin
     name: तोपोसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toposa
     auto: true
   - translation_iso: jpn
     name: トポサ語

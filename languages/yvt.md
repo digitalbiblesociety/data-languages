@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يافيتيرو
     auto: true
+  - translation_iso: ben
+    name: য়াভিতেরো
+    auto: true
   - translation_iso: deu
     name: Yavitero
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yavitero
   - translation_iso: hin
     name: यवितेरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yavitero
     auto: true
   - translation_iso: jpn
     name: ヤビテーロ語

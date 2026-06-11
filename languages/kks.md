@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيووي
     auto: true
+  - translation_iso: ben
+    name: গিওয়ো
+    auto: true
   - translation_iso: deu
     name: Giiwo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गीवो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Giiwo
     auto: true
   - translation_iso: jpn
     name: ギーオ語

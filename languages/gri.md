@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآري
     auto: true
+  - translation_iso: ben
+    name: ঘারি
+    auto: true
   - translation_iso: deu
     name: Ghari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ghari
   - translation_iso: hin
     name: घारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghari
     auto: true
   - translation_iso: jpn
     name: ガハリ語

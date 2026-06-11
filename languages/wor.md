@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووريا
     auto: true
+  - translation_iso: ben
+    name: ওয়োরিয়া
+    auto: true
   - translation_iso: deu
     name: Woria
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونجوب
     auto: true
+  - translation_iso: ben
+    name: ওনজোব
+    auto: true
   - translation_iso: deu
     name: Onjob
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: onjob
   - translation_iso: hin
     name: ओनजोब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Onjob
     auto: true
   - translation_iso: jpn
     name: オンジョブ語

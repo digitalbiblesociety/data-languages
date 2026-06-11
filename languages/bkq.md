@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बकैरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bakairí
+    auto: true
   - translation_iso: jpn
     name: バカイリ語
     auto: true

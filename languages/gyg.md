@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: غبآيي
     auto: true
+  - translation_iso: ben
+    name: গবায়ি
+    auto: true
   - translation_iso: deu
     name: Gbayi
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: gbayi
   - translation_iso: hin
     name: ग्बायी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbayi
     auto: true
   - translation_iso: jpn
     name: ギバイ語

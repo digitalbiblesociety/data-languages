@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نينام
     auto: true
+  - translation_iso: ben
+    name: নিনাম
+    auto: true
   - translation_iso: deu
     name: Ninam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ninam
   - translation_iso: hin
     name: निनाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ninam
     auto: true
   - translation_iso: jpn
     name: ニナム語

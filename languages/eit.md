@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एइतिएप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Eitiep
+    auto: true
   - translation_iso: jpn
     name: エイティエプ語
     auto: true

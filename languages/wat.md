@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كانينواا
     auto: true
+  - translation_iso: ben
+    name: কানিনুওয়া
+    auto: true
   - translation_iso: deu
     name: Kaninuwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaninuwa
   - translation_iso: hin
     name: कानिनुवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaninuwa
     auto: true
   - translation_iso: jpn
     name: カニヌワ語

@@ -27,6 +27,9 @@ translations:
   - translation_iso: hin
     name: अनेम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anem
+    auto: true
   - translation_iso: jpn
     name: アネム語
   - translation_iso: kor

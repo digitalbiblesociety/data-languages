@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باك-تونج
     auto: true
+  - translation_iso: ben
+    name: পাক-তোং
+    auto: true
   - translation_iso: deu
     name: Pak-Tong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pak-tong
   - translation_iso: hin
     name: पाक-तोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pak-Tong
     auto: true
   - translation_iso: jpn
     name: パクトン語

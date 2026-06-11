@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسي
     auto: true
+  - translation_iso: ben
+    name: কিসি
+    auto: true
   - translation_iso: deu
     name: Kisi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kisi
   - translation_iso: hin
     name: किसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kisi
     auto: true
   - translation_iso: jpn
     name: キシ語

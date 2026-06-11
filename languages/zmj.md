@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مريدجابين
     auto: true
+  - translation_iso: ben
+    name: মারিদজাবিন
+    auto: true
   - translation_iso: deu
     name: Maridjabin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maridjabin
   - translation_iso: hin
     name: मरीजबिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maridjabin
     auto: true
   - translation_iso: jpn
     name: マリジャビン語

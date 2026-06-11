@@ -31,6 +31,9 @@ translations:
     name: aheri
   - translation_iso: hin
     name: अहेरी गोंडी
+  - translation_iso: ind
+    name: Bahasa Aheri Gondi
+    auto: true
   - translation_iso: jpn
     name: アヘリ・ゴンディ
   - translation_iso: kor

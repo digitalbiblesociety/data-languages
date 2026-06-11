@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناهالي
     auto: true
+  - translation_iso: ben
+    name: নাহালি
+    auto: true
   - translation_iso: deu
     name: Kalto
   - translation_iso: fra
     name: kalto
   - translation_iso: hin
     name: नहाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nahali
     auto: true
   - translation_iso: jpn
     name: カルト語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجاميت
     auto: true
+  - translation_iso: ben
+    name: গামিত
+    auto: true
   - translation_iso: deu
     name: Gamit
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gamit
   - translation_iso: hin
     name: गामित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gamit
     auto: true
   - translation_iso: jpn
     name: ガミット語

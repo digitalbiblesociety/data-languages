@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تودراه
     auto: true
+  - translation_iso: ben
+    name: তোদরাহ
+    auto: true
   - translation_iso: deu
     name: Todrah
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तोद्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Todrah
     auto: true
   - translation_iso: jpn
     name: トドラ語

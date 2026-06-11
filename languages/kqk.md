@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتافون جبي
     auto: true
+  - translation_iso: ben
+    name: কোতাফোন গবে
+    auto: true
   - translation_iso: deu
     name: Kotafon Gbe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kotafon
   - translation_iso: hin
     name: कोटाफोन ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kotafon Gbe
     auto: true
   - translation_iso: jpn
     name: コタフォン・ゲベ語

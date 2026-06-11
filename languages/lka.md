@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة اكاليي
     auto: true
+  - translation_iso: ben
+    name: লাকালেই
+    auto: true
   - translation_iso: deu
     name: Lakalei
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lakalei
   - translation_iso: hin
     name: लकालेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lakalei
     auto: true
   - translation_iso: jpn
     name: ラカレイ語

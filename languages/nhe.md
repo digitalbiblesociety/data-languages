@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيسترن هواستيكا ناهواتل
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন হুয়াসতেকা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Östliches Huasteca-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl de la Huasteca oriental
   - translation_iso: hin
     name: पूर्वी हुआस्तेका नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Huasteca Nahuatl
     auto: true
   - translation_iso: jpn
     name: 東ワステカ・ナワトル語

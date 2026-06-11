@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بون
     auto: true
+  - translation_iso: ben
+    name: বুন
+    auto: true
   - translation_iso: deu
     name: Bun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bun
   - translation_iso: hin
     name: बुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bun
     auto: true
   - translation_iso: jpn
     name: ブン語

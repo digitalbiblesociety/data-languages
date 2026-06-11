@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاجابوا
     auto: true
+  - translation_iso: ben
+    name: তাগাবাওয়া
+    auto: true
   - translation_iso: deu
     name: Tagabawa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तगाबावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagabawa
     auto: true
   - translation_iso: jpn
     name: タガバワ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رومكون
     auto: true
+  - translation_iso: ben
+    name: রোমকুন
+    auto: true
   - translation_iso: deu
     name: Romkun
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: romkun
   - translation_iso: hin
     name: रोमकुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romkun
     auto: true
   - translation_iso: jpn
     name: ロムクン語

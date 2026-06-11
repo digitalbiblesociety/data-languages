@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बौरिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bauria
+    auto: true
   - translation_iso: jpn
     name: バウリア語
     auto: true

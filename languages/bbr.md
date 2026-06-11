@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيراوا
     auto: true
+  - translation_iso: ben
+    name: গিরাওয়া
+    auto: true
   - translation_iso: deu
     name: Girawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: girawa
   - translation_iso: hin
     name: गिरावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Girawa
     auto: true
   - translation_iso: jpn
     name: ギラワ語

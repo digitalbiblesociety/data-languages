@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موريلوس ناهواتل
     auto: true
+  - translation_iso: ben
+    name: মোরেলোস নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Morelos-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl du Morelos
   - translation_iso: hin
     name: मोरेलोस नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morelos Nahuatl
     auto: true
   - translation_iso: jpn
     name: モレロス・ナワトル語

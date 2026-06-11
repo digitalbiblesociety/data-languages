@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: सरगुजिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Surgujia
+    auto: true
   - translation_iso: jpn
     name: サルグジャ語
   - translation_iso: kor

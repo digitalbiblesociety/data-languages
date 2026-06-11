@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موريسادا
     auto: true
+  - translation_iso: ben
+    name: মোরেসাদা
+    auto: true
   - translation_iso: deu
     name: Moresada
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moresada
   - translation_iso: hin
     name: मोरेसादा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moresada
     auto: true
   - translation_iso: jpn
     name: モレサダ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كريتس
     auto: true
+  - translation_iso: ben
+    name: করয়তস
+    auto: true
   - translation_iso: deu
     name: Krysisch
   - translation_iso: fra
     name: kryz
   - translation_iso: hin
     name: क्रित्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kryts
     auto: true
   - translation_iso: jpn
     name: クリツ語

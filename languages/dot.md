@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داس
     auto: true
+  - translation_iso: ben
+    name: দাস্স
+    auto: true
   - translation_iso: deu
     name: Dass
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dass
   - translation_iso: hin
     name: डास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dass
     auto: true
   - translation_iso: jpn
     name: ダス語

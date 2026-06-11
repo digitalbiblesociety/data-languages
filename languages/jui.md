@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة نغاجوري
     auto: true
+  - translation_iso: ben
+    name: ঙাদজুরি
+    auto: true
   - translation_iso: deu
     name: Ngadjuri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngadjuri
   - translation_iso: hin
     name: नगाजुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngadjuri
     auto: true
   - translation_iso: jpn
     name: ンガジュリ語

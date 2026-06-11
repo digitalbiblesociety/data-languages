@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان ماتيو ديل مار
     auto: true
+  - translation_iso: ben
+    name: সান মাতেও দেল মার হুয়াভে
+    auto: true
   - translation_iso: deu
     name: San-Mateo-del-Mar-Huave
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: huave de San Mateo del Mar
   - translation_iso: hin
     name: सान मातेओ डेल मार हुआवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Mateo Del Mar Huave
     auto: true
   - translation_iso: jpn
     name: サン・マテオ・デル・マル・ウアベ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الجبانزيري
     auto: true
+  - translation_iso: ben
+    name: গবানজিরি
+    auto: true
   - translation_iso: deu
     name: Gbanziri
   - translation_iso: fra
     name: gbanziri
   - translation_iso: hin
     name: ग्बानजिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbanziri
     auto: true
   - translation_iso: jpn
     name: ガバンジリ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوراتي
     auto: true
+  - translation_iso: ben
+    name: বুরাতে
+    auto: true
   - translation_iso: deu
     name: Burate
     auto: true

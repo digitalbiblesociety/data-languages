@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ييني
     auto: true
+  - translation_iso: ben
+    name: য়েনি
+    auto: true
   - translation_iso: deu
     name: Yeni
   - translation_iso: fra
     name: yeni
   - translation_iso: hin
     name: येनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yeni
     auto: true
   - translation_iso: jpn
     name: イェニ語

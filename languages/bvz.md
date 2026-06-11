@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बौज़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bauzi
+    auto: true
   - translation_iso: jpn
     name: バウジ語
   - translation_iso: kor

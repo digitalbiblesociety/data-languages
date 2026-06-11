@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشين زيفي
     auto: true
+  - translation_iso: ben
+    name: জয়ফে চিন
+    auto: true
   - translation_iso: deu
     name: Zyphe-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़ाइफे चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zyphe Chin
     auto: true
   - translation_iso: jpn
     name: ズィフェ・チン語

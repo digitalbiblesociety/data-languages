@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الدیجيم-بويليم
     auto: true
+  - translation_iso: ben
+    name: দিজিম-বওয়িলিম
+    auto: true
   - translation_iso: deu
     name: Dijim-Bwilim
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डिजिम-ब्विलिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dijim-Bwilim
     auto: true
   - translation_iso: jpn
     name: ディカカ語

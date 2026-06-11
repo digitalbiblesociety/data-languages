@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السانجيل
     auto: true
+  - translation_iso: ben
+    name: সাঙিল
+    auto: true
   - translation_iso: deu
     name: Sangil
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sangil
   - translation_iso: hin
     name: सांगिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sangil
     auto: true
   - translation_iso: jpn
     name: サンギル語

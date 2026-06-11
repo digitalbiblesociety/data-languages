@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جوما
     auto: true
+  - translation_iso: ben
+    name: জুমা
+    auto: true
   - translation_iso: deu
     name: Júma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: juma
   - translation_iso: hin
     name: जूमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Júma
     auto: true
   - translation_iso: jpn
     name: ジュマ語

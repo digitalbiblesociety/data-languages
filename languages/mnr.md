@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(California)"
 translations:
   - translation_iso: ara
     name: لغة مونو
+  - translation_iso: ben
+    name: মোনো
+    auto: true
   - translation_iso: deu
     name: Mono (USA)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mono
   - translation_iso: hin
     name: मोनो (यूएसए)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mono
     auto: true
   - translation_iso: jpn
     name: モーノー語

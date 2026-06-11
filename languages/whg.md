@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نورته واهغي
     auto: true
+  - translation_iso: ben
+    name: নোরথ ওয়াহগি
+    auto: true
   - translation_iso: deu
     name: Nord-Wahgi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wahgi du Nord
   - translation_iso: hin
     name: उत्तरी वाहगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Wahgi
     auto: true
   - translation_iso: jpn
     name: 北ワギ語

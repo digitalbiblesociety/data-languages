@@ -31,6 +31,9 @@ translations:
     name: sambalpuri
   - translation_iso: hin
     name: सम्बलपुरी भाषा
+  - translation_iso: ind
+    name: Bahasa Sambalpuri
+    auto: true
   - translation_iso: jpn
     name: サンバルプリ語
   - translation_iso: kor

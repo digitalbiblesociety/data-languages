@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة هامر-بانا
     auto: true
+  - translation_iso: ben
+    name: হামের-বান্না
+    auto: true
   - translation_iso: deu
     name: Hamer-Banna
   - translation_iso: fra
     name: hamar
   - translation_iso: hin
     name: हामेर-बन्ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hamer-Banna
     auto: true
   - translation_iso: jpn
     name: ハマー語

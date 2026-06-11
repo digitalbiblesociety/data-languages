@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جيديو
     auto: true
+  - translation_iso: ben
+    name: গেদেও
+    auto: true
   - translation_iso: deu
     name: Gedeo
   - translation_iso: fra
     name: gedeo
   - translation_iso: hin
     name: गेदेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gedeo
     auto: true
   - translation_iso: jpn
     name: ゲデオ語

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة موتشينو
     auto: true
+  - translation_iso: ben
+    name: মোচেনো
+    auto: true
   - translation_iso: deu
     name: Fersentalerisch
   - translation_iso: fra
     name: mochène
   - translation_iso: hin
     name: मोकेनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mócheno
     auto: true
   - translation_iso: jpn
     name: モケーニ語

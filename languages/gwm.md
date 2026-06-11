@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: आउंगथिम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awngthim
+    auto: true
   - translation_iso: jpn
     name: アウングティム語
     auto: true

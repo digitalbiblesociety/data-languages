@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة أوكان
     auto: true
+  - translation_iso: ben
+    name: উকান
+    auto: true
   - translation_iso: deu
     name: Ukaan
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukaan
     auto: true
   - translation_iso: jpn
     name: ウカーン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ووو
     auto: true
+  - translation_iso: ben
+    name: লুওয়ো
+    auto: true
   - translation_iso: deu
     name: Luwo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lwo
   - translation_iso: hin
     name: लुवो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luwo
     auto: true
   - translation_iso: jpn
     name: ルウォ語

@@ -30,6 +30,9 @@ translations:
     name: khezha
   - translation_iso: hin
     name: खेज़ा भाषा
+  - translation_iso: ind
+    name: Bahasa Khezha Naga
+    auto: true
   - translation_iso: jpn
     name: ケーザ・ナガ語
     auto: true

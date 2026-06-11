@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيريبو
     auto: true
+  - translation_iso: ben
+    name: তেরেবু
+    auto: true
   - translation_iso: deu
     name: Terebu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तेरेबु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Terebu
     auto: true
   - translation_iso: jpn
     name: テレプ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديدينجا
     auto: true
+  - translation_iso: ben
+    name: দিদিঙা
+    auto: true
   - translation_iso: deu
     name: Didinga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दिदिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Didinga
     auto: true
   - translation_iso: jpn
     name: ディディンガ語

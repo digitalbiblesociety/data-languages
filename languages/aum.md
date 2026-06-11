@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: असु (नाइजीरिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Asu
+    auto: true
   - translation_iso: jpn
     name: アス語(ナイジェリア)
     auto: true

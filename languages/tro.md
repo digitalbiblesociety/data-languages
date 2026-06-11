@@ -30,6 +30,9 @@ translations:
     name: tarao
   - translation_iso: hin
     name: तराओ भाषा
+  - translation_iso: ind
+    name: Bahasa Tarao Naga
+    auto: true
   - translation_iso: jpn
     name: タラオ・ナガ語
     auto: true

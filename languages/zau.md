@@ -29,6 +29,9 @@ translations:
     name: zangskari
   - translation_iso: hin
     name: ज़ंग्सकरी भाषा
+  - translation_iso: ind
+    name: Bahasa Zangskari
+    auto: true
   - translation_iso: jpn
     name: ザングスカリ語
     auto: true

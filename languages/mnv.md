@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة رينيل-بيلونا
     auto: true
+  - translation_iso: ben
+    name: রেন্নেল্ল-বেল্লোনা
+    auto: true
   - translation_iso: deu
     name: Rennell-Bellona
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rennell-bellona
   - translation_iso: hin
     name: रेनेल-बेलोना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rennell-Bellona
     auto: true
   - translation_iso: jpn
     name: レンネル語

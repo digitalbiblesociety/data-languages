@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نهوالا
     auto: true
+  - translation_iso: ben
+    name: নহুওয়ালা
+    auto: true
   - translation_iso: deu
     name: Nhuwala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nhuwala
   - translation_iso: hin
     name: न्हुवाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nhuwala
     auto: true
   - translation_iso: jpn
     name: ンフワラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيني
     auto: true
+  - translation_iso: ben
+    name: বিনে
+    auto: true
   - translation_iso: deu
     name: Bine
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bine
   - translation_iso: hin
     name: बाइन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bine
     auto: true
   - translation_iso: jpn
     name: バイン語

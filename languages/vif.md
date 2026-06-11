@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فيلي
     auto: true
+  - translation_iso: ben
+    name: ভিলি
+    auto: true
   - translation_iso: deu
     name: Vili
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vili
   - translation_iso: hin
     name: विली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vili
     auto: true
   - translation_iso: jpn
     name: ヴィリ語

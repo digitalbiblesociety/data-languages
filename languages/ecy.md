@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الإتيوسيبريوتي
     auto: true
+  - translation_iso: ben
+    name: এতেওকয়পরিওত
+    auto: true
   - translation_iso: deu
     name: Eteokyprisch
   - translation_iso: fra

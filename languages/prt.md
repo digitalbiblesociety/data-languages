@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاي
     auto: true
+  - translation_iso: ben
+    name: ফাই
+    auto: true
   - translation_iso: deu
     name: Phai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phai
   - translation_iso: hin
     name: फाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phai
     auto: true
   - translation_iso: jpn
     name: ファイ語

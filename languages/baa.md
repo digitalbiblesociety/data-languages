@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बबताना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Babatana
+    auto: true
   - translation_iso: jpn
     name: ムバンバタナ語
   - translation_iso: kor

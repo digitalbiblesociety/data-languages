@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ندوبو
     auto: true
+  - translation_iso: ben
+    name: নদোবো
+    auto: true
   - translation_iso: deu
     name: Ndobo
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: ndobo
   - translation_iso: hin
     name: न्दोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndobo
     auto: true
   - translation_iso: jpn
     name: ンドボ語

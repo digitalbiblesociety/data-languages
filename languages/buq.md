@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بريم
     auto: true
+  - translation_iso: ben
+    name: বরেম
+    auto: true
   - translation_iso: deu
     name: Brem
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्रेम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Brem
     auto: true
   - translation_iso: jpn
     name: ブレム語

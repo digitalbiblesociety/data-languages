@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आशो चिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Asho Chin
+    auto: true
   - translation_iso: jpn
     name: ショー語
   - translation_iso: kor

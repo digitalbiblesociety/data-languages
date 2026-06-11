@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تانغالي
     auto: true
+  - translation_iso: ben
+    name: তাঙালে
+    auto: true
   - translation_iso: deu
     name: Tangale
   - translation_iso: fra
     name: tangale
   - translation_iso: hin
     name: तांगाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tangale
     auto: true
   - translation_iso: jpn
     name: タンガレ語

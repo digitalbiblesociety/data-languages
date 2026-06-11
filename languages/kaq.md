@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كابانهوا
     auto: true
+  - translation_iso: ben
+    name: কাপানাহুয়া
+    auto: true
   - translation_iso: deu
     name: Capanahua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: capanahua
   - translation_iso: hin
     name: कापानाहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Capanahua
     auto: true
   - translation_iso: jpn
     name: カパナウア語

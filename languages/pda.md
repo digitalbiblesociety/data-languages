@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अनाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anam
+    auto: true
   - translation_iso: jpn
     name: アナム語
     auto: true

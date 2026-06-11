@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إيرافي
     auto: true
+  - translation_iso: ben
+    name: এরাভে
+    auto: true
   - translation_iso: deu
     name: Erave
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: एरावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Erave
     auto: true
   - translation_iso: jpn
     name: エラベ語

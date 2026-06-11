@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تييياكسو بوزو
     auto: true
+  - translation_iso: ben
+    name: তিএয়াকসো বোজো
+    auto: true
   - translation_iso: deu
     name: Tiéyaxo Bozo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bozo de Tiéyaxo
   - translation_iso: hin
     name: तियेयाक्सो बोज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiéyaxo Bozo
     auto: true
   - translation_iso: jpn
     name: ティエヤキソ・ボゾ語

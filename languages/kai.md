@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريكاري
     auto: true
+  - translation_iso: ben
+    name: কারেকারে
+    auto: true
   - translation_iso: deu
     name: Karekare
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karekare
   - translation_iso: hin
     name: करेकरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karekare
     auto: true
   - translation_iso: jpn
     name: カレカレ語

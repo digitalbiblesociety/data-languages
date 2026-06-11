@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إستموس بابابان ناهواتل
     auto: true
+  - translation_iso: ben
+    name: ইসথমুস-পাজাপান নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Isthmus-Pajapan-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de l’isthme de Pajapan
   - translation_iso: hin
     name: इस्थमस-पाजापान नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isthmus-Pajapan Nahuatl
     auto: true
   - translation_iso: jpn
     name: 峡湾部・パハパン・ナワトル語

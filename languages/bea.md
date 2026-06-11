@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بيفر
     auto: true
+  - translation_iso: ben
+    name: বেয়াভের
+    auto: true
   - translation_iso: deu
     name: Danezaa
   - translation_iso: fra
     name: danezaa
   - translation_iso: hin
     name: बीवर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Beaver
     auto: true
   - translation_iso: jpn
     name: ダネザ語

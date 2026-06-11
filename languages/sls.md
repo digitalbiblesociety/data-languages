@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السنغافورية
     auto: true
+  - translation_iso: ben
+    name: সিঙাপোরে সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Singapurische Gebärdensprache
     auto: true

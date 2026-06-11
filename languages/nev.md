@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نياهيون
     auto: true
+  - translation_iso: ben
+    name: নয়াহেউন
+    auto: true
   - translation_iso: deu
     name: Nyaheun
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्याहेउन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyaheun
     auto: true
   - translation_iso: jpn
     name: ニャヘウン語

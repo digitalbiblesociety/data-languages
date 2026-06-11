@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अक्रोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Acroá
+    auto: true
   - translation_iso: jpn
     name: アクロア語
     auto: true

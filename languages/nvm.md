@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناميا
     auto: true
+  - translation_iso: ben
+    name: নামিয়াএ
+    auto: true
   - translation_iso: deu
     name: Namiae
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नामियाए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namiae
     auto: true
   - translation_iso: jpn
     name: ナミアエ語

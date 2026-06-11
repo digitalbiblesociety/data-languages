@@ -29,6 +29,9 @@ translations:
     name: dhatki
   - translation_iso: hin
     name: धक्ती भाषा
+  - translation_iso: ind
+    name: Bahasa Dhatki
+    auto: true
   - translation_iso: jpn
     name: ダツキ語
     auto: true

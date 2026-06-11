@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نزادي
     auto: true
+  - translation_iso: ben
+    name: নজাদি
+    auto: true
   - translation_iso: deu
     name: Nzadi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nzadi
   - translation_iso: hin
     name: नज़ादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nzadi
     auto: true
   - translation_iso: jpn
     name: ンザディ語

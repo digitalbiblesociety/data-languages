@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة امكانج
     auto: true
+  - translation_iso: ben
+    name: লামকাং
+    auto: true
   - translation_iso: deu
     name: Lamkang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lamkang
   - translation_iso: hin
     name: लामगांग भाषा
+  - translation_iso: ind
+    name: Bahasa Lamkang
+    auto: true
   - translation_iso: jpn
     name: ラムカン語
     auto: true

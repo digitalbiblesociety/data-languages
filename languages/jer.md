@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيري
     auto: true
+  - translation_iso: ben
+    name: জেরে
+    auto: true
   - translation_iso: deu
     name: Jere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jere
   - translation_iso: hin
     name: जेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jere
     auto: true
   - translation_iso: jpn
     name: ジェレ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جالْكونان
     auto: true
+  - translation_iso: ben
+    name: জালকুনান
+    auto: true
   - translation_iso: deu
     name: Jalkunan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: jalkunan
   - translation_iso: hin
     name: जालकुनान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jalkunan
     auto: true
   - translation_iso: jpn
     name: ジャルクナン語

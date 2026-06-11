@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانسوان
     auto: true
+  - translation_iso: ben
+    name: পানাসুয়ান
+    auto: true
   - translation_iso: deu
     name: Panasuan
   - translation_iso: fra

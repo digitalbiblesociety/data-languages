@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوإنو
     auto: true
+  - translation_iso: ben
+    name: গওয়েনো
+    auto: true
   - translation_iso: deu
     name: Gweno
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gweno
   - translation_iso: hin
     name: ग्वेनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gweno
     auto: true
   - translation_iso: jpn
     name: グウェノ語

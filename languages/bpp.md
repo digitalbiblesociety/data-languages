@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاوري
     auto: true
+  - translation_iso: ben
+    name: কাউরে
+    auto: true
   - translation_iso: deu
     name: Kaure
     auto: true

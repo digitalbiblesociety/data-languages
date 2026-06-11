@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوني الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন নুনি
+    auto: true
   - translation_iso: deu
     name: Südliches Nuni
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nuni du Sud
   - translation_iso: hin
     name: दक्षिणी नुनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Nuni
     auto: true
   - translation_iso: jpn
     name: 南ヌニ語

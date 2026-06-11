@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बारा मालागासी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bara Malagasy
+    auto: true
   - translation_iso: jpn
     name: バラ・マダガスカル語
   - translation_iso: kor

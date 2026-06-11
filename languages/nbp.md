@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نام
     auto: true
+  - translation_iso: ben
+    name: ন্নাম
+    auto: true
   - translation_iso: deu
     name: Nnam
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्नाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nnam
     auto: true
   - translation_iso: jpn
     name: ンナム語

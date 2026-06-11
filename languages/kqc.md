@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة دوروموو كوكي
     auto: true
+  - translation_iso: ben
+    name: দোরোমু-কোকি
+    auto: true
   - translation_iso: deu
     name: Doromu-Koki
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: doromu-koki
   - translation_iso: hin
     name: दोरोमु-कोकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doromu-Koki
     auto: true
   - translation_iso: jpn
     name: ドロムー・コキ語

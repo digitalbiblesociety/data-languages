@@ -29,6 +29,9 @@ translations:
     name: hinduri
   - translation_iso: hin
     name: हन्दुरी भाषा
+  - translation_iso: ind
+    name: Bahasa Hinduri
+    auto: true
   - translation_iso: jpn
     name: ヒンドゥリ語
   - translation_iso: kor

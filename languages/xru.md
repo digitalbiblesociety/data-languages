@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مارياموا
     auto: true
+  - translation_iso: ben
+    name: মার্রিয়াম্মু
+    auto: true
   - translation_iso: deu
     name: Marriammu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: marriammu
   - translation_iso: hin
     name: मैरियाम्मु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marriammu
     auto: true
   - translation_iso: jpn
     name: マリアムム語

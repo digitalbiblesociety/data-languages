@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बियांगाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biangai
+    auto: true
   - translation_iso: jpn
     name: ビアンガイ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يايجير
     auto: true
+  - translation_iso: ben
+    name: য়ায়গির
+    auto: true
   - translation_iso: deu
     name: Yaygir
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yaygir
   - translation_iso: hin
     name: यायगिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaygir
     auto: true
   - translation_iso: jpn
     name: ヤイギル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خيروار
     auto: true
+  - translation_iso: ben
+    name: খিরওয়ার
+    auto: true
   - translation_iso: deu
     name: Khirwar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: खिरवार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khirwar
     auto: true
   - translation_iso: jpn
     name: キルワル語

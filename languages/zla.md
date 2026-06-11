@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة زولا
     auto: true
+  - translation_iso: ben
+    name: জুলা
+    auto: true
   - translation_iso: deu
     name: Zula
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़ुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zula
     auto: true
   - translation_iso: jpn
     name: ズラ語

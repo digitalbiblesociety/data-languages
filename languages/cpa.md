@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بالانتلا تشينانتك
     auto: true
+  - translation_iso: ben
+    name: পালানতলা চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Palantla-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinantèque de Palantla
   - translation_iso: hin
     name: पलांत्ला चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Palantla Chinantec
     auto: true
   - translation_iso: jpn
     name: パランラ・チナンテク語

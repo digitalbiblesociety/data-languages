@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مور
     auto: true
+  - translation_iso: ben
+    name: মোর
+    auto: true
   - translation_iso: deu
     name: Mor (Mor Islands)
     auto: true

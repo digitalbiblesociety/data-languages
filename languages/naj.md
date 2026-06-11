@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نالو
     auto: true
+  - translation_iso: ben
+    name: নালু
+    auto: true
   - translation_iso: deu
     name: Nalu
   - translation_iso: fra
     name: nalu
   - translation_iso: hin
     name: नालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nalu
     auto: true
   - translation_iso: jpn
     name: ナル語

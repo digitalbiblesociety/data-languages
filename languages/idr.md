@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إندري
     auto: true
+  - translation_iso: ben
+    name: ইনদরি
+    auto: true
   - translation_iso: deu
     name: Indri
   - translation_iso: fra
     name: indri
   - translation_iso: hin
     name: इंद्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Indri
     auto: true
   - translation_iso: jpn
     name: インドリ語

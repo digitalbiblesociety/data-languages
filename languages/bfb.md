@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: باوري بارلي
     auto: true
+  - translation_iso: ben
+    name: পাউরি বারেলি
+    auto: true
   - translation_iso: deu
     name: Pauri Bareli
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पौरी बरेली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pauri Bareli
     auto: true
   - translation_iso: jpn
     name: パウリ・バレリ語

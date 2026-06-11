@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيناندري
     auto: true
+  - translation_iso: ben
+    name: বিনানদেরে
+    auto: true
   - translation_iso: deu
     name: Binandere
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिनान्देरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Binandere
     auto: true
   - translation_iso: jpn
     name: ビナンデレ語

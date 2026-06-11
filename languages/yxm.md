@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينووم
     auto: true
+  - translation_iso: ben
+    name: য়িনওয়ুম
+    auto: true
   - translation_iso: deu
     name: Yinwum
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यिनवुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yinwum
     auto: true
   - translation_iso: jpn
     name: イインウム語

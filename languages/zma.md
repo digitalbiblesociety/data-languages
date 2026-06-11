@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندا الأسترالية
     auto: true
+  - translation_iso: ben
+    name: মানদা
+    auto: true
   - translation_iso: deu
     name: Manda (Australien)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manda
   - translation_iso: hin
     name: मांडा (ऑस्ट्रेलिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manda
     auto: true
   - translation_iso: jpn
     name: マンダ語（オーストラリア）

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان فرانسيسكو ديل مار
     auto: true
+  - translation_iso: ben
+    name: সান ফরানকিসকো দেল মার হুয়াভে
+    auto: true
   - translation_iso: deu
     name: San-Francisco-del-Mar-Huave
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: huave de San Francisco del Mar
   - translation_iso: hin
     name: सान फ्रांसिस्को डेल मार हुआवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Francisco Del Mar Huave
     auto: true
   - translation_iso: jpn
     name: サン・フランシスコ・デル・マル・ウアベ語

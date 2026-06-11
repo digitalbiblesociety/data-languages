@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ياوالابيتي
     auto: true
+  - translation_iso: ben
+    name: য়াওয়ালাপিতি
+    auto: true
   - translation_iso: deu
     name: Yawalapití
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yawalapiti
   - translation_iso: hin
     name: यावलापिती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yawalapití
     auto: true
   - translation_iso: jpn
     name: ヤワラピティ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكين
     auto: true
+  - translation_iso: ben
+    name: ওরোকেন
+    auto: true
   - translation_iso: deu
     name: Oroqen
     auto: true

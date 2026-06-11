@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موريا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন মুরিয়া
+    auto: true
   - translation_iso: deu
     name: West-Muria
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "muria de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी मुरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Muria
     auto: true
   - translation_iso: jpn
     name: ウェスタン・ムリア語

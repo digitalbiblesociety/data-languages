@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अरिकेम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arikem
+    auto: true
   - translation_iso: jpn
     name: アリケム語
     auto: true

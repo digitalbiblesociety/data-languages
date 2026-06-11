@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अस्कोपान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Askopan
+    auto: true
   - translation_iso: jpn
     name: アスコパン語
     auto: true

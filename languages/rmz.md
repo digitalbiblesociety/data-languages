@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مارما
     auto: true
+  - translation_iso: ben
+    name: মারমা
+    auto: true
   - translation_iso: deu
     name: Marma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: marma
   - translation_iso: hin
     name: मार्मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marma
     auto: true
   - translation_iso: jpn
     name: マルマ語

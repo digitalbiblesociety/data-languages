@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفوي
     auto: true
+  - translation_iso: ben
+    name: ফোই
+    auto: true
   - translation_iso: deu
     name: Foi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: foi
   - translation_iso: hin
     name: फोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Foi
     auto: true
   - translation_iso: jpn
     name: フォイ語

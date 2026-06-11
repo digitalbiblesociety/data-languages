@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: اللغة البريتونية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ বরেতোন
+    auto: true
   - translation_iso: deu
     name: Altbretonisch
   - translation_iso: fra
     name: vieux breton
   - translation_iso: hin
     name: प्राचीन ब्रेटन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Breton
     auto: true
   - translation_iso: jpn
     name: 古ブルトン語

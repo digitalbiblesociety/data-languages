@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوريسيمينيو
     auto: true
+  - translation_iso: ben
+    name: পুরিসিমেনয়ো
+    auto: true
   - translation_iso: deu
     name: Purisimeño
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chumash purisimeño
   - translation_iso: hin
     name: पुरिसिमेन्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Purisimeño
     auto: true
   - translation_iso: jpn
     name: プリシメーニョ語

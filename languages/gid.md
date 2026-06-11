@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غيدآر
     auto: true
+  - translation_iso: ben
+    name: গিদার
+    auto: true
   - translation_iso: deu
     name: Gidar
   - translation_iso: fra
     name: gidar
   - translation_iso: hin
     name: गिदार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gidar
     auto: true
   - translation_iso: jpn
     name: ギダル語

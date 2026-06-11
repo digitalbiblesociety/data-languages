@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ممبك
     auto: true
+  - translation_iso: ben
+    name: মবুক
+    auto: true
   - translation_iso: deu
     name: Mbuk
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: langue mbuk
   - translation_iso: hin
     name: म्बुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbuk
     auto: true
   - translation_iso: jpn
     name: ムブク語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيخالابان
     auto: true
+  - translation_iso: ben
+    name: তেজালাপান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Tejalapan)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Tejalapan
   - translation_iso: hin
     name: तेहालापान ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tejalapan Zapotec
     auto: true
   - translation_iso: jpn
     name: テハラパン・サポテク語

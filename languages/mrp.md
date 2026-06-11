@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मोरोआस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Morouas
+    auto: true
   - translation_iso: jpn
     name: モロウアス語
     auto: true

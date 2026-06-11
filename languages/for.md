@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الفور
     auto: true
+  - translation_iso: ben
+    name: ফোরে
+    auto: true
   - translation_iso: deu
     name: Fore
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: fore
   - translation_iso: hin
     name: फोरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fore
     auto: true
   - translation_iso: jpn
     name: フォレ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي
     auto: true
+  - translation_iso: ben
+    name: তায়
+    auto: true
   - translation_iso: deu
     name: Tày
   - translation_iso: fra

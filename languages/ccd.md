@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كافوندو كريول
     auto: true
+  - translation_iso: ben
+    name: কাফুনদো করেওলে
+    auto: true
   - translation_iso: deu
     name: Cafundo-Kreol
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: काफुंडो क्रियोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cafundo Creole
     auto: true
   - translation_iso: jpn
     name: カフンド・クレオール語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سافوا
     auto: true
+  - translation_iso: ben
+    name: সাফওয়া
+    auto: true
   - translation_iso: deu
     name: Safwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Safwa
   - translation_iso: hin
     name: साफवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Safwa
     auto: true
   - translation_iso: jpn
     name: イシサファ語

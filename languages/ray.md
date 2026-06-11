@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: رابا
     auto: true
+  - translation_iso: ben
+    name: রাপা
+    auto: true
   - translation_iso: deu
     name: Rapaisch
   - translation_iso: fra
     name: rapa
   - translation_iso: hin
     name: रापा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rapa
     auto: true
   - translation_iso: jpn
     name: ラパ語

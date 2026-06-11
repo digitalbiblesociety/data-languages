@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अक्सी यी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Axi Yi
+    auto: true
   - translation_iso: jpn
     name: アクシ・イー語
     auto: true

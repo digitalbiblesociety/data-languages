@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريانج لانج
     auto: true
+  - translation_iso: ben
+    name: রিয়াং লাং
+    auto: true
   - translation_iso: deu
     name: Riang Lang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: riang
   - translation_iso: hin
     name: रियांग लांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Riang Lang
     auto: true
   - translation_iso: jpn
     name: リアンラン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خيغوي
     auto: true
+  - translation_iso: ben
+    name: কসেগওয়ি
+    auto: true
   - translation_iso: deu
     name: ǁXegwi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ǁक्सेगवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǁXegwi
     auto: true
   - translation_iso: jpn
     name: ケグウィ語

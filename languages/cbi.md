@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الشاتشي
     auto: true
+  - translation_iso: ben
+    name: চাচি
+    auto: true
   - translation_iso: deu
     name: "Cha'palaa"
   - translation_iso: fra
     name: cayapa
   - translation_iso: hin
     name: चाची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chachi
     auto: true
   - translation_iso: jpn
     name: チャチ語

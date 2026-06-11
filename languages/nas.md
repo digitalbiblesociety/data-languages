@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نسيويا
     auto: true
+  - translation_iso: ben
+    name: নাসিওই
+    auto: true
   - translation_iso: deu
     name: Naasioi
   - translation_iso: fra
     name: nasioi
   - translation_iso: hin
     name: नासिओई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Naasioi
     auto: true
   - translation_iso: jpn
     name: ナシオイ語

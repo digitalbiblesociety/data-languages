@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونند
     auto: true
+  - translation_iso: ben
+    name: রুনদ
+    auto: true
   - translation_iso: deu
     name: Ruund
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ruund
   - translation_iso: hin
     name: रुउंड
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ruund
     auto: true
   - translation_iso: jpn
     name: ルウンド語

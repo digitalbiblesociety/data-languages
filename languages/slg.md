@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلونجاي موروت
     auto: true
+  - translation_iso: ben
+    name: সেলুঙাই মুরুত
+    auto: true
   - translation_iso: deu
     name: Selungai-Murut
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेलुंगाई मुरुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Selungai Murut
     auto: true
   - translation_iso: jpn
     name: ムルット語

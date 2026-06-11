@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوديوها
     auto: true
+  - translation_iso: ben
+    name: কোদেওহা
+    auto: true
   - translation_iso: deu
     name: Kodeoha
     auto: true

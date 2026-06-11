@@ -30,6 +30,9 @@ translations:
     name: chin bawm
   - translation_iso: hin
     name: बॉम भाषा
+  - translation_iso: ind
+    name: Bahasa Bawm Chin
+    auto: true
   - translation_iso: jpn
     name: ボーン語
   - translation_iso: kor

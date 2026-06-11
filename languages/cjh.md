@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الأعلى تشهاليس
     auto: true
+  - translation_iso: ben
+    name: উপ্পের চেহালিস
+    auto: true
   - translation_iso: deu
     name: Oberchehalis
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chehalis supérieur
   - translation_iso: hin
     name: ऊपरी चेहालिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Chehalis
     auto: true
   - translation_iso: jpn
     name: 上チヘリス語

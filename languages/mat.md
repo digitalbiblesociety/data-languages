@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتلاتسينكا
     auto: true
+  - translation_iso: ben
+    name: সান ফরানকিসকো মাতলাতজিনকা
+    auto: true
   - translation_iso: deu
     name: San Francisco Matlatzinca
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: matlatzinca de San Francisco
   - translation_iso: hin
     name: सान फ्रांसिस्को मातलात्ज़िंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Francisco Matlatzinca
     auto: true
   - translation_iso: jpn
     name: サン・フランシスコ・マトラツィンカ語

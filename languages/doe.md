@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دو
     auto: true
+  - translation_iso: ben
+    name: দোএ
+    auto: true
   - translation_iso: deu
     name: Doe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: doe
   - translation_iso: hin
     name: डोए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doe
     auto: true
   - translation_iso: jpn
     name: ドエ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الفوراك
     auto: true
+  - translation_iso: ben
+    name: ফোরাক
+    auto: true
   - translation_iso: deu
     name: Forak
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: forak
   - translation_iso: hin
     name: फोराक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Forak
     auto: true
   - translation_iso: jpn
     name: フォラク語

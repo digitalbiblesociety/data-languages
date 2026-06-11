@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوبا
     auto: true
+  - translation_iso: ben
+    name: য়োবা
+    auto: true
   - translation_iso: deu
     name: Yoba
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: योबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yoba
     auto: true
   - translation_iso: jpn
     name: ヨバ語

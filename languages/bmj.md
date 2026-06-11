@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوتي دارايي
     auto: true
+  - translation_iso: ben
+    name: বোতে-দারাই
+    auto: true
   - translation_iso: deu
     name: Bote-Darai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bote-majhi
   - translation_iso: hin
     name: बोटे-दराई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bote-Darai
     auto: true
   - translation_iso: jpn
     name: ボテ・ダライ語

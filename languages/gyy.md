@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غونيآ
     auto: true
+  - translation_iso: ben
+    name: গুনয়া
+    auto: true
   - translation_iso: deu
     name: Gunya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gunya
   - translation_iso: hin
     name: गुन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gunya
     auto: true
   - translation_iso: jpn
     name: グニャ語

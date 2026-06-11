@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييندجيبارندي
     auto: true
+  - translation_iso: ben
+    name: য়িনদজিবারনদি
+    auto: true
   - translation_iso: deu
     name: Yindjibarndi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yinjibarndi
   - translation_iso: hin
     name: यिन्जिबार्न्डी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yindjibarndi
     auto: true
   - translation_iso: jpn
     name: イインジバルンディ語

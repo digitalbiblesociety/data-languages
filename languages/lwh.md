@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هيتي اكهي
     auto: true
+  - translation_iso: ben
+    name: ওয়হিতে লাচি
+    auto: true
   - translation_iso: deu
     name: White Lachi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lachi blanc
   - translation_iso: hin
     name: श्वेत लाची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa White Lachi
     auto: true
   - translation_iso: jpn
     name: ホワイト・ラチ語

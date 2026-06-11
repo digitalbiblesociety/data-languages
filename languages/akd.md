@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: उक्पेट-एहोम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ukpet-Ehom
+    auto: true
   - translation_iso: jpn
     name: ウクペットエホム語
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ميسكا
     auto: true
+  - translation_iso: ben
+    name: মেসাকা
+    auto: true
   - translation_iso: deu
     name: Mesaka
   - translation_iso: fra
     name: mesaka
   - translation_iso: hin
     name: मेसाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mesaka
     auto: true
   - translation_iso: jpn
     name: メサカ語

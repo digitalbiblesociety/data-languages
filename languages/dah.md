@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الغواهاتيك
     auto: true
+  - translation_iso: ben
+    name: গওয়াহাতিকে
+    auto: true
   - translation_iso: deu
     name: Gwahatike
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gwahatike
   - translation_iso: hin
     name: ग्वाहातिके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gwahatike
     auto: true
   - translation_iso: jpn
     name: グワハティケ語

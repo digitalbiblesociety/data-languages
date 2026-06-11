@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مراجوس
     auto: true
+  - translation_iso: ben
+    name: মারাগুস
+    auto: true
   - translation_iso: deu
     name: Maragus
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maragus
   - translation_iso: hin
     name: मारागुस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maragus
     auto: true
   - translation_iso: jpn
     name: マラグス語

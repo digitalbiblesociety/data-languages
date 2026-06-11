@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هآديييآ
     auto: true
+  - translation_iso: ben
+    name: হাদিয়্য়া
+    auto: true
   - translation_iso: deu
     name: Hadiyya
   - translation_iso: fra
     name: hadiyya
   - translation_iso: hin
     name: हदिय्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hadiyya
     auto: true
   - translation_iso: jpn
     name: ハディヤ語

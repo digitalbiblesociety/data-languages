@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نسينغا
     auto: true
+  - translation_iso: ben
+    name: নসেঙা
+    auto: true
   - translation_iso: deu
     name: Nsenga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nsenga
   - translation_iso: hin
     name: नसेंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nsenga
     auto: true
   - translation_iso: jpn
     name: ンセンガ語

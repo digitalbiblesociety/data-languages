@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: تشابو
     auto: true
+  - translation_iso: ben
+    name: চাবু
+    auto: true
   - translation_iso: deu
     name: Shabo
   - translation_iso: fra
     name: shabo
   - translation_iso: hin
     name: चाबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chabu
     auto: true
   - translation_iso: jpn
     name: シャボ語

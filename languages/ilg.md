@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غاريغ-إيلغار
     auto: true
+  - translation_iso: ben
+    name: গারিগ-ইলগার
+    auto: true
   - translation_iso: deu
     name: Garig-Ilgar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: garig-ilgar
   - translation_iso: hin
     name: गारिग-इलगर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garig-Ilgar
     auto: true
   - translation_iso: jpn
     name: ガリグ・イルガル語

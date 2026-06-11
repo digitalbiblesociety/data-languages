@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسيكورو مالجاشية
     auto: true
+  - translation_iso: ben
+    name: মাসিকোরো মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Masikoro-Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: masikoro
   - translation_iso: hin
     name: मसिकोरो मालागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Masikoro Malagasy
     auto: true
   - translation_iso: jpn
     name: マシクル・マダガスカル語

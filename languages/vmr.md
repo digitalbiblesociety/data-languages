@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مارنجي
     auto: true
+  - translation_iso: ben
+    name: মারেনজে
+    auto: true
   - translation_iso: deu
     name: Marenje
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: marenje
   - translation_iso: hin
     name: मारेन्जे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marenje
     auto: true
   - translation_iso: jpn
     name: マレンジェ語

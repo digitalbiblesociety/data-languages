@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيباني
     auto: true
+  - translation_iso: ben
+    name: ইবানি
+    auto: true
   - translation_iso: deu
     name: Ibani
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ibani
   - translation_iso: hin
     name: इबानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ibani
     auto: true
   - translation_iso: jpn
     name: イバニ語

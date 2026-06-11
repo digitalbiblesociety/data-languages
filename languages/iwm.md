@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيوام
     auto: true
+  - translation_iso: ben
+    name: ইওয়াম
+    auto: true
   - translation_iso: deu
     name: Iwam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iwam
   - translation_iso: hin
     name: इवाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iwam
     auto: true
   - translation_iso: jpn
     name: イワム語

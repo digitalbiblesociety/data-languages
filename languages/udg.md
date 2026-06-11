@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مودوغا
     auto: true
+  - translation_iso: ben
+    name: মুদুগা
+    auto: true
   - translation_iso: deu
     name: Muduga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muduga
   - translation_iso: hin
     name: मुदुगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muduga
     auto: true
   - translation_iso: jpn
     name: ムドゥガル語

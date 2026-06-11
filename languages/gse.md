@@ -28,6 +28,9 @@ translations:
     name: langue des signes ghanéenne
   - translation_iso: hin
     name: घाना की सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Ghanaian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ガーナ手話
   - translation_iso: kor

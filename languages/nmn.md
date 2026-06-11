@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Taa_language"
 translations:
   - translation_iso: ara
     name: لغة تا
+  - translation_iso: ben
+    name: কসো
+    auto: true
   - translation_iso: deu
     name: Taa-Sprache
   - translation_iso: fra
     name: taa
   - translation_iso: hin
     name: ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǃXóõ
     auto: true
   - translation_iso: jpn
     name: タア語

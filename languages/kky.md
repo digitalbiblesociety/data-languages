@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة غوغو ييميدير
     auto: true
+  - translation_iso: ben
+    name: গুগু য়িমিধির্র
+    auto: true
   - translation_iso: deu
     name: Guugu Yimidhirr
   - translation_iso: fra
     name: guugu yimidhirr
   - translation_iso: hin
     name: गूगू यिमिधिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guugu Yimidhirr
     auto: true
   - translation_iso: jpn
     name: グーグ・イミディル語

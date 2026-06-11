@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ووسا ناسو
     auto: true
+  - translation_iso: ben
+    name: ওয়ুসা নাসু
+    auto: true
   - translation_iso: deu
     name: Wusa Nasu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nasu wusa
   - translation_iso: hin
     name: वुसा नासू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wusa Nasu
     auto: true
   - translation_iso: jpn
     name: ウサ・ナス語

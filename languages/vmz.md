@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مازاتلان مازاتك
     auto: true
+  - translation_iso: ben
+    name: মাজাতলান মাজাতেক
+    auto: true
   - translation_iso: deu
     name: Mazatlán-Mazatekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mazatèque de Mazatlán
   - translation_iso: hin
     name: मसातलान मासातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mazatlán Mazatec
     auto: true
   - translation_iso: jpn
     name: マサトラン・マサテク語

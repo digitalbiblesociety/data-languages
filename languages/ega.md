@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ega
+    auto: true
   - translation_iso: jpn
     name: エガ語
   - translation_iso: kor

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अक्पेस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akpes
+    auto: true
   - translation_iso: jpn
     name: アクペス語
     auto: true

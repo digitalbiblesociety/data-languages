@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توما
     auto: true
+  - translation_iso: ben
+    name: তোমা
+    auto: true
   - translation_iso: deu
     name: Toma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: toma
   - translation_iso: hin
     name: तोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toma
     auto: true
   - translation_iso: jpn
     name: トマ語

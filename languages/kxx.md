@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليكوبا
     auto: true
+  - translation_iso: ben
+    name: লিকুবা
+    auto: true
   - translation_iso: deu
     name: Likuba
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लिकुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Likuba
     auto: true
   - translation_iso: jpn
     name: リクバ語

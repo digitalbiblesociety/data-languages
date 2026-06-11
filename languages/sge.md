@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيجاي
     auto: true
+  - translation_iso: ben
+    name: সেগাই
+    auto: true
   - translation_iso: deu
     name: Segai
     auto: true

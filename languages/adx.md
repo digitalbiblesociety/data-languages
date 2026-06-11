@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अम्दो तिब्बती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amdo Tibetan
+    auto: true
   - translation_iso: jpn
     name: アムド・チベット語
   - translation_iso: kor

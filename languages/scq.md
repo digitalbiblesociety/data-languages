@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساؤوتش
     auto: true
+  - translation_iso: ben
+    name: সাওচ
+    auto: true
   - translation_iso: deu
     name: "Sa'och"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "sa'och"
   - translation_iso: hin
     name: साओच
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Sa'och"
     auto: true
   - translation_iso: jpn
     name: チュン語

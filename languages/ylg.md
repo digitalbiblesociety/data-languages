@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يلوغو
     auto: true
+  - translation_iso: ben
+    name: য়েলোগু
+    auto: true
   - translation_iso: deu
     name: Yelogu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yelogu
   - translation_iso: hin
     name: येलोगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yelogu
     auto: true
   - translation_iso: jpn
     name: イェログ語

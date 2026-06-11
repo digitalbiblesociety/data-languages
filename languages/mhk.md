@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مونجاكا
     auto: true
+  - translation_iso: ben
+    name: মুঙাকা
+    auto: true
   - translation_iso: deu
     name: Mungaka
   - translation_iso: fra
     name: mungaka
   - translation_iso: hin
     name: मुंगाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mungaka
     auto: true
   - translation_iso: jpn
     name: ムンガカ語

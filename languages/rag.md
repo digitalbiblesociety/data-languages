@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لوجولي
     auto: true
+  - translation_iso: ben
+    name: লোগোলি
+    auto: true
   - translation_iso: deu
     name: Logooli
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: logooli
   - translation_iso: hin
     name: लोगूली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Logooli
     auto: true
   - translation_iso: jpn
     name: ロゴーリ語

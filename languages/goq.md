@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غورآب
     auto: true
+  - translation_iso: ben
+    name: গোরাপ
+    auto: true
   - translation_iso: deu
     name: Gorap
     auto: true

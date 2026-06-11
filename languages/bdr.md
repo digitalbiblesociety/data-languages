@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/West_Coast_Bajau_language"
 translations:
   - translation_iso: ara
     name: الساحل الغربي باجاو
+  - translation_iso: ben
+    name: ওয়েসত কোয়াসত বাজাউ
+    auto: true
   - translation_iso: deu
     name: West Coast Bajau
   - translation_iso: fra

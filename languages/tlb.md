@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توبيلو
     auto: true
+  - translation_iso: ben
+    name: তোবেলো
+    auto: true
   - translation_iso: deu
     name: Tobelo
   - translation_iso: fra

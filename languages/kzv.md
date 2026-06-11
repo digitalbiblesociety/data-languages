@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوميانداريت
     auto: true
+  - translation_iso: ben
+    name: কোময়ানদারেত
+    auto: true
   - translation_iso: deu
     name: Komyandaret
     auto: true

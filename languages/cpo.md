@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكبيغو
     auto: true
+  - translation_iso: ben
+    name: কপেগো
+    auto: true
   - translation_iso: deu
     name: Kpeego
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kpeego
   - translation_iso: hin
     name: क्पीगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpeego
     auto: true
   - translation_iso: jpn
     name: ペエゴ語

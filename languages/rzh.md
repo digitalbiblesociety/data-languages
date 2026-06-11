@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Razihi_language"
 translations:
   - translation_iso: ara
     name: اللغة الرازحية
+  - translation_iso: ben
+    name: রাজি
+    auto: true
   - translation_iso: deu
     name: Rāziḥī
     auto: true

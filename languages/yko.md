@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة ياسا
     auto: true
+  - translation_iso: ben
+    name: য়াসা
+    auto: true
   - translation_iso: deu
     name: Yasa
   - translation_iso: fra
     name: yassa
   - translation_iso: hin
     name: यासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yasa
     auto: true
   - translation_iso: jpn
     name: ヤサ語

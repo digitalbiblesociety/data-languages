@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايتساندس
     auto: true
+  - translation_iso: ben
+    name: ওয়হিতেসানদস
+    auto: true
   - translation_iso: deu
     name: Whitesands
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: whitesands
   - translation_iso: hin
     name: व्हाइटसैंड्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Whitesands
     auto: true
   - translation_iso: jpn
     name: ホワイトサンズ語

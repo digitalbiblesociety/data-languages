@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هوكپو
     auto: true
+  - translation_iso: ben
+    name: লহোকপু
+    auto: true
   - translation_iso: deu
     name: Lhokpu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lhokpu
   - translation_iso: hin
     name: ल्होकपू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lhokpu
     auto: true
   - translation_iso: jpn
     name: ロプ語

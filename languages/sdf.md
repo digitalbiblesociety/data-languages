@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سارلي
     auto: true
+  - translation_iso: ben
+    name: সারলি
+    auto: true
   - translation_iso: deu
     name: Sarli
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: sarli
   - translation_iso: hin
     name: सारली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sarli
     auto: true
   - translation_iso: jpn
     name: ゴーラーニー語

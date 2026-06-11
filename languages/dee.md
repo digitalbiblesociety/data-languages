@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديوين
     auto: true
+  - translation_iso: ben
+    name: দেওয়োইন
+    auto: true
   - translation_iso: deu
     name: Dewoin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dewoin
   - translation_iso: hin
     name: देवोइन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dewoin
     auto: true
   - translation_iso: jpn
     name: デウォイン語

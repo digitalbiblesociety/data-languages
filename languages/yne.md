@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة لانغي
     auto: true
+  - translation_iso: ben
+    name: লাঙে
+    auto: true
   - translation_iso: deu
     name: "Lang'e"
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: "lang'e"
   - translation_iso: hin
     name: लांग्ए
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Lang'e"
     auto: true
   - translation_iso: jpn
     name: ラング語

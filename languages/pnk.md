@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة باوناكا
     auto: true
+  - translation_iso: ben
+    name: পাউনাকা
+    auto: true
   - translation_iso: deu
     name: Paunaka
   - translation_iso: fra
     name: paunaka
   - translation_iso: hin
     name: पाउनाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paunaka
     auto: true
   - translation_iso: jpn
     name: パウナ語

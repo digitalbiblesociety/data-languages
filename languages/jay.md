@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يان نهانغو
     auto: true
+  - translation_iso: ben
+    name: য়ান-নহাঙু
+    auto: true
   - translation_iso: deu
     name: Yan-nhangu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yan-nhangu
   - translation_iso: hin
     name: यान-न्हांगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yan-nhangu
     auto: true
   - translation_iso: jpn
     name: ヤン・ナング語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة يوكاغيز الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন য়ুকাঘির
+    auto: true
   - translation_iso: deu
     name: Kolymajukagirisch
   - translation_iso: fra
     name: youkaguir de la Kolyma
   - translation_iso: hin
     name: दक्षिणी युकागिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Yukaghir
     auto: true
   - translation_iso: jpn
     name: コリマ・ユカギール語

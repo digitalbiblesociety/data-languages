@@ -30,6 +30,9 @@ translations:
     name: halbi
   - translation_iso: hin
     name: हल्बी भाषा
+  - translation_iso: ind
+    name: Bahasa Halbi
+    auto: true
   - translation_iso: jpn
     name: ハルビ語
     auto: true

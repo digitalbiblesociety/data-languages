@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توتوبا
     auto: true
+  - translation_iso: ben
+    name: তুতুবা
+    auto: true
   - translation_iso: deu
     name: Tutuba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tutuba
   - translation_iso: hin
     name: तुतुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tutuba
     auto: true
   - translation_iso: jpn
     name: ツツバ語

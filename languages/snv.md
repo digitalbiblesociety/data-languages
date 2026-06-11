@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "اللغة سا'بان"
     auto: true
+  - translation_iso: ben
+    name: সাবান
+    auto: true
   - translation_iso: deu
     name: "Sa'ban"
     auto: true

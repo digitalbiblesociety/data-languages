@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موبوا كارين
     auto: true
+  - translation_iso: ben
+    name: মোবওয়া কারেন
+    auto: true
   - translation_iso: deu
     name: Mobwa-Karen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mobwa
   - translation_iso: hin
     name: मोब्वा कारेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mobwa Karen
     auto: true
   - translation_iso: jpn
     name: モブワ・カレン語

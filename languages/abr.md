@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة أبرون
     auto: true
+  - translation_iso: ben
+    name: আবরোন
+    auto: true
   - translation_iso: deu
     name: Abron
   - translation_iso: fra
     name: Bono
   - translation_iso: hin
     name: अब्रोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Abron
     auto: true
   - translation_iso: jpn
     name: アブロン語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: بيكول كاتاندوانس الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কাতানদুয়ানেস বিকোল
+    auto: true
   - translation_iso: deu
     name: Southern Catanduanes Bikol
     auto: true

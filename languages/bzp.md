@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيمْبيرانو
     auto: true
+  - translation_iso: ben
+    name: কেমবেরানো
+    auto: true
   - translation_iso: deu
     name: Kemberano
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: केम्बेरानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kemberano
     auto: true
   - translation_iso: jpn
     name: ケンベラノ語

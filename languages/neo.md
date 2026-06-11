@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نا ميو
     auto: true
+  - translation_iso: ben
+    name: না-মেও
+    auto: true
   - translation_iso: deu
     name: Ná-Meo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ná-meo
   - translation_iso: hin
     name: ना-मेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ná-Meo
     auto: true
   - translation_iso: jpn
     name: ナー・メオ語

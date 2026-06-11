@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوابو
     auto: true
+  - translation_iso: ben
+    name: সুয়াবো
+    auto: true
   - translation_iso: deu
     name: Suabo
     auto: true

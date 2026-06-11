@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيجآ
     auto: true
+  - translation_iso: ben
+    name: কিজা
+    auto: true
   - translation_iso: deu
     name: Kija
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kija
   - translation_iso: hin
     name: किजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kija
     auto: true
   - translation_iso: jpn
     name: キジャ語

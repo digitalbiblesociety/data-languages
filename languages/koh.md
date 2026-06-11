@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كويو
     auto: true
+  - translation_iso: ben
+    name: কোয়ো
+    auto: true
   - translation_iso: deu
     name: Koyo
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koyo
     auto: true
   - translation_iso: jpn
     name: Koyo語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سو ناما
     auto: true
+  - translation_iso: ben
+    name: সোউ নামা
+    auto: true
   - translation_iso: deu
     name: Sou Nama
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: teluti
   - translation_iso: hin
     name: सोउ नामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sou Nama
     auto: true
   - translation_iso: jpn
     name: ソウ・ナマ語

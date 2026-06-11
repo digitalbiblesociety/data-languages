@@ -30,6 +30,9 @@ translations:
     name: saurashtra
   - translation_iso: hin
     name: सौराष्ट्र भाषा
+  - translation_iso: ind
+    name: Bahasa Saurashtra
+    auto: true
   - translation_iso: jpn
     name: サウラーシュトラ語
   - translation_iso: kor

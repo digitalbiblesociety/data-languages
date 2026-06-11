@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ناسكابي
     auto: true
+  - translation_iso: ben
+    name: নাসকাপি
+    auto: true
   - translation_iso: deu
     name: Naskapi
     auto: true

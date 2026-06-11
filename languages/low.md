@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة امپياس وبو
     auto: true
+  - translation_iso: ben
+    name: তামপিয়াস লোবু
+    auto: true
   - translation_iso: deu
     name: Tampias-Lobu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lobu tampias
   - translation_iso: hin
     name: तंपियास लोबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tampias Lobu
     auto: true
   - translation_iso: jpn
     name: タンピアス・ロブ語

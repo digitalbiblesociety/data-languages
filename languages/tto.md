@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الطاعة السفلى
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের তাওইহ
+    auto: true
   - translation_iso: deu
     name: "Lower Ta'oih"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ta’oih inférieur
   - translation_iso: hin
     name: "निचली ता'ओइह"
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Lower Ta'oih"
     auto: true
   - translation_iso: jpn
     name: タオイ語

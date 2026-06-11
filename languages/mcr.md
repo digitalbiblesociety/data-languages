@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مينيا
     auto: true
+  - translation_iso: ben
+    name: মেনয়া
+    auto: true
   - translation_iso: deu
     name: Menya
   - translation_iso: fra
     name: menya
   - translation_iso: hin
     name: मेन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Menya
     auto: true
   - translation_iso: jpn
     name: メニャ語

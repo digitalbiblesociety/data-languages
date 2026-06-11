@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيينددو
     auto: true
+  - translation_iso: ben
+    name: নয়িনদু
+    auto: true
   - translation_iso: deu
     name: Nyindu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyindu
   - translation_iso: hin
     name: न्यिंदु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyindu
     auto: true
   - translation_iso: jpn
     name: ニインドゥ語

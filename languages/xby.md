@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: बातजाला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Batjala
+    auto: true
   - translation_iso: jpn
     name: バティアラ語
   - translation_iso: kor

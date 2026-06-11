@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باي تافييترا
     auto: true
+  - translation_iso: ben
+    name: পাই তাভয়তেরা
+    auto: true
   - translation_iso: deu
     name: Pai Tavytera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pai tavytera
   - translation_iso: hin
     name: पाई तावितेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pai Tavytera
     auto: true
   - translation_iso: jpn
     name: パイタビェテラ語

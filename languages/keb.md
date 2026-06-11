@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: ben
+    name: কেলে
+    auto: true
   - translation_iso: deu
     name: Kélé
   - translation_iso: fra
     name: kele
   - translation_iso: hin
     name: केले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kélé
     auto: true
   - translation_iso: jpn
     name: ケレ語

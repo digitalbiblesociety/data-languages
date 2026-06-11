@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوسا
     auto: true
+  - translation_iso: ben
+    name: বুসা
+    auto: true
   - translation_iso: deu
     name: Busa
   - translation_iso: fra
     name: bisa
   - translation_iso: hin
     name: बुसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Busa
     auto: true
   - translation_iso: jpn
     name: ブサ語

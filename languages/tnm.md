@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تابلا
     auto: true
+  - translation_iso: ben
+    name: তাবলা
+    auto: true
   - translation_iso: deu
     name: Tabla
     auto: true

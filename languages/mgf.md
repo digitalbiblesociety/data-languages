@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكليو
     auto: true
+  - translation_iso: ben
+    name: মাকলেওয়
+    auto: true
   - translation_iso: deu
     name: Maklew
     auto: true

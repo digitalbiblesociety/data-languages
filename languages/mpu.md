@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكورب
     auto: true
+  - translation_iso: ben
+    name: মাকুরাপ
+    auto: true
   - translation_iso: deu
     name: Makuráp
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: makuráp
   - translation_iso: hin
     name: माकुराप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makuráp
     auto: true
   - translation_iso: jpn
     name: マクラップ語

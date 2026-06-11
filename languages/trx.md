@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيداه ترينجوس سيمبان
     auto: true
+  - translation_iso: ben
+    name: তরিংগুস-সেমবান বিদায়ুহ
+    auto: true
   - translation_iso: deu
     name: Tringgus-Sembaan Bidayuh
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्रिंगगुस-सेम्बान बिदायुह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tringgus-Sembaan Bidayuh
     auto: true
   - translation_iso: jpn
     name: トリングス語

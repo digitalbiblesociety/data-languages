@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبوسي
     auto: true
+  - translation_iso: ben
+    name: মবোসি
+    auto: true
   - translation_iso: deu
     name: Mbosi
   - translation_iso: fra
     name: mbochi
   - translation_iso: hin
     name: म्बोसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbosi
     auto: true
   - translation_iso: jpn
     name: ムボシ語

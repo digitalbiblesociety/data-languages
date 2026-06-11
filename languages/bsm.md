@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوسامي
     auto: true
+  - translation_iso: ben
+    name: বুসামি
+    auto: true
   - translation_iso: deu
     name: Busami
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुसामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Busami
     auto: true
   - translation_iso: jpn
     name: ブサミ語

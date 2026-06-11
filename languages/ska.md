@@ -14,6 +14,9 @@ wikidata_id: Q25559652
 translations:
   - translation_iso: ara
     name: سكاكيت
+  - translation_iso: ben
+    name: সকাগিত
+    auto: true
   - translation_iso: deu
     name: Skagit
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: skagit
   - translation_iso: hin
     name: स्कैगिट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Skagit
     auto: true
   - translation_iso: jpn
     name: スカジット・ニスクワリ語

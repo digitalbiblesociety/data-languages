@@ -31,6 +31,9 @@ translations:
     name: khandeshi
   - translation_iso: hin
     name: अहिराणी भाषा
+  - translation_iso: ind
+    name: Bahasa Khandesi
+    auto: true
   - translation_iso: jpn
     name: カーンデーシュ語
   - translation_iso: kor

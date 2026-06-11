@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالامباسو
     auto: true
+  - translation_iso: ben
+    name: সালামপাসু
+    auto: true
   - translation_iso: deu
     name: Salampasu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: salampasu
   - translation_iso: hin
     name: सालामपासु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Salampasu
     auto: true
   - translation_iso: jpn
     name: チサランパス語

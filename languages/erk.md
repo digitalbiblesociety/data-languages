@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإفاتي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ এফাতে
+    auto: true
   - translation_iso: deu
     name: Süd-Efate
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: éfaté du Sud
   - translation_iso: hin
     name: दक्षिण एफाते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Efate
     auto: true
   - translation_iso: jpn
     name: 南エファテ語

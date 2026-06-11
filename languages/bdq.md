@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बहनार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bahnar
+    auto: true
   - translation_iso: jpn
     name: バナール語
   - translation_iso: kor

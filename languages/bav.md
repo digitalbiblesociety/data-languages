@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة فينجو
     auto: true
+  - translation_iso: ben
+    name: ভেঙো
+    auto: true
   - translation_iso: deu
     name: Babungo
   - translation_iso: fra
     name: babungo
   - translation_iso: hin
     name: वेंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vengo
     auto: true
   - translation_iso: jpn
     name: ヴェンゴ語

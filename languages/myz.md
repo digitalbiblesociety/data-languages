@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ماندايك كلاسيكي
     auto: true
+  - translation_iso: ben
+    name: কলাস্সিকাল মানদাইক
+    auto: true
   - translation_iso: deu
     name: klassisches Mandäisch
   - translation_iso: fra
     name: mandéen classique
   - translation_iso: hin
     name: शास्त्रीय मंडाइक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Classical Mandaic
     auto: true
   - translation_iso: jpn
     name: 古典マンダイク語

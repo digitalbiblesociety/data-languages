@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nafanan_language"
 translations:
   - translation_iso: ara
     name: نافانرا
+  - translation_iso: ben
+    name: নাফানরা
+    auto: true
   - translation_iso: deu
     name: Nafaanra
   - translation_iso: fra
     name: nafaanra
   - translation_iso: hin
     name: नाफानरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nafaanra
     auto: true
   - translation_iso: jpn
     name: ナファーンラ語

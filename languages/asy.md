@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوساكور أسمات
     auto: true
+  - translation_iso: ben
+    name: য়াওসাকোর আসমাত
+    auto: true
   - translation_iso: deu
     name: Yaosakor-Asmat
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yaosakor
   - translation_iso: hin
     name: याओसाकोर असमत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaosakor Asmat
     auto: true
   - translation_iso: jpn
     name: ヤオサコル・アスマット語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يفوكا
     auto: true
+  - translation_iso: ben
+    name: লেভুকা
+    auto: true
   - translation_iso: deu
     name: Levuka
   - translation_iso: fra

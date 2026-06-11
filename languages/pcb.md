@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بير
     auto: true
+  - translation_iso: ben
+    name: পেয়ার
+    auto: true
   - translation_iso: deu
     name: Pear
     auto: true

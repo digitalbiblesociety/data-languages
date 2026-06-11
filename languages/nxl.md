@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوالو الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ নুয়াউলু
+    auto: true
   - translation_iso: deu
     name: Süd-Nuaulu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nuaulu du Sud
   - translation_iso: hin
     name: दक्षिणी नुआउलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Nuaulu
     auto: true
   - translation_iso: jpn
     name: 南ヌアウル語

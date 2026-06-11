@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تاداكساهاك
     auto: true
+  - translation_iso: ben
+    name: তাদাকসাহাক
+    auto: true
   - translation_iso: deu
     name: Tadaksahak
   - translation_iso: fra
     name: tadaksahak
   - translation_iso: hin
     name: तदाक्साहाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tadaksahak
     auto: true
   - translation_iso: jpn
     name: タダクサハク語

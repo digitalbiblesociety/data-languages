@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة السيفندي
     auto: true
+  - translation_iso: ben
+    name: সিভানদি
+    auto: true
   - translation_iso: deu
     name: Sivandi
   - translation_iso: fra
     name: sivandi
   - translation_iso: hin
     name: सिवंदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sivandi
     auto: true
   - translation_iso: jpn
     name: シーバンド語

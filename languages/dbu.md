@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوندوم دوم دوجون
     auto: true
+  - translation_iso: ben
+    name: বোনদুম দোম দোগোন
+    auto: true
   - translation_iso: deu
     name: Bondum Dom Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bondum dom
   - translation_iso: hin
     name: बोंडुम दोम दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bondum Dom Dogon
     auto: true
   - translation_iso: jpn
     name: ボンドゥム・ドム・ドゴン語

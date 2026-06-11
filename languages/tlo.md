@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تالودي
     auto: true
+  - translation_iso: ben
+    name: তালোদি
+    auto: true
   - translation_iso: deu
     name: Talodi
   - translation_iso: fra
     name: talodi
   - translation_iso: hin
     name: तालोदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Talodi
     auto: true
   - translation_iso: jpn
     name: タロディ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوباجارا
     auto: true
+  - translation_iso: ben
+    name: উবাঘারা
+    auto: true
   - translation_iso: deu
     name: Ubaghara
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उबाघारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ubaghara
     auto: true
   - translation_iso: jpn
     name: ウバガラ語

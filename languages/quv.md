@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساكابوليتيكو
     auto: true
+  - translation_iso: ben
+    name: সাকাপুলতেকো
+    auto: true
   - translation_iso: deu
     name: Sakapultekisch
   - translation_iso: fra

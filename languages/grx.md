@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوريآسو
     auto: true
+  - translation_iso: ben
+    name: গুরিয়াসো
+    auto: true
   - translation_iso: deu
     name: Guriaso
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: guriaso
   - translation_iso: hin
     name: गुरियासो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guriaso
     auto: true
   - translation_iso: jpn
     name: グリアソ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نيز بيرس
     auto: true
+  - translation_iso: ben
+    name: নেজ পেরকে
+    auto: true
   - translation_iso: deu
     name: Nez Perce
   - translation_iso: fra
     name: nez-percé
   - translation_iso: hin
     name: नेज़ पर्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nez Perce
     auto: true
   - translation_iso: jpn
     name: ネズ・パース語

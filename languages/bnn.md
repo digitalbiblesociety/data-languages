@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونون
     auto: true
+  - translation_iso: ben
+    name: বুনুন
+    auto: true
   - translation_iso: deu
     name: Bunun
     auto: true

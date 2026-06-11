@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مادين
     auto: true
+  - translation_iso: ben
+    name: মাদেন
+    auto: true
   - translation_iso: deu
     name: Maden
     auto: true

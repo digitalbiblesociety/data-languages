@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالوما
     auto: true
+  - translation_iso: ben
+    name: সালুমা
+    auto: true
   - translation_iso: deu
     name: Salumá
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सालुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Salumá
     auto: true
   - translation_iso: jpn
     name: タレーノイジョミ語

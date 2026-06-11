@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كاواتشا
     auto: true
+  - translation_iso: ben
+    name: কাওয়াচা
+    auto: true
   - translation_iso: deu
     name: Kawacha
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kawacha
   - translation_iso: hin
     name: कावाचा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kawacha
     auto: true
   - translation_iso: jpn
     name: カワチャ語

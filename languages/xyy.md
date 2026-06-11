@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يورتا يورتا
     auto: true
+  - translation_iso: ben
+    name: য়োরতা য়োরতা
+    auto: true
   - translation_iso: deu
     name: Yorta Yorta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yorta yorta
   - translation_iso: hin
     name: योर्ता योर्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yorta Yorta
     auto: true
   - translation_iso: jpn
     name: ヨルタ・ヨルタ語

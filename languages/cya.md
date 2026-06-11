@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوپالا تشاتينو
     auto: true
+  - translation_iso: ben
+    name: নোপালা চাতিনো
+    auto: true
   - translation_iso: deu
     name: Nopala-Chatino
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: Chatino de Nopala
   - translation_iso: hin
     name: नोपाला चातीनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nopala Chatino
     auto: true
   - translation_iso: jpn
     name: ノパラ・チャティーノ語

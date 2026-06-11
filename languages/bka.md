@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: क्याक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kyak
+    auto: true
   - translation_iso: jpn
     name: キャク語
     auto: true

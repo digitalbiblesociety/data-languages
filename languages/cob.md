@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيكوموسيلتك
     auto: true
+  - translation_iso: ben
+    name: চিকোমুকেলতেক
+    auto: true
   - translation_iso: deu
     name: Chicomuceltekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chicomuceltec
   - translation_iso: hin
     name: चिकोमुसेल्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chicomuceltec
     auto: true
   - translation_iso: jpn
     name: チコムセルテック語

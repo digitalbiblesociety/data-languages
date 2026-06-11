@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساريكولي
     auto: true
+  - translation_iso: ben
+    name: সারিকোলি
+    auto: true
   - translation_iso: deu
     name: Sarikoli
     auto: true

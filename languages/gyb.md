@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآروس
     auto: true
+  - translation_iso: ben
+    name: গারুস
+    auto: true
   - translation_iso: deu
     name: Garus
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गारुस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garus
     auto: true
   - translation_iso: jpn
     name: ガルス語

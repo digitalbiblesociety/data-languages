@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة بوبتي
     auto: true
+  - translation_iso: ben
+    name: পোপতি
+    auto: true
   - translation_iso: deu
     name: Jakaltekisch
   - translation_iso: fra
     name: jacaltèque
   - translation_iso: hin
     name: पोप्ती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Popti
     auto: true
   - translation_iso: jpn
     name: ハカルテク語

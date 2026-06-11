@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجباري
     auto: true
+  - translation_iso: ben
+    name: গবারি
+    auto: true
   - translation_iso: deu
     name: Gbari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gbari
   - translation_iso: hin
     name: ग्बारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbari
     auto: true
   - translation_iso: jpn
     name: グワリ語

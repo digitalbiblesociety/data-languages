@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراكانا
     auto: true
+  - translation_iso: ben
+    name: পারাকানা
+    auto: true
   - translation_iso: deu
     name: Parakanã
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: parakanã
   - translation_iso: hin
     name: पाराकाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Parakanã
     auto: true
   - translation_iso: jpn
     name: パラカナン語

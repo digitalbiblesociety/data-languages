@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونجاري
     auto: true
+  - translation_iso: ben
+    name: তুংগারে
+    auto: true
   - translation_iso: deu
     name: Tunggare
     auto: true

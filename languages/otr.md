@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوتورو
     auto: true
+  - translation_iso: ben
+    name: ওতোরো
+    auto: true
   - translation_iso: deu
     name: Otoro
   - translation_iso: fra
     name: otoro
   - translation_iso: hin
     name: ओटोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Otoro
     auto: true
   - translation_iso: jpn
     name: オトロ語

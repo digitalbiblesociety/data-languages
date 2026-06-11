@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: वारली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Varli
+    auto: true
   - translation_iso: jpn
     name: ヴァーリー語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندوي
     auto: true
+  - translation_iso: ben
+    name: নদোএ
+    auto: true
   - translation_iso: deu
     name: Ndoe
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्दोए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndoe
     auto: true
   - translation_iso: jpn
     name: ンドエ語

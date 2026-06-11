@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجايا
     auto: true
+  - translation_iso: ben
+    name: বোগায়া
+    auto: true
   - translation_iso: deu
     name: Bogaya
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: bogaya
   - translation_iso: hin
     name: बोगाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bogaya
     auto: true
   - translation_iso: jpn
     name: ボガヤ語

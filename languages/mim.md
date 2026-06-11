@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलाकातलात्साला मिश्तेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alacatlatzala Mixtec
+    auto: true
   - translation_iso: jpn
     name: アラカトラツァラ・ミステク語
     auto: true

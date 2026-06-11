@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال
     auto: true
+  - translation_iso: ben
+    name: আঙাল
+    auto: true
   - translation_iso: deu
     name: Angal
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अंगाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Angal
     auto: true
   - translation_iso: jpn
     name: アンガル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجال
     auto: true
+  - translation_iso: ben
+    name: গাল
+    auto: true
   - translation_iso: deu
     name: Gal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gal
   - translation_iso: hin
     name: गाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gal
     auto: true
   - translation_iso: jpn
     name: ガル語

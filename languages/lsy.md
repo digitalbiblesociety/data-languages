@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الموريتانية
     auto: true
+  - translation_iso: ben
+    name: মাউরিতিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Mauritianische Gebärdensprache
   - translation_iso: fra
     name: langue des signes mauricienne
   - translation_iso: hin
     name: मॉरीशस सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mauritian Sign Language
     auto: true
   - translation_iso: jpn
     name: モーリシャス手話

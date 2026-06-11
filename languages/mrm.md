@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مرلاف
     auto: true
+  - translation_iso: ben
+    name: মেরলাভ
+    auto: true
   - translation_iso: deu
     name: Mwerlap
   - translation_iso: fra
     name: mwerlap
   - translation_iso: hin
     name: मेरलाव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Merlav
     auto: true
   - translation_iso: jpn
     name: メルラヴ語

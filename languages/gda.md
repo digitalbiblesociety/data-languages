@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جادي لوهار
     auto: true
+  - translation_iso: ben
+    name: গাদে লোহার
+    auto: true
   - translation_iso: deu
     name: Gade Lohar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gade lohar
   - translation_iso: hin
     name: गाड़े लोहार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gade Lohar
     auto: true
   - translation_iso: jpn
     name: ガデ・ロハール語

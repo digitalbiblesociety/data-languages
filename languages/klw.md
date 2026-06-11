@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تادو
     auto: true
+  - translation_iso: ben
+    name: তাদো
+    auto: true
   - translation_iso: deu
     name: Tado
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lindu
   - translation_iso: hin
     name: तादो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tado
     auto: true
   - translation_iso: jpn
     name: タド語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الفونجورو
     auto: true
+  - translation_iso: ben
+    name: ফোঙোরো
+    auto: true
   - translation_iso: deu
     name: Fongoro
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: fongoro
   - translation_iso: hin
     name: फोंगोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fongoro
     auto: true
   - translation_iso: jpn
     name: フォンゴロ語

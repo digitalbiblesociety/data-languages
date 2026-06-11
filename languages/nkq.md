@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نكامي
     auto: true
+  - translation_iso: ben
+    name: নকামি
+    auto: true
   - translation_iso: deu
     name: Nkami
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nkami
   - translation_iso: hin
     name: नकामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkami
     auto: true
   - translation_iso: jpn
     name: ンカミ語

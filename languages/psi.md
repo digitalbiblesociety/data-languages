@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بشاي الجنوبية الشرقية
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসত পাশাই
+    auto: true
   - translation_iso: deu
     name: Südost-Pashai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pashai du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्वी पशाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeast Pashai
     auto: true
   - translation_iso: jpn
     name: 南東パシャイ語

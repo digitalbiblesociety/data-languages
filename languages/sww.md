@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سووا
     auto: true
+  - translation_iso: ben
+    name: সোওয়া
+    auto: true
   - translation_iso: deu
     name: Sowa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sowa
     auto: true
   - translation_iso: jpn
     name: ソワ語

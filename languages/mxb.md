@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميشتك تيزواتلان
     auto: true
+  - translation_iso: ben
+    name: তেজোয়াতলান মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Tezoatlán-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Tezoatlán
   - translation_iso: hin
     name: तेसोआतलान मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tezoatlán Mixtec
     auto: true
   - translation_iso: jpn
     name: テゾアトラン・ミステク語

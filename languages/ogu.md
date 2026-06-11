@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبرونواغوم
     auto: true
+  - translation_iso: ben
+    name: ওগবরোনুয়াগুম
+    auto: true
   - translation_iso: deu
     name: Ogbronuagum
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओग्ब्रोनुआगुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ogbronuagum
     auto: true
   - translation_iso: jpn
     name: オグブロヌアグム語

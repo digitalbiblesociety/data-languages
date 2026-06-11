@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبو
     auto: true
+  - translation_iso: ben
+    name: লোমবো
+    auto: true
   - translation_iso: deu
     name: Lombo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lombo
   - translation_iso: hin
     name: लोम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lombo
     auto: true
   - translation_iso: jpn
     name: Lombo語

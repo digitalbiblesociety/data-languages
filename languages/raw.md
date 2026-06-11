@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راوانج
     auto: true
+  - translation_iso: ben
+    name: রাওয়াং
+    auto: true
   - translation_iso: deu
     name: Rawang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rawang
   - translation_iso: hin
     name: रावांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rawang
     auto: true
   - translation_iso: jpn
     name: ラワン語

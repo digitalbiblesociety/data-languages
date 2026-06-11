@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ناشي
     auto: true
+  - translation_iso: ben
+    name: নাকসি
+    auto: true
   - translation_iso: deu
     name: Naxi
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: naxi
   - translation_iso: hin
     name: नाशी भाषा
+  - translation_iso: ind
+    name: Bahasa Naxi
+    auto: true
   - translation_iso: jpn
     name: ナシ語
   - translation_iso: kor

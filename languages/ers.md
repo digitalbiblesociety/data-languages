@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإرسو
     auto: true
+  - translation_iso: ben
+    name: এরসু
+    auto: true
   - translation_iso: deu
     name: Ersu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ersu
   - translation_iso: hin
     name: एरसु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ersu
     auto: true
   - translation_iso: jpn
     name: アルス語

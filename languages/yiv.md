@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة نيسو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন নিসু
+    auto: true
   - translation_iso: deu
     name: Nördliches Nisu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nisu du Nord
   - translation_iso: hin
     name: उत्तरी निसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Nisu
     auto: true
   - translation_iso: jpn
     name: 北部ニス語

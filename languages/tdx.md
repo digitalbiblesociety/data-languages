@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تادرويّ ماهافالي
     auto: true
+  - translation_iso: ben
+    name: তানদরোয়-মাহাফালয় মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Tandroy-Mahafaly Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: antandroy
   - translation_iso: hin
     name: तंद्रोय-महाफाली मलागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tandroy-Mahafaly Malagasy
     auto: true
   - translation_iso: jpn
     name: タンルイ語

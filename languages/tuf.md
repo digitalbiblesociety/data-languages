@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توني بو المركزية
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল তুনেবো
+    auto: true
   - translation_iso: deu
     name: Zentrales Tunebo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tunebo central
   - translation_iso: hin
     name: मध्य तुनेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Tunebo
     auto: true
   - translation_iso: jpn
     name: トゥネボ語

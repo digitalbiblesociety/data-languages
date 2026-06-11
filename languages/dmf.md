@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: مديفايدرين
     auto: true
+  - translation_iso: ben
+    name: মেদেফাইদরিনর
+    auto: true
   - translation_iso: deu
     name: Medefaidrin
   - translation_iso: fra
     name: médéfaïdrine
   - translation_iso: hin
     name: मेदेफ़ायड्रिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Medefaidrin\r
     auto: true
   - translation_iso: jpn
     name: メデファイドリン

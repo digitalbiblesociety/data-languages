@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واتيوا
     auto: true
+  - translation_iso: ben
+    name: ওয়াতিওয়া
+    auto: true
   - translation_iso: deu
     name: Dumpu
   - translation_iso: fra
     name: watiwa
   - translation_iso: hin
     name: वातिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Watiwa
     auto: true
   - translation_iso: jpn
     name: ワティワ語

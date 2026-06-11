@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ديبابوون مانوبو
     auto: true
+  - translation_iso: ben
+    name: দিবাবাওয়োন মানোবো
+    auto: true
   - translation_iso: deu
     name: Dibabawon Manobo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manobo dibabawon
   - translation_iso: hin
     name: डिबाबावोन मानोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dibabawon Manobo
     auto: true
   - translation_iso: jpn
     name: ディババウォン・マノボ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: موم جانجو
     auto: true
+  - translation_iso: ben
+    name: মোম জাঙো
+    auto: true
   - translation_iso: deu
     name: Mom Jango
   - translation_iso: fra
     name: mom jango
   - translation_iso: hin
     name: मोम जांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mom Jango
     auto: true
   - translation_iso: jpn
     name: モム・ジャンゴ語

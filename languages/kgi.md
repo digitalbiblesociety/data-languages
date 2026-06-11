@@ -29,6 +29,9 @@ translations:
     name: langue des signes du Selangor
   - translation_iso: hin
     name: सेलांगोर साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Selangor Sign Language
+    auto: true
   - translation_iso: jpn
     name: セランゴール手話
   - translation_iso: kor

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: فويا فويا
     auto: true
+  - translation_iso: ben
+    name: ফোইয়া ফোইয়া
+    auto: true
   - translation_iso: deu
     name: Foia Foia
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: फोइया फोइया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Foia Foia
     auto: true
   - translation_iso: jpn
     name: フォイア・フォイア語

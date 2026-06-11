@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دورزي
     auto: true
+  - translation_iso: ben
+    name: দোরজে
+    auto: true
   - translation_iso: deu
     name: Dorze
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dorzé
   - translation_iso: hin
     name: डोरज़े
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dorze
     auto: true
   - translation_iso: jpn
     name: ドルゼ語

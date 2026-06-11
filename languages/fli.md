@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الفالي
     auto: true
+  - translation_iso: ben
+    name: ফালি
+    auto: true
   - translation_iso: deu
     name: Fali
   - translation_iso: fra
     name: fali
   - translation_iso: hin
     name: फाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fali
     auto: true
   - translation_iso: jpn
     name: ファリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توانا
     auto: true
+  - translation_iso: ben
+    name: তওয়ানা
+    auto: true
   - translation_iso: deu
     name: Twana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: twana
   - translation_iso: hin
     name: ट्वाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Twana
     auto: true
   - translation_iso: jpn
     name: トゥワナ語

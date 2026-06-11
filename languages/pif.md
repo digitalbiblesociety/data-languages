@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بينجيلابيسية
     auto: true
+  - translation_iso: ben
+    name: পিঙেলাপেসে
+    auto: true
   - translation_iso: deu
     name: Pingelapisch
   - translation_iso: fra
     name: pingelap
   - translation_iso: hin
     name: पिंगेलापीज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pingelapese
     auto: true
   - translation_iso: jpn
     name: ピンゲラップ語

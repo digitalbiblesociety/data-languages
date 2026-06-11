@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاوجي
     auto: true
+  - translation_iso: ben
+    name: লাউজে
+    auto: true
   - translation_iso: deu
     name: Lauje
     auto: true

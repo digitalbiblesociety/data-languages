@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كومبا
     auto: true
+  - translation_iso: ben
+    name: কোমবা
+    auto: true
   - translation_iso: deu
     name: Komba
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Komba
     auto: true
   - translation_iso: jpn
     name: コンバ語

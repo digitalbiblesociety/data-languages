@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेरोम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Berom
+    auto: true
   - translation_iso: jpn
     name: ビロム語
   - translation_iso: kor

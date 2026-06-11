@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيسو
     auto: true
+  - translation_iso: ben
+    name: ইসু
+    auto: true
   - translation_iso: deu
     name: Isu (Menchum Division)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: isu
   - translation_iso: hin
     name: इसू (मेंचुम मंडल)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isu
     auto: true
   - translation_iso: jpn
     name: イス語

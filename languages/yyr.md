@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة يير يورونت
     auto: true
+  - translation_iso: ben
+    name: য়ির য়োরোনত
+    auto: true
   - translation_iso: deu
     name: Yir Yoront
     auto: true
@@ -20,6 +23,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यिर योरोंट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yir Yoront
     auto: true
   - translation_iso: jpn
     name: イル・ヨロント語

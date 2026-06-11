@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाउले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baoulé
+    auto: true
   - translation_iso: jpn
     name: バウレ語
   - translation_iso: kor

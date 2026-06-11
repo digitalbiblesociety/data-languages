@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيك
     auto: true
+  - translation_iso: ben
+    name: ইক
+    auto: true
   - translation_iso: deu
     name: Icetot
   - translation_iso: fra
     name: ik
   - translation_iso: hin
     name: इक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ik
     auto: true
   - translation_iso: jpn
     name: イク語

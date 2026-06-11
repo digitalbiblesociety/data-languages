@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآييل
     auto: true
+  - translation_iso: ben
+    name: গায়িল
+    auto: true
   - translation_iso: deu
     name: Gayil
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gayil
   - translation_iso: hin
     name: गायिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gayil
     auto: true
   - translation_iso: jpn
     name: ガイル語

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة يردليواراا
     auto: true
+  - translation_iso: ben
+    name: য়ারদলিয়াওয়ার্রা
+    auto: true
   - translation_iso: deu
     name: Yardliyawarra
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: yardliyawarra
   - translation_iso: hin
     name: यार्डलियावारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yardliyawarra
     auto: true
   - translation_iso: jpn
     name: ヤードリアワラ語

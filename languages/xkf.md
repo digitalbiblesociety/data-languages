@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خينجخا
     auto: true
+  - translation_iso: ben
+    name: খেংখা
+    auto: true
   - translation_iso: deu
     name: Khengkha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khengkha
   - translation_iso: hin
     name: ख़ेंगखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khengkha
     auto: true
   - translation_iso: jpn
     name: ケン語

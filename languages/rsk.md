@@ -16,12 +16,18 @@ translations:
   - translation_iso: ara
     name: روثيني
     auto: true
+  - translation_iso: ben
+    name: রুথেনিয়ান
+    auto: true
   - translation_iso: deu
     name: Jugoslawo-Russinisch
   - translation_iso: fra
     name: ruthène de Pannonie
   - translation_iso: hin
     name: रुथेनियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ruthenian
     auto: true
   - translation_iso: jpn
     name: パンノニア・ルシン語

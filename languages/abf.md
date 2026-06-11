@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अबाई सुंगाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abai Sungai
+    auto: true
   - translation_iso: jpn
     name: アバイ・スンガイ語
     auto: true

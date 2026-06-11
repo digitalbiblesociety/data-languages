@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دابا
     auto: true
+  - translation_iso: ben
+    name: দাবা
+    auto: true
   - translation_iso: deu
     name: Daba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: daba
   - translation_iso: hin
     name: दाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daba
     auto: true
   - translation_iso: jpn
     name: ダバ語

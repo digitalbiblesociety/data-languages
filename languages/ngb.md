@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: شمال نجباندي
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন ংবানদি
+    auto: true
   - translation_iso: deu
     name: Nord-Ngbandi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngbandi du Nord
   - translation_iso: hin
     name: उत्तरी न्गबांडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Ngbandi
     auto: true
   - translation_iso: jpn
     name: 北ングバンディ語

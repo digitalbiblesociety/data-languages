@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوري
     auto: true
+  - translation_iso: ben
+    name: লুরি
+    auto: true
   - translation_iso: deu
     name: Luri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luri
   - translation_iso: hin
     name: लुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luri
     auto: true
   - translation_iso: jpn
     name: ルリ語

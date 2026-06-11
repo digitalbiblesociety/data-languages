@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيلْبيل
     auto: true
+  - translation_iso: ben
+    name: বিলবিল
+    auto: true
   - translation_iso: deu
     name: Bilbil
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिलबिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bilbil
     auto: true
   - translation_iso: jpn
     name: ビルビル語

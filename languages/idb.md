@@ -29,6 +29,9 @@ translations:
     name: créole indo-portugais de Cannanore
   - translation_iso: hin
     name: हिन्द-पुर्तगाली क्रियोल
+  - translation_iso: ind
+    name: Bahasa Indo-Portuguese
+    auto: true
   - translation_iso: jpn
     name: インド・ポルトガル語
     auto: true

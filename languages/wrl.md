@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارلمانپا
     auto: true
+  - translation_iso: ben
+    name: ওয়ারলমানপা
+    auto: true
   - translation_iso: deu
     name: Warlmanpa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warlmanpa
   - translation_iso: hin
     name: वार्लमनपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warlmanpa
     auto: true
   - translation_iso: jpn
     name: Warlmanpa語

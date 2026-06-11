@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تيهيت
     auto: true
+  - translation_iso: ben
+    name: তেহিত
+    auto: true
   - translation_iso: deu
     name: Tehit
     auto: true

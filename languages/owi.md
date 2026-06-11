@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوينيغا
     auto: true
+  - translation_iso: ben
+    name: ওওয়িনিগা
+    auto: true
   - translation_iso: deu
     name: Owiniga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: owiniga
   - translation_iso: hin
     name: ओविनिगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Owiniga
     auto: true
   - translation_iso: jpn
     name: オウィニガ語

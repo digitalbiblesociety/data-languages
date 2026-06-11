@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وكونج
     auto: true
+  - translation_iso: ben
+    name: কুকোং
+    auto: true
   - translation_iso: deu
     name: Kucong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kucong
   - translation_iso: hin
     name: कुचोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kucong
     auto: true
   - translation_iso: jpn
     name: クコン語

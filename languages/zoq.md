@@ -29,6 +29,9 @@ translations:
     name: ayapaneco
   - translation_iso: hin
     name: आयापानेको
+  - translation_iso: ind
+    name: Bahasa Tabasco Zoque
+    auto: true
   - translation_iso: jpn
     name: アヤパネコ語
   - translation_iso: kor

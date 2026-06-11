@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "لغة 'اپو"
     auto: true
+  - translation_iso: ben
+    name: তাপো
+    auto: true
   - translation_iso: deu
     name: "T'apo"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: opo
   - translation_iso: hin
     name: तापो
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa T'apo"
     auto: true
   - translation_iso: jpn
     name: タポ語

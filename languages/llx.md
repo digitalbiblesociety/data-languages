@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة لاوان
     auto: true
+  - translation_iso: ben
+    name: লাউয়ান
+    auto: true
   - translation_iso: deu
     name: Lauanisch
   - translation_iso: fra
     name: lau
   - translation_iso: hin
     name: लाउआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lauan
     auto: true
   - translation_iso: jpn
     name: ラウアン語

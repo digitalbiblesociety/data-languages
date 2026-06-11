@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكاينا
     auto: true
+  - translation_iso: ben
+    name: ওকাইনা
+    auto: true
   - translation_iso: deu
     name: Ocaina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ocaina
   - translation_iso: hin
     name: ओकैना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ocaina
     auto: true
   - translation_iso: jpn
     name: オカイナ語

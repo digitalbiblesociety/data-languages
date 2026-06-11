@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجوندي
     auto: true
+  - translation_iso: ben
+    name: ঙুনদি
+    auto: true
   - translation_iso: deu
     name: Ngundi
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गुंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngundi
     auto: true
   - translation_iso: jpn
     name: ングンディ語

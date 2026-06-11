@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كودي
     auto: true
+  - translation_iso: ben
+    name: কোদি
+    auto: true
   - translation_iso: deu
     name: Kodi
     auto: true

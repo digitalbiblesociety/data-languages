@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارجي
     auto: true
+  - translation_iso: ben
+    name: ওয়ারজি
+    auto: true
   - translation_iso: deu
     name: Warji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warji
   - translation_iso: hin
     name: वार्जी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warji
     auto: true
   - translation_iso: jpn
     name: ワルジ語

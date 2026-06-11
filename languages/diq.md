@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ديملي
     auto: true
+  - translation_iso: ben
+    name: দিমলি
+    auto: true
   - translation_iso: deu
     name: Dimli
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zazaki du Sud
   - translation_iso: hin
     name: दिमली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dimli
     auto: true
   - translation_iso: jpn
     name: ディムリ語

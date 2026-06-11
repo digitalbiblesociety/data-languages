@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويكه لهامتس فيجوز
     auto: true
+  - translation_iso: ben
+    name: ওয়িচি লহামতেস ভেজোজ
+    auto: true
   - translation_iso: deu
     name: Wichí Lhamtés Vejoz
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: विची लामतेस वेहोस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wichí Lhamtés Vejoz
     auto: true
   - translation_iso: jpn
     name: ウィチ・ハムテス・ベホス語

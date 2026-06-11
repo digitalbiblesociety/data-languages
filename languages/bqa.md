@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشومبولي
     auto: true
+  - translation_iso: ben
+    name: তচুমবুলি
+    auto: true
   - translation_iso: deu
     name: Tchumbuli
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tchumbuli
   - translation_iso: hin
     name: चुम्बुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tchumbuli
     auto: true
   - translation_iso: jpn
     name: チュンブリ語

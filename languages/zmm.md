@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماريماننديجي
     auto: true
+  - translation_iso: ben
+    name: মারিমানিনদজি
+    auto: true
   - translation_iso: deu
     name: Marimanindji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marimanindji
   - translation_iso: hin
     name: मरीमनिंदजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marimanindji
     auto: true
   - translation_iso: jpn
     name: マリマニンディ語

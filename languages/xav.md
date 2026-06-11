@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: خافنتي
     auto: true
+  - translation_iso: ben
+    name: কসাভানতে
+    auto: true
   - translation_iso: deu
     name: Xavante
   - translation_iso: fra
     name: xavánte
   - translation_iso: hin
     name: शावांते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xavánte
     auto: true
   - translation_iso: jpn
     name: シャバンテ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورلامس
     auto: true
+  - translation_iso: ben
+    name: ওরলামস
+    auto: true
   - translation_iso: deu
     name: Oorlams
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओर्लाम्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oorlams
     auto: true
   - translation_iso: jpn
     name: オーラムス語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: غورآكور
     auto: true
+  - translation_iso: ben
+    name: গোরাকোর
+    auto: true
   - translation_iso: deu
     name: Gorakor
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: gorakor
   - translation_iso: hin
     name: गोराकोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gorakor
     auto: true
   - translation_iso: jpn
     name: ゴラコル語

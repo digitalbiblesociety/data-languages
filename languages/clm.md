@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكلالام
     auto: true
+  - translation_iso: ben
+    name: কলাল্লাম
+    auto: true
   - translation_iso: deu
     name: Klallam
   - translation_iso: fra
     name: klallam
   - translation_iso: hin
     name: क्लालम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Clallam
     auto: true
   - translation_iso: jpn
     name: クラーラム語

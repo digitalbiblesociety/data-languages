@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونيتشي
     auto: true
+  - translation_iso: ben
+    name: মুনিচে
+    auto: true
   - translation_iso: deu
     name: Muniche
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: muniche
   - translation_iso: hin
     name: मुनिचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muniche
     auto: true
   - translation_iso: jpn
     name: ムニチェ語

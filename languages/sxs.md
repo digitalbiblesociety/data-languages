@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساساروا
     auto: true
+  - translation_iso: ben
+    name: সাসারু
+    auto: true
   - translation_iso: deu
     name: Sasaru
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ससारु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sasaru
     auto: true
   - translation_iso: jpn
     name: ササル語

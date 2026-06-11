@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانغكو
     auto: true
+  - translation_iso: ben
+    name: তাংকো
+    auto: true
   - translation_iso: deu
     name: Tangko
     auto: true

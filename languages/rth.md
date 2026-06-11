@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راتاهان
     auto: true
+  - translation_iso: ben
+    name: রাতাহান
+    auto: true
   - translation_iso: deu
     name: Ratahan
   - translation_iso: fra

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تشينتانغي
     auto: true
+  - translation_iso: ben
+    name: চহিনতাঙে
+    auto: true
   - translation_iso: deu
     name: Chintang
   - translation_iso: fra
     name: chintang
   - translation_iso: hin
     name: छिन्ताङ
+  - translation_iso: ind
+    name: Bahasa Chhintange
+    auto: true
   - translation_iso: jpn
     name: チンタンゲ語
     auto: true

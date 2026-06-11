@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अंदाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andai
+    auto: true
   - translation_iso: jpn
     name: アンダイ語
     auto: true

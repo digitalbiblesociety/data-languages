@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيه
     auto: true
+  - translation_iso: ben
+    name: জেহ
+    auto: true
   - translation_iso: deu
     name: Jeh
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जेह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jeh
     auto: true
   - translation_iso: jpn
     name: ジェ語

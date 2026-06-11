@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेराकू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Berakou
+    auto: true
   - translation_iso: jpn
     name: ベラク語
     auto: true

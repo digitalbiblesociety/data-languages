@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سابوم
     auto: true
+  - translation_iso: ben
+    name: সাবুম
+    auto: true
   - translation_iso: deu
     name: Sabüm
     auto: true

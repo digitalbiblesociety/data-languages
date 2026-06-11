@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تشوابان
     auto: true
+  - translation_iso: ben
+    name: চোয়াপান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Choapan)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Choapan
   - translation_iso: hin
     name: चोआपन सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Choapan Zapotec
     auto: true
   - translation_iso: jpn
     name: チョアパン・サポテク語

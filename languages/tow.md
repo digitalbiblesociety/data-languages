@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جيميز
     auto: true
+  - translation_iso: ben
+    name: জেমেজ
+    auto: true
   - translation_iso: deu
     name: Towa
   - translation_iso: fra
     name: jemez
   - translation_iso: hin
     name: जेमेज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jemez
     auto: true
   - translation_iso: jpn
     name: トワ語

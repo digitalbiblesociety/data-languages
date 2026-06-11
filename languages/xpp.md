@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بويو-بايكتشي
     auto: true
+  - translation_iso: ben
+    name: পুয়ো-পাএকচে
+    auto: true
   - translation_iso: deu
     name: Puyo-Paekche
     auto: true
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुयो-पेक्चे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puyo-Paekche
     auto: true
   - translation_iso: jpn
     name: プヨ・ペクチェ語

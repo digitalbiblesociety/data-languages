@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كيميدزونج
     auto: true
+  - translation_iso: ben
+    name: কেমেদজুং
+    auto: true
   - translation_iso: deu
     name: Kemezung
   - translation_iso: fra
     name: kemedzung
   - translation_iso: hin
     name: केमेद्ज़ुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kemedzung
     auto: true
   - translation_iso: jpn
     name: ケメドズング語

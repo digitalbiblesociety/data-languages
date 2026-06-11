@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشودري
     auto: true
+  - translation_iso: ben
+    name: চোদরি
+    auto: true
   - translation_iso: deu
     name: Chodri
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चोधरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chodri
     auto: true
   - translation_iso: jpn
     name: チョドリ語

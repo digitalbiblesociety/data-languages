@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساجالونج
     auto: true
+  - translation_iso: ben
+    name: সাজালোং
+    auto: true
   - translation_iso: deu
     name: Sajalong
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: miji
   - translation_iso: hin
     name: साजालोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sajalong
     auto: true
   - translation_iso: jpn
     name: ミジ諸語

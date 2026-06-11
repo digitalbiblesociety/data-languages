@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अराबेला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arabela
+    auto: true
   - translation_iso: jpn
     name: アラベラ語
   - translation_iso: kor

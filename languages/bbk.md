@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बबांकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Babanki
+    auto: true
   - translation_iso: jpn
     name: ババンキ語
     auto: true

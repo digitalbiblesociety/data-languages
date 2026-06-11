@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: सान्तो डोमिंगो अल्बाराडास सैपोटेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Santo Domingo Albarradas Zapotec
+    auto: true
   - translation_iso: jpn
     name: サント・ドミンゴ・アルバラダス・サポテク語
     auto: true

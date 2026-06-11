@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अपलाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apalaí
+    auto: true
   - translation_iso: jpn
     name: アパライ語
   - translation_iso: kor

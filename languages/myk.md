@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مامارا سينوفو
     auto: true
+  - translation_iso: ben
+    name: মামারা সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Mamara
   - translation_iso: fra
     name: mamara
   - translation_iso: hin
     name: मामारा सेनोउफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mamara Senoufo
     auto: true
   - translation_iso: jpn
     name: ママラ・セヌフォ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: فيتي
     auto: true
+  - translation_iso: ben
+    name: ভিতি
+    auto: true
   - translation_iso: deu
     name: Viti
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: viti
   - translation_iso: hin
     name: विति
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Viti
     auto: true
   - translation_iso: jpn
     name: ヴォットー語

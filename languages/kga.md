@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كويايا
     auto: true
+  - translation_iso: ben
+    name: কোয়াগা
+    auto: true
   - translation_iso: deu
     name: Koyaga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koyaga
   - translation_iso: hin
     name: कोयागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koyaga
     auto: true
   - translation_iso: jpn
     name: コヤガ語

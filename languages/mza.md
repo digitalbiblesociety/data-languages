@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سانتا ماريا ساكاتيبيك ميكستك
     auto: true
+  - translation_iso: ben
+    name: সানতা মারিয়া জাকাতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Santa-María-Zacatepec-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सांता मारिया साकातेपेक मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa María Zacatepec Mixtec
     auto: true
   - translation_iso: jpn
     name: サンタ・マリア・サカテペック・ミステク語

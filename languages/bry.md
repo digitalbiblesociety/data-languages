@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوروي
     auto: true
+  - translation_iso: ben
+    name: বুরুই
+    auto: true
   - translation_iso: deu
     name: Burui
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: burui
   - translation_iso: hin
     name: बुरुई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burui
     auto: true
   - translation_iso: jpn
     name: ブルイ語

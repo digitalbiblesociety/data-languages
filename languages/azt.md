@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاير أتا
     auto: true
+  - translation_iso: ben
+    name: ফাইরে আত্তা
+    auto: true
   - translation_iso: deu
     name: Faire-Atta
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: atta de Faire
   - translation_iso: hin
     name: फेयर अत्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Faire Atta
     auto: true
   - translation_iso: jpn
     name: フェアレ・アッタ語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shenwa_language"
 translations:
   - translation_iso: ara
     name: لغة شناوية
+  - translation_iso: ben
+    name: চেনোউয়া
+    auto: true
   - translation_iso: deu
     name: Chenoua
   - translation_iso: fra
     name: chenoui
   - translation_iso: hin
     name: शेनुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chenoua
     auto: true
   - translation_iso: jpn
     name: シェヌア語

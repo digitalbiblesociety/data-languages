@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لول
     auto: true
+  - translation_iso: ben
+    name: লুলে
+    auto: true
   - translation_iso: deu
     name: Lule
     auto: true
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लुले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lule
     auto: true
   - translation_iso: jpn
     name: ルレ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتيا سامو
     auto: true
+  - translation_iso: ben
+    name: মাতয়া সামো
+    auto: true
   - translation_iso: deu
     name: Matya Samo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: samo matya
   - translation_iso: hin
     name: मातया सामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matya Samo
     auto: true
   - translation_iso: jpn
     name: サネ語

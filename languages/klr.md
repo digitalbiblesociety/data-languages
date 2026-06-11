@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خالينج
     auto: true
+  - translation_iso: ben
+    name: খালিং
+    auto: true
   - translation_iso: deu
     name: Khaling
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khaling
   - translation_iso: hin
     name: खालिङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khaling
     auto: true
   - translation_iso: jpn
     name: ハリン語

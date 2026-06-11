@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالابكان
     auto: true
+  - translation_iso: ben
+    name: কালাবাকান
+    auto: true
   - translation_iso: deu
     name: Kalabakan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कालाबाकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalabakan
     auto: true
   - translation_iso: jpn
     name: カラバカン語

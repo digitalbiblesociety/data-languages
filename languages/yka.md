@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يakan
     auto: true
+  - translation_iso: ben
+    name: য়াকান
+    auto: true
   - translation_iso: deu
     name: Yakan
     auto: true

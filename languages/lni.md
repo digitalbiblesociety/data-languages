@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اانتاناي
     auto: true
+  - translation_iso: ben
+    name: দানতানাই
+    auto: true
   - translation_iso: deu
     name: Daantanai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दानतानाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daantanai
     auto: true
   - translation_iso: jpn
     name: ダアンタナイ語

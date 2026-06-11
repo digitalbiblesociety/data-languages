@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوسا
     auto: true
+  - translation_iso: ben
+    name: সাপোসা
+    auto: true
   - translation_iso: deu
     name: Saposa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: saposa
   - translation_iso: hin
     name: सापोसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saposa
     auto: true
   - translation_iso: jpn
     name: タイオフ語

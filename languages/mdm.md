@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوجو
     auto: true
+  - translation_iso: ben
+    name: মায়োগো
+    auto: true
   - translation_iso: deu
     name: Mayogo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mayogo
   - translation_iso: hin
     name: मायोगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayogo
     auto: true
   - translation_iso: jpn
     name: マヨゴ語

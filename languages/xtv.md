@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ثاوا
     auto: true
+  - translation_iso: ben
+    name: থাওয়া
+    auto: true
   - translation_iso: deu
     name: Thawa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: thawa
   - translation_iso: hin
     name: थावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thawa
     auto: true
   - translation_iso: jpn
     name: タワ語

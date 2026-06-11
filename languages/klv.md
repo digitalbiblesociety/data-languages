@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسكيليينس
     auto: true
+  - translation_iso: ben
+    name: মাসকেলয়নেস
+    auto: true
   - translation_iso: deu
     name: Maskelynes
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maskelynes
   - translation_iso: hin
     name: मास्केलिनेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maskelynes
     auto: true
   - translation_iso: jpn
     name: マスケリネス語

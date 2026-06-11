@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة كوهستاني إندوس
     auto: true
+  - translation_iso: ben
+    name: ইনদুস কোহিসতানি
+    auto: true
   - translation_iso: deu
     name: Indus-Kohistani
   - translation_iso: fra
     name: "kohistani de l'Indus"
   - translation_iso: hin
     name: कोहिस्तानी भाषा
+  - translation_iso: ind
+    name: Bahasa Indus Kohistani
+    auto: true
   - translation_iso: jpn
     name: インダス・コーヒスターン語
   - translation_iso: kor

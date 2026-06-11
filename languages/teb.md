@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تيتيتي
     auto: true
+  - translation_iso: ben
+    name: তেতেতে
+    auto: true
   - translation_iso: deu
     name: Tetete
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: tetete
   - translation_iso: hin
     name: तेतेते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tetete
     auto: true
   - translation_iso: jpn
     name: テテテ語

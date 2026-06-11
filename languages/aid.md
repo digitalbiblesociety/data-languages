@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अल्न्गिथ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alngith
+    auto: true
   - translation_iso: jpn
     name: アルンギス語
     auto: true

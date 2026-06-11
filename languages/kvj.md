@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بسيكي
     auto: true
+  - translation_iso: ben
+    name: পসিকয়ে
+    auto: true
   - translation_iso: deu
     name: Psikye
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: psikye
   - translation_iso: hin
     name: प्सिक्ये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Psikye
     auto: true
   - translation_iso: jpn
     name: プシキエ語

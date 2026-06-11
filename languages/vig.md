@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: فييمو
     auto: true
+  - translation_iso: ben
+    name: ভিএমো
+    auto: true
   - translation_iso: deu
     name: Viemo
   - translation_iso: fra
     name: viemo
   - translation_iso: hin
     name: विएमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Viemo
     auto: true
   - translation_iso: jpn
     name: ヴィゲ語

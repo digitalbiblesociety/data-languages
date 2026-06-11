@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: ben
+    name: বু
+    auto: true
   - translation_iso: deu
     name: Buu (Kamerun)
     auto: true
@@ -19,6 +22,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बू (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buu
     auto: true
   - translation_iso: jpn
     name: ブー語

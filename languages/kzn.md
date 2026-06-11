@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوكولا
     auto: true
+  - translation_iso: ben
+    name: কোকোলা
+    auto: true
   - translation_iso: deu
     name: Kokola
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kokola
   - translation_iso: hin
     name: कोकोला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kokola
     auto: true
   - translation_iso: jpn
     name: ココラ語

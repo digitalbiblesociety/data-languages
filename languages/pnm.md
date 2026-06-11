@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بونان باتو 1
     auto: true
+  - translation_iso: ben
+    name: পুনান বাতু
+    auto: true
   - translation_iso: deu
     name: Punan Batu 1
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: punan batu 1
   - translation_iso: hin
     name: पुनान बातू 1
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Punan Batu 1
     auto: true
   - translation_iso: jpn
     name: プナンバトゥ1語

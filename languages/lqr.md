@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة وجير
     auto: true
+  - translation_iso: ben
+    name: লোগির
+    auto: true
   - translation_iso: deu
     name: Logir
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लोगिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Logir
     auto: true
   - translation_iso: jpn
     name: ロギール語

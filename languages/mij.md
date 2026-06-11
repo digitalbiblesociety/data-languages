@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة أبار
     auto: true
+  - translation_iso: ben
+    name: আবার
+    auto: true
   - translation_iso: deu
     name: Abar
   - translation_iso: fra
     name: mungbam
   - translation_iso: hin
     name: अबार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Abar
     auto: true
   - translation_iso: jpn
     name: アバル語

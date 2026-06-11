@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوسا لاوت
     auto: true
+  - translation_iso: ben
+    name: নুসা লাউত
+    auto: true
   - translation_iso: deu
     name: Nusa Laut
     auto: true

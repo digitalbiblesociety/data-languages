@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الياسي
     auto: true
+  - translation_iso: ben
+    name: য়াকে
+    auto: true
   - translation_iso: deu
     name: Yace
   - translation_iso: fra
     name: yace
   - translation_iso: hin
     name: यासे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yace
     auto: true
   - translation_iso: jpn
     name: ヤセ語

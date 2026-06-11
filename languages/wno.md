@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وانو
     auto: true
+  - translation_iso: ben
+    name: ওয়ানো
+    auto: true
   - translation_iso: deu
     name: Wano
     auto: true

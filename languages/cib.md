@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سي غبي
     auto: true
+  - translation_iso: ben
+    name: কি গবে
+    auto: true
   - translation_iso: deu
     name: Ci Gbe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: Ci-gbe
   - translation_iso: hin
     name: सी ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ci Gbe
     auto: true
   - translation_iso: jpn
     name: スィ・ギベ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايجالي
     auto: true
+  - translation_iso: ben
+    name: ওয়াইগালি
+    auto: true
   - translation_iso: deu
     name: Waigali
   - translation_iso: fra

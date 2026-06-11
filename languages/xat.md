@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاتاويخي
     auto: true
+  - translation_iso: ben
+    name: কাতাওয়িকসি
+    auto: true
   - translation_iso: deu
     name: Katawixi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: katawixi
   - translation_iso: hin
     name: कातावीशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katawixi
     auto: true
   - translation_iso: jpn
     name: カタウィキシ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بارويا
     auto: true
+  - translation_iso: ben
+    name: বারুয়া
+    auto: true
   - translation_iso: deu
     name: Baruya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yipma
   - translation_iso: hin
     name: बारुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Baruya
     auto: true
   - translation_iso: jpn
     name: バルヤ語

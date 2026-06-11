@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سينتاني
     auto: true
+  - translation_iso: ben
+    name: সেনতানি
+    auto: true
   - translation_iso: deu
     name: Sentani
     auto: true

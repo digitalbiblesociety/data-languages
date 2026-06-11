@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موروكودو
     auto: true
+  - translation_iso: ben
+    name: মোরোকোদো
+    auto: true
   - translation_iso: deu
     name: Morokodo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: morokodo
   - translation_iso: hin
     name: मोरोकोडो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morokodo
     auto: true
   - translation_iso: jpn
     name: モロコド語

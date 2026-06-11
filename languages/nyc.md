@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نييانغا-لي
     auto: true
+  - translation_iso: ben
+    name: নয়াঙা-লি
+    auto: true
   - translation_iso: deu
     name: Nyanga-li
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyanga-li
   - translation_iso: hin
     name: न्यांगा-ली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyanga-li
     auto: true
   - translation_iso: jpn
     name: ニャンガ・リ語

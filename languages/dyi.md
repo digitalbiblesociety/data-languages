@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دجيميني سينوفو
     auto: true
+  - translation_iso: ben
+    name: দজিমিনি সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Dschimini
   - translation_iso: fra
     name: djimini
   - translation_iso: hin
     name: जिमिनी सेनुफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djimini Senoufo
     auto: true
   - translation_iso: jpn
     name: ジミニ・セヌーフォ語

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: غورونج
     auto: true
+  - translation_iso: ben
+    name: গুরুং
+    auto: true
   - translation_iso: deu
     name: Gurung
   - translation_iso: fra
     name: gouroung
   - translation_iso: hin
     name: गुरुंग भाषा
+  - translation_iso: ind
+    name: Bahasa Gurung
+    auto: true
   - translation_iso: jpn
     name: グルン語
   - translation_iso: kor

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बबीन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Babine
+    auto: true
   - translation_iso: jpn
     name: バビーネ語
     auto: true

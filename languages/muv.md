@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موتوفان
     auto: true
+  - translation_iso: ben
+    name: মুথুভান
+    auto: true
   - translation_iso: deu
     name: Muthuvan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muduva
   - translation_iso: hin
     name: मुथुवन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muthuvan
     auto: true
   - translation_iso: jpn
     name: ムトゥヴァン語

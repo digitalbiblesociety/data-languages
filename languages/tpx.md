@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आकातेपेक मेफा
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Acatepec Me'phaa"
+    auto: true
   - translation_iso: jpn
     name: メーファア語
     auto: true

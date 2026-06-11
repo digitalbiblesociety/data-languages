@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: إيرانون
     auto: true
+  - translation_iso: ben
+    name: ইরানুন
+    auto: true
   - translation_iso: deu
     name: Iranun (Malaysia)
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: iranun
   - translation_iso: hin
     name: इरानुन (मलेशिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iranun
     auto: true
   - translation_iso: jpn
     name: イラヌン語

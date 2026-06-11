@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: إيبو
     auto: true
+  - translation_iso: ben
+    name: ইবু
+    auto: true
   - translation_iso: deu
     name: Ibu
     auto: true

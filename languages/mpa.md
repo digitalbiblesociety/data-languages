@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوتو
     auto: true
+  - translation_iso: ben
+    name: মপোতো
+    auto: true
   - translation_iso: deu
     name: Mpoto
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Mpoto
   - translation_iso: hin
     name: म्पोटो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mpoto
     auto: true
   - translation_iso: jpn
     name: ムポト語

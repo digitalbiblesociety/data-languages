@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغاد
     auto: true
+  - translation_iso: ben
+    name: য়োগাদ
+    auto: true
   - translation_iso: deu
     name: Yogad
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: योगाद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yogad
     auto: true
   - translation_iso: jpn
     name: ヨガド語

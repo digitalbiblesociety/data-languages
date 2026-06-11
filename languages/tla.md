@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوان الجنوبية الغربية
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন তেপেহুয়ান
+    auto: true
   - translation_iso: deu
     name: Südwestliches Tepehuan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tepehuan du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिमी तेपेहुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Tepehuan
     auto: true
   - translation_iso: jpn
     name: 南西テペフアン語

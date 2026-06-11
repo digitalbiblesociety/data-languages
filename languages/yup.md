@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكبا
     auto: true
+  - translation_iso: ben
+    name: য়ুকপা
+    auto: true
   - translation_iso: deu
     name: Yukpa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yukpa
   - translation_iso: hin
     name: युकपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yukpa
     auto: true
   - translation_iso: jpn
     name: ユクパ語

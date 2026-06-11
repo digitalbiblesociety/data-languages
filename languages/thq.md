@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تشوتشيلا ثارو
     auto: true
+  - translation_iso: ben
+    name: কোচিলা থারু
+    auto: true
   - translation_iso: deu
     name: Kochila Tharu
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: kochila
   - translation_iso: hin
     name: कोचिला थारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kochila Tharu
     auto: true
   - translation_iso: jpn
     name: コチラ・タル語

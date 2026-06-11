@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوراون صادري
     auto: true
+  - translation_iso: ben
+    name: ওরাওন সাদরি
+    auto: true
   - translation_iso: deu
     name: Oraon-Sadri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sadri oraon
   - translation_iso: hin
     name: ओराओं सादरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oraon Sadri
     auto: true
   - translation_iso: jpn
     name: ナグプリ語

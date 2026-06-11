@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجبانو
     auto: true
+  - translation_iso: ben
+    name: গবানু
+    auto: true
   - translation_iso: deu
     name: Gbanu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ग्बानु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbanu
     auto: true
   - translation_iso: jpn
     name: ガバヌ語

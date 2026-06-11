@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: ऑस्ट्रल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Austral
+    auto: true
   - translation_iso: jpn
     name: オーストラル語
   - translation_iso: kor

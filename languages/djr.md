@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دجامبارپونجو
     auto: true
+  - translation_iso: ben
+    name: দজামবার্রপুয়ঙু
+    auto: true
   - translation_iso: deu
     name: Djambarrpuyngu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जंबर्रपुयंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djambarrpuyngu
     auto: true
   - translation_iso: jpn
     name: ジャンバルプイング語

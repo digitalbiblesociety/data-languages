@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومو
     auto: true
+  - translation_iso: ben
+    name: সুমাউ
+    auto: true
   - translation_iso: deu
     name: Sumau
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुमाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sumau
     auto: true
   - translation_iso: jpn
     name: ガリア語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مايدو الشمالية الشرقية
     auto: true
+  - translation_iso: ben
+    name: নোরথেয়াসত মাইদু
+    auto: true
   - translation_iso: deu
     name: Maidu
   - translation_iso: fra
     name: maidu
   - translation_iso: hin
     name: पूर्वोत्तर माइदू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northeast Maidu
     auto: true
   - translation_iso: jpn
     name: マイドゥ語

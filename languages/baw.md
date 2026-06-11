@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بامبيلي-بامبوي
     auto: true
+  - translation_iso: ben
+    name: বামবিলি-বামবুই
+    auto: true
   - translation_iso: deu
     name: Bambili-Bambui
   - translation_iso: fra
     name: bambili-bambui
   - translation_iso: hin
     name: बम्बिली-बम्बुई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bambili-Bambui
     auto: true
   - translation_iso: jpn
     name: バンビリ・バンブイ語

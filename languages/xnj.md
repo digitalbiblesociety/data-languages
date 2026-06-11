@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشينجوني
     auto: true
+  - translation_iso: ben
+    name: চিঙোনি
+    auto: true
   - translation_iso: deu
     name: Chingoni
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngoni de Tanzanie
   - translation_iso: hin
     name: चिंगोनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chingoni
     auto: true
   - translation_iso: jpn
     name: チンゴニ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تانيموكا ريتواريا
     auto: true
+  - translation_iso: ben
+    name: তানিমুকা-রেতুয়ারা
+    auto: true
   - translation_iso: deu
     name: Tanimuca-Retuarã
   - translation_iso: fra
     name: tanimuca
   - translation_iso: hin
     name: तानिमुका-रेतुआरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanimuca-Retuarã
     auto: true
   - translation_iso: jpn
     name: タニムカ・レトゥアラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة منونج الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মনোং
+    auto: true
   - translation_iso: deu
     name: Eastern Mnong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी म्नोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Mnong
     auto: true
   - translation_iso: jpn
     name: イースタン・ムノング語

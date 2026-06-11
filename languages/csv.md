@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سومتو تشين
     auto: true
+  - translation_iso: ben
+    name: সুমতু চিন
+    auto: true
   - translation_iso: deu
     name: Sumtu-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुम्तू चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sumtu Chin
     auto: true
   - translation_iso: jpn
     name: スムツ・チン語

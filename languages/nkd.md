@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويرينغ
     auto: true
+  - translation_iso: ben
+    name: কোইরেং
+    auto: true
   - translation_iso: deu
     name: Koireng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koireng
   - translation_iso: hin
     name: कोइरेंग भाषा
+  - translation_iso: ind
+    name: Bahasa Koireng
+    auto: true
   - translation_iso: jpn
     name: コイレン語
     auto: true

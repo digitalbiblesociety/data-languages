@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وتاندوكهي يكستيك
     auto: true
+  - translation_iso: ben
+    name: য়ুতানদুচি মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Yutanduchi Mixtec
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Yutanduchi
   - translation_iso: hin
     name: युतान्दुची मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yutanduchi Mixtec
     auto: true
   - translation_iso: jpn
     name: ユタンドゥチ・ミステク語

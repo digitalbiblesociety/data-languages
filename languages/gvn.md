@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوكو-يآلآنجي
     auto: true
+  - translation_iso: ben
+    name: কুকু-য়ালানজি
+    auto: true
   - translation_iso: deu
     name: Kuku-Yalanji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuku-yalanji
   - translation_iso: hin
     name: कुकू-यालन्जी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuku-Yalanji
     auto: true
   - translation_iso: jpn
     name: クク・ヤラニ語

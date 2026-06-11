@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوفيار
     auto: true
+  - translation_iso: ben
+    name: কোফয়ার
+    auto: true
   - translation_iso: deu
     name: Kofyar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोफ्यार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kofyar
     auto: true
   - translation_iso: jpn
     name: コフヤル語

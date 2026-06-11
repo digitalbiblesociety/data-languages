@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: قابياو
     auto: true
+  - translation_iso: ben
+    name: কাবিয়াও
+    auto: true
   - translation_iso: deu
     name: Qabiao
     auto: true

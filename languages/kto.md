@@ -17,12 +17,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kuot_language"
 translations:
   - translation_iso: ara
     name: لغة كووت
+  - translation_iso: ben
+    name: কুওত
+    auto: true
   - translation_iso: deu
     name: Kuot
   - translation_iso: fra
     name: kuot
   - translation_iso: hin
     name: कुओट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuot
     auto: true
   - translation_iso: jpn
     name: クオット語

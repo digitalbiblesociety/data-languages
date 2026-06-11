@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة ياويجيبايا
     auto: true
+  - translation_iso: ben
+    name: য়াওয়িজিবায়া
+    auto: true
   - translation_iso: deu
     name: Yawijibaya
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: yawijibaya
   - translation_iso: hin
     name: यविजिबाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yawijibaya
     auto: true
   - translation_iso: jpn
     name: ヤウィジバヤ語

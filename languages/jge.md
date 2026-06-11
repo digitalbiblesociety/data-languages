@@ -16,12 +16,18 @@ translations:
   - translation_iso: ara
     name: لغة يهودية جورجية
     auto: true
+  - translation_iso: ben
+    name: জুদেও-গেওরগিয়ান
+    auto: true
   - translation_iso: deu
     name: Judäo-Georgisch
   - translation_iso: fra
     name: judéo-géorgien
   - translation_iso: hin
     name: यहूदी-जॉर्जियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Judeo-Georgian
     auto: true
   - translation_iso: jpn
     name: グルジン語

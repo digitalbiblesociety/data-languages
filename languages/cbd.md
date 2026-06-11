@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاريجونا
     auto: true
+  - translation_iso: ben
+    name: কারিজোনা
+    auto: true
   - translation_iso: deu
     name: Carijona
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: carijona
   - translation_iso: hin
     name: कारिजोना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Carijona
     auto: true
   - translation_iso: jpn
     name: カリホナ語

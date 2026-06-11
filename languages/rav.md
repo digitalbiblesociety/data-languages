@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سامبانج
     auto: true
+  - translation_iso: ben
+    name: সামপাং
+    auto: true
   - translation_iso: deu
     name: Sampang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sampang
   - translation_iso: hin
     name: सामपांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sampang
     auto: true
   - translation_iso: jpn
     name: サンパン語

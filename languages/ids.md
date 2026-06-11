@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: إيديسا
     auto: true
+  - translation_iso: ben
+    name: ইদেসা
+    auto: true
   - translation_iso: deu
     name: Idesa
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: idesa
   - translation_iso: hin
     name: इदेसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idesa
     auto: true
   - translation_iso: jpn
     name: イデサ語

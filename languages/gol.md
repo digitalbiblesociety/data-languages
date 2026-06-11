@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غولآ
     auto: true
+  - translation_iso: ben
+    name: গোলা
+    auto: true
   - translation_iso: deu
     name: Gola
   - translation_iso: fra
     name: gola
   - translation_iso: hin
     name: गोला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gola
     auto: true
   - translation_iso: jpn
     name: ゴラ語

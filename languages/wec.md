@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: و ويستيرن
     auto: true
+  - translation_iso: ben
+    name: ওয়ে ওয়েসতেরন
+    auto: true
   - translation_iso: deu
     name: West-Wè
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: guéré occidental
   - translation_iso: hin
     name: वे पश्चिमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wè Western
     auto: true
   - translation_iso: jpn
     name: ウェ・ウェスタン語

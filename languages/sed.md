@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيدانج
     auto: true
+  - translation_iso: ben
+    name: সেদাং
+    auto: true
   - translation_iso: deu
     name: Sedang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sedang
   - translation_iso: hin
     name: सेदांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sedang
     auto: true
   - translation_iso: jpn
     name: セダン語

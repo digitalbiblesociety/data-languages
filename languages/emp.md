@@ -18,6 +18,9 @@ glottolog_classification: "Chocoan > Embera > Atrato > Panama-Baudo-Atrato > Nor
 wikidata_id: Q2391297
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ember%C3%A1_language"
 translations:
+  - translation_iso: ben
+    name: নোরথেরন এমবেরা
+    auto: true
   - translation_iso: deu
     name: Nord-Emberá
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: emberá darién
   - translation_iso: hin
     name: उत्तरी एम्बेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Emberá
     auto: true
   - translation_iso: jpn
     name: 北エンベラ語

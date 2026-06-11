@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جيليم
     auto: true
+  - translation_iso: ben
+    name: জিলিম
+    auto: true
   - translation_iso: deu
     name: Jilim
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जिलिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jilim
     auto: true
   - translation_iso: jpn
     name: ジリム語

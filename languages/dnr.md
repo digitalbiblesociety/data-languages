@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دانارو
     auto: true
+  - translation_iso: ben
+    name: দানারু
+    auto: true
   - translation_iso: deu
     name: Danaru
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दानारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Danaru
     auto: true
   - translation_iso: jpn
     name: ダナル語

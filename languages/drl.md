@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: باكانتي
     auto: true
+  - translation_iso: ben
+    name: পাকানতয়ি
+    auto: true
   - translation_iso: deu
     name: Paakantyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: darling
   - translation_iso: hin
     name: पाकंत्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paakantyi
     auto: true
   - translation_iso: jpn
     name: バーガンジ語

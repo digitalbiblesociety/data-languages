@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوهامي
     auto: true
+  - translation_iso: ben
+    name: উহামি
+    auto: true
   - translation_iso: deu
     name: Uhami
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उहामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uhami
     auto: true
   - translation_iso: jpn
     name: イシュア語

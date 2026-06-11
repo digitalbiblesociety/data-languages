@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة ياكا
     auto: true
+  - translation_iso: ben
+    name: য়াকা
+    auto: true
   - translation_iso: deu
     name: Yaka
   - translation_iso: fra
     name: yaka
   - translation_iso: hin
     name: याका (कांगो)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaka
     auto: true
   - translation_iso: jpn
     name: ヤカ語

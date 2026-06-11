@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نيسي الصينية
     auto: true
+  - translation_iso: ben
+    name: নিসি
+    auto: true
   - translation_iso: deu
     name: Nisi (China)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निसी (चीन)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nisi
     auto: true
   - translation_iso: jpn
     name: ニシ語（中国）

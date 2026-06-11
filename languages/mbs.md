@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ساراجاني مانوبو
     auto: true
+  - translation_iso: ben
+    name: সারাঙানি মানোবো
+    auto: true
   - translation_iso: deu
     name: Sarangani Manobo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सारंगानी मानोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sarangani Manobo
     auto: true
   - translation_iso: jpn
     name: サランガニ・マノボ語

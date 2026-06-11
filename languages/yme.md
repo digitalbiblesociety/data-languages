@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامو
     auto: true
+  - translation_iso: ben
+    name: য়ামেও
+    auto: true
   - translation_iso: deu
     name: Yameo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yameo
   - translation_iso: hin
     name: यामेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yameo
     auto: true
   - translation_iso: jpn
     name: ヤメオ語

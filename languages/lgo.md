@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة انجو
     auto: true
+  - translation_iso: ben
+    name: লাঙো
+    auto: true
   - translation_iso: deu
     name: Lango (Südsudan)
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: lango
   - translation_iso: hin
     name: लांगो (दक्षिण सूडान)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lango
     auto: true
   - translation_iso: jpn
     name: ランゴ語

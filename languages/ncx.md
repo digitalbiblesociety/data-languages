@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينترال بويبلا ناهواتل
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল পুএবলা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Zentral-Puebla-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl du Puebla central
   - translation_iso: hin
     name: मध्य पुएब्ला नाहुआत्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Puebla Nahuatl
     auto: true
   - translation_iso: jpn
     name: 中央プエブラ・ナワトル語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سوبي
     auto: true
+  - translation_iso: ben
+    name: সুবি
+    auto: true
   - translation_iso: deu
     name: Subi
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: subi
   - translation_iso: hin
     name: सुबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Subi
     auto: true
   - translation_iso: jpn
     name: スビ語

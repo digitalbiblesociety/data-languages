@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ورانج
     auto: true
+  - translation_iso: ben
+    name: লোরাং
+    auto: true
   - translation_iso: deu
     name: Lorang
     auto: true

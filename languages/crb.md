@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كاريب الجزيرة
     auto: true
+  - translation_iso: ben
+    name: ইসলানদ কারিব
+    auto: true
   - translation_iso: deu
     name: Insel-Karibisch
   - translation_iso: fra
     name: karipoun insulaire
   - translation_iso: hin
     name: द्वीपीय कैरिब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Island Carib
     auto: true
   - translation_iso: jpn
     name: 島嶼カリブ語

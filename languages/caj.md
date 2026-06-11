@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تشاني
     auto: true
+  - translation_iso: ben
+    name: চানে
+    auto: true
   - translation_iso: deu
     name: Chané
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: chané
   - translation_iso: hin
     name: चाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chané
     auto: true
   - translation_iso: jpn
     name: チャネ語

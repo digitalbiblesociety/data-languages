@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ليوتشيان زوانغ
     auto: true
+  - translation_iso: ben
+    name: লিউকিয়ান ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Liuqian-Zhuang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhuang de Liuqian
   - translation_iso: hin
     name: लिउचियान ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Liuqian Zhuang
     auto: true
   - translation_iso: jpn
     name: 柳黔チワン語

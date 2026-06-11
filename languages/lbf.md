@@ -30,6 +30,9 @@ translations:
     name: tinani
   - translation_iso: hin
     name: तिनान भाषा
+  - translation_iso: ind
+    name: Bahasa Tinani
+    auto: true
   - translation_iso: jpn
     name: ティナニ語
     auto: true

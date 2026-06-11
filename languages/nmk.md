@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نامكورا
     auto: true
+  - translation_iso: ben
+    name: নামাকুরা
+    auto: true
   - translation_iso: deu
     name: Namakura
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: namakura
   - translation_iso: hin
     name: नामाकुरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namakura
     auto: true
   - translation_iso: jpn
     name: ナマクラ語

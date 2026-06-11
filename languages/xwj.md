@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: واجوك
     auto: true
+  - translation_iso: ben
+    name: ওয়াজুক
+    auto: true
   - translation_iso: deu
     name: Wajuk
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: wajuk
   - translation_iso: hin
     name: वाजुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wajuk
     auto: true
   - translation_iso: jpn
     name: ワジュク語

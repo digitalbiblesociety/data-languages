@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: يامبا
     auto: true
+  - translation_iso: ben
+    name: য়ামবা
+    auto: true
   - translation_iso: deu
     name: Yamba
   - translation_iso: fra
     name: yamba
   - translation_iso: hin
     name: यांबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yamba
     auto: true
   - translation_iso: jpn
     name: ヤンバ語

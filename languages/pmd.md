@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالانجانميدانج
     auto: true
+  - translation_iso: ben
+    name: পাল্লাঙানমিদ্দাং
+    auto: true
   - translation_iso: deu
     name: Pallanganmiddang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pallanganmiddang
   - translation_iso: hin
     name: पल्लांगनमिद्दांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pallanganmiddang
     auto: true
   - translation_iso: jpn
     name: パランガンミッダン語

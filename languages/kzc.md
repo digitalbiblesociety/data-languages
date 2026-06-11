@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كولانجو بوندوكو
     auto: true
+  - translation_iso: ben
+    name: বোনদোউকোউ কুলাঙো
+    auto: true
   - translation_iso: deu
     name: Bondoukou-Kulango
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koulango de Bondoukou
   - translation_iso: hin
     name: बोंडुकू कुलांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bondoukou Kulango
     auto: true
   - translation_iso: jpn
     name: ボンドゥークー・クランゴ語

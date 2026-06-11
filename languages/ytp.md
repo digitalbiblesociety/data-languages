@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ثوفو
     auto: true
+  - translation_iso: ben
+    name: থোফো
+    auto: true
   - translation_iso: deu
     name: Thopho
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: थोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thopho
     auto: true
   - translation_iso: jpn
     name: ソッフォ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تسيتساوت
     auto: true
+  - translation_iso: ben
+    name: তসেতসাউত
+    auto: true
   - translation_iso: deu
     name: Tsetsaut
   - translation_iso: fra
     name: tsetsaut
   - translation_iso: hin
     name: त्सेत्साउत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsetsaut
     auto: true
   - translation_iso: jpn
     name: ウェタル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة دادبي
     auto: true
+  - translation_iso: ben
+    name: দাদিবি
+    auto: true
   - translation_iso: deu
     name: Dadibi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dadibi
   - translation_iso: hin
     name: दादिबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dadibi
     auto: true
   - translation_iso: jpn
     name: ダリビ語

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتي
     auto: true
+  - translation_iso: ben
+    name: ওতি
+    auto: true
   - translation_iso: deu
     name: Oti
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: otí
   - translation_iso: hin
     name: ओती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oti
     auto: true
   - translation_iso: jpn
     name: オティ語

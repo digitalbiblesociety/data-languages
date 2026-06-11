@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شيريانا
     auto: true
+  - translation_iso: ben
+    name: কসিরিয়ানা
+    auto: true
   - translation_iso: deu
     name: Xiriâna
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शिरियाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xiriâna
     auto: true
   - translation_iso: jpn
     name: シリアナ語 (アラワク)

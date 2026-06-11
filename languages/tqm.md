@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توروما سا
     auto: true
+  - translation_iso: ben
+    name: তুরুমসা
+    auto: true
   - translation_iso: deu
     name: Turumsa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: turumsa
   - translation_iso: hin
     name: तुरुम्सा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Turumsa
     auto: true
   - translation_iso: jpn
     name: トゥルムサ語

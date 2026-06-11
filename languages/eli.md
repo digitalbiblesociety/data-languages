@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: النديج
     auto: true
+  - translation_iso: ben
+    name: নদিং
+    auto: true
   - translation_iso: deu
     name: Nding
   - translation_iso: fra
     name: nding
   - translation_iso: hin
     name: एनडिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nding
     auto: true
   - translation_iso: jpn
     name: ンディング語

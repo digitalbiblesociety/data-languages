@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توالي إيفوغاو
     auto: true
+  - translation_iso: ben
+    name: তুওয়ালি ইফুগাও
+    auto: true
   - translation_iso: deu
     name: Tuwali-Ifugao
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुवाली इफुगाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuwali Ifugao
     auto: true
   - translation_iso: jpn
     name: トゥワリ・イフガオ語

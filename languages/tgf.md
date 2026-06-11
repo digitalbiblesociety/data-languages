@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشاليخا
     auto: true
+  - translation_iso: ben
+    name: চালিখা
+    auto: true
   - translation_iso: deu
     name: Chalikha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chalikha
   - translation_iso: hin
     name: चालिखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chalikha
     auto: true
   - translation_iso: jpn
     name: チャリ語

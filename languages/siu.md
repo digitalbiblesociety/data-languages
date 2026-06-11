@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السينجن
     auto: true
+  - translation_iso: ben
+    name: সিনাগেন
+    auto: true
   - translation_iso: deu
     name: Sinagen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sinagen
   - translation_iso: hin
     name: सिनागेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sinagen
     auto: true
   - translation_iso: jpn
     name: ガル語

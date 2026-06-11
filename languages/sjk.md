@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: केमी सामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kemi Sami
+    auto: true
   - translation_iso: jpn
     name: ケミ・サーミ語
   - translation_iso: kor

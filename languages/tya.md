@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاويا
     auto: true
+  - translation_iso: ben
+    name: তাউয়া
+    auto: true
   - translation_iso: deu
     name: Tauya
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तौया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tauya
     auto: true
   - translation_iso: jpn
     name: フォウポ語

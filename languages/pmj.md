@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بومي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন পুমি
+    auto: true
   - translation_iso: deu
     name: Südliches Pumi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: primi méridional
   - translation_iso: hin
     name: दक्षिणी पुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Pumi
     auto: true
   - translation_iso: jpn
     name: 南プミ語

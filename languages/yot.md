@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوتي
     auto: true
+  - translation_iso: ben
+    name: য়োত্তি
+    auto: true
   - translation_iso: deu
     name: Yotti
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: yotti
   - translation_iso: hin
     name: योट्टी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yotti
     auto: true
   - translation_iso: jpn
     name: ヨッティ語

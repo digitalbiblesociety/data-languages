@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हड़ौती भाषा
+  - translation_iso: ind
+    name: Bahasa Hadothi
+    auto: true
   - translation_iso: jpn
     name: ハーラウト方言
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سولي
     auto: true
+  - translation_iso: ben
+    name: সোলি
+    auto: true
   - translation_iso: deu
     name: Soli
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Soli
     auto: true
   - translation_iso: jpn
     name: チソリ語

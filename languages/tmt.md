@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماتي
     auto: true
+  - translation_iso: ben
+    name: তাসমাতে
+    auto: true
   - translation_iso: deu
     name: Tasmate
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tasmate
   - translation_iso: hin
     name: तासमाते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tasmate
     auto: true
   - translation_iso: jpn
     name: タスマテ語

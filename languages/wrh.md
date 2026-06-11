@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويرادجوري
     auto: true
+  - translation_iso: ben
+    name: ওয়িরাদজুরি
+    auto: true
   - translation_iso: deu
     name: Wiradjuri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wiradjuri
   - translation_iso: hin
     name: विराजुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wiradjuri
     auto: true
   - translation_iso: jpn
     name: ウィラドゥリ語

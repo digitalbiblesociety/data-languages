@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيكويا
     auto: true
+  - translation_iso: ben
+    name: সেকোয়া
+    auto: true
   - translation_iso: deu
     name: Secoya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: secoya
   - translation_iso: hin
     name: सेकोया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Secoya
     auto: true
   - translation_iso: jpn
     name: パイコカ語

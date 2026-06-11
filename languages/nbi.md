@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماو ناجا
     auto: true
+  - translation_iso: ben
+    name: মাও নাগা
+    auto: true
   - translation_iso: deu
     name: Mao-Naga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mao
   - translation_iso: hin
     name: माओ नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mao Naga
     auto: true
   - translation_iso: jpn
     name: マオ・ナガ語

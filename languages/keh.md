@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيك
     auto: true
+  - translation_iso: ben
+    name: কেয়াক
+    auto: true
   - translation_iso: deu
     name: Keak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: keak
   - translation_iso: hin
     name: केआक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keak
     auto: true
   - translation_iso: jpn
     name: キーク語

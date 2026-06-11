@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كونسو
     auto: true
+  - translation_iso: ben
+    name: কোনসো
+    auto: true
   - translation_iso: deu
     name: Konso
   - translation_iso: fra
     name: konso
   - translation_iso: hin
     name: कोंसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konso
     auto: true
   - translation_iso: jpn
     name: コンソ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيري
     auto: true
+  - translation_iso: ben
+    name: ঝিরে
+    auto: true
   - translation_iso: deu
     name: Zhire
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़िरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zhire
     auto: true
   - translation_iso: jpn
     name: ズィレ語

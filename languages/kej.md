@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كادار
     auto: true
+  - translation_iso: ben
+    name: কাদার
+    auto: true
   - translation_iso: deu
     name: Kadar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कादर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kadar
     auto: true
   - translation_iso: jpn
     name: カダル語

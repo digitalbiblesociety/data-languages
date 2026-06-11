@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتاموناي
     auto: true
+  - translation_iso: ben
+    name: পাতামোনা
+    auto: true
   - translation_iso: deu
     name: Patamona
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: patamona
   - translation_iso: hin
     name: पाटामोना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Patamona
     auto: true
   - translation_iso: jpn
     name: パタモナ語

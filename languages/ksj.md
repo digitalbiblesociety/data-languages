@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أواري
     auto: true
+  - translation_iso: ben
+    name: উয়ারে
+    auto: true
   - translation_iso: deu
     name: Uare
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उआरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uare
     auto: true
   - translation_iso: jpn
     name: ウアレ語

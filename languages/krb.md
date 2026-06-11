@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاركين
     auto: true
+  - translation_iso: ben
+    name: কারকিন
+    auto: true
   - translation_iso: deu
     name: Karkin
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: karkin
   - translation_iso: hin
     name: कार्किन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karkin
     auto: true
   - translation_iso: jpn
     name: カルキン語

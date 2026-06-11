@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كام
     auto: true
+  - translation_iso: ben
+    name: কাম
+    auto: true
   - translation_iso: deu
     name: Nyingwom
   - translation_iso: fra
     name: kam
   - translation_iso: hin
     name: काम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kam
     auto: true
   - translation_iso: jpn
     name: ニングォム語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لووية
     auto: true
+  - translation_iso: ben
+    name: কুনেইফোরম লুওয়িয়ান
+    auto: true
   - translation_iso: deu
     name: Keilschrift-Luwisch
   - translation_iso: fra
     name: louvite cunéiforme
   - translation_iso: hin
     name: कीलाक्षर लुवियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cuneiform Luwian
     auto: true
   - translation_iso: jpn
     name: 楔形文字ルウィ語

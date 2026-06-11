@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيركيري
     auto: true
+  - translation_iso: ben
+    name: কিরিকিরি
+    auto: true
   - translation_iso: deu
     name: Kirikiri
     auto: true

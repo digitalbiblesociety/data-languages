@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكومانغوتو
     auto: true
+  - translation_iso: ben
+    name: কুমানাগোতো
+    auto: true
   - translation_iso: deu
     name: Cumanagoto
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cumanagoto
   - translation_iso: hin
     name: कुमानागोतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cumanagoto
     auto: true
   - translation_iso: jpn
     name: クマナゴト語

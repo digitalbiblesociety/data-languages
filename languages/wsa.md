@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واريمبوري
     auto: true
+  - translation_iso: ben
+    name: ওয়ারেমবোরি
+    auto: true
   - translation_iso: deu
     name: Warembori
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warembori
   - translation_iso: hin
     name: वारेम्बोरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warembori
     auto: true
   - translation_iso: jpn
     name: ワレンボリ語

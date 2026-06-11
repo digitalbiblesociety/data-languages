@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوكو
     auto: true
+  - translation_iso: ben
+    name: কুকু
+    auto: true
   - translation_iso: deu
     name: Kuku
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: kuku
   - translation_iso: hin
     name: कुकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuku
     auto: true
   - translation_iso: jpn
     name: クク語

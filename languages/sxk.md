@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالابويا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কালাপুয়া
+    auto: true
   - translation_iso: deu
     name: Southern Kalapuya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kalapuya du Sud
   - translation_iso: hin
     name: दक्षिणी कालापुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Kalapuya
     auto: true
   - translation_iso: jpn
     name: ヨンカラ語

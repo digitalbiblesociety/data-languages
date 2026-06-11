@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ونجودا
     auto: true
+  - translation_iso: ben
+    name: লোঙুদা
+    auto: true
   - translation_iso: deu
     name: Longuda
   - translation_iso: fra
     name: longuda
   - translation_iso: hin
     name: लोंगुडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Longuda
     auto: true
   - translation_iso: jpn
     name: ロングダ語

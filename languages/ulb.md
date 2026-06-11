@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أولوكومي
     auto: true
+  - translation_iso: ben
+    name: উলুকওয়ুমি
+    auto: true
   - translation_iso: deu
     name: Ulukwumi
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उलुक्वुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ulukwumi
     auto: true
   - translation_iso: jpn
     name: オルクミ語

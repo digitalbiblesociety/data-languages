@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويجيوا
     auto: true
+  - translation_iso: ben
+    name: ওয়েজেওয়া
+    auto: true
   - translation_iso: deu
     name: Wejewa
     auto: true

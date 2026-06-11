@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تالينغا بويسي
     auto: true
+  - translation_iso: ben
+    name: তালিঙা-বওয়িসি
+    auto: true
   - translation_iso: deu
     name: Talinga-Bwisi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: talinga-bwisi
   - translation_iso: hin
     name: तालिंगा-ब्विसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Talinga-Bwisi
     auto: true
   - translation_iso: jpn
     name: タリンガ・ブウィシ語

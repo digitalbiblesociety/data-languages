@@ -33,6 +33,9 @@ translations:
   - translation_iso: hin
     name: बड़ा पुष्पी मियाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Large Flowery Miao
+    auto: true
   - translation_iso: jpn
     name: 大花苗語
   - translation_iso: kor

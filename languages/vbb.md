@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جنوب شرق بابار
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসত বাবার
+    auto: true
   - translation_iso: deu
     name: Südost-Babar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिणपूर्वी बबर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeast Babar
     auto: true
   - translation_iso: jpn
     name: 南東ババル語

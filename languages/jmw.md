@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة موواسي
     auto: true
+  - translation_iso: ben
+    name: মোউওয়াসে
+    auto: true
   - translation_iso: deu
     name: Mouwase
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: mouwase
   - translation_iso: hin
     name: मौवासे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mouwase
     auto: true
   - translation_iso: jpn
     name: モウワセ語

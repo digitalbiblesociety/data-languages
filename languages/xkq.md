@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كوروني
     auto: true
+  - translation_iso: ben
+    name: কোরোনি
+    auto: true
   - translation_iso: deu
     name: Koroni
     auto: true

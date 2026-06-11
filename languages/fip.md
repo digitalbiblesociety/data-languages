@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفيبا
     auto: true
+  - translation_iso: ben
+    name: ফিপা
+    auto: true
   - translation_iso: deu
     name: Fipa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fipa
   - translation_iso: hin
     name: फिपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fipa
     auto: true
   - translation_iso: jpn
     name: フィパ語

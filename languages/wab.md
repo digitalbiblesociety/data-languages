@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واب
     auto: true
+  - translation_iso: ben
+    name: ওয়াব
+    auto: true
   - translation_iso: deu
     name: Wab
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wab
   - translation_iso: hin
     name: वाब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wab
     auto: true
   - translation_iso: jpn
     name: ワブ語

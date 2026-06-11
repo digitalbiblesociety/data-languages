@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاتشي
     auto: true
+  - translation_iso: ben
+    name: লাচি
+    auto: true
   - translation_iso: deu
     name: Lachi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lachi
   - translation_iso: hin
     name: लाची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lachi
     auto: true
   - translation_iso: jpn
     name: ラチ語

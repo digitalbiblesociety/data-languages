@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييالي
     auto: true
+  - translation_iso: ben
+    name: নয়ালি
+    auto: true
   - translation_iso: deu
     name: Nyali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Nyali
   - translation_iso: hin
     name: न्याली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyali
     auto: true
   - translation_iso: jpn
     name: ニャリ語

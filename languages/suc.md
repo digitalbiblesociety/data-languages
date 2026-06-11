@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبانين الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন সুবানোন
+    auto: true
   - translation_iso: deu
     name: Western Subanon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "subanon de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी सुबानोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Subanon
     auto: true
   - translation_iso: jpn
     name: 西スバノン語

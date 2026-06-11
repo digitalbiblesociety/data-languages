@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ززاو
     auto: true
+  - translation_iso: ben
+    name: জাজাও
+    auto: true
   - translation_iso: deu
     name: Zazao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zazao
   - translation_iso: hin
     name: ज़ाज़ाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zazao
     auto: true
   - translation_iso: jpn
     name: ザザオ語

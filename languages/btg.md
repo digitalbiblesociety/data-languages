@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جاجْنوا بيتي
     auto: true
+  - translation_iso: ben
+    name: গাগনোয়া বেতে
+    auto: true
   - translation_iso: deu
     name: Gagnoa Bété
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bété de Gagnoa
   - translation_iso: hin
     name: गान्या बेते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gagnoa Bété
     auto: true
   - translation_iso: jpn
     name: ベテ語

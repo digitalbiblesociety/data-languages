@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاشيناهوا
     auto: true
+  - translation_iso: ben
+    name: কাশিনাহুয়া
+    auto: true
   - translation_iso: deu
     name: Cashinahua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cashinahua
   - translation_iso: hin
     name: काशिनावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cashinahua
     auto: true
   - translation_iso: jpn
     name: カシナワ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فامي
     auto: true
+  - translation_iso: ben
+    name: ভামে
+    auto: true
   - translation_iso: deu
     name: Vame
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vame
   - translation_iso: hin
     name: वामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vame
     auto: true
   - translation_iso: jpn
     name: ヴァメ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاندس
     auto: true
+  - translation_iso: ben
+    name: কানদাস
+    auto: true
   - translation_iso: deu
     name: Kandas
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kandas
   - translation_iso: hin
     name: कंदास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kandas
     auto: true
   - translation_iso: jpn
     name: カンダス語

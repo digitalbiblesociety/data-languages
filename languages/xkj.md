@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كاجالي
     auto: true
+  - translation_iso: ben
+    name: কাজালি
+    auto: true
   - translation_iso: deu
     name: Kadschali
   - translation_iso: fra
     name: kajali
   - translation_iso: hin
     name: कजाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kajali
     auto: true
   - translation_iso: jpn
     name: カジャリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "غولآ'آلآآ"
     auto: true
+  - translation_iso: ben
+    name: গুলালা
+    auto: true
   - translation_iso: deu
     name: "Gula'alaa"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gula’alaa
   - translation_iso: hin
     name: गुलाअला
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Gula'alaa"
     auto: true
   - translation_iso: jpn
     name: グラアラア語

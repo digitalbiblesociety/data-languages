@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: दक्षिणी अज़रबैजानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa South Azerbaijani
+    auto: true
   - translation_iso: jpn
     name: 南アゼルバイジャン語
   - translation_iso: kor

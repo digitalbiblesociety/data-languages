@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsakonian_Greek"
 translations:
   - translation_iso: ara
     name: اللغة التاسكونية
+  - translation_iso: ben
+    name: তসাকোনিয়ান
+    auto: true
   - translation_iso: deu
     name: Tsakonisch
   - translation_iso: fra

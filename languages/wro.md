@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وورروررا
     auto: true
+  - translation_iso: ben
+    name: ওয়োর্রোর্রা
+    auto: true
   - translation_iso: deu
     name: Worrorra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: worora
   - translation_iso: hin
     name: वोरोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Worrorra
     auto: true
   - translation_iso: jpn
     name: ウォロッラ語

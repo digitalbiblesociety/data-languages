@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكوما-ناتا-إيسينيي
     auto: true
+  - translation_iso: ben
+    name: ইকোমা-নাতা-ইসেনয়ে
+    auto: true
   - translation_iso: deu
     name: Ikoma-Nata-Isenye
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nata
   - translation_iso: hin
     name: इकोमा-नाता-इसेन्ये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikoma-Nata-Isenye
     auto: true
   - translation_iso: jpn
     name: イコマ・ナタ・イセンイェ語

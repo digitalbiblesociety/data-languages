@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكاماراتية
     auto: true
+  - translation_iso: ben
+    name: কুরমুকার
+    auto: true
   - translation_iso: deu
     name: Kurmukar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुरमुकार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kurmukar
     auto: true
   - translation_iso: jpn
     name: クルムカル語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة اسجيردي
     auto: true
+  - translation_iso: ben
+    name: লাসগেরদি
+    auto: true
   - translation_iso: deu
     name: Lasgerdi
   - translation_iso: fra
     name: lasgerdi
   - translation_iso: hin
     name: लासगेर्दी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lasgerdi
     auto: true
   - translation_iso: jpn
     name: ラースゲルド語

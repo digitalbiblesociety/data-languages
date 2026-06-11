@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: برو الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন বরু
+    auto: true
   - translation_iso: deu
     name: Western Bru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bru de l’Ouest
   - translation_iso: hin
     name: पश्चिमी ब्रू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Bru
     auto: true
   - translation_iso: jpn
     name: 西ブル語

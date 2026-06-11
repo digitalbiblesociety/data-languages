@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسانو
     auto: true
+  - translation_iso: ben
+    name: সিস্সানো
+    auto: true
   - translation_iso: deu
     name: Sissano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sissano
   - translation_iso: hin
     name: सिसानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sissano
     auto: true
   - translation_iso: jpn
     name: シサノ語

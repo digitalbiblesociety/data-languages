@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Chinese"
 translations:
   - translation_iso: ara
     name: الصينية الوسطى
+  - translation_iso: ben
+    name: লাতে মিদ্দলে চিনেসে
+    auto: true
   - translation_iso: deu
     name: Mittelchinesisch
   - translation_iso: fra

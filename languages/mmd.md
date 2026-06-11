@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونان
     auto: true
+  - translation_iso: ben
+    name: মাওনান
+    auto: true
   - translation_iso: deu
     name: Maonan
     auto: true

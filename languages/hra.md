@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हरंगखोल भाषा
+  - translation_iso: ind
+    name: Bahasa Hrangkhol
+    auto: true
   - translation_iso: jpn
     name: フランクホル語
     auto: true

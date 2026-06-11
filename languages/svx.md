@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: سكالفيان
     auto: true
+  - translation_iso: ben
+    name: সকালভিয়ান
+    auto: true
   - translation_iso: deu
     name: Skalvian
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: skalvien
   - translation_iso: hin
     name: स्कालवियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Skalvian
     auto: true
   - translation_iso: jpn
     name: スカロヴィア語

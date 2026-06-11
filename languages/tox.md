@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tobian_language"
 translations:
   - translation_iso: ara
     name: التوبيانية
+  - translation_iso: ben
+    name: তোবিয়ান
+    auto: true
   - translation_iso: deu
     name: Tobianisch
   - translation_iso: fra

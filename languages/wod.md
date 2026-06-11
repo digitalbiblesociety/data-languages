@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وولاني
     auto: true
+  - translation_iso: ben
+    name: ওয়োলানি
+    auto: true
   - translation_iso: deu
     name: Wolani
   - translation_iso: fra

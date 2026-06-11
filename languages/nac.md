@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناراك
     auto: true
+  - translation_iso: ben
+    name: নারাক
+    auto: true
   - translation_iso: deu
     name: Narak
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नाराक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Narak
     auto: true
   - translation_iso: jpn
     name: ナラク語

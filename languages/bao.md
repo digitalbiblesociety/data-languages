@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة وايمها
     auto: true
+  - translation_iso: ben
+    name: ওয়াইমাহা
+    auto: true
   - translation_iso: deu
     name: Waimaha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bara
   - translation_iso: hin
     name: वाइमाहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waimaha
     auto: true
   - translation_iso: jpn
     name: ワイマハ語

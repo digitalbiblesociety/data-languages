@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيمبو
     auto: true
+  - translation_iso: ben
+    name: সিমবো
+    auto: true
   - translation_iso: deu
     name: Simbo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: simbo
   - translation_iso: hin
     name: सिम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Simbo
     auto: true
   - translation_iso: jpn
     name: マデグス語

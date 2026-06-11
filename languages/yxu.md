@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة يويو
     auto: true
+  - translation_iso: ben
+    name: য়ুয়ু
+    auto: true
   - translation_iso: deu
     name: Yuyu
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: युयु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yuyu
     auto: true
   - translation_iso: jpn
     name: ユユ語

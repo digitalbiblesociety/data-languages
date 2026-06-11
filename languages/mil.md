@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بينيوليس
     auto: true
+  - translation_iso: ben
+    name: পেনয়োলেস মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Peñoles Mixtec
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Peñoles
   - translation_iso: hin
     name: पेन्योलेस मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Peñoles Mixtec
     auto: true
   - translation_iso: jpn
     name: ペニョレス・ミステク語

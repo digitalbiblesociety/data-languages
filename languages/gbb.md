@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكايتيتي
     auto: true
+  - translation_iso: ben
+    name: কায়তেতয়ে
+    auto: true
   - translation_iso: deu
     name: Kaytetye
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaytetye
   - translation_iso: hin
     name: कायतेत्ये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaytetye
     auto: true
   - translation_iso: jpn
     name: カイテチェ語

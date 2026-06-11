@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو بادانج
     auto: true
+  - translation_iso: ben
+    name: সেকো পাদাং
+    auto: true
   - translation_iso: deu
     name: Seko Padang
     auto: true

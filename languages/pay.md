@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتش
     auto: true
+  - translation_iso: ben
+    name: পেচ
+    auto: true
   - translation_iso: deu
     name: Pech
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pech
   - translation_iso: hin
     name: पेच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pech
     auto: true
   - translation_iso: jpn
     name: ペッチ語

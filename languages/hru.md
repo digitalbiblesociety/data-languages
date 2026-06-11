@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هروسو
     auto: true
+  - translation_iso: ben
+    name: হরুসো
+    auto: true
   - translation_iso: deu
     name: Hruso
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: hruso
   - translation_iso: hin
     name: अका भाषा
+  - translation_iso: ind
+    name: Bahasa Hruso
+    auto: true
   - translation_iso: jpn
     name: フルソ語
   - translation_iso: kor

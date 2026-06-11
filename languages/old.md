@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة موتشي
     auto: true
+  - translation_iso: ben
+    name: মোচি
+    auto: true
   - translation_iso: deu
     name: Mochi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Mochi
   - translation_iso: hin
     name: मोची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mochi
     auto: true
   - translation_iso: jpn
     name: モチ語

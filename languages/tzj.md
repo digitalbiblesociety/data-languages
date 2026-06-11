@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تسوتوخيل
     auto: true
+  - translation_iso: ben
+    name: তজুতুজিল
+    auto: true
   - translation_iso: deu
     name: Tzutuhil-Sprache
   - translation_iso: fra
     name: "tz'utujil"
   - translation_iso: hin
     name: त्सुतुहिल
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Tz'utujil"
     auto: true
   - translation_iso: jpn
     name: ツトゥヒル語

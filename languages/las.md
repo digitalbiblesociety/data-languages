@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لاما (توجو)
     auto: true
+  - translation_iso: ben
+    name: লামা
+    auto: true
   - translation_iso: deu
     name: Lama
   - translation_iso: fra
     name: lama
   - translation_iso: hin
     name: लामा (टोगो)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lama
     auto: true
   - translation_iso: jpn
     name: ラマ語

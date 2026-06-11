@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو تشياندونغ الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কিয়ানদোং মিয়াও
+    auto: true
   - translation_iso: deu
     name: Südliches Qiandong-Miao
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिणी क्यानडोंग मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Qiandong Miao
     auto: true
   - translation_iso: jpn
     name: 南部黔東苗語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आयिज़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayizi
+    auto: true
   - translation_iso: jpn
     name: アイイズィ語
     auto: true

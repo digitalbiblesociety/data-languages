@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाइसो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baiso
+    auto: true
   - translation_iso: jpn
     name: バイソ語
     auto: true

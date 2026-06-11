@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوامي
     auto: true
+  - translation_iso: ben
+    name: পওয়ামেই
+    auto: true
   - translation_iso: deu
     name: Pwaamei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pwaamèi
   - translation_iso: hin
     name: प्वामेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pwaamei
     auto: true
   - translation_iso: jpn
     name: プワアメイ語

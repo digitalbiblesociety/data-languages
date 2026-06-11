@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अनुता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anuta
+    auto: true
   - translation_iso: jpn
     name: アヌータ語
   - translation_iso: kor

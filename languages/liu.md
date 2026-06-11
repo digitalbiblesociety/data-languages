@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وجوريك
     auto: true
+  - translation_iso: ben
+    name: লোগোরিক
+    auto: true
   - translation_iso: deu
     name: Logorik
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: logorik
   - translation_iso: hin
     name: लोगोरिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Logorik
     auto: true
   - translation_iso: jpn
     name: ロゴリク語

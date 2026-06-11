@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مافان
     auto: true
+  - translation_iso: ben
+    name: মাওয়ান
+    auto: true
   - translation_iso: deu
     name: Mawan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mawan
   - translation_iso: hin
     name: मवान
+  - translation_iso: ind
+    name: Bahasa Mawan
+    auto: true
   - translation_iso: jpn
     name: マワン語
     auto: true

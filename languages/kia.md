@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كيم
     auto: true
+  - translation_iso: ben
+    name: কিম
+    auto: true
   - translation_iso: deu
     name: Kim
   - translation_iso: fra
     name: kim
   - translation_iso: hin
     name: किम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kim
     auto: true
   - translation_iso: jpn
     name: キム語

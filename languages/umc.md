@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: ماروتسينيان
     auto: true
+  - translation_iso: ben
+    name: মার্রুকিনিয়ান
+    auto: true
   - translation_iso: deu
     name: Marrukinisch
   - translation_iso: fra
     name: marrucin
   - translation_iso: hin
     name: मारुसिनियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marrucinian
     auto: true
   - translation_iso: jpn
     name: マルルキニアン語

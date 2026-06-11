@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانساكا
     auto: true
+  - translation_iso: ben
+    name: মানসাকা
+    auto: true
   - translation_iso: deu
     name: Mansaka
     auto: true

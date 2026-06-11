@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ندوجو
     auto: true
+  - translation_iso: ben
+    name: নদোগো
+    auto: true
   - translation_iso: deu
     name: Ndogo
   - translation_iso: fra
     name: ndogo
   - translation_iso: hin
     name: न्दोगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndogo
     auto: true
   - translation_iso: jpn
     name: ンドゴ語

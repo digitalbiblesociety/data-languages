@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وابيشانا
     auto: true
+  - translation_iso: ben
+    name: ওয়াপিশানা
+    auto: true
   - translation_iso: deu
     name: Wapishana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wapishana
   - translation_iso: hin
     name: वापिशाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wapishana
     auto: true
   - translation_iso: jpn
     name: ワピシャナ語

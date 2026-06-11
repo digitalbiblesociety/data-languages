@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अपियाका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apiaká
+    auto: true
   - translation_iso: jpn
     name: アピアカ語
     auto: true

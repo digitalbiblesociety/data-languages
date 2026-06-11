@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيدجن ديلاوير
     auto: true
+  - translation_iso: ben
+    name: পিদগিন দেলাওয়ারে
+    auto: true
   - translation_iso: deu
     name: Delaware-Pidgin
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पिजिन डेलावेयर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pidgin Delaware
     auto: true
   - translation_iso: jpn
     name: デラウェア・ピジン語

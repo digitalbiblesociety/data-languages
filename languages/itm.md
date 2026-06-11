@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيتو مبون أوزو
     auto: true
+  - translation_iso: ben
+    name: ইতু মবোন উজো
+    auto: true
   - translation_iso: deu
     name: Itu Mbon Uzo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: itu mbon uzo
   - translation_iso: hin
     name: इतु म्बोन उज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Itu Mbon Uzo
     auto: true
   - translation_iso: jpn
     name: イトゥ・ムボン・ウゾ語

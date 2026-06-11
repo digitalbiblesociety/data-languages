@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميان
     auto: true
+  - translation_iso: ben
+    name: মিয়ান
+    auto: true
   - translation_iso: deu
     name: Mian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mian
   - translation_iso: hin
     name: मियान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mian
     auto: true
   - translation_iso: jpn
     name: ミアン語

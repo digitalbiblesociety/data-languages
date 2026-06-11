@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إمبيرا-كاتيو
     auto: true
+  - translation_iso: ben
+    name: এমবেরা-কাতিও
+    auto: true
   - translation_iso: deu
     name: Emberá-Catío
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: emberá catío
   - translation_iso: hin
     name: एम्बेरा-कातिओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Emberá-Catío
     auto: true
   - translation_iso: jpn
     name: エンベラ・カティオ語

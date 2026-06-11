@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बत्स
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bats
+    auto: true
   - translation_iso: jpn
     name: バツ語
   - translation_iso: kor

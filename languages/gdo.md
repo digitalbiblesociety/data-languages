@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الغودوبيري
     auto: true
+  - translation_iso: ben
+    name: ঘোদোবেরি
+    auto: true
   - translation_iso: deu
     name: Ghodoberi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: godoberi
   - translation_iso: hin
     name: घोदोबेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghodoberi
     auto: true
   - translation_iso: jpn
     name: ゴドベリ語

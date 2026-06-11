@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاري
     auto: true
+  - translation_iso: ben
+    name: কারেয়
+    auto: true
   - translation_iso: deu
     name: Karey
   - translation_iso: fra

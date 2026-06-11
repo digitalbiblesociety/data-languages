@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوكانا
     auto: true
+  - translation_iso: ben
+    name: গোকানা
+    auto: true
   - translation_iso: deu
     name: Gokana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gokana
   - translation_iso: hin
     name: गोकाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gokana
     auto: true
   - translation_iso: jpn
     name: ゴカナ語

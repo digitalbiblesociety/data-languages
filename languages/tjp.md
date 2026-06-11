@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تجوباني
     auto: true
+  - translation_iso: ben
+    name: তজুপানয়
+    auto: true
   - translation_iso: deu
     name: Tjupany
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tjupany
   - translation_iso: hin
     name: चुपानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tjupany
     auto: true
   - translation_iso: jpn
     name: チュパニ語

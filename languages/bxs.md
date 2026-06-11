@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بوسام
     auto: true
+  - translation_iso: ben
+    name: বুসাম
+    auto: true
   - translation_iso: deu
     name: Busam
   - translation_iso: fra
     name: busam
   - translation_iso: hin
     name: बुसाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Busam
     auto: true
   - translation_iso: jpn
     name: ブサム語

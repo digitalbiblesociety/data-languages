@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बंगुबंगु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangubangu
+    auto: true
   - translation_iso: jpn
     name: バングバング語
   - translation_iso: kor

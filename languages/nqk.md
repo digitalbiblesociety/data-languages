@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كورا إيدي ناغو
     auto: true
+  - translation_iso: ben
+    name: কুরা এদে নাগো
+    auto: true
   - translation_iso: deu
     name: Kura Ede Nago
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kura nago
   - translation_iso: hin
     name: कुरा एदे नागो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kura Ede Nago
     auto: true
   - translation_iso: jpn
     name: クラ・エデ・ナゴ語

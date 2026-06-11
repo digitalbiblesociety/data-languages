@@ -28,6 +28,9 @@ translations:
     name: nyishi
   - translation_iso: hin
     name: निशि भाषा
+  - translation_iso: ind
+    name: Bahasa Nyishi
+    auto: true
   - translation_iso: jpn
     name: ニシ語
   - translation_iso: kor

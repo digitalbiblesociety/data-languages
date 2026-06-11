@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كييررايووورروونغ
     auto: true
+  - translation_iso: ben
+    name: কের্রায়-ওয়োর্রোং
+    auto: true
   - translation_iso: deu
     name: Keerray-Woorroong
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: keerray-woorroong
   - translation_iso: hin
     name: कीरे-वूरोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keerray-Woorroong
     auto: true
   - translation_iso: jpn
     name: キーレイ・ウーロング語

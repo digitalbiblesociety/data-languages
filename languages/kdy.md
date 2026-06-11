@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيدير
     auto: true
+  - translation_iso: ben
+    name: কেদের
+    auto: true
   - translation_iso: deu
     name: Keder
     auto: true

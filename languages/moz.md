@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موكولو
     auto: true
+  - translation_iso: ben
+    name: মুকুলু
+    auto: true
   - translation_iso: deu
     name: Mukulu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mokulu
   - translation_iso: hin
     name: मुकुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mukulu
     auto: true
   - translation_iso: jpn
     name: ムクル語

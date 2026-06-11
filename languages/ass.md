@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة إيبولو
     auto: true
+  - translation_iso: ben
+    name: ইপুলো
+    auto: true
   - translation_iso: deu
     name: Ipulo
   - translation_iso: fra
     name: ipulo
   - translation_iso: hin
     name: इपुलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ipulo
     auto: true
   - translation_iso: jpn
     name: イプロ語

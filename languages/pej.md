@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন পোমো
+    auto: true
   - translation_iso: deu
     name: Nördliches Pomo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pomo du Nord
   - translation_iso: hin
     name: उत्तरी पोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Pomo
     auto: true
   - translation_iso: jpn
     name: 北ポモ語

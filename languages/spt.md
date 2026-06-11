@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سبيتي بوتي
     auto: true
+  - translation_iso: ben
+    name: সপিতি ভোতি
+    auto: true
   - translation_iso: deu
     name: Spiti Bhoti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: spiti
   - translation_iso: hin
     name: स्पीति भाषा
+  - translation_iso: ind
+    name: Bahasa Spiti Bhoti
+    auto: true
   - translation_iso: jpn
     name: スピティ語
     auto: true

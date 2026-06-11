@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरोप-सिसानो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arop-Sissano
+    auto: true
   - translation_iso: jpn
     name: アロップシッサーノ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوبيا
     auto: true
+  - translation_iso: ben
+    name: সুবিয়া
+    auto: true
   - translation_iso: deu
     name: Subiya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuhane
   - translation_iso: hin
     name: सुबिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Subiya
     auto: true
   - translation_iso: jpn
     name: スビヤ語

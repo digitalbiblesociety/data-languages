@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لارو
     auto: true
+  - translation_iso: ben
+    name: লারু
+    auto: true
   - translation_iso: deu
     name: Laru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: laru
   - translation_iso: hin
     name: लारु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laru
     auto: true
   - translation_iso: jpn
     name: ラル語

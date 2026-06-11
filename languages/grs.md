@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غرإسي
     auto: true
+  - translation_iso: ben
+    name: গরেসি
+    auto: true
   - translation_iso: deu
     name: Gresi
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناكامي
     auto: true
+  - translation_iso: ben
+    name: নাকামে
+    auto: true
   - translation_iso: deu
     name: Nakame
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नाकामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nakame
     auto: true
   - translation_iso: jpn
     name: ナカメ語

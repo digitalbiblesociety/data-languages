@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة يوغ
     auto: true
+  - translation_iso: ben
+    name: য়ুগ
+    auto: true
   - translation_iso: deu
     name: Jugisch
   - translation_iso: fra
     name: youge
   - translation_iso: hin
     name: युग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yug
     auto: true
   - translation_iso: jpn
     name: ユグ語

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: إيموتونغ
     auto: true
+  - translation_iso: ben
+    name: ইমোতোং
+    auto: true
   - translation_iso: deu
     name: Imotong
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इमोटोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Imotong
     auto: true
   - translation_iso: jpn
     name: イモトング語

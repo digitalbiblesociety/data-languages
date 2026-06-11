@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة إي نابا ورومايبو
     auto: true
+  - translation_iso: ben
+    name: এনয়াপা ওয়োরোমাইপু
+    auto: true
   - translation_iso: deu
     name: "E'ñapa Woromaipu"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "e'ñepa"
   - translation_iso: hin
     name: एन्यापा वोरोमाइपु
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa E'ñapa Woromaipu"
     auto: true
   - translation_iso: jpn
     name: エニャパ・ウォロマイプ語

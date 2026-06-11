@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आई-चाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ai-Cham
+    auto: true
   - translation_iso: jpn
     name: アイチャム語
     auto: true

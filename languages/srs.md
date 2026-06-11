@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سارسي
     auto: true
+  - translation_iso: ben
+    name: সারসি
+    auto: true
   - translation_iso: deu
     name: Sarcee
   - translation_iso: fra
     name: sarsi
   - translation_iso: hin
     name: सारसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sarsi
     auto: true
   - translation_iso: jpn
     name: サルシー語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موجي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন মুজি
+    auto: true
   - translation_iso: deu
     name: Südliches Muji
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muji du Sud
   - translation_iso: hin
     name: दक्षिणी मूजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Muji
     auto: true
   - translation_iso: jpn
     name: 南部ムジ語

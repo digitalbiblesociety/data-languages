@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة شمال أمبريم
     auto: true
+  - translation_iso: ben
+    name: নোরথ আমবরয়ম
+    auto: true
   - translation_iso: deu
     name: North Ambrym
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ambrym du Nord
   - translation_iso: hin
     name: उत्तरी अम्ब्रिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Ambrym
     auto: true
   - translation_iso: jpn
     name: 北アンブリム語

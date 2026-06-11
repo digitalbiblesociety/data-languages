@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة داي زوانغ
     auto: true
+  - translation_iso: ben
+    name: দাই ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Dai-Zhuang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: dai zhuang
   - translation_iso: hin
     name: दाई ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dai Zhuang
     auto: true
   - translation_iso: jpn
     name: 文馬チワン語

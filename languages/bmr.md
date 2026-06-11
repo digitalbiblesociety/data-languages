@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موينياني
     auto: true
+  - translation_iso: ben
+    name: মুইনানে
+    auto: true
   - translation_iso: deu
     name: Muinane
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muinane
   - translation_iso: hin
     name: मुइनाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muinane
     auto: true
   - translation_iso: jpn
     name: ムイナネ語

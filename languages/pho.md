@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فونوي
     auto: true
+  - translation_iso: ben
+    name: ফুনোই
+    auto: true
   - translation_iso: deu
     name: Phunoi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phunoi
   - translation_iso: hin
     name: फुनोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phunoi
     auto: true
   - translation_iso: jpn
     name: プーノーイ語

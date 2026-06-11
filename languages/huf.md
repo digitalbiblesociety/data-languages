@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هومين
     auto: true
+  - translation_iso: ben
+    name: হুমেনে
+    auto: true
   - translation_iso: deu
     name: Humene
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हुमेने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Humene
     auto: true
   - translation_iso: jpn
     name: フメネ語

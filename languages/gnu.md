@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غنآو
     auto: true
+  - translation_iso: ben
+    name: গনাউ
+    auto: true
   - translation_iso: deu
     name: Gnau
     auto: true

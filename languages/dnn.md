@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دزونجو
     auto: true
+  - translation_iso: ben
+    name: দজুঙো
+    auto: true
   - translation_iso: deu
     name: Dzùùngoo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dzùùngoo
   - translation_iso: hin
     name: ज़ूंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dzùùngoo
     auto: true
   - translation_iso: jpn
     name: ゾゥングゥ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هاروعاي
     auto: true
+  - translation_iso: ben
+    name: হারুয়াই
+    auto: true
   - translation_iso: deu
     name: Haruai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: haruai
   - translation_iso: hin
     name: हरुआई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haruai
     auto: true
   - translation_iso: jpn
     name: ハルアイ語

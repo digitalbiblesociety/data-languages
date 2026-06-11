@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अवा-कनोएइरो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Avá-Canoeiro
+    auto: true
   - translation_iso: jpn
     name: アヴァ・カノエイロ語
     auto: true

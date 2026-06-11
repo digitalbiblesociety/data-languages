@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سو
     auto: true
+  - translation_iso: ben
+    name: সো
+    auto: true
   - translation_iso: deu
     name: Sô
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sô
   - translation_iso: hin
     name: सो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sô
     auto: true
   - translation_iso: jpn
     name: ブルー語

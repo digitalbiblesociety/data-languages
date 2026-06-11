@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رومانو يوناني
     auto: true
+  - translation_iso: ben
+    name: রোমানো-গরেক
+    auto: true
   - translation_iso: deu
     name: Romano-Griechisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: romano-grec
   - translation_iso: hin
     name: रोमानो-ग्रीक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romano-Greek
     auto: true
   - translation_iso: jpn
     name: ロマノギリシャ語

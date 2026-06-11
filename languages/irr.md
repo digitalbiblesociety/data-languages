@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: إير
     auto: true
+  - translation_iso: ben
+    name: ইর
+    auto: true
   - translation_iso: deu
     name: Ir
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: ir
   - translation_iso: hin
     name: इर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ir
     auto: true
   - translation_iso: jpn
     name: イル語

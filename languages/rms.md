@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة الرومانية للإشارة
     auto: true
+  - translation_iso: ben
+    name: রোমানিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Rumänische Gebärdensprache
   - translation_iso: fra
     name: langue des signes roumaine
   - translation_iso: hin
     name: रोमानियाई सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romanian Sign Language
     auto: true
   - translation_iso: jpn
     name: ルーマニア手話

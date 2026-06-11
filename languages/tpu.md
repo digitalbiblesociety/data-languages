@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تامبوان
     auto: true
+  - translation_iso: ben
+    name: তামপুয়ান
+    auto: true
   - translation_iso: deu
     name: Tampuan
   - translation_iso: fra
     name: tampuan
   - translation_iso: hin
     name: तामपुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tampuan
     auto: true
   - translation_iso: jpn
     name: タンプアン語

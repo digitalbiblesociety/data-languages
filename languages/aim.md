@@ -30,6 +30,9 @@ translations:
     name: aimol
   - translation_iso: hin
     name: आइमोल भाषा
+  - translation_iso: ind
+    name: Bahasa Aimol
+    auto: true
   - translation_iso: jpn
     name: アイモル語
     auto: true

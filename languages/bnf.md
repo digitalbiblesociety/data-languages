@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماسيوانج
     auto: true
+  - translation_iso: ben
+    name: মাসিওয়াং
+    auto: true
   - translation_iso: deu
     name: Masiwang
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هينوخ
     auto: true
+  - translation_iso: ben
+    name: হিনুখ
+    auto: true
   - translation_iso: deu
     name: Hinuchisch
   - translation_iso: fra

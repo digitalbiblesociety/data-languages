@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موجي
     auto: true
+  - translation_iso: ben
+    name: মুংগুই
+    auto: true
   - translation_iso: deu
     name: Munggui
     auto: true

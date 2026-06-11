@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كويني
     auto: true
+  - translation_iso: ben
+    name: কওয়িনি
+    auto: true
   - translation_iso: deu
     name: Kwini
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kwini
   - translation_iso: hin
     name: क्विनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwini
     auto: true
   - translation_iso: jpn
     name: クイニ語

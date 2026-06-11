@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماج إندي ايتا
     auto: true
+  - translation_iso: ben
+    name: মাগ-ইনদি আয়তা
+    auto: true
   - translation_iso: deu
     name: Mag-Indi Ayta
     auto: true

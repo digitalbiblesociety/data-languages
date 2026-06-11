@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينجسينج
     auto: true
+  - translation_iso: ben
+    name: সেংসেং
+    auto: true
   - translation_iso: deu
     name: Sengseng
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sengseng
   - translation_iso: hin
     name: सेंगसेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sengseng
     auto: true
   - translation_iso: jpn
     name: アセンセング語

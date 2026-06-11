@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نغايل
     auto: true
+  - translation_iso: ben
+    name: ঙিলে
+    auto: true
   - translation_iso: deu
     name: Ngile
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ंगिले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngile
     auto: true
   - translation_iso: jpn
     name: ンギレ語

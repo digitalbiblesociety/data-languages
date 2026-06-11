@@ -29,6 +29,9 @@ translations:
     name: langue des signes finnoise
   - translation_iso: hin
     name: फिनिश साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Finnish Sign Language
+    auto: true
   - translation_iso: jpn
     name: フィンランド手話
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جورتو
     auto: true
+  - translation_iso: ben
+    name: জোরতো
+    auto: true
   - translation_iso: deu
     name: Jorto
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जोरतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jorto
     auto: true
   - translation_iso: jpn
     name: ジョルト語

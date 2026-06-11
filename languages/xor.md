@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوروبو
     auto: true
+  - translation_iso: ben
+    name: কোরুবো
+    auto: true
   - translation_iso: deu
     name: Korubo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: korubo
   - translation_iso: hin
     name: कोरुबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Korubo
     auto: true
   - translation_iso: jpn
     name: コルボ語

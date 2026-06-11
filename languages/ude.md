@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: أودياه
     auto: true
+  - translation_iso: ben
+    name: উদিহে
+    auto: true
   - translation_iso: deu
     name: Udeheisch
   - translation_iso: fra
     name: oudihe
   - translation_iso: hin
     name: उदिहे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Udihe
     auto: true
   - translation_iso: jpn
     name: ウデゲ語

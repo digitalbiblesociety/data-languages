@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: चिली सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Chilean Sign Language
+    auto: true
   - translation_iso: jpn
     name: チリ手話
   - translation_iso: kor

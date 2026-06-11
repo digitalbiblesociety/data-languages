@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ يونغبي
     auto: true
+  - translation_iso: ben
+    name: য়োংবেই ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Yongbei-Zhuang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zhuang de Yongbei
   - translation_iso: hin
     name: योंगबेई ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yongbei Zhuang
     auto: true
   - translation_iso: jpn
     name: 邕北チワン語

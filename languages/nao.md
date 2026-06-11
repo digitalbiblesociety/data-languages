@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نابا
     auto: true
+  - translation_iso: ben
+    name: নাবা
+    auto: true
   - translation_iso: deu
     name: Naaba
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नापा भाषा
+  - translation_iso: ind
+    name: Bahasa Naaba
+    auto: true
   - translation_iso: jpn
     name: ナアバ語
     auto: true

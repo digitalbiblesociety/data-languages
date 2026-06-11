@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جونجو
     auto: true
+  - translation_iso: ben
+    name: গুঙু
+    auto: true
   - translation_iso: deu
     name: Gungu
   - translation_iso: fra
     name: gungu
   - translation_iso: hin
     name: गुंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gungu
     auto: true
   - translation_iso: jpn
     name: グングー語

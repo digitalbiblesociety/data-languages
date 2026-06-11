@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لامبيا
     auto: true
+  - translation_iso: ben
+    name: লামবয়া
+    auto: true
   - translation_iso: deu
     name: Lambya
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लाम्ब्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lambya
     auto: true
   - translation_iso: jpn
     name: ランブヤ語

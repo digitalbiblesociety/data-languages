@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيكيتو
     auto: true
+  - translation_iso: ben
+    name: ইকুইতো
+    auto: true
   - translation_iso: deu
     name: Iquito
   - translation_iso: fra
     name: iquito
   - translation_iso: hin
     name: इकीतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iquito
     auto: true
   - translation_iso: jpn
     name: イキト語

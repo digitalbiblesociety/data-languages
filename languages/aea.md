@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरेबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Areba
+    auto: true
   - translation_iso: jpn
     name: アレバ語
     auto: true

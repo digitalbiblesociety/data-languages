@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكي
     auto: true
+  - translation_iso: ben
+    name: য়ুকুই
+    auto: true
   - translation_iso: deu
     name: Yuqui
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yuqui
   - translation_iso: hin
     name: युकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yuqui
     auto: true
   - translation_iso: jpn
     name: ユキ語

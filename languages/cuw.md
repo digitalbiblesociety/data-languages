@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الشوكوا
     auto: true
+  - translation_iso: ben
+    name: চুকওয়া
+    auto: true
   - translation_iso: deu
     name: Chukwa
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: chukwa
   - translation_iso: hin
     name: चुक्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chukwa
     auto: true
   - translation_iso: jpn
     name: チュクワ語

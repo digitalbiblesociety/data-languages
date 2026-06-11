@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيانغ
     auto: true
+  - translation_iso: ben
+    name: সিয়াং
+    auto: true
   - translation_iso: deu
     name: Siang
     auto: true

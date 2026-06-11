@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مونجوندو
     auto: true
+  - translation_iso: ben
+    name: মোঙোনদোওয়
+    auto: true
   - translation_iso: deu
     name: Mongondow
   - translation_iso: fra

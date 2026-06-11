@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية الشرقية
     auto: true
+  - translation_iso: ben
+    name: নোরথেয়াসতেরন তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Nordosttasmanisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pyemmairre
   - translation_iso: hin
     name: उत्तरपूर्वी तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northeastern Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: 北東タスマニア語

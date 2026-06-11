@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موسكونا
     auto: true
+  - translation_iso: ben
+    name: মোসকোনা
+    auto: true
   - translation_iso: deu
     name: Moskona
     auto: true

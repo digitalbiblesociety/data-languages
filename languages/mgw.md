@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتومبي
     auto: true
+  - translation_iso: ben
+    name: মাতুমবি
+    auto: true
   - translation_iso: deu
     name: Matumbi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: matumbi
   - translation_iso: hin
     name: मातुम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matumbi
     auto: true
   - translation_iso: jpn
     name: マトゥムビ語

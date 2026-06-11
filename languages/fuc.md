@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pulaar_language"
 translations:
   - translation_iso: ara
     name: لغة بلارية
+  - translation_iso: ben
+    name: পুলার
+    auto: true
   - translation_iso: deu
     name: Pulaar
   - translation_iso: fra

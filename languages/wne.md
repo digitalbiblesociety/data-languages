@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: وانيكي
     auto: true
+  - translation_iso: ben
+    name: ওয়ানেকি
+    auto: true
   - translation_iso: deu
     name: Wanetsi
   - translation_iso: fra
     name: wanetsi
   - translation_iso: hin
     name: वानेची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waneci
     auto: true
   - translation_iso: jpn
     name: ワネシ語

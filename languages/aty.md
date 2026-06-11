@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अनेइत्युम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aneityum
+    auto: true
   - translation_iso: jpn
     name: アネイチュム語
   - translation_iso: kor

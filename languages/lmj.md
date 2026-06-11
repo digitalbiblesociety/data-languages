@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يست يمباتا
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত লেমবাতা
+    auto: true
   - translation_iso: deu
     name: West-Lembata
     auto: true

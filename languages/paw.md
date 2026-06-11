@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوني
     auto: true
+  - translation_iso: ben
+    name: পাওয়নে
+    auto: true
   - translation_iso: deu
     name: Pawnee
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pawnee
   - translation_iso: hin
     name: पॉनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pawnee
     auto: true
   - translation_iso: jpn
     name: ポーニー語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دانكي
     auto: true
+  - translation_iso: ben
+    name: ধানকি
+    auto: true
   - translation_iso: deu
     name: Dhanki
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ढांकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhanki
     auto: true
   - translation_iso: jpn
     name: ダンキ語

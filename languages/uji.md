@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانجيجيلي
     auto: true
+  - translation_iso: ben
+    name: তানজিজিলি
+    auto: true
   - translation_iso: deu
     name: Tanjijili
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तानजिजिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanjijili
     auto: true
   - translation_iso: jpn
     name: タンジジリ語

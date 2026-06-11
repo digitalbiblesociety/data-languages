@@ -30,6 +30,9 @@ translations:
     name: war
   - translation_iso: hin
     name: वार भाषा
+  - translation_iso: ind
+    name: Bahasa War-Jaintia
+    auto: true
   - translation_iso: jpn
     name: ワルジャインティア語
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: باسّوسّي
     auto: true
+  - translation_iso: ben
+    name: বাস্সোস্সি
+    auto: true
   - translation_iso: deu
     name: Bassossi
   - translation_iso: fra
     name: bassossi
   - translation_iso: hin
     name: बासोस्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bassossi
     auto: true
   - translation_iso: jpn
     name: バソッシ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونوساكان
     auto: true
+  - translation_iso: ben
+    name: পোনোসাকান
+    auto: true
   - translation_iso: deu
     name: Ponosakan
   - translation_iso: fra

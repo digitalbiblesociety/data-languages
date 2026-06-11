@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميكستيك تلاكسياكو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন তলাকসিয়াকো মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Nördliches Tlaxiaco-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Tlaxiaco du Nord
   - translation_iso: hin
     name: उत्तरी त्लाक्सियाको मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Tlaxiaco Mixtec
     auto: true
   - translation_iso: jpn
     name: 北部トラシアコ・ミステク語

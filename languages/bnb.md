@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوكان
     auto: true
+  - translation_iso: ben
+    name: বোকান
+    auto: true
   - translation_iso: deu
     name: Bookan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बूकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bookan
     auto: true
   - translation_iso: jpn
     name: ブカン語

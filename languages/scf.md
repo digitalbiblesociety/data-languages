@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كريول فرنسي سان ميجويل
     auto: true
+  - translation_iso: ben
+    name: সান মিগুএল করেওলে ফরেনচ
+    auto: true
   - translation_iso: deu
     name: San-Miguel-Kreolfranzösisch
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: créole de San Miguel
   - translation_iso: hin
     name: सान मिगुएल क्रियोल फ़्रेंच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Miguel Creole French
     auto: true
   - translation_iso: jpn
     name: パトワ語

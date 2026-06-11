@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نينزو
     auto: true
+  - translation_iso: ben
+    name: নিনজো
+    auto: true
   - translation_iso: deu
     name: Ninzo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ninzo
   - translation_iso: hin
     name: निंज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ninzo
     auto: true
   - translation_iso: jpn
     name: ニンゾ語

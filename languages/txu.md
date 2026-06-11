@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايابو
     auto: true
+  - translation_iso: ben
+    name: কায়াপো
+    auto: true
   - translation_iso: deu
     name: Kayapó
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kayapo
   - translation_iso: hin
     name: कायापो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayapó
     auto: true
   - translation_iso: jpn
     name: メベング・オクレ・カベン語

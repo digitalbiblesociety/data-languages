@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جوكستلاهواكا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: জুকসতলাহুয়াকা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Juxtlahuaca-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Juxtlahuaca
   - translation_iso: hin
     name: हुक्स्तलाहुआका मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Juxtlahuaca Mixtec
     auto: true
   - translation_iso: jpn
     name: セントラル・フクスラウアカ・ミステク語

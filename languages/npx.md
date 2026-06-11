@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نويبكس
     auto: true
+  - translation_iso: ben
+    name: নোইপকস
+    auto: true
   - translation_iso: deu
     name: Noipx
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: noipx
   - translation_iso: hin
     name: नोइप्क्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Noipx
     auto: true
   - translation_iso: jpn
     name: ノイプックス語

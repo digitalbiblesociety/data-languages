@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: أونجارانجو
     auto: true
+  - translation_iso: ben
+    name: উংগারাংগু
+    auto: true
   - translation_iso: deu
     name: Unggaranggu
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: unggaranggu
   - translation_iso: hin
     name: उंगारंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Unggaranggu
     auto: true
   - translation_iso: jpn
     name: ウンガランググ語

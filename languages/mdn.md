@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مباتي
     auto: true
+  - translation_iso: ben
+    name: মবাতি
+    auto: true
   - translation_iso: deu
     name: Mbati
   - translation_iso: fra
     name: mbati
   - translation_iso: hin
     name: म्बाती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbati
     auto: true
   - translation_iso: jpn
     name: Mbati語

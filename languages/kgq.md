@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاموري
     auto: true
+  - translation_iso: ben
+    name: কামোরো
+    auto: true
   - translation_iso: deu
     name: Kamora
   - translation_iso: fra

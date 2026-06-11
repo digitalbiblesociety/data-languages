@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेलांडा विरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Belanda Viri
+    auto: true
   - translation_iso: jpn
     name: ベランダ・ビリ語
     auto: true

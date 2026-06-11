@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفيران
     auto: true
+  - translation_iso: ben
+    name: ফিরান
+    auto: true
   - translation_iso: deu
     name: Firan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: firan
   - translation_iso: hin
     name: फिरान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Firan
     auto: true
   - translation_iso: jpn
     name: フィラン語

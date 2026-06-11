@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكيلما
     auto: true
+  - translation_iso: ben
+    name: তাকেলমা
+    auto: true
   - translation_iso: deu
     name: Takelma
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: takelma
   - translation_iso: hin
     name: ताकेल्मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Takelma
     auto: true
   - translation_iso: jpn
     name: タケルマ語

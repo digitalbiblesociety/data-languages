@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك خوكسلاهواكا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন জুকসতলাহুয়াকা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Westliches Juxtlahuaca-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "mixtèque de Juxtlahuaca de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी हुक्सत्लाहुआका मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Juxtlahuaca Mixtec
     auto: true
   - translation_iso: jpn
     name: 西部フフストラウアカ・ミステク語

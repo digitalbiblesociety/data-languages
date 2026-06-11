@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيكو
     auto: true
+  - translation_iso: ben
+    name: নেকো
+    auto: true
   - translation_iso: deu
     name: Neko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: neko
   - translation_iso: hin
     name: नेको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Neko
     auto: true
   - translation_iso: jpn
     name: ネコ語

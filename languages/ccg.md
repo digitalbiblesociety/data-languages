@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: سامبا داكا
     auto: true
+  - translation_iso: ben
+    name: সামবা দাকা
+    auto: true
   - translation_iso: deu
     name: Samba Daka
   - translation_iso: fra
     name: daka samba
   - translation_iso: hin
     name: सांबा डाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samba Daka
     auto: true
   - translation_iso: jpn
     name: サンバ・ダカ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ليموس كالينجا
     auto: true
+  - translation_iso: ben
+    name: লিমোস কালিঙা
+    auto: true
   - translation_iso: deu
     name: Limos Kalinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalinga limos
   - translation_iso: hin
     name: लिमोस कालिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Limos Kalinga
     auto: true
   - translation_iso: jpn
     name: リモス・カリンガ語

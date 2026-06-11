@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفينونغان
     auto: true
+  - translation_iso: ben
+    name: ফিনোঙান
+    auto: true
   - translation_iso: deu
     name: Finongan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: finongan
   - translation_iso: hin
     name: फिनोंगन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Finongan
     auto: true
   - translation_iso: jpn
     name: フィノンガン語

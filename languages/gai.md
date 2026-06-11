@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: البوري
     auto: true
+  - translation_iso: ben
+    name: বোরেই
+    auto: true
   - translation_iso: deu
     name: Borei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: borei
   - translation_iso: hin
     name: बोरेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Borei
     auto: true
   - translation_iso: jpn
     name: ボレイ語

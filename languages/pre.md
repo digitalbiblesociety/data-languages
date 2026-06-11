@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة برينسيبيبنسي
     auto: true
+  - translation_iso: ben
+    name: পরিনকিপেনসে
+    auto: true
   - translation_iso: deu
     name: Principensisch
   - translation_iso: fra
     name: principense
   - translation_iso: hin
     name: प्रिंसिपेंसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Principense
     auto: true
   - translation_iso: jpn
     name: プリンシペ・クレオール語

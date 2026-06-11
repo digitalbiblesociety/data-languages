@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانام
     auto: true
+  - translation_iso: ben
+    name: মানাম
+    auto: true
   - translation_iso: deu
     name: Manam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: manam
   - translation_iso: hin
     name: मानाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manam
     auto: true
   - translation_iso: jpn
     name: マナム語

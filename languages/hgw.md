@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآيغوآي
     auto: true
+  - translation_iso: ben
+    name: হাইগওয়াই
+    auto: true
   - translation_iso: deu
     name: Haigwai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हाइग्वाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haigwai
     auto: true
   - translation_iso: jpn
     name: ハイグワイ語

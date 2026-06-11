@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kenzi_language"
 translations:
   - translation_iso: ara
     name: لغة كنزية
+  - translation_iso: ben
+    name: কেনজি
+    auto: true
   - translation_iso: deu
     name: Kenzi
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: kenzi
   - translation_iso: hin
     name: केन्ज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kenzi
     auto: true
   - translation_iso: jpn
     name: ケヌズ語

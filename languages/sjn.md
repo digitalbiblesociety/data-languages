@@ -17,12 +17,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sindarin"
 translations:
   - translation_iso: ara
     name: سندرين
+  - translation_iso: ben
+    name: সিনদারিন
+    auto: true
   - translation_iso: deu
     name: Sindarin
   - translation_iso: fra
     name: sindarin
   - translation_iso: hin
     name: सिंडारिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sindarin
     auto: true
   - translation_iso: jpn
     name: シンダール語

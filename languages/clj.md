@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لايتو تشين
     auto: true
+  - translation_iso: ben
+    name: লাইতু চিন
+    auto: true
   - translation_iso: deu
     name: Laitu-Chin
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: laitu
   - translation_iso: hin
     name: लाइतू चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laitu Chin
     auto: true
   - translation_iso: jpn
     name: ライツ・チン語

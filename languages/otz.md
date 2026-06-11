@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي إكستينكو
     auto: true
+  - translation_iso: ben
+    name: ইকসতেনকো ওতোমি
+    auto: true
   - translation_iso: deu
     name: Ixtenco-Otomí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "otomi d'Ixtenco"
   - translation_iso: hin
     name: इक्स्तेनको ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ixtenco Otomi
     auto: true
   - translation_iso: jpn
     name: イクステンコ・オトミ語

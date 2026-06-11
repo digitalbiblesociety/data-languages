@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بياپون
     auto: true
+  - translation_iso: ben
+    name: পয়াপুন
+    auto: true
   - translation_iso: deu
     name: Pyapun
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्यापुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pyapun
     auto: true
   - translation_iso: jpn
     name: Pyapun語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: ben
+    name: বোলে
+    auto: true
   - translation_iso: deu
     name: Bole
   - translation_iso: fra
     name: bole
   - translation_iso: hin
     name: बोले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bole
     auto: true
   - translation_iso: jpn
     name: ボレ語

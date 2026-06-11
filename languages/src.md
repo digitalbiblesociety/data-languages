@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة اللوجودورية الساردينية
     auto: true
+  - translation_iso: ben
+    name: লোগুদোরেসে সারদিনিয়ান
+    auto: true
   - translation_iso: deu
     name: Logudoresisch
   - translation_iso: fra
     name: logudorais
   - translation_iso: hin
     name: लोगुडोरेसे सार्डिनियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Logudorese Sardinian
     auto: true
   - translation_iso: jpn
     name: ログドーロ・サルデーニャ語

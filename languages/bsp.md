@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बागा सितेमु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baga Sitemu
+    auto: true
   - translation_iso: jpn
     name: バガ・シテム語
     auto: true

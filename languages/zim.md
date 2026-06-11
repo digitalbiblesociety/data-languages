@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميسمي
     auto: true
+  - translation_iso: ben
+    name: মেসমে
+    auto: true
   - translation_iso: deu
     name: Mesme
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mesmé
   - translation_iso: hin
     name: मेस्मे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mesme
     auto: true
   - translation_iso: jpn
     name: メスメ語

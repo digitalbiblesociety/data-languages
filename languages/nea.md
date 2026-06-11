@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: إيسترن نجدا
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন ঙাদা
+    auto: true
   - translation_iso: deu
     name: Ngada Timur
   - translation_iso: fra

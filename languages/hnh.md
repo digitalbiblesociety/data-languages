@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ǁAni
     auto: true
+  - translation_iso: ben
+    name: আনি
+    auto: true
   - translation_iso: deu
     name: ǁAni
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ǁani
   - translation_iso: hin
     name: ǁआनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǁAni
     auto: true
   - translation_iso: jpn
     name: イアニ語

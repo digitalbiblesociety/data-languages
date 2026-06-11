@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة امنسو
     auto: true
+  - translation_iso: ben
+    name: লামনসো
+    auto: true
   - translation_iso: deu
     name: Lamnso
   - translation_iso: fra
     name: lamnso
   - translation_iso: hin
     name: लामन्सो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamnso
     auto: true
   - translation_iso: jpn
     name: ラムソ語

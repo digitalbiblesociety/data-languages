@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويستپهاليين
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতফালিএন
+    auto: true
   - translation_iso: deu
     name: Westfälisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هإمبآ
     auto: true
+  - translation_iso: ben
+    name: হেমবা
+    auto: true
   - translation_iso: deu
     name: Hemba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hemba
   - translation_iso: hin
     name: हेम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hemba
     auto: true
   - translation_iso: jpn
     name: ヘンバ語

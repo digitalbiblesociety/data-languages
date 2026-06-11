@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريما
     auto: true
+  - translation_iso: ben
+    name: রেমা
+    auto: true
   - translation_iso: deu
     name: Rema
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: rema
   - translation_iso: hin
     name: रेमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rema
     auto: true
   - translation_iso: jpn
     name: レマ語

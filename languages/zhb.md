@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة جابا
     auto: true
+  - translation_iso: ben
+    name: ঝাবা
+    auto: true
   - translation_iso: deu
     name: Zhaba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhaba
   - translation_iso: hin
     name: ज़ाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zhaba
     auto: true
   - translation_iso: jpn
     name: ジャバ語

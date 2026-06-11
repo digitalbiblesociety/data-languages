@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: ben
+    name: গিমি
+    auto: true
   - translation_iso: deu
     name: Gimi (West New Britain)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gimi
   - translation_iso: hin
     name: गिमी (पश्चिमी न्यू ब्रिटेन)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gimi
     auto: true
   - translation_iso: jpn
     name: ギミ語

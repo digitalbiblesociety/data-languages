@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كاريان
     auto: true
+  - translation_iso: ben
+    name: কারিয়ান
+    auto: true
   - translation_iso: deu
     name: Karisch
   - translation_iso: fra

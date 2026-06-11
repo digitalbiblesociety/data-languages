@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نييابوا
     auto: true
+  - translation_iso: ben
+    name: নয়াবওয়া
+    auto: true
   - translation_iso: deu
     name: Nyabwa
   - translation_iso: fra
     name: nyabwa
   - translation_iso: hin
     name: न्याब्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyabwa
     auto: true
   - translation_iso: jpn
     name: ニャブワ語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبا-اككها
     auto: true
+  - translation_iso: ben
+    name: লুমবা-য়াকখা
+    auto: true
   - translation_iso: deu
     name: Lumba-Yakkha
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: lumba-yakkha
   - translation_iso: hin
     name: लुम्बा-याक्खा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lumba-Yakkha
     auto: true
   - translation_iso: jpn
     name: ルンバ・ヤッカ語

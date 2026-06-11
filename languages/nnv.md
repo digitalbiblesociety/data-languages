@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوغونو (أستراليا)
     auto: true
+  - translation_iso: ben
+    name: নুগুনু
+    auto: true
   - translation_iso: deu
     name: Nugunu (Australien)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नुगुनु (ऑस्ट्रेलिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nugunu
     auto: true
   - translation_iso: jpn
     name: ヌグヌ語

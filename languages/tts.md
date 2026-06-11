@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تاي الشمالية الشرقية
     auto: true
+  - translation_iso: ben
+    name: নোরথেয়াসতেরন থাই
+    auto: true
   - translation_iso: deu
     name: Isaan
   - translation_iso: fra

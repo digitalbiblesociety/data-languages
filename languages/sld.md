@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسالا
     auto: true
+  - translation_iso: ben
+    name: সিস্সালা
+    auto: true
   - translation_iso: deu
     name: Sissala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sisaali
   - translation_iso: hin
     name: सिस्साला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sissala
     auto: true
   - translation_iso: jpn
     name: シッサーラ語

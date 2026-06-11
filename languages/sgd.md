@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سوريجاونون
     auto: true
+  - translation_iso: ben
+    name: সুরিগাওনোন
+    auto: true
   - translation_iso: deu
     name: Surigaonon
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيجرهولندس
     auto: true
+  - translation_iso: ben
+    name: নেগেরহোল্লানদস
+    auto: true
   - translation_iso: deu
     name: Negerholländisch
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नेगरहॉलैंड्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Negerhollands
     auto: true
   - translation_iso: jpn
     name: ネーデルランド・クレオール語

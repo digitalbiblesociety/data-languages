@@ -30,6 +30,9 @@ translations:
     name: kinnauri
   - translation_iso: hin
     name: किन्नौरी भाषा
+  - translation_iso: ind
+    name: Bahasa Kinnauri
+    auto: true
   - translation_iso: jpn
     name: キンナウリ語
     auto: true

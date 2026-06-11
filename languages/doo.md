@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دونجو
     auto: true
+  - translation_iso: ben
+    name: দোঙো
+    auto: true
   - translation_iso: deu
     name: Dongo
   - translation_iso: fra
     name: dongo
   - translation_iso: hin
     name: डोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dongo
     auto: true
   - translation_iso: jpn
     name: ドンゴ語

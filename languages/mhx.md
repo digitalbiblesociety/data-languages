@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارو
     auto: true
+  - translation_iso: ben
+    name: মারু
+    auto: true
   - translation_iso: deu
     name: Maru
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मारु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maru
     auto: true
   - translation_iso: jpn
     name: ロンウォー語

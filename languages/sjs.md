@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Senhaja_de_Srair_language"
 translations:
   - translation_iso: ara
     name: أمازيغية صنهاجة السراير
+  - translation_iso: ben
+    name: সেনহাজা দে সরাইর
+    auto: true
   - translation_iso: deu
     name: Senhaja de Srair
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: Senhadji de Srayr
   - translation_iso: hin
     name: सेन्हाजा डे स्रायर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Senhaja De Srair
     auto: true
   - translation_iso: jpn
     name: サンハジャ語

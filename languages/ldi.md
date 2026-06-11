@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاري
     auto: true
+  - translation_iso: ben
+    name: লারি
+    auto: true
   - translation_iso: deu
     name: Laari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lari
   - translation_iso: hin
     name: लारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laari
     auto: true
   - translation_iso: jpn
     name: ラリ語

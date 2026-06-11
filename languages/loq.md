@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: लोबाला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lobala
+    auto: true
   - translation_iso: jpn
     name: ロバラ語
     auto: true

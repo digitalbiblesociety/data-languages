@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كارناي
     auto: true
+  - translation_iso: ben
+    name: কারনাই
+    auto: true
   - translation_iso: deu
     name: Karnai
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कर्नाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karnai
     auto: true
   - translation_iso: jpn
     name: バリム語

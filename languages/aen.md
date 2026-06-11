@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अर्मेनियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Armenian Sign Language
+    auto: true
   - translation_iso: jpn
     name: アルメニア手話
   - translation_iso: kor

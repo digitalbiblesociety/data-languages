@@ -15,12 +15,18 @@ translations:
   - translation_iso: ara
     name: دان
     auto: true
+  - translation_iso: ben
+    name: দান
+    auto: true
   - translation_iso: deu
     name: Dan
   - translation_iso: fra
     name: dan
   - translation_iso: hin
     name: दान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dan
     auto: true
   - translation_iso: jpn
     name: ダン語

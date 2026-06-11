@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سينوفو بالاكا
     auto: true
+  - translation_iso: ben
+    name: পালাকা সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Palaka
   - translation_iso: fra
     name: Palaka
   - translation_iso: hin
     name: पलाका सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Palaka Senoufo
     auto: true
   - translation_iso: jpn
     name: パラカ語

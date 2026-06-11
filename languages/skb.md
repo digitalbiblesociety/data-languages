@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الساك
     auto: true
+  - translation_iso: ben
+    name: সাএক
+    auto: true
   - translation_iso: deu
     name: Saek
   - translation_iso: fra

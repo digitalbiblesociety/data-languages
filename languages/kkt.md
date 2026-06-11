@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوي
     auto: true
+  - translation_iso: ben
+    name: কোই
+    auto: true
   - translation_iso: deu
     name: Koi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kohi
   - translation_iso: hin
     name: कोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koi
     auto: true
   - translation_iso: jpn
     name: コイ語

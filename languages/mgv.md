@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماتينجو
     auto: true
+  - translation_iso: ben
+    name: মাতেঙো
+    auto: true
   - translation_iso: deu
     name: Matengo
   - translation_iso: fra
     name: matengo
   - translation_iso: hin
     name: मातेंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matengo
     auto: true
   - translation_iso: jpn
     name: マテンゴ語

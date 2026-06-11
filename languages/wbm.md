@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وا
     auto: true
+  - translation_iso: ben
+    name: ওয়া
+    auto: true
   - translation_iso: deu
     name: Wa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: vo
   - translation_iso: hin
     name: वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wa
     auto: true
   - translation_iso: jpn
     name: ワ語

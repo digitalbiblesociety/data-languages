@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كوسينا
     auto: true
+  - translation_iso: ben
+    name: কোসেনা
+    auto: true
   - translation_iso: deu
     name: Kosena
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोसेना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kosena
     auto: true
   - translation_iso: jpn
     name: コセナ語

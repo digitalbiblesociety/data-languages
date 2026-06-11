@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فايفاي
     auto: true
+  - translation_iso: ben
+    name: ভাইফেই
+    auto: true
   - translation_iso: deu
     name: Vaiphei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vaiphei
   - translation_iso: hin
     name: वाइफेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vaiphei
     auto: true
   - translation_iso: jpn
     name: バイペイ語

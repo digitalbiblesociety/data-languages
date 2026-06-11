@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويكميانها
     auto: true
+  - translation_iso: ben
+    name: ওয়িক-মেয়ানহা
+    auto: true
   - translation_iso: deu
     name: "Wik-Me'anha"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "wik-me'anha"
   - translation_iso: hin
     name: विक-मेअन्हा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Wik-Me'anha"
     auto: true
   - translation_iso: jpn
     name: ウィク・メアンハ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاندوو
     auto: true
+  - translation_iso: ben
+    name: কানদাওয়ো
+    auto: true
   - translation_iso: deu
     name: Kandawo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कंदावो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kandawo
     auto: true
   - translation_iso: jpn
     name: カンダウォ語

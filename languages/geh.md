@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hutterite_German"
 translations:
   - translation_iso: ara
     name: الألمانية الهوتريتية
+  - translation_iso: ben
+    name: হুত্তেরিতে গেরমান
+    auto: true
   - translation_iso: deu
     name: Hutterisch
   - translation_iso: fra
     name: allemand huttérite
   - translation_iso: hin
     name: हटराइट जर्मन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hutterite German
     auto: true
   - translation_iso: jpn
     name: フッター派ドイツ語

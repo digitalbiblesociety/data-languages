@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبو
     auto: true
+  - translation_iso: ben
+    name: জিবু
+    auto: true
   - translation_iso: deu
     name: Jibu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जिबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jibu
     auto: true
   - translation_iso: jpn
     name: ジブ語

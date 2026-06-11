@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نييوكون
     auto: true
+  - translation_iso: ben
+    name: নয়োকোন
+    auto: true
   - translation_iso: deu
     name: Nyokon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyokon
   - translation_iso: hin
     name: न्योकोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyokon
     auto: true
   - translation_iso: jpn
     name: ニョコン語

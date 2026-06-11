@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: पाकोह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pacoh
+    auto: true
   - translation_iso: jpn
     name: パコー語
     auto: true

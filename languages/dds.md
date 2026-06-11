@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دونو سو دوجون
     auto: true
+  - translation_iso: ben
+    name: দোন্নো সো দোগোন
+    auto: true
   - translation_iso: deu
     name: Donno So Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डोनो सो दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Donno So Dogon
     auto: true
   - translation_iso: jpn
     name: ドンノ・ソ・ドゴン語

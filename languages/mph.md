@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونج
     auto: true
+  - translation_iso: ben
+    name: মাউং
+    auto: true
   - translation_iso: deu
     name: Maung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maung
   - translation_iso: hin
     name: माउंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maung
     auto: true
   - translation_iso: jpn
     name: マウン語

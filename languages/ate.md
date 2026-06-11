@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अतेम्बले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atemble
+    auto: true
   - translation_iso: jpn
     name: アテンブレ語
     auto: true

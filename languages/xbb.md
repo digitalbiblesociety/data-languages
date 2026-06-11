@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لووير بورديكين
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের বুরদেকিন
+    auto: true
   - translation_iso: deu
     name: Lower Burdekin
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निचली बर्डेकिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lower Burdekin
     auto: true
   - translation_iso: jpn
     name: ロウアー・バーデキン語

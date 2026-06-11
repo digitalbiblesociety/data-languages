@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاديويو
     auto: true
+  - translation_iso: ben
+    name: কাদিওয়েউ
+    auto: true
   - translation_iso: deu
     name: Kadiwéu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kadiwéu
   - translation_iso: hin
     name: कादिवेउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kadiwéu
     auto: true
   - translation_iso: jpn
     name: カディウェウ語

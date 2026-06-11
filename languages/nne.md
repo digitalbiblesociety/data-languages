@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نغانديرا
     auto: true
+  - translation_iso: ben
+    name: ঙানদয়েরা
+    auto: true
   - translation_iso: deu
     name: Ngandyera
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngandyera
   - translation_iso: hin
     name: न्गान्द्येरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngandyera
     auto: true
   - translation_iso: jpn
     name: ングアンディエラ語

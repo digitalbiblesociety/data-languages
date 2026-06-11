@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك توتوماتشابان
     auto: true
+  - translation_iso: ben
+    name: তোতোমাচাপান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Totomachapan)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Totomachapan
   - translation_iso: hin
     name: तोतोमाचापन सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Totomachapan Zapotec
     auto: true
   - translation_iso: jpn
     name: トトマチャパン・サポテク語

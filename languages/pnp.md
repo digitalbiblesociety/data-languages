@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانكانا
     auto: true
+  - translation_iso: ben
+    name: পানকানা
+    auto: true
   - translation_iso: deu
     name: Pancana
     auto: true

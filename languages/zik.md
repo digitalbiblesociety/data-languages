@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيماكاني
     auto: true
+  - translation_iso: ben
+    name: জিমাকানি
+    auto: true
   - translation_iso: deu
     name: Zimakani
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़िमाकानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zimakani
     auto: true
   - translation_iso: jpn
     name: ジマカニ語

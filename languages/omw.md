@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة تايرورا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ তাইরোরা
+    auto: true
   - translation_iso: deu
     name: South Tairora
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tairora du Sud
   - translation_iso: hin
     name: दक्षिण तैरोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Tairora
     auto: true
   - translation_iso: jpn
     name: 南タイロラ語

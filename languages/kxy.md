@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايونج
     auto: true
+  - translation_iso: ben
+    name: কায়োং
+    auto: true
   - translation_iso: deu
     name: Kayong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कायोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayong
     auto: true
   - translation_iso: jpn
     name: カヨン語

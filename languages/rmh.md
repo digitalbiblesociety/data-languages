@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موركيم
     auto: true
+  - translation_iso: ben
+    name: মুরকিম
+    auto: true
   - translation_iso: deu
     name: Murkim
     auto: true

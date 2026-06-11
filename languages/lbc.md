@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاكيا
     auto: true
+  - translation_iso: ben
+    name: লাক্কিয়া
+    auto: true
   - translation_iso: deu
     name: Lakkia
     auto: true

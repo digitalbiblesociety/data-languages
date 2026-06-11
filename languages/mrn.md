@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تشيكي هولو
     auto: true
+  - translation_iso: ben
+    name: চেকে হোলো
+    auto: true
   - translation_iso: deu
     name: Cheke Holo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cheke holo
   - translation_iso: hin
     name: चेके होलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cheke Holo
     auto: true
   - translation_iso: jpn
     name: チェケ・ホロ語

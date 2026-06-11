@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة لوبوآغان كالينجا
     auto: true
+  - translation_iso: ben
+    name: লুবুয়াগান কালিঙা
+    auto: true
   - translation_iso: deu
     name: Lubuagan Kalinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lilubuagen
   - translation_iso: hin
     name: लुबुआगान कालिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lubuagan Kalinga
     auto: true
   - translation_iso: jpn
     name: ルブアガン・カリンガ語

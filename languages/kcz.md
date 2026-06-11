@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كونونغو
     auto: true
+  - translation_iso: ben
+    name: কোনোঙো
+    auto: true
   - translation_iso: deu
     name: Konongo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: konongo
   - translation_iso: hin
     name: कोनोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konongo
     auto: true
   - translation_iso: jpn
     name: コノンゴ語

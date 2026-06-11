@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كيان-كاريو ناغا
     auto: true
+  - translation_iso: ben
+    name: কয়ান-কারয়াওয় নাগা
+    auto: true
   - translation_iso: deu
     name: Kyan-Karyaw-Naga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: naga kyan-karyaw
   - translation_iso: hin
     name: क्यान-कार्याव नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kyan-Karyaw Naga
     auto: true
   - translation_iso: jpn
     name: キャン・カリャウ・ナガ語

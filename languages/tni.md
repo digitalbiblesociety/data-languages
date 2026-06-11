@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تانديا
     auto: true
+  - translation_iso: ben
+    name: তানদিয়া
+    auto: true
   - translation_iso: deu
     name: Tandia
   - translation_iso: fra

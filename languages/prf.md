@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراننان
     auto: true
+  - translation_iso: ben
+    name: পারানান
+    auto: true
   - translation_iso: deu
     name: Paranan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पारानान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paranan
     auto: true
   - translation_iso: jpn
     name: パラナン

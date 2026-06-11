@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बांगी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baangi
+    auto: true
   - translation_iso: jpn
     name: バアンギ語
     auto: true

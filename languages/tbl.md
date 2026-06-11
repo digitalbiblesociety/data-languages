@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تبولي
     auto: true
+  - translation_iso: ben
+    name: তবোলি
+    auto: true
   - translation_iso: deu
     name: Tboli
     auto: true

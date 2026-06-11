@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإندي
     auto: true
+  - translation_iso: ben
+    name: এনদে
+    auto: true
   - translation_iso: deu
     name: Ende
   - translation_iso: fra

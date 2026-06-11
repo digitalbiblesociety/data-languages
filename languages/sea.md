@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيماي
     auto: true
+  - translation_iso: ben
+    name: সেমাই
+    auto: true
   - translation_iso: deu
     name: Semai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: semai
   - translation_iso: hin
     name: सेमाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Semai
     auto: true
   - translation_iso: jpn
     name: セマイ語

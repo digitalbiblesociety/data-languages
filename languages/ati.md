@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अत्तिये
     auto: true
+  - translation_iso: ind
+    name: Bahasa Attié
+    auto: true
   - translation_iso: jpn
     name: アチェ語
   - translation_iso: kor

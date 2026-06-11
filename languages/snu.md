@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينجي
     auto: true
+  - translation_iso: ben
+    name: সেংগি
+    auto: true
   - translation_iso: deu
     name: Senggi
     auto: true

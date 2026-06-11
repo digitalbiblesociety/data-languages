@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيتمول
     auto: true
+  - translation_iso: ben
+    name: ইয়াতমুল
+    auto: true
   - translation_iso: deu
     name: Iatmul
   - translation_iso: fra
     name: iatmul
   - translation_iso: hin
     name: इयातमुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iatmul
     auto: true
   - translation_iso: jpn
     name: Iatmül語

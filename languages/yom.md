@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يومبي
     auto: true
+  - translation_iso: ben
+    name: য়োমবে
+    auto: true
   - translation_iso: deu
     name: Yombe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yombe
   - translation_iso: hin
     name: योम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yombe
     auto: true
   - translation_iso: jpn
     name: ヨンベ語

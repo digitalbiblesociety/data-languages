@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ال ألتو
     auto: true
+  - translation_iso: ben
+    name: এল আলতো জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (El Alto)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: "zapotèque d'El Alto"
   - translation_iso: hin
     name: एल आल्तो सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa El Alto Zapotec
     auto: true
   - translation_iso: jpn
     name: エル・アルト・サポテク語

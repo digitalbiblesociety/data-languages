@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو جووي
     auto: true
+  - translation_iso: ben
+    name: ওকো-জুওয়োই
+    auto: true
   - translation_iso: deu
     name: Oko-Juwoi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओको-जुवोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oko-Juwoi
     auto: true
   - translation_iso: jpn
     name: オコ・ジュウォイ語

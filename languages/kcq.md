@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كامو
     auto: true
+  - translation_iso: ben
+    name: কামো
+    auto: true
   - translation_iso: deu
     name: Kamo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue kamo
   - translation_iso: hin
     name: कामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamo
     auto: true
   - translation_iso: jpn
     name: カモ語

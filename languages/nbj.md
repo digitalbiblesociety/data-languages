@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نجارينيمان
     auto: true
+  - translation_iso: ben
+    name: ঙারিনয়মান
+    auto: true
   - translation_iso: deu
     name: Ngarinyman
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngarinman
   - translation_iso: hin
     name: न्गारिनिमान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngarinyman
     auto: true
   - translation_iso: jpn
     name: ングアリニマン語

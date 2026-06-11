@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نوي
     auto: true
+  - translation_iso: ben
+    name: নোয়
+    auto: true
   - translation_iso: deu
     name: Noy
   - translation_iso: fra
     name: noy
   - translation_iso: hin
     name: नोय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Noy
     auto: true
   - translation_iso: jpn
     name: ノイ語

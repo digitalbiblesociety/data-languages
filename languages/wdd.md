@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واندجي
     auto: true
+  - translation_iso: ben
+    name: ওয়ানদজি
+    auto: true
   - translation_iso: deu
     name: Wandji
   - translation_iso: fra
     name: wandji
   - translation_iso: hin
     name: वान्जी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wandji
     auto: true
   - translation_iso: jpn
     name: ワンジ語

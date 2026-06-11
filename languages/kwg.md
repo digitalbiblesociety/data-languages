@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سارا كابا ديمي
     auto: true
+  - translation_iso: ben
+    name: সারা কাবা দেমে
+    auto: true
   - translation_iso: deu
     name: Sara Kaba Deme
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sara kaba deme
   - translation_iso: hin
     name: सारा काबा देमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sara Kaba Deme
     auto: true
   - translation_iso: jpn
     name: サラ・カバ・デメ語

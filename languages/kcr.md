@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كاتلا
     auto: true
+  - translation_iso: ben
+    name: কাতলা
+    auto: true
   - translation_iso: deu
     name: Katla
   - translation_iso: fra
     name: katla
   - translation_iso: hin
     name: काटला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katla
     auto: true
   - translation_iso: jpn
     name: カトラ語

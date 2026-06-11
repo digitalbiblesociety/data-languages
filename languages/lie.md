@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يكيلا
     auto: true
+  - translation_iso: ben
+    name: লিকিলা
+    auto: true
   - translation_iso: deu
     name: Likila
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: likila
   - translation_iso: hin
     name: लिकिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Likila
     auto: true
   - translation_iso: jpn
     name: リキラ語

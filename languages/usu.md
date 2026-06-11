@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أويا
     auto: true
+  - translation_iso: ben
+    name: উয়া
+    auto: true
   - translation_iso: deu
     name: Uya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: uya
   - translation_iso: hin
     name: उया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uya
     auto: true
   - translation_iso: jpn
     name: ウスゥ語

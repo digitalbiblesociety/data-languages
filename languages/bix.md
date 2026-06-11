@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيجوري
     auto: true
+  - translation_iso: ben
+    name: বিজোরি
+    auto: true
   - translation_iso: deu
     name: Bijori
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिजोरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bijori
     auto: true
   - translation_iso: jpn
     name: ビジョリ語

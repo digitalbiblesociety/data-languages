@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكاسانغا
     auto: true
+  - translation_iso: ben
+    name: কাসাঙা
+    auto: true
   - translation_iso: deu
     name: Kasanga
   - translation_iso: fra
     name: kassanga
   - translation_iso: hin
     name: कासांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kasanga
     auto: true
   - translation_iso: jpn
     name: カサンガ語

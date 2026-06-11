@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نا
     auto: true
+  - translation_iso: ben
+    name: না
+    auto: true
   - translation_iso: deu
     name: Na
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: na
   - translation_iso: hin
     name: ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Na
     auto: true
   - translation_iso: jpn
     name: ナ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نومات سيغويينغا
     auto: true
+  - translation_iso: ben
+    name: নোমাতসিগুএঙা
+    auto: true
   - translation_iso: deu
     name: Nomatsiguenga
   - translation_iso: fra
     name: nomatsiguenga
   - translation_iso: hin
     name: नोमात्सिगेंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nomatsiguenga
     auto: true
   - translation_iso: jpn
     name: ノマツィゲンガ語

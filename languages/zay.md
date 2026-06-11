@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زايسي-زيرغولا
     auto: true
+  - translation_iso: ben
+    name: জায়সে-জেরগুল্লা
+    auto: true
   - translation_iso: deu
     name: Zayse-Zergulla
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zayse
   - translation_iso: hin
     name: ज़ायसे-ज़ेरगुल्ला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zayse-Zergulla
     auto: true
   - translation_iso: jpn
     name: ザイセ-ゼルグッラ語

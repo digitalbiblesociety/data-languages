@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوسون ويتو
     auto: true
+  - translation_iso: ben
+    name: দুসুন ওয়িতু
+    auto: true
   - translation_iso: deu
     name: Dusun Witu
     auto: true

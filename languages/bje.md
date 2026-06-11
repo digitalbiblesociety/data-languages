@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बियाओ-जियाओ मियेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biao-Jiao Mien
+    auto: true
   - translation_iso: jpn
     name: ビャオ・ジャオ・ミエン語
     auto: true

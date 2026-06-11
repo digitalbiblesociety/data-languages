@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مانامبو
     auto: true
+  - translation_iso: ben
+    name: মানামবু
+    auto: true
   - translation_iso: deu
     name: Manambu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manambu
   - translation_iso: hin
     name: मानाम्बु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manambu
     auto: true
   - translation_iso: jpn
     name: マナンブ語

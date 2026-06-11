@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولوف
     auto: true
+  - translation_iso: ben
+    name: মোলোফ
+    auto: true
   - translation_iso: deu
     name: Molof
     auto: true

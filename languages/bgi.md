@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جيانجان
     auto: true
+  - translation_iso: ben
+    name: গিয়াঙান
+    auto: true
   - translation_iso: deu
     name: Giangan
     auto: true

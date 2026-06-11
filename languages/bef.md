@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेनाबेना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Benabena
+    auto: true
   - translation_iso: jpn
     name: ベナベナ語
   - translation_iso: kor

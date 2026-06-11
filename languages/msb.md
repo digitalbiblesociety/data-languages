@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسباتينو
     auto: true
+  - translation_iso: ben
+    name: মাসবাতেনয়ো
+    auto: true
   - translation_iso: deu
     name: Masbatenyo
     auto: true

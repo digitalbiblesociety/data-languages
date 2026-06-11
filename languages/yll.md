@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يل
     auto: true
+  - translation_iso: ben
+    name: য়িল
+    auto: true
   - translation_iso: deu
     name: Yil
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yil
   - translation_iso: hin
     name: यिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yil
     auto: true
   - translation_iso: jpn
     name: イル語

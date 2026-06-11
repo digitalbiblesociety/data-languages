@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باغيبيتي
     auto: true
+  - translation_iso: ben
+    name: পাগিবেতে
+    auto: true
   - translation_iso: deu
     name: Pagibete
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pagibete
   - translation_iso: hin
     name: पागिबेते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pagibete
     auto: true
   - translation_iso: jpn
     name: パギベテ語

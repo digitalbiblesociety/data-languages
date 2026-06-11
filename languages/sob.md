@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبي
     auto: true
+  - translation_iso: ben
+    name: সোবেই
+    auto: true
   - translation_iso: deu
     name: Sobei
     auto: true

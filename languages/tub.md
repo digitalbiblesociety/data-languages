@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توباتولابال
     auto: true
+  - translation_iso: ben
+    name: তুবাতুলাবাল
+    auto: true
   - translation_iso: deu
     name: Tübatulabal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tubatulabal
   - translation_iso: hin
     name: तुबातुलाबल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tübatulabal
     auto: true
   - translation_iso: jpn
     name: トゥバトゥラバル語

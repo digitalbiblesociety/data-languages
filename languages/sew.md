@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيوا باي
     auto: true
+  - translation_iso: ben
+    name: সেওয়া বায়
+    auto: true
   - translation_iso: deu
     name: Sewa Bay
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेवा बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sewa Bay
     auto: true
   - translation_iso: jpn
     name: ドゥアウプワタ語

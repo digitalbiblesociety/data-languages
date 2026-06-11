@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السونيا
     auto: true
+  - translation_iso: ben
+    name: সোনিয়া
+    auto: true
   - translation_iso: deu
     name: Sonia
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोनिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sonia
     auto: true
   - translation_iso: jpn
     name: ソニア語

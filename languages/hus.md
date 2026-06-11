@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هواستيك
     auto: true
+  - translation_iso: ben
+    name: হুয়াসতেক
+    auto: true
   - translation_iso: deu
     name: Huastekisch
   - translation_iso: fra
     name: huastèque
   - translation_iso: hin
     name: हुआस्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huastec
     auto: true
   - translation_iso: jpn
     name: ワステク語

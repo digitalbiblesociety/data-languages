@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ييثا ييثا
     auto: true
+  - translation_iso: ben
+    name: য়িথা য়িথা
+    auto: true
   - translation_iso: deu
     name: Yitha Yitha
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: yitha yitha
   - translation_iso: hin
     name: यिथा यिथा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yitha Yitha
     auto: true
   - translation_iso: jpn
     name: イタイタ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاواسكار
     auto: true
+  - translation_iso: ben
+    name: কাওয়াসকার
+    auto: true
   - translation_iso: deu
     name: Qawasqar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kawésqar
   - translation_iso: hin
     name: कावेस्कर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Qawasqar
     auto: true
   - translation_iso: jpn
     name: カウェスカル語

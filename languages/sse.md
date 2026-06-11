@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बालांगिंगी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balangingi
+    auto: true
   - translation_iso: jpn
     name: バジャウ語
     auto: true

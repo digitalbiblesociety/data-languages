@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا سان مارتين
     auto: true
+  - translation_iso: ben
+    name: সান মারতিন কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Lamas-Quechua
   - translation_iso: fra
     name: quechua de San Martin
   - translation_iso: hin
     name: सान मार्तिन क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Martín Quechua
     auto: true
   - translation_iso: jpn
     name: サンマルティンケチュア語

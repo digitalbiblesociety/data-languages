@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نوكوورو
     auto: true
+  - translation_iso: ben
+    name: নুকুওরো
+    auto: true
   - translation_iso: deu
     name: Nukuoro
   - translation_iso: fra
     name: nukuoro
   - translation_iso: hin
     name: नुकुओरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nukuoro
     auto: true
   - translation_iso: jpn
     name: ヌクオロ語

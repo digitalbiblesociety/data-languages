@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: भुजेल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bhujel
+    auto: true
   - translation_iso: jpn
     name: ブジェル語
     auto: true

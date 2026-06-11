@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अझे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Azhe
+    auto: true
   - translation_iso: jpn
     name: アージェ語
     auto: true

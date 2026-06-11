@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هونغو
     auto: true
+  - translation_iso: ben
+    name: হুঙু
+    auto: true
   - translation_iso: deu
     name: Hungu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हुंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hungu
     auto: true
   - translation_iso: jpn
     name: フング語

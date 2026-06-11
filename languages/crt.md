@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "إيويجوا'جا تشوروتي"
     auto: true
+  - translation_iso: ben
+    name: ইয়োজওয়াজা চোরোতে
+    auto: true
   - translation_iso: deu
     name: "Iyojwa'ja Chorote"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chorote iyojwa’ja
   - translation_iso: hin
     name: इयोजवाजा चोरोते
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Iyojwa'ja Chorote"
     auto: true
   - translation_iso: jpn
     name: イヨフワハ・チョロテ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ماناندو ميلايو
     auto: true
+  - translation_iso: ben
+    name: মানাদো মালায়
+    auto: true
   - translation_iso: deu
     name: Manado-Malaiisch
     auto: true

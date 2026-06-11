@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: डागबानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dagbani
+    auto: true
   - translation_iso: jpn
     name: ダバニ語
   - translation_iso: kor

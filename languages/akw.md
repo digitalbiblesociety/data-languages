@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अक्वा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akwa
+    auto: true
   - translation_iso: jpn
     name: Akwa語
   - translation_iso: kor

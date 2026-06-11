@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوللوبو
     auto: true
+  - translation_iso: ben
+    name: লোলোপো
+    auto: true
   - translation_iso: deu
     name: Lolopo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lolopo
   - translation_iso: hin
     name: लोलोपो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lolopo
     auto: true
   - translation_iso: jpn
     name: リポ語

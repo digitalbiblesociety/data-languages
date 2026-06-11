@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: البونتوك الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন বোনতোক
+    auto: true
   - translation_iso: deu
     name: Ost-Bontok
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: "bontok de l'Est"
   - translation_iso: hin
     name: पूर्वी बोंटोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Bontok
     auto: true
   - translation_iso: jpn
     name: 東ボントク語

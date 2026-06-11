@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: سوروثابتيك
     auto: true
+  - translation_iso: ben
+    name: সোরোথাপতিক
+    auto: true
   - translation_iso: deu
     name: Sorothaptic
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: sorothaptique
   - translation_iso: hin
     name: सोरोथाप्टिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sorothaptic
     auto: true
   - translation_iso: jpn
     name: ソロテプティック語

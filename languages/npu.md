@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بويمي ناغا
     auto: true
+  - translation_iso: ben
+    name: পুইমেই নাগা
+    auto: true
   - translation_iso: deu
     name: Puimei-Naga
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: naga puimei
   - translation_iso: hin
     name: पुइमेई नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puimei Naga
     auto: true
   - translation_iso: jpn
     name: プイメイ・ナガ語

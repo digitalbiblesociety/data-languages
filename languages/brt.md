@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بيتاري
     auto: true
+  - translation_iso: ben
+    name: বিতারে
+    auto: true
   - translation_iso: deu
     name: Bitare
   - translation_iso: fra
     name: bitare
   - translation_iso: hin
     name: बिटारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bitare
     auto: true
   - translation_iso: jpn
     name: ビタレ語

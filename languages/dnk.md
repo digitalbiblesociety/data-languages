@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دينجكا
     auto: true
+  - translation_iso: ben
+    name: দেংকা
+    auto: true
   - translation_iso: deu
     name: Dengka
     auto: true

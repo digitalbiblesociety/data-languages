@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دولي جاي
     auto: true
+  - translation_iso: ben
+    name: দুলি-গেয়
+    auto: true
   - translation_iso: deu
     name: Duli-Gey
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: duli-gey
   - translation_iso: hin
     name: डुली-गे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duli-Gey
     auto: true
   - translation_iso: jpn
     name: ドゥリ語

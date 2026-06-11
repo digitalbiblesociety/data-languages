@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ يوجيانغ
     auto: true
+  - translation_iso: ben
+    name: য়োউজিয়াং ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Youjiang-Zhuang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zhuang de Youjiang
   - translation_iso: hin
     name: यौजियांग ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Youjiang Zhuang
     auto: true
   - translation_iso: jpn
     name: 右江チワン語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेन तेय दोगोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ben Tey Dogon
+    auto: true
   - translation_iso: jpn
     name: ベン・テイ・ドゴン語
     auto: true

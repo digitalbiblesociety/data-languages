@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الشول
     auto: true
+  - translation_iso: ben
+    name: চোল
+    auto: true
   - translation_iso: deu
     name: Chol-Sprache
   - translation_iso: fra
     name: "ch'ol"
   - translation_iso: hin
     name: चोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chol
     auto: true
   - translation_iso: jpn
     name: チョル語

@@ -28,6 +28,9 @@ translations:
     name: langue des signes de Penang
   - translation_iso: hin
     name: पेनांग सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Penang Sign Language
+    auto: true
   - translation_iso: jpn
     name: ペナン手話
   - translation_iso: kor

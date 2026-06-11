@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كامار
     auto: true
+  - translation_iso: ben
+    name: কামার
+    auto: true
   - translation_iso: deu
     name: Kamar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kamar
   - translation_iso: hin
     name: कमार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamar
     auto: true
   - translation_iso: jpn
     name: カマル語

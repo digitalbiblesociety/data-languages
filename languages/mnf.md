@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موندني
     auto: true
+  - translation_iso: ben
+    name: মুনদানি
+    auto: true
   - translation_iso: deu
     name: Mundani
   - translation_iso: fra
     name: mundani
   - translation_iso: hin
     name: मुंदानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mundani
     auto: true
   - translation_iso: jpn
     name: ムンダニ語

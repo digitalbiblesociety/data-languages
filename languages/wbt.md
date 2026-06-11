@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارنمان
     auto: true
+  - translation_iso: ben
+    name: ওয়ারনমান
+    auto: true
   - translation_iso: deu
     name: Warnman
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wanman
   - translation_iso: hin
     name: वार्नमन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warnman
     auto: true
   - translation_iso: jpn
     name: ワーンマン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونجاج
     auto: true
+  - translation_iso: ben
+    name: তুঙাগ
+    auto: true
   - translation_iso: deu
     name: Tungag
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tungag
   - translation_iso: hin
     name: तुंगाग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tungag
     auto: true
   - translation_iso: jpn
     name: ラヴォンガイ語

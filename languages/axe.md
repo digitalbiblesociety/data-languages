@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: अयेर्रेरेंगे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayerrerenge
+    auto: true
   - translation_iso: jpn
     name: アイエレレンゲ語
     auto: true

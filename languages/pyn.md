@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بويانّاوا
     auto: true
+  - translation_iso: ben
+    name: পোয়ানাওয়া
+    auto: true
   - translation_iso: deu
     name: Poyanáwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: poyanáwa
   - translation_iso: hin
     name: पोयानावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Poyanáwa
     auto: true
   - translation_iso: jpn
     name: ポヤナワ語

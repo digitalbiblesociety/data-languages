@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: ماكسي جبي
     auto: true
+  - translation_iso: ben
+    name: মাকসি গবে
+    auto: true
   - translation_iso: deu
     name: Mahi
   - translation_iso: fra
     name: maxi-gbe
   - translation_iso: hin
     name: माक्सी ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maxi Gbe
     auto: true
   - translation_iso: jpn
     name: マクシ・グベ語

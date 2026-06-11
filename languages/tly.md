@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Talysh_language"
 translations:
   - translation_iso: ara
     name: الطالشية
+  - translation_iso: ben
+    name: তালয়শ
+    auto: true
   - translation_iso: deu
     name: Talisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن قيآندونج ميآو
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কিয়ানদোং মিয়াও
+    auto: true
   - translation_iso: deu
     name: Nördliches Qiandong-Miao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hmu septentrional
   - translation_iso: hin
     name: उत्तरी छ्यान्तोंग मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Qiandong Miao
     auto: true
   - translation_iso: jpn
     name: 北部黔東苗語

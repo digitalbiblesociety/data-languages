@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاان
     auto: true
+  - translation_iso: ben
+    name: কান
+    auto: true
   - translation_iso: deu
     name: Kaan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaan
     auto: true
   - translation_iso: jpn
     name: カアン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تييفو
     auto: true
+  - translation_iso: ben
+    name: তিএফো
+    auto: true
   - translation_iso: deu
     name: Tiéfo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tiéfo
   - translation_iso: hin
     name: तिएफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiéfo
     auto: true
   - translation_iso: jpn
     name: ティエフォ語

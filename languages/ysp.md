@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة لولوبو الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন লোলোপো
+    auto: true
   - translation_iso: deu
     name: Süd-Lolopo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lolopo du Sud
   - translation_iso: hin
     name: दक्षिणी लोलोपो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Lolopo
     auto: true
   - translation_iso: jpn
     name: サザンロロポ語

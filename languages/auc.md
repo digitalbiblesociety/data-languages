@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة واورانيه
     auto: true
+  - translation_iso: ben
+    name: ওয়াওরানি
+    auto: true
   - translation_iso: deu
     name: Auca
   - translation_iso: fra
     name: huaorani
   - translation_iso: hin
     name: वाओरानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waorani
     auto: true
   - translation_iso: jpn
     name: ワオラニ語

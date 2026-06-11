@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيميلاي
     auto: true
+  - translation_iso: ben
+    name: সেমেলাই
+    auto: true
   - translation_iso: deu
     name: Semelai
     auto: true

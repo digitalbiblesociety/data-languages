@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فوتونا-أنيوا
     auto: true
+  - translation_iso: ben
+    name: ফুতুনা-আনিওয়া
+    auto: true
   - translation_iso: deu
     name: Futuna-Aniwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: futuna-aniwa
   - translation_iso: hin
     name: फुटुना-अनिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Futuna-Aniwa
     auto: true
   - translation_iso: jpn
     name: フトゥナ・アニワ語

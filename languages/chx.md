@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشانتيال
     auto: true
+  - translation_iso: ben
+    name: চানতয়াল
+    auto: true
   - translation_iso: deu
     name: Chantyal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chantyal
   - translation_iso: hin
     name: छंत्याल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chantyal
     auto: true
   - translation_iso: jpn
     name: チャンティアル語

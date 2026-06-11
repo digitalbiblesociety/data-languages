@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناواتل سيرا نيغرا
     auto: true
+  - translation_iso: ben
+    name: সিএর্রা নেগরা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Sierra-Negra-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de la Sierra Negra
   - translation_iso: hin
     name: सिएरा नेग्रा नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sierra Negra Nahuatl
     auto: true
   - translation_iso: jpn
     name: シエラネグラ・ナワトル語

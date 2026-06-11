@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अट्टापडी कुरुम्बा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Attapady Kurumba
+    auto: true
   - translation_iso: jpn
     name: アッタパディクルンバ語
     auto: true

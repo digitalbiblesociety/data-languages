@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة موجي الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন মুজি
+    auto: true
   - translation_iso: deu
     name: nördliches Muji
   - translation_iso: fra
     name: muji du Nord
   - translation_iso: hin
     name: उत्तरी मूजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Muji
     auto: true
   - translation_iso: jpn
     name: 北部ムジ語

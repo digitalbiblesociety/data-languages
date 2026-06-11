@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बामू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bamu
+    auto: true
   - translation_iso: jpn
     name: バムー語
     auto: true

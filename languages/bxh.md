@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوهوتو
     auto: true
+  - translation_iso: ben
+    name: বুহুতু
+    auto: true
   - translation_iso: deu
     name: Buhutu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुहुतु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buhutu
     auto: true
   - translation_iso: jpn
     name: ブフトゥ語

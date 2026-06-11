@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجارينجري
     auto: true
+  - translation_iso: ben
+    name: ঙার্রিনদজেরি
+    auto: true
   - translation_iso: deu
     name: Ngarrindjeri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngarrindjeri
   - translation_iso: hin
     name: नगारिंजेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngarrindjeri
     auto: true
   - translation_iso: jpn
     name: ンガリンジェリ語

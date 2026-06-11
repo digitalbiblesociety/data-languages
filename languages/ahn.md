@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आहान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Àhàn
+    auto: true
   - translation_iso: jpn
     name: アハン語
     auto: true

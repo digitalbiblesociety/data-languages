@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميري
     auto: true
+  - translation_iso: ben
+    name: মেরেয়
+    auto: true
   - translation_iso: deu
     name: Merey
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: merey
   - translation_iso: hin
     name: मेरेय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Merey
     auto: true
   - translation_iso: jpn
     name: メレイ語

@@ -27,6 +27,9 @@ translations:
   - translation_iso: hin
     name: बिलुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bilua
+    auto: true
   - translation_iso: jpn
     name: ムビルア語
   - translation_iso: kor

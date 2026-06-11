@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميجاما
     auto: true
+  - translation_iso: ben
+    name: মিগামা
+    auto: true
   - translation_iso: deu
     name: Migaama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: migaama
   - translation_iso: hin
     name: मिगामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Migaama
     auto: true
   - translation_iso: jpn
     name: ミガアマ語

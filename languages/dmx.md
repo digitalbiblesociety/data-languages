@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ديما
     auto: true
+  - translation_iso: ben
+    name: দেমা
+    auto: true
   - translation_iso: deu
     name: Dema
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dema
   - translation_iso: hin
     name: देमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dema
     auto: true
   - translation_iso: jpn
     name: デマ語

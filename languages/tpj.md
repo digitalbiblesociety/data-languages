@@ -17,6 +17,9 @@ glottolog_family_name: Tupian
 glottolog_classification: "Tupian > Eastern Tupian > Maweti-Guarani > Aweti-Guarani > Tupi-Guarani > Southern Tupi-Guarani > Tupi-Guarani Subgroup I > Tupi-Guarani Subgroup I.B > Chiriguanic > Tapieté"
 wikidata_id: Q3121063
 translations:
+  - translation_iso: ben
+    name: তাপিএতে
+    auto: true
   - translation_iso: deu
     name: Tapieté
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: tapieté
   - translation_iso: hin
     name: तापिएते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tapieté
     auto: true
   - translation_iso: jpn
     name: タピエテ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة تو
     auto: true
+  - translation_iso: ben
+    name: তু
+    auto: true
   - translation_iso: deu
     name: Mangghuer
   - translation_iso: fra
     name: monguor
   - translation_iso: hin
     name: तू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tu
     auto: true
   - translation_iso: jpn
     name: モングォル語

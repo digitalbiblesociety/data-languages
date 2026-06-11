@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكي
     auto: true
+  - translation_iso: ben
+    name: কোকে
+    auto: true
   - translation_iso: deu
     name: Koke
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koke
   - translation_iso: hin
     name: कोके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koke
     auto: true
   - translation_iso: jpn
     name: コケ語

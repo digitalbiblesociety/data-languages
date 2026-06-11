@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ميدوب
     auto: true
+  - translation_iso: ben
+    name: মিদোব
+    auto: true
   - translation_iso: deu
     name: Midob
   - translation_iso: fra
     name: Midob
   - translation_iso: hin
     name: मिदोब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Midob
     auto: true
   - translation_iso: jpn
     name: ミドブ語

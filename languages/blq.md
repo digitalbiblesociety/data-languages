@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बलुआन-पाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baluan-Pam
+    auto: true
   - translation_iso: jpn
     name: バルアン・パム語
     auto: true

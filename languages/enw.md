@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإنوان
     auto: true
+  - translation_iso: ben
+    name: এনওয়ান
+    auto: true
   - translation_iso: deu
     name: Enwan (Akwa Ibom State)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: enwang
   - translation_iso: hin
     name: एनवान (अक्वा इबोम राज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enwan
     auto: true
   - translation_iso: jpn
     name: エンワン語

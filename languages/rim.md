@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نياتورو
     auto: true
+  - translation_iso: ben
+    name: নয়াতুরু
+    auto: true
   - translation_iso: deu
     name: Nyaturu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyaturu
   - translation_iso: hin
     name: न्यातुरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyaturu
     auto: true
   - translation_iso: jpn
     name: ニャトゥル語

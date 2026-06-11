@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيمكو
     auto: true
+  - translation_iso: ben
+    name: সিমেকু
+    auto: true
   - translation_iso: deu
     name: Simeku
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिमेकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Simeku
     auto: true
   - translation_iso: jpn
     name: シメク語

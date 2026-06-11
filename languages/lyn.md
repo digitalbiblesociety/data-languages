@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ويانا
     auto: true
+  - translation_iso: ben
+    name: লুয়ানা
+    auto: true
   - translation_iso: deu
     name: Luyana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luyana
   - translation_iso: hin
     name: लुयाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luyana
     auto: true
   - translation_iso: jpn
     name: ルヤナ語

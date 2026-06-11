@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مبونجا
     auto: true
+  - translation_iso: ben
+    name: মবুঙা
+    auto: true
   - translation_iso: deu
     name: Mbunga
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: म्बुंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbunga
     auto: true
   - translation_iso: jpn
     name: ムブンガ語

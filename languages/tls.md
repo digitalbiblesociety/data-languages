@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تامبوتالو
     auto: true
+  - translation_iso: ben
+    name: তামবোতালো
+    auto: true
   - translation_iso: deu
     name: Tambotalo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tambotalo
   - translation_iso: hin
     name: तम्बोतालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tambotalo
     auto: true
   - translation_iso: jpn
     name: タンボタロ語

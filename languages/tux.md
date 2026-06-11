@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توكسيناوا
     auto: true
+  - translation_iso: ben
+    name: তুকসিনাওয়া
+    auto: true
   - translation_iso: deu
     name: Tuxináwa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुक्सिनावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuxináwa
     auto: true
   - translation_iso: jpn
     name: トゥチナウア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ونيو
     auto: true
+  - translation_iso: ben
+    name: লোনিউ
+    auto: true
   - translation_iso: deu
     name: Loniu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: loniu
   - translation_iso: hin
     name: लोनिउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loniu
     auto: true
   - translation_iso: jpn
     name: ロニウ語

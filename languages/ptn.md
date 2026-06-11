@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتاني
     auto: true
+  - translation_iso: ben
+    name: পাতানি
+    auto: true
   - translation_iso: deu
     name: Patani
     auto: true

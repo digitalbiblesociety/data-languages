@@ -29,6 +29,9 @@ translations:
     name: ho
   - translation_iso: hin
     name: हो भाषा
+  - translation_iso: ind
+    name: Bahasa Ho
+    auto: true
   - translation_iso: jpn
     name: ホー語
   - translation_iso: kor

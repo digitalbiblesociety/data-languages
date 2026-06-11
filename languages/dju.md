@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابريمان
     auto: true
+  - translation_iso: ben
+    name: কাপরিমান
+    auto: true
   - translation_iso: deu
     name: Kapriman
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kapriman
   - translation_iso: hin
     name: कप्रिमन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kapriman
     auto: true
   - translation_iso: jpn
     name: カプリマン語

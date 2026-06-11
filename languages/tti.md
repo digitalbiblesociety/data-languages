@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توباتي
     auto: true
+  - translation_iso: ben
+    name: তোবাতি
+    auto: true
   - translation_iso: deu
     name: Tobati
     auto: true

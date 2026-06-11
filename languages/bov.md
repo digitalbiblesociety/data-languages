@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: توولي
     auto: true
+  - translation_iso: ben
+    name: তুওয়ুলি
+    auto: true
   - translation_iso: deu
     name: Tuwuli
   - translation_iso: fra
     name: tuwuli
   - translation_iso: hin
     name: तुवुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuwuli
     auto: true
   - translation_iso: jpn
     name: ボウィリ語

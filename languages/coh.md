@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشوني-دزيهانا-كاوما
     auto: true
+  - translation_iso: ben
+    name: চোনয়ি-দজিহানা-কাউমা
+    auto: true
   - translation_iso: deu
     name: Chonyi-Dzihana-Kauma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chonyi
   - translation_iso: hin
     name: चोन्यी-डज़िहाना-कौमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chonyi-Dzihana-Kauma
     auto: true
   - translation_iso: jpn
     name: チョニイ語

@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: لغة الاويان يجن انجواجي
     auto: true
+  - translation_iso: ben
+    name: মালাওয়িয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Malawische Gebärdensprache
   - translation_iso: fra
     name: langue des signes malawite
   - translation_iso: hin
     name: मलावी सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malawian Sign Language
     auto: true
   - translation_iso: jpn
     name: マラウイ手話

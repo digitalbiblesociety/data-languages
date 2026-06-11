@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة لاجوان
     auto: true
+  - translation_iso: ben
+    name: লাগওয়ান
+    auto: true
   - translation_iso: deu
     name: Lagwan
   - translation_iso: fra
     name: lagwan
   - translation_iso: hin
     name: लागवान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lagwan
     auto: true
   - translation_iso: jpn
     name: ラグワン語

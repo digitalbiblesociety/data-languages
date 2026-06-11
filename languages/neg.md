@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيجيدال
     auto: true
+  - translation_iso: ben
+    name: নেগিদাল
+    auto: true
   - translation_iso: deu
     name: Negidalisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: néguidale
   - translation_iso: hin
     name: नेगिदाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Negidal
     auto: true
   - translation_iso: jpn
     name: ネギダール語

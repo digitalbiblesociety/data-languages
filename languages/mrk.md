@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة همفافيكي
     auto: true
+  - translation_iso: ben
+    name: হমওয়াভেকে
+    auto: true
   - translation_iso: deu
     name: Hmwaveke
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hmwaveke
   - translation_iso: hin
     name: ह्मवावेके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hmwaveke
     auto: true
   - translation_iso: jpn
     name: ムアヴェケ語

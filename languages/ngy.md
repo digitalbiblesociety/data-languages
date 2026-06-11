@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيبيا
     auto: true
+  - translation_iso: ben
+    name: তিবেয়া
+    auto: true
   - translation_iso: deu
     name: Tibea
   - translation_iso: fra
     name: tibea
   - translation_iso: hin
     name: तिबेआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tibea
     auto: true
   - translation_iso: jpn
     name: ティベア語

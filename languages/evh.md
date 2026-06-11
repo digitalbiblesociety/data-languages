@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الأفبي
     auto: true
+  - translation_iso: ben
+    name: উভবিএ
+    auto: true
   - translation_iso: deu
     name: Uvbie
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: uvbie
   - translation_iso: hin
     name: उव्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uvbie
     auto: true
   - translation_iso: jpn
     name: ウヴビエ語

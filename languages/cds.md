@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشادية
     auto: true
+  - translation_iso: ben
+    name: চাদিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Tschadische Gebärdensprache
   - translation_iso: fra
     name: langue des signes tchadienne
   - translation_iso: hin
     name: चाडियन सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chadian Sign Language
     auto: true
   - translation_iso: jpn
     name: チャド手話

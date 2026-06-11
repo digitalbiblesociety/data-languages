@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة نوكنا
     auto: true
+  - translation_iso: ben
+    name: নুকনা
+    auto: true
   - translation_iso: deu
     name: Nukna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nukna
   - translation_iso: hin
     name: नुक्ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nukna
     auto: true
   - translation_iso: jpn
     name: ヌクナ語

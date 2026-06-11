@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مانغ
     auto: true
+  - translation_iso: ben
+    name: মাং
+    auto: true
   - translation_iso: deu
     name: Mang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mang
   - translation_iso: hin
     name: मांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mang
     auto: true
   - translation_iso: jpn
     name: マン語

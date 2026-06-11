@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة مولدوفا
     auto: true
+  - translation_iso: ben
+    name: মোলদোভা সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Moldavische Gebärdensprache
   - translation_iso: fra
     name: langue des signes moldave
   - translation_iso: hin
     name: मोल्दोवा सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moldova Sign Language
     auto: true
   - translation_iso: jpn
     name: モルドバ手話

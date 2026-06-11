@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الإكبي
     auto: true
+  - translation_iso: ben
+    name: একপেয়ে
+    auto: true
   - translation_iso: deu
     name: Ekpeye
   - translation_iso: fra
     name: ekpeye
   - translation_iso: hin
     name: एक्पेये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ekpeye
     auto: true
   - translation_iso: jpn
     name: エクペイェ語

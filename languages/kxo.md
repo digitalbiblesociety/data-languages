@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانويه
     auto: true
+  - translation_iso: ben
+    name: কানোএ
+    auto: true
   - translation_iso: deu
     name: Kanoé
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: kanoê
   - translation_iso: hin
     name: कानोए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanoé
     auto: true
   - translation_iso: jpn
     name: カノエ語

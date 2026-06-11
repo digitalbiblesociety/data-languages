@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديهو
     auto: true
+  - translation_iso: ben
+    name: দেহু
+    auto: true
   - translation_iso: deu
     name: Dehu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: drehu
   - translation_iso: hin
     name: देहू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dehu
     auto: true
   - translation_iso: jpn
     name: ドレウ語

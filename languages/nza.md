@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيغون مبيمبي
     auto: true
+  - translation_iso: ben
+    name: তিগোন মবেমবে
+    auto: true
   - translation_iso: deu
     name: Tigon-Mbembe
   - translation_iso: fra
     name: mbembe tigon
   - translation_iso: hin
     name: तिगोन म्बेम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tigon Mbembe
     auto: true
   - translation_iso: jpn
     name: ティゴン・ムベンベ語

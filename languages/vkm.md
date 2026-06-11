@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاماكان
     auto: true
+  - translation_iso: ben
+    name: কামাকান
+    auto: true
   - translation_iso: deu
     name: Kamakan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kamakã
   - translation_iso: hin
     name: कामाकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamakan
     auto: true
   - translation_iso: jpn
     name: エゼシオ語

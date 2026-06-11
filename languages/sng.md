@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانجا (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: ben
+    name: সাঙা
+    auto: true
   - translation_iso: deu
     name: Sanga (Demokratische Republik Kongo)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luba-sanga
   - translation_iso: hin
     name: सांगा (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sanga
     auto: true
   - translation_iso: jpn
     name: サンガ語

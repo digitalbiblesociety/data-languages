@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيهيا تنزانيا
     auto: true
+  - translation_iso: ben
+    name: নয়িহা
+    auto: true
   - translation_iso: deu
     name: Nyiha (Tansania)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyiha
   - translation_iso: hin
     name: न्यिहा (तंज़ानिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyiha
     auto: true
   - translation_iso: jpn
     name: ニハ語

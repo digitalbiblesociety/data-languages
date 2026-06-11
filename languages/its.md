@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيسيكيري
     auto: true
+  - translation_iso: ben
+    name: ইসেকিরি
+    auto: true
   - translation_iso: deu
     name: Itsekiri
   - translation_iso: fra
     name: itsekiri
   - translation_iso: hin
     name: इसेकिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isekiri
     auto: true
   - translation_iso: jpn
     name: イツェキリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مادي
     auto: true
+  - translation_iso: ben
+    name: মাদি
+    auto: true
   - translation_iso: deu
     name: Madi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: madi
   - translation_iso: hin
     name: मादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Madi
     auto: true
   - translation_iso: jpn
     name: マディ語

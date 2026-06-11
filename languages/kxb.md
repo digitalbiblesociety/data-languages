@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: كروبو
     auto: true
+  - translation_iso: ben
+    name: করোবু
+    auto: true
   - translation_iso: deu
     name: Krobu
   - translation_iso: fra
     name: krobu
   - translation_iso: hin
     name: क्रोबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krobu
     auto: true
   - translation_iso: jpn
     name: クロブ語

@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: تسيماني
     auto: true
+  - translation_iso: ben
+    name: তসিমানে
+    auto: true
   - translation_iso: deu
     name: Mosetén
   - translation_iso: fra
     name: chimane
   - translation_iso: hin
     name: सिमाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsimané
     auto: true
   - translation_iso: jpn
     name: モセテン・チマネ諸語

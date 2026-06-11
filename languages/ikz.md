@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكيزو
     auto: true
+  - translation_iso: ben
+    name: ইকিজু
+    auto: true
   - translation_iso: deu
     name: Ikizu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ikizu
   - translation_iso: hin
     name: इकिज़ु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikizu
     auto: true
   - translation_iso: jpn
     name: イキズ語

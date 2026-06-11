@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: دجادجاوورونج
     auto: true
+  - translation_iso: ben
+    name: দজাদজাওয়ুর্রুং
+    auto: true
   - translation_iso: deu
     name: Djadjawurrung
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: djadjawurrung
   - translation_iso: hin
     name: जाजावुरुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djadjawurrung
     auto: true
   - translation_iso: jpn
     name: ジャジャワルング語

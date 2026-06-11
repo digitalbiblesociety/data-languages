@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نييينغو
     auto: true
+  - translation_iso: ben
+    name: নয়েঙো
+    auto: true
   - translation_iso: deu
     name: Nyengo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्येंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyengo
     auto: true
   - translation_iso: jpn
     name: ニェンゴ語

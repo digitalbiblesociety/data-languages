@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كين
     auto: true
+  - translation_iso: ben
+    name: কেইন
+    auto: true
   - translation_iso: deu
     name: Kein
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kein
   - translation_iso: hin
     name: केइन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kein
     auto: true
   - translation_iso: jpn
     name: ケイン語

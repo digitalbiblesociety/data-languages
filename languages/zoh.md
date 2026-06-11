@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوكي تشيمالابا
     auto: true
+  - translation_iso: ben
+    name: চিমালাপা জোকুএ
+    auto: true
   - translation_iso: deu
     name: Zoque (Chimalapa)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zoque de Chimalapa
   - translation_iso: hin
     name: चिमालापा ज़ोके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chimalapa Zoque
     auto: true
   - translation_iso: jpn
     name: チマラパ・ゾケ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موي إندونيسيا
     auto: true
+  - translation_iso: ben
+    name: মোই
+    auto: true
   - translation_iso: deu
     name: Moi (Indonesien)
     auto: true

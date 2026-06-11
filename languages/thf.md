@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثانغمي
     auto: true
+  - translation_iso: ben
+    name: থাংমি
+    auto: true
   - translation_iso: deu
     name: Thangmi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: thangmi
   - translation_iso: hin
     name: थांग्मी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thangmi
     auto: true
   - translation_iso: jpn
     name: タングミ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوهلوني الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন ওহলোনে
+    auto: true
   - translation_iso: deu
     name: Nördliches Ohlone
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ohlone du Nord
   - translation_iso: hin
     name: उत्तरी ओह्लोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Ohlone
     auto: true
   - translation_iso: jpn
     name: ノーザン・オーロン語

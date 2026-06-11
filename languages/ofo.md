@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوفو
     auto: true
+  - translation_iso: ben
+    name: ওফো
+    auto: true
   - translation_iso: deu
     name: Ofo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ofo
   - translation_iso: hin
     name: ओफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ofo
     auto: true
   - translation_iso: jpn
     name: オフォ語

@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: अघु-थार्नगाला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aghu-Tharnggala
+    auto: true
   - translation_iso: jpn
     name: アグ・タルングガラ語
     auto: true

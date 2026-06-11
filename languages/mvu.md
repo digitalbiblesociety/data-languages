@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मार्फा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Marfa
+    auto: true
   - translation_iso: jpn
     name: マルファ語
     auto: true

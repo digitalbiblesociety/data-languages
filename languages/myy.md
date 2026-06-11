@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماكونا
     auto: true
+  - translation_iso: ben
+    name: মাকুনা
+    auto: true
   - translation_iso: deu
     name: Macuna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: macuna
   - translation_iso: hin
     name: माकुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Macuna
     auto: true
   - translation_iso: jpn
     name: マクナ語

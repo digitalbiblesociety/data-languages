@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية بورجو
     auto: true
+  - translation_iso: ben
+    name: বোরগু ফুলফুলদে
+    auto: true
   - translation_iso: deu
     name: Borgu-Fulfulde
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: peul de Borgou
   - translation_iso: hin
     name: बोर्गू फुलफुल्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Borgu Fulfulde
     auto: true
   - translation_iso: jpn
     name: ボルグ・フルフルディ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تشومبورونج
     auto: true
+  - translation_iso: ben
+    name: চুমবুরুং
+    auto: true
   - translation_iso: deu
     name: Chumburung
   - translation_iso: fra
     name: chumburung
   - translation_iso: hin
     name: चुम्बुरुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chumburung
     auto: true
   - translation_iso: jpn
     name: チュムブルング語

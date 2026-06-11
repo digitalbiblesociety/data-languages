@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ممن
     auto: true
+  - translation_iso: ben
+    name: ম্মেন
+    auto: true
   - translation_iso: deu
     name: Mmen
   - translation_iso: fra
     name: mmen
   - translation_iso: hin
     name: म्मेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mmen
     auto: true
   - translation_iso: jpn
     name: ンメン語

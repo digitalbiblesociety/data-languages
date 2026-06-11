@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: غاليندان
     auto: true
+  - translation_iso: ben
+    name: গালিনদান
+    auto: true
   - translation_iso: deu
     name: Galindan
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: galindien
   - translation_iso: hin
     name: गलिंदाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Galindan
     auto: true
   - translation_iso: jpn
     name: ガリンディア語

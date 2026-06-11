@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موبامي
     auto: true
+  - translation_iso: ben
+    name: মুবামি
+    auto: true
   - translation_iso: deu
     name: Mubami
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुबामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mubami
     auto: true
   - translation_iso: jpn
     name: タオ語

@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अका-कारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aka-Cari
+    auto: true
   - translation_iso: jpn
     name: アカカリ語
     auto: true

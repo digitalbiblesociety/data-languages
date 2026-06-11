@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة إينيبو وان
     auto: true
+  - translation_iso: ben
+    name: ইনেবু ওনে
+    auto: true
   - translation_iso: deu
     name: Inebu One
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: one inebu
   - translation_iso: hin
     name: इनेबु वन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Inebu One
     auto: true
   - translation_iso: jpn
     name: イネブ・ワン語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واوا
     auto: true
+  - translation_iso: ben
+    name: ওয়াওয়া
+    auto: true
   - translation_iso: deu
     name: Wawa
   - translation_iso: fra
     name: wawa
   - translation_iso: hin
     name: वावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wawa
     auto: true
   - translation_iso: jpn
     name: ワワ語

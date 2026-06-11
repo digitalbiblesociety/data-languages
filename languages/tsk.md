@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسيكو
     auto: true
+  - translation_iso: ben
+    name: তসেকু
+    auto: true
   - translation_iso: deu
     name: Tseku
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tseku
   - translation_iso: hin
     name: त्सेकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tseku
     auto: true
   - translation_iso: jpn
     name: ツク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتشينري
     auto: true
+  - translation_iso: ben
+    name: মাচিনেরে
+    auto: true
   - translation_iso: deu
     name: Machinere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: machinere
   - translation_iso: hin
     name: माचिनेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Machinere
     auto: true
   - translation_iso: jpn
     name: マシネレ語

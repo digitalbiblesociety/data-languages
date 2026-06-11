@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابيياري
     auto: true
+  - translation_iso: ben
+    name: কাবিয়ারি
+    auto: true
   - translation_iso: deu
     name: Cabiyarí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cabiyari
   - translation_iso: hin
     name: काबियारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cabiyarí
     auto: true
   - translation_iso: jpn
     name: カビヤリ語

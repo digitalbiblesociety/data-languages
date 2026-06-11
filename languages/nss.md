@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نالي
     auto: true
+  - translation_iso: ben
+    name: নালি
+    auto: true
   - translation_iso: deu
     name: Nali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nali
   - translation_iso: hin
     name: नाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nali
     auto: true
   - translation_iso: jpn
     name: ナリ語

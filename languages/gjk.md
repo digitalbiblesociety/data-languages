@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كآتشي كولي
     auto: true
+  - translation_iso: ben
+    name: কাচি কোলি
+    auto: true
   - translation_iso: deu
     name: Kachi Koli
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: koli kachi
   - translation_iso: hin
     name: कच्छी कोली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kachi Koli
     auto: true
   - translation_iso: jpn
     name: カチ・コリ語

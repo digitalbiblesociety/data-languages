@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويل
     auto: true
+  - translation_iso: ben
+    name: লওয়েল
+    auto: true
   - translation_iso: deu
     name: Lwel
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ल्वेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lwel
     auto: true
   - translation_iso: jpn
     name: ルエル語

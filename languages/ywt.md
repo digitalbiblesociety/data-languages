@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة زيشانبا لالو
     auto: true
+  - translation_iso: ben
+    name: কসিশানবা লালো
+    auto: true
   - translation_iso: deu
     name: Xishanba-Lalo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lalo central
   - translation_iso: hin
     name: शीशानबा लालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xishanba Lalo
     auto: true
   - translation_iso: jpn
     name: シーシャンバ・ラロ語

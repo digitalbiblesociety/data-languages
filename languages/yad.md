@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yagua_language"
 translations:
   - translation_iso: ara
     name: اللغة اليقوية
+  - translation_iso: ben
+    name: য়াগুয়া
+    auto: true
   - translation_iso: deu
     name: Yagua
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yagua
   - translation_iso: hin
     name: यागुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yagua
     auto: true
   - translation_iso: jpn
     name: ヤグア語

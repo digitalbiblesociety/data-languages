@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووم نيغيريا
     auto: true
+  - translation_iso: ben
+    name: ওয়োম
+    auto: true
   - translation_iso: deu
     name: Wom (Nigeria)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wom
   - translation_iso: hin
     name: वोम (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wom
     auto: true
   - translation_iso: jpn
     name: ウォム語（ナイジェリア）

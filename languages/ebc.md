@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: البيجنتسي
     auto: true
+  - translation_iso: ben
+    name: বেগিনকির
+    auto: true
   - translation_iso: deu
     name: Beginci
     auto: true

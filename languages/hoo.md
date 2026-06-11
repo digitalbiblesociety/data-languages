@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هولوهولو
     auto: true
+  - translation_iso: ben
+    name: হোলোহোলো
+    auto: true
   - translation_iso: deu
     name: Holoholo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: holoholo
   - translation_iso: hin
     name: होलोहोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Holoholo
     auto: true
   - translation_iso: jpn
     name: ホロホロ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خامتانغا
     auto: true
+  - translation_iso: ben
+    name: কসামতাঙা
+    auto: true
   - translation_iso: deu
     name: Xamtanga
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ख़मतांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xamtanga
     auto: true
   - translation_iso: jpn
     name: シャムタンガ語

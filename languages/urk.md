@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: أوراك لاووي
     auto: true
+  - translation_iso: ben
+    name: উরাক লাওয়োই
+    auto: true
   - translation_iso: deu
     name: Urak Lawoi
     auto: true
@@ -31,7 +34,7 @@ translations:
     name: उराक लावोई
     auto: true
   - translation_iso: ind
-    name: "Bahasa Urak Lawoi'"
+    name: Bahasa Urak Lawoi
   - translation_iso: jpn
     name: ウラック・ラオイ語
     auto: true

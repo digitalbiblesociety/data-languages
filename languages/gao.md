@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجانتس
     auto: true
+  - translation_iso: ben
+    name: গানতস
+    auto: true
   - translation_iso: deu
     name: Gants
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gants
   - translation_iso: hin
     name: गांट्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gants
     auto: true
   - translation_iso: jpn
     name: ガンツ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيريكي
     auto: true
+  - translation_iso: ben
+    name: কিরিকে
+    auto: true
   - translation_iso: deu
     name: Kirike
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kirike
   - translation_iso: hin
     name: किरिके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kirike
     auto: true
   - translation_iso: jpn
     name: キリケ語

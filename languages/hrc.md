@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نيور ميل
     auto: true
+  - translation_iso: ben
+    name: নিওয়ের মিল
+    auto: true
   - translation_iso: deu
     name: Niwer Mil
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निवेर मिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Niwer Mil
     auto: true
   - translation_iso: jpn
     name: ニウェル・ミル語

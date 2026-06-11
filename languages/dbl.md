@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديربال
     auto: true
+  - translation_iso: ben
+    name: দয়িরবাল
+    auto: true
   - translation_iso: deu
     name: Dyirbal
   - translation_iso: fra
     name: dyirbal
   - translation_iso: hin
     name: डिर्बल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dyirbal
     auto: true
   - translation_iso: jpn
     name: ジルバル語

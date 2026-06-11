@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هايو
     auto: true
+  - translation_iso: ben
+    name: খায়ো
+    auto: true
   - translation_iso: deu
     name: Khayo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: खायो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khayo
     auto: true
   - translation_iso: jpn
     name: カヨ語

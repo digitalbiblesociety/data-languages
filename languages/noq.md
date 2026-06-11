@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نغونغو
     auto: true
+  - translation_iso: ben
+    name: ঙোঙো
+    auto: true
   - translation_iso: deu
     name: Ngongo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngongo
   - translation_iso: hin
     name: न्गोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngongo
     auto: true
   - translation_iso: jpn
     name: ンゴンゴ語

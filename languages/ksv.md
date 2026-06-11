@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوسو
     auto: true
+  - translation_iso: ben
+    name: কুসু
+    auto: true
   - translation_iso: deu
     name: Kusu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kusu
   - translation_iso: hin
     name: कुसु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kusu
     auto: true
   - translation_iso: jpn
     name: クス語

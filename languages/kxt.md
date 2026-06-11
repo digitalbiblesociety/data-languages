@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويوات
     auto: true
+  - translation_iso: ben
+    name: কোইওয়াত
+    auto: true
   - translation_iso: deu
     name: Koiwat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koiwat
   - translation_iso: hin
     name: कोइवात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koiwat
     auto: true
   - translation_iso: jpn
     name: コイワット語

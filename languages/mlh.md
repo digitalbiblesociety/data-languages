@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مابي
     auto: true
+  - translation_iso: ben
+    name: মাপে
+    auto: true
   - translation_iso: deu
     name: Mape
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mape
   - translation_iso: hin
     name: मापे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mape
     auto: true
   - translation_iso: jpn
     name: マペ語

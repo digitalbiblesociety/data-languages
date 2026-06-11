@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barí
+    auto: true
   - translation_iso: jpn
     name: バリ語
     auto: true

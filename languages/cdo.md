@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Min"
 translations:
   - translation_iso: ara
     name: مين الشرقية
+  - translation_iso: ben
+    name: মিন দোং চিনেসে
+    auto: true
   - translation_iso: deu
     name: Min Dong
   - translation_iso: fra

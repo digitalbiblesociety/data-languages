@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موموا
     auto: true
+  - translation_iso: ben
+    name: মোমুনা
+    auto: true
   - translation_iso: deu
     name: Momuna
     auto: true

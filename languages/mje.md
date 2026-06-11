@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موسكوم
     auto: true
+  - translation_iso: ben
+    name: মুসকুম
+    auto: true
   - translation_iso: deu
     name: Muskum
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muskum
   - translation_iso: hin
     name: मुस्कुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muskum
     auto: true
   - translation_iso: jpn
     name: ムスクム語

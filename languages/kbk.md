@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كويري العشبية
     auto: true
+  - translation_iso: ben
+    name: গরাস্স কোইয়ারি
+    auto: true
   - translation_iso: deu
     name: Grass Koiari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koiari grass
   - translation_iso: hin
     name: ग्रास कोयारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Grass Koiari
     auto: true
   - translation_iso: jpn
     name: グラス・コイアリ語

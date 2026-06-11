@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجن
     auto: true
+  - translation_iso: ben
+    name: নজেন
+    auto: true
   - translation_iso: deu
     name: Njen
   - translation_iso: fra
     name: njen
   - translation_iso: hin
     name: न्जेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Njen
     auto: true
   - translation_iso: jpn
     name: ンジェン語

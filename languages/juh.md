@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هوني
     auto: true
+  - translation_iso: ben
+    name: হোনে
+    auto: true
   - translation_iso: deu
     name: Hõne
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hõne
   - translation_iso: hin
     name: होने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hõne
     auto: true
   - translation_iso: jpn
     name: ホーネ語

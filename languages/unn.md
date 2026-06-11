@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كورناي
     auto: true
+  - translation_iso: ben
+    name: কুরনাই
+    auto: true
   - translation_iso: deu
     name: Kurnai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kurnai
   - translation_iso: hin
     name: कुर्नाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kurnai
     auto: true
   - translation_iso: jpn
     name: ガナイ語

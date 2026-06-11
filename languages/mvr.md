@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماراو
     auto: true
+  - translation_iso: ben
+    name: মারাউ
+    auto: true
   - translation_iso: deu
     name: Marau
     auto: true

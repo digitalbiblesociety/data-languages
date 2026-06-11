@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيانكبا
     auto: true
+  - translation_iso: ben
+    name: নয়ানকপা
+    auto: true
   - translation_iso: deu
     name: Nyankpa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्यांकपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyankpa
     auto: true
   - translation_iso: jpn
     name: ニャンクパ語

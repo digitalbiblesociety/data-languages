@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإسيلين
     auto: true
+  - translation_iso: ben
+    name: এস্সেলেন
+    auto: true
   - translation_iso: deu
     name: Esselen
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: esselen
   - translation_iso: hin
     name: एसेलेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Esselen
     auto: true
   - translation_iso: jpn
     name: エセレン語

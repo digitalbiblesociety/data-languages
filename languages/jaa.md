@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاماماديه
     auto: true
+  - translation_iso: ben
+    name: জামামাদি
+    auto: true
   - translation_iso: deu
     name: Jamamadí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jamamadi
   - translation_iso: hin
     name: जामामादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jamamadí
     auto: true
   - translation_iso: jpn
     name: ヤママディ語

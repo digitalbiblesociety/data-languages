@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توبيلونغ
     auto: true
+  - translation_iso: ben
+    name: তোবিলুং
+    auto: true
   - translation_iso: deu
     name: Tobilung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tobilung
   - translation_iso: hin
     name: तोबिलुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tobilung
     auto: true
   - translation_iso: jpn
     name: トビルン語

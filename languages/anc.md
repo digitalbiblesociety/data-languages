@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة نغاس
     auto: true
+  - translation_iso: ben
+    name: ঙাস
+    auto: true
   - translation_iso: deu
     name: Ngas
   - translation_iso: fra
     name: angas
   - translation_iso: hin
     name: न्गास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngas
     auto: true
   - translation_iso: jpn
     name: ンガス語

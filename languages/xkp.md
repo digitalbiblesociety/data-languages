@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاباتي
     auto: true
+  - translation_iso: ben
+    name: কাবাতেই
+    auto: true
   - translation_iso: deu
     name: Kabatei
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kabatei
   - translation_iso: hin
     name: कबाते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kabatei
     auto: true
   - translation_iso: jpn
     name: カバテイ語

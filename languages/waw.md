@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايواي
     auto: true
+  - translation_iso: ben
+    name: ওয়াইওয়াই
+    auto: true
   - translation_iso: deu
     name: Waiwai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waiwai
   - translation_iso: hin
     name: वाइवाइ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waiwai
     auto: true
   - translation_iso: jpn
     name: ワイワイ語

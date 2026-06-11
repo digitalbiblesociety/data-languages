@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبالا
     auto: true
+  - translation_iso: ben
+    name: মবালা
+    auto: true
   - translation_iso: deu
     name: Mbala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbala
   - translation_iso: hin
     name: म्बाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbala
     auto: true
   - translation_iso: jpn
     name: ムバラ語

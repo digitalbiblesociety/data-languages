@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بورونجي
     auto: true
+  - translation_iso: ben
+    name: বুরুঙে
+    auto: true
   - translation_iso: deu
     name: Burunge
   - translation_iso: fra
     name: burunge
   - translation_iso: hin
     name: बुरुंगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burunge
     auto: true
   - translation_iso: jpn
     name: ブルンゲ語

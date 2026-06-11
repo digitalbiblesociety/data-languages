@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كونزا
     auto: true
+  - translation_iso: ben
+    name: কুনজা
+    auto: true
   - translation_iso: deu
     name: Kunza
   - translation_iso: fra
     name: kunza
   - translation_iso: hin
     name: कुंज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunza
     auto: true
   - translation_iso: jpn
     name: クンサ語

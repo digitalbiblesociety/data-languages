@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هيجاونون
     auto: true
+  - translation_iso: ben
+    name: হিগাওনোন
+    auto: true
   - translation_iso: deu
     name: Higaonon
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हिगाओनोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Higaonon
     auto: true
   - translation_iso: jpn
     name: ヒガオノン語

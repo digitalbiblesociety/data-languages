@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نكونيا
     auto: true
+  - translation_iso: ben
+    name: নকোনয়া
+    auto: true
   - translation_iso: deu
     name: Nkonya
   - translation_iso: fra
     name: nkonya
   - translation_iso: hin
     name: नकोन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkonya
     auto: true
   - translation_iso: jpn
     name: ンコニャ語

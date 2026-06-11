@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kuhmareyi_language"
 translations:
   - translation_iso: ara
     name: لهجة کوهمرتي
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন ফারস
+    auto: true
   - translation_iso: deu
     name: Südwest-Fars
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिण-पश्चिमी फ़ार्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Fars
     auto: true
   - translation_iso: jpn
     name: 南西ファルス語

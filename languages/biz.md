@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بالوي
     auto: true
+  - translation_iso: ben
+    name: বালোই
+    auto: true
   - translation_iso: deu
     name: Baloi
   - translation_iso: fra
     name: loi
   - translation_iso: hin
     name: बालोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Baloi
     auto: true
   - translation_iso: jpn
     name: バロイ語

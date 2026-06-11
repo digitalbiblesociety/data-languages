@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باريا
     auto: true
+  - translation_iso: ben
+    name: পারয়া
+    auto: true
   - translation_iso: deu
     name: Parya
     auto: true

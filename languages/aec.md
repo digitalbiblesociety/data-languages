@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sa%CA%BDidi_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة صعيدية
+  - translation_iso: ben
+    name: সাইদি আরাবিক
+    auto: true
   - translation_iso: deu
     name: Ṣaʿīdī-Arabisch
   - translation_iso: fra

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरहो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arhö
+    auto: true
   - translation_iso: jpn
     name: アルホ語
     auto: true

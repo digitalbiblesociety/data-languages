@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيموايا
     auto: true
+  - translation_iso: ben
+    name: তেমোয়ায়া ওতোমি
+    auto: true
   - translation_iso: deu
     name: Temoaya-Otomí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: otomi de Temoaya
   - translation_iso: hin
     name: तेमोआया ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Temoaya Otomi
     auto: true
   - translation_iso: jpn
     name: テモアヤ・オトミ語

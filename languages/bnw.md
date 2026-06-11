@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بيسيس
     auto: true
+  - translation_iso: ben
+    name: বিসিস
+    auto: true
   - translation_iso: deu
     name: Bisis
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bisis
   - translation_iso: hin
     name: बिसिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bisis
     auto: true
   - translation_iso: jpn
     name: ビシス語

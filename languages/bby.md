@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بيفانج
     auto: true
+  - translation_iso: ben
+    name: বেফাং
+    auto: true
   - translation_iso: deu
     name: Befang
   - translation_iso: fra
     name: befang
   - translation_iso: hin
     name: बेफांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Befang
     auto: true
   - translation_iso: jpn
     name: ベファング語

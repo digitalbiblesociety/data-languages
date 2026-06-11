@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيبي
     auto: true
+  - translation_iso: ben
+    name: সিবে
+    auto: true
   - translation_iso: deu
     name: Sibe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sibe
   - translation_iso: hin
     name: सिबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sibe
     auto: true
   - translation_iso: jpn
     name: シベ語

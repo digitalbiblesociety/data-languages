@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نالوو يي
     auto: true
+  - translation_iso: ben
+    name: নালুও য়ি
+    auto: true
   - translation_iso: deu
     name: Naluo Yi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naluo
   - translation_iso: hin
     name: नालुओ यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Naluo Yi
     auto: true
   - translation_iso: jpn
     name: ナルオ・イー語

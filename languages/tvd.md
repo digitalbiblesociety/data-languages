@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسوفادي
     auto: true
+  - translation_iso: ben
+    name: তসুভাদি
+    auto: true
   - translation_iso: deu
     name: Tsuvadi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsuvadi
   - translation_iso: hin
     name: त्सुवादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsuvadi
     auto: true
   - translation_iso: jpn
     name: ツゥヴァディ語

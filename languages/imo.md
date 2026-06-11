@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إمبونغو
     auto: true
+  - translation_iso: ben
+    name: ইমবোঙু
+    auto: true
   - translation_iso: deu
     name: Imbongu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: imbongu
   - translation_iso: hin
     name: इम्बोंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Imbongu
     auto: true
   - translation_iso: jpn
     name: イムボング語

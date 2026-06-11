@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهاري
     auto: true
+  - translation_iso: ben
+    name: পাহারি
+    auto: true
   - translation_iso: deu
     name: Pahari
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पहाड़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pahari
     auto: true
   - translation_iso: jpn
     name: パハリ語

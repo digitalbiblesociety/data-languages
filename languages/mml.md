@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مان ميت
     auto: true
+  - translation_iso: ben
+    name: মান মেত
+    auto: true
   - translation_iso: deu
     name: Man Met
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kemie
   - translation_iso: hin
     name: मान मेत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Man Met
     auto: true
   - translation_iso: jpn
     name: マン・メット語

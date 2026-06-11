@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Armenian"
 translations:
   - translation_iso: ara
     name: الأرمنية الوسطى
+  - translation_iso: ben
+    name: মিদ্দলে আরমেনিয়ান
+    auto: true
   - translation_iso: deu
     name: Mittelarmenisch
   - translation_iso: fra

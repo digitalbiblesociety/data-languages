@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مجدالينا بينيسكو ميكستيك
     auto: true
+  - translation_iso: ben
+    name: মাগদালেনা পেনয়াসকো মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Magdalena-Peñasco-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मगदालेना पेन्यास्को मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Magdalena Peñasco Mixtec
     auto: true
   - translation_iso: jpn
     name: マグダレナ・ペニャスコ・ミステク語

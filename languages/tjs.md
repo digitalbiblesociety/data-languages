@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توجيا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন তুজিয়া
+    auto: true
   - translation_iso: deu
     name: Southern Tujia
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tujia du Sud
   - translation_iso: hin
     name: दक्षिणी तुजिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Tujia
     auto: true
   - translation_iso: jpn
     name: 南部トゥジア語

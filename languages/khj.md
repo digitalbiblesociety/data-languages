@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتورمي
     auto: true
+  - translation_iso: ben
+    name: কুতুরমি
+    auto: true
   - translation_iso: deu
     name: Kuturmi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuturmi
   - translation_iso: hin
     name: कुतुर्मी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuturmi
     auto: true
   - translation_iso: jpn
     name: クトゥルミ語

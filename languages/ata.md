@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليه-أتا
     auto: true
+  - translation_iso: ben
+    name: পেলে-আতা
+    auto: true
   - translation_iso: deu
     name: Pele-Ata
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: pele-ata
   - translation_iso: hin
     name: पेले-अता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pele-Ata
     auto: true
   - translation_iso: jpn
     name: ペレアタ語

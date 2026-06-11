@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أبر أمبكوا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের উমপকুয়া
+    auto: true
   - translation_iso: deu
     name: Umpqua
   - translation_iso: fra
     name: upper Umpqua
   - translation_iso: hin
     name: ऊपरी उम्पक्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Umpqua
     auto: true
   - translation_iso: jpn
     name: アッパー・ウムプクア語

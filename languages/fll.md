@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الفالي
     auto: true
+  - translation_iso: ben
+    name: নোরথ ফালি
+    auto: true
   - translation_iso: deu
     name: Nord-Fali
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उत्तरी फाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Fali
     auto: true
   - translation_iso: jpn
     name: 北ファリ語

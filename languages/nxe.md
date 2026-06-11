@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناغي
     auto: true
+  - translation_iso: ben
+    name: নাগে
+    auto: true
   - translation_iso: deu
     name: Nage
   - translation_iso: fra

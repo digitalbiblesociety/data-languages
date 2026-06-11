@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونغانديتج
     auto: true
+  - translation_iso: ben
+    name: বুঙানদিতজ
+    auto: true
   - translation_iso: deu
     name: Bunganditj
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bunganditj
   - translation_iso: hin
     name: बुंगांडित्ज
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bunganditj
     auto: true
   - translation_iso: jpn
     name: ブンガンディッジ語

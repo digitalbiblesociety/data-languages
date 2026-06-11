@@ -29,6 +29,9 @@ translations:
     name: "langue des signes d'Adamorobe"
   - translation_iso: hin
     name: एडमोरोब साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Adamorobe Sign Language
+    auto: true
   - translation_iso: jpn
     name: アダモロベ手話
   - translation_iso: kor

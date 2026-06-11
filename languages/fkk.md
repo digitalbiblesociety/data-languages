@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كيريا-كونزول
     auto: true
+  - translation_iso: ben
+    name: কিরয়া-কোনজাল
+    auto: true
   - translation_iso: deu
     name: Kirya-Konzəl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kirya-konzel
   - translation_iso: hin
     name: किरया-कोन्ज़ेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kirya-Konzəl
     auto: true
   - translation_iso: jpn
     name: キルヤ・コンツェル語

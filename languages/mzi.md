@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إكسكاتلان مازاتك
     auto: true
+  - translation_iso: ben
+    name: ইকসকাতলান মাজাতেক
+    auto: true
   - translation_iso: deu
     name: Ixcatlán-Mazatekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "Mazatèque d'Ixcatlán"
   - translation_iso: hin
     name: इक्सकातलान माज़ातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ixcatlán Mazatec
     auto: true
   - translation_iso: jpn
     name: イクスカトラン・マサテク語

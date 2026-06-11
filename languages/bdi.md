@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوران
     auto: true
+  - translation_iso: ben
+    name: বুরুন
+    auto: true
   - translation_iso: deu
     name: Burun
   - translation_iso: fra
     name: burun
   - translation_iso: hin
     name: बुरुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burun
     auto: true
   - translation_iso: jpn
     name: ブルン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالاريان
     auto: true
+  - translation_iso: ben
+    name: মালারয়ান
+    auto: true
   - translation_iso: deu
     name: Malaryan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मलार्यन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malaryan
     auto: true
   - translation_iso: jpn
     name: マラリャン語

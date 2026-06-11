@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واتاكاتاوي
     auto: true
+  - translation_iso: ben
+    name: ওয়াতাকাতাউই
+    auto: true
   - translation_iso: deu
     name: Watakataui
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: watakataui
   - translation_iso: hin
     name: वाताकाताउई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Watakataui
     auto: true
   - translation_iso: jpn
     name: ワタカタウイ語

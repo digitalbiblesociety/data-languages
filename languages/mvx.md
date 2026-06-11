@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميوسوار
     auto: true
+  - translation_iso: ben
+    name: মেওসওয়ার
+    auto: true
   - translation_iso: deu
     name: Meoswar
     auto: true

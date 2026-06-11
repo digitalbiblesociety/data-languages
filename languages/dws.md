@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dutton_Speedwords"
 translations:
   - translation_iso: ara
     name: رب لن رئي
+  - translation_iso: ben
+    name: দুত্তোন ওয়োরলদ সপেদওয়োরদস
+    auto: true
   - translation_iso: deu
     name: Dutton World Speedwords
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: speedwords de Dutton
   - translation_iso: hin
     name: डटन वर्ल्ड स्पीडवर्ड्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dutton World Speedwords
     auto: true
   - translation_iso: jpn
     name: ダットン・ワールド・スピードワーズ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوبيو
     auto: true
+  - translation_iso: ben
+    name: কুবেও
+    auto: true
   - translation_iso: deu
     name: Cubeo
     auto: true

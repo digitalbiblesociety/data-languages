@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ان يرنيمو يكاتل ازاتيك
     auto: true
+  - translation_iso: ben
+    name: সান জেরোনিমো তেকোয়াতল মাজাতেক
+    auto: true
   - translation_iso: deu
     name: San Jerónimo Tecóatl Mazatec
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सान जेरोनिमो टेकोआटल माज़ातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Jerónimo Tecóatl Mazatec
     auto: true
   - translation_iso: jpn
     name: サン・ヘロニモ・テコアトル・マサテク語

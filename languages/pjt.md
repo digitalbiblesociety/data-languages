@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بيتجانتجاتجارا
     auto: true
+  - translation_iso: ben
+    name: পিতজানতজাতজারা
+    auto: true
   - translation_iso: deu
     name: Pitjantjatjara Sprache
   - translation_iso: fra
     name: pitjantjatjara
   - translation_iso: hin
     name: पित्जान्त्जात्जारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pitjantjatjara
     auto: true
   - translation_iso: jpn
     name: ピッチャンチャジャーラ語

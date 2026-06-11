@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: नोमांदे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Nomaande
+    auto: true
   - translation_iso: jpn
     name: マンディ語
   - translation_iso: kor

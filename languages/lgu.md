@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لونغو
     auto: true
+  - translation_iso: ben
+    name: লোংগু
+    auto: true
   - translation_iso: deu
     name: Longgu
   - translation_iso: fra
     name: longgu
   - translation_iso: hin
     name: लोंग्गु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Longgu
     auto: true
   - translation_iso: jpn
     name: ロンググ語

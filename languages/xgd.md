@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غودانغ
     auto: true
+  - translation_iso: ben
+    name: গুদাং
+    auto: true
   - translation_iso: deu
     name: Gudang
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गुडांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gudang
     auto: true
   - translation_iso: jpn
     name: グダン語

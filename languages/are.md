@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرارنتا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন আর্রারনতা
+    auto: true
   - translation_iso: deu
     name: West-Arrarnta
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: arrernte de l’Ouest
   - translation_iso: hin
     name: पश्चिमी आरार्न्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Arrarnta
     auto: true
   - translation_iso: jpn
     name: 西部アレント語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيمي
     auto: true
+  - translation_iso: ben
+    name: জিমি
+    auto: true
   - translation_iso: deu
     name: Jimi (Kamerun)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jimi
   - translation_iso: hin
     name: जिमी (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jimi
     auto: true
   - translation_iso: jpn
     name: ジミ語

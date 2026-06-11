@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: يوكوبووé ديدآ
     auto: true
+  - translation_iso: ben
+    name: য়োকোবোউএ দিদা
+    auto: true
   - translation_iso: deu
     name: Yocoboué Dida
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: योकोबोए दीदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yocoboué Dida
     auto: true
   - translation_iso: jpn
     name: ヨコボウエ・ディダ語

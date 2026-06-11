@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة السيامو
     auto: true
+  - translation_iso: ben
+    name: সিয়ামোউ
+    auto: true
   - translation_iso: deu
     name: Siamou
   - translation_iso: fra
     name: siamou
   - translation_iso: hin
     name: सियामू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siamou
     auto: true
   - translation_iso: jpn
     name: シアモウ語

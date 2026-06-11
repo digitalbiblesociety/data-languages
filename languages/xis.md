@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كيسان
     auto: true
+  - translation_iso: ben
+    name: কিসান
+    auto: true
   - translation_iso: deu
     name: Kisan
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: kisangani
   - translation_iso: hin
     name: किसान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kisan
     auto: true
   - translation_iso: jpn
     name: キサン語

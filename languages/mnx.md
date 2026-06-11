@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيكيون
     auto: true
+  - translation_iso: ben
+    name: মানিকিওন
+    auto: true
   - translation_iso: deu
     name: Manikion
     auto: true

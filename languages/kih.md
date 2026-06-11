@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلميري
     auto: true
+  - translation_iso: ben
+    name: কিলমেরি
+    auto: true
   - translation_iso: deu
     name: Kilmeri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kilmeri
   - translation_iso: hin
     name: किलमेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kilmeri
     auto: true
   - translation_iso: jpn
     name: キルメリ語

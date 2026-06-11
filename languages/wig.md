@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويك نغاتهان
     auto: true
+  - translation_iso: ben
+    name: ওয়িক ঙাথান
+    auto: true
   - translation_iso: deu
     name: Wik Ngathan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wik-ngathan
   - translation_iso: hin
     name: विक न्गथान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wik Ngathan
     auto: true
   - translation_iso: jpn
     name: ウィク・ンガータン語

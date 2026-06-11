@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوان الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন তেপেহুয়ান
+    auto: true
   - translation_iso: deu
     name: Nördliches Tepehuan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tepehuan du Nord
   - translation_iso: hin
     name: उत्तरी तेपेहुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Tepehuan
     auto: true
   - translation_iso: jpn
     name: 北テペワン語

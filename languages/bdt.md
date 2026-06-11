@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكوتو
     auto: true
+  - translation_iso: ben
+    name: বোকোতো
+    auto: true
   - translation_iso: deu
     name: Bokoto
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: bokoto
   - translation_iso: hin
     name: बोकोतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bokoto
     auto: true
   - translation_iso: jpn
     name: ボコト語

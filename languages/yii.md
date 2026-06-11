@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييديني
     auto: true
+  - translation_iso: ben
+    name: য়িদিনয়
+    auto: true
   - translation_iso: deu
     name: Yidiny
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yidiny
   - translation_iso: hin
     name: यिदिञ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yidiny
     auto: true
   - translation_iso: jpn
     name: イディニ語

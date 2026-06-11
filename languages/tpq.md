@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: توكبا
     auto: true
+  - translation_iso: ben
+    name: তুকপা
+    auto: true
   - translation_iso: deu
     name: Tukpa
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: tukpa
   - translation_iso: hin
     name: तुकपा भाषा
+  - translation_iso: ind
+    name: Bahasa Tukpa
+    auto: true
   - translation_iso: jpn
     name: ネサング語
     auto: true

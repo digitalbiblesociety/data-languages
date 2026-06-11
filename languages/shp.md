@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيبيبو-كونيبو
     auto: true
+  - translation_iso: ben
+    name: শিপিবো-কোনিবো
+    auto: true
   - translation_iso: deu
     name: Shipibo-Conibo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shipibo-conibo
   - translation_iso: hin
     name: शिपिबो-कोनिबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shipibo-Conibo
     auto: true
   - translation_iso: jpn
     name: シピボ語

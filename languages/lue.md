@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وفالي
     auto: true
+  - translation_iso: ben
+    name: লুভালে
+    auto: true
   - translation_iso: deu
     name: Luvale
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luvale
   - translation_iso: hin
     name: लुवाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luvale
     auto: true
   - translation_iso: jpn
     name: ルヴァレ語

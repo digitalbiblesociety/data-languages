@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كونيجامي
     auto: true
+  - translation_iso: ben
+    name: কুনিগামি
+    auto: true
   - translation_iso: deu
     name: Kunigami
     auto: true

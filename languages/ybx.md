@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ياويو
     auto: true
+  - translation_iso: ben
+    name: য়াওয়িয়ো
+    auto: true
   - translation_iso: deu
     name: Yawiyo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yawiyo
   - translation_iso: hin
     name: यावियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yawiyo
     auto: true
   - translation_iso: jpn
     name: ヤウィヨ語

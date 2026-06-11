@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اسكتلندي متنقل
     auto: true
+  - translation_iso: ben
+    name: তরাভেল্লের সকোত্তিশ
+    auto: true
   - translation_iso: deu
     name: Schottisch der Traveller
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ट्रैवलर स्कॉटिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Traveller Scottish
     auto: true
   - translation_iso: jpn
     name: トラベラー・スコットランド語

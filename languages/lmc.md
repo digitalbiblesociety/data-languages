@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يميلنجان
     auto: true
+  - translation_iso: ben
+    name: লিমিলঙান
+    auto: true
   - translation_iso: deu
     name: Limilngan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: limilngan
   - translation_iso: hin
     name: लिमिल्नगान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Limilngan
     auto: true
   - translation_iso: jpn
     name: リミルンガン語

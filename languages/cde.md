@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الشينشو
     auto: true
+  - translation_iso: ben
+    name: চেনচু
+    auto: true
   - translation_iso: deu
     name: Chenchu
   - translation_iso: fra
     name: chenchu
   - translation_iso: hin
     name: चेंचू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chenchu
     auto: true
   - translation_iso: jpn
     name: チェンチュ語

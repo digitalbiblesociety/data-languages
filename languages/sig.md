@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة الباسال
     auto: true
+  - translation_iso: ben
+    name: পাসাল
+    auto: true
   - translation_iso: deu
     name: Paasaal
   - translation_iso: fra
     name: paasaal
   - translation_iso: hin
     name: पासाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paasaal
     auto: true
   - translation_iso: jpn
     name: サザン・シサーラ語

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بوليفيا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ বোলিভিয়ান কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: südbolivianisches Quechua
   - translation_iso: fra
     name: quechua bolivien du Sud
   - translation_iso: hin
     name: दक्षिणी बोलिवियाई क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Bolivian Quechua
     auto: true
   - translation_iso: jpn
     name: 南ボリビアンケチュア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهاري-بوتواري
     auto: true
+  - translation_iso: ben
+    name: পাহারি-পোতওয়ারি
+    auto: true
   - translation_iso: deu
     name: Pahari-Potwari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pahari-pothwari
   - translation_iso: hin
     name: पहाड़ी-पोतवारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pahari-Potwari
     auto: true
   - translation_iso: jpn
     name: パハリ語

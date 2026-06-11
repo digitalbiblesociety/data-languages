@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كيمانت
     auto: true
+  - translation_iso: ben
+    name: কিমানত
+    auto: true
   - translation_iso: deu
     name: Kemant
   - translation_iso: fra
     name: qimant
   - translation_iso: hin
     name: किमान्त
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Qimant
     auto: true
   - translation_iso: jpn
     name: キマント語

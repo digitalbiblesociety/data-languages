@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دونجشيانج
     auto: true
+  - translation_iso: ben
+    name: দোংকসিয়াং
+    auto: true
   - translation_iso: deu
     name: Santa
   - translation_iso: fra

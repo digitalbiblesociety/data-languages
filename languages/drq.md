@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دورا
     auto: true
+  - translation_iso: ben
+    name: দুরা
+    auto: true
   - translation_iso: deu
     name: Dura
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dura
   - translation_iso: hin
     name: दुरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dura
     auto: true
   - translation_iso: jpn
     name: ドゥラ語

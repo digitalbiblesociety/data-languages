@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجوابا
     auto: true
+  - translation_iso: ben
+    name: ংওয়াবা
+    auto: true
   - translation_iso: deu
     name: Ngwaba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngwaba
   - translation_iso: hin
     name: न्गवाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngwaba
     auto: true
   - translation_iso: jpn
     name: ングワバ語

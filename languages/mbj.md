@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نادباب
     auto: true
+  - translation_iso: ben
+    name: নাদেব
+    auto: true
   - translation_iso: deu
     name: Nadëb
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nadëb
   - translation_iso: hin
     name: नादेब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nadëb
     auto: true
   - translation_iso: jpn
     name: ナドゥブ語

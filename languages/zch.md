@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة هونغشويهي الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল হোংশুইহে ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Zentral-Hongshuihe-Zhuang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhuang de Hongshuihe central
   - translation_iso: hin
     name: मध्य होंगशुईहे ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Hongshuihe Zhuang
     auto: true
   - translation_iso: jpn
     name: セントラル・ホンシュイ河・ズアン語

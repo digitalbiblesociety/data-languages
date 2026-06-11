@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أوريبيف-والا-رانو-اتشين
     auto: true
+  - translation_iso: ben
+    name: উরিপিভ-ওয়ালা-রানো-আতচিন
+    auto: true
   - translation_iso: deu
     name: Uripiv-Sprache
   - translation_iso: fra
     name: uripiv-wala-rano-atchin
   - translation_iso: hin
     name: उरिपिव-वाला-रानो-अत्चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uripiv-Wala-Rano-Atchin
     auto: true
   - translation_iso: jpn
     name: ウリピブ語

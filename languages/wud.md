@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وودو
     auto: true
+  - translation_iso: ben
+    name: ওয়ুদু
+    auto: true
   - translation_iso: deu
     name: Wudu
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वुडू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wudu
     auto: true
   - translation_iso: jpn
     name: ウドゥ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موندروبولون
     auto: true
+  - translation_iso: ben
+    name: মোনদরোপোলোন
+    auto: true
   - translation_iso: deu
     name: Mondropolon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mondropolon
   - translation_iso: hin
     name: मोन्द्रोपोलोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mondropolon
     auto: true
   - translation_iso: jpn
     name: モンドロポロン語

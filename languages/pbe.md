@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا ميثونتلا
     auto: true
+  - translation_iso: ben
+    name: মেজোনতলা পোপোলোকা
+    auto: true
   - translation_iso: deu
     name: Mezontla-Popoloca
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: popoloca de Mezontla
   - translation_iso: hin
     name: मेज़ोंटला पोपोलोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mezontla Popoloca
     auto: true
   - translation_iso: jpn
     name: メゾントラ・ポポロカ語

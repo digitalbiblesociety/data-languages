@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوموريان نغازيدجا
     auto: true
+  - translation_iso: ben
+    name: ঙাজিদজা কোমোরিয়ান
+    auto: true
   - translation_iso: deu
     name: Ngazidja
   - translation_iso: fra
     name: grand comorien
   - translation_iso: hin
     name: नगाज़िद्जा कोमोरियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngazidja Comorian
     auto: true
   - translation_iso: jpn
     name: ンガジドゥジャ・コモロ語

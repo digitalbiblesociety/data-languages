@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجاندو
     auto: true
+  - translation_iso: ben
+    name: ঙানদো
+    auto: true
   - translation_iso: deu
     name: Ngando
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गांदो (मध्य अफ्रीकी गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngando
     auto: true
   - translation_iso: jpn
     name: ングアンド語

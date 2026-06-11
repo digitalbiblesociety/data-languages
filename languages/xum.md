@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Umbrian_language"
 translations:
   - translation_iso: ara
     name: لغة أمبرية
+  - translation_iso: ben
+    name: উমবরিয়ান
+    auto: true
   - translation_iso: deu
     name: Umbrisch
   - translation_iso: fra

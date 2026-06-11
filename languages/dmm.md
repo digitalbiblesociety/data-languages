@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: دما
     auto: true
+  - translation_iso: ben
+    name: দামা
+    auto: true
   - translation_iso: deu
     name: Dama
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: dama
   - translation_iso: hin
     name: दामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dama
     auto: true
   - translation_iso: jpn
     name: ダマ語

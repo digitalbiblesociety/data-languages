@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورومي
     auto: true
+  - translation_iso: ben
+    name: উরুমি
+    auto: true
   - translation_iso: deu
     name: Urumi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ouroumi
   - translation_iso: hin
     name: उरुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urumi
     auto: true
   - translation_iso: jpn
     name: ウルミ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توراكا
     auto: true
+  - translation_iso: ben
+    name: তুরাকা
+    auto: true
   - translation_iso: deu
     name: Turaka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: turaka
   - translation_iso: hin
     name: तुराका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Turaka
     auto: true
   - translation_iso: jpn
     name: トゥラカ語

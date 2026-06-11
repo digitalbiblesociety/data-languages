@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تانانا العليا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের তানানা
+    auto: true
   - translation_iso: deu
     name: Upper Tanana
   - translation_iso: fra
     name: haut tanana
   - translation_iso: hin
     name: ऊपरी तानाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Tanana
     auto: true
   - translation_iso: jpn
     name: 上部タナナ語

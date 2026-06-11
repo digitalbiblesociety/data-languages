@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الإويديفي
     auto: true
+  - translation_iso: ben
+    name: এউদেভে
+    auto: true
   - translation_iso: deu
     name: Eudeve
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: eudeve
   - translation_iso: hin
     name: एउदेवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eudeve
     auto: true
   - translation_iso: jpn
     name: オウデベ語

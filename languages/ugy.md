@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة الأوروغوايانية
     auto: true
+  - translation_iso: ben
+    name: উরুগুয়ায়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Uruguayische Gebärdensprache
   - translation_iso: fra
     name: langue des signes uruguayenne
   - translation_iso: hin
     name: उरुग्वे सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uruguayan Sign Language
     auto: true
   - translation_iso: jpn
     name: ウルグアイ手話

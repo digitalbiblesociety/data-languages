@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: بيندال
     auto: true
+  - translation_iso: ben
+    name: বিনদাল
+    auto: true
   - translation_iso: deu
     name: Bindal
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिंदाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bindal
     auto: true
   - translation_iso: jpn
     name: ビンダル

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوم كيم
     auto: true
+  - translation_iso: ben
+    name: বোম-কিম
+    auto: true
   - translation_iso: deu
     name: Bom
   - translation_iso: fra
     name: bom
   - translation_iso: hin
     name: बोम-किम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bom-Kim
     auto: true
   - translation_iso: jpn
     name: ボム・キム語

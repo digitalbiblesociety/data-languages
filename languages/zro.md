@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: زابارو
     auto: true
+  - translation_iso: ben
+    name: জাপারো
+    auto: true
   - translation_iso: deu
     name: Záparo
   - translation_iso: fra
     name: zaparo
   - translation_iso: hin
     name: ज़ापारो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Záparo
     auto: true
   - translation_iso: jpn
     name: サパロ語

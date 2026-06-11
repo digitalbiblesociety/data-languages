@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينديينى
     auto: true
+  - translation_iso: ben
+    name: পিনদিনি
+    auto: true
   - translation_iso: deu
     name: Pindiini
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pintiini
   - translation_iso: hin
     name: पिंडीनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pindiini
     auto: true
   - translation_iso: jpn
     name: ピンディーニ語

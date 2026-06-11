@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورمو
     auto: true
+  - translation_iso: ben
+    name: ওরমু
+    auto: true
   - translation_iso: deu
     name: Ormu
     auto: true

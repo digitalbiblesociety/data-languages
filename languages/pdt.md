@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة بلاوتديتش
     auto: true
+  - translation_iso: ben
+    name: পলাউতদিএতসচ
+    auto: true
   - translation_iso: deu
     name: Plautdietsch
   - translation_iso: fra

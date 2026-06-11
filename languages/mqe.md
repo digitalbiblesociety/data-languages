@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتيبي
     auto: true
+  - translation_iso: ben
+    name: মাতেপি
+    auto: true
   - translation_iso: deu
     name: Matepi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मातेपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matepi
     auto: true
   - translation_iso: jpn
     name: マテピ語

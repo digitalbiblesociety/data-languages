@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريشيوا
     auto: true
+  - translation_iso: ben
+    name: রিশিওয়া
+    auto: true
   - translation_iso: deu
     name: Rishiwa
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रिशिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rishiwa
     auto: true
   - translation_iso: jpn
     name: リシワ語

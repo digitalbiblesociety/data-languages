@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوونغ
     auto: true
+  - translation_iso: ben
+    name: কোং
+    auto: true
   - translation_iso: deu
     name: Côông
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: côông
   - translation_iso: hin
     name: कोओंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Côông
     auto: true
   - translation_iso: jpn
     name: コオン語

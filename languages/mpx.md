@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسيما-باناياتي
     auto: true
+  - translation_iso: ben
+    name: মিসিমা-পানাএয়াতি
+    auto: true
   - translation_iso: deu
     name: Misima-Panaeati
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिसिमा-पनाएती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Misima-Panaeati
     auto: true
   - translation_iso: jpn
     name: ミシマ語

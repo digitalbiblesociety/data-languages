@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أشينينكا بيريني
     auto: true
+  - translation_iso: ben
+    name: আশেনিনকা পেরেনে
+    auto: true
   - translation_iso: deu
     name: Ashéninka Perené
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अशेनिंका पेरेने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ashéninka Perené
     auto: true
   - translation_iso: jpn
     name: アシェニンカペレネ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورالي
     auto: true
+  - translation_iso: ben
+    name: উরালি
+    auto: true
   - translation_iso: deu
     name: Urali
     auto: true

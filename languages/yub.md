@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغامبال
     auto: true
+  - translation_iso: ben
+    name: য়ুগামবাল
+    auto: true
   - translation_iso: deu
     name: Yugambal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yugambal
   - translation_iso: hin
     name: युगाम्बल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yugambal
     auto: true
   - translation_iso: jpn
     name: ユガンバリック諸語

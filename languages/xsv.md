@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: سودوفية
     auto: true
+  - translation_iso: ben
+    name: সুদোভিয়ান
+    auto: true
   - translation_iso: deu
     name: Jatwingisch
   - translation_iso: fra
     name: sudovien
   - translation_iso: hin
     name: सुडोवियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sudovian
     auto: true
   - translation_iso: jpn
     name: スドヴィア語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مامبوي لونجو
     auto: true
+  - translation_iso: ben
+    name: মামবওয়ে-লুঙু
+    auto: true
   - translation_iso: deu
     name: Mambwe-Lungu
   - translation_iso: fra
     name: mambwe
   - translation_iso: hin
     name: माम्ब्वे-लुंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mambwe-Lungu
     auto: true
   - translation_iso: jpn
     name: マンブウェ語

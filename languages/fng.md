@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الفانجالو
     auto: true
+  - translation_iso: ben
+    name: ফানাগালো
+    auto: true
   - translation_iso: deu
     name: Fanakalo
   - translation_iso: fra
     name: fanagalo
   - translation_iso: hin
     name: फानागालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fanagalo
     auto: true
   - translation_iso: jpn
     name: ファナガロ語

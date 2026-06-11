@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: والماجارري
     auto: true
+  - translation_iso: ben
+    name: ওয়ালমাজার্রি
+    auto: true
   - translation_iso: deu
     name: Walmajarri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: walmajarri
   - translation_iso: hin
     name: वालमाजारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Walmajarri
     auto: true
   - translation_iso: jpn
     name: ワルマジャリ語

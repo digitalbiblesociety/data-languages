@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आकुकेम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akukem
+    auto: true
   - translation_iso: jpn
     name: アクケム語
     auto: true

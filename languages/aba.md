@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अबे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abé
+    auto: true
   - translation_iso: jpn
     name: アベイ語
   - translation_iso: kor

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: مانيكا
     auto: true
+  - translation_iso: ben
+    name: মানয়িকা
+    auto: true
   - translation_iso: deu
     name: Manyika
   - translation_iso: fra
     name: manyika
   - translation_iso: hin
     name: मन्यिका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manyika
     auto: true
   - translation_iso: jpn
     name: マニカ語

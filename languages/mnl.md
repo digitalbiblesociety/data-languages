@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة تيالي
     auto: true
+  - translation_iso: ben
+    name: তিয়ালে
+    auto: true
   - translation_iso: deu
     name: Tiale
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: malmariv
   - translation_iso: hin
     name: तियाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiale
     auto: true
   - translation_iso: jpn
     name: ティアレ語

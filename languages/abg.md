@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अबागा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abaga
+    auto: true
   - translation_iso: jpn
     name: アバガ語
     auto: true

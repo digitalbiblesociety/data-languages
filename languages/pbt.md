@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة باشتو الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন পাশতো
+    auto: true
   - translation_iso: deu
     name: Südpaschtu
     auto: true

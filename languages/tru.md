@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turoyo_language"
 translations:
   - translation_iso: ara
     name: لهجة طورية
+  - translation_iso: ben
+    name: তুরোয়ো
+    auto: true
   - translation_iso: deu
     name: Turoyo
   - translation_iso: fra

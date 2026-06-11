@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ريبانبيتيب
     auto: true
+  - translation_iso: ben
+    name: রেপানবিতিপ
+    auto: true
   - translation_iso: deu
     name: Repanbitip
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: repanbitip
   - translation_iso: hin
     name: रेपानबितिप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Repanbitip
     auto: true
   - translation_iso: jpn
     name: レパンビティップ語

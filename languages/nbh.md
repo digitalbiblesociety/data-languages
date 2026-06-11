@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجامو
     auto: true
+  - translation_iso: ben
+    name: ঙামো
+    auto: true
   - translation_iso: deu
     name: Ngamo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngamo
   - translation_iso: hin
     name: न्गामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngamo
     auto: true
   - translation_iso: jpn
     name: ングアモ語

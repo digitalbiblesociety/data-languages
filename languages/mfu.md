@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مبويلا
     auto: true
+  - translation_iso: ben
+    name: মবওয়েলা
+    auto: true
   - translation_iso: deu
     name: Mbwela
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mbwela
   - translation_iso: hin
     name: म्बवेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbwela
     auto: true
   - translation_iso: jpn
     name: ムブウェラ語

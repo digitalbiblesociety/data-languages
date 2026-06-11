@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नागामी भाषा
+  - translation_iso: ind
+    name: Bahasa Naga Pidgin
+    auto: true
   - translation_iso: jpn
     name: Nagameseクレオール語
   - translation_iso: kor

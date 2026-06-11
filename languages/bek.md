@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेबेली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bebeli
+    auto: true
   - translation_iso: jpn
     name: カポレ語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مانكيالي
     auto: true
+  - translation_iso: ben
+    name: মানকিয়ালি
+    auto: true
   - translation_iso: deu
     name: Mankiyali
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mankiyali
   - translation_iso: hin
     name: मनकियाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mankiyali
     auto: true
   - translation_iso: jpn
     name: マンキヤリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كورو واتشي
     auto: true
+  - translation_iso: ben
+    name: কোরো ওয়াচি
+    auto: true
   - translation_iso: deu
     name: Koro Wachi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Koro wachi
   - translation_iso: hin
     name: कोरो वाची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koro Wachi
     auto: true
   - translation_iso: jpn
     name: コロ・ワチ語

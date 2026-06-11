@@ -30,6 +30,9 @@ translations:
     name: naga nocte
   - translation_iso: hin
     name: नोक्टे भाषा
+  - translation_iso: ind
+    name: Bahasa Nocte Naga
+    auto: true
   - translation_iso: jpn
     name: ノクテ・ナガ語
     auto: true

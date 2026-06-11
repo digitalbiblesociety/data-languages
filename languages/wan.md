@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وان
     auto: true
+  - translation_iso: ben
+    name: ওয়ান
+    auto: true
   - translation_iso: deu
     name: Wan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wan
   - translation_iso: hin
     name: वान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wan
     auto: true
   - translation_iso: jpn
     name: ワン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مولوريدي
     auto: true
+  - translation_iso: ben
+    name: মুলুরিদয়ি
+    auto: true
   - translation_iso: deu
     name: Muluridyi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muluridyi
   - translation_iso: hin
     name: मुलुरिद्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muluridyi
     auto: true
   - translation_iso: jpn
     name: ムルイディイ語

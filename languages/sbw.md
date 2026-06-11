@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سيمبا
     auto: true
+  - translation_iso: ben
+    name: সিমবা
+    auto: true
   - translation_iso: deu
     name: Simba
   - translation_iso: fra
     name: simba
   - translation_iso: hin
     name: सिम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Simba
     auto: true
   - translation_iso: jpn
     name: ヒンバ語

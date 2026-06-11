@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جونكور بورماتاغويل
     auto: true
+  - translation_iso: ben
+    name: জোনকোর বোউরমাতাগুইল
+    auto: true
   - translation_iso: deu
     name: Jonkor Bourmataguil
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djongor de Bourmataguil
   - translation_iso: hin
     name: जोंकोर बौरमातागुइल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jonkor Bourmataguil
     auto: true
   - translation_iso: jpn
     name: ジョンコル・ブルマタギル語

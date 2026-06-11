@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تريكي تشيكاهواكستلا
     auto: true
+  - translation_iso: ben
+    name: চিকাহুয়াকসতলা তরিকুই
+    auto: true
   - translation_iso: deu
     name: Chicahuaxtla Triqui
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: trique de Chicahuaxtla
   - translation_iso: hin
     name: चिकाहुआख्त्ला त्रिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chicahuaxtla Triqui
     auto: true
   - translation_iso: jpn
     name: チカウアストラ・トリケ語

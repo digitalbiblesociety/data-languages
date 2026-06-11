@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة منكا
     auto: true
+  - translation_iso: ben
+    name: মেনকা
+    auto: true
   - translation_iso: deu
     name: Menka
   - translation_iso: fra
     name: menka
   - translation_iso: hin
     name: मेंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Menka
     auto: true
   - translation_iso: jpn
     name: メンカ語

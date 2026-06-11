@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مونا
     auto: true
+  - translation_iso: ben
+    name: মুনা
+    auto: true
   - translation_iso: deu
     name: Muna
   - translation_iso: fra

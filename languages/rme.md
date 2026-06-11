@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एंग्लोरोमानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Angloromani
+    auto: true
   - translation_iso: jpn
     name: アングロ・ロマニー語
   - translation_iso: kor

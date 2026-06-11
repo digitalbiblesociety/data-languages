@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وانغغامالا
     auto: true
+  - translation_iso: ben
+    name: ওয়াংগামালা
+    auto: true
   - translation_iso: deu
     name: Wanggamala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wanggamala
   - translation_iso: hin
     name: वांग्गामाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanggamala
     auto: true
   - translation_iso: jpn
     name: ワンガマラ語

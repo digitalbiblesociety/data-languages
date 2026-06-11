@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سيهوي
     auto: true
+  - translation_iso: ben
+    name: সেহওয়ি
+    auto: true
   - translation_iso: deu
     name: Sehwi
   - translation_iso: fra
     name: sehwi
   - translation_iso: hin
     name: सेहवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sehwi
     auto: true
   - translation_iso: jpn
     name: セフウィ語

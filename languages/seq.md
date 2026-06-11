@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينارا سينوفو
     auto: true
+  - translation_iso: ben
+    name: সেনারা সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Senara
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेनारा सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Senara Sénoufo
     auto: true
   - translation_iso: jpn
     name: シェナラ・セヌフォ語

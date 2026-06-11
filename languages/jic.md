@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تول
     auto: true
+  - translation_iso: ben
+    name: তোল
+    auto: true
   - translation_iso: deu
     name: Tol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jicaque de la Flor
   - translation_iso: hin
     name: तोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tol
     auto: true
   - translation_iso: jpn
     name: トル語

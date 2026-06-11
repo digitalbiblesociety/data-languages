@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوريك
     auto: true
+  - translation_iso: ben
+    name: নোরিক
+    auto: true
   - translation_iso: deu
     name: Norisch
   - translation_iso: fra

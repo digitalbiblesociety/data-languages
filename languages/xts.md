@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيندهويي ميكستيك
     auto: true
+  - translation_iso: ben
+    name: সিনদিহুই মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Sindihui-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिंदिहुई मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sindihui Mixtec
     auto: true
   - translation_iso: jpn
     name: シンディフイ・ミステク語

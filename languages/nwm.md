@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نييامووسا-مولو
     auto: true
+  - translation_iso: ben
+    name: নয়ামুসা-মোলো
+    auto: true
   - translation_iso: deu
     name: Nyamusa-Molo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyamusa-molo
   - translation_iso: hin
     name: न्यामुसा-मोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyamusa-Molo
     auto: true
   - translation_iso: jpn
     name: ニャムサ・モロ語

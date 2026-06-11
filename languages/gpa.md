@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوبآ-آبآوآ
     auto: true
+  - translation_iso: ben
+    name: গুপা-আবাওয়া
+    auto: true
   - translation_iso: deu
     name: Gupa-Abawa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गुपा-अबावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gupa-Abawa
     auto: true
   - translation_iso: jpn
     name: グパ・アバワ語

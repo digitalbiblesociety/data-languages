@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البحرية
     auto: true
+  - translation_iso: ben
+    name: মারিতিমে সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Maritime Sign Language
   - translation_iso: fra
     name: langue des signes maritime
   - translation_iso: hin
     name: समुद्री सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Maritime Sign Language
+    auto: true
   - translation_iso: jpn
     name: 沿海州手話
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مبانجا
     auto: true
+  - translation_iso: ben
+    name: মবানদজা
+    auto: true
   - translation_iso: deu
     name: Mbandja
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbandja
   - translation_iso: hin
     name: म्बंदजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbandja
     auto: true
   - translation_iso: jpn
     name: ンバンジャ語

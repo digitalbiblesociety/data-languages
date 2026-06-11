@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة كينيانغ
     auto: true
+  - translation_iso: ben
+    name: কেনয়াং
+    auto: true
   - translation_iso: deu
     name: Kenyang
   - translation_iso: fra

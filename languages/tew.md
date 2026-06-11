@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيوا
     auto: true
+  - translation_iso: ben
+    name: তেওয়া
+    auto: true
   - translation_iso: deu
     name: Tewa (USA)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tewa
   - translation_iso: hin
     name: तेवा भाषा
+  - translation_iso: ind
+    name: Bahasa Tewa
+    auto: true
   - translation_iso: jpn
     name: テワ語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماباكا فالي كالينجا
     auto: true
+  - translation_iso: ben
+    name: মাবাকা ভাল্লেয় কালিঙা
+    auto: true
   - translation_iso: deu
     name: Mabaka Valley Kalinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalinga de vallée de Mabaka
   - translation_iso: hin
     name: मबाका घाटी कलिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mabaka Valley Kalinga
     auto: true
   - translation_iso: jpn
     name: マバカ・ヴァレー・カリンガ語

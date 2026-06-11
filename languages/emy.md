@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: المايا الخطية
     auto: true
+  - translation_iso: ben
+    name: এপিগরাফিক মায়ান
+    auto: true
   - translation_iso: deu
     name: klassisches Maya
   - translation_iso: fra

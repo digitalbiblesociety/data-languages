@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أورننجانج
     auto: true
+  - translation_iso: ben
+    name: উরনিঙাংগ
+    auto: true
   - translation_iso: deu
     name: Urningangg
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: urningangg
   - translation_iso: hin
     name: उर्निंगंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urningangg
     auto: true
   - translation_iso: jpn
     name: マンゲール語

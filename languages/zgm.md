@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مينز زوانغ
     auto: true
+  - translation_iso: ben
+    name: মিনজ ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Minz-Zhuang
     auto: true

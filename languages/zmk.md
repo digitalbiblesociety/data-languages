@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماندانداني
     auto: true
+  - translation_iso: ben
+    name: মানদানদানয়ি
+    auto: true
   - translation_iso: deu
     name: Mandandanyi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mandandanyi
   - translation_iso: hin
     name: मंदनदान्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandandanyi
     auto: true
   - translation_iso: jpn
     name: マンダンダニ語

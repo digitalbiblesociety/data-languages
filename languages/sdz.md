@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سالاندس
     auto: true
+  - translation_iso: ben
+    name: সাল্লানদস
+    auto: true
   - translation_iso: deu
     name: Sallands
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सलांड्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sallands
     auto: true
   - translation_iso: jpn
     name: サッランス語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تابوا
     auto: true
+  - translation_iso: ben
+    name: তাবওয়া
+    auto: true
   - translation_iso: deu
     name: Taabwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tabwa
   - translation_iso: hin
     name: ताबवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taabwa
     auto: true
   - translation_iso: jpn
     name: タアブワ語

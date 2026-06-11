@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: هويآ هويآ
     auto: true
+  - translation_iso: ben
+    name: হোইয়া হোইয়া
+    auto: true
   - translation_iso: deu
     name: Hoia Hoia
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: hoia hoia ukusi-koparamio
   - translation_iso: hin
     name: होइया होइया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hoia Hoia
     auto: true
   - translation_iso: jpn
     name: ホイア・ホイア語

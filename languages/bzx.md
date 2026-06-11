@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيلينْجاخو بوزو
     auto: true
+  - translation_iso: ben
+    name: কেলেঙাকসো বোজো
+    auto: true
   - translation_iso: deu
     name: Kɛlɛngaxo-Bozo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "bozo d'Hainyaxo"
   - translation_iso: hin
     name: केलेंगाखो बोज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kɛlɛngaxo Bozo
     auto: true
   - translation_iso: jpn
     name: ケレンガッソ・ボゾ語

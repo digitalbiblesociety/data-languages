@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووكون
     auto: true
+  - translation_iso: ben
+    name: ওয়োক্কোন
+    auto: true
   - translation_iso: deu
     name: Woccon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: woccon
   - translation_iso: hin
     name: वोक्कोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Woccon
     auto: true
   - translation_iso: jpn
     name: ウォッコン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة پّال
     auto: true
+  - translation_iso: ben
+    name: পাল
+    auto: true
   - translation_iso: deu
     name: Pal
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pal
     auto: true
   - translation_iso: jpn
     name: パル語

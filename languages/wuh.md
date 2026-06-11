@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ووتونهوا
     auto: true
+  - translation_iso: ben
+    name: ওয়ুতুনহুয়া
+    auto: true
   - translation_iso: deu
     name: Wutun
   - translation_iso: fra
     name: wutun
   - translation_iso: hin
     name: वुतुनहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wutunhua
     auto: true
   - translation_iso: jpn
     name: 五屯語

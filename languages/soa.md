@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة تاي سونج
     auto: true
+  - translation_iso: ben
+    name: থাই সোং
+    auto: true
   - translation_iso: deu
     name: Thai Song
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: thai song
   - translation_iso: hin
     name: थाई सोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thai Song
     auto: true
   - translation_iso: jpn
     name: タイ・ソン語

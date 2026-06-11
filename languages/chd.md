@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هايلاند واخاكا تشونتال
     auto: true
+  - translation_iso: ben
+    name: হিঘলানদ ওয়াকসাকা চোনতাল
+    auto: true
   - translation_iso: deu
     name: Hochland-Oaxaca-Chontal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chontal des hautes terres
   - translation_iso: hin
     name: हाइलैंड ओआहाका चोंताल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Highland Oaxaca Chontal
     auto: true
   - translation_iso: jpn
     name: ハイランド・オアハカ・チョンタル語

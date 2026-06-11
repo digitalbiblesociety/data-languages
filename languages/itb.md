@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بينونغان إيتنيغ
     auto: true
+  - translation_iso: ben
+    name: বিনোঙান ইতনেগ
+    auto: true
   - translation_iso: deu
     name: Binongan-Itneg
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिनोंगान इत्नेग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Binongan Itneg
     auto: true
   - translation_iso: jpn
     name: ビノンガン・イトネグ語

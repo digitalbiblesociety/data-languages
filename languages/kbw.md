@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كايب
     auto: true
+  - translation_iso: ben
+    name: কাইএপ
+    auto: true
   - translation_iso: deu
     name: Kaiep
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaiep
   - translation_iso: hin
     name: काइप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaiep
     auto: true
   - translation_iso: jpn
     name: カイエプ語

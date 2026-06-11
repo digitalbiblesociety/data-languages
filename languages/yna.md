@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अलुओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aluo
+    auto: true
   - translation_iso: jpn
     name: アルオ語
     auto: true

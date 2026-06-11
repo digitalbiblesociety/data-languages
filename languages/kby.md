@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مانغا كانوري
     auto: true
+  - translation_iso: ben
+    name: মাঙা কানুরি
+    auto: true
   - translation_iso: deu
     name: Manga-Kanuri
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: kanouri manga
   - translation_iso: hin
     name: मांगा कानूरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manga Kanuri
     auto: true
   - translation_iso: jpn
     name: マンガ・カヌリ語

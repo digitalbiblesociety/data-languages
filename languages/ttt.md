@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tat_language_(Caucasus)"
 translations:
   - translation_iso: ara
     name: لغة تات
+  - translation_iso: ben
+    name: মুসলিম তাত
+    auto: true
   - translation_iso: deu
     name: Tatisch
   - translation_iso: fra

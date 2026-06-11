@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جيري كوو
     auto: true
+  - translation_iso: ben
+    name: জেরি কুও
+    auto: true
   - translation_iso: deu
     name: Jeri Kuo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: jerikuo
   - translation_iso: hin
     name: जेरी कुओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jeri Kuo
     auto: true
   - translation_iso: jpn
     name: ジェリ・クォ語

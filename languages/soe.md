@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجومينو
     auto: true
+  - translation_iso: ben
+    name: সোঙোমেনো
+    auto: true
   - translation_iso: deu
     name: Songomeno
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: songomeno
   - translation_iso: hin
     name: सोंगोमेनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Songomeno
     auto: true
   - translation_iso: jpn
     name: ソンゴメーノ語

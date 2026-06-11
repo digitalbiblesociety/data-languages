@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوجول دوم دوجون
     auto: true
+  - translation_iso: ben
+    name: দোগুল দোম দোগোন
+    auto: true
   - translation_iso: deu
     name: Dogul Dom Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dogul dom
   - translation_iso: hin
     name: दोगुल दोम दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dogul Dom Dogon
     auto: true
   - translation_iso: jpn
     name: ドグル・ドム・ドゴン語

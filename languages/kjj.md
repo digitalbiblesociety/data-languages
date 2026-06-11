@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خينالوغ
     auto: true
+  - translation_iso: ben
+    name: খিনালুঘ
+    auto: true
   - translation_iso: deu
     name: Chinalugisch
   - translation_iso: fra

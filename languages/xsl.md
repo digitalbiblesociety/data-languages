@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديني كيه
     auto: true
+  - translation_iso: ben
+    name: সোউথ সলাভেয়
+    auto: true
   - translation_iso: deu
     name: Denetaca
   - translation_iso: fra
     name: denetaca
   - translation_iso: hin
     name: दक्षिणी स्लेवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Slavey
     auto: true
   - translation_iso: jpn
     name: 南スレイビー語

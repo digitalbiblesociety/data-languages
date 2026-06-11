@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موتا
     auto: true
+  - translation_iso: ben
+    name: মোতা
+    auto: true
   - translation_iso: deu
     name: Mota
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mota
   - translation_iso: hin
     name: मोता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mota
     auto: true
   - translation_iso: jpn
     name: モタ語

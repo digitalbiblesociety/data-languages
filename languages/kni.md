@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانوفي
     auto: true
+  - translation_iso: ben
+    name: কানুফি
+    auto: true
   - translation_iso: deu
     name: Kanufi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कानुफी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanufi
     auto: true
   - translation_iso: jpn
     name: カヌフィ語

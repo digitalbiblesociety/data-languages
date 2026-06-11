@@ -30,6 +30,9 @@ translations:
     name: chaudangsi
   - translation_iso: hin
     name: चौडांगसी भाषा
+  - translation_iso: ind
+    name: Bahasa Chaudangsi
+    auto: true
   - translation_iso: jpn
     name: チャウダングシ語
     auto: true

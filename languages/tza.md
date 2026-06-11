@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: तंजानियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tanzanian Sign Language
+    auto: true
   - translation_iso: jpn
     name: タンザニア手話
   - translation_iso: kor

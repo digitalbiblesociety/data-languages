@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيامية
     auto: true
+  - translation_iso: ben
+    name: পিয়ামে
+    auto: true
   - translation_iso: deu
     name: Piame
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: piame
   - translation_iso: hin
     name: पियामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piame
     auto: true
   - translation_iso: jpn
     name: ピアメ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإمومو
     auto: true
+  - translation_iso: ben
+    name: এমুমু
+    auto: true
   - translation_iso: deu
     name: Emumu
     auto: true

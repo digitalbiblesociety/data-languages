@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موسي
     auto: true
+  - translation_iso: ben
+    name: মুসেয়
+    auto: true
   - translation_iso: deu
     name: Musey
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moussey
   - translation_iso: hin
     name: मुसेय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Musey
     auto: true
   - translation_iso: jpn
     name: ムセイ語

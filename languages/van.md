@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فالمان
     auto: true
+  - translation_iso: ben
+    name: ভালমান
+    auto: true
   - translation_iso: deu
     name: Valman
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: valman
   - translation_iso: hin
     name: वाल्मन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Valman
     auto: true
   - translation_iso: jpn
     name: ワルマン語

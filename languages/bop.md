@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بونكيمان
     auto: true
+  - translation_iso: ben
+    name: বোনকিমান
+    auto: true
   - translation_iso: deu
     name: Bonkiman
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bonkiman
   - translation_iso: hin
     name: बोंकिमान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bonkiman
     auto: true
   - translation_iso: jpn
     name: ボンキマン語

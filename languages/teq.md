@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيميين
     auto: true
+  - translation_iso: ben
+    name: তেমেইন
+    auto: true
   - translation_iso: deu
     name: Temein
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: temein
   - translation_iso: hin
     name: तेमेइन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Temein
     auto: true
   - translation_iso: jpn
     name: テメイン語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Eki
+    auto: true
   - translation_iso: jpn
     name: エキ語
     auto: true

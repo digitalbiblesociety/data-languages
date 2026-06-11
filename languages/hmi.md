@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ هويشوي الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন হুইশুই হমোং
+    auto: true
   - translation_iso: deu
     name: Nördliches Huishui-Hmong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: huishui du Nord
   - translation_iso: hin
     name: उत्तरी हुइशुई ह्मोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Huishui Hmong
     auto: true
   - translation_iso: jpn
     name: 北部恵水フモン語

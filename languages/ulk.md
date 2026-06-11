@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميريام مير
     auto: true
+  - translation_iso: ben
+    name: মেরিয়াম মির
+    auto: true
   - translation_iso: deu
     name: Meriam Mir
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: meriam
   - translation_iso: hin
     name: मेरियम मिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Meriam Mir
     auto: true
   - translation_iso: jpn
     name: メリヤム・ミル語

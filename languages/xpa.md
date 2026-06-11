@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيريا
     auto: true
+  - translation_iso: ben
+    name: পির্রিয়া
+    auto: true
   - translation_iso: deu
     name: Pirriya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pirriya
   - translation_iso: hin
     name: पिरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pirriya
     auto: true
   - translation_iso: jpn
     name: ピッリヤ語

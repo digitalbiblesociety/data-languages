@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوبر دوتش
     auto: true
+  - translation_iso: ben
+    name: উনসেরদেউতসচ
+    auto: true
   - translation_iso: deu
     name: Unserdeutsch
   - translation_iso: fra

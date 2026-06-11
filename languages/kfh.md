@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कुरिचिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kurichiya
+    auto: true
   - translation_iso: jpn
     name: クリチヤ語
     auto: true

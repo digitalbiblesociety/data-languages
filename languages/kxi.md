@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موروت كينينجاو
     auto: true
+  - translation_iso: ben
+    name: কেনিঙাউ মুরুত
+    auto: true
   - translation_iso: deu
     name: Keningau-Murut
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: murut keningau
   - translation_iso: hin
     name: केनिंगाउ मुरुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keningau Murut
     auto: true
   - translation_iso: jpn
     name: ケニンガウ・ムルット語

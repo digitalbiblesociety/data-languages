@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: أوتشيتشي
     auto: true
+  - translation_iso: ben
+    name: ওচিচি
+    auto: true
   - translation_iso: deu
     name: "O'chi'chi"
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओचिची
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa O'chi'chi"
     auto: true
   - translation_iso: jpn
     name: オチチ語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: هوننيك
     auto: true
+  - translation_iso: ben
+    name: হুন্নিক
+    auto: true
   - translation_iso: deu
     name: Hunnisch
   - translation_iso: fra

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تكسميلوكان
     auto: true
+  - translation_iso: ben
+    name: তেকসমেলুকান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Texmelucan)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Texmelucan
   - translation_iso: hin
     name: तेक्समेलुकान सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Texmelucan Zapotec
     auto: true
   - translation_iso: jpn
     name: テクスメルカン・サポテク語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कुंग-एकोका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kung-Ekoka
+    auto: true
   - translation_iso: jpn
     name: クング・エコカ語
     auto: true

@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: تيموكوا
     auto: true
+  - translation_iso: ben
+    name: তিমুকুয়া
+    auto: true
   - translation_iso: deu
     name: Timucua
   - translation_iso: fra
     name: timucua
   - translation_iso: hin
     name: तिमुकुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Timucua
     auto: true
   - translation_iso: jpn
     name: ティムクア語

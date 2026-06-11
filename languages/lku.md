@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ونجكاري
     auto: true
+  - translation_iso: ben
+    name: কুংকারি
+    auto: true
   - translation_iso: deu
     name: Kungkari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kungkari
   - translation_iso: hin
     name: कुंगकारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kungkari
     auto: true
   - translation_iso: jpn
     name: クンカリ語

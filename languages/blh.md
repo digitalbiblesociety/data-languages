@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كواا
     auto: true
+  - translation_iso: ben
+    name: কুওয়া
+    auto: true
   - translation_iso: deu
     name: Kuwaa
   - translation_iso: fra
     name: kuwaa
   - translation_iso: hin
     name: कुवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuwaa
     auto: true
   - translation_iso: jpn
     name: クワア語

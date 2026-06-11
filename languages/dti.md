@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आना तिंगा डोगोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ana Tinga Dogon
+    auto: true
   - translation_iso: jpn
     name: アナティンガ・ドゴン語
     auto: true

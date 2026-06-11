@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايتسي
     auto: true
+  - translation_iso: ben
+    name: পাইকি
+    auto: true
   - translation_iso: deu
     name: Paicî
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paicî
   - translation_iso: hin
     name: पाइसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paicî
     auto: true
   - translation_iso: jpn
     name: パーチン語

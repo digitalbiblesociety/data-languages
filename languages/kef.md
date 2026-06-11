@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة كبيسي
     auto: true
+  - translation_iso: ben
+    name: কপেস্সি
+    auto: true
   - translation_iso: deu
     name: Kpessi
   - translation_iso: fra
     name: kpessi
   - translation_iso: hin
     name: क्पेस्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpessi
     auto: true
   - translation_iso: jpn
     name: クペシ語

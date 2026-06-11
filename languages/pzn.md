@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نجا بارا
     auto: true
+  - translation_iso: ben
+    name: পারা নাগা
+    auto: true
   - translation_iso: deu
     name: Para-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naga para
   - translation_iso: hin
     name: पारा नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Para Naga
     auto: true
   - translation_iso: jpn
     name: パラナガ語

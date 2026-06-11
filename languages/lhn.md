@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اهانان
     auto: true
+  - translation_iso: ben
+    name: লাহানান
+    auto: true
   - translation_iso: deu
     name: Lahanan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लाहानान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lahanan
     auto: true
   - translation_iso: jpn
     name: ラハナン語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة آري آري
     auto: true
+  - translation_iso: ben
+    name: আরেয়ারে
+    auto: true
   - translation_iso: deu
     name: ʻAreʻare
   - translation_iso: fra
     name: "are'are"
   - translation_iso: hin
     name: आरे आरे
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa 'Are'are"
     auto: true
   - translation_iso: jpn
     name: アレアレ語

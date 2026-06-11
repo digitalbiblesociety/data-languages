@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سووث غيزيغآ
     auto: true
+  - translation_iso: ben
+    name: সোউথ গিজিগা
+    auto: true
   - translation_iso: deu
     name: Südliches Giziga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guiziga du Sud
   - translation_iso: hin
     name: दक्षिणी गिज़िगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Giziga
     auto: true
   - translation_iso: jpn
     name: サウス・ギジガ語

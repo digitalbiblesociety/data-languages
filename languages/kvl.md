@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايאو
     auto: true
+  - translation_iso: ben
+    name: কায়াওয়
+    auto: true
   - translation_iso: deu
     name: Kayaw
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kayaw
   - translation_iso: hin
     name: कायाव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayaw
     auto: true
   - translation_iso: jpn
     name: カヤウ語

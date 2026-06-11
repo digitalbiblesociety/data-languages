@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيناوجورو
     auto: true
+  - translation_iso: ben
+    name: সিনাউগোরো
+    auto: true
   - translation_iso: deu
     name: Sinaugoro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sinaugoro
   - translation_iso: hin
     name: सिनाउगोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sinaugoro
     auto: true
   - translation_iso: jpn
     name: シナゴロ語

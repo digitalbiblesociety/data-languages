@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ata
+    auto: true
   - translation_iso: jpn
     name: アタ語
     auto: true

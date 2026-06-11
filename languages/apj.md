@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة جيكاريلا أباتشي
     auto: true
+  - translation_iso: ben
+    name: জিকারিল্লা আপাচে
+    auto: true
   - translation_iso: deu
     name: Jicarilla
   - translation_iso: fra
     name: jicarilla
   - translation_iso: hin
     name: हिकारिया अपाचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jicarilla Apache
     auto: true
   - translation_iso: jpn
     name: ジカリラ・アパッチ語

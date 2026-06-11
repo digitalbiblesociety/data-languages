@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نابي
     auto: true
+  - translation_iso: ben
+    name: নাবি
+    auto: true
   - translation_iso: deu
     name: Nabi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nabi
   - translation_iso: hin
     name: नाबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nabi
     auto: true
   - translation_iso: jpn
     name: ナビ語

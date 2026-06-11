@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميوا
     auto: true
+  - translation_iso: ben
+    name: মিওয়া
+    auto: true
   - translation_iso: deu
     name: Miwa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: miwa
   - translation_iso: hin
     name: मिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miwa
     auto: true
   - translation_iso: jpn
     name: ミワ語

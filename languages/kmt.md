@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمتويك
     auto: true
+  - translation_iso: ben
+    name: কেমতুইক
+    auto: true
   - translation_iso: deu
     name: Kemtuik
     auto: true

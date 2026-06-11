@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نغالوم
     auto: true
+  - translation_iso: ben
+    name: ঙালুম
+    auto: true
   - translation_iso: deu
     name: Ngalum
     auto: true

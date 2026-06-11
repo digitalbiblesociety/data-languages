@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوا بيسافلوريس
     auto: true
+  - translation_iso: ben
+    name: পিসাফলোরেস তেপেহুয়া
+    auto: true
   - translation_iso: deu
     name: Pisaflores Tepehua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tepehua de Pisa Flores
   - translation_iso: hin
     name: पिसाफ्लोरेस तेपेहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pisaflores Tepehua
     auto: true
   - translation_iso: jpn
     name: 北テペウア語

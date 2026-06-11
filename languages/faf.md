@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفاغاني
     auto: true
+  - translation_iso: ben
+    name: ফাগানি
+    auto: true
   - translation_iso: deu
     name: Fagani
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fagani
   - translation_iso: hin
     name: फगानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fagani
     auto: true
   - translation_iso: jpn
     name: ファガニ語

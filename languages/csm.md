@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سييرا المركزية ميووك
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল সিএর্রা মিওয়োক
+    auto: true
   - translation_iso: deu
     name: Zentrales Sierra-Miwok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miwok central de la Sierra
   - translation_iso: hin
     name: मध्य सिएरा मिवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Sierra Miwok
     auto: true
   - translation_iso: jpn
     name: セントラル・シエラ・ミウォク語

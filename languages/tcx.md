@@ -29,6 +29,9 @@ translations:
     name: toda
   - translation_iso: hin
     name: टोडा भाषा
+  - translation_iso: ind
+    name: Bahasa Toda
+    auto: true
   - translation_iso: jpn
     name: トダ語
   - translation_iso: kor

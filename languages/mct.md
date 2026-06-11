@@ -16,12 +16,18 @@ translations:
   - translation_iso: ara
     name: لغة منجيسا
     auto: true
+  - translation_iso: ben
+    name: মেঙিসা
+    auto: true
   - translation_iso: deu
     name: Mengisa
   - translation_iso: fra
     name: manguissa
   - translation_iso: hin
     name: मेंगिसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mengisa
     auto: true
   - translation_iso: jpn
     name: メンギサ語

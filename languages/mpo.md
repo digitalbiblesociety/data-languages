@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميو
     auto: true
+  - translation_iso: ben
+    name: মিউ
+    auto: true
   - translation_iso: deu
     name: Miu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miu
   - translation_iso: hin
     name: मियु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miu
     auto: true
   - translation_iso: jpn
     name: ミウ語

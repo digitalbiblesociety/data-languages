@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناكوي
     auto: true
+  - translation_iso: ben
+    name: নাকওয়ি
+    auto: true
   - translation_iso: deu
     name: Nakwi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nakwi
   - translation_iso: hin
     name: नाकवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nakwi
     auto: true
   - translation_iso: jpn
     name: ナクウィ語

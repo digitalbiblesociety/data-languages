@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناشرينج
     auto: true
+  - translation_iso: ben
+    name: নাচেরিং
+    auto: true
   - translation_iso: deu
     name: Nachering
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nachering
   - translation_iso: hin
     name: नाचेरिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nachering
     auto: true
   - translation_iso: jpn
     name: ナチェリング語

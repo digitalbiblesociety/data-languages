@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآلآنج
     auto: true
+  - translation_iso: ben
+    name: হালাং
+    auto: true
   - translation_iso: deu
     name: Halang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: halang
   - translation_iso: hin
     name: हलंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Halang
     auto: true
   - translation_iso: jpn
     name: ハラング語

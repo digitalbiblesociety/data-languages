@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيولنيول
     auto: true
+  - translation_iso: ben
+    name: নয়ুলনয়ুল
+    auto: true
   - translation_iso: deu
     name: Nyulnyul
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyulnyul
   - translation_iso: hin
     name: न्युलन्युल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyulnyul
     auto: true
   - translation_iso: jpn
     name: ニュルニュル語

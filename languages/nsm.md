@@ -30,6 +30,9 @@ translations:
     name: sema
   - translation_iso: hin
     name: सुमी भाषा
+  - translation_iso: ind
+    name: Bahasa Sumi Naga
+    auto: true
   - translation_iso: jpn
     name: スミ語
   - translation_iso: kor

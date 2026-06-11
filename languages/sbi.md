@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ستي
     auto: true
+  - translation_iso: ben
+    name: সেতি
+    auto: true
   - translation_iso: deu
     name: Seti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: seti
   - translation_iso: hin
     name: सेती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seti
     auto: true
   - translation_iso: jpn
     name: セティ語

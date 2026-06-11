@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: न्दाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ndam
+    auto: true
   - translation_iso: jpn
     name: ンダム語
   - translation_iso: kor

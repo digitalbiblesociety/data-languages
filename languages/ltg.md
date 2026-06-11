@@ -15,6 +15,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Latgalian_language"
 translations:
   - translation_iso: ara
     name: اللاتغالية
+  - translation_iso: ben
+    name: লাতগালিয়ান
+    auto: true
   - translation_iso: deu
     name: Lettgallisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فامالي
     auto: true
+  - translation_iso: ben
+    name: ভামালে
+    auto: true
   - translation_iso: deu
     name: Vamale
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vamale
   - translation_iso: hin
     name: वामाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vamale
     auto: true
   - translation_iso: jpn
     name: ヴァマレ語

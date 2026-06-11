@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتورو
     auto: true
+  - translation_iso: ben
+    name: তোতোরো
+    auto: true
   - translation_iso: deu
     name: Totoro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totoró
   - translation_iso: hin
     name: तोतोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Totoro
     auto: true
   - translation_iso: jpn
     name: ナムリック語

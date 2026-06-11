@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاوانجان
     auto: true
+  - translation_iso: ben
+    name: লাওয়াঙান
+    auto: true
   - translation_iso: deu
     name: Lawangan
     auto: true

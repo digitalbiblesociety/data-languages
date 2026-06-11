@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييالا الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত নয়ালা
+    auto: true
   - translation_iso: deu
     name: Ost-Nyala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyala de l’Est
   - translation_iso: hin
     name: पूर्वी न्याला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa East Nyala
     auto: true
   - translation_iso: jpn
     name: 東ニャラ語

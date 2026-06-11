@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوروبو
     auto: true
+  - translation_iso: ben
+    name: কোরোপো
+    auto: true
   - translation_iso: deu
     name: Koropó
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोरोपो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koropó
     auto: true
   - translation_iso: jpn
     name: コロポ語

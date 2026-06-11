@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لآمآنج
     auto: true
+  - translation_iso: ben
+    name: লামাং
+    auto: true
   - translation_iso: deu
     name: Lamang
   - translation_iso: fra
     name: laamang
   - translation_iso: hin
     name: लामंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamang
     auto: true
   - translation_iso: jpn
     name: ラマング語

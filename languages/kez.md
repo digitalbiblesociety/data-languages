@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكيل
     auto: true
+  - translation_iso: ben
+    name: কুকেলে
+    auto: true
   - translation_iso: deu
     name: Kukele
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kukele
   - translation_iso: hin
     name: कुकेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kukele
     auto: true
   - translation_iso: jpn
     name: クケレ語

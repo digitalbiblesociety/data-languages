@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوانو
     auto: true
+  - translation_iso: ben
+    name: বোয়ানো
+    auto: true
   - translation_iso: deu
     name: Boano (Sulawesi)
     auto: true

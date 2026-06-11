@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوآنآنو
     auto: true
+  - translation_iso: ben
+    name: গুয়ানানো
+    auto: true
   - translation_iso: deu
     name: Guanano
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوماغوا
     auto: true
+  - translation_iso: ben
+    name: ওমাগুয়া
+    auto: true
   - translation_iso: deu
     name: Omagua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: omagua
   - translation_iso: hin
     name: ओमागुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Omagua
     auto: true
   - translation_iso: jpn
     name: オマグア語

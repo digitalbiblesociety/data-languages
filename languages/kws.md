@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويسي
     auto: true
+  - translation_iso: ben
+    name: কওয়েসে
+    auto: true
   - translation_iso: deu
     name: Kwese
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwese
   - translation_iso: hin
     name: क्वेसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwese
     auto: true
   - translation_iso: jpn
     name: クウェセ語

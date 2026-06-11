@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هوتي
     auto: true
+  - translation_iso: ben
+    name: হোতি
+    auto: true
   - translation_iso: deu
     name: Hoti
   - translation_iso: fra

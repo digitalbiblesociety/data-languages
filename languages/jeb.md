@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبيرو
     auto: true
+  - translation_iso: ben
+    name: জেবেরো
+    auto: true
   - translation_iso: deu
     name: Jebero
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jebero
   - translation_iso: hin
     name: जेबेरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jebero
     auto: true
   - translation_iso: jpn
     name: ジェベロ語

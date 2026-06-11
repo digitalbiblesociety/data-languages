@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: نوبفيخا
     auto: true
+  - translation_iso: ben
+    name: নুপবিখা
+    auto: true
   - translation_iso: deu
     name: Nupbikha
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: nupbikha
   - translation_iso: hin
     name: नुपबिखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nupbikha
     auto: true
   - translation_iso: jpn
     name: ヌプビ語

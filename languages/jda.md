@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاد
     auto: true
+  - translation_iso: ben
+    name: জাদ
+    auto: true
   - translation_iso: deu
     name: Jad
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jad
   - translation_iso: hin
     name: जाद भाषा
+  - translation_iso: ind
+    name: Bahasa Jad
+    auto: true
   - translation_iso: jpn
     name: ジャド語
     auto: true

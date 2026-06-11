@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मंडयाली
+  - translation_iso: ind
+    name: Bahasa Mandeali
+    auto: true
   - translation_iso: jpn
     name: マンデアーリー語
   - translation_iso: kor

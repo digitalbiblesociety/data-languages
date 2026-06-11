@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ak
+    auto: true
   - translation_iso: jpn
     name: アク語
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كاداز دوسون
     auto: true
+  - translation_iso: ben
+    name: কাদাজান দুসুন
+    auto: true
   - translation_iso: deu
     name: Kadazandusun
   - translation_iso: fra

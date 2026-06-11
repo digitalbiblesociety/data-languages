@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: ben
+    name: বোনজো
+    auto: true
   - translation_iso: deu
     name: Bonjo
   - translation_iso: fra
     name: bonjo
   - translation_iso: hin
     name: बोंजो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bonjo
     auto: true
   - translation_iso: jpn
     name: ボンジョ語

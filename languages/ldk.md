@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليلاو
     auto: true
+  - translation_iso: ben
+    name: লেলাউ
+    auto: true
   - translation_iso: deu
     name: Leelau
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लीलाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Leelau
     auto: true
   - translation_iso: jpn
     name: リーラウ語

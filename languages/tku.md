@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك نيكاكسا العليا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের নেকাকসা তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Upper Necaxa Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque du haut Necaxa
   - translation_iso: hin
     name: ऊपरी नेकाक्सा टोटोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Necaxa Totonac
     auto: true
   - translation_iso: jpn
     name: 上部ネカクサ・トトナック語

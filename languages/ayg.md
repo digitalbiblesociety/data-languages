@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة جينيانجا
     auto: true
+  - translation_iso: ben
+    name: গিনয়াঙা
+    auto: true
   - translation_iso: deu
     name: Ginyanga
   - translation_iso: fra
     name: ginyanga
   - translation_iso: hin
     name: गिन्यांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ginyanga
     auto: true
   - translation_iso: jpn
     name: ギニャンガ語

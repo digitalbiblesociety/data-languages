@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: سامبي
     auto: true
+  - translation_iso: ben
+    name: সামবে
+    auto: true
   - translation_iso: deu
     name: Sambe
   - translation_iso: fra
     name: sambe
   - translation_iso: hin
     name: साम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sambe
     auto: true
   - translation_iso: jpn
     name: サンベ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96mie_language"
 translations:
   - translation_iso: ara
     name: لغة آومي
+  - translation_iso: ben
+    name: ওমিএ
+    auto: true
   - translation_iso: deu
     name: Ömie
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ömie
   - translation_iso: hin
     name: ओमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ömie
     auto: true
   - translation_iso: jpn
     name: オミエ語

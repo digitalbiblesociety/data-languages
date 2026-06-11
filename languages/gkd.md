@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مآغɨ
     auto: true
+  - translation_iso: ben
+    name: মাগি
+    auto: true
   - translation_iso: deu
     name: Magɨ (Madang Province)
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मागी (मदांग प्रांत)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Magɨ
     auto: true
   - translation_iso: jpn
     name: マギ語

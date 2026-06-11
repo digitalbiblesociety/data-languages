@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فاسافي
     auto: true
+  - translation_iso: ben
+    name: ভাসাভি
+    auto: true
   - translation_iso: deu
     name: Vasavi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वसावी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vasavi
     auto: true
   - translation_iso: jpn
     name: ヴァサヴィ語

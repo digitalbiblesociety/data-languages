@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوجوري
     auto: true
+  - translation_iso: ben
+    name: দুগুরি
+    auto: true
   - translation_iso: deu
     name: Duguri
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दुगुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duguri
     auto: true
   - translation_iso: jpn
     name: ドゥグリ語

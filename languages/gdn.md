@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أومانكاينا
     auto: true
+  - translation_iso: ben
+    name: উমানাকাইনা
+    auto: true
   - translation_iso: deu
     name: Umanakaina
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उमानाकाइना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umanakaina
     auto: true
   - translation_iso: jpn
     name: ウマナカイナ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيواي الشمالية الشرقية
     auto: true
+  - translation_iso: ben
+    name: নোরথেয়াসত কিওয়াই
+    auto: true
   - translation_iso: deu
     name: Nordost-Kiwai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kiwai du Nord-Est
   - translation_iso: hin
     name: पूर्वोत्तर किवाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northeast Kiwai
     auto: true
   - translation_iso: jpn
     name: ノースイースト・キワイ語

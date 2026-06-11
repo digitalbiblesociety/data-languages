@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دهارومبال
     auto: true
+  - translation_iso: ben
+    name: ধারুমবাল
+    auto: true
   - translation_iso: deu
     name: Dharumbal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dharumbal
   - translation_iso: hin
     name: धारुम्बल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dharumbal
     auto: true
   - translation_iso: jpn
     name: ダルムバル語

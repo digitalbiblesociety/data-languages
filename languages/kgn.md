@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كارينجاني
     auto: true
+  - translation_iso: ben
+    name: কারিঙানি
+    auto: true
   - translation_iso: deu
     name: Karingani
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karingani
   - translation_iso: hin
     name: करिंगानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karingani
     auto: true
   - translation_iso: jpn
     name: カリンガニ語

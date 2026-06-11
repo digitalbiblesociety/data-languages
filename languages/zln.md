@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ليانشان زوانغ
     auto: true
+  - translation_iso: ben
+    name: লিয়ানশান ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Lianshan-Zhuang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhuang de Lianshan
   - translation_iso: hin
     name: लियानशान ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lianshan Zhuang
     auto: true
   - translation_iso: jpn
     name: 連山チワン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جاه
     auto: true
+  - translation_iso: ben
+    name: গা
+    auto: true
   - translation_iso: deu
     name: Gaa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gaa
   - translation_iso: hin
     name: गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gaa
     auto: true
   - translation_iso: jpn
     name: ティバ語

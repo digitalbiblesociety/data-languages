@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ايري
     auto: true
+  - translation_iso: ben
+    name: এরে
+    auto: true
   - translation_iso: deu
     name: Ere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ere
   - translation_iso: hin
     name: एरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ere
     auto: true
   - translation_iso: jpn
     name: ナネ語

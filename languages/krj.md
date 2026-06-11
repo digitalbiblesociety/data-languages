@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كيناراي-أ
     auto: true
+  - translation_iso: ben
+    name: কিনারায়-আ
+    auto: true
   - translation_iso: deu
     name: Kinaray-a
   - translation_iso: fra

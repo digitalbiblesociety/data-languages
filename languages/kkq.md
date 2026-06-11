@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كايكو
     auto: true
+  - translation_iso: ben
+    name: কাইকু
+    auto: true
   - translation_iso: deu
     name: Kaiku
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Kaiku
   - translation_iso: hin
     name: कైकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaiku
     auto: true
   - translation_iso: jpn
     name: カイク語

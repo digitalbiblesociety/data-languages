@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توجبو فارا بندا
     auto: true
+  - translation_iso: ben
+    name: তোগবো-ভারা বানদা
+    auto: true
   - translation_iso: deu
     name: Togbo-Vara Banda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: banda togbo-vara
   - translation_iso: hin
     name: तोग्बो-वारा बांदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Togbo-Vara Banda
     auto: true
   - translation_iso: jpn
     name: トグボ・ヴァラ・バンダ語

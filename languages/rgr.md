@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ريسيجارو
     auto: true
+  - translation_iso: ben
+    name: রেসিগারো
+    auto: true
   - translation_iso: deu
     name: Resígaro
   - translation_iso: fra
     name: resigaro
   - translation_iso: hin
     name: रेसिगारो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Resígaro
     auto: true
   - translation_iso: jpn
     name: レシガロ語

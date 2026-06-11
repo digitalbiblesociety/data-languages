@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآررإ
     auto: true
+  - translation_iso: ben
+    name: গার্রে
+    auto: true
   - translation_iso: deu
     name: Garre
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: garre
   - translation_iso: hin
     name: गर्रे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garre
     auto: true
   - translation_iso: jpn
     name: ガッレ語

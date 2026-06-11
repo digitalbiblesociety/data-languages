@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: चिरिपा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Chiripá
+    auto: true
   - translation_iso: jpn
     name: アバグアラニー語
   - translation_iso: kor

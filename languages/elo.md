@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الإل مولو
     auto: true
+  - translation_iso: ben
+    name: এল মোলো
+    auto: true
   - translation_iso: deu
     name: El Molo
   - translation_iso: fra
     name: elmolo
   - translation_iso: hin
     name: एल मोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa El Molo
     auto: true
   - translation_iso: jpn
     name: エル・モロ語

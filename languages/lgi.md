@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجيلو
     auto: true
+  - translation_iso: ben
+    name: লেঙিলু
+    auto: true
   - translation_iso: deu
     name: Lengilu
     auto: true

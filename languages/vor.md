@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فورو
     auto: true
+  - translation_iso: ben
+    name: ভোরো
+    auto: true
   - translation_iso: deu
     name: Voro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: voro
   - translation_iso: hin
     name: वोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Voro
     auto: true
   - translation_iso: jpn
     name: ボロ語

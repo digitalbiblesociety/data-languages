@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ف
     auto: true
+  - translation_iso: ben
+    name: পেভে
+    auto: true
   - translation_iso: deu
     name: Pévé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pévé
   - translation_iso: hin
     name: पेवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pévé
     auto: true
   - translation_iso: jpn
     name: ペベ語

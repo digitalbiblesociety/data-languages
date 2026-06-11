@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بورو
     auto: true
+  - translation_iso: ben
+    name: বোরো
+    auto: true
   - translation_iso: deu
     name: Boro (Äthiopien)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shinasha
   - translation_iso: hin
     name: बोरो (इथियोपिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boro
     auto: true
   - translation_iso: jpn
     name: ボロ語

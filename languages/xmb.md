@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مبونجا
     auto: true
+  - translation_iso: ben
+    name: মবোঙা
+    auto: true
   - translation_iso: deu
     name: Mbonga
   - translation_iso: fra
     name: mbonga
   - translation_iso: hin
     name: म्बोंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbonga
     auto: true
   - translation_iso: jpn
     name: ムボンガ語

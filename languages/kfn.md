@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوك
     auto: true
+  - translation_iso: ben
+    name: কুক
+    auto: true
   - translation_iso: deu
     name: Kuk
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuk
   - translation_iso: hin
     name: कुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuk
     auto: true
   - translation_iso: jpn
     name: クク語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كولي واديارا
     auto: true
+  - translation_iso: ben
+    name: ওয়াদিয়ারা কোলি
+    auto: true
   - translation_iso: deu
     name: Wadiyara-Koli
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: wadiyara
   - translation_iso: hin
     name: वाडियारा कोली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wadiyara Koli
     auto: true
   - translation_iso: jpn
     name: ワディヤラ・コリ語

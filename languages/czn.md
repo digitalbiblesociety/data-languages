@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زينزونتيبك تشاتينو
     auto: true
+  - translation_iso: ben
+    name: জেনজোনতেপেক চাতিনো
+    auto: true
   - translation_iso: deu
     name: Zenzontepec-Chatino
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chatino de Zenzontepec
   - translation_iso: hin
     name: ज़ेन्ज़ोन्तेपेक चातीनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zenzontepec Chatino
     auto: true
   - translation_iso: jpn
     name: セントソンテペク・チャティーノ語

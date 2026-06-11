@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موجي
     auto: true
+  - translation_iso: ben
+    name: মুনজি
+    auto: true
   - translation_iso: deu
     name: Munji
   - translation_iso: fra
     name: munji
   - translation_iso: hin
     name: मुंजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Munji
     auto: true
   - translation_iso: jpn
     name: ムンジャン語

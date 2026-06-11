@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كويني
     auto: true
+  - translation_iso: ben
+    name: কোএনোএম
+    auto: true
   - translation_iso: deu
     name: Koenoem
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koenoem
   - translation_iso: hin
     name: कोएनोएम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koenoem
     auto: true
   - translation_iso: jpn
     name: Koenoem語

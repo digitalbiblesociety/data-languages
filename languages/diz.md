@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديند
     auto: true
+  - translation_iso: ben
+    name: দিং
+    auto: true
   - translation_iso: deu
     name: Ding
   - translation_iso: fra
     name: dzing
   - translation_iso: hin
     name: डिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ding
     auto: true
   - translation_iso: jpn
     name: ディング語

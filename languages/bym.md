@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बिजारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bidjara
+    auto: true
   - translation_iso: jpn
     name: ビジャラ語
     auto: true

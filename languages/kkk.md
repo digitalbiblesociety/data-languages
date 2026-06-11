@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكوتا
     auto: true
+  - translation_iso: ben
+    name: কোকোতা
+    auto: true
   - translation_iso: deu
     name: Kokota
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kokota
   - translation_iso: hin
     name: कोकोता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kokota
     auto: true
   - translation_iso: jpn
     name: ココタ語

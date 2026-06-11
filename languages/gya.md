@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: نورثوإست غبآيآ
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসত গবায়া
+    auto: true
   - translation_iso: deu
     name: Nordwest-Gbaya
   - translation_iso: fra
     name: gbaya du Nord-Ouest
   - translation_iso: hin
     name: उत्तर-पश्चिमी ग्बाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwest Gbaya
     auto: true
   - translation_iso: jpn
     name: 北西グバヤ語

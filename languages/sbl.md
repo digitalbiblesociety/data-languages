@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوتولان سامبال
     auto: true
+  - translation_iso: ben
+    name: বোতোলান সামবাল
+    auto: true
   - translation_iso: deu
     name: Botolan-Sambal
     auto: true

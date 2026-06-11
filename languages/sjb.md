@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساجاو باساب
     auto: true
+  - translation_iso: ben
+    name: সাজাউ বাসাপ
+    auto: true
   - translation_iso: deu
     name: Sajau-Basap
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: साजाउ बासाप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sajau Basap
     auto: true
   - translation_iso: jpn
     name: サジャウ・ラッティ語

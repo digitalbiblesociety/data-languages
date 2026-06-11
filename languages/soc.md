@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سو (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: ben
+    name: সো
+    auto: true
   - translation_iso: deu
     name: So (Democratic Republic of Congo)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सो (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa So
     auto: true
   - translation_iso: jpn
     name: ソー語

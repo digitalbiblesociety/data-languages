@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك ييكواتلا
     auto: true
+  - translation_iso: ben
+    name: য়েকুয়াতলা তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Yecuatla Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque de Misantla
   - translation_iso: hin
     name: येकुआत्ला टोटोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yecuatla Totonac
     auto: true
   - translation_iso: jpn
     name: イェクアトラ・トトナック語

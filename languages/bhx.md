@@ -26,6 +26,9 @@ translations:
   - translation_iso: hin
     name: भलाय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bhalay
+    auto: true
   - translation_iso: jpn
     name: バハレイ語
     auto: true

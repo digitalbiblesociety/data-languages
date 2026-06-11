@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوهين
     auto: true
+  - translation_iso: ben
+    name: কোহিন
+    auto: true
   - translation_iso: deu
     name: Kohin
     auto: true

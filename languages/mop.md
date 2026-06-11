@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موبان مايا
     auto: true
+  - translation_iso: ben
+    name: মোপান মায়া
+    auto: true
   - translation_iso: deu
     name: Mopan-Sprache
   - translation_iso: fra
     name: maya mopan
   - translation_iso: hin
     name: मोपान माया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mopán Maya
     auto: true
   - translation_iso: jpn
     name: モパン語

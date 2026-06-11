@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بالانهو
     auto: true
+  - translation_iso: ben
+    name: মবালানহু
+    auto: true
   - translation_iso: deu
     name: Mbalanhu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mbalanhu
   - translation_iso: hin
     name: म्बालान्हु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbalanhu
     auto: true
   - translation_iso: jpn
     name: バランフ語

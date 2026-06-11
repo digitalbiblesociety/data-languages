@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ييماس
     auto: true
+  - translation_iso: ben
+    name: য়িমাস
+    auto: true
   - translation_iso: deu
     name: Yimas
   - translation_iso: fra
     name: yimas
   - translation_iso: hin
     name: यिमास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yimas
     auto: true
   - translation_iso: jpn
     name: イマス語

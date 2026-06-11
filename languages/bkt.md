@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بولوكي
     auto: true
+  - translation_iso: ben
+    name: বোলোকি
+    auto: true
   - translation_iso: deu
     name: Boloki
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: boloki
   - translation_iso: hin
     name: बोलोकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boloki
     auto: true
   - translation_iso: jpn
     name: ボロキ語

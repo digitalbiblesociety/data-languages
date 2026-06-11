@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: उरुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Urum
+    auto: true
   - translation_iso: jpn
     name: ウルム語
   - translation_iso: kor

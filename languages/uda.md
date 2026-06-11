@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أودا
     auto: true
+  - translation_iso: ben
+    name: উদা
+    auto: true
   - translation_iso: deu
     name: Uda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: uda
   - translation_iso: hin
     name: उदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uda
     auto: true
   - translation_iso: jpn
     name: ウダ語

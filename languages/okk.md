@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوامتيم وان
     auto: true
+  - translation_iso: ben
+    name: কওয়ামতিম ওনে
+    auto: true
   - translation_iso: deu
     name: Kwamtim One
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: one kwamtim
   - translation_iso: hin
     name: क्वामतिम वन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwamtim One
     auto: true
   - translation_iso: jpn
     name: クワムティム・ワン語

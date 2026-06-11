@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولالي
     auto: true
+  - translation_iso: ben
+    name: মোলালে
+    auto: true
   - translation_iso: deu
     name: Molale
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: molala
   - translation_iso: hin
     name: मोलाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Molale
     auto: true
   - translation_iso: jpn
     name: モラレ語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Noongar_language"
 translations:
   - translation_iso: ara
     name: نونغار
+  - translation_iso: ben
+    name: নয়ুঙার
+    auto: true
   - translation_iso: deu
     name: Noongar
   - translation_iso: fra
     name: nyungar
   - translation_iso: hin
     name: न्युंगर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyungar
     auto: true
   - translation_iso: jpn
     name: ヌーンガー語

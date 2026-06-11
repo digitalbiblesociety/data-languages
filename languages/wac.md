@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واسكو-ويشرام
     auto: true
+  - translation_iso: ben
+    name: ওয়াসকো-ওয়িশরাম
+    auto: true
   - translation_iso: deu
     name: Wasco-Wishram
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wasco-wishram
   - translation_iso: hin
     name: वास्को-विश्रम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wasco-Wishram
     auto: true
   - translation_iso: jpn
     name: ウィシュラム語

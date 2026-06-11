@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سابو
     auto: true
+  - translation_iso: ben
+    name: সাবু
+    auto: true
   - translation_iso: deu
     name: Hawu
   - translation_iso: fra

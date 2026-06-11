@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غونتآي
     auto: true
+  - translation_iso: ben
+    name: গুনতাই
+    auto: true
   - translation_iso: deu
     name: Guntai
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गुंताई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guntai
     auto: true
   - translation_iso: jpn
     name: グンタイ語

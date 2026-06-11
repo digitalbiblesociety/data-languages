@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: ऐघोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aighon
+    auto: true
   - translation_iso: jpn
     name: アイゴン語
     auto: true

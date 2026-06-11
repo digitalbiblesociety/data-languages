@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماهو
     auto: true
+  - translation_iso: ben
+    name: মাহোউ
+    auto: true
   - translation_iso: deu
     name: Mahou
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mahou
   - translation_iso: hin
     name: माहोउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mahou
     auto: true
   - translation_iso: jpn
     name: マホウ語

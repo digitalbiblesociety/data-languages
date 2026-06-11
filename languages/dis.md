@@ -30,6 +30,9 @@ translations:
     name: dimasa
   - translation_iso: hin
     name: दिमासा भाषा
+  - translation_iso: ind
+    name: Bahasa Dimasa
+    auto: true
   - translation_iso: jpn
     name: ディマサ語
   - translation_iso: kor

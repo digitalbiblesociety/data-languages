@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجادسوب
     auto: true
+  - translation_iso: ben
+    name: গাদসুপ
+    auto: true
   - translation_iso: deu
     name: Gadsup
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गाडसुप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gadsup
     auto: true
   - translation_iso: jpn
     name: ガドスプ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باريسيس
     auto: true
+  - translation_iso: ben
+    name: পারেকিস
+    auto: true
   - translation_iso: deu
     name: Parecís
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paresi
   - translation_iso: hin
     name: पारेसिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Parecís
     auto: true
   - translation_iso: jpn
     name: パレシ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييندجيلاندجي
     auto: true
+  - translation_iso: ben
+    name: য়িনদজিলানদজি
+    auto: true
   - translation_iso: deu
     name: Yindjilandji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yindjilandji
   - translation_iso: hin
     name: यिन्जिलान्जी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yindjilandji
     auto: true
   - translation_iso: jpn
     name: イーンジラランジ語

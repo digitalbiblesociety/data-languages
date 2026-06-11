@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ذاو
     auto: true
+  - translation_iso: ben
+    name: ধাও
+    auto: true
   - translation_iso: deu
     name: Dhao
     auto: true

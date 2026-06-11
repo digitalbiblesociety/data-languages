@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cappadocian_Greek"
 translations:
   - translation_iso: ara
     name: يونانية كبادوكية
+  - translation_iso: ben
+    name: কাপ্পাদোকিয়ান গরেক
+    auto: true
   - translation_iso: deu
     name: Kappadokisch
   - translation_iso: fra

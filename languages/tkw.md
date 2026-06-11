@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيانو
     auto: true
+  - translation_iso: ben
+    name: তেয়ানু
+    auto: true
   - translation_iso: deu
     name: Teanu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: teanu
   - translation_iso: hin
     name: तेआनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teanu
     auto: true
   - translation_iso: jpn
     name: テアヌ語

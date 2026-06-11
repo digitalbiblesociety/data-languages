@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيسالپيني غاوليسه
     auto: true
+  - translation_iso: ben
+    name: কিসালপিনে গাউলিশ
+    auto: true
   - translation_iso: deu
     name: Zisalpinisches Gallisch
     auto: true

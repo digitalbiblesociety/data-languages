@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإيمان
     auto: true
+  - translation_iso: ben
+    name: এমান
+    auto: true
   - translation_iso: deu
     name: Eman
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: eman
   - translation_iso: hin
     name: एमान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eman
     auto: true
   - translation_iso: jpn
     name: エマン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماماسا
     auto: true
+  - translation_iso: ben
+    name: মামাসা
+    auto: true
   - translation_iso: deu
     name: Mamasa
   - translation_iso: fra

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماندوبو باواه
     auto: true
+  - translation_iso: ben
+    name: মানদোবো বাওয়াহ
+    auto: true
   - translation_iso: deu
     name: Mandobo Bawah
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मांदोबो बावाह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandobo Bawah
     auto: true
   - translation_iso: jpn
     name: マンドボ・バワ語

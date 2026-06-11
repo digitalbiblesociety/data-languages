@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووون ميو
     auto: true
+  - translation_iso: ben
+    name: ওয়োউন মেউ
+    auto: true
   - translation_iso: deu
     name: Woun Meu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wounaan
   - translation_iso: hin
     name: वौन मेउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Woun Meu
     auto: true
   - translation_iso: jpn
     name: ワウン・メウ語

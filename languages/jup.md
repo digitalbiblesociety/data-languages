@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هوبدي
     auto: true
+  - translation_iso: ben
+    name: হুপদে
+    auto: true
   - translation_iso: deu
     name: Hupdë
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hupda
   - translation_iso: hin
     name: हुपदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hupdë
     auto: true
   - translation_iso: jpn
     name: フプデ語

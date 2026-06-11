@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نوتوواي-ميهيرين
     auto: true
+  - translation_iso: ben
+    name: নোত্তোওয়ায়-মেহের্রিন
+    auto: true
   - translation_iso: deu
     name: Nottoway-Meherrin
     auto: true
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नोटोवे-मेहेरिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nottoway-Meherrin
     auto: true
   - translation_iso: jpn
     name: ノッタウェイ・メヘリン語

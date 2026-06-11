@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كاراboro الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন কারাবোরো
+    auto: true
   - translation_iso: deu
     name: Syer-Tenyer
   - translation_iso: fra
     name: syer-tenyer
   - translation_iso: hin
     name: पश्चिमी काराबोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Karaboro
     auto: true
   - translation_iso: jpn
     name: 西カラボロ語

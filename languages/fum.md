@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الفوم
     auto: true
+  - translation_iso: ben
+    name: ফুম
+    auto: true
   - translation_iso: deu
     name: Fum
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: fum
   - translation_iso: hin
     name: फुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fum
     auto: true
   - translation_iso: jpn
     name: フム語

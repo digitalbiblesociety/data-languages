@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جيتونجا
     auto: true
+  - translation_iso: ben
+    name: গিতোঙা
+    auto: true
   - translation_iso: deu
     name: Gitonga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गितोंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gitonga
     auto: true
   - translation_iso: jpn
     name: ギトンガ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاليينج
     auto: true
+  - translation_iso: ben
+    name: তালিএং
+    auto: true
   - translation_iso: deu
     name: Talieng
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: talieng
   - translation_iso: hin
     name: तालिएंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Talieng
     auto: true
   - translation_iso: jpn
     name: タリエン語

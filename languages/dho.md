@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوديا
     auto: true
+  - translation_iso: ben
+    name: ধোদিয়া
+    auto: true
   - translation_iso: deu
     name: Dhodia
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: धोडिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhodia
     auto: true
   - translation_iso: jpn
     name: ドディア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويستن
     auto: true
+  - translation_iso: ben
+    name: কওয়েসতেন
+    auto: true
   - translation_iso: deu
     name: Kwesten
     auto: true

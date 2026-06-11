@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابيناوا
     auto: true
+  - translation_iso: ben
+    name: কাপিনাওয়া
+    auto: true
   - translation_iso: deu
     name: Kapinawá
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कापिनावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kapinawá
     auto: true
   - translation_iso: jpn
     name: カピナワ語

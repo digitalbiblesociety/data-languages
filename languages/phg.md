@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوونغ
     auto: true
+  - translation_iso: ben
+    name: ফুওং
+    auto: true
   - translation_iso: deu
     name: Phuong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phuong
   - translation_iso: hin
     name: फुओंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phuong
     auto: true
   - translation_iso: jpn
     name: フオン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتونج
     auto: true
+  - translation_iso: ben
+    name: তুতোং
+    auto: true
   - translation_iso: deu
     name: Tutong
   - translation_iso: fra

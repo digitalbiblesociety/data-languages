@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ايمبوي
     auto: true
+  - translation_iso: ben
+    name: লাইমবুএ
+    auto: true
   - translation_iso: deu
     name: Laimbue
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: laimbue
   - translation_iso: hin
     name: लाइंबुए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laimbue
     auto: true
   - translation_iso: jpn
     name: ラインビュエ語

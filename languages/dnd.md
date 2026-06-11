@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داوندا
     auto: true
+  - translation_iso: ben
+    name: দাওনদা
+    auto: true
   - translation_iso: deu
     name: Daonda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: daonda
   - translation_iso: hin
     name: दाओन्दा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daonda
     auto: true
   - translation_iso: jpn
     name: ダオンダ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अमगानाद इफुगाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amganad Ifugao
+    auto: true
   - translation_iso: jpn
     name: アムガナド・イフガオ語
     auto: true

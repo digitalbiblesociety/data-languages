@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngiti_language"
 translations:
   - translation_iso: ara
     name: لغة نغيتي
+  - translation_iso: ben
+    name: ঙিতি
+    auto: true
   - translation_iso: deu
     name: Ngiti
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngiti
   - translation_iso: hin
     name: नगिति
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngiti
     auto: true
   - translation_iso: jpn
     name: ンギティ語

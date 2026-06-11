@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيونغ
     auto: true
+  - translation_iso: ben
+    name: চেওয়োং
+    auto: true
   - translation_iso: deu
     name: Chewong
     auto: true

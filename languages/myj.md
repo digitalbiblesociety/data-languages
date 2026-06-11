@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مانجايات
     auto: true
+  - translation_iso: ben
+    name: মাঙায়াত
+    auto: true
   - translation_iso: deu
     name: Mangayat
   - translation_iso: fra
     name: mangaya
   - translation_iso: hin
     name: मंगायात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangayat
     auto: true
   - translation_iso: jpn
     name: マンガヤット語

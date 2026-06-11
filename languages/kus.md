@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kusaal_language"
 translations:
   - translation_iso: ara
     name: كوسال
+  - translation_iso: ben
+    name: কুসাল
+    auto: true
   - translation_iso: deu
     name: Kusaal
   - translation_iso: fra
     name: kusaal
   - translation_iso: hin
     name: कुसाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kusaal
     auto: true
   - translation_iso: jpn
     name: クサール語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجنجام
     auto: true
+  - translation_iso: ben
+    name: লয়ংঙাম
+    auto: true
   - translation_iso: deu
     name: Lyngngam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lyngngam
   - translation_iso: hin
     name: लिंगंगाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lyngngam
     auto: true
   - translation_iso: jpn
     name: リンガム語

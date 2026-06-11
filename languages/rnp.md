@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونجبو
     auto: true
+  - translation_iso: ben
+    name: রোংপো
+    auto: true
   - translation_iso: deu
     name: Rongpo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rongpo
   - translation_iso: hin
     name: रोंग्पो भाषा
+  - translation_iso: ind
+    name: Bahasa Rongpo
+    auto: true
   - translation_iso: jpn
     name: ロンポ語
     auto: true

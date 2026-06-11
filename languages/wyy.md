@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويستيرن فيجيان
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন ফিজিয়ান
+    auto: true
   - translation_iso: deu
     name: West-Fidschianisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fidjien occidental
   - translation_iso: hin
     name: पश्चिमी फिजियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Fijian
     auto: true
   - translation_iso: jpn
     name: 西フィジー語

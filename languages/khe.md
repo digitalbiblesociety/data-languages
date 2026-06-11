@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروواي
     auto: true
+  - translation_iso: ben
+    name: কোরোওয়াই
+    auto: true
   - translation_iso: deu
     name: Korowai
     auto: true

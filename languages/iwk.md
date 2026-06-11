@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة آي واك
     auto: true
+  - translation_iso: ben
+    name: ই-ওয়াক
+    auto: true
   - translation_iso: deu
     name: I-Wak
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: आई-वाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa I-Wak
     auto: true
   - translation_iso: jpn
     name: イ・ワク語

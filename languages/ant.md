@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अंताकारिन्या
     auto: true
+  - translation_iso: ind
+    name: Bahasa Antakarinya
+    auto: true
   - translation_iso: jpn
     name: アンタカリニャ語
     auto: true

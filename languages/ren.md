@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رينجاو
     auto: true
+  - translation_iso: ben
+    name: রেঙাও
+    auto: true
   - translation_iso: deu
     name: Rengao
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रेंगाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rengao
     auto: true
   - translation_iso: jpn
     name: レンガオ語

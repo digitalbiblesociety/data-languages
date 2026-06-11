@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غرإإن غإلآو
     auto: true
+  - translation_iso: ben
+    name: গরেন গেলাও
+    auto: true
   - translation_iso: deu
     name: Grünes Gelao
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الفام
     auto: true
+  - translation_iso: ben
+    name: ফাম
+    auto: true
   - translation_iso: deu
     name: Fam
   - translation_iso: fra
     name: fam
   - translation_iso: hin
     name: फाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fam
     auto: true
   - translation_iso: jpn
     name: ファム語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ندومبي
     auto: true
+  - translation_iso: ben
+    name: নদোমবে
+    auto: true
   - translation_iso: deu
     name: Ndombe
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्दोम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndombe
     auto: true
   - translation_iso: jpn
     name: ンドンベ語

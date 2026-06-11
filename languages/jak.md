@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة جاكون
     auto: true
+  - translation_iso: ben
+    name: জাকুন
+    auto: true
   - translation_iso: deu
     name: Jakun
     auto: true

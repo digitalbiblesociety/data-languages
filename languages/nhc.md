@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاباسكو ناهواتل
     auto: true
+  - translation_iso: ben
+    name: তাবাসকো নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Tabasco-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl du Tabasco
   - translation_iso: hin
     name: ताबास्को नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tabasco Nahuatl
     auto: true
   - translation_iso: jpn
     name: タバスコ・ナワトル語

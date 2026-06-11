@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ساراْنْجاني بلاان
     auto: true
+  - translation_iso: ben
+    name: সারাঙানি বলান
+    auto: true
   - translation_iso: deu
     name: Sarangani Blaan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सारंगानी ब्लान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sarangani Blaan
     auto: true
   - translation_iso: jpn
     name: サランガニ・ブラアン語

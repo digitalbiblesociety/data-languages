@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوي
     auto: true
+  - translation_iso: ben
+    name: জাওয়ে
+    auto: true
   - translation_iso: deu
     name: Jawe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jawe
   - translation_iso: hin
     name: जावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jawe
     auto: true
   - translation_iso: jpn
     name: ジャウェ語

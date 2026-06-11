@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अंतनकराना मालागासी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Antankarana Malagasy
+    auto: true
   - translation_iso: jpn
     name: アンタンカラナ・マダガスカル語
   - translation_iso: kor

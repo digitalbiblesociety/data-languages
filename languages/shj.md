@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاطية
     auto: true
+  - translation_iso: ben
+    name: শাত্ত
+    auto: true
   - translation_iso: deu
     name: Shatt
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: caning
   - translation_iso: hin
     name: शट्ट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shatt
     auto: true
   - translation_iso: jpn
     name: カニング語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كير بالار
     auto: true
+  - translation_iso: ben
+    name: কির-বালার
+    auto: true
   - translation_iso: deu
     name: Kir-Balar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: किर-बालार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kir-Balar
     auto: true
   - translation_iso: jpn
     name: キル・バラル語

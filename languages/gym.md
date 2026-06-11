@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجäبإرإ
     auto: true
+  - translation_iso: ben
+    name: ঙাবেরে
+    auto: true
   - translation_iso: deu
     name: Ngäbere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngäbere
   - translation_iso: hin
     name: न्गाबेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngäbere
     auto: true
   - translation_iso: jpn
     name: グワイミ語

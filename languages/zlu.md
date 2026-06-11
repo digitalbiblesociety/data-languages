@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة زول
     auto: true
+  - translation_iso: ben
+    name: জুল
+    auto: true
   - translation_iso: deu
     name: Zul
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: zul
   - translation_iso: hin
     name: ज़ुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zul
     auto: true
   - translation_iso: jpn
     name: ズル語

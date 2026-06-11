@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ميددلي ويلسه
     auto: true
+  - translation_iso: ben
+    name: মিদ্দলে ওয়েলশ
+    auto: true
   - translation_iso: deu
     name: Mittelwalisisch
   - translation_iso: fra

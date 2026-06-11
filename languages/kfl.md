@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونغ
     auto: true
+  - translation_iso: ben
+    name: কুং
+    auto: true
   - translation_iso: deu
     name: Kung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kung
   - translation_iso: hin
     name: कुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kung
     auto: true
   - translation_iso: jpn
     name: クン語

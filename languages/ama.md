@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अमानाये
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amanayé
+    auto: true
   - translation_iso: jpn
     name: アマナエ語
     auto: true

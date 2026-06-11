@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوجو-موميني
     auto: true
+  - translation_iso: ben
+    name: কুগু-মুমিনহ
+    auto: true
   - translation_iso: deu
     name: Kugu-Muminh
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kuku-muminh
   - translation_iso: hin
     name: कुगु-मुमिन्ह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kugu-Muminh
     auto: true
   - translation_iso: jpn
     name: クグ・ムミンハ語

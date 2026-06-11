@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديميسا
     auto: true
+  - translation_iso: ben
+    name: দেমিসা
+    auto: true
   - translation_iso: deu
     name: Demisa
     auto: true

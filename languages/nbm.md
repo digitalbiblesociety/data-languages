@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجبكا ماقبو
     auto: true
+  - translation_iso: ben
+    name: ংবাকা মাবো
+    auto: true
   - translation_iso: deu
     name: "Ngbaka Ma'bo"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbaka
   - translation_iso: hin
     name: न्गबाका माबो
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Ngbaka Ma'bo"
     auto: true
   - translation_iso: jpn
     name: ムバカ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوفوك
     auto: true
+  - translation_iso: ben
+    name: কুভোক
+    auto: true
   - translation_iso: deu
     name: Cuvok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cuvok
   - translation_iso: hin
     name: कुवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cuvok
     auto: true
   - translation_iso: jpn
     name: クヴォク語

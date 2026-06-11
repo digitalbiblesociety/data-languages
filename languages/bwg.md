@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बारवे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barwe
+    auto: true
   - translation_iso: jpn
     name: バルウェ語
   - translation_iso: kor

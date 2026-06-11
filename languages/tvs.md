@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تافيتا
     auto: true
+  - translation_iso: ben
+    name: তাভেতা
+    auto: true
   - translation_iso: deu
     name: Taveta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: taveta
   - translation_iso: hin
     name: तावेता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taveta
     auto: true
   - translation_iso: jpn
     name: タヴェタ語

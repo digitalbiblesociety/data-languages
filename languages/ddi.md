@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويست جودينو
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত গোদেনোউঘ
+    auto: true
   - translation_iso: deu
     name: West-Goodenough
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: diodio
   - translation_iso: hin
     name: पश्चिमी गुडइनफ़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Goodenough
     auto: true
   - translation_iso: jpn
     name: ウェスト・グッデナフ語

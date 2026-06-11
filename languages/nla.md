@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نغومبالي
     auto: true
+  - translation_iso: ben
+    name: ঙোমবালে
+    auto: true
   - translation_iso: deu
     name: Ngombale
   - translation_iso: fra
     name: ngombale
   - translation_iso: hin
     name: नगोम्बाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngombale
     auto: true
   - translation_iso: jpn
     name: ンゴンバレ語

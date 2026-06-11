@@ -30,6 +30,9 @@ translations:
     name: idu mishmi
   - translation_iso: hin
     name: इदु मिश्मी भाषा
+  - translation_iso: ind
+    name: Bahasa Idu-Mishmi
+    auto: true
   - translation_iso: jpn
     name: 義都語
   - translation_iso: kor

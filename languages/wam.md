@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Massachusett_language"
 translations:
   - translation_iso: ara
     name: لغة ماساتشوستس
+  - translation_iso: ben
+    name: ওয়ামপানোয়াগ
+    auto: true
   - translation_iso: deu
     name: Massachusett-Sprache
   - translation_iso: fra

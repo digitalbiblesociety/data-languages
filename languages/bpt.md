@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बैरो पॉइंट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barrow Point
+    auto: true
   - translation_iso: jpn
     name: バロウ・ポイント語
     auto: true

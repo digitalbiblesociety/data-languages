@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باملونا أتا
     auto: true
+  - translation_iso: ben
+    name: পামপলোনা আত্তা
+    auto: true
   - translation_iso: deu
     name: Pamplona-Atta
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: atta de Pamplona
   - translation_iso: hin
     name: पाम्प्लोना अत्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pamplona Atta
     auto: true
   - translation_iso: jpn
     name: パンプロナ・アッタ語

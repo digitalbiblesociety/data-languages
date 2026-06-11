@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अयोकेस्को ज़ापोटेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayoquesco Zapotec
+    auto: true
   - translation_iso: jpn
     name: アヨケスコ・サポテク語
     auto: true

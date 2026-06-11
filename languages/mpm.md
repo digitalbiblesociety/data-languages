@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك يوسونديا
     auto: true
+  - translation_iso: ben
+    name: য়োসোনদুয়া মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Yosondúa-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Yosondúa
   - translation_iso: hin
     name: योसोंदुआ मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yosondúa Mixtec
     auto: true
   - translation_iso: jpn
     name: ヨソンドゥア・ミステク語

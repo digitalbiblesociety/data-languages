@@ -29,6 +29,9 @@ translations:
     name: sauria paharia
   - translation_iso: hin
     name: माल्टो भाषा
+  - translation_iso: ind
+    name: Bahasa Sauria Paharia
+    auto: true
   - translation_iso: jpn
     name: サウリア・パハリア語
     auto: true

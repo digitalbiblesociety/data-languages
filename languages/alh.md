@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अलावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alawa
+    auto: true
   - translation_iso: jpn
     name: アラワ語
     auto: true

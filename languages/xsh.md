@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شامانج
     auto: true
+  - translation_iso: ben
+    name: শামাং
+    auto: true
   - translation_iso: deu
     name: Shamang
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शामांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shamang
     auto: true
   - translation_iso: jpn
     name: シャマング語

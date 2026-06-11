@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: पुनान बाह-बियाउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Punan Bah-Biau
+    auto: true
   - translation_iso: jpn
     name: プナンバハビアウ語
     auto: true

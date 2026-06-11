@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ننغا دمه دوغون
     auto: true
+  - translation_iso: ben
+    name: নাঙা দামা দোগোন
+    auto: true
   - translation_iso: deu
     name: Nanga-Dama-Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nanga
   - translation_iso: hin
     name: नांगा दामा दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nanga Dama Dogon
     auto: true
   - translation_iso: jpn
     name: ナンガ・ダマ・ドゴン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة توهونو أودهام
     auto: true
+  - translation_iso: ben
+    name: তোহোনো ওধাম
+    auto: true
   - translation_iso: deu
     name: "Tohono O'odham"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "o'odham"
   - translation_iso: hin
     name: तोहोनो ओओधम
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Tohono O'odham"
     auto: true
   - translation_iso: jpn
     name: パパゴ語

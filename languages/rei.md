@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريلي
     auto: true
+  - translation_iso: ben
+    name: রেলি
+    auto: true
   - translation_iso: deu
     name: Reli
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: reli
   - translation_iso: hin
     name: रेली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Reli
     auto: true
   - translation_iso: jpn
     name: レリ語

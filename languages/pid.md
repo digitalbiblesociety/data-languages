@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيارويا
     auto: true
+  - translation_iso: ben
+    name: পিয়ারোয়া
+    auto: true
   - translation_iso: deu
     name: Piaroa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piaroa
   - translation_iso: hin
     name: पियारोआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piaroa
     auto: true
   - translation_iso: jpn
     name: ピアロア語

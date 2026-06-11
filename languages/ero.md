@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الهوربا
     auto: true
+  - translation_iso: ben
+    name: হোরপা
+    auto: true
   - translation_iso: deu
     name: Horpa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: horpa
   - translation_iso: hin
     name: होरपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Horpa
     auto: true
   - translation_iso: jpn
     name: ホルパ語

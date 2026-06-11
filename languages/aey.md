@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अमेले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amele
+    auto: true
   - translation_iso: jpn
     name: アメレ語
     auto: true

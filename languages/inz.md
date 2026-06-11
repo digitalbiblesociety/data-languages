@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إينيسينو
     auto: true
+  - translation_iso: ben
+    name: ইনেসেনয়ো
+    auto: true
   - translation_iso: deu
     name: Ineseño
   - translation_iso: fra
     name: chumash ineseño
   - translation_iso: hin
     name: इनेसेन्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ineseño
     auto: true
   - translation_iso: jpn
     name: イネセーニョ語

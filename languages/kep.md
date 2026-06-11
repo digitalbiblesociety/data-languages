@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كايكادي
     auto: true
+  - translation_iso: ben
+    name: কাইকাদি
+    auto: true
   - translation_iso: deu
     name: Kaikadi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कैकाडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaikadi
     auto: true
   - translation_iso: jpn
     name: カイカディ語

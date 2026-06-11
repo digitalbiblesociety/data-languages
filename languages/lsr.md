@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अरूप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aruop
+    auto: true
   - translation_iso: jpn
     name: アルオップ語
     auto: true

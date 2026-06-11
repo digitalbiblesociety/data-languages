@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة وان الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন ওনে
+    auto: true
   - translation_iso: deu
     name: Northern One
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: one du Nord
   - translation_iso: hin
     name: उत्तरी वन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern One
     auto: true
   - translation_iso: jpn
     name: 北ワン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كامبايرا
     auto: true
+  - translation_iso: ben
+    name: কামবাইরা
+    auto: true
   - translation_iso: deu
     name: Kambaira
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kambaira
   - translation_iso: hin
     name: कम्बाइरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kambaira
     auto: true
   - translation_iso: jpn
     name: カンバイラ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: "फा द'अम्बु"
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Fa d'Ambu"
+    auto: true
   - translation_iso: jpn
     name: アノボネセ語
   - translation_iso: kor

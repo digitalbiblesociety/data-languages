@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاييلي
     auto: true
+  - translation_iso: ben
+    name: কায়েলি
+    auto: true
   - translation_iso: deu
     name: Kayeli
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مويالانج
     auto: true
+  - translation_iso: ben
+    name: মুয়ালাং
+    auto: true
   - translation_iso: deu
     name: Mualang
   - translation_iso: fra

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nupe_language"
 translations:
   - translation_iso: ara
     name: نوب
+  - translation_iso: ben
+    name: নুপে-নুপে-তাকো
+    auto: true
   - translation_iso: deu
     name: Nupe
   - translation_iso: fra
     name: nupe
   - translation_iso: hin
     name: नुपे-नुपे-ताको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nupe-Nupe-Tako
     auto: true
   - translation_iso: jpn
     name: ヌペ語

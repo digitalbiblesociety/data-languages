@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيمبا
     auto: true
+  - translation_iso: ben
+    name: জিমবা
+    auto: true
   - translation_iso: deu
     name: Zimba
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़िम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zimba
     auto: true
   - translation_iso: jpn
     name: ジンバ語

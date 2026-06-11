@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوتي
     auto: true
+  - translation_iso: ben
+    name: হোতে
+    auto: true
   - translation_iso: deu
     name: Hote
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hote
   - translation_iso: hin
     name: होते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hote
     auto: true
   - translation_iso: jpn
     name: ホテ語

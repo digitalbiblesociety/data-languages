@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جاميلتيبيك ميكستك
     auto: true
+  - translation_iso: ben
+    name: জামিলতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Jamiltepec-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Jamiltepec
   - translation_iso: hin
     name: हामिलतेपेक मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jamiltepec Mixtec
     auto: true
   - translation_iso: jpn
     name: ジャミルテペック・ミステク語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: इगो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Igo
+    auto: true
   - translation_iso: jpn
     name: イゴ語
     auto: true

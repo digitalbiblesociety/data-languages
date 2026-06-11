@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توتوناك كويوتلا
     auto: true
+  - translation_iso: ben
+    name: কোয়ুতলা তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Coyutla Totonac
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: totonaque de Coyutla
   - translation_iso: hin
     name: कोयुत्ला तोतोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coyutla Totonac
     auto: true
   - translation_iso: jpn
     name: コユトラ・トトナック語

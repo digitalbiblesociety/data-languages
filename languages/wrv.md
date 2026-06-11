@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارونا
     auto: true
+  - translation_iso: ben
+    name: ওয়ারুনা
+    auto: true
   - translation_iso: deu
     name: Waruna
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वारुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waruna
     auto: true
   - translation_iso: jpn
     name: ワルナ語

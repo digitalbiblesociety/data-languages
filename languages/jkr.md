@@ -29,6 +29,9 @@ translations:
     name: koro
   - translation_iso: hin
     name: कोरो भाषा
+  - translation_iso: ind
+    name: Bahasa Koro
+    auto: true
   - translation_iso: jpn
     name: コロ語
   - translation_iso: kor

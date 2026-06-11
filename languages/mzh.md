@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويتشي لهامتيس غويسناي
     auto: true
+  - translation_iso: ben
+    name: ওয়িচি লহামতেস গুইসনায়
+    auto: true
   - translation_iso: deu
     name: Wichí Lhamtés Güisnay
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: विची ल्हाम्तेस गुइस्नाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wichí Lhamtés Güisnay
     auto: true
   - translation_iso: jpn
     name: ウィチー・ラムテス・グイスナイ語

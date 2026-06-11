@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هيماريما
     auto: true
+  - translation_iso: ben
+    name: হিমারিমা
+    auto: true
   - translation_iso: deu
     name: Himarimã
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हिमारिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Himarimã
     auto: true
   - translation_iso: jpn
     name: ヒマリマ語

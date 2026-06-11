@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: चेक सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Czech Sign Language
+    auto: true
   - translation_iso: jpn
     name: チェコ手話
   - translation_iso: kor

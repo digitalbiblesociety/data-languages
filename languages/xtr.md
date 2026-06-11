@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تريبوري المبكرة
     auto: true
+  - translation_iso: ben
+    name: এয়ারলয় তরিপুরি
+    auto: true
   - translation_iso: deu
     name: Frühes Tripuri
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्राचीन त्रिपुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Early Tripuri
     auto: true
   - translation_iso: jpn
     name: 初期トリプリ語

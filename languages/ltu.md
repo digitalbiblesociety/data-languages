@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اتو
     auto: true
+  - translation_iso: ben
+    name: লাতু
+    auto: true
   - translation_iso: deu
     name: Latu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लातु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Latu
     auto: true
   - translation_iso: jpn
     name: ラトゥ語

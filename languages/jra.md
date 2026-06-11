@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاراي
     auto: true
+  - translation_iso: ben
+    name: জারাই
+    auto: true
   - translation_iso: deu
     name: Jarai
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيجي
     auto: true
+  - translation_iso: ben
+    name: পিজে
+    auto: true
   - translation_iso: deu
     name: Pije
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pije
   - translation_iso: hin
     name: पिजे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pije
     auto: true
   - translation_iso: jpn
     name: ピジェ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: زومي
     auto: true
+  - translation_iso: ben
+    name: জোউ
+    auto: true
   - translation_iso: deu
     name: Zou
   - translation_iso: fra
     name: zou
   - translation_iso: hin
     name: ज़ौ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zou
     auto: true
   - translation_iso: jpn
     name: ゾウ語

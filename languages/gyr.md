@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غوآرآيو
     auto: true
+  - translation_iso: ben
+    name: গুয়ারায়ু
+    auto: true
   - translation_iso: deu
     name: Guarayo (Sprache)
   - translation_iso: fra
     name: guarayo
   - translation_iso: hin
     name: गुआरायू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guarayu
     auto: true
   - translation_iso: jpn
     name: グアラユ語

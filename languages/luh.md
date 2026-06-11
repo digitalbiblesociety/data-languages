@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ييزهوو هينيسي
     auto: true
+  - translation_iso: ben
+    name: লেইঝোউ চিনেসে
+    auto: true
   - translation_iso: deu
     name: Leizhou-Chinesisch
     auto: true

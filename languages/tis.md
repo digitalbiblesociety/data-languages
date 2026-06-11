@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماسديت إتنيغ
     auto: true
+  - translation_iso: ben
+    name: মাসাদিত ইতনেগ
+    auto: true
   - translation_iso: deu
     name: Masadiit Itneg
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: itneg masadiit
   - translation_iso: hin
     name: मसादीत इत्नेग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Masadiit Itneg
     auto: true
   - translation_iso: jpn
     name: マサディイト・イトネグ語

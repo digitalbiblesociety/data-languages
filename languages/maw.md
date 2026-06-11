@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مامبروللي
     auto: true
+  - translation_iso: ben
+    name: মামপরুলি
+    auto: true
   - translation_iso: deu
     name: Mampruli
   - translation_iso: fra
     name: mamprusi
   - translation_iso: hin
     name: मामप्रुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mampruli
     auto: true
   - translation_iso: jpn
     name: マムプルリ語

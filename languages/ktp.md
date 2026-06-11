@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كادوو
     auto: true
+  - translation_iso: ben
+    name: কাদুও
+    auto: true
   - translation_iso: deu
     name: Kaduo
     auto: true

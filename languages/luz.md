@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة ووتهيرن وري
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন লুরি
+    auto: true
   - translation_iso: deu
     name: Südliches Lori
   - translation_iso: fra
     name: lori du Sud
   - translation_iso: hin
     name: दक्षिणी लुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Luri
     auto: true
   - translation_iso: jpn
     name: 南ロル語

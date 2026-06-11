@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: راتاوي
     auto: true
+  - translation_iso: ben
+    name: রাথাওয়ি
+    auto: true
   - translation_iso: deu
     name: Rathawi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: rathawi
   - translation_iso: hin
     name: राठावी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rathawi
     auto: true
   - translation_iso: jpn
     name: ラタウィ語

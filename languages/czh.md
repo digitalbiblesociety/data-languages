@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الهويتشو الصينية
     auto: true
+  - translation_iso: ben
+    name: হুইঝোউ চিনেসে
+    auto: true
   - translation_iso: deu
     name: Hui-Dialekt
   - translation_iso: fra

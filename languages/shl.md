@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشندو
     auto: true
+  - translation_iso: ben
+    name: শেনদু
+    auto: true
   - translation_iso: deu
     name: Shendu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: shendu
   - translation_iso: hin
     name: शेंडु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shendu
     auto: true
   - translation_iso: jpn
     name: キエン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يندا
     auto: true
+  - translation_iso: ben
+    name: য়ানদা
+    auto: true
   - translation_iso: deu
     name: Yanda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yanda
   - translation_iso: hin
     name: यांडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yanda
     auto: true
   - translation_iso: jpn
     name: ヤンダ語

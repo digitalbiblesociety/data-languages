@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة غليو أوبي
     auto: true
+  - translation_iso: ben
+    name: গলিও-ওউবি
+    auto: true
   - translation_iso: deu
     name: Glio-Oubi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ग्लियो-ऊबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Glio-Oubi
     auto: true
   - translation_iso: jpn
     name: ウビ語

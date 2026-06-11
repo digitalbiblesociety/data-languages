@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अम्पारी डोगन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ampari Dogon
+    auto: true
   - translation_iso: jpn
     name: アンパリドゴン語
     auto: true

@@ -30,6 +30,9 @@ translations:
     name: dotyali
   - translation_iso: hin
     name: डोटेली भाषा
+  - translation_iso: ind
+    name: Bahasa Dotyali
+    auto: true
   - translation_iso: jpn
     name: ドテリ語
   - translation_iso: kor

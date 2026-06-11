@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الماا
     auto: true
+  - translation_iso: ben
+    name: মা
+    auto: true
   - translation_iso: deu
     name: Maa
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maa
     auto: true
   - translation_iso: jpn
     name: マー語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نوكونول
     auto: true
+  - translation_iso: ben
+    name: নুকুনুল
+    auto: true
   - translation_iso: deu
     name: Nukunul
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: nukunul
   - translation_iso: hin
     name: नुकुनुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nukunul
     auto: true
   - translation_iso: jpn
     name: ヌクヌル語

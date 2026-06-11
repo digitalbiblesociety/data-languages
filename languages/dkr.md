@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويجاو
     auto: true
+  - translation_iso: ben
+    name: কুইজাউ
+    auto: true
   - translation_iso: deu
     name: Kuijau
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुइजाऊ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuijau
     auto: true
   - translation_iso: jpn
     name: クイジャウ語

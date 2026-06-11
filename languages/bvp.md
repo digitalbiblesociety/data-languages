@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: بومانج
     auto: true
+  - translation_iso: ben
+    name: বুমাং
+    auto: true
   - translation_iso: deu
     name: Bumang
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: bumang
   - translation_iso: hin
     name: बुमांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bumang
     auto: true
   - translation_iso: jpn
     name: ブマング語

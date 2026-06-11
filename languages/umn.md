@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماكيان ناجا
     auto: true
+  - translation_iso: ben
+    name: মাকয়ান নাগা
+    auto: true
   - translation_iso: deu
     name: Makyan Naga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मक्यान नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makyan Naga
     auto: true
   - translation_iso: jpn
     name: マキャン語

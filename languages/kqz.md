@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كورانا
     auto: true
+  - translation_iso: ben
+    name: কোরানা
+    auto: true
   - translation_iso: deu
     name: Korana
   - translation_iso: fra
     name: korana
   - translation_iso: hin
     name: कोराना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Korana
     auto: true
   - translation_iso: jpn
     name: コラナ語

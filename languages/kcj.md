@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبيانا
     auto: true
+  - translation_iso: ben
+    name: কোবিয়ানা
+    auto: true
   - translation_iso: deu
     name: Kobiana
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاربيا
     auto: true
+  - translation_iso: ben
+    name: তারপিয়া
+    auto: true
   - translation_iso: deu
     name: Tarpia
     auto: true

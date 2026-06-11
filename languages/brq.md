@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بريري
     auto: true
+  - translation_iso: ben
+    name: বরেরি
+    auto: true
   - translation_iso: deu
     name: Breri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: breri
   - translation_iso: hin
     name: ब्रेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Breri
     auto: true
   - translation_iso: jpn
     name: ブレリ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نك
     auto: true
+  - translation_iso: ben
+    name: নাকে
+    auto: true
   - translation_iso: deu
     name: Nake
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nake
   - translation_iso: hin
     name: नाके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nake
     auto: true
   - translation_iso: jpn
     name: ナケ語

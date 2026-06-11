@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلا
     auto: true
+  - translation_iso: ben
+    name: সিলা
+    auto: true
   - translation_iso: deu
     name: Sila
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sila
   - translation_iso: hin
     name: सिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sila
     auto: true
   - translation_iso: jpn
     name: シダ語

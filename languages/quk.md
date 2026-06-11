@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشاتشابويس
     auto: true
+  - translation_iso: ben
+    name: চাচাপোয়াস কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Chachapoyas-Quechua
   - translation_iso: fra
     name: quechua de Chachapoyas
   - translation_iso: hin
     name: चाचापोयास क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chachapoyas Quechua
     auto: true
   - translation_iso: jpn
     name: チャチャポヤスケチュア語

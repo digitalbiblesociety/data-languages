@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البورتوريكية
     auto: true
+  - translation_iso: ben
+    name: পুএরতো রিকান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Puertoricanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes portoricaine
   - translation_iso: hin
     name: प्यूर्टो रिको सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puerto Rican Sign Language
     auto: true
   - translation_iso: jpn
     name: プエルトリコ手話

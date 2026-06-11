@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيونوم
     auto: true
+  - translation_iso: ben
+    name: কিউনুম
+    auto: true
   - translation_iso: deu
     name: Kiunum
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: were
   - translation_iso: hin
     name: कियुनुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kiunum
     auto: true
   - translation_iso: jpn
     name: キウヌム語

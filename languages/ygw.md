@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجووويا
     auto: true
+  - translation_iso: ben
+    name: য়াগওয়োইয়া
+    auto: true
   - translation_iso: deu
     name: Yagwoia
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यागवोइया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yagwoia
     auto: true
   - translation_iso: jpn
     name: ヤグウォイア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واندا
     auto: true
+  - translation_iso: ben
+    name: ওয়ানদা
+    auto: true
   - translation_iso: deu
     name: Wanda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wanda
   - translation_iso: hin
     name: वान्डा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanda
     auto: true
   - translation_iso: jpn
     name: ワンダ語

@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Polabian_language"
 translations:
   - translation_iso: ara
     name: لغة بولابية
+  - translation_iso: ben
+    name: পোলাবিয়ান
+    auto: true
   - translation_iso: deu
     name: Polabisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايناماار
     auto: true
+  - translation_iso: ben
+    name: পায়নামার
+    auto: true
   - translation_iso: deu
     name: Paynamar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paynamar
   - translation_iso: hin
     name: पायनामार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paynamar
     auto: true
   - translation_iso: jpn
     name: パイナマル語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة أكيبو
     auto: true
+  - translation_iso: ben
+    name: আকেবু
+    auto: true
   - translation_iso: deu
     name: Akebu
   - translation_iso: fra
     name: akébou
   - translation_iso: hin
     name: अकेबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Akebu
     auto: true
   - translation_iso: jpn
     name: ケブ語

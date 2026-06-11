@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميندريكو
     auto: true
+  - translation_iso: ben
+    name: মিনদেরিকো
+    auto: true
   - translation_iso: deu
     name: Minderico
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: minderico
   - translation_iso: hin
     name: मिंडेरिको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minderico
     auto: true
   - translation_iso: jpn
     name: ミンデリコ語

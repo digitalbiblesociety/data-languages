@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يفانيك
     auto: true
+  - translation_iso: ben
+    name: য়েভানিক
+    auto: true
   - translation_iso: deu
     name: Jevanisch
   - translation_iso: fra

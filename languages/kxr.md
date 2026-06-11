@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كورو (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: ben
+    name: কোরো
+    auto: true
   - translation_iso: deu
     name: Koro (Papua-Neuguinea)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koro
   - translation_iso: hin
     name: कोरो (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koro
     auto: true
   - translation_iso: jpn
     name: コロ語

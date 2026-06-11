@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآغو
     auto: true
+  - translation_iso: ben
+    name: গাগু
+    auto: true
   - translation_iso: deu
     name: Gagu
     auto: true

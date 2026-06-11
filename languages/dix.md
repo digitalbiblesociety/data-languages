@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديكسون ريف
     auto: true
+  - translation_iso: ben
+    name: দিকসোন রেফ
+    auto: true
   - translation_iso: deu
     name: Dixon Reef
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डिक्सन रीफ़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dixon Reef
     auto: true
   - translation_iso: jpn
     name: ディクソン・リーフ語

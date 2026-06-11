@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बकपिंका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bakpinka
+    auto: true
   - translation_iso: jpn
     name: バクピンカ語
     auto: true

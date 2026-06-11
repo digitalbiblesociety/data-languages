@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ندامبوموا
     auto: true
+  - translation_iso: ben
+    name: নদামবোমো
+    auto: true
   - translation_iso: deu
     name: Ndambomo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ndambomo
   - translation_iso: hin
     name: न्दाम्बोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndambomo
     auto: true
   - translation_iso: jpn
     name: Ndambomo語

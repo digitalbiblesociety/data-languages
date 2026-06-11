@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماواكي
     auto: true
+  - translation_iso: ben
+    name: মাউওয়াকে
+    auto: true
   - translation_iso: deu
     name: Mauwake
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mauwake
   - translation_iso: hin
     name: माउवाके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mauwake
     auto: true
   - translation_iso: jpn
     name: マウワケ語

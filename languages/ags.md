@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एसिम्बी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Esimbi
+    auto: true
   - translation_iso: jpn
     name: エシンビ語
     auto: true

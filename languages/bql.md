@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيلاكورا
     auto: true
+  - translation_iso: ben
+    name: বিলাকুরা
+    auto: true
   - translation_iso: deu
     name: Bilakura
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bilakura
   - translation_iso: hin
     name: बिलकुरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bilakura
     auto: true
   - translation_iso: jpn
     name: ビラクラ語

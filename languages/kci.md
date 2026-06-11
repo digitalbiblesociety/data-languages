@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كامانتان
     auto: true
+  - translation_iso: ben
+    name: কামানতান
+    auto: true
   - translation_iso: deu
     name: Kamantan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कामंतान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamantan
     auto: true
   - translation_iso: jpn
     name: カマンタン語

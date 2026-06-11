@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: بويو
     auto: true
+  - translation_iso: ben
+    name: পুয়ো
+    auto: true
   - translation_iso: deu
     name: Puyo
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: buyeo
   - translation_iso: hin
     name: पुयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puyo
     auto: true
   - translation_iso: jpn
     name: 夫余語

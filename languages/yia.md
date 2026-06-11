@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينجاردا
     auto: true
+  - translation_iso: ben
+    name: য়িংগারদা
+    auto: true
   - translation_iso: deu
     name: Yinggarda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yinggarda
   - translation_iso: hin
     name: यिंगर्डा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yinggarda
     auto: true
   - translation_iso: jpn
     name: インガーダ語

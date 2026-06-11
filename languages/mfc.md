@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبا
     auto: true
+  - translation_iso: ben
+    name: মবা
+    auto: true
   - translation_iso: deu
     name: Mba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mba
   - translation_iso: hin
     name: म्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mba
     auto: true
   - translation_iso: jpn
     name: ムバ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مير
     auto: true
+  - translation_iso: ben
+    name: মের
+    auto: true
   - translation_iso: deu
     name: Mer
     auto: true

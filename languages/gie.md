@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآɓوغبو
     auto: true
+  - translation_iso: ben
+    name: গাবোগবো
+    auto: true
   - translation_iso: deu
     name: Gaɓogbo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guébie
   - translation_iso: hin
     name: गाबोग्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gaɓogbo
     auto: true
   - translation_iso: jpn
     name: ガボボ語

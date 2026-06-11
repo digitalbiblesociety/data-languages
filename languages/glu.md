@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غولآ
     auto: true
+  - translation_iso: ben
+    name: গুলা
+    auto: true
   - translation_iso: deu
     name: Gula (Tschad)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sara gula
   - translation_iso: hin
     name: गुला (चाड)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gula
     auto: true
   - translation_iso: jpn
     name: グラ語

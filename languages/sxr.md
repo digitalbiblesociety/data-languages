@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساروا
     auto: true
+  - translation_iso: ben
+    name: সারোয়া
+    auto: true
   - translation_iso: deu
     name: Saaroa
     auto: true

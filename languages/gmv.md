@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غآمو
     auto: true
+  - translation_iso: ben
+    name: গামো
+    auto: true
   - translation_iso: deu
     name: Gamo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gamo
   - translation_iso: hin
     name: गामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gamo
     auto: true
   - translation_iso: jpn
     name: ガモ語

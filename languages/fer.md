@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الفيروج
     auto: true
+  - translation_iso: ben
+    name: ফেরোগে
+    auto: true
   - translation_iso: deu
     name: Feroge
   - translation_iso: fra
     name: feroge
   - translation_iso: hin
     name: फेरोगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Feroge
     auto: true
   - translation_iso: jpn
     name: フェロゲ語

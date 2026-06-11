@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناكاي
     auto: true
+  - translation_iso: ben
+    name: নাকাই
+    auto: true
   - translation_iso: deu
     name: Nakai
     auto: true

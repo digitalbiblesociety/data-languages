@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة خفارشي
     auto: true
+  - translation_iso: ben
+    name: খভারশি
+    auto: true
   - translation_iso: deu
     name: Chwarschisch
   - translation_iso: fra
     name: khvarshi
   - translation_iso: hin
     name: ख्वार्शी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khvarshi
     auto: true
   - translation_iso: jpn
     name: フバルシ語

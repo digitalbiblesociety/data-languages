@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نغوم
     auto: true
+  - translation_iso: ben
+    name: ঙোম
+    auto: true
   - translation_iso: deu
     name: Ngom
   - translation_iso: fra
     name: ngom
   - translation_iso: hin
     name: नगोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngom
     auto: true
   - translation_iso: jpn
     name: ングオム語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسالات
     auto: true
+  - translation_iso: ben
+    name: মাস্সালাত
+    auto: true
   - translation_iso: deu
     name: Massalat
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: massalat
   - translation_iso: hin
     name: मासालात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Massalat
     auto: true
   - translation_iso: jpn
     name: マッサラット語

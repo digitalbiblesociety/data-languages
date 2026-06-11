@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ريل
     auto: true
+  - translation_iso: ben
+    name: রেল
+    auto: true
   - translation_iso: deu
     name: Reel
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: reel
   - translation_iso: hin
     name: रील
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Reel
     auto: true
   - translation_iso: jpn
     name: Reel語

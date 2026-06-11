@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ingrian_language"
 translations:
   - translation_iso: ara
     name: لغة أنغرية
+  - translation_iso: ben
+    name: ইংরিয়ান
+    auto: true
   - translation_iso: deu
     name: Ischorisch
   - translation_iso: fra

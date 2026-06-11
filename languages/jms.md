@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماشي
     auto: true
+  - translation_iso: ben
+    name: মাশি
+    auto: true
   - translation_iso: deu
     name: Mashi (Nigeria)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mashi
   - translation_iso: hin
     name: माशी (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mashi
     auto: true
   - translation_iso: jpn
     name: マシ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيزورا
     auto: true
+  - translation_iso: ben
+    name: ইজোরা
+    auto: true
   - translation_iso: deu
     name: Izora
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: izora
   - translation_iso: hin
     name: इज़ोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Izora
     auto: true
   - translation_iso: jpn
     name: イゾラ語

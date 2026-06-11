@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوكوريجوما
     auto: true
+  - translation_iso: ben
+    name: উকুরিগুমা
+    auto: true
   - translation_iso: deu
     name: Ukuriguma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ukuriguma
   - translation_iso: hin
     name: उकुरिगुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukuriguma
     auto: true
   - translation_iso: jpn
     name: ウクリグマ語

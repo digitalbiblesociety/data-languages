@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بونا
     auto: true
+  - translation_iso: ben
+    name: বুনা
+    auto: true
   - translation_iso: deu
     name: Buna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: buna
   - translation_iso: hin
     name: बुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buna
     auto: true
   - translation_iso: jpn
     name: ブナ語

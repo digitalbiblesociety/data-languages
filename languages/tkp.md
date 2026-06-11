@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيكوبيا
     auto: true
+  - translation_iso: ben
+    name: তিকোপিয়া
+    auto: true
   - translation_iso: deu
     name: Tikopianisch
   - translation_iso: fra
     name: tikopia
   - translation_iso: hin
     name: तिकोपिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tikopia
     auto: true
   - translation_iso: jpn
     name: ティコピア語

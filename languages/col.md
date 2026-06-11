@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كولومبيا-ويناتشي
     auto: true
+  - translation_iso: ben
+    name: কোলুমবিয়া-ওয়েনাতচি
+    auto: true
   - translation_iso: deu
     name: Columbia-Moses
   - translation_iso: fra
     name: columbia-wenatchi
   - translation_iso: hin
     name: कोलंबिया-वेनाची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Columbia-Wenatchi
     auto: true
   - translation_iso: jpn
     name: コロンビア語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ho-Chunk_language"
 translations:
   - translation_iso: ara
     name: وينيباكو
+  - translation_iso: ben
+    name: হো-চুনক
+    auto: true
   - translation_iso: deu
     name: Ho-Chunk
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: winnebago
   - translation_iso: hin
     name: हो-चंक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ho-Chunk
     auto: true
   - translation_iso: jpn
     name: ウィネベゴ語

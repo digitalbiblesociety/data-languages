@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوسوامي
     auto: true
+  - translation_iso: ben
+    name: সুসুয়ামি
+    auto: true
   - translation_iso: deu
     name: Susuami
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: susuami
   - translation_iso: hin
     name: सुसुआमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Susuami
     auto: true
   - translation_iso: jpn
     name: ススアミ語

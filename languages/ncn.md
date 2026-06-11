@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناونا
     auto: true
+  - translation_iso: ben
+    name: নাউনা
+    auto: true
   - translation_iso: deu
     name: Nauna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nauna
   - translation_iso: hin
     name: नौना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nauna
     auto: true
   - translation_iso: jpn
     name: ナウナ語

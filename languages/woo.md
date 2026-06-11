@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مانومباي
     auto: true
+  - translation_iso: ben
+    name: মানোমবাই
+    auto: true
   - translation_iso: deu
     name: Manombai
     auto: true

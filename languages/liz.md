@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يبينزا
     auto: true
+  - translation_iso: ben
+    name: লিবিনজা
+    auto: true
   - translation_iso: deu
     name: Libinza
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: libinza
   - translation_iso: hin
     name: लिबिंज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Libinza
     auto: true
   - translation_iso: jpn
     name: リビンザ語

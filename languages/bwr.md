@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بورا-پابير
     auto: true
+  - translation_iso: ben
+    name: বুরা-পাবির
+    auto: true
   - translation_iso: deu
     name: Bura
   - translation_iso: fra
     name: babur
   - translation_iso: hin
     name: बुरा-पाबीर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bura-Pabir
     auto: true
   - translation_iso: jpn
     name: ブラ・パビール語

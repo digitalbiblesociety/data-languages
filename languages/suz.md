@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة سونوار
     auto: true
+  - translation_iso: ben
+    name: সুনওয়ার
+    auto: true
   - translation_iso: deu
     name: Sunwar
   - translation_iso: fra
     name: sunwar
   - translation_iso: hin
     name: सुनुवार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sunwar
     auto: true
   - translation_iso: jpn
     name: スヌワール語

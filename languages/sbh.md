@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سوري هارينجان
     auto: true
+  - translation_iso: ben
+    name: সোরি-হারেঙান
+    auto: true
   - translation_iso: deu
     name: Sori-Harenganisch
   - translation_iso: fra
     name: sori-harengan
   - translation_iso: hin
     name: सोरी-हारेंगान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sori-Harengan
     auto: true
   - translation_iso: jpn
     name: ソリハレンガン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داي
     auto: true
+  - translation_iso: ben
+    name: দাই
+    auto: true
   - translation_iso: deu
     name: Dai
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dai
     auto: true
   - translation_iso: jpn
     name: ダイ語

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا سانتا آنا دي توسي باسكو
     auto: true
+  - translation_iso: ben
+    name: সানতা আনা দে তুসি পাসকো কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Santa-Ana-de-Tusi-Pasco-Quechua
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: quechua de Santa Ana de Tusi Pasco
   - translation_iso: hin
     name: सांता आना दे तुसी पास्को क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa Ana de Tusi Pasco Quechua
     auto: true
   - translation_iso: jpn
     name: サンタアナデトゥシパスコケチュア語

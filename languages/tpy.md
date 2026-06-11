@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تروماي
     auto: true
+  - translation_iso: ben
+    name: তরুমাই
+    auto: true
   - translation_iso: deu
     name: Trumai
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: trumai
   - translation_iso: hin
     name: त्रुमाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Trumai
     auto: true
   - translation_iso: jpn
     name: トゥルマイ語

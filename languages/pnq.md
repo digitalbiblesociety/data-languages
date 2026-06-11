@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانا (بوركينا فاسو)
     auto: true
+  - translation_iso: ben
+    name: পানা
+    auto: true
   - translation_iso: deu
     name: Pana (Burkina Faso)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pana
   - translation_iso: hin
     name: पाना (बुर्किना फासो)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pana
     auto: true
   - translation_iso: jpn
     name: パナ語

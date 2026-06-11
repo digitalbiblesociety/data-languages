@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السيرايا
     auto: true
+  - translation_iso: ben
+    name: সিরায়া
+    auto: true
   - translation_iso: deu
     name: Siraya
   - translation_iso: fra

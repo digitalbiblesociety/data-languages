@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موبمرين أيزي
     auto: true
+  - translation_iso: ben
+    name: মোবুমরিন আইজি
+    auto: true
   - translation_iso: deu
     name: Mobumrin
   - translation_iso: fra
     name: langue mobu
   - translation_iso: hin
     name: मोबुम्रिन आइज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mobumrin Aizi
     auto: true
   - translation_iso: jpn
     name: モブムリン・アイジ語

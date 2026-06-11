@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة هيو
     auto: true
+  - translation_iso: ben
+    name: হেয়ো
+    auto: true
   - translation_iso: deu
     name: Heyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: heyo
   - translation_iso: hin
     name: हेयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Heyo
     auto: true
   - translation_iso: jpn
     name: ヘヨ語

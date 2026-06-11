@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كولينا بانو
     auto: true
+  - translation_iso: ben
+    name: কুলিনা পানো
+    auto: true
   - translation_iso: deu
     name: Kulina Pano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kulina páno
   - translation_iso: hin
     name: कुलिना पानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kulina Pano
     auto: true
   - translation_iso: jpn
     name: クリナ・パノ語

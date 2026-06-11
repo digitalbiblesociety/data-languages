@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيابارا
     auto: true
+  - translation_iso: ben
+    name: কেয়াপারা
+    auto: true
   - translation_iso: deu
     name: Keapara
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: केआपारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keapara
     auto: true
   - translation_iso: jpn
     name: ケアパラ語

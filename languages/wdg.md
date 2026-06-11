@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واداجينام
     auto: true
+  - translation_iso: ben
+    name: ওয়াদাগিনাম
+    auto: true
   - translation_iso: deu
     name: Wadaginam
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वडागिनम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wadaginam
     auto: true
   - translation_iso: jpn
     name: ワダギナム語

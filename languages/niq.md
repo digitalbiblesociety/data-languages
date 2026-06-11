@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناندي
     auto: true
+  - translation_iso: ben
+    name: নানদি
+    auto: true
   - translation_iso: deu
     name: Nandi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nandi
   - translation_iso: hin
     name: नांदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nandi
     auto: true
   - translation_iso: jpn
     name: ナンディ語

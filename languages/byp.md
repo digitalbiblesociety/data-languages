@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بومَجي
     auto: true
+  - translation_iso: ben
+    name: বুমাজি
+    auto: true
   - translation_iso: deu
     name: Bumaji
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bumaji
   - translation_iso: hin
     name: बुमाजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bumaji
     auto: true
   - translation_iso: jpn
     name: ブマジ語

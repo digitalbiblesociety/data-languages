@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الا-وبا
     auto: true
+  - translation_iso: ben
+    name: লালা-রোবা
+    auto: true
   - translation_iso: deu
     name: Lala-Roba
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लाला-रोबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lala-Roba
     auto: true
   - translation_iso: jpn
     name: ララ・ロバ語

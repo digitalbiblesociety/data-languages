@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ريجانج
     auto: true
+  - translation_iso: ben
+    name: রেজাং
+    auto: true
   - translation_iso: deu
     name: Rejang
   - translation_iso: fra

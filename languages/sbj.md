@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: सुरबखाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Surbakhal
+    auto: true
   - translation_iso: jpn
     name: スルバカル語
     auto: true

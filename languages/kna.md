@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ديرا
     auto: true
+  - translation_iso: ben
+    name: দেরা
+    auto: true
   - translation_iso: deu
     name: Dera (Nigeria)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dera
   - translation_iso: hin
     name: देरा (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dera
     auto: true
   - translation_iso: jpn
     name: デラ語

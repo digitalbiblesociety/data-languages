@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة نافي
     auto: true
+  - translation_iso: ben
+    name: নাফি
+    auto: true
   - translation_iso: deu
     name: Nafi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nafi
   - translation_iso: hin
     name: नाफी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nafi
     auto: true
   - translation_iso: jpn
     name: シラック語

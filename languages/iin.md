@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثيين
     auto: true
+  - translation_iso: ben
+    name: থিন
+    auto: true
   - translation_iso: deu
     name: Thiin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: thiin
   - translation_iso: hin
     name: थीन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thiin
     auto: true
   - translation_iso: jpn
     name: ティーン語

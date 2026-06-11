@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ونججا
     auto: true
+  - translation_iso: ben
+    name: লুংগা
+    auto: true
   - translation_iso: deu
     name: Lungga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lungga
   - translation_iso: hin
     name: लुंग्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lungga
     auto: true
   - translation_iso: jpn
     name: ルンガ語

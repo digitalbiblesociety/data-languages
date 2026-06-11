@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإليبي
     auto: true
+  - translation_iso: ben
+    name: এলেপি
+    auto: true
   - translation_iso: deu
     name: Elepi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: elepi
   - translation_iso: hin
     name: एलेपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Elepi
     auto: true
   - translation_iso: jpn
     name: エレピ語

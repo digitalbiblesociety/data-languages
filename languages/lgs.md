@@ -27,6 +27,9 @@ translations:
   - translation_iso: hin
     name: गिनी-बिसाऊ सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Guinea-Bissau Sign Language
+    auto: true
   - translation_iso: jpn
     name: ギニアビサウ手話
   - translation_iso: kor

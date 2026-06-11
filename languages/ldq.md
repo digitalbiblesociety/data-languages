@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة وفو
     auto: true
+  - translation_iso: ben
+    name: লুফু
+    auto: true
   - translation_iso: deu
     name: Lufu
   - translation_iso: fra
     name: lufu
   - translation_iso: hin
     name: लुफु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lufu
     auto: true
   - translation_iso: jpn
     name: ルフ語

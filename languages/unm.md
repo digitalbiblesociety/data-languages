@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: أونامي
     auto: true
+  - translation_iso: ben
+    name: উনামি
+    auto: true
   - translation_iso: deu
     name: Unami
   - translation_iso: fra
     name: unami
   - translation_iso: hin
     name: उनामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Unami
     auto: true
   - translation_iso: jpn
     name: レナペ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتوكي
     auto: true
+  - translation_iso: ben
+    name: ওতুকে
+    auto: true
   - translation_iso: deu
     name: Otuke
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओतुके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Otuke
     auto: true
   - translation_iso: jpn
     name: オトゥケ語

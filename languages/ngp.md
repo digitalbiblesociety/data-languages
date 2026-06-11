@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجولو
     auto: true
+  - translation_iso: ben
+    name: ঙুলু
+    auto: true
   - translation_iso: deu
     name: Ngulu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngulu
   - translation_iso: hin
     name: न्गुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngulu
     auto: true
   - translation_iso: jpn
     name: ングル語

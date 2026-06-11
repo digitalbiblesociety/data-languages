@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बांदा-म्ब्रेस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banda-Mbrès
+    auto: true
   - translation_iso: jpn
     name: バンダ・ムブレス語
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: السيليزية السفلى
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের সিলেসিয়ান
+    auto: true
   - translation_iso: deu
     name: Schlesisch
   - translation_iso: fra

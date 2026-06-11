@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكابيكار
     auto: true
+  - translation_iso: ben
+    name: কাবেকার
+    auto: true
   - translation_iso: deu
     name: Cabécar
   - translation_iso: fra
     name: cabécar
   - translation_iso: hin
     name: काबेकार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cabécar
     auto: true
   - translation_iso: jpn
     name: カベカル語

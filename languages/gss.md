@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: यूनानी सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Greek Sign Language
+    auto: true
   - translation_iso: jpn
     name: ギリシャ手話
   - translation_iso: kor

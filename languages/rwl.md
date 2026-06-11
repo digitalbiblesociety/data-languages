@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: رويلا
     auto: true
+  - translation_iso: ben
+    name: রুওয়িলা
+    auto: true
   - translation_iso: deu
     name: Ruwila
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रुविला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ruwila
     auto: true
   - translation_iso: jpn
     name: ルウィラ語

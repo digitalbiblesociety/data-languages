@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاشيبو-كاكاتايبو
     auto: true
+  - translation_iso: ben
+    name: কাশিবো-কাকাতাইবো
+    auto: true
   - translation_iso: deu
     name: Cashibo-Cacataibo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kakataibo
   - translation_iso: hin
     name: काशिबो-काकाताइबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cashibo-Cacataibo
     auto: true
   - translation_iso: jpn
     name: カシボ・カカタイボ語

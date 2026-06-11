@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوغوتو
     auto: true
+  - translation_iso: ben
+    name: বুঘোতু
+    auto: true
   - translation_iso: deu
     name: Bughotu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bughotu
   - translation_iso: hin
     name: बुघोटू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bughotu
     auto: true
   - translation_iso: jpn
     name: ブゴトゥ語

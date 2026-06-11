@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अमारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amara
+    auto: true
   - translation_iso: jpn
     name: ロンガ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نكوكولي
     auto: true
+  - translation_iso: ben
+    name: নকুকোলি
+    auto: true
   - translation_iso: deu
     name: Nkukoli
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्कुकोली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkukoli
     auto: true
   - translation_iso: jpn
     name: ングクコリ語

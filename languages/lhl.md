@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اهول وهار
     auto: true
+  - translation_iso: ben
+    name: লাহুল লোহার
+    auto: true
   - translation_iso: deu
     name: Lahul-Lohar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लाहुल लोहार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lahul Lohar
     auto: true
   - translation_iso: jpn
     name: ラフル・ロハル語

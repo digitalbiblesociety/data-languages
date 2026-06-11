@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jordanian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الأردنية
+  - translation_iso: ben
+    name: জোরদানিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Jordanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes jordanienne
   - translation_iso: hin
     name: जॉर्डनियन सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jordanian Sign Language
     auto: true
   - translation_iso: jpn
     name: ヨルダン手話

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوجويي
     auto: true
+  - translation_iso: ben
+    name: কোগুই
+    auto: true
   - translation_iso: deu
     name: Kogi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kogui
   - translation_iso: hin
     name: कोगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cogui
     auto: true
   - translation_iso: jpn
     name: コギ語

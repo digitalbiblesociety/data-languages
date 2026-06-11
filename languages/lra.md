@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ارا اكاتي
     auto: true
+  - translation_iso: ben
+    name: রারা বাকাতি
+    auto: true
   - translation_iso: deu
     name: Rara Bakati
     auto: true

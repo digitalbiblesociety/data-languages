@@ -26,6 +26,9 @@ translations:
     name: kurumba
   - translation_iso: hin
     name: कुरुबा भाषा
+  - translation_iso: ind
+    name: Bahasa Kannada Kurumba
+    auto: true
   - translation_iso: jpn
     name: クルンバ語
   - translation_iso: kor

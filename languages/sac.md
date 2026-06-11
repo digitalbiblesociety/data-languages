@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fox_language"
 translations:
   - translation_iso: ara
     name: مسيكواكي
+  - translation_iso: ben
+    name: মেসকওয়াকি
+    auto: true
   - translation_iso: deu
     name: Fox
   - translation_iso: fra

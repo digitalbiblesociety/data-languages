@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونام
     auto: true
+  - translation_iso: ben
+    name: পোনাম
+    auto: true
   - translation_iso: deu
     name: Ponam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ponam
   - translation_iso: hin
     name: पोनाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ponam
     auto: true
   - translation_iso: jpn
     name: ポナム語

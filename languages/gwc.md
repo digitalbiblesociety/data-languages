@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gawri_language"
 translations:
   - translation_iso: ara
     name: كالامي
+  - translation_iso: ben
+    name: কালামি
+    auto: true
   - translation_iso: deu
     name: Kalami
   - translation_iso: fra
     name: kohistani de Kalam
   - translation_iso: hin
     name: कालामी भाषा
+  - translation_iso: ind
+    name: Bahasa Kalami
+    auto: true
   - translation_iso: jpn
     name: カラーム語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الدازا
     auto: true
+  - translation_iso: ben
+    name: দাজা
+    auto: true
   - translation_iso: deu
     name: Daza
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दाज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daza
     auto: true
   - translation_iso: jpn
     name: ダザ語

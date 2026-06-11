@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوديو
     auto: true
+  - translation_iso: ben
+    name: বুদু
+    auto: true
   - translation_iso: deu
     name: Budu
   - translation_iso: fra
     name: budu
   - translation_iso: hin
     name: बुडू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Budu
     auto: true
   - translation_iso: jpn
     name: ブドゥ語

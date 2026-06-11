@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوارهيو
     auto: true
+  - translation_iso: ben
+    name: হুয়ারিজিও
+    auto: true
   - translation_iso: deu
     name: Huarijio
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guarijio
   - translation_iso: hin
     name: हुआरिहियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huarijio
     auto: true
   - translation_iso: jpn
     name: ヴァリヒオ語

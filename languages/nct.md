@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشوتي ناجا
     auto: true
+  - translation_iso: ben
+    name: চোথে নাগা
+    auto: true
   - translation_iso: deu
     name: Chothe-Naga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चोथे नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chothe Naga
     auto: true
   - translation_iso: jpn
     name: チョテ・ナガ語

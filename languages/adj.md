@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अदियूक्रू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adioukrou
+    auto: true
   - translation_iso: jpn
     name: アジュクル語
   - translation_iso: kor

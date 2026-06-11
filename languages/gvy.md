@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غويآني
     auto: true
+  - translation_iso: ben
+    name: গুয়ানি
+    auto: true
   - translation_iso: deu
     name: Guyani
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: guyani
   - translation_iso: hin
     name: गुयानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guyani
     auto: true
   - translation_iso: jpn
     name: グヤニ語

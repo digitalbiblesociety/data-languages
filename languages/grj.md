@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سووثإرن غرإبو
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন গরেবো
+    auto: true
   - translation_iso: deu
     name: Südliches Grebo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: grebo du Sud
   - translation_iso: hin
     name: दक्षिणी ग्रेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Grebo
     auto: true
   - translation_iso: jpn
     name: サザン・グレボ語

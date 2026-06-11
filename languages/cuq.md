@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكون
     auto: true
+  - translation_iso: ben
+    name: কুন
+    auto: true
   - translation_iso: deu
     name: Cun
     auto: true

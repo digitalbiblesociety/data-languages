@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة غوانيينتشياو
     auto: true
+  - translation_iso: ben
+    name: গুয়ানয়িনকিয়াও
+    auto: true
   - translation_iso: deu
     name: Guanyinqiao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guanyinqiao
   - translation_iso: hin
     name: गुआनयिनकियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guanyinqiao
     auto: true
   - translation_iso: jpn
     name: ラヴロン語

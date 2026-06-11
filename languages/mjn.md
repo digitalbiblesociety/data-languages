@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ما
     auto: true
+  - translation_iso: ben
+    name: মা
+    auto: true
   - translation_iso: deu
     name: Ma (Papua New Guinea)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मा (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ma
     auto: true
   - translation_iso: jpn
     name: マ語

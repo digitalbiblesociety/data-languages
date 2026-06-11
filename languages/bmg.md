@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बामवे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bamwe
+    auto: true
   - translation_iso: jpn
     name: バムウェ語
     auto: true

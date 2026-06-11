@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: नुबाका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Nubaca
+    auto: true
   - translation_iso: jpn
     name: ヌバカ語
     auto: true

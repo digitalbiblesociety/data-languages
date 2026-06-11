@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توروموني
     auto: true
+  - translation_iso: ben
+    name: তোরোমোনো
+    auto: true
   - translation_iso: deu
     name: Toromono
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: toromona
   - translation_iso: hin
     name: तोरोमोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toromono
     auto: true
   - translation_iso: jpn
     name: トロモナ語

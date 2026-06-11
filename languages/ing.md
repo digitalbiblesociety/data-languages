@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: "ديغيكست'ان"
     auto: true
+  - translation_iso: ben
+    name: দেগেকসিতান
+    auto: true
   - translation_iso: deu
     name: Deg Xinag
   - translation_iso: fra
     name: "deg hit'an"
   - translation_iso: hin
     name: देगेक्सिटान
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Degexit'an"
     auto: true
   - translation_iso: jpn
     name: デゲエキシタン語

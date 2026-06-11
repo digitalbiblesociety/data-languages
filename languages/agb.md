@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ليغبو
     auto: true
+  - translation_iso: ben
+    name: লেগবো
+    auto: true
   - translation_iso: deu
     name: Legbo
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेग्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Legbo
     auto: true
   - translation_iso: jpn
     name: レグボ語

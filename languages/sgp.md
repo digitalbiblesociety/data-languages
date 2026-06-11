@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينجفو
     auto: true
+  - translation_iso: ben
+    name: সিংফো
+    auto: true
   - translation_iso: deu
     name: Singpho
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: singpho
   - translation_iso: hin
     name: सिंगफ़ो भाषा
+  - translation_iso: ind
+    name: Bahasa Singpho
+    auto: true
   - translation_iso: jpn
     name: シンポー語
   - translation_iso: kor

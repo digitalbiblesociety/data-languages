@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإشتهاردي
     auto: true
+  - translation_iso: ben
+    name: এশতেহারদি
+    auto: true
   - translation_iso: deu
     name: Eshtehardi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: eshtehardi
   - translation_iso: hin
     name: एश्तेहार्दी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eshtehardi
     auto: true
   - translation_iso: jpn
     name: エシュテハルディ語

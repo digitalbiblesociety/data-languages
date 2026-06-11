@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغالا
     auto: true
+  - translation_iso: ben
+    name: ঙালা
+    auto: true
   - translation_iso: deu
     name: Ngala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngala
   - translation_iso: hin
     name: न्गाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngala
     auto: true
   - translation_iso: jpn
     name: ンガラ語

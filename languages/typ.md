@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تايبان
     auto: true
+  - translation_iso: ben
+    name: থায়পান
+    auto: true
   - translation_iso: deu
     name: Thaypan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: thaypan
   - translation_iso: hin
     name: थायपन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thaypan
     auto: true
   - translation_iso: jpn
     name: アウ・アラヤ語

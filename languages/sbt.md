@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيمكي
     auto: true
+  - translation_iso: ben
+    name: কিমকি
+    auto: true
   - translation_iso: deu
     name: Kimki
     auto: true

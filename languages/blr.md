@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بلانج
     auto: true
+  - translation_iso: ben
+    name: বলাং
+    auto: true
   - translation_iso: deu
     name: Blang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: blang
   - translation_iso: hin
     name: ब्लांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Blang
     auto: true
   - translation_iso: jpn
     name: ブラン語

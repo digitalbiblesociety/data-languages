@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يوْنوو بونو
     auto: true
+  - translation_iso: ben
+    name: য়োউনুও বুনু
+    auto: true
   - translation_iso: deu
     name: Younuo Bunu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: younuo
   - translation_iso: hin
     name: यूनुओ बुनू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Younuo Bunu
     auto: true
   - translation_iso: jpn
     name: ユンノ・ブヌ語

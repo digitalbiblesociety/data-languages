@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليمورو
     auto: true
+  - translation_iso: ben
+    name: লেমোরো
+    auto: true
   - translation_iso: deu
     name: Lemoro
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेमोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lemoro
     auto: true
   - translation_iso: jpn
     name: レモロ語

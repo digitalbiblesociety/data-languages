@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "كارين س'جاو"
     auto: true
+  - translation_iso: ben
+    name: সগাওয় কারেন
+    auto: true
   - translation_iso: deu
     name: S’gaw-Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sgaw
   - translation_iso: hin
     name: स्गॉ करेन
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa S'gaw Karen"
     auto: true
   - translation_iso: jpn
     name: スゴー語

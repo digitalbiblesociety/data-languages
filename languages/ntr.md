@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديلو
     auto: true
+  - translation_iso: ben
+    name: দেলো
+    auto: true
   - translation_iso: deu
     name: Delo
   - translation_iso: fra
     name: ntrubo
   - translation_iso: hin
     name: देलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Delo
     auto: true
   - translation_iso: jpn
     name: デロ語

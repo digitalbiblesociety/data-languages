@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كورا كوراغا
     auto: true
+  - translation_iso: ben
+    name: কোর্রা কোরাগা
+    auto: true
   - translation_iso: deu
     name: Korra Koraga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koraga korra
   - translation_iso: hin
     name: कोर्रा कोरगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Korra Koraga
     auto: true
   - translation_iso: jpn
     name: コッラ・コラガ語

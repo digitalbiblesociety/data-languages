@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانوسي ملغاشي
     auto: true
+  - translation_iso: ben
+    name: তানোসয় মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Tanosy Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: antanosy
   - translation_iso: hin
     name: तानोसी मालागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanosy Malagasy
     auto: true
   - translation_iso: jpn
     name: タノシ・マダガスカル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونجوس
     auto: true
+  - translation_iso: ben
+    name: রুঙুস
+    auto: true
   - translation_iso: deu
     name: Rungus
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rungus
   - translation_iso: hin
     name: रुंगुस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rungus
     auto: true
   - translation_iso: jpn
     name: ルンガス語

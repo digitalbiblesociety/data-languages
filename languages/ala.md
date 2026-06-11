@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलागो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alago
+    auto: true
   - translation_iso: jpn
     name: アラゴ語
     auto: true

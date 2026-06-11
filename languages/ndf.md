@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نادروفيان
     auto: true
+  - translation_iso: ben
+    name: নাদরুভিয়ান
+    auto: true
   - translation_iso: deu
     name: Nadrauisch
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: nadruvien
   - translation_iso: hin
     name: नाद्रुवियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nadruvian
     auto: true
   - translation_iso: jpn
     name: ナドルヴィア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشوني
     auto: true
+  - translation_iso: ben
+    name: চোনি
+    auto: true
   - translation_iso: deu
     name: Choni
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: choni
   - translation_iso: hin
     name: चोनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Choni
     auto: true
   - translation_iso: jpn
     name: チョニ語

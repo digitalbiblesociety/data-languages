@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكولو
     auto: true
+  - translation_iso: ben
+    name: ইকুলু
+    auto: true
   - translation_iso: deu
     name: Ikulu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इकुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikulu
     auto: true
   - translation_iso: jpn
     name: イクル語

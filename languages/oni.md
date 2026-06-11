@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونين
     auto: true
+  - translation_iso: ben
+    name: ওনিন
+    auto: true
   - translation_iso: deu
     name: Onin
     auto: true

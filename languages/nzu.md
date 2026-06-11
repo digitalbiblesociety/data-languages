@@ -15,12 +15,18 @@ translations:
   - translation_iso: ara
     name: اللغة تيكي نزيكو
     auto: true
+  - translation_iso: ben
+    name: তেকে-নজিকোউ
+    auto: true
   - translation_iso: deu
     name: Teke-Nzikou
   - translation_iso: fra
     name: teke-nzikou
   - translation_iso: hin
     name: तेके-नज़िकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Nzikou
     auto: true
   - translation_iso: jpn
     name: テケ・ンジコウ語

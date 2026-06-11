@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيفاميسي
     auto: true
+  - translation_iso: ben
+    name: নেফামেসে
+    auto: true
   - translation_iso: deu
     name: Nefamese
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नेफामीज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nefamese
     auto: true
   - translation_iso: jpn
     name: ネファメセ語

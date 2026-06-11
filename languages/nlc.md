@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نالكا
     auto: true
+  - translation_iso: ben
+    name: নালকা
+    auto: true
   - translation_iso: deu
     name: Nalca
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايور
     auto: true
+  - translation_iso: ben
+    name: ওয়ায়োরো
+    auto: true
   - translation_iso: deu
     name: Wayoró
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ayuru
   - translation_iso: hin
     name: वायोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wayoró
     auto: true
   - translation_iso: jpn
     name: ワイロ語

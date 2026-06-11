@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: हुबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Huba
+    auto: true
   - translation_iso: jpn
     name: フバ語
     auto: true

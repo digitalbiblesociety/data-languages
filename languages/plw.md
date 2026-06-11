@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو بروكس بوينت
     auto: true
+  - translation_iso: ben
+    name: বরোকেস পোইনত পালাওয়ানো
+    auto: true
   - translation_iso: deu
     name: "Brooke's Point-Palawano"
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्रुक्स पॉइंट पालावानो
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Brooke's Point Palawano"
     auto: true
   - translation_iso: jpn
     name: ブルックスポイントパラワーノ語

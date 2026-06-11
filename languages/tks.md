@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاكستاني
     auto: true
+  - translation_iso: ben
+    name: তাকেসতানি
+    auto: true
   - translation_iso: deu
     name: Takestani
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: takestani
   - translation_iso: hin
     name: ताकेस्तानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Takestani
     auto: true
   - translation_iso: jpn
     name: タケスタニ語

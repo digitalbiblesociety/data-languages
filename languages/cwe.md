@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكويري
     auto: true
+  - translation_iso: ben
+    name: কওয়েরে
+    auto: true
   - translation_iso: deu
     name: Kwere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwere
   - translation_iso: hin
     name: क्वेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwere
     auto: true
   - translation_iso: jpn
     name: クウェレ語

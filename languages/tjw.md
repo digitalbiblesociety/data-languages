@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: جابورونغ
     auto: true
+  - translation_iso: ben
+    name: দজাবওয়ুর্রুং
+    auto: true
   - translation_iso: deu
     name: Djabwurrung
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: djabwurrung
   - translation_iso: hin
     name: जाबवुर्रुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djabwurrung
     auto: true
   - translation_iso: jpn
     name: ジャブウルン語

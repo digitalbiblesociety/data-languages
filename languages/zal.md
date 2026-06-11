@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زاوزو
     auto: true
+  - translation_iso: ben
+    name: জাউজোউ
+    auto: true
   - translation_iso: deu
     name: Zauzou
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zauzou
   - translation_iso: hin
     name: ज़ौज़ौ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zauzou
     auto: true
   - translation_iso: jpn
     name: 柔若語

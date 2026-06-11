@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تومو كان دوجون
     auto: true
+  - translation_iso: ben
+    name: তোমো কান দোগোন
+    auto: true
   - translation_iso: deu
     name: Tomo Kan Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tomo kan
   - translation_iso: hin
     name: टोमो कान डोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tomo Kan Dogon
     auto: true
   - translation_iso: jpn
     name: トモ・カン・ドゴン語

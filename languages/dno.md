@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندرولو
     auto: true
+  - translation_iso: ben
+    name: নদরুলো
+    auto: true
   - translation_iso: deu
     name: Ndrulo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue ndrulo
   - translation_iso: hin
     name: न्द्रुलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndrulo
     auto: true
   - translation_iso: jpn
     name: ンドゥルロ語

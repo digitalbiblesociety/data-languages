@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دانو
     auto: true
+  - translation_iso: ben
+    name: দানাউ
+    auto: true
   - translation_iso: deu
     name: Danau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: danau
   - translation_iso: hin
     name: दानाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Danau
     auto: true
   - translation_iso: jpn
     name: ダナウ語

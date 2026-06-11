@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موروي هويتوتو
     auto: true
+  - translation_iso: ben
+    name: মুরুই হুইতোতো
+    auto: true
   - translation_iso: deu
     name: Murui-Huitoto
     auto: true

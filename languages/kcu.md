@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كامي
     auto: true
+  - translation_iso: ben
+    name: কামি
+    auto: true
   - translation_iso: deu
     name: Kami (Tansania)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kami
   - translation_iso: hin
     name: कामी (तंजानिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kami
     auto: true
   - translation_iso: jpn
     name: カミ語

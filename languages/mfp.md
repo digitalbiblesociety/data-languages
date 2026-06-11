@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو ماكاسار
     auto: true
+  - translation_iso: ben
+    name: মাকাস্সার মালায়
+    auto: true
   - translation_iso: deu
     name: Makassar-Malaiisch
     auto: true

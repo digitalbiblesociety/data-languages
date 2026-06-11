@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيو
     auto: true
+  - translation_iso: ben
+    name: ইয়ো
+    auto: true
   - translation_iso: deu
     name: Iyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iyo
   - translation_iso: hin
     name: इयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iyo
     auto: true
   - translation_iso: jpn
     name: イヨ語

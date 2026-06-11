@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نجوناوال
     auto: true
+  - translation_iso: ben
+    name: ঙুনাওয়াল
+    auto: true
   - translation_iso: deu
     name: Ngunawal
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: ngunawal
   - translation_iso: hin
     name: न्गुनावाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngunawal
     auto: true
   - translation_iso: jpn
     name: ングナワル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوك
     auto: true
+  - translation_iso: ben
+    name: নুক
+    auto: true
   - translation_iso: deu
     name: Nuk
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nuk
     auto: true
   - translation_iso: jpn
     name: ヌク語

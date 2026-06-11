@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: روجا
     auto: true
+  - translation_iso: ben
+    name: রুগা
+    auto: true
   - translation_iso: deu
     name: Ruga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ruga
   - translation_iso: hin
     name: रुगा भाषा
+  - translation_iso: ind
+    name: Bahasa Ruga
+    auto: true
   - translation_iso: jpn
     name: ルガ語
     auto: true

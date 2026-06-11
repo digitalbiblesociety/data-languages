@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dabarre_language"
 translations:
   - translation_iso: ara
     name: لغة الداباري
+  - translation_iso: ben
+    name: দাবার্রে
+    auto: true
   - translation_iso: deu
     name: Dabarre
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दाबारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dabarre
     auto: true
   - translation_iso: jpn
     name: ダバレ語

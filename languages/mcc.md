@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بيتور
     auto: true
+  - translation_iso: ben
+    name: বিতুর
+    auto: true
   - translation_iso: deu
     name: Bitur
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bitur
   - translation_iso: hin
     name: बितुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bitur
     auto: true
   - translation_iso: jpn
     name: ビトゥル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نينغيرم
     auto: true
+  - translation_iso: ben
+    name: নিংগেরুম
+    auto: true
   - translation_iso: deu
     name: Ninggerum
     auto: true

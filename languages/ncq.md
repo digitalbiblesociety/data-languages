@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جنوب كاتانج
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কাতাং
+    auto: true
   - translation_iso: deu
     name: Nord-Katang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: katang du Nord
   - translation_iso: hin
     name: उत्तरी कातांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Katang
     auto: true
   - translation_iso: jpn
     name: 北カタン語

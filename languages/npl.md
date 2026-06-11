@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناواتل بويبلا الجنوبية الشرقية
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসতেরন পুএবলা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Südöstliches Puebla-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl du Puebla du Sud-Est
   - translation_iso: hin
     name: दक्षिण-पूर्वी पुएब्ला नवात्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeastern Puebla Nahuatl
     auto: true
   - translation_iso: jpn
     name: 南東プエブラ・ナワトル語

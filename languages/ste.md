@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليانا-سيتي
     auto: true
+  - translation_iso: ben
+    name: লিয়ানা-সেতি
+    auto: true
   - translation_iso: deu
     name: Liana-Seti
     auto: true

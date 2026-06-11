@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وانغغوم
     auto: true
+  - translation_iso: ben
+    name: ওয়াংগোম
+    auto: true
   - translation_iso: deu
     name: Wanggom
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wanggom
   - translation_iso: hin
     name: वांग्गोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanggom
     auto: true
   - translation_iso: jpn
     name: ワンゴム語

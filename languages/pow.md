@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان فيليبي
     auto: true
+  - translation_iso: ben
+    name: সান ফেলিপে ওতলালতেপেক পোপোলোকা
+    auto: true
   - translation_iso: deu
     name: San Felipe Otlaltepec-Popoloca
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: popoloca otlaltepèque de San Felipe
   - translation_iso: hin
     name: सान फ़ेलिपे ओतलाल्तेपेक पोपोलोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Felipe Otlaltepec Popoloca
     auto: true
   - translation_iso: jpn
     name: サンフェリペオトラルテペックポポロカ語

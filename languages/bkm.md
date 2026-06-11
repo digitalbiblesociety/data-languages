@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kom_language_(Cameroon)"
 translations:
   - translation_iso: ara
     name: لغة الكوم
+  - translation_iso: ben
+    name: কোম
+    auto: true
   - translation_iso: deu
     name: Kom
   - translation_iso: fra

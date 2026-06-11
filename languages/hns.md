@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Caribbean_Hindustani"
 translations:
   - translation_iso: ara
     name: الهندية الكاريبية
+  - translation_iso: ben
+    name: কারিব্বেয়ান হিনদুসতানি
+    auto: true
   - translation_iso: deu
     name: Karibisches Hindustani
   - translation_iso: fra
     name: hindoustani des Caraïbes
   - translation_iso: hin
     name: कैरेबियाई हिंदुस्तानी
+  - translation_iso: ind
+    name: Bahasa Caribbean Hindustani
+    auto: true
   - translation_iso: jpn
     name: カリブ・ヒンドゥスターニー語
   - translation_iso: kor

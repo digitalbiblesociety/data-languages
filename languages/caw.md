@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kallawaya_language"
 translations:
   - translation_iso: ara
     name: لغة كالاوايا
+  - translation_iso: ben
+    name: কাল্লাওয়াল্লা
+    auto: true
   - translation_iso: deu
     name: Callawalla
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kallawaya
   - translation_iso: hin
     name: कालावाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Callawalla
     auto: true
   - translation_iso: jpn
     name: カリャワヤ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خيرنتي
     auto: true
+  - translation_iso: ben
+    name: কসেরেনতে
+    auto: true
   - translation_iso: deu
     name: Xerénte
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: xerénte
   - translation_iso: hin
     name: ज़ेरेन्ते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xerénte
     auto: true
   - translation_iso: jpn
     name: シェレンテ語

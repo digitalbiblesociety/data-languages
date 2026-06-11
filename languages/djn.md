@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جاوين
     auto: true
+  - translation_iso: ben
+    name: জাওয়োয়ন
+    auto: true
   - translation_iso: deu
     name: Jawoyn
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djauan
   - translation_iso: hin
     name: जावोयन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jawoyn
     auto: true
   - translation_iso: jpn
     name: ジャウィン語

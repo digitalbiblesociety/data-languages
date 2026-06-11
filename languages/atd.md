@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अता मनोबो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ata Manobo
+    auto: true
   - translation_iso: jpn
     name: アタ・マノボ語
   - translation_iso: kor

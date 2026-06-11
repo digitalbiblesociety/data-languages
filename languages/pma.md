@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بآما
     auto: true
+  - translation_iso: ben
+    name: পামা
+    auto: true
   - translation_iso: deu
     name: Paama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paama
   - translation_iso: hin
     name: पामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paama
     auto: true
   - translation_iso: jpn
     name: パアマ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: hin
     name: ख्वारज़्मियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Khorezmian
+    auto: true
   - translation_iso: jpn
     name: ホレズム語
   - translation_iso: kor

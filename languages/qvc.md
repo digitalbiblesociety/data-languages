@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كاخامركا
     auto: true
+  - translation_iso: ben
+    name: কাজামারকা কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Cajamarca-Quechua
   - translation_iso: fra
     name: quechua de Cajamarca
   - translation_iso: hin
     name: काखामार्का क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cajamarca Quechua
     auto: true
   - translation_iso: jpn
     name: カハマルカケチュア語

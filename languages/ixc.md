@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيكسكاتك
     auto: true
+  - translation_iso: ben
+    name: ইকসকাতেক
+    auto: true
   - translation_iso: deu
     name: Ixcatekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ixcatèque
   - translation_iso: hin
     name: इक्सकातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ixcatec
     auto: true
   - translation_iso: jpn
     name: イチャテコ族

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إنيآ
     auto: true
+  - translation_iso: ben
+    name: এনয়া
+    auto: true
   - translation_iso: deu
     name: Enya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: enya
   - translation_iso: hin
     name: एन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enya
     auto: true
   - translation_iso: jpn
     name: エーニャ語

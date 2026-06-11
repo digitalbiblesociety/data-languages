@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: النانتي
     auto: true
+  - translation_iso: ben
+    name: নানতি
+    auto: true
   - translation_iso: deu
     name: Nanti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nanti
   - translation_iso: hin
     name: नांती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nanti
     auto: true
   - translation_iso: jpn
     name: ナンティ語

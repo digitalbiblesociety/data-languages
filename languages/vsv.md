@@ -28,6 +28,9 @@ translations:
     name: langue des signes valencienne
   - translation_iso: hin
     name: वालेंसियन साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Valencian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ヴァレンシア手話
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كايوا
     auto: true
+  - translation_iso: ben
+    name: কাইওয়া
+    auto: true
   - translation_iso: deu
     name: Kaiwá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaiwá
   - translation_iso: hin
     name: कैवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaiwá
     auto: true
   - translation_iso: jpn
     name: カイワ語

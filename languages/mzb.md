@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: तुमज़ाब्त
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tumzabt
+    auto: true
   - translation_iso: jpn
     name: ムザブ語
   - translation_iso: kor

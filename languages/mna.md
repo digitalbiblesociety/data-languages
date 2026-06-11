@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبولا
     auto: true
+  - translation_iso: ben
+    name: মবুলা
+    auto: true
   - translation_iso: deu
     name: Mbula
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbula
   - translation_iso: hin
     name: मबुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbula
     auto: true
   - translation_iso: jpn
     name: マンガップ語

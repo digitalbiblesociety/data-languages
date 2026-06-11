@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: الرومانية الكاربثية
     auto: true
+  - translation_iso: ben
+    name: কারপাথিয়ান রোমানি
+    auto: true
   - translation_iso: deu
     name: Karpathen-Romani
   - translation_iso: fra
     name: romani central
   - translation_iso: hin
     name: कार्पेथियन रोमानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Carpathian Romani
     auto: true
   - translation_iso: jpn
     name: カルパティア・ロマ語

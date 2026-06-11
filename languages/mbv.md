@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبولونجيش
     auto: true
+  - translation_iso: ben
+    name: মবুলুঙিশ
+    auto: true
   - translation_iso: deu
     name: Mbulungisch
   - translation_iso: fra
     name: bulongic
   - translation_iso: hin
     name: म्बुलुंगिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbulungish
     auto: true
   - translation_iso: jpn
     name: ムブルンギシュ語

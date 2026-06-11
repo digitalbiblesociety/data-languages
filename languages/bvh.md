@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوري
     auto: true
+  - translation_iso: ben
+    name: বুরে
+    auto: true
   - translation_iso: deu
     name: Bure
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bure
   - translation_iso: hin
     name: बुरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bure
     auto: true
   - translation_iso: jpn
     name: ブレ語

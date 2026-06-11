@@ -23,12 +23,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوكوت
     auto: true
+  - translation_iso: ben
+    name: পোকোত
+    auto: true
   - translation_iso: deu
     name: Pökoot
   - translation_iso: fra
     name: pökot
   - translation_iso: hin
     name: पोकोट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pökoot
     auto: true
   - translation_iso: jpn
     name: ポコット語

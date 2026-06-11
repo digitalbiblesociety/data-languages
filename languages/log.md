@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وجو
     auto: true
+  - translation_iso: ben
+    name: লোগো
+    auto: true
   - translation_iso: deu
     name: Logo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: logoti
   - translation_iso: hin
     name: लोगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Logo
     auto: true
   - translation_iso: jpn
     name: ロゴ語

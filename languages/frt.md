@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفورتسينال
     auto: true
+  - translation_iso: ben
+    name: ফোরতসেনাল
+    auto: true
   - translation_iso: deu
     name: Fortsenal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fortsenal
   - translation_iso: hin
     name: फोर्त्सेनाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fortsenal
     auto: true
   - translation_iso: jpn
     name: フォルツェナル語

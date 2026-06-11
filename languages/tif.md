@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيفال
     auto: true
+  - translation_iso: ben
+    name: তিফাল
+    auto: true
   - translation_iso: deu
     name: Tifal
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tifal
   - translation_iso: hin
     name: तीफाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tifal
     auto: true
   - translation_iso: jpn
     name: ティファル語

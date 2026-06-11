@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن أريرنتي
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন আর্রেরনতে
+    auto: true
   - translation_iso: deu
     name: Ost-Arrernte
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "arrernte de l'Est"
   - translation_iso: hin
     name: पूर्वी अरेर्न्ते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Arrernte
     auto: true
   - translation_iso: jpn
     name: 東部アレレント語

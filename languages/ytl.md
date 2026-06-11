@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة تانغلانج
     auto: true
+  - translation_iso: ben
+    name: তাংলাং
+    auto: true
   - translation_iso: deu
     name: Tanglang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tanglang
   - translation_iso: hin
     name: तांगलांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanglang
     auto: true
   - translation_iso: jpn
     name: タングラング語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: असारोओ
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Asaro'o"
+    auto: true
   - translation_iso: jpn
     name: アサロオ語
     auto: true

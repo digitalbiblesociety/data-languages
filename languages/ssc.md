@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبا-سيمبيتي
     auto: true
+  - translation_iso: ben
+    name: সুবা-সিমবিতি
+    auto: true
   - translation_iso: deu
     name: Suba-Simbiti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suba-simbiti
   - translation_iso: hin
     name: सुबा-सिम्बिती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suba-Simbiti
     auto: true
   - translation_iso: jpn
     name: キシンビティ語

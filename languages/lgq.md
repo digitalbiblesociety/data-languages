@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة وجبا
     auto: true
+  - translation_iso: ben
+    name: লোগবা
+    auto: true
   - translation_iso: deu
     name: Logba
   - translation_iso: fra
     name: logba
   - translation_iso: hin
     name: लोगबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Logba
     auto: true
   - translation_iso: jpn
     name: ログバ語

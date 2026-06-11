@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة انوه
     auto: true
+  - translation_iso: ben
+    name: লানোহ
+    auto: true
   - translation_iso: deu
     name: Lanoh
     auto: true

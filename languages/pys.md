@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الباراجوايية
     auto: true
+  - translation_iso: ben
+    name: পারাগুয়ায়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Paraguayische Gebärdensprache
   - translation_iso: fra
     name: langue des signes paraguayenne
   - translation_iso: hin
     name: पैराग्वे सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paraguayan Sign Language
     auto: true
   - translation_iso: jpn
     name: パラグアイ手話

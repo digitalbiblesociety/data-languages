@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريكوبا
     auto: true
+  - translation_iso: ben
+    name: মারিকোপা
+    auto: true
   - translation_iso: deu
     name: Maricopa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maricopa
   - translation_iso: hin
     name: मारिकोपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maricopa
     auto: true
   - translation_iso: jpn
     name: マリコパ語

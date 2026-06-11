@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كويا
     auto: true
+  - translation_iso: ben
+    name: কোউয়া
+    auto: true
   - translation_iso: deu
     name: Kuya
   - translation_iso: fra
     name: sokuya
   - translation_iso: hin
     name: कोउया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kouya
     auto: true
   - translation_iso: jpn
     name: クウヤ語

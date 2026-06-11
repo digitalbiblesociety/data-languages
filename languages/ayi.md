@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليجيغا
     auto: true
+  - translation_iso: ben
+    name: লেয়িঘা
+    auto: true
   - translation_iso: deu
     name: Leyigha
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेयिघा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Leyigha
     auto: true
   - translation_iso: jpn
     name: レイイーグハ語

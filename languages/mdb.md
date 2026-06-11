@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موريجي
     auto: true
+  - translation_iso: ben
+    name: মোরিগি
+    auto: true
   - translation_iso: deu
     name: Morigi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: morigi
   - translation_iso: hin
     name: मोरिगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morigi
     auto: true
   - translation_iso: jpn
     name: モリギ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوكوكو
     auto: true
+  - translation_iso: ben
+    name: নোকুকু
+    auto: true
   - translation_iso: deu
     name: Nokuku
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nokuku
   - translation_iso: hin
     name: नोकुकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nokuku
     auto: true
   - translation_iso: jpn
     name: ノクク語

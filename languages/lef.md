@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يليمي
     auto: true
+  - translation_iso: ben
+    name: লেলেমি
+    auto: true
   - translation_iso: deu
     name: Lelemi
   - translation_iso: fra
     name: lelemi
   - translation_iso: hin
     name: लेलेमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lelemi
     auto: true
   - translation_iso: jpn
     name: レレミ語

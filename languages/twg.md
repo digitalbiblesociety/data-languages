@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيريونج
     auto: true
+  - translation_iso: ben
+    name: তেরেওয়েং
+    auto: true
   - translation_iso: deu
     name: Tereweng
     auto: true

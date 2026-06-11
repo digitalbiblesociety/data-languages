@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة كولونج
     auto: true
+  - translation_iso: ben
+    name: কুলুং
+    auto: true
   - translation_iso: deu
     name: Kulung
   - translation_iso: fra
     name: kulung
   - translation_iso: hin
     name: कुलुंग (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kulung
     auto: true
   - translation_iso: jpn
     name: クルング語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: أورادهي
     auto: true
+  - translation_iso: ben
+    name: উরাধি
+    auto: true
   - translation_iso: deu
     name: Uradhi
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: uradhi
   - translation_iso: hin
     name: उराधी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uradhi
     auto: true
   - translation_iso: jpn
     name: インジノー語

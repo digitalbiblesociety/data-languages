@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كامو
     auto: true
+  - translation_iso: ben
+    name: কামু
+    auto: true
   - translation_iso: deu
     name: Kamu
     auto: true

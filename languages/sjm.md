@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة المابون
     auto: true
+  - translation_iso: ben
+    name: মাপুন
+    auto: true
   - translation_iso: deu
     name: Mapun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mapun
   - translation_iso: hin
     name: मापुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mapun
     auto: true
   - translation_iso: jpn
     name: バホ語

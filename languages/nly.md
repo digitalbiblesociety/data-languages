@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييامال
     auto: true
+  - translation_iso: ben
+    name: নয়ামাল
+    auto: true
   - translation_iso: deu
     name: Nyamal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyamal
   - translation_iso: hin
     name: न्यामल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyamal
     auto: true
   - translation_iso: jpn
     name: ニャマル語

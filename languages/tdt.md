@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيتون ديلي
     auto: true
+  - translation_iso: ben
+    name: তেতুন দিলি
+    auto: true
   - translation_iso: deu
     name: Tetum Dili
   - translation_iso: fra

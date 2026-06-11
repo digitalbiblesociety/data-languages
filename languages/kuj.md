@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوريا
     auto: true
+  - translation_iso: ben
+    name: কুরিয়া
+    auto: true
   - translation_iso: deu
     name: Kuria
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuria
   - translation_iso: hin
     name: कुरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuria
     auto: true
   - translation_iso: jpn
     name: クリア語

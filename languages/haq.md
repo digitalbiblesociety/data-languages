@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآ
     auto: true
+  - translation_iso: ben
+    name: হা
+    auto: true
   - translation_iso: deu
     name: Ha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: giha
   - translation_iso: hin
     name: हा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ha
     auto: true
   - translation_iso: jpn
     name: ハー語

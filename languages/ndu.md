@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوجون
     auto: true
+  - translation_iso: ben
+    name: দুগুন
+    auto: true
   - translation_iso: deu
     name: Dugun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dugun
   - translation_iso: hin
     name: दुगुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dugun
     auto: true
   - translation_iso: jpn
     name: ドゥグン語

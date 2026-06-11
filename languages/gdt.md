@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كونجاردوتي
     auto: true
+  - translation_iso: ben
+    name: কুঙারদুতয়ি
+    auto: true
   - translation_iso: deu
     name: Kungardutyi
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: kungardutyi
   - translation_iso: hin
     name: कुंगारदुत्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kungardutyi
     auto: true
   - translation_iso: jpn
     name: クンガルドゥティイ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نينيا يالي
     auto: true
+  - translation_iso: ben
+    name: নিনিয়া য়ালি
+    auto: true
   - translation_iso: deu
     name: Ninia-Yali
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yali de Ninia
   - translation_iso: hin
     name: निनिया याली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ninia Yali
     auto: true
   - translation_iso: jpn
     name: ニニア・ヤリ語

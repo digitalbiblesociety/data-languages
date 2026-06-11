@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تينيت
     auto: true
+  - translation_iso: ben
+    name: তেন্নেত
+    auto: true
   - translation_iso: deu
     name: Tennet
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tennet
   - translation_iso: hin
     name: तेन्नेत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tennet
     auto: true
   - translation_iso: jpn
     name: テンネット語

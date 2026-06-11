@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة موزي
     auto: true
+  - translation_iso: ben
+    name: মুজি
+    auto: true
   - translation_iso: deu
     name: Muzi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muzi
   - translation_iso: hin
     name: मूज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muzi
     auto: true
   - translation_iso: jpn
     name: ムジ語

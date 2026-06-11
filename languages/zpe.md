@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك بيتابا
     auto: true
+  - translation_iso: ben
+    name: পেতাপা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Petapa)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Petapa
   - translation_iso: hin
     name: पेतापा सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Petapa Zapotec
     auto: true
   - translation_iso: jpn
     name: ペタパ・サポテク語

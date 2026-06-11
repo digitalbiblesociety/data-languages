@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة دوهوا
     auto: true
+  - translation_iso: ben
+    name: দুহওয়া
+    auto: true
   - translation_iso: deu
     name: Duhwa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दुहवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duhwa
     auto: true
   - translation_iso: jpn
     name: ドゥフワ語

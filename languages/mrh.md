@@ -30,6 +30,9 @@ translations:
     name: mara
   - translation_iso: hin
     name: मारा भाषा
+  - translation_iso: ind
+    name: Bahasa Mara Chin
+    auto: true
   - translation_iso: jpn
     name: マラ語
   - translation_iso: kor

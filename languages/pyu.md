@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بويوما
     auto: true
+  - translation_iso: ben
+    name: পুয়ুমা
+    auto: true
   - translation_iso: deu
     name: Puyuma-Sprache
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولفو
     auto: true
+  - translation_iso: ben
+    name: বোলয়ু
+    auto: true
   - translation_iso: deu
     name: Bolyu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: palyu
   - translation_iso: hin
     name: बोल्यु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolyu
     auto: true
   - translation_iso: jpn
     name: ボルユ語

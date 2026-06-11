@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوم
     auto: true
+  - translation_iso: ben
+    name: কোম
+    auto: true
   - translation_iso: deu
     name: Kom (Indien)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kom
   - translation_iso: hin
     name: कोम भाषा
+  - translation_iso: ind
+    name: Bahasa Kom
+    auto: true
   - translation_iso: jpn
     name: コム語
     auto: true

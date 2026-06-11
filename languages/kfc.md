@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوندا دورا
     auto: true
+  - translation_iso: ben
+    name: কোনদা-দোরা
+    auto: true
   - translation_iso: deu
     name: Konda
   - translation_iso: fra
     name: konda
   - translation_iso: hin
     name: कोंडा भाषा
+  - translation_iso: ind
+    name: Bahasa Konda-Dora
+    auto: true
   - translation_iso: jpn
     name: コンダ語
   - translation_iso: kor

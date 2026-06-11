@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अपास्को-अपोआला मिश्तेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apasco-Apoala Mixtec
+    auto: true
   - translation_iso: jpn
     name: アパスコ・アポアラ・ミステク語
     auto: true

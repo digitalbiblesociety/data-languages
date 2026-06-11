@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماريا (الهند)
     auto: true
+  - translation_iso: ben
+    name: মারিয়া
+    auto: true
   - translation_iso: deu
     name: Maria
   - translation_iso: fra
     name: maria
   - translation_iso: hin
     name: मारिया (भारत)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maria
     auto: true
   - translation_iso: jpn
     name: マリア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماتيبوهي
     auto: true
+  - translation_iso: ben
+    name: মাতিপুহয়
+    auto: true
   - translation_iso: deu
     name: Matipuhy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: matipuhy
   - translation_iso: hin
     name: मातिपुही
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matipuhy
     auto: true
   - translation_iso: jpn
     name: マティプハイ語

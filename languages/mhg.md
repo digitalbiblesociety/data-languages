@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارجو
     auto: true
+  - translation_iso: ben
+    name: মারগু
+    auto: true
   - translation_iso: deu
     name: Margu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marggu
   - translation_iso: hin
     name: मार्गु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Margu
     auto: true
   - translation_iso: jpn
     name: マルグ語

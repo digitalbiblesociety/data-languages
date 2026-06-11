@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليسابتا-نونيالي
     auto: true
+  - translation_iso: ben
+    name: লিসাবাতা-নুনিয়ালি
+    auto: true
   - translation_iso: deu
     name: Lisabata-Nuniali
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लिसाबाटा-नुनियाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lisabata-Nuniali
     auto: true
   - translation_iso: jpn
     name: リサバタ・ヌニアリ語

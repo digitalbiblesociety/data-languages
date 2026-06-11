@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيلون
     auto: true
+  - translation_iso: ben
+    name: কেলোন
+    auto: true
   - translation_iso: deu
     name: Kelon
     auto: true

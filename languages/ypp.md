@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوبا
     auto: true
+  - translation_iso: ben
+    name: ফুপা
+    auto: true
   - translation_iso: deu
     name: Phupa
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: phupa
   - translation_iso: hin
     name: फूपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phupa
     auto: true
   - translation_iso: jpn
     name: フーパ語

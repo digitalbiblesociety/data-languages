@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوم
     auto: true
+  - translation_iso: ben
+    name: সোম
+    auto: true
   - translation_iso: deu
     name: Som
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: som
   - translation_iso: hin
     name: सोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Som
     auto: true
   - translation_iso: jpn
     name: ディナンゲット語

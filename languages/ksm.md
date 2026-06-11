@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كومبا
     auto: true
+  - translation_iso: ben
+    name: কুমবা
+    auto: true
   - translation_iso: deu
     name: Kumba
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kumba
     auto: true
   - translation_iso: jpn
     name: クンバ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tebi_language"
 translations:
   - translation_iso: ara
     name: لغة تيبي
+  - translation_iso: ben
+    name: দুবু
+    auto: true
   - translation_iso: deu
     name: Dubu
     auto: true

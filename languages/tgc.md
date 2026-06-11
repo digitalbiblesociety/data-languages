@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيغاك
     auto: true
+  - translation_iso: ben
+    name: তিগাক
+    auto: true
   - translation_iso: deu
     name: Tigak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tigak
   - translation_iso: hin
     name: तिगाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tigak
     auto: true
   - translation_iso: jpn
     name: ティガク語

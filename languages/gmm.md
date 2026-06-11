@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: غبآيآ-مبودومو
     auto: true
+  - translation_iso: ben
+    name: গবায়া-মবোদোমো
+    auto: true
   - translation_iso: deu
     name: Gbaya-Mbodomo
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: gbaya-mbodomo
   - translation_iso: hin
     name: ग्बाया-म्बोदोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbaya-Mbodomo
     auto: true
   - translation_iso: jpn
     name: グバヤ＝ンボドモ語

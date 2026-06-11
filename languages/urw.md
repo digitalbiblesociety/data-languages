@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوب
     auto: true
+  - translation_iso: ben
+    name: সোপ
+    auto: true
   - translation_iso: deu
     name: Sop
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sop
     auto: true
   - translation_iso: jpn
     name: ソップ語

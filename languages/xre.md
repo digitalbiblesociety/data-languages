@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كرييي
     auto: true
+  - translation_iso: ben
+    name: করেয়ে
+    auto: true
   - translation_iso: deu
     name: Kreye
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kreye
   - translation_iso: hin
     name: क्रेये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kreye
     auto: true
   - translation_iso: jpn
     name: クレイエ語

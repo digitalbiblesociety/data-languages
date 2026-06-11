@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واوياي
     auto: true
+  - translation_iso: ben
+    name: ওয়াউয়াই
+    auto: true
   - translation_iso: deu
     name: Wauyai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wauyai
   - translation_iso: hin
     name: वौयाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wauyai
     auto: true
   - translation_iso: jpn
     name: ワウヤイ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يورا
     auto: true
+  - translation_iso: ben
+    name: য়োরা
+    auto: true
   - translation_iso: deu
     name: Yora
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yora
   - translation_iso: hin
     name: योरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yora
     auto: true
   - translation_iso: jpn
     name: ヨラ語

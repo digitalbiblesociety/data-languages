@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: غورينغ
     auto: true
+  - translation_iso: ben
+    name: গোরেং
+    auto: true
   - translation_iso: deu
     name: Goreng
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: goreng
   - translation_iso: hin
     name: गोरेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Goreng
     auto: true
   - translation_iso: jpn
     name: ゴレン語

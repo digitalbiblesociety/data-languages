@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاهميرزادي
     auto: true
+  - translation_iso: ben
+    name: শাহমিরজাদি
+    auto: true
   - translation_iso: deu
     name: Shahmirzadi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: shahmirzadi
   - translation_iso: hin
     name: शाहमिरज़ादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shahmirzadi
     auto: true
   - translation_iso: jpn
     name: マザンダラーニー語

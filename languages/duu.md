@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: درونج
     auto: true
+  - translation_iso: ben
+    name: দরুং
+    auto: true
   - translation_iso: deu
     name: Drung
     auto: true

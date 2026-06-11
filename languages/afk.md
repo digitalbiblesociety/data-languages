@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نانوبي
     auto: true
+  - translation_iso: ben
+    name: নানুবাএ
+    auto: true
   - translation_iso: deu
     name: Nanubae
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nanubae
   - translation_iso: hin
     name: नानुबाए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nanubae
     auto: true
   - translation_iso: jpn
     name: ナヌバエ語

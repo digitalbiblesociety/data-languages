@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बायुंगु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bayungu
+    auto: true
   - translation_iso: jpn
     name: バユングゥ語
     auto: true

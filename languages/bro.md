@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بروكّات
     auto: true
+  - translation_iso: ben
+    name: বরোক্কাত
+    auto: true
   - translation_iso: deu
     name: Brokkat
     auto: true

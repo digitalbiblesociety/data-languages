@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماكاه
     auto: true
+  - translation_iso: ben
+    name: মাকাহ
+    auto: true
   - translation_iso: deu
     name: Makah
   - translation_iso: fra

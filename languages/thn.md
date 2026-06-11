@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: थचनादन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Thachanadan
+    auto: true
   - translation_iso: jpn
     name: タチャナダン語
     auto: true

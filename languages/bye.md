@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: پويي
     auto: true
+  - translation_iso: ben
+    name: পোউয়ে
+    auto: true
   - translation_iso: deu
     name: Pouye
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pouye
   - translation_iso: hin
     name: पूये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pouye
     auto: true
   - translation_iso: jpn
     name: プーイエ語

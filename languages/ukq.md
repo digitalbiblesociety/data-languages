@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوكوا
     auto: true
+  - translation_iso: ben
+    name: উকওয়া
+    auto: true
   - translation_iso: deu
     name: Ukwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ukwa
   - translation_iso: hin
     name: उक्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukwa
     auto: true
   - translation_iso: jpn
     name: ウクワ語

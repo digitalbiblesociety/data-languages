@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كادي
     auto: true
+  - translation_iso: ben
+    name: কাদাই
+    auto: true
   - translation_iso: deu
     name: Kadai
     auto: true

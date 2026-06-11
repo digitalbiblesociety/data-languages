@@ -29,6 +29,9 @@ translations:
     name: oriya adivasi
   - translation_iso: hin
     name: And
+  - translation_iso: ind
+    name: Bahasa Adivasi Oriya
+    auto: true
   - translation_iso: jpn
     name: アディバシ・オリヤ語
     auto: true

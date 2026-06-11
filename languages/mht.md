@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مندتهواكا
     auto: true
+  - translation_iso: ben
+    name: মানদাহুয়াকা
+    auto: true
   - translation_iso: deu
     name: Mandahuaca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mandahuaca
   - translation_iso: hin
     name: मंदाहुआका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandahuaca
     auto: true
   - translation_iso: jpn
     name: マンダワカ語

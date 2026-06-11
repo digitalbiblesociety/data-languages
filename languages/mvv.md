@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تاجال موروت
     auto: true
+  - translation_iso: ben
+    name: তাগাল মুরুত
+    auto: true
   - translation_iso: deu
     name: Tagal Murut
   - translation_iso: fra

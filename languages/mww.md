@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة همونج داو
     auto: true
+  - translation_iso: ben
+    name: হমোং দাওয়
+    auto: true
   - translation_iso: deu
     name: Hmong Daw
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: hmong daw
   - translation_iso: hin
     name: ह्मोंग दाव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hmong Daw
     auto: true
   - translation_iso: jpn
     name: 白苗語

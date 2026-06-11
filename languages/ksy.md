@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: खड़िया थार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kharia Thar
+    auto: true
   - translation_iso: jpn
     name: カリア・タール語
     auto: true

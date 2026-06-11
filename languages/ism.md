@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماسيماسي
     auto: true
+  - translation_iso: ben
+    name: মাসিমাসি
+    auto: true
   - translation_iso: deu
     name: Masimasi
     auto: true

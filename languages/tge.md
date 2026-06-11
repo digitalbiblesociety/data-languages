@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تامانغ غوركها الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন গোরখা তামাং
+    auto: true
   - translation_iso: deu
     name: Eastern Gorkha Tamang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "tamang de Gorkha de l'Est"
   - translation_iso: hin
     name: पूर्वी गोरखा तामाङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Gorkha Tamang
     auto: true
   - translation_iso: jpn
     name: 東部ゴルカ・タマン語

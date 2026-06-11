@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: पोलिश सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Polish Sign Language
+    auto: true
   - translation_iso: jpn
     name: ポーランド手話
   - translation_iso: kor

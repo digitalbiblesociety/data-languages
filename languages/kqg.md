@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خيه
     auto: true
+  - translation_iso: ben
+    name: খে
+    auto: true
   - translation_iso: deu
     name: Khe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khe
   - translation_iso: hin
     name: खे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khe
     auto: true
   - translation_iso: jpn
     name: ケ語

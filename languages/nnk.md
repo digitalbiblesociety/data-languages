@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نانكينا
     auto: true
+  - translation_iso: ben
+    name: নানকিনা
+    auto: true
   - translation_iso: deu
     name: Nankina
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nankina
   - translation_iso: hin
     name: नानकिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nankina
     auto: true
   - translation_iso: jpn
     name: ナンキナ語

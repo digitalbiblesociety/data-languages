@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتيلو
     auto: true
+  - translation_iso: ben
+    name: তুতেলো
+    auto: true
   - translation_iso: deu
     name: Tutelo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tutelo
   - translation_iso: hin
     name: तुतेलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tutelo
     auto: true
   - translation_iso: jpn
     name: イェサーサハ語

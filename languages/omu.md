@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومورانو
     auto: true
+  - translation_iso: ben
+    name: ওমুরানো
+    auto: true
   - translation_iso: deu
     name: Omurano
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: omurana
   - translation_iso: hin
     name: ओमुरानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Omurano
     auto: true
   - translation_iso: jpn
     name: オムラーノ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوك ثايور
     auto: true
+  - translation_iso: ben
+    name: কুক থায়োর্রে
+    auto: true
   - translation_iso: deu
     name: Kuuk Thaayorre
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuuk-thaayore
   - translation_iso: hin
     name: कूक थायोर्रे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuuk Thaayorre
     auto: true
   - translation_iso: jpn
     name: クークターヨレ語

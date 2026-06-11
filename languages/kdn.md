@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوندا
     auto: true
+  - translation_iso: ben
+    name: কুনদা
+    auto: true
   - translation_iso: deu
     name: Kunda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kunda
   - translation_iso: hin
     name: कुंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunda
     auto: true
   - translation_iso: jpn
     name: クンダ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: توجن
     auto: true
+  - translation_iso: ben
+    name: তুগেন
+    auto: true
   - translation_iso: deu
     name: Tugen
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tuken
   - translation_iso: hin
     name: तुगेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tugen
     auto: true
   - translation_iso: jpn
     name: トゥゲン語

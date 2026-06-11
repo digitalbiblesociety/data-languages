@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تريو
     auto: true
+  - translation_iso: ben
+    name: তরিও
+    auto: true
   - translation_iso: deu
     name: Tiriyó
   - translation_iso: fra
     name: trió
   - translation_iso: hin
     name: त्रिओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Trió
     auto: true
   - translation_iso: jpn
     name: タレーノ・イヨミ語

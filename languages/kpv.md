@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة كومي زيريان
     auto: true
+  - translation_iso: ben
+    name: কোমি-জয়রিয়ান
+    auto: true
   - translation_iso: deu
     name: Komi-Syrjänisch
   - translation_iso: fra
     name: komi-zyriène
   - translation_iso: hin
     name: कोमी-ज़िरयान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Komi-Zyrian
     auto: true
   - translation_iso: jpn
     name: コミ・ジリエーン語

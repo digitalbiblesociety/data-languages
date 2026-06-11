@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كومباي
     auto: true
+  - translation_iso: ben
+    name: কোমবাই
+    auto: true
   - translation_iso: deu
     name: Kombai
     auto: true

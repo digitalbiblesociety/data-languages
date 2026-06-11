@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوم
     auto: true
+  - translation_iso: ben
+    name: পোম
+    auto: true
   - translation_iso: deu
     name: Pom
     auto: true

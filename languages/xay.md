@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كايان ماهاكام
     auto: true
+  - translation_iso: ben
+    name: কায়ান মাহাকাম
+    auto: true
   - translation_iso: deu
     name: Kayan Mahakam
     auto: true

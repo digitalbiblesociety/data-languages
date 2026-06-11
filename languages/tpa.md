@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاوبوتا
     auto: true
+  - translation_iso: ben
+    name: তাউপোতা
+    auto: true
   - translation_iso: deu
     name: Taupota
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: taupota
   - translation_iso: hin
     name: ताउपोटा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taupota
     auto: true
   - translation_iso: jpn
     name: タウポタ語

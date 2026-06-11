@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيليانن مانوبو
     auto: true
+  - translation_iso: ben
+    name: ইলিয়ানেন মানোবো
+    auto: true
   - translation_iso: deu
     name: Ilianen Manobo
     auto: true

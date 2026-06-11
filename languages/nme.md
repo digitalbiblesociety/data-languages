@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زيمي ناغا
     auto: true
+  - translation_iso: ben
+    name: মজিএমে নাগা
+    auto: true
   - translation_iso: deu
     name: Mzieme-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naga mzieme
   - translation_iso: hin
     name: ज़ाईमे भाषा
+  - translation_iso: ind
+    name: Bahasa Mzieme Naga
+    auto: true
   - translation_iso: jpn
     name: ムジエメ・ナガ語
     auto: true

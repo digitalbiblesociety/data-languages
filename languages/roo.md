@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: रोटोकास
     auto: true
+  - translation_iso: ind
+    name: Bahasa Rotokas
+    auto: true
   - translation_iso: jpn
     name: ロトカス語
   - translation_iso: kor

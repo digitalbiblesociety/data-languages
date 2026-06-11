@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كيتوبا
     auto: true
+  - translation_iso: ben
+    name: কিতুবা
+    auto: true
   - translation_iso: deu
     name: Kituba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kituba
   - translation_iso: hin
     name: कितुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kituba
     auto: true
   - translation_iso: jpn
     name: キトゥバ語

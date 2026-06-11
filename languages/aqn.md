@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ألتا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন আলতা
+    auto: true
   - translation_iso: deu
     name: Nord-Alta
     auto: true

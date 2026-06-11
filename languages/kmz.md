@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: खुरासानी तुर्की
     auto: true
+  - translation_iso: ind
+    name: Bahasa Khorasani Turkish
+    auto: true
   - translation_iso: jpn
     name: ホラサン・トルコ語
   - translation_iso: kor

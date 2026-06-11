@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: ताय बोई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tay Boi
+    auto: true
   - translation_iso: jpn
     name: タイ・ボイ語
     auto: true

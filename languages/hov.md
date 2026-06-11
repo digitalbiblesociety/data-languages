@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هوفونغان
     auto: true
+  - translation_iso: ben
+    name: হোভোঙান
+    auto: true
   - translation_iso: deu
     name: Hovongan
     auto: true

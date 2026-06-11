@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أسمات الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল আসমাত
+    auto: true
   - translation_iso: deu
     name: Zentrales Asmat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: asmat central
   - translation_iso: hin
     name: मध्य अस्मात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Asmat
     auto: true
   - translation_iso: jpn
     name: セントラル・アスマット語

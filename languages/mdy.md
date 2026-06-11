@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميل الإثيوبية
     auto: true
+  - translation_iso: ben
+    name: মালে
+    auto: true
   - translation_iso: deu
     name: Male (Ethiopia)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maale
   - translation_iso: hin
     name: माले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Male
     auto: true
   - translation_iso: jpn
     name: マレ語

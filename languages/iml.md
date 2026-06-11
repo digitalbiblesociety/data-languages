@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميلوك
     auto: true
+  - translation_iso: ben
+    name: মিলুক
+    auto: true
   - translation_iso: deu
     name: Miluk
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miluk
   - translation_iso: hin
     name: मिलुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miluk
     auto: true
   - translation_iso: jpn
     name: ミルク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيلي
     auto: true
+  - translation_iso: ben
+    name: কেলে
+    auto: true
   - translation_iso: deu
     name: Kele (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kele
   - translation_iso: hin
     name: केले (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kele
     auto: true
   - translation_iso: jpn
     name: ゲレ語

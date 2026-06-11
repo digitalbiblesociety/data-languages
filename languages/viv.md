@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيدونا
     auto: true
+  - translation_iso: ben
+    name: ইদুনা
+    auto: true
   - translation_iso: deu
     name: Iduna
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इदुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iduna
     auto: true
   - translation_iso: jpn
     name: ヴィヴィガニ語

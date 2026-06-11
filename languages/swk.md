@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سينا ملاوي
     auto: true
+  - translation_iso: ben
+    name: মালাওয়ি সেনা
+    auto: true
   - translation_iso: deu
     name: Malawi Sena
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sena du Malawi
   - translation_iso: hin
     name: मलावी सेना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malawi Sena
     auto: true
   - translation_iso: jpn
     name: マラウイ・セナ語

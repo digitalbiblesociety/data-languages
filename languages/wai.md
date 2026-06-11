@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وارز
     auto: true
+  - translation_iso: ben
+    name: ওয়ারেস
+    auto: true
   - translation_iso: deu
     name: Wares
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wares
   - translation_iso: hin
     name: वारेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wares
     auto: true
   - translation_iso: jpn
     name: ワレス語

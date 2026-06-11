@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيبسان
     auto: true
+  - translation_iso: ben
+    name: নিপসান
+    auto: true
   - translation_iso: deu
     name: Nipsan
     auto: true

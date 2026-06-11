@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبولوم
     auto: true
+  - translation_iso: ben
+    name: ওবুলোম
+    auto: true
   - translation_iso: deu
     name: Obulom
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: obulom
   - translation_iso: hin
     name: ओबुलोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Obulom
     auto: true
   - translation_iso: jpn
     name: オブロム語

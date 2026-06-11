@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Guanche_language"
 translations:
   - translation_iso: ara
     name: لغة غوانش
+  - translation_iso: ben
+    name: গুয়ানচে
+    auto: true
   - translation_iso: deu
     name: Guanche
   - translation_iso: fra

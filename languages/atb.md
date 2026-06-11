@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زايوا
     auto: true
+  - translation_iso: ben
+    name: জাইওয়া
+    auto: true
   - translation_iso: deu
     name: Zaiwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zaiwa
   - translation_iso: hin
     name: ज़ाइवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zaiwa
     auto: true
   - translation_iso: jpn
     name: 載瓦語

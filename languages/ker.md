@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيرا
     auto: true
+  - translation_iso: ben
+    name: কেরা
+    auto: true
   - translation_iso: deu
     name: Kera
   - translation_iso: fra

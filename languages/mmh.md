@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة محيناكو
     auto: true
+  - translation_iso: ben
+    name: মেহিনাকু
+    auto: true
   - translation_iso: deu
     name: Mehináku
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mehinaku
   - translation_iso: hin
     name: मेहिनाकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mehináku
     auto: true
   - translation_iso: jpn
     name: メイナク語

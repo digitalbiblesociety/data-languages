@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: औ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Au
+    auto: true
   - translation_iso: jpn
     name: アウ語
     auto: true

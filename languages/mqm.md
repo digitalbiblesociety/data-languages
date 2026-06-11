@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماركيزان الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ মারকুএসান
+    auto: true
   - translation_iso: deu
     name: Südmarquesanisch
   - translation_iso: fra
     name: marquisien du Sud
   - translation_iso: hin
     name: दक्षिणी मार्केसन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Marquesan
     auto: true
   - translation_iso: jpn
     name: 南マルキーズ語

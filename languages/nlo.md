@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نغول
     auto: true
+  - translation_iso: ben
+    name: ঙুল
+    auto: true
   - translation_iso: deu
     name: Ngul
   - translation_iso: fra
     name: ngwi
   - translation_iso: hin
     name: न्गुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngul
     auto: true
   - translation_iso: jpn
     name: ングル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنوان
     auto: true
+  - translation_iso: ben
+    name: এনওয়ান
+    auto: true
   - translation_iso: deu
     name: Enwan (Edu State)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: enwan
   - translation_iso: hin
     name: एनवान (एडु राज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enwan
     auto: true
   - translation_iso: jpn
     name: エンワン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نافري
     auto: true
+  - translation_iso: ben
+    name: নাফরি
+    auto: true
   - translation_iso: deu
     name: Nafri
     auto: true

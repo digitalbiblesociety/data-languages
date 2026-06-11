@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبولا بوازا
     auto: true
+  - translation_iso: ben
+    name: মবুলা-বওয়াজ্জা
+    auto: true
   - translation_iso: deu
     name: Mbula-Bwazza
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: म्बुला-ब्वाज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbula-Bwazza
     auto: true
   - translation_iso: jpn
     name: ムブラ・ブワッザ語

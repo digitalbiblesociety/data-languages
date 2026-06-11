@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميد جراند فالي داني
     auto: true
+  - translation_iso: ben
+    name: মিদ গরানদ ভাল্লেয় দানি
+    auto: true
   - translation_iso: deu
     name: Mid Grand Valley Dani
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मध्य ग्रैंड वैली दानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mid Grand Valley Dani
     auto: true
   - translation_iso: jpn
     name: ミッド・グランド・ヴァレー・ダニ語

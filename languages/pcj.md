@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باريغا
     auto: true
+  - translation_iso: ben
+    name: পারেঙা
+    auto: true
   - translation_iso: deu
     name: Parenga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gorum
   - translation_iso: hin
     name: गोरुम भाषा
+  - translation_iso: ind
+    name: Bahasa Parenga
+    auto: true
   - translation_iso: jpn
     name: パレンガ語
   - translation_iso: kor

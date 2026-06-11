@@ -25,6 +25,9 @@ translations:
   - translation_iso: hin
     name: शुआदित
     auto: true
+  - translation_iso: ind
+    name: Bahasa Shuadit
+    auto: true
   - translation_iso: jpn
     name: シュアディート
   - translation_iso: kor

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एहुयून
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ehueun
+    auto: true
   - translation_iso: jpn
     name: エフエウン語
     auto: true

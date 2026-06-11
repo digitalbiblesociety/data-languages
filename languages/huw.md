@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هوكومينا
     auto: true
+  - translation_iso: ben
+    name: হুকুমিনা
+    auto: true
   - translation_iso: deu
     name: Hukumina
   - translation_iso: fra

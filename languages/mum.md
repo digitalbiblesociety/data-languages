@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوالا
     auto: true
+  - translation_iso: ben
+    name: মাইওয়ালা
+    auto: true
   - translation_iso: deu
     name: Maiwala
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माइवाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maiwala
     auto: true
   - translation_iso: jpn
     name: マイワラ語

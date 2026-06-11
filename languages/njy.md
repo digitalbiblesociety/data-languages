@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجيم
     auto: true
+  - translation_iso: ben
+    name: নজয়েম
+    auto: true
   - translation_iso: deu
     name: Njyem
   - translation_iso: fra
     name: ndjem
   - translation_iso: hin
     name: न्ज्येम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Njyem
     auto: true
   - translation_iso: jpn
     name: ンジェム語

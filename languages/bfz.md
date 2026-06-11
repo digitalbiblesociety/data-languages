@@ -29,6 +29,9 @@ translations:
     name: pahari mahasu
   - translation_iso: hin
     name: महासु पहाड़ी
+  - translation_iso: ind
+    name: Bahasa Mahasu Pahari
+    auto: true
   - translation_iso: jpn
     name: マハス・パハリー語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة تايكات
     auto: true
+  - translation_iso: ben
+    name: তাইকাত
+    auto: true
   - translation_iso: deu
     name: Taikat
     auto: true

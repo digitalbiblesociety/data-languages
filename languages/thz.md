@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: तायार्त तामाजेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tayart Tamajeq
+    auto: true
   - translation_iso: jpn
     name: タヤルト・タマジェク語
   - translation_iso: kor

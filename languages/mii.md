@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشيجمكاتيتلان
     auto: true
+  - translation_iso: ben
+    name: চিগমেকাতিতলান মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Chigmecatitlán Mixtec
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चिग्मेकातित्लान मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chigmecatitlán Mixtec
     auto: true
   - translation_iso: jpn
     name: チグメカティトラン・ミステク語

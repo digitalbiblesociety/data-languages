@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوكويه
     auto: true
+  - translation_iso: ben
+    name: উকুএ
+    auto: true
   - translation_iso: deu
     name: Ukue
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उकुए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukue
     auto: true
   - translation_iso: jpn
     name: エクペンメン語

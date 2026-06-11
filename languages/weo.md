@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويمالي
     auto: true
+  - translation_iso: ben
+    name: ওয়েমালে
+    auto: true
   - translation_iso: deu
     name: Wemale
     auto: true

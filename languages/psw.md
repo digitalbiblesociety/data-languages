@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورت ساندويتش
     auto: true
+  - translation_iso: ben
+    name: পোরত সানদওয়িচ
+    auto: true
   - translation_iso: deu
     name: Port Sandwich
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: port-sandwich
   - translation_iso: hin
     name: पोर्ट सैंडविच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Port Sandwich
     auto: true
   - translation_iso: jpn
     name: ポートサンドウィッチ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناواثينيهينا
     auto: true
+  - translation_iso: ben
+    name: নাওয়াথিনেহেনা
+    auto: true
   - translation_iso: deu
     name: Nawathinehena
     auto: true

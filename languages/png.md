@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بونجو
     auto: true
+  - translation_iso: ben
+    name: পোঙু
+    auto: true
   - translation_iso: deu
     name: Pongu
   - translation_iso: fra
     name: pongu
   - translation_iso: hin
     name: पोंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pongu
     auto: true
   - translation_iso: jpn
     name: ポング語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اللاوية
     auto: true
+  - translation_iso: ben
+    name: লাওস সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Laotische Gebärdensprache
     auto: true

@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: لغة يكي-االي
     auto: true
+  - translation_iso: ben
+    name: তেকে-লালি
+    auto: true
   - translation_iso: deu
     name: Teke-Laali
   - translation_iso: fra
     name: teke-laali
   - translation_iso: hin
     name: तेके-लाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Laali
     auto: true
   - translation_iso: jpn
     name: テケ・ラアリ語

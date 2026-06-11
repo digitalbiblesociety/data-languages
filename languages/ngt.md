@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كريانج
     auto: true
+  - translation_iso: ben
+    name: করিয়াং
+    auto: true
   - translation_iso: deu
     name: Kriang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kriang
   - translation_iso: hin
     name: क्रियांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kriang
     auto: true
   - translation_iso: jpn
     name: クリアン語

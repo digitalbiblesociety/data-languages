@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كامباتا
     auto: true
+  - translation_iso: ben
+    name: কামবাতা
+    auto: true
   - translation_iso: deu
     name: Kambaata
   - translation_iso: fra
     name: timbaro
   - translation_iso: hin
     name: कम्बाता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kambaata
     auto: true
   - translation_iso: jpn
     name: カンバータ語

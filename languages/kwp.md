@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوديا
     auto: true
+  - translation_iso: ben
+    name: কোদিয়া
+    auto: true
   - translation_iso: deu
     name: Kodia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kodia
   - translation_iso: hin
     name: कोडिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kodia
     auto: true
   - translation_iso: jpn
     name: コディア語

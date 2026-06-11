@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كورامة
     auto: true
+  - translation_iso: ben
+    name: কুরামা
+    auto: true
   - translation_iso: deu
     name: Kurama
   - translation_iso: fra
     name: kurama
   - translation_iso: hin
     name: कुरामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kurama
     auto: true
   - translation_iso: jpn
     name: クラマ語

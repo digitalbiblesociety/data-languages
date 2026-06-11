@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولوواتسي
     auto: true
+  - translation_iso: ben
+    name: পুলুওয়াতেসে
+    auto: true
   - translation_iso: deu
     name: Puluwatesisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيرناتينو
     auto: true
+  - translation_iso: ben
+    name: তেরনাতেনয়ো
+    auto: true
   - translation_iso: deu
     name: Ternateño
     auto: true

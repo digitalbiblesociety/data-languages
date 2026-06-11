@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهايفونج
     auto: true
+  - translation_iso: ben
+    name: হাইফোং সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Haiphong-Gebärdensprache
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue des signes de Haiphong
   - translation_iso: hin
     name: हाइफोंग सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haiphong Sign Language
     auto: true
   - translation_iso: jpn
     name: ハイフォン手話

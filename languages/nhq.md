@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هواكسكاليكا ناهواتل
     auto: true
+  - translation_iso: ben
+    name: হুয়াকসকালেকা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Huaxcaleca-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de Huaxcaleca
   - translation_iso: hin
     name: हुआक्सकालेका नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huaxcaleca Nahuatl
     auto: true
   - translation_iso: jpn
     name: ワクスカレカ・ナワトル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليانجمي ناجا
     auto: true
+  - translation_iso: ben
+    name: লিয়াংমাই নাগা
+    auto: true
   - translation_iso: deu
     name: Liangmai-Naga
     auto: true

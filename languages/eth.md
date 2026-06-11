@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: इथियोपियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ethiopian Sign Language
+    auto: true
   - translation_iso: jpn
     name: エチオピア手話
   - translation_iso: kor

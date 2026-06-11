@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كويا
     auto: true
+  - translation_iso: ben
+    name: কোয়া
+    auto: true
   - translation_iso: deu
     name: Koya
   - translation_iso: fra
     name: koya
   - translation_iso: hin
     name: कोया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koya
     auto: true
   - translation_iso: jpn
     name: コーヤ語

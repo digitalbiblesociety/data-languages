@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بوروماكوك
     auto: true
+  - translation_iso: ben
+    name: বুরুমাকোক
+    auto: true
   - translation_iso: deu
     name: Burumakok
     auto: true

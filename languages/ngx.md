@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نججواهيا
     auto: true
+  - translation_iso: ben
+    name: ংগওয়াহয়ি
+    auto: true
   - translation_iso: deu
     name: Nggwahyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nggwahyi
   - translation_iso: hin
     name: न्ग्वाह्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nggwahyi
     auto: true
   - translation_iso: jpn
     name: ングワイ語

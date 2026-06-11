@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كاندي
     auto: true
+  - translation_iso: ben
+    name: কানদে
+    auto: true
   - translation_iso: deu
     name: Kande
   - translation_iso: fra
     name: kande
   - translation_iso: hin
     name: कांडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kande
     auto: true
   - translation_iso: jpn
     name: カンデ語

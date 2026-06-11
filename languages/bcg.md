@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة باجا بوكور
     auto: true
+  - translation_iso: ben
+    name: বাগা পোকুর
+    auto: true
   - translation_iso: deu
     name: Binari
   - translation_iso: fra
     name: pukur
   - translation_iso: hin
     name: बागा पोकुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Baga Pokur
     auto: true
   - translation_iso: jpn
     name: プクル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوسنر
     auto: true
+  - translation_iso: ben
+    name: দুসনের
+    auto: true
   - translation_iso: deu
     name: Dusner
     auto: true

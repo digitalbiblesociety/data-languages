@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جودوف-جافا
     auto: true
+  - translation_iso: ben
+    name: গুদুফ-গাভা
+    auto: true
   - translation_iso: deu
     name: Guduf-Gava
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guduf-Gava
   - translation_iso: hin
     name: गुडुफ-गावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guduf-Gava
     auto: true
   - translation_iso: jpn
     name: グドゥフ・ガヴァ語

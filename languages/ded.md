@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ديدوا
     auto: true
+  - translation_iso: ben
+    name: দেদুয়া
+    auto: true
   - translation_iso: deu
     name: Dedua
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: देदुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dedua
     auto: true
   - translation_iso: jpn
     name: デドゥア語

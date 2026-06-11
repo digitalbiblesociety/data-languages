@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ابراس
     auto: true
+  - translation_iso: ben
+    name: কাবরাস
+    auto: true
   - translation_iso: deu
     name: Kabras
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lukabaras
   - translation_iso: hin
     name: कब्रास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kabras
     auto: true
   - translation_iso: jpn
     name: カブラス語

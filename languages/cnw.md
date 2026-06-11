@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغاون تشين
     auto: true
+  - translation_iso: ben
+    name: ঙাওয়ন চিন
+    auto: true
   - translation_iso: deu
     name: Ngawn-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गावन चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngawn Chin
     auto: true
   - translation_iso: jpn
     name: ンガウン・チン語

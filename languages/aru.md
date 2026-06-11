@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aruá
+    auto: true
   - translation_iso: jpn
     name: アラワ語
   - translation_iso: kor

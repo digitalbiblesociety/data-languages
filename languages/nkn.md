@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نكانغالا
     auto: true
+  - translation_iso: ben
+    name: নকাঙালা
+    auto: true
   - translation_iso: deu
     name: Nkangala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nkangala
   - translation_iso: hin
     name: नकांगाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkangala
     auto: true
   - translation_iso: jpn
     name: ンカンガラ語

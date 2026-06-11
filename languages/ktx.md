@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاكسارري
     auto: true
+  - translation_iso: ben
+    name: কাকসারারি
+    auto: true
   - translation_iso: deu
     name: Kaxararí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaxararí
   - translation_iso: hin
     name: काशरारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaxararí
     auto: true
   - translation_iso: jpn
     name: カシャラリ語

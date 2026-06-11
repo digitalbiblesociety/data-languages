@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بي
     auto: true
+  - translation_iso: ben
+    name: পেই
+    auto: true
   - translation_iso: deu
     name: Pei
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pei
   - translation_iso: hin
     name: पेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pei
     auto: true
   - translation_iso: jpn
     name: ペイ語

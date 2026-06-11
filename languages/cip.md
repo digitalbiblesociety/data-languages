@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيابانك
     auto: true
+  - translation_iso: ben
+    name: চিয়াপানেক
+    auto: true
   - translation_iso: deu
     name: Chiapanekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chiapanèque
   - translation_iso: hin
     name: चियापानेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chiapanec
     auto: true
   - translation_iso: jpn
     name: チアパネック語

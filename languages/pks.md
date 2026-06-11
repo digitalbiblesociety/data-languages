@@ -28,6 +28,9 @@ translations:
     name: langue des signes pakistanaise
   - translation_iso: hin
     name: पाकिसतान इशारा
+  - translation_iso: ind
+    name: Bahasa Pakistan Sign Language
+    auto: true
   - translation_iso: jpn
     name: パキスタン手話
   - translation_iso: kor

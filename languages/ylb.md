@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة يالبا
     auto: true
+  - translation_iso: ben
+    name: য়ালেবা
+    auto: true
   - translation_iso: deu
     name: Yaleba
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: yaleba
   - translation_iso: hin
     name: यालेबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaleba
     auto: true
   - translation_iso: jpn
     name: ヤレバ語

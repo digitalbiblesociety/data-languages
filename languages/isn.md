@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيسانزو
     auto: true
+  - translation_iso: ben
+    name: ইসানজু
+    auto: true
   - translation_iso: deu
     name: Isanzu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: isanzu
   - translation_iso: hin
     name: इसांज़ू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isanzu
     auto: true
   - translation_iso: jpn
     name: イサンズ語

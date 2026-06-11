@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة مانغير
     auto: true
+  - translation_iso: ben
+    name: মাঙের্র
+    auto: true
   - translation_iso: deu
     name: Mangerr
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mangerr
   - translation_iso: hin
     name: मांगेर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangerr
     auto: true
   - translation_iso: jpn
     name: マンゲル語

@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: الإيبوغو
     auto: true
+  - translation_iso: ben
+    name: এবুঘু
+    auto: true
   - translation_iso: deu
     name: Ebughu
   - translation_iso: fra
     name: ebughu
   - translation_iso: hin
     name: एबुघु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ebughu
     auto: true
   - translation_iso: jpn
     name: エブグ語

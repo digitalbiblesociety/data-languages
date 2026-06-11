@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيزي
     auto: true
+  - translation_iso: ben
+    name: সেজে
+    auto: true
   - translation_iso: deu
     name: Seze
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: seze
   - translation_iso: hin
     name: सेज़े
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seze
     auto: true
   - translation_iso: jpn
     name: セゼ語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سارسيرا
     auto: true
+  - translation_iso: ben
+    name: সারাসিরা
+    auto: true
   - translation_iso: deu
     name: Sarasira
   - translation_iso: fra
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सरसिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sarasira
     auto: true
   - translation_iso: jpn
     name: サラシラ語

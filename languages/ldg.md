@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لينيما
     auto: true
+  - translation_iso: ben
+    name: লেনয়িমা
+    auto: true
   - translation_iso: deu
     name: Lenyima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyima
   - translation_iso: hin
     name: लेनयिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lenyima
     auto: true
   - translation_iso: jpn
     name: レニマ語

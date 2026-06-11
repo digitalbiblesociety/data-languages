@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كآموإ
     auto: true
+  - translation_iso: ben
+    name: কামওয়ে
+    auto: true
   - translation_iso: deu
     name: Kamwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kamwe
   - translation_iso: hin
     name: काम्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamwe
     auto: true
   - translation_iso: jpn
     name: カムウェ語

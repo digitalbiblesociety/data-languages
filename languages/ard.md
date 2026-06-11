@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अराबाना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arabana
+    auto: true
   - translation_iso: jpn
     name: アラバナ語
   - translation_iso: kor

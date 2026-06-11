@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يووتوبي
     auto: true
+  - translation_iso: ben
+    name: লেওয়োতোবি
+    auto: true
   - translation_iso: deu
     name: Lewotobi
   - translation_iso: fra

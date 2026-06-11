@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاوويرا
     auto: true
+  - translation_iso: ben
+    name: কাউওয়েরা
+    auto: true
   - translation_iso: deu
     name: Kauwera
     auto: true

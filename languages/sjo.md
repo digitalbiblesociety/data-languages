@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكسيبية
     auto: true
+  - translation_iso: ben
+    name: কসিবে
+    auto: true
   - translation_iso: deu
     name: Xibenisch
   - translation_iso: fra

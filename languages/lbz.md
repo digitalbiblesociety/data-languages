@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاردل
     auto: true
+  - translation_iso: ben
+    name: লারদিল
+    auto: true
   - translation_iso: deu
     name: Lardil
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lardil
   - translation_iso: hin
     name: लार्डिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lardil
     auto: true
   - translation_iso: jpn
     name: ラルディル語

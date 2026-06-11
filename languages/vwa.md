@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आवा (चीन)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awa
+    auto: true
   - translation_iso: jpn
     name: アワ語
   - translation_iso: kor

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Beba
+    auto: true
   - translation_iso: jpn
     name: ベバ語
     auto: true

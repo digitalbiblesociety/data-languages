@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توبا ماسكوي
     auto: true
+  - translation_iso: ben
+    name: তোবা-মাসকোয়
+    auto: true
   - translation_iso: deu
     name: Toba-Maskoy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: toba mascoy
   - translation_iso: hin
     name: तोबा-मास्कोय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toba-Maskoy
     auto: true
   - translation_iso: jpn
     name: マスコイ語

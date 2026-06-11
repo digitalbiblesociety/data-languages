@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيجاو
     auto: true
+  - translation_iso: ben
+    name: পিজাও
+    auto: true
   - translation_iso: deu
     name: Pijao
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पिहाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pijao
     auto: true
   - translation_iso: jpn
     name: ピハオ語

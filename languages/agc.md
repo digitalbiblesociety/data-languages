@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अगातु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agatu
+    auto: true
   - translation_iso: jpn
     name: アガトゥ語
     auto: true

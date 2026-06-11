@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كويريسا
     auto: true
+  - translation_iso: ben
+    name: কওয়েরিসা
+    auto: true
   - translation_iso: deu
     name: Kwerisa
     auto: true

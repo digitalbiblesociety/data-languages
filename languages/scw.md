@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شا
     auto: true
+  - translation_iso: ben
+    name: শা
+    auto: true
   - translation_iso: deu
     name: Sha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sha
   - translation_iso: hin
     name: शा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sha
     auto: true
   - translation_iso: jpn
     name: シャ語

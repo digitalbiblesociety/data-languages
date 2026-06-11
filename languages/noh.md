@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوموا
     auto: true
+  - translation_iso: ben
+    name: নোমু
+    auto: true
   - translation_iso: deu
     name: Nomu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नोमु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nomu
     auto: true
   - translation_iso: jpn
     name: ノム語

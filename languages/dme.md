@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوجوور
     auto: true
+  - translation_iso: ben
+    name: দুগওয়োর
+    auto: true
   - translation_iso: deu
     name: Dugwor
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dugvor
   - translation_iso: hin
     name: दुगवोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dugwor
     auto: true
   - translation_iso: jpn
     name: ドゥグウォル語

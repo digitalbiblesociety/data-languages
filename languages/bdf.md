@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बियागे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biage
+    auto: true
   - translation_iso: jpn
     name: ビアゲ語
     auto: true

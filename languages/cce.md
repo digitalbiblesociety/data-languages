@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الشوبي
     auto: true
+  - translation_iso: ben
+    name: চোপি
+    auto: true
   - translation_iso: deu
     name: Chopi
   - translation_iso: fra
     name: chopi
   - translation_iso: hin
     name: चोपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chopi
     auto: true
   - translation_iso: jpn
     name: チョピ語

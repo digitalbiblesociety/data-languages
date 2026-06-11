@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هاريجان كيناوري
     auto: true
+  - translation_iso: ben
+    name: হারিজান কিন্নাউরি
+    auto: true
   - translation_iso: deu
     name: Harijan-Kinnauri
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: harijan kinnauri language
+  - translation_iso: ind
+    name: Bahasa Harijan Kinnauri
+    auto: true
   - translation_iso: jpn
     name: ハリジャン・キナウル語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كامبيرا
     auto: true
+  - translation_iso: ben
+    name: কামবেরা
+    auto: true
   - translation_iso: deu
     name: Kambera
   - translation_iso: fra

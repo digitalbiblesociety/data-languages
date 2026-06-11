@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جورا
     auto: true
+  - translation_iso: ben
+    name: জোরা
+    auto: true
   - translation_iso: deu
     name: Jorá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jorá
   - translation_iso: hin
     name: जोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jorá
     auto: true
   - translation_iso: jpn
     name: ジョラ語

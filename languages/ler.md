@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينكاو
     auto: true
+  - translation_iso: ben
+    name: লেনকাউ
+    auto: true
   - translation_iso: deu
     name: Lenkau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lenkau
   - translation_iso: hin
     name: लेनकाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lenkau
     auto: true
   - translation_iso: jpn
     name: レンカウ語

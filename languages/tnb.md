@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توني بو الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন তুনেবো
+    auto: true
   - translation_iso: deu
     name: Westliches Tunebo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "tunebo de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी तुनेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Tunebo
     auto: true
   - translation_iso: jpn
     name: 西部トゥネボ語

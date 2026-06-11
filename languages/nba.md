@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييمبا
     auto: true
+  - translation_iso: ben
+    name: নয়েমবা
+    auto: true
   - translation_iso: deu
     name: Nyemba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyemba
   - translation_iso: hin
     name: न्येम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyemba
     auto: true
   - translation_iso: jpn
     name: ニエンバ語

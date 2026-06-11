@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: بهيد
     auto: true
+  - translation_iso: ben
+    name: বুহিদ
+    auto: true
   - translation_iso: deu
     name: Buid
   - translation_iso: fra

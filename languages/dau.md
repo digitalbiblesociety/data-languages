@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داجو دار سيلا
     auto: true
+  - translation_iso: ben
+    name: দার সিলা দাজু
+    auto: true
   - translation_iso: deu
     name: Dar-Sila-Daju
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sila
   - translation_iso: hin
     name: दार सिला दाजू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dar Sila Daju
     auto: true
   - translation_iso: jpn
     name: ダル・シラ・ダジュ語

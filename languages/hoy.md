@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوليا
     auto: true
+  - translation_iso: ben
+    name: হোলিয়া
+    auto: true
   - translation_iso: deu
     name: Holiya
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: होलिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Holiya
     auto: true
   - translation_iso: jpn
     name: ホリヤ語

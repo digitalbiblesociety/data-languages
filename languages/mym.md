@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مي إن
     auto: true
+  - translation_iso: ben
+    name: মেন
+    auto: true
   - translation_iso: deu
     name: "Me'en"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "me'en"
   - translation_iso: hin
     name: मेएन
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Me'en"
     auto: true
   - translation_iso: jpn
     name: メエン語

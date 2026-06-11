@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: अरुतानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arutani
+    auto: true
   - translation_iso: jpn
     name: アルタニ語
     auto: true

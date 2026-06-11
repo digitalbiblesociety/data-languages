@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: باي الجنوبي
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন বাই
+    auto: true
   - translation_iso: deu
     name: Southern Bai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bai méridional
   - translation_iso: hin
     name: दक्षिणी बाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Bai
     auto: true
   - translation_iso: jpn
     name: 南バイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة دونج الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন দোং
+    auto: true
   - translation_iso: deu
     name: Dong
   - translation_iso: fra

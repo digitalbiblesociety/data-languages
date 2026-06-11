@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مايندو
     auto: true
+  - translation_iso: ben
+    name: মাইনদো
+    auto: true
   - translation_iso: deu
     name: Maindo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माइन्दो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maindo
     auto: true
   - translation_iso: jpn
     name: マインド語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एक्योम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aekyom
+    auto: true
   - translation_iso: jpn
     name: アエキヨム語
     auto: true

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: مايي-يابي
     auto: true
+  - translation_iso: ben
+    name: মায়ি-য়াপি
+    auto: true
   - translation_iso: deu
     name: Mayi-Yapi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: mayi-yapi
   - translation_iso: hin
     name: मायी-यापी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayi-Yapi
     auto: true
   - translation_iso: jpn
     name: マイイ・ヤピ語

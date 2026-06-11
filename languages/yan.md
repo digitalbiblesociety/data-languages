@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مايانجنا
     auto: true
+  - translation_iso: ben
+    name: মায়াংনা
+    auto: true
   - translation_iso: deu
     name: Mayangna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mayangna
   - translation_iso: hin
     name: मायांगना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayangna
     auto: true
   - translation_iso: jpn
     name: マヤングナ語

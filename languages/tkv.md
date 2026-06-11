@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مور بانو
     auto: true
+  - translation_iso: ben
+    name: মুর পানো
+    auto: true
   - translation_iso: deu
     name: Mur Pano
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mur pano
   - translation_iso: hin
     name: मुर पानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mur Pano
     auto: true
   - translation_iso: jpn
     name: ムル・パノ語

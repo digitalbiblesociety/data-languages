@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة ووته ينترال اندا
     auto: true
+  - translation_iso: ben
+    name: সোউথ কেনতরাল বানদা
+    auto: true
   - translation_iso: deu
     name: Südzentral-Banda
   - translation_iso: fra
     name: banda central du Sud
   - translation_iso: hin
     name: दक्षिण मध्य बांदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Central Banda
     auto: true
   - translation_iso: jpn
     name: サウス・セントラル・バンダ語

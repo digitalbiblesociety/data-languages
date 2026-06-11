@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ناكي
     auto: true
+  - translation_iso: ben
+    name: নাকি
+    auto: true
   - translation_iso: deu
     name: Naki
   - translation_iso: fra
     name: naki
   - translation_iso: hin
     name: नाकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Naki
     auto: true
   - translation_iso: jpn
     name: ナキ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندي نسيلي نتا
     auto: true
+  - translation_iso: ben
+    name: নদে-নসেলে-নতা
+    auto: true
   - translation_iso: deu
     name: Nde-Nsele-Nta
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्दे-न्सेले-न्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nde-Nsele-Nta
     auto: true
   - translation_iso: jpn
     name: ンデ・ンセレ・ンタ語

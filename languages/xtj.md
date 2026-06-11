@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سان خوان تيتا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: সান জুয়ান তেইতা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: San-Juan-Teita-Mixtekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सान जुआन तेइता मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Juan Teita Mixtec
     auto: true
   - translation_iso: jpn
     name: サンファン・テイタ・ミステク語

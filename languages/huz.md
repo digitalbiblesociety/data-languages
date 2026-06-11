@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هونزب
     auto: true
+  - translation_iso: ben
+    name: হুনজিব
+    auto: true
   - translation_iso: deu
     name: Hunzib
     auto: true

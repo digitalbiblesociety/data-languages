@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إينثا
     auto: true
+  - translation_iso: ben
+    name: ইনথা
+    auto: true
   - translation_iso: deu
     name: Intha
     auto: true

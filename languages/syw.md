@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاغاتي
     auto: true
+  - translation_iso: ben
+    name: কাগাতে
+    auto: true
   - translation_iso: deu
     name: Kagate
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kagate
   - translation_iso: hin
     name: कागाते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kagate
     auto: true
   - translation_iso: jpn
     name: カゲート語

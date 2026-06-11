@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موسيمو
     auto: true
+  - translation_iso: ben
+    name: মোসিমো
+    auto: true
   - translation_iso: deu
     name: Mosimo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mosimo
   - translation_iso: hin
     name: मोसिमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mosimo
     auto: true
   - translation_iso: jpn
     name: モシモ語

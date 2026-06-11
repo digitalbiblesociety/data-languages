@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باي الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল বাই
+    auto: true
   - translation_iso: deu
     name: Zentral-Bai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bai central
   - translation_iso: hin
     name: मध्य बाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Bai
     auto: true
   - translation_iso: jpn
     name: 中央バイ語

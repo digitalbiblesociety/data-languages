@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واناپ
     auto: true
+  - translation_iso: ben
+    name: ওয়ানাপ
+    auto: true
   - translation_iso: deu
     name: Wanap
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wanap
   - translation_iso: hin
     name: वानाप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanap
     auto: true
   - translation_iso: jpn
     name: ワナプ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة لاي
     auto: true
+  - translation_iso: ben
+    name: হলাই
+    auto: true
   - translation_iso: deu
     name: Hlai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hlaï
   - translation_iso: hin
     name: ह्लाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hlai
     auto: true
   - translation_iso: jpn
     name: リー語

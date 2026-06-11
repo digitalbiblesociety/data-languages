@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बास्केटो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Basketo
+    auto: true
   - translation_iso: jpn
     name: バスケト語
   - translation_iso: kor

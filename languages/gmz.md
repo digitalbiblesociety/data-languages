@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مغبوليزهيآ
     auto: true
+  - translation_iso: ben
+    name: মগবোলিঝিয়া
+    auto: true
   - translation_iso: deu
     name: Mgbolizhia
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: म्ग्बोलिझिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mgbolizhia
     auto: true
   - translation_iso: jpn
     name: ムボリジア語

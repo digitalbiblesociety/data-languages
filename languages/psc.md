@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الفارسية
     auto: true
+  - translation_iso: ben
+    name: পেরসিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Iranische Gebärdensprache
   - translation_iso: fra
     name: langue des signes perse
   - translation_iso: hin
     name: ईरानी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Persian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ペルシャ手話
   - translation_iso: kor

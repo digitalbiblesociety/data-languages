@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوك
     auto: true
+  - translation_iso: ben
+    name: য়োকে
+    auto: true
   - translation_iso: deu
     name: Yoke
     auto: true

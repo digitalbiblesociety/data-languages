@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة اورينتيان
     auto: true
+  - translation_iso: ben
+    name: লাউরেনতিয়ান
+    auto: true
   - translation_iso: deu
     name: Laurentisch
   - translation_iso: fra
     name: laurentien
   - translation_iso: hin
     name: लॉरेंशियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laurentian
     auto: true
   - translation_iso: jpn
     name: ローレンシャン語

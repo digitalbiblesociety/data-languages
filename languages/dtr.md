@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوتود
     auto: true
+  - translation_iso: ben
+    name: লোতুদ
+    auto: true
   - translation_iso: deu
     name: Lotud
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lotud
   - translation_iso: hin
     name: लोतुद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lotud
     auto: true
   - translation_iso: jpn
     name: ロトゥッド語

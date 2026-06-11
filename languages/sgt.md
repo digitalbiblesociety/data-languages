@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بروكباكي
     auto: true
+  - translation_iso: ben
+    name: বরোকপাকে
+    auto: true
   - translation_iso: deu
     name: Brokpake
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: brokpake
   - translation_iso: hin
     name: ब्रोकपाके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Brokpake
     auto: true
   - translation_iso: jpn
     name: メラ・サクテン語

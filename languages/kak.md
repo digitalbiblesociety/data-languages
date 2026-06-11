@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كالانغويا
     auto: true
+  - translation_iso: ben
+    name: কালাঙুয়া
+    auto: true
   - translation_iso: deu
     name: Kalanguya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kallahan de kayapa
   - translation_iso: hin
     name: कलंगुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalanguya
     auto: true
   - translation_iso: jpn
     name: カランギャ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كامانو
     auto: true
+  - translation_iso: ben
+    name: কামানো
+    auto: true
   - translation_iso: deu
     name: Kamano
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kamano
   - translation_iso: hin
     name: कामानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamano
     auto: true
   - translation_iso: jpn
     name: カマノ語

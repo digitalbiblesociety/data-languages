@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة غواك
     auto: true
+  - translation_iso: ben
+    name: গওয়াক
+    auto: true
   - translation_iso: deu
     name: Gwak
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: gwak
   - translation_iso: hin
     name: ग्वाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gwak
     auto: true
   - translation_iso: jpn
     name: グワク語

@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كاروك
     auto: true
+  - translation_iso: ben
+    name: কারোক
+    auto: true
   - translation_iso: deu
     name: Karok
   - translation_iso: fra
     name: karuk
   - translation_iso: hin
     name: कारोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karok
     auto: true
   - translation_iso: jpn
     name: キャロック語

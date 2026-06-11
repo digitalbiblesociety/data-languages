@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موبا
     auto: true
+  - translation_iso: ben
+    name: মভুবা
+    auto: true
   - translation_iso: deu
     name: Mvuba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mvuba
   - translation_iso: hin
     name: म्वुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mvuba
     auto: true
   - translation_iso: jpn
     name: ムヴバ語

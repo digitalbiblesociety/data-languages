@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: गिबेरुआ बेते
     auto: true
+  - translation_iso: ind
+    name: Bahasa Guiberoua Béte
+    auto: true
   - translation_iso: jpn
     name: ギベルア・ベテ語
     auto: true

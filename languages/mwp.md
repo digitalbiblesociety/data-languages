@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالا لاجاو يا
     auto: true
+  - translation_iso: ben
+    name: কালা লাগাওয় য়া
+    auto: true
   - translation_iso: deu
     name: Kala Lagaw Ya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kala lagaw ya
   - translation_iso: hin
     name: काला लागाव या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kala Lagaw Ya
     auto: true
   - translation_iso: jpn
     name: カラ・ラガウ・ヤ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيساواي
     auto: true
+  - translation_iso: ben
+    name: কেসাওয়াই
+    auto: true
   - translation_iso: deu
     name: Kesawai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kesawai
   - translation_iso: hin
     name: केसावाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kesawai
     auto: true
   - translation_iso: jpn
     name: ケサワイ語

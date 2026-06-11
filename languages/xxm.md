@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مينكين
     auto: true
+  - translation_iso: ben
+    name: মিনকিন
+    auto: true
   - translation_iso: deu
     name: Minkin
     auto: true
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिंकिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minkin
     auto: true
   - translation_iso: jpn
     name: ミンキン語

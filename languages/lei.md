@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يميو
     auto: true
+  - translation_iso: ben
+    name: লেমিও
+    auto: true
   - translation_iso: deu
     name: Lemio
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेमियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lemio
     auto: true
   - translation_iso: jpn
     name: レミオ語

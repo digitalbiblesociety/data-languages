@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موييو
     auto: true
+  - translation_iso: ben
+    name: মুয়ুওয়
+    auto: true
   - translation_iso: deu
     name: Muyuw
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुयुव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muyuw
     auto: true
   - translation_iso: jpn
     name: ムユウ語

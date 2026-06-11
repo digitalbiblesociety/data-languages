@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالوان
     auto: true
+  - translation_iso: ben
+    name: পালুয়ান
+    auto: true
   - translation_iso: deu
     name: Paluan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पालुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paluan
     auto: true
   - translation_iso: jpn
     name: パルアン語

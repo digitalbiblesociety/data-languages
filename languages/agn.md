@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अगुटायनेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agutaynen
+    auto: true
   - translation_iso: jpn
     name: アグタイネン語
     auto: true

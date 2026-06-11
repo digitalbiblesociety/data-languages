@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ولودا
     auto: true
+  - translation_iso: ben
+    name: লোলোদা
+    auto: true
   - translation_iso: deu
     name: Loloda
     auto: true

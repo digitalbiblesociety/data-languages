@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيموهي
     auto: true
+  - translation_iso: ben
+    name: কেমুহি
+    auto: true
   - translation_iso: deu
     name: Cemuhî
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cèmuhî
   - translation_iso: hin
     name: सेमुही
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cemuhî
     auto: true
   - translation_iso: jpn
     name: チェムヒン語

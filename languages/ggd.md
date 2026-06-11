@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوغآدج
     auto: true
+  - translation_iso: ben
+    name: গুগাদজ
+    auto: true
   - translation_iso: deu
     name: Gugadj
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gugadj
   - translation_iso: hin
     name: गुगाज
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gugadj
     auto: true
   - translation_iso: jpn
     name: グガジ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديا
     auto: true
+  - translation_iso: ben
+    name: দিয়া
+    auto: true
   - translation_iso: deu
     name: Dia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dia
   - translation_iso: hin
     name: डिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dia
     auto: true
   - translation_iso: jpn
     name: ディア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تريينيتاريو
     auto: true
+  - translation_iso: ben
+    name: তরিনিতারিও
+    auto: true
   - translation_iso: deu
     name: Trinitario
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: trinitario
   - translation_iso: hin
     name: त्रिनितारियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Trinitario
     auto: true
   - translation_iso: jpn
     name: モホス語

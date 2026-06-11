@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكولينا
     auto: true
+  - translation_iso: ben
+    name: কুলিনা
+    auto: true
   - translation_iso: deu
     name: Culina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: culina
   - translation_iso: hin
     name: कुलिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Culina
     auto: true
   - translation_iso: jpn
     name: クリナ語

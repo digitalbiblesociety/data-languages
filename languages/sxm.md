@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سامري
     auto: true
+  - translation_iso: ben
+    name: সামরে
+    auto: true
   - translation_iso: deu
     name: Samre
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: samre
   - translation_iso: hin
     name: सामरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samre
     auto: true
   - translation_iso: jpn
     name: サムレ語

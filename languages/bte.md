@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جامو-نينْجي
     auto: true
+  - translation_iso: ben
+    name: গামো-নিঙি
+    auto: true
   - translation_iso: deu
     name: Gamo-Ningi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गामो-निंगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gamo-Ningi
     auto: true
   - translation_iso: jpn
     name: ガモ・ニンギ語

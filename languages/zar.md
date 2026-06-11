@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك رينكون
     auto: true
+  - translation_iso: ben
+    name: রিনকোন জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Rincón)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Rincón
   - translation_iso: hin
     name: रिनकोन सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rincón Zapotec
     auto: true
   - translation_iso: jpn
     name: リンコン・サポテク語

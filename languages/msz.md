@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موماري
     auto: true
+  - translation_iso: ben
+    name: মোমারে
+    auto: true
   - translation_iso: deu
     name: Momare
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: momare
   - translation_iso: hin
     name: मोमारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Momare
     auto: true
   - translation_iso: jpn
     name: モマレ語

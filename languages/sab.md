@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوجليري
     auto: true
+  - translation_iso: ben
+    name: বুগলেরে
+    auto: true
   - translation_iso: deu
     name: Buglere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: buglere
   - translation_iso: hin
     name: बुगलेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buglere
     auto: true
   - translation_iso: jpn
     name: ムリレ語

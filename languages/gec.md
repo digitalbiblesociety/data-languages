@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جبولو جريبو
     auto: true
+  - translation_iso: ben
+    name: গবোলো গরেবো
+    auto: true
   - translation_iso: deu
     name: Gboloo Grebo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: grebo gboloo
   - translation_iso: hin
     name: ग्बोलू ग्रेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gboloo Grebo
     auto: true
   - translation_iso: jpn
     name: ボロー・グレボ語

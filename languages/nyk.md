@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيانيكا
     auto: true
+  - translation_iso: ben
+    name: নয়ানেকা
+    auto: true
   - translation_iso: deu
     name: Nyaneka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Nyaneka
   - translation_iso: hin
     name: न्यानेका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyaneka
     auto: true
   - translation_iso: jpn
     name: ニャネカ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيبوت
     auto: true
+  - translation_iso: ben
+    name: কিপুত
+    auto: true
   - translation_iso: deu
     name: Kiput
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kiput
   - translation_iso: hin
     name: किपुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kiput
     auto: true
   - translation_iso: jpn
     name: キプット語

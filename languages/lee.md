@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يل
     auto: true
+  - translation_iso: ben
+    name: লয়েলে
+    auto: true
   - translation_iso: deu
     name: Lyélé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lyélé
   - translation_iso: hin
     name: ल्येले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lyélé
     auto: true
   - translation_iso: jpn
     name: リエレ語

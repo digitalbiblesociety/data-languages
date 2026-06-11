@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينجا
     auto: true
+  - translation_iso: ben
+    name: সিঙা
+    auto: true
   - translation_iso: deu
     name: Singa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Singa
     auto: true
   - translation_iso: jpn
     name: シンガ語

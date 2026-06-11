@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاركو
     auto: true
+  - translation_iso: ben
+    name: কালারকো
+    auto: true
   - translation_iso: deu
     name: Kalarko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kalarko
   - translation_iso: hin
     name: कलार्को
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalarko
     auto: true
   - translation_iso: jpn
     name: カラルコ語

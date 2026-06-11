@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإمبيرا-تشامي
     auto: true
+  - translation_iso: ben
+    name: এমবেরা-চামি
+    auto: true
   - translation_iso: deu
     name: Emberá-Chamí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: emberá chamí
   - translation_iso: hin
     name: एम्बेरा-चामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Emberá-Chamí
     auto: true
   - translation_iso: jpn
     name: エンベラ・チャミ語

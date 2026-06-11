@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: نورا
     auto: true
+  - translation_iso: ben
+    name: নোর্রা
+    auto: true
   - translation_iso: deu
     name: Norra
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: nora
   - translation_iso: hin
     name: नोर्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Norra
     auto: true
   - translation_iso: jpn
     name: ノッラ語

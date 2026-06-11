@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديانجادي
     auto: true
+  - translation_iso: ben
+    name: দয়াঙাদি
+    auto: true
   - translation_iso: deu
     name: Dyangadi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dyangadi
   - translation_iso: hin
     name: डियानगादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dyangadi
     auto: true
   - translation_iso: jpn
     name: ディャンガディ語

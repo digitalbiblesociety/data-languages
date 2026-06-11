@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دارجاري
     auto: true
+  - translation_iso: ben
+    name: ধারগারি
+    auto: true
   - translation_iso: deu
     name: Dhargari
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dhargari
   - translation_iso: hin
     name: धरगरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhargari
     auto: true
   - translation_iso: jpn
     name: ダルガリ語

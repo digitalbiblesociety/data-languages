@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أوهيلاوا
     auto: true
+  - translation_iso: ben
+    name: আউহেলাওয়া
+    auto: true
   - translation_iso: deu
     name: ʻAuhelawa
   - translation_iso: fra
     name: ’auhelawa
   - translation_iso: hin
     name: औहेलावा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa 'Auhelawa"
     auto: true
   - translation_iso: jpn
     name: アウヘラワ語

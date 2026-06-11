@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاواديه
     auto: true
+  - translation_iso: ben
+    name: তাউয়াদে
+    auto: true
   - translation_iso: deu
     name: Tauade
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: tauade
   - translation_iso: hin
     name: ताउआदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tauade
     auto: true
   - translation_iso: jpn
     name: タウアタ語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: بوخا
     auto: true
+  - translation_iso: ben
+    name: বোখা
+    auto: true
   - translation_iso: deu
     name: Bokha
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: bokha
   - translation_iso: hin
     name: बोखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bokha
     auto: true
   - translation_iso: jpn
     name: ボカ語

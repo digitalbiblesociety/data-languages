@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاراجا
     auto: true
+  - translation_iso: ben
+    name: কারাজা
+    auto: true
   - translation_iso: deu
     name: Karajá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karajá
   - translation_iso: hin
     name: कराजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karajá
     auto: true
   - translation_iso: jpn
     name: カラジャ語

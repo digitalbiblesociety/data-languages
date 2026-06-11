@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مودانج
     auto: true
+  - translation_iso: ben
+    name: মোদাং
+    auto: true
   - translation_iso: deu
     name: Modang
     auto: true

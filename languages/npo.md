@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوشوري ناغا
     auto: true
+  - translation_iso: ben
+    name: পোচুরি নাগা
+    auto: true
   - translation_iso: deu
     name: Pochuri-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pochuri
   - translation_iso: hin
     name: पोचुरी भाषा
+  - translation_iso: ind
+    name: Bahasa Pochuri Naga
+    auto: true
   - translation_iso: jpn
     name: ポチュリ・ナガ語
     auto: true

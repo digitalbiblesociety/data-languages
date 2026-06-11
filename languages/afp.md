@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تابي
     auto: true
+  - translation_iso: ben
+    name: তাপেই
+    auto: true
   - translation_iso: deu
     name: Tapei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tapei
   - translation_iso: hin
     name: तापेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tapei
     auto: true
   - translation_iso: jpn
     name: タペイ語

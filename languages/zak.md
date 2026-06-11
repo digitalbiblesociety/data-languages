@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زانكي
     auto: true
+  - translation_iso: ben
+    name: জানাকি
+    auto: true
   - translation_iso: deu
     name: Zanaki
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Zanaki
   - translation_iso: hin
     name: ज़नाकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zanaki
     auto: true
   - translation_iso: jpn
     name: ザナキ語

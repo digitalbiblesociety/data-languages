@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السهل واخاكا تشونتال
     auto: true
+  - translation_iso: ben
+    name: লোওয়লানদ ওয়াকসাকা চোনতাল
+    auto: true
   - translation_iso: deu
     name: Tiefland-Oaxaca-Chontal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chontal des basses terres
   - translation_iso: hin
     name: निचली ओआहाका चोंताल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lowland Oaxaca Chontal
     auto: true
   - translation_iso: jpn
     name: ローランド・オアハカ・チョンタル語

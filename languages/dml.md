@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دمالي
     auto: true
+  - translation_iso: ben
+    name: দামেলি
+    auto: true
   - translation_iso: deu
     name: Dameli
   - translation_iso: fra
     name: dameli
   - translation_iso: hin
     name: दामेली भाषा
+  - translation_iso: ind
+    name: Bahasa Dameli
+    auto: true
   - translation_iso: jpn
     name: ダメーリー語
   - translation_iso: kor

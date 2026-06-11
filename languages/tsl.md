@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاو تسون
     auto: true
+  - translation_iso: ben
+    name: তসুন-লাও
+    auto: true
   - translation_iso: deu
     name: "Ts'ün-Lao"
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्सुन-लाओ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Ts'ün-Lao"
     auto: true
   - translation_iso: jpn
     name: ツン・ラオ語

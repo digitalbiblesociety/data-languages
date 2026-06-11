@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياووو
     auto: true
+  - translation_iso: ben
+    name: য়াওয়ুরু
+    auto: true
   - translation_iso: deu
     name: Yawuru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yawuru
   - translation_iso: hin
     name: यवुरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yawuru
     auto: true
   - translation_iso: jpn
     name: ヤウル語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هآبو
     auto: true
+  - translation_iso: ben
+    name: হাবু
+    auto: true
   - translation_iso: deu
     name: Habun
   - translation_iso: fra
     name: habu
   - translation_iso: hin
     name: हाबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Habu
     auto: true
   - translation_iso: jpn
     name: ハブン語

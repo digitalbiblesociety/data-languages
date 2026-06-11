@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شوكورو
     auto: true
+  - translation_iso: ben
+    name: কসুকুরু
+    auto: true
   - translation_iso: deu
     name: Xukurú
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शुकुरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xukurú
     auto: true
   - translation_iso: jpn
     name: シュクル語

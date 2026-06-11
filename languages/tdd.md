@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: تاي نويا
     auto: true
+  - translation_iso: ben
+    name: তাই নুয়া
+    auto: true
   - translation_iso: deu
     name: Tai Nüa
   - translation_iso: fra
     name: tai nüa
   - translation_iso: hin
     name: ताई न्युआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Nüa
     auto: true
   - translation_iso: jpn
     name: タイ・ヌア語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shoshoni_language"
 translations:
   - translation_iso: ara
     name: شوشوني
+  - translation_iso: ben
+    name: শোশোনি
+    auto: true
   - translation_iso: deu
     name: Shoshone
   - translation_iso: fra
     name: shoshone
   - translation_iso: hin
     name: शोशोनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shoshoni
     auto: true
   - translation_iso: jpn
     name: ショショーニ語

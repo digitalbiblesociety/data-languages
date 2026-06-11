@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوست ميووك
     auto: true
+  - translation_iso: ben
+    name: কোয়াসত মিওয়োক
+    auto: true
   - translation_iso: deu
     name: Küsten-Miwok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miwok de la côte
   - translation_iso: hin
     name: तटीय मिवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coast Miwok
     auto: true
   - translation_iso: jpn
     name: コースト・ミウォク語

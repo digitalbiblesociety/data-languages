@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة بونو
     auto: true
+  - translation_iso: ben
+    name: পুনু
+    auto: true
   - translation_iso: deu
     name: Punu
   - translation_iso: fra
     name: punu
   - translation_iso: hin
     name: पुनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Punu
     auto: true
   - translation_iso: jpn
     name: プヌ語

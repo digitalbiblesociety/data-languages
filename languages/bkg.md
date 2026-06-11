@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بوراكا
     auto: true
+  - translation_iso: ben
+    name: বুরাকা
+    auto: true
   - translation_iso: deu
     name: Buraka
   - translation_iso: fra
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुराका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buraka
     auto: true
   - translation_iso: jpn
     name: ブラカ語

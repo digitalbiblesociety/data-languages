@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: منجاكا
     auto: true
+  - translation_iso: ben
+    name: মেঙাকা
+    auto: true
   - translation_iso: deu
     name: Mengaka
   - translation_iso: fra
     name: mengaka
   - translation_iso: hin
     name: मेंगाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mengaka
     auto: true
   - translation_iso: jpn
     name: メンガカ語

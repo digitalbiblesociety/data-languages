@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة جويرا بيبيسا
     auto: true
+  - translation_iso: ben
+    name: জওয়িরা-পেপেসা
+    auto: true
   - translation_iso: deu
     name: Jwira-Pepesa
   - translation_iso: fra
     name: jwira-Pepesa
   - translation_iso: hin
     name: ज्विरा-पेपेसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jwira-Pepesa
     auto: true
   - translation_iso: jpn
     name: ジウィラ・ペペサ語

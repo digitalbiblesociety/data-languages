@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بآرá غآفيãو
     auto: true
+  - translation_iso: ben
+    name: পারা গাভিয়াও
+    auto: true
   - translation_iso: deu
     name: Pará-Gavião
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: parkatejê
   - translation_iso: hin
     name: पारा गाव्यांव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pará Gavião
     auto: true
   - translation_iso: jpn
     name: パラ・ガヴィアン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجسينج
     auto: true
+  - translation_iso: ben
+    name: মাংসেং
+    auto: true
   - translation_iso: deu
     name: Mangseng
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मांगसेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangseng
     auto: true
   - translation_iso: jpn
     name: マンセン語

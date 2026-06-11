@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشينتشا
     auto: true
+  - translation_iso: ben
+    name: চিনচা কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Chincha-Quechua
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चिंचा क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chincha Quechua
     auto: true
   - translation_iso: jpn
     name: チンチャケチュア語

@@ -29,6 +29,9 @@ translations:
     name: langue des signes péruvienne
   - translation_iso: hin
     name: पेरू सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Peruvian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ペルー手話
   - translation_iso: kor

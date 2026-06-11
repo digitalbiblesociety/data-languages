@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كورو نولو
     auto: true
+  - translation_iso: ben
+    name: কোরো নুলু
+    auto: true
   - translation_iso: deu
     name: Koro Nulu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोरो नुलू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koro Nulu
     auto: true
   - translation_iso: jpn
     name: コロ・イハ語

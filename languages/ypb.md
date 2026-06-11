@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة لابو فوا
     auto: true
+  - translation_iso: ben
+    name: লাবো ফোওয়া
+    auto: true
   - translation_iso: deu
     name: Labo Phowa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: phowa labo
   - translation_iso: hin
     name: लाबो फोवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Labo Phowa
     auto: true
   - translation_iso: jpn
     name: ラボフォワ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة غولا
     auto: true
+  - translation_iso: ben
+    name: গুলা
+    auto: true
   - translation_iso: deu
     name: Gula (Zentralafrikanische Republik)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gula
   - translation_iso: hin
     name: गुला (मध्य अफ़्रीकी गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gula
     auto: true
   - translation_iso: jpn
     name: グラ語

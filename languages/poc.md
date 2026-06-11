@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوقومام
     auto: true
+  - translation_iso: ben
+    name: পোকোমাম
+    auto: true
   - translation_iso: deu
     name: Pocomam-Sprache
   - translation_iso: fra
     name: pokomam
   - translation_iso: hin
     name: पोकोमाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Poqomam
     auto: true
   - translation_iso: jpn
     name: ポコマム語

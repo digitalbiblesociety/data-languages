@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوجاواك
     auto: true
+  - translation_iso: ben
+    name: বুগাওয়াক
+    auto: true
   - translation_iso: deu
     name: Bukawa
   - translation_iso: fra
     name: bukawa
   - translation_iso: hin
     name: बुगावाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bugawac
     auto: true
   - translation_iso: jpn
     name: ブガワック語

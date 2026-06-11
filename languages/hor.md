@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هورو
     auto: true
+  - translation_iso: ben
+    name: হোরো
+    auto: true
   - translation_iso: deu
     name: Horo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: horo
   - translation_iso: hin
     name: होरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Horo
     auto: true
   - translation_iso: jpn
     name: ホロ語

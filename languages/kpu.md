@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كافوا
     auto: true
+  - translation_iso: ben
+    name: কাফোয়া
+    auto: true
   - translation_iso: deu
     name: Kafoa
     auto: true

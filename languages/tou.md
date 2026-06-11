@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ثو
     auto: true
+  - translation_iso: ben
+    name: থো
+    auto: true
   - translation_iso: deu
     name: Tho
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tho
   - translation_iso: hin
     name: थो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tho
     auto: true
   - translation_iso: jpn
     name: トー語

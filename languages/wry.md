@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميرواري
     auto: true
+  - translation_iso: ben
+    name: মেরওয়ারি
+    auto: true
   - translation_iso: deu
     name: Merwari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: merwari
   - translation_iso: hin
     name: मेरवाड़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Merwari
     auto: true
   - translation_iso: jpn
     name: メールワーリー語

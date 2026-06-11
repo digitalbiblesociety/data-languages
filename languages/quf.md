@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا لامبايك
     auto: true
+  - translation_iso: ben
+    name: লামবায়েকুএ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Inkawasi-Kañaris
   - translation_iso: fra
     name: quechua de Lambayeque
   - translation_iso: hin
     name: लांबायेके क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lambayeque Quechua
     auto: true
   - translation_iso: jpn
     name: ランバイェケケチュア語

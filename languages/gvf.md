@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غولين
     auto: true
+  - translation_iso: ben
+    name: গোলিন
+    auto: true
   - translation_iso: deu
     name: Golin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: golin
   - translation_iso: hin
     name: गोलिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Golin
     auto: true
   - translation_iso: jpn
     name: ゴリン語

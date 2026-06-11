@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بيرْوا
     auto: true
+  - translation_iso: ben
+    name: বিরওয়া
+    auto: true
   - translation_iso: deu
     name: Birwa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: birwa
   - translation_iso: hin
     name: बिरवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Birwa
     auto: true
   - translation_iso: jpn
     name: ビルワ語

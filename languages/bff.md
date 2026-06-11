@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوفي
     auto: true
+  - translation_iso: ben
+    name: বোফি
+    auto: true
   - translation_iso: deu
     name: Bofi
   - translation_iso: fra
     name: bofi
   - translation_iso: hin
     name: बोफी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bofi
     auto: true
   - translation_iso: jpn
     name: ボフィ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تيساكا
     auto: true
+  - translation_iso: ben
+    name: তেসাকা মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Tesaka Malagasy
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: antaisaka
   - translation_iso: hin
     name: तेसाका मलगासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tesaka Malagasy
     auto: true
   - translation_iso: jpn
     name: タイサカ・マダガスカル語

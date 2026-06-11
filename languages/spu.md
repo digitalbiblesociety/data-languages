@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوان
     auto: true
+  - translation_iso: ben
+    name: সাপুয়ান
+    auto: true
   - translation_iso: deu
     name: Sapuan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सापुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sapuan
     auto: true
   - translation_iso: jpn
     name: セプアル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غوآندآرآ
     auto: true
+  - translation_iso: ben
+    name: গওয়ানদারা
+    auto: true
   - translation_iso: deu
     name: Gwandara
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gwandara
   - translation_iso: hin
     name: ग्वंदारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gwandara
     auto: true
   - translation_iso: jpn
     name: グワンダラ語

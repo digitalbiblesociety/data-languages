@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملايو
     auto: true
+  - translation_iso: ben
+    name: মালায়
+    auto: true
   - translation_iso: deu
     name: Malaiisch
     auto: true

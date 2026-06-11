@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سارا كابا ناا
     auto: true
+  - translation_iso: ben
+    name: সারা কাবা না
+    auto: true
   - translation_iso: deu
     name: Sara Kaba Náà
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sara kaba náà
   - translation_iso: hin
     name: सारा काबा ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sara Kaba Náà
     auto: true
   - translation_iso: jpn
     name: サラ・カバ・ナア語

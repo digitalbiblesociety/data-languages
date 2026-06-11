@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अदेले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adele
+    auto: true
   - translation_iso: jpn
     name: アデレ語
   - translation_iso: kor

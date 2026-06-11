@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ياقاي
     auto: true
+  - translation_iso: ben
+    name: য়াকায়
+    auto: true
   - translation_iso: deu
     name: Yaqay
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: याकाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaqay
     auto: true
   - translation_iso: jpn
     name: ヤカイ語

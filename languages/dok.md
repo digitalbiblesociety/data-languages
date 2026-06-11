@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوندو
     auto: true
+  - translation_iso: ben
+    name: দোনদো
+    auto: true
   - translation_iso: deu
     name: Dondo
     auto: true

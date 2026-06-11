@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبي
     auto: true
+  - translation_iso: ben
+    name: মপি
+    auto: true
   - translation_iso: deu
     name: Mpi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mpi
   - translation_iso: hin
     name: म्पी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mpi
     auto: true
   - translation_iso: jpn
     name: ムピ語

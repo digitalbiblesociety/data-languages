@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجين
     auto: true
+  - translation_iso: ben
+    name: কুনজেন
+    auto: true
   - translation_iso: deu
     name: Kunjen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kunjen
   - translation_iso: hin
     name: कुंजेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunjen
     auto: true
   - translation_iso: jpn
     name: クンジェン語

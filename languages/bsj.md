@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बंगविंजी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangwinji
+    auto: true
   - translation_iso: jpn
     name: バングウィンジ語
     auto: true

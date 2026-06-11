@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: غارزا
     auto: true
+  - translation_iso: ben
+    name: গারজা
+    auto: true
   - translation_iso: deu
     name: Garza
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: garza
   - translation_iso: hin
     name: गार्ज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garza
     auto: true
   - translation_iso: jpn
     name: ガルサ語

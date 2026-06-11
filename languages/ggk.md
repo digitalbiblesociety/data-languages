@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كونجآرآكآني
     auto: true
+  - translation_iso: ben
+    name: কুঙারাকানয়
+    auto: true
   - translation_iso: deu
     name: Kungarakany
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: kungarakany
   - translation_iso: hin
     name: कुंगाराकानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kungarakany
     auto: true
   - translation_iso: jpn
     name: クンガラカニ語

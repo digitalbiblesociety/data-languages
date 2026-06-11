@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: "لغة جي / لغة ميــاو تشونغ'آن ريفر"
     auto: true
+  - translation_iso: ben
+    name: গে
+    auto: true
   - translation_iso: deu
     name: Ge
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: gejia
   - translation_iso: hin
     name: गे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ge
     auto: true
   - translation_iso: jpn
     name: 革家語

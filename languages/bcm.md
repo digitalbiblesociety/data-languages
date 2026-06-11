@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बानोनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bannoni
+    auto: true
   - translation_iso: jpn
     name: バノニ語
   - translation_iso: kor

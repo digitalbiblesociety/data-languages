@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانيمبيلي
     auto: true
+  - translation_iso: ben
+    name: তানিমবিলি
+    auto: true
   - translation_iso: deu
     name: Tanimbili
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tanibili
   - translation_iso: hin
     name: तानिम्बिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanimbili
     auto: true
   - translation_iso: jpn
     name: タニビリ語

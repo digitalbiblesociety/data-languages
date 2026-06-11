@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مارسيان
     auto: true
+  - translation_iso: ben
+    name: মারসিয়ান
+    auto: true
   - translation_iso: deu
     name: Marsisch
   - translation_iso: fra
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मार्सियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marsian
     auto: true
   - translation_iso: jpn
     name: マルシ語

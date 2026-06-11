@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتيوكا
     auto: true
+  - translation_iso: ben
+    name: তুয়ুকা
+    auto: true
   - translation_iso: deu
     name: Tuyuca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tuyuca
   - translation_iso: hin
     name: तुयुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuyuca
     auto: true
   - translation_iso: jpn
     name: ドカプアラエ語

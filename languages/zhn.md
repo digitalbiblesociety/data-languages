@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة نونغ زوانغ
     auto: true
+  - translation_iso: ben
+    name: নোং ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Nong-Zhuang
     auto: true

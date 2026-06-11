@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتلاتزينكا أتزينغو
     auto: true
+  - translation_iso: ben
+    name: আতজিঙো মাতলাতজিনকা
+    auto: true
   - translation_iso: deu
     name: Atzingo-Matlatzinca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "matlatzinca d'Atzingo"
   - translation_iso: hin
     name: अत्ज़िंगो मातलात्ज़िंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Atzingo Matlatzinca
     auto: true
   - translation_iso: jpn
     name: アッツィンゴ・マトラツィンカ語

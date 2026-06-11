@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाफाव-बालोंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bafaw-Balong
+    auto: true
   - translation_iso: jpn
     name: バファウ・バロン語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مالاس
     auto: true
+  - translation_iso: ben
+    name: মালাস
+    auto: true
   - translation_iso: deu
     name: Malas
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मालास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malas
     auto: true
   - translation_iso: jpn
     name: マラス語

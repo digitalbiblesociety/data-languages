@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة السهول للهنود الحمر
+  - translation_iso: ben
+    name: পলাইনস ইনদিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Gebärdensprache der Prärie-Indianer
   - translation_iso: fra
     name: langues des signes des Indiens des Plaines
   - translation_iso: hin
     name: मैदान भारतीय सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Plains Indian Sign Language
+    auto: true
   - translation_iso: jpn
     name: 平原インディアン手話
   - translation_iso: kor

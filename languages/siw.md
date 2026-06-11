@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيواي
     auto: true
+  - translation_iso: ben
+    name: সিওয়াই
+    auto: true
   - translation_iso: deu
     name: Siwai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: siwai
   - translation_iso: hin
     name: सिवाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siwai
     auto: true
   - translation_iso: jpn
     name: モトゥナ語

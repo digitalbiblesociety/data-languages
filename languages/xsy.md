@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيسييت
     auto: true
+  - translation_iso: ben
+    name: সাইসিয়াত
+    auto: true
   - translation_iso: deu
     name: Saisiyat
     auto: true

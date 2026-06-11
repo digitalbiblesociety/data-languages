@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمتي
     auto: true
+  - translation_iso: ben
+    name: সিমতে
+    auto: true
   - translation_iso: deu
     name: Simte
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: simte
   - translation_iso: hin
     name: सिम्ते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Simte
     auto: true
   - translation_iso: jpn
     name: ゾミ語

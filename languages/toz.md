@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تو
     auto: true
+  - translation_iso: ben
+    name: তো
+    auto: true
   - translation_iso: deu
     name: To
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: to
   - translation_iso: hin
     name: टो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa To
     auto: true
   - translation_iso: jpn
     name: トー語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غارروا
     auto: true
+  - translation_iso: ben
+    name: গার্রওয়া
+    auto: true
   - translation_iso: deu
     name: Garrwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: garawa
   - translation_iso: hin
     name: गरवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garrwa
     auto: true
   - translation_iso: jpn
     name: ガルワ語

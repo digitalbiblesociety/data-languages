@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الرون
     auto: true
+  - translation_iso: ben
+    name: রোন
+    auto: true
   - translation_iso: deu
     name: Ron
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ron
   - translation_iso: hin
     name: रोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ron
     auto: true
   - translation_iso: jpn
     name: ロン語

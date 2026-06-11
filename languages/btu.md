@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बातू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Batu
+    auto: true
   - translation_iso: jpn
     name: バトゥ語
     auto: true

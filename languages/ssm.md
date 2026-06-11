@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمنام
     auto: true
+  - translation_iso: ben
+    name: সেমনাম
+    auto: true
   - translation_iso: deu
     name: Semnam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: semnam
   - translation_iso: hin
     name: सेमनाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Semnam
     auto: true
   - translation_iso: jpn
     name: スムナーム語

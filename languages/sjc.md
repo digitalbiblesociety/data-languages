@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاوجيانج الصينية
     auto: true
+  - translation_iso: ben
+    name: শাওজিয়াং চিনেসে
+    auto: true
   - translation_iso: deu
     name: Shaojiang-Chinesisch
     auto: true

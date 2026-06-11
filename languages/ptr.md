@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيامتسينا
     auto: true
+  - translation_iso: ben
+    name: পিয়ামাতসিনা
+    auto: true
   - translation_iso: deu
     name: Piamatsina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piamatsina
   - translation_iso: hin
     name: पियामात्सिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piamatsina
     auto: true
   - translation_iso: jpn
     name: ピアマツィーナ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अनांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anaang
+    auto: true
   - translation_iso: jpn
     name: アナン語
   - translation_iso: kor

@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बलंगाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balangao
+    auto: true
   - translation_iso: jpn
     name: バランガオ語
     auto: true

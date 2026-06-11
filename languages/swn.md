@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sokna_language"
 translations:
   - translation_iso: ara
     name: لغة فزان
+  - translation_iso: ben
+    name: সাওয়কনাহ
+    auto: true
   - translation_iso: deu
     name: Sawknah
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sawknah
   - translation_iso: hin
     name: साकनाह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sawknah
     auto: true
   - translation_iso: jpn
     name: ソクナ語

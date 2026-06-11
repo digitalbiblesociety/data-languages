@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماوا نيغيريا
     auto: true
+  - translation_iso: ben
+    name: মাওয়া
+    auto: true
   - translation_iso: deu
     name: Mawa (Nigeria)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मावा (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mawa
     auto: true
   - translation_iso: jpn
     name: マワ語

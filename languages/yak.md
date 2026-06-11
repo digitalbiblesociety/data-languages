@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ياكاما
     auto: true
+  - translation_iso: ben
+    name: য়াকামা
+    auto: true
   - translation_iso: deu
     name: Yakama
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yakama
   - translation_iso: hin
     name: याकामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yakama
     auto: true
   - translation_iso: jpn
     name: ヤカマ語

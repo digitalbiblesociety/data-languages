@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة كيبت
     auto: true
+  - translation_iso: ben
+    name: কিবেত
+    auto: true
   - translation_iso: deu
     name: Kibet
   - translation_iso: fra
     name: kibet
   - translation_iso: hin
     name: किबेट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kibet
     auto: true
   - translation_iso: jpn
     name: キベット語

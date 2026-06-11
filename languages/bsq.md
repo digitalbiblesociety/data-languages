@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बस्सा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bassa
+    auto: true
   - translation_iso: jpn
     name: バッサ語
   - translation_iso: kor

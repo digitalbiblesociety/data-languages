@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجيان
     auto: true
+  - translation_iso: ben
+    name: কাঙেয়ান
+    auto: true
   - translation_iso: deu
     name: Kangean
   - translation_iso: fra

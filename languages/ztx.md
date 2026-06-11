@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زاتشيلا
     auto: true
+  - translation_iso: ben
+    name: জাচিলা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Zaachila)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Zaachila
   - translation_iso: hin
     name: ज़ाचिला ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zaachila Zapotec
     auto: true
   - translation_iso: jpn
     name: ザアチラ・サポテク語

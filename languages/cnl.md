@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لالانا تشينانتك
     auto: true
+  - translation_iso: ben
+    name: লালানা চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Lalana-Chinantekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chinantèque de Lalana
   - translation_iso: hin
     name: लालाना चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lalana Chinantec
     auto: true
   - translation_iso: jpn
     name: ララナ・チナンテク語

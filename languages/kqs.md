@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسي الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কিস্সি
+    auto: true
   - translation_iso: deu
     name: Nord-Kissi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kissi du Nord
   - translation_iso: hin
     name: उत्तरी किस्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Kissi
     auto: true
   - translation_iso: jpn
     name: ノーザン・キッシ語

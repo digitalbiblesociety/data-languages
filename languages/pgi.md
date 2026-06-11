@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باغي
     auto: true
+  - translation_iso: ben
+    name: পাগি
+    auto: true
   - translation_iso: deu
     name: Pagi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pagi
   - translation_iso: hin
     name: पागी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pagi
     auto: true
   - translation_iso: jpn
     name: パギ語

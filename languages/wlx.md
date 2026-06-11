@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: والي غهانا
     auto: true
+  - translation_iso: ben
+    name: ওয়ালি
+    auto: true
   - translation_iso: deu
     name: Wali
   - translation_iso: fra
     name: wali
   - translation_iso: hin
     name: वली (घाना)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wali
     auto: true
   - translation_iso: jpn
     name: ワリ語（ガーナ）

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غورووآ
     auto: true
+  - translation_iso: ben
+    name: গোরোওয়া
+    auto: true
   - translation_iso: deu
     name: Gorowa
   - translation_iso: fra
     name: Gorowa
   - translation_iso: hin
     name: गोरोवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gorowa
     auto: true
   - translation_iso: jpn
     name: ゴロア語

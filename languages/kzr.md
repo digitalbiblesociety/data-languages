@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كارانج
     auto: true
+  - translation_iso: ben
+    name: কারাং
+    auto: true
   - translation_iso: deu
     name: Karang
   - translation_iso: fra
     name: karang
   - translation_iso: hin
     name: कारंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karang
     auto: true
   - translation_iso: jpn
     name: カラン語

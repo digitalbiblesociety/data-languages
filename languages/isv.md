@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Interslavic"
 translations:
   - translation_iso: ara
     name: لغة بين سلافية
+  - translation_iso: ben
+    name: ইনতেরসলাভিক
+    auto: true
   - translation_iso: deu
     name: Interslawisch
   - translation_iso: fra

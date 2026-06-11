@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيلاموك
     auto: true
+  - translation_iso: ben
+    name: তিল্লামোক
+    auto: true
   - translation_iso: deu
     name: Tillamook
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tillamook
   - translation_iso: hin
     name: टिलामूक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tillamook
     auto: true
   - translation_iso: jpn
     name: ティラムック語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: مين تشونغ الصينية
     auto: true
+  - translation_iso: ben
+    name: মিন ঝোং চিনেসে
+    auto: true
   - translation_iso: deu
     name: Min Zhong
   - translation_iso: fra

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ولو
     auto: true
+  - translation_iso: ben
+    name: লোলো
+    auto: true
   - translation_iso: deu
     name: Lolo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lolo
   - translation_iso: hin
     name: लोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lolo
     auto: true
   - translation_iso: jpn
     name: ロロ語

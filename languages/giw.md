@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وهيتإ غإلآو
     auto: true
+  - translation_iso: ben
+    name: ওয়হিতে গেলাও
+    auto: true
   - translation_iso: deu
     name: Weißes Gelao
     auto: true

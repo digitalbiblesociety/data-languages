@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوساجادي
     auto: true
+  - translation_iso: ben
+    name: উসাঘাদে
+    auto: true
   - translation_iso: deu
     name: Usaghade
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: usaghade
   - translation_iso: hin
     name: उसाघाडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Usaghade
     auto: true
   - translation_iso: jpn
     name: イサンゲレ語

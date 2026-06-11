@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نوجونو
     auto: true
+  - translation_iso: ben
+    name: নুগুনু
+    auto: true
   - translation_iso: deu
     name: Nugunu
   - translation_iso: fra
     name: nugunu
   - translation_iso: hin
     name: नुगुनु (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nugunu
     auto: true
   - translation_iso: jpn
     name: ヌグヌ語

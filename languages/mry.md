@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندايا
     auto: true
+  - translation_iso: ben
+    name: মানদায়া
+    auto: true
   - translation_iso: deu
     name: Mandaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mandaya
   - translation_iso: hin
     name: मंदाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandaya
     auto: true
   - translation_iso: jpn
     name: マンダヤ語

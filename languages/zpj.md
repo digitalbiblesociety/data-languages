@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويافيكوزاس
     auto: true
+  - translation_iso: ben
+    name: কুইয়াভিকুজাস জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Quiavicuzas)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Quiavicuzas
   - translation_iso: hin
     name: कियाविकुसास सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quiavicuzas Zapotec
     auto: true
   - translation_iso: jpn
     name: キアビクザス・サポテク語

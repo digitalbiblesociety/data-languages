@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي دو
     auto: true
+  - translation_iso: ben
+    name: তাই দো
+    auto: true
   - translation_iso: deu
     name: Tai Do
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: taï yo
   - translation_iso: hin
     name: ताई दो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Do
     auto: true
   - translation_iso: jpn
     name: タイ・ドー語

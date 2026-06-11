@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أسورينيه توكانتينس
     auto: true
+  - translation_iso: ben
+    name: তোকানতিনস আসুরিনি
+    auto: true
   - translation_iso: deu
     name: Akwawa
   - translation_iso: fra
     name: akwawa
   - translation_iso: hin
     name: टोकेंटिन्स असुरिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tocantins Asurini
     auto: true
   - translation_iso: jpn
     name: アスリニ語

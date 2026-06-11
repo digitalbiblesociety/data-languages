@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وولاني
     auto: true
+  - translation_iso: ben
+    name: ওয়োলানে
+    auto: true
   - translation_iso: deu
     name: Wolane
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wolane
   - translation_iso: hin
     name: वोलाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wolane
     auto: true
   - translation_iso: jpn
     name: ウォラネ語

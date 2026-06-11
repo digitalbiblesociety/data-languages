@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بارذان
     auto: true
+  - translation_iso: ben
+    name: পারধান
+    auto: true
   - translation_iso: deu
     name: Pardhan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: परधान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pardhan
     auto: true
   - translation_iso: jpn
     name: パルダン語

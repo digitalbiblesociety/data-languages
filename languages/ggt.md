@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غيتوآ
     auto: true
+  - translation_iso: ben
+    name: গিতুয়া
+    auto: true
   - translation_iso: deu
     name: Gitua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gitua
   - translation_iso: hin
     name: गितुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gitua
     auto: true
   - translation_iso: jpn
     name: ギトゥア語

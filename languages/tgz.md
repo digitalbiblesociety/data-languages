@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاغالاكا
     auto: true
+  - translation_iso: ben
+    name: তাগালাকা
+    auto: true
   - translation_iso: deu
     name: Tagalaka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tagalaka
   - translation_iso: hin
     name: तागालाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagalaka
     auto: true
   - translation_iso: jpn
     name: タガラカ語

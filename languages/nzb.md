@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجيبي
     auto: true
+  - translation_iso: ben
+    name: নজেবি
+    auto: true
   - translation_iso: deu
     name: Njebi
   - translation_iso: fra
     name: nzebi
   - translation_iso: hin
     name: नजेबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Njebi
     auto: true
   - translation_iso: jpn
     name: ンゼビ語

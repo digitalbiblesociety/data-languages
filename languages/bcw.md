@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bana
+    auto: true
   - translation_iso: jpn
     name: バナ語
     auto: true

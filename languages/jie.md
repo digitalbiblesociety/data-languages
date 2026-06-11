@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيلبي
     auto: true
+  - translation_iso: ben
+    name: জিলবে
+    auto: true
   - translation_iso: deu
     name: Jilbe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jilbe
   - translation_iso: hin
     name: जिलबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jilbe
     auto: true
   - translation_iso: jpn
     name: ジルベ語

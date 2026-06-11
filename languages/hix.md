@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هيكسكاريانا
     auto: true
+  - translation_iso: ben
+    name: হিকসকারয়ানা
+    auto: true
   - translation_iso: deu
     name: Hixkaryána
   - translation_iso: fra
     name: hixkaryana
   - translation_iso: hin
     name: हिक्सकार्याना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hixkaryána
     auto: true
   - translation_iso: jpn
     name: ヒシュカリヤナ語

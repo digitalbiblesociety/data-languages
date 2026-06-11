@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوبانينان أجتا
     auto: true
+  - translation_iso: ben
+    name: দুপানিনান আগতা
+    auto: true
   - translation_iso: deu
     name: Dupaninan-Agta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: agta de Dupaningan
   - translation_iso: hin
     name: दुपानिनान आग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dupaninan Agta
     auto: true
   - translation_iso: jpn
     name: ドゥパニナン・アグタ語

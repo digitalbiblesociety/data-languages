@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अनोर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anor
+    auto: true
   - translation_iso: jpn
     name: アノル語
     auto: true

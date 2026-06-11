@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رونجا
     auto: true
+  - translation_iso: ben
+    name: রুঙা
+    auto: true
   - translation_iso: deu
     name: Runga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: rounga
   - translation_iso: hin
     name: रुंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Runga
     auto: true
   - translation_iso: jpn
     name: ルンガ語

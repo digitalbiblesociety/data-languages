@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अलक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alak
+    auto: true
   - translation_iso: jpn
     name: アラク語
     auto: true

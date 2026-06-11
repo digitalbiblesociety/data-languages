@@ -22,6 +22,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moroccan_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة المغربية
+  - translation_iso: ben
+    name: মোরোক্কান আরাবিক
+    auto: true
   - translation_iso: deu
     name: Marokkanisch-Arabisch
   - translation_iso: fra

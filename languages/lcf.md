@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لوبو
     auto: true
+  - translation_iso: ben
+    name: লুবু
+    auto: true
   - translation_iso: deu
     name: Lubu
     auto: true

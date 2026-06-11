@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نونغغوبويو
     auto: true
+  - translation_iso: ben
+    name: নুংগুবুয়ু
+    auto: true
   - translation_iso: deu
     name: Nunggubuyu
     auto: true

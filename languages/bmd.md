@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बागा मांडुरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baga Manduri
+    auto: true
   - translation_iso: jpn
     name: バガ・マンドゥリ語
     auto: true

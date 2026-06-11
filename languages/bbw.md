@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baba
+    auto: true
   - translation_iso: jpn
     name: ババ語
     auto: true

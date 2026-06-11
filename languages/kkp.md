@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة غوغوبيرا
     auto: true
+  - translation_iso: ben
+    name: গুগুবেরা
+    auto: true
   - translation_iso: deu
     name: Gugubera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koko-bera
   - translation_iso: hin
     name: गुगुबेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gugubera
     auto: true
   - translation_iso: jpn
     name: ググベラ語

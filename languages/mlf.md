@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مال
     auto: true
+  - translation_iso: ben
+    name: মাল
+    auto: true
   - translation_iso: deu
     name: Mal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mal
   - translation_iso: hin
     name: माल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mal
     auto: true
   - translation_iso: jpn
     name: マル語

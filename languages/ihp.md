@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيها
     auto: true
+  - translation_iso: ben
+    name: ইহা
+    auto: true
   - translation_iso: deu
     name: Iha
     auto: true

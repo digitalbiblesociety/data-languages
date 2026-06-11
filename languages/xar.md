@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارامي
     auto: true
+  - translation_iso: ben
+    name: কারামি
+    auto: true
   - translation_iso: deu
     name: Karami
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: करामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karami
     auto: true
   - translation_iso: jpn
     name: カラミ語

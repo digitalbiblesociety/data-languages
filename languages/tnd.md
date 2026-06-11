@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अंगोस्तुरास तुनेबो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Angosturas Tunebo
+    auto: true
   - translation_iso: jpn
     name: アンゴストゥラス・トゥネボ語
     auto: true

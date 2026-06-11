@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة أمول
     auto: true
+  - translation_iso: ben
+    name: আমোল
+    auto: true
   - translation_iso: deu
     name: Amol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mol
   - translation_iso: hin
     name: अमोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Amol
     auto: true
   - translation_iso: jpn
     name: アモル語

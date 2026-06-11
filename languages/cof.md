@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكولورادو
     auto: true
+  - translation_iso: ben
+    name: কোলোরাদো
+    auto: true
   - translation_iso: deu
     name: Colorado
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsafiqui
   - translation_iso: hin
     name: कोलोराडो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Colorado
     auto: true
   - translation_iso: jpn
     name: コロラド語

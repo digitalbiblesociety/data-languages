@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغيندو
     auto: true
+  - translation_iso: ben
+    name: ঙিনদো
+    auto: true
   - translation_iso: deu
     name: Ngindo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गिन्दो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngindo
     auto: true
   - translation_iso: jpn
     name: ングインド語

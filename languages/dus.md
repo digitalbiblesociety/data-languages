@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دومي
     auto: true
+  - translation_iso: ben
+    name: দুমি
+    auto: true
   - translation_iso: deu
     name: Dumi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dumi
   - translation_iso: hin
     name: दुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dumi
     auto: true
   - translation_iso: jpn
     name: ドゥミー語

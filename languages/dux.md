@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دونجوما
     auto: true
+  - translation_iso: ben
+    name: দুঙোমা
+    auto: true
   - translation_iso: deu
     name: Duungooma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: duungooma
   - translation_iso: hin
     name: डूंगूमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duungooma
     auto: true
   - translation_iso: jpn
     name: ドゥングーマ語

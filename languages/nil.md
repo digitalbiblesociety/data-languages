@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيلا
     auto: true
+  - translation_iso: ben
+    name: নিলা
+    auto: true
   - translation_iso: deu
     name: Nila
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فينماويس
     auto: true
+  - translation_iso: ben
+    name: ভিনমাভিস
+    auto: true
   - translation_iso: deu
     name: Vinmavis
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: neve’ei
   - translation_iso: hin
     name: विनमाविस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vinmavis
     auto: true
   - translation_iso: jpn
     name: ヴィンマヴィス語

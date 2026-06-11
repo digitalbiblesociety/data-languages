@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوية جديدة كاليدونية
     auto: true
+  - translation_iso: ben
+    name: নেওয় কালেদোনিয়ান জাভানেসে
+    auto: true
   - translation_iso: deu
     name: Neukaledonisches Javanisch
     auto: true

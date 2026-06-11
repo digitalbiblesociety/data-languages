@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هوندي
     auto: true
+  - translation_iso: ben
+    name: হুনদে
+    auto: true
   - translation_iso: deu
     name: Hund
   - translation_iso: fra
     name: hunde
   - translation_iso: hin
     name: हुंडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hunde
     auto: true
   - translation_iso: jpn
     name: フンデ語

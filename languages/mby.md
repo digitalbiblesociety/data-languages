@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ممونية
     auto: true
+  - translation_iso: ben
+    name: মেমোনি
+    auto: true
   - translation_iso: deu
     name: Memoni
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मेमोनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Memoni
     auto: true
   - translation_iso: jpn
     name: メモニ語

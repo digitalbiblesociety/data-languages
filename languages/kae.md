@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتانغالان
     auto: true
+  - translation_iso: ben
+    name: কেতাঙালান
+    auto: true
   - translation_iso: deu
     name: Ketangalan
     auto: true

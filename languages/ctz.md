@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساكاتيبك تشاتينو
     auto: true
+  - translation_iso: ben
+    name: জাকাতেপেক চাতিনো
+    auto: true
   - translation_iso: deu
     name: Zacatepec-Chatino
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chatino de Zacatepec
   - translation_iso: hin
     name: ज़ाकाटेपेक चातीनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zacatepec Chatino
     auto: true
   - translation_iso: jpn
     name: サカテペク・チャティーノ語

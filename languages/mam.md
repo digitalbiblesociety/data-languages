@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مام
     auto: true
+  - translation_iso: ben
+    name: মাম
+    auto: true
   - translation_iso: deu
     name: Mam
   - translation_iso: fra
     name: mam
   - translation_iso: hin
     name: माम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mam
     auto: true
   - translation_iso: jpn
     name: マム語

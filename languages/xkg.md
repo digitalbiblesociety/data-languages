@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاجورو
     auto: true
+  - translation_iso: ben
+    name: কাগোরো
+    auto: true
   - translation_iso: deu
     name: Kagoro
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kagoro
   - translation_iso: hin
     name: कागोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kagoro
     auto: true
   - translation_iso: jpn
     name: カゴロ語

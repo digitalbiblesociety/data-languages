@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوروتي
     auto: true
+  - translation_iso: ben
+    name: য়ুরুতি
+    auto: true
   - translation_iso: deu
     name: Yurutí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yuriti
   - translation_iso: hin
     name: युरुती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yurutí
     auto: true
   - translation_iso: jpn
     name: ユルティ語

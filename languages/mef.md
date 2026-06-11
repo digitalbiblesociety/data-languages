@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: मेगाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Megam
+    auto: true
   - translation_iso: jpn
     name: メガム語
     auto: true

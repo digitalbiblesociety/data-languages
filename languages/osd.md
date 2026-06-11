@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأوسيتية ديجور
     auto: true
+  - translation_iso: ben
+    name: দিগোর ওস্সেতিক
+    auto: true
   - translation_iso: deu
     name: Digor-Ossetisch
     auto: true

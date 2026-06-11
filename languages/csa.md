@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تشيلتيبك تشينانتك
     auto: true
+  - translation_iso: ben
+    name: চিলতেপেক চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Chiltepec-Chinantekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chinantèque de Chiltepec
   - translation_iso: hin
     name: चिल्टेपेक चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chiltepec Chinantec
     auto: true
   - translation_iso: jpn
     name: チルテペク・チナンテク語

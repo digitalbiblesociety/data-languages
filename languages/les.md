@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يسي
     auto: true
+  - translation_iso: ben
+    name: লেসে
+    auto: true
   - translation_iso: deu
     name: Lese
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lese
   - translation_iso: hin
     name: लेसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lese
     auto: true
   - translation_iso: jpn
     name: エフェ語

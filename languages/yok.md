@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة يوكوتس
     auto: true
+  - translation_iso: ben
+    name: য়োকুতস
+    auto: true
   - translation_iso: deu
     name: Yokuts-Sprachen
   - translation_iso: fra
     name: langues yokuts
   - translation_iso: hin
     name: योकुट्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yokuts
     auto: true
   - translation_iso: jpn
     name: ヨクツ語族

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوندو
     auto: true
+  - translation_iso: ben
+    name: বোনদো
+    auto: true
   - translation_iso: deu
     name: Bondo
     auto: true

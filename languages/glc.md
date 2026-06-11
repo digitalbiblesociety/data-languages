@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بون غولآ
     auto: true
+  - translation_iso: ben
+    name: বোন গুলা
+    auto: true
   - translation_iso: deu
     name: Bon Gula
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bon goula
   - translation_iso: hin
     name: बोन गुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bon Gula
     auto: true
   - translation_iso: jpn
     name: ボン・グラ語

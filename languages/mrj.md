@@ -23,12 +23,18 @@ translations:
   - translation_iso: ara
     name: لغة ماري الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন মারি
+    auto: true
   - translation_iso: deu
     name: Bergmari
   - translation_iso: fra
     name: mari des montagnes
   - translation_iso: hin
     name: पश्चिमी मारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Mari
     auto: true
   - translation_iso: jpn
     name: 山地マリ語

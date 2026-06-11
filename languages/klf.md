@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيندايي
     auto: true
+  - translation_iso: ben
+    name: কেনদেজে
+    auto: true
   - translation_iso: deu
     name: Kendeje
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kendeje
   - translation_iso: hin
     name: केंदेजे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kendeje
     auto: true
   - translation_iso: jpn
     name: ケンデジェ語

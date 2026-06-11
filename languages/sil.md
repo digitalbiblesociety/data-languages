@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة التومولونج سيسالا
     auto: true
+  - translation_iso: ben
+    name: তুমুলুং সিসালা
+    auto: true
   - translation_iso: deu
     name: Tumulung-Sisaala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sisaala tumulung
   - translation_iso: hin
     name: तुमुलुंग सिसाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tumulung Sisaala
     auto: true
   - translation_iso: jpn
     name: シサーラ語

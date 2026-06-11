@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيريل
     auto: true
+  - translation_iso: ben
+    name: জিরেল
+    auto: true
   - translation_iso: deu
     name: Jirel
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jirel
   - translation_iso: hin
     name: जिरेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jirel
     auto: true
   - translation_iso: jpn
     name: ジレル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دورجا
     auto: true
+  - translation_iso: ben
+    name: ধুরগা
+    auto: true
   - translation_iso: deu
     name: Dhurga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dhurga
   - translation_iso: hin
     name: धुर्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhurga
     auto: true
   - translation_iso: jpn
     name: ドゥルガ語

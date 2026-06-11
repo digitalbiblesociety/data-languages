@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيلوي
     auto: true
+  - translation_iso: ben
+    name: ইলুএ
+    auto: true
   - translation_iso: deu
     name: Ilue
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ilue
   - translation_iso: hin
     name: इलुए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ilue
     auto: true
   - translation_iso: jpn
     name: イルエ語

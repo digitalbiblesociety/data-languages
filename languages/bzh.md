@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماپوس بوانج
     auto: true
+  - translation_iso: ben
+    name: মাপোস বুয়াং
+    auto: true
   - translation_iso: deu
     name: Mapos Buang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: buang mapos
   - translation_iso: hin
     name: मापोस बुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mapos Buang
     auto: true
   - translation_iso: jpn
     name: マポス・ブアング語

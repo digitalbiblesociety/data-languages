@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة مولمو وان
     auto: true
+  - translation_iso: ben
+    name: মোলমো ওনে
+    auto: true
   - translation_iso: deu
     name: Molmo One
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: one molmo
   - translation_iso: hin
     name: मोल्मो वन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Molmo One
     auto: true
   - translation_iso: jpn
     name: モルモ・ワン語

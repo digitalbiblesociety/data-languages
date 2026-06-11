@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خانج
     auto: true
+  - translation_iso: ben
+    name: খাং
+    auto: true
   - translation_iso: deu
     name: Kháng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khang
   - translation_iso: hin
     name: खांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kháng
     auto: true
   - translation_iso: jpn
     name: カング語

@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: ندوندا
     auto: true
+  - translation_iso: ben
+    name: নদুনদা
+    auto: true
   - translation_iso: deu
     name: Ndunda
   - translation_iso: fra
     name: ndunda
   - translation_iso: hin
     name: न्दुंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndunda
     auto: true
   - translation_iso: jpn
     name: ンドゥンダ語

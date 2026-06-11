@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरिकापू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arikapú
+    auto: true
   - translation_iso: jpn
     name: アリカプ語
     auto: true

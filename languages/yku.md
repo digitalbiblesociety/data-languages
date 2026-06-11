@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوامسي
     auto: true
+  - translation_iso: ben
+    name: কুয়ামাসি
+    auto: true
   - translation_iso: deu
     name: Kuamasi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुआमासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuamasi
     auto: true
   - translation_iso: jpn
     name: クアマシ語

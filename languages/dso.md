@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ديسيا
     auto: true
+  - translation_iso: ben
+    name: দেসিয়া
+    auto: true
   - translation_iso: deu
     name: Desiya
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: desia
   - translation_iso: hin
     name: देसिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Desiya
     auto: true
   - translation_iso: jpn
     name: デシヤ語

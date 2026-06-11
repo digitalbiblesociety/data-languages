@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: بوكوسو
     auto: true
+  - translation_iso: ben
+    name: বুকুসু
+    auto: true
   - translation_iso: deu
     name: Bukusu
   - translation_iso: fra
     name: bukusu
   - translation_iso: hin
     name: बुकुसु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bukusu
     auto: true
   - translation_iso: jpn
     name: ブクス語

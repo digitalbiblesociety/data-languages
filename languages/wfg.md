@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يافي
     auto: true
+  - translation_iso: ben
+    name: য়াফি
+    auto: true
   - translation_iso: deu
     name: Yafi
     auto: true

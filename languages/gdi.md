@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجوندي
     auto: true
+  - translation_iso: ben
+    name: গুনদি
+    auto: true
   - translation_iso: deu
     name: Gundi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gundi
   - translation_iso: hin
     name: गुंदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gundi
     auto: true
   - translation_iso: jpn
     name: グンディ語

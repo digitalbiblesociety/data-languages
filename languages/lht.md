@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة و-وجا
     auto: true
+  - translation_iso: ben
+    name: লো-তোগা
+    auto: true
   - translation_iso: deu
     name: Lo-Toga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lo-toga
   - translation_iso: hin
     name: लो-तोगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lo-Toga
     auto: true
   - translation_iso: jpn
     name: ロ・トガ語

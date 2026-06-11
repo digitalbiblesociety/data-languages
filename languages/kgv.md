@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاراس
     auto: true
+  - translation_iso: ben
+    name: কারাস
+    auto: true
   - translation_iso: deu
     name: Karas
     auto: true

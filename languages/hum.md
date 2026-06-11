@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هونغانا
     auto: true
+  - translation_iso: ben
+    name: হুঙানা
+    auto: true
   - translation_iso: deu
     name: Hungana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hungana
   - translation_iso: hin
     name: हुंगाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hungana
     auto: true
   - translation_iso: jpn
     name: フンガナ語

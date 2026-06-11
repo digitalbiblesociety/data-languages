@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اكون
     auto: true
+  - translation_iso: ben
+    name: লাকোন
+    auto: true
   - translation_iso: deu
     name: Lakon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lakon
   - translation_iso: hin
     name: लाकोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lakon
     auto: true
   - translation_iso: jpn
     name: ラコン語

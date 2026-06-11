@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अण्डमान क्रियोल हिन्दी
+  - translation_iso: ind
+    name: Bahasa Andaman Creole Hindi
+    auto: true
   - translation_iso: jpn
     name: アンダマン・クレオール・ヒンディー語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واتام
     auto: true
+  - translation_iso: ben
+    name: ওয়াতাম
+    auto: true
   - translation_iso: deu
     name: Watam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: watam
   - translation_iso: hin
     name: वातम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Watam
     auto: true
   - translation_iso: jpn
     name: ワタム語

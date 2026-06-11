@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बहामास क्रियोल अंग्रेज़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bahamas Creole English
+    auto: true
   - translation_iso: jpn
     name: バハマ・クレオール語
   - translation_iso: kor

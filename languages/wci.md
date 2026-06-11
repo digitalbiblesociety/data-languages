@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واسي جبي
     auto: true
+  - translation_iso: ben
+    name: ওয়াকি গবে
+    auto: true
   - translation_iso: deu
     name: Waci
   - translation_iso: fra
     name: waci
   - translation_iso: hin
     name: वासी ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waci Gbe
     auto: true
   - translation_iso: jpn
     name: ワシ・ゲベ語

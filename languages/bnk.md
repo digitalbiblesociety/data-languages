@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बिएरेबो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bierebo
+    auto: true
   - translation_iso: jpn
     name: ビエレボ語
     auto: true

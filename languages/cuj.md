@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماشكو بيرو
     auto: true
+  - translation_iso: ben
+    name: মাশকো পিরো
+    auto: true
   - translation_iso: deu
     name: Mashco Piro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mashco piro
   - translation_iso: hin
     name: माश्को पीरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mashco Piro
     auto: true
   - translation_iso: jpn
     name: マシコ・ピロ語

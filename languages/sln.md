@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السالينان
     auto: true
+  - translation_iso: ben
+    name: সালিনান
+    auto: true
   - translation_iso: deu
     name: Salinan
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: salinan
   - translation_iso: hin
     name: सालिनान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Salinan
     auto: true
   - translation_iso: jpn
     name: サリナ語

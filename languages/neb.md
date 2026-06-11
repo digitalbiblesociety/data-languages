@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توورا
     auto: true
+  - translation_iso: ben
+    name: তোউরা
+    auto: true
   - translation_iso: deu
     name: Toura (Elfenbeinküste)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: toura
   - translation_iso: hin
     name: "तूरा (कोत द'इवोआर)"
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toura
     auto: true
   - translation_iso: jpn
     name: トゥーラ語

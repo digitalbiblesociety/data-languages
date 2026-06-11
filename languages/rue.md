@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rusyn_language"
 translations:
   - translation_iso: ara
     name: الروسينية
+  - translation_iso: ben
+    name: রুসয়ন
+    auto: true
   - translation_iso: deu
     name: Russinisch
   - translation_iso: fra

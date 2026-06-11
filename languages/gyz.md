@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غيآآزي
     auto: true
+  - translation_iso: ben
+    name: গয়াজি
+    auto: true
   - translation_iso: deu
     name: Gyaazi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ग्याज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gyaazi
     auto: true
   - translation_iso: jpn
     name: ギャージ語

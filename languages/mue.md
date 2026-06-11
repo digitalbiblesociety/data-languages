@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ميديا لينجوا
     auto: true
+  - translation_iso: ben
+    name: মেদিয়া লেঙুয়া
+    auto: true
   - translation_iso: deu
     name: Media Lengua
   - translation_iso: fra
     name: media Lengua
   - translation_iso: hin
     name: मीडिया लेंगुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Media Lengua
     auto: true
   - translation_iso: jpn
     name: メディア・レングア

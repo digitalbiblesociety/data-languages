@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتوبي-لوريتجا
     auto: true
+  - translation_iso: ben
+    name: পিনতুপি-লুরিতজা
+    auto: true
   - translation_iso: deu
     name: Pintupi-Luritja
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pintupi
   - translation_iso: hin
     name: पिंतुपी-लुरित्जा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pintupi-Luritja
     auto: true
   - translation_iso: jpn
     name: ピントゥピ・ロリジャ語

@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نييانغبو
     auto: true
+  - translation_iso: ben
+    name: নয়াংবো
+    auto: true
   - translation_iso: deu
     name: Nyangbo
   - translation_iso: fra
     name: nyangbo
   - translation_iso: hin
     name: न्यांगबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyangbo
     auto: true
   - translation_iso: jpn
     name: ニャングボ語

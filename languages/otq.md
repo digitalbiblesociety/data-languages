@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي كويريتارو
     auto: true
+  - translation_iso: ben
+    name: কুএরেতারো ওতোমি
+    auto: true
   - translation_iso: deu
     name: Querétaro-Otomí
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: otomi de Querétaro
   - translation_iso: hin
     name: केरेतारो ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Querétaro Otomi
     auto: true
   - translation_iso: jpn
     name: ケレタロ・オトミ語

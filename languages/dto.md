@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تومو سو دوجون
     auto: true
+  - translation_iso: ben
+    name: তোম্মো সো দোগোন
+    auto: true
   - translation_iso: deu
     name: Tommo So Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tommo so
   - translation_iso: hin
     name: टोम्मो सो डोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tommo So Dogon
     auto: true
   - translation_iso: jpn
     name: トンモ・ソ・ドゴン語

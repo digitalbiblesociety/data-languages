@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناسيريان
     auto: true
+  - translation_iso: ben
+    name: নাসারিয়ান
+    auto: true
   - translation_iso: deu
     name: Nasarian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nasarian
   - translation_iso: hin
     name: नासारियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nasarian
     auto: true
   - translation_iso: jpn
     name: ナサリアン語

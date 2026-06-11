@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كومبيواها
     auto: true
+  - translation_iso: ben
+    name: কুমবেওয়াহা
+    auto: true
   - translation_iso: deu
     name: Kumbewaha
     auto: true

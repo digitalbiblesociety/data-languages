@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سابو
     auto: true
+  - translation_iso: ben
+    name: সাপো
+    auto: true
   - translation_iso: deu
     name: Sapo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sapo
   - translation_iso: hin
     name: सापो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sapo
     auto: true
   - translation_iso: jpn
     name: サポ語

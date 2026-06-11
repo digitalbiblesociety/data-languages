@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة پوتوكوّام
     auto: true
+  - translation_iso: ben
+    name: পুতুকওয়াম
+    auto: true
   - translation_iso: deu
     name: Putukwam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: putukwam
   - translation_iso: hin
     name: पुतुक्वाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Putukwam
     auto: true
   - translation_iso: jpn
     name: プトゥクワム語

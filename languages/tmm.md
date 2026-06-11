@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي ثانه
     auto: true
+  - translation_iso: ben
+    name: তাই থানহ
+    auto: true
   - translation_iso: deu
     name: Tai Thanh
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tay thanh
   - translation_iso: hin
     name: ताई थान्ह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Thanh
     auto: true
   - translation_iso: jpn
     name: タイ・タィン語

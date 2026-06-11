@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينّاي-هاجاهاي
     auto: true
+  - translation_iso: ben
+    name: পিনাই-হাগাহাই
+    auto: true
   - translation_iso: deu
     name: Pinai-Hagahai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pinai-hagahai
   - translation_iso: hin
     name: पिनाई-हगहाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pinai-Hagahai
     auto: true
   - translation_iso: jpn
     name: ピナイハガハイ語

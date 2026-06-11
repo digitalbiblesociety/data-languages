@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوروم
     auto: true
+  - translation_iso: ben
+    name: হোরোম
+    auto: true
   - translation_iso: deu
     name: Horom
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: horom
   - translation_iso: hin
     name: होरोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Horom
     auto: true
   - translation_iso: jpn
     name: ホロム語

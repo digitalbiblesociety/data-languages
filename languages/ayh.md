@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hadhrami_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة حضرمية
+  - translation_iso: ben
+    name: হাদরামি আরাবিক
+    auto: true
   - translation_iso: deu
     name: Hadrami-Arabisch
     auto: true

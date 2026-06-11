@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماني برواني آيلاند
     auto: true
+  - translation_iso: ben
+    name: বরুনয় ইসলানদ তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Bruny Island Tasmanian
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्रूनी द्वीप तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bruny Island Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: ブルニー島タスマニア語

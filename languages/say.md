@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سايا
     auto: true
+  - translation_iso: ben
+    name: সায়া
+    auto: true
   - translation_iso: deu
     name: Saya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: saya
   - translation_iso: hin
     name: साया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saya
     auto: true
   - translation_iso: jpn
     name: グウス語

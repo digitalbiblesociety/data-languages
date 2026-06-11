@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Prasun_language"
 translations:
   - translation_iso: ara
     name: واسي وري
+  - translation_iso: ben
+    name: পরাসুনি
+    auto: true
   - translation_iso: deu
     name: Wasi-Weri
   - translation_iso: fra

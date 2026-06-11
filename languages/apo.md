@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अम्बुल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambul
+    auto: true
   - translation_iso: jpn
     name: アンブル語
     auto: true

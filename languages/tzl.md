@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: تالوسان
     auto: true
+  - translation_iso: ben
+    name: তালোস্সান
+    auto: true
   - translation_iso: deu
     name: Talossanisch
   - translation_iso: fra
     name: talossien
   - translation_iso: hin
     name: तलोसन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Talossan
     auto: true
   - translation_iso: jpn
     name: タロッサ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشيكيان أنكاش
     auto: true
+  - translation_iso: ben
+    name: চিকুইয়ান আনকাশ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Chiquián-Ancash-Quechua
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चिकियान आंकाश क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chiquián Ancash Quechua
     auto: true
   - translation_iso: jpn
     name: チキアンアンカシュケチュア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفوي
     auto: true
+  - translation_iso: ben
+    name: ফওয়ে
+    auto: true
   - translation_iso: deu
     name: Fwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fwe
   - translation_iso: hin
     name: फ्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fwe
     auto: true
   - translation_iso: jpn
     name: フウェ語

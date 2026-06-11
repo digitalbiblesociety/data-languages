@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مجموعة تشوانتشيانديان ميايو
     auto: true
+  - translation_iso: ben
+    name: চুয়ানকিয়ানদিয়ান কলুসতের মিয়াও
+    auto: true
   - translation_iso: deu
     name: Chuanqiandian-Cluster-Miao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miao chuanqiandian
   - translation_iso: hin
     name: चुआनकियानडियन समूह मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chuanqiandian Cluster Miao
     auto: true
   - translation_iso: jpn
     name: 川黔滇苗語

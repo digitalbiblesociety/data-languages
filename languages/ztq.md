@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويوكويتاني-كويري
     auto: true
+  - translation_iso: ben
+    name: কুইওকুইতানি-কুইএরি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Quioquitani-Quierí)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Quioquitani
   - translation_iso: hin
     name: क्योकिटानी-क्येरी ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quioquitani-Quierí Zapotec
     auto: true
   - translation_iso: jpn
     name: キオキタニ-キエリ・サポテク語

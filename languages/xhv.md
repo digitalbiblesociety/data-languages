@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كهوا
     auto: true
+  - translation_iso: ben
+    name: খুয়া
+    auto: true
   - translation_iso: deu
     name: Khua
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: khua
   - translation_iso: hin
     name: ख़ुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khua
     auto: true
   - translation_iso: jpn
     name: クア語

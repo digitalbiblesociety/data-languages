@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مولبوج
     auto: true
+  - translation_iso: ben
+    name: মোলবোগ
+    auto: true
   - translation_iso: deu
     name: Molbog
     auto: true

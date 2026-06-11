@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ساوث واتوت
     auto: true
+  - translation_iso: ben
+    name: সোউথ ওয়াতুত
+    auto: true
   - translation_iso: deu
     name: South Watut
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: watut du Sud
   - translation_iso: hin
     name: दक्षिण वातुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Watut
     auto: true
   - translation_iso: jpn
     name: サウス・ワツゥト語

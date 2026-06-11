@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अराकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Araki
+    auto: true
   - translation_iso: jpn
     name: アラキ語
   - translation_iso: kor

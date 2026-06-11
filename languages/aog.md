@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अंगोरम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Angoram
+    auto: true
   - translation_iso: jpn
     name: アンゴラム語
     auto: true

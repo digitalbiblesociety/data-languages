@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وريدياكاركار
     auto: true
+  - translation_iso: ben
+    name: লোরেদিয়াকারকার
+    auto: true
   - translation_iso: deu
     name: Lorediakarkar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lorediakarkar
   - translation_iso: hin
     name: लोरेदियाकारकार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lorediakarkar
     auto: true
   - translation_iso: jpn
     name: ロレディアカルカル語

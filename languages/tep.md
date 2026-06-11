@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبيكانو
     auto: true
+  - translation_iso: ben
+    name: তেপেকানো
+    auto: true
   - translation_iso: deu
     name: Tepecano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tepecano
   - translation_iso: hin
     name: तेपेकानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tepecano
     auto: true
   - translation_iso: jpn
     name: テペカーノ語

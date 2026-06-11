@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة إنجليزية كريولية جزر العذراء
     auto: true
+  - translation_iso: ben
+    name: ভিরগিন ইসলানদস করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Kreolenglisch der Jungferninseln
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वर्जिन द्वीप क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Virgin Islands Creole English
     auto: true
   - translation_iso: jpn
     name: ネーザーランズ・アンティルズ・クレオール英語

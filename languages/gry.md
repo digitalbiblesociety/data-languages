@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بآركلآيفيللإ غرإبو
     auto: true
+  - translation_iso: ben
+    name: বারকলায়ভিল্লে গরেবো
+    auto: true
   - translation_iso: deu
     name: Barclayville Grebo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बार्कलेविल ग्रेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Barclayville Grebo
     auto: true
   - translation_iso: jpn
     name: バークレイヴィル・グレボ語

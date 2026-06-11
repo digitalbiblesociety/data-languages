@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوية كاريبية
     auto: true
+  - translation_iso: ben
+    name: কারিব্বেয়ান জাভানেসে
+    auto: true
   - translation_iso: deu
     name: Karibisches Javanisch
     auto: true

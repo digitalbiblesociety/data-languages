@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيجالي
     auto: true
+  - translation_iso: ben
+    name: তেগালি
+    auto: true
   - translation_iso: deu
     name: Taqali
   - translation_iso: fra
     name: tegali
   - translation_iso: hin
     name: तेगाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tegali
     auto: true
   - translation_iso: jpn
     name: テガリ語

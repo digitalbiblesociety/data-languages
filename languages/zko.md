@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوت
     auto: true
+  - translation_iso: ben
+    name: কোত্ত
+    auto: true
   - translation_iso: deu
     name: Kott
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kotte
   - translation_iso: hin
     name: कोट्ट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kott
     auto: true
   - translation_iso: jpn
     name: コット語

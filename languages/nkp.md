@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيواتوبوتابو
     auto: true
+  - translation_iso: ben
+    name: নিউয়াতোপুতাপু
+    auto: true
   - translation_iso: deu
     name: Niuatoputapu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: niuatoputapu
   - translation_iso: hin
     name: नियुआतोपुतापु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Niuatoputapu
     auto: true
   - translation_iso: jpn
     name: ニウアトプタプ語

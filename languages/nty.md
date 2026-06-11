@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مانتسي
     auto: true
+  - translation_iso: ben
+    name: মানতসি
+    auto: true
   - translation_iso: deu
     name: Mantsi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mantsi
   - translation_iso: hin
     name: मांत्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mantsi
     auto: true
   - translation_iso: jpn
     name: マントシ語

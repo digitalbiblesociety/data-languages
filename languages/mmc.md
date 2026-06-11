@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاهوا ميتشواكان
     auto: true
+  - translation_iso: ben
+    name: মিচোয়াকান মাজাহুয়া
+    auto: true
   - translation_iso: deu
     name: Michoacán Mazahua
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mazahua du Michoacán
   - translation_iso: hin
     name: मिचोआकान माज़ाहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Michoacán Mazahua
     auto: true
   - translation_iso: jpn
     name: ミチョアカン・マサウア語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: دونجالو
     auto: true
+  - translation_iso: ben
+    name: ধুঙালো
+    auto: true
   - translation_iso: deu
     name: Dhungaloo
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: dhungaloo
   - translation_iso: hin
     name: धुंगालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhungaloo
     auto: true
   - translation_iso: jpn
     name: ドゥンガル語

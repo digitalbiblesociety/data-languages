@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غورإنج غورإنج
     auto: true
+  - translation_iso: ben
+    name: গুরেং গুরেং
+    auto: true
   - translation_iso: deu
     name: Gureng Gureng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gureng gureng
   - translation_iso: hin
     name: गुरेंग गुरेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gureng Gureng
     auto: true
   - translation_iso: jpn
     name: グレング・グレング語

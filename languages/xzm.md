@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: زيمجاليان
     auto: true
+  - translation_iso: ben
+    name: জেমগালিয়ান
+    auto: true
   - translation_iso: deu
     name: Semgallisch
   - translation_iso: fra

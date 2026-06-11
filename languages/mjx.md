@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: माहाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mahali
+    auto: true
   - translation_iso: jpn
     name: マハリ語
     auto: true

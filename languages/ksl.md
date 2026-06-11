@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كومالو
     auto: true
+  - translation_iso: ben
+    name: কুমালু
+    auto: true
   - translation_iso: deu
     name: Kumalu
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: kumalu
   - translation_iso: hin
     name: कुमालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kumalu
     auto: true
   - translation_iso: jpn
     name: クマル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساكيرابيا
     auto: true
+  - translation_iso: ben
+    name: সাকিরাবিয়া
+    auto: true
   - translation_iso: deu
     name: Sakirabiá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mekens
   - translation_iso: hin
     name: साकिराबिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sakirabiá
     auto: true
   - translation_iso: jpn
     name: サキラビア語

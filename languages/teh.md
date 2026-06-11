@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيهويلتشي
     auto: true
+  - translation_iso: ben
+    name: তেহুএলচে
+    auto: true
   - translation_iso: deu
     name: Tehuelche
   - translation_iso: fra
     name: tehuelche
   - translation_iso: hin
     name: तेहुएलचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tehuelche
     auto: true
   - translation_iso: jpn
     name: テウェルチェ語

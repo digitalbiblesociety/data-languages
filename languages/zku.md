@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاورنا
     auto: true
+  - translation_iso: ben
+    name: কাউরনা
+    auto: true
   - translation_iso: deu
     name: Kaurna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaurna
   - translation_iso: hin
     name: कौर्ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaurna
     auto: true
   - translation_iso: jpn
     name: ガウナ語

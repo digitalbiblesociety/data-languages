@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سانتا تيريسا كورا
     auto: true
+  - translation_iso: ben
+    name: সানতা তেরেসা কোরা
+    auto: true
   - translation_iso: deu
     name: Santa Teresa Cora
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: cora Santa Teresa
   - translation_iso: hin
     name: सांता तेरेसा कोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa Teresa Cora
     auto: true
   - translation_iso: jpn
     name: コラ語

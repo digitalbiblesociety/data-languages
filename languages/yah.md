@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: يزجوليام
     auto: true
+  - translation_iso: ben
+    name: য়াজগুলয়াম
+    auto: true
   - translation_iso: deu
     name: Yazghulami
   - translation_iso: fra
     name: yazgulami
   - translation_iso: hin
     name: यज़गुल्याम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yazgulyam
     auto: true
   - translation_iso: jpn
     name: ヤズグリャム語

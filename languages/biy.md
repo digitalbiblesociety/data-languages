@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيرهور
     auto: true
+  - translation_iso: ben
+    name: বিরহোর
+    auto: true
   - translation_iso: deu
     name: Birhor
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: birhor
   - translation_iso: hin
     name: बिरहोर भाषा
+  - translation_iso: ind
+    name: Bahasa Birhor
+    auto: true
   - translation_iso: jpn
     name: ビルホル語
   - translation_iso: kor

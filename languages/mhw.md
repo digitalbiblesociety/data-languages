@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوكوشو
     auto: true
+  - translation_iso: ben
+    name: মবুকুশু
+    auto: true
   - translation_iso: deu
     name: Mbukushu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbukushu
   - translation_iso: hin
     name: म्बुकुशु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbukushu
     auto: true
   - translation_iso: jpn
     name: ムブクシュ語

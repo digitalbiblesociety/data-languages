@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مارينغ ناغا
     auto: true
+  - translation_iso: ben
+    name: মারিং নাগা
+    auto: true
   - translation_iso: deu
     name: Maring-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marin
   - translation_iso: hin
     name: मारिंग नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maring Naga
     auto: true
   - translation_iso: jpn
     name: マリング・ナガ語

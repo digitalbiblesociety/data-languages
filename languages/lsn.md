@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التبتية
     auto: true
+  - translation_iso: ben
+    name: তিবেতান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Tibetische Gebärdensprache
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तिब्बती सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Tibetan Sign Language
+    auto: true
   - translation_iso: jpn
     name: チベット手話
   - translation_iso: kor

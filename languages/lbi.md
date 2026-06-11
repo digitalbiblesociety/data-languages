@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "لا'بي"
     auto: true
+  - translation_iso: ben
+    name: লাবি
+    auto: true
   - translation_iso: deu
     name: "La'bi"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "la'bi"
   - translation_iso: hin
     name: लाबी
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa La'bi"
     auto: true
   - translation_iso: jpn
     name: ラビ語

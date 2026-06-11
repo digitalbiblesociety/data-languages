@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جور مودو
     auto: true
+  - translation_iso: ben
+    name: জুর মোদো
+    auto: true
   - translation_iso: deu
     name: Jur Modo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: modo
   - translation_iso: hin
     name: जुर मोदो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jur Modo
     auto: true
   - translation_iso: jpn
     name: ジュル・モド語

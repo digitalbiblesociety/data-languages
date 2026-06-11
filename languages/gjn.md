@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غونجآ
     auto: true
+  - translation_iso: ben
+    name: গোনজা
+    auto: true
   - translation_iso: deu
     name: Gonja
   - translation_iso: fra
     name: gonja
   - translation_iso: hin
     name: गोंजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gonja
     auto: true
   - translation_iso: jpn
     name: ゴンジャ語

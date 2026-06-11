@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: إيتو
     auto: true
+  - translation_iso: ben
+    name: ইতো
+    auto: true
   - translation_iso: deu
     name: Ito
   - translation_iso: fra
     name: ito
   - translation_iso: hin
     name: इतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ito
     auto: true
   - translation_iso: jpn
     name: イト語

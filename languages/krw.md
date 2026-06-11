@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كرين الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন করাহন
+    auto: true
   - translation_iso: deu
     name: West-Krahn
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "krahn de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी क्राह्न
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Krahn
     auto: true
   - translation_iso: jpn
     name: ウェスタン・クラーン語

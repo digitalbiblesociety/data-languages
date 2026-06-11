@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كاوندي
     auto: true
+  - translation_iso: ben
+    name: কাওনদে
+    auto: true
   - translation_iso: deu
     name: Kaonde
   - translation_iso: fra
     name: kaonde
   - translation_iso: hin
     name: काओन्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaonde
     auto: true
   - translation_iso: jpn
     name: カオンデ語

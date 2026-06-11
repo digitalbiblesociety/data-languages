@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الدزاندو
     auto: true
+  - translation_iso: ben
+    name: দজানদো
+    auto: true
   - translation_iso: deu
     name: Dzando
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dzando
   - translation_iso: hin
     name: ज़ांडो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dzando
     auto: true
   - translation_iso: jpn
     name: ジャンド語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جنوب بيتسيميسارا مالْجاشي
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন বেতসিমিসারাকা মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Südliches Betsimisaraka-Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: betsimisaraka du Sud
   - translation_iso: hin
     name: दक्षिणी बेट्सिमिसाराका मालागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Betsimisaraka Malagasy
     auto: true
   - translation_iso: jpn
     name: 南ベツィミサラカ・マダガスカル語

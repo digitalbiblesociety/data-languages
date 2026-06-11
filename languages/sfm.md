@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: سمول فلاوري ميتاو
     auto: true
+  - translation_iso: ben
+    name: সমাল্ল ফলোওয়েরয় মিয়াও
+    auto: true
   - translation_iso: deu
     name: Klein-Blumen-Miao
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: स्मॉल फ्लावरी मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Small Flowery Miao
     auto: true
   - translation_iso: jpn
     name: 小花苗語

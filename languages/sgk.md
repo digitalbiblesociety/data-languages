@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سانجكونج
     auto: true
+  - translation_iso: ben
+    name: সাংকোং
+    auto: true
   - translation_iso: deu
     name: Sangkong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sangkong
   - translation_iso: hin
     name: सांगकोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sangkong
     auto: true
   - translation_iso: jpn
     name: ブキシア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ولي
     auto: true
+  - translation_iso: ben
+    name: লোলে
+    auto: true
   - translation_iso: deu
     name: Lole
     auto: true

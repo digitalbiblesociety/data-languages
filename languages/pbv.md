@@ -30,6 +30,9 @@ translations:
     name: pnar
   - translation_iso: hin
     name: प्नार भाषा
+  - translation_iso: ind
+    name: Bahasa Pnar
+    auto: true
   - translation_iso: jpn
     name: プナル語
     auto: true

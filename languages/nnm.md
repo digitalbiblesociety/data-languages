@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: नामिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Namia
+    auto: true
   - translation_iso: jpn
     name: ナミア語
   - translation_iso: kor

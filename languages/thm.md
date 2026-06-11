@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أهيو
     auto: true
+  - translation_iso: ben
+    name: আহেউ
+    auto: true
   - translation_iso: deu
     name: Aheu
   - translation_iso: fra
     name: thavung
   - translation_iso: hin
     name: अहेउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Aheu
     auto: true
   - translation_iso: jpn
     name: アヘウ語

@@ -31,6 +31,9 @@ translations:
     name: malvi
   - translation_iso: hin
     name: मालवी
+  - translation_iso: ind
+    name: Bahasa Malvi
+    auto: true
   - translation_iso: jpn
     name: マールヴィー語
   - translation_iso: kor

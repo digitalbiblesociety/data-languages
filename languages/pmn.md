@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بام
     auto: true
+  - translation_iso: ben
+    name: পাম
+    auto: true
   - translation_iso: deu
     name: Pam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pam
   - translation_iso: hin
     name: पाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pam
     auto: true
   - translation_iso: jpn
     name: パム語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوسون ديايه
     auto: true
+  - translation_iso: ben
+    name: দুসুন দেয়াহ
+    auto: true
   - translation_iso: deu
     name: Dusun Deyah
     auto: true

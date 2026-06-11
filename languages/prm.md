@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيبيري
     auto: true
+  - translation_iso: ben
+    name: কিবিরি
+    auto: true
   - translation_iso: deu
     name: Kibiri
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: porome
   - translation_iso: hin
     name: किबिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kibiri
     auto: true
   - translation_iso: jpn
     name: キビリ語

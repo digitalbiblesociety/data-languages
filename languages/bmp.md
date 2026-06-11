@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بولجيبي
     auto: true
+  - translation_iso: ben
+    name: বুলগেবি
+    auto: true
   - translation_iso: deu
     name: Bulgebi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bulgebi
   - translation_iso: hin
     name: बुलगेबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bulgebi
     auto: true
   - translation_iso: jpn
     name: ブルゲビ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجباجي
     auto: true
+  - translation_iso: ben
+    name: গবাগয়ি
+    auto: true
   - translation_iso: deu
     name: Gbagyi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gbagyi
   - translation_iso: hin
     name: ग्बाग्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbagyi
     auto: true
   - translation_iso: jpn
     name: ガバギ語

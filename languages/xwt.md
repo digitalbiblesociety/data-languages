@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ووتجوبالوك
     auto: true
+  - translation_iso: ben
+    name: ওয়োতজোবালুক
+    auto: true
   - translation_iso: deu
     name: Wotjobaluk
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: wotjobaluk
   - translation_iso: hin
     name: वोत्जोबालुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wotjobaluk
     auto: true
   - translation_iso: jpn
     name: ウォッジョバルク語

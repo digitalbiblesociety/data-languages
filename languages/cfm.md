@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فالام تشين
     auto: true
+  - translation_iso: ben
+    name: ফালাম চিন
+    auto: true
   - translation_iso: deu
     name: Falam-Chin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: falam
   - translation_iso: hin
     name: फलाम चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Falam Chin
     auto: true
   - translation_iso: jpn
     name: ファラム語

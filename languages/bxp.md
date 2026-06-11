@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेबिल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bebil
+    auto: true
   - translation_iso: jpn
     name: ベビル語
     auto: true

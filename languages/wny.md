@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وانيي
     auto: true
+  - translation_iso: ben
+    name: ওয়ানয়ি
+    auto: true
   - translation_iso: deu
     name: Wanyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wanyi
   - translation_iso: hin
     name: वान्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanyi
     auto: true
   - translation_iso: jpn
     name: ワニイ語

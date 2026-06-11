@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: توللاي
     auto: true
+  - translation_iso: ben
+    name: তুলাই
+    auto: true
   - translation_iso: deu
     name: Tulai
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: tule
   - translation_iso: hin
     name: तुलाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tulai
     auto: true
   - translation_iso: jpn
     name: トゥラ語

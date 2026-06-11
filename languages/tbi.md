@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غاام
     auto: true
+  - translation_iso: ben
+    name: গাম
+    auto: true
   - translation_iso: deu
     name: Gaam
   - translation_iso: fra
     name: gaahmg
   - translation_iso: hin
     name: गाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gaam
     auto: true
   - translation_iso: jpn
     name: ガアム語

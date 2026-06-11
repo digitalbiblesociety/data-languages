@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك بابانتلا
     auto: true
+  - translation_iso: ben
+    name: পাপানতলা তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Papantla Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque de Papantla
   - translation_iso: hin
     name: पापांत्ला तोतोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Papantla Totonac
     auto: true
   - translation_iso: jpn
     name: パパントラ・トトナック語

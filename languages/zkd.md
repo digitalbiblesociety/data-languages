@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة كادو
     auto: true
+  - translation_iso: ben
+    name: কাদু
+    auto: true
   - translation_iso: deu
     name: Kadu
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: kadu
   - translation_iso: hin
     name: कादू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kadu
     auto: true
   - translation_iso: jpn
     name: カドゥ語

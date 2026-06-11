@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوتشازي
     auto: true
+  - translation_iso: ben
+    name: লুচাজি
+    auto: true
   - translation_iso: deu
     name: Luchazi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luchazi
   - translation_iso: hin
     name: लुचाज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luchazi
     auto: true
   - translation_iso: jpn
     name: ルチャジ語

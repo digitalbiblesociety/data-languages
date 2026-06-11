@@ -30,6 +30,9 @@ translations:
     name: bugun
   - translation_iso: hin
     name: बुगुन भाषा
+  - translation_iso: ind
+    name: Bahasa Bugun
+    auto: true
   - translation_iso: jpn
     name: ブグン語
     auto: true

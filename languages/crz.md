@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكروزينو
     auto: true
+  - translation_iso: ben
+    name: করুজেনয়ো
+    auto: true
   - translation_iso: deu
     name: Cruzeño
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chumash insulaire
   - translation_iso: hin
     name: क्रुज़ेन्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cruzeño
     auto: true
   - translation_iso: jpn
     name: 島嶼チュマシュ語

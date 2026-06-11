@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويرسنج
     auto: true
+  - translation_iso: ben
+    name: ওয়েরসিং
+    auto: true
   - translation_iso: deu
     name: Wersing
     auto: true

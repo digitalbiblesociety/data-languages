@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناموسي-نايتاسيري-سيروا
     auto: true
+  - translation_iso: ben
+    name: নামোসি-নাইতাসিরি-সেরুয়া
+    auto: true
   - translation_iso: deu
     name: Namosi-Naitasiri-Serua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: namosi-naitasiri-serua
   - translation_iso: hin
     name: नामोसी-नैतासिरी-सेरुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namosi-Naitasiri-Serua
     auto: true
   - translation_iso: jpn
     name: ナモシ・ナイタシリ・セルア語

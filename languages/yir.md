@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة آوو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ আওয়য়ু
+    auto: true
   - translation_iso: deu
     name: Nord-Awyu
     auto: true

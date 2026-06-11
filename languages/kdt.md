@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة كوي
     auto: true
+  - translation_iso: ben
+    name: কুয়
+    auto: true
   - translation_iso: deu
     name: Kuy
   - translation_iso: fra
     name: kuy
   - translation_iso: hin
     name: कुय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuy
     auto: true
   - translation_iso: jpn
     name: クイ語

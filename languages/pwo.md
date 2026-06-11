@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الغربية
     auto: true
+  - translation_iso: ben
+    name: পওয়ো ওয়েসতেরন কারেন
+    auto: true
   - translation_iso: deu
     name: Westliches Pwo-Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "pwo de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी प्वो करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pwo Western Karen
     auto: true
   - translation_iso: jpn
     name: プウォ西カレン語

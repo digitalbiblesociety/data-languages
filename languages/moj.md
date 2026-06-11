@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مونزومبو
     auto: true
+  - translation_iso: ben
+    name: মোনজোমবো
+    auto: true
   - translation_iso: deu
     name: Monzombo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: munzombo
   - translation_iso: hin
     name: मोंज़ोंबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Monzombo
     auto: true
   - translation_iso: jpn
     name: モンゾンボ語

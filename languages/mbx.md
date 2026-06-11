@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماري
     auto: true
+  - translation_iso: ben
+    name: মারি
+    auto: true
   - translation_iso: deu
     name: Mari (East Sepik Province)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mari
   - translation_iso: hin
     name: मारी (पूर्वी सेपिक प्रांत)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mari
     auto: true
   - translation_iso: jpn
     name: マリ語

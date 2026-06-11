@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ييروكولا
     auto: true
+  - translation_iso: ben
+    name: য়েরুকুলা
+    auto: true
   - translation_iso: deu
     name: Yerukula
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुर्रु भाषा
+  - translation_iso: ind
+    name: Bahasa Yerukula
+    auto: true
   - translation_iso: jpn
     name: イェルクラ語
     auto: true

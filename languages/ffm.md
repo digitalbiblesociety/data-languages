@@ -22,6 +22,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maasina_Fulfulde"
 translations:
   - translation_iso: ara
     name: اللغة الماسينية
+  - translation_iso: ben
+    name: মাসিনা ফুলফুলদে
+    auto: true
   - translation_iso: deu
     name: Maasina-Fulfulde
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: peul de Maasina
   - translation_iso: hin
     name: मासीना फुलफुल्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maasina Fulfulde
     auto: true
   - translation_iso: jpn
     name: マーシナ・フルフルデ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة امينو
     auto: true
+  - translation_iso: ben
+    name: লামেনু
+    auto: true
   - translation_iso: deu
     name: Lamenu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lamenu
   - translation_iso: hin
     name: लामेनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamenu
     auto: true
   - translation_iso: jpn
     name: ラメヌ語

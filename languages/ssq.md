@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: "اللغة سو'ا"
     auto: true
+  - translation_iso: ben
+    name: সোয়া
+    auto: true
   - translation_iso: deu
     name: "So'a"
   - translation_iso: fra

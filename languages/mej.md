@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميا
     auto: true
+  - translation_iso: ben
+    name: মেয়াহ
+    auto: true
   - translation_iso: deu
     name: Meyah
     auto: true

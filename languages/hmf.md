@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ دون
     auto: true
+  - translation_iso: ben
+    name: হমোং দোন
+    auto: true
   - translation_iso: deu
     name: Hmong Don
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hmong don
   - translation_iso: hin
     name: ह्मोंग डोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hmong Don
     auto: true
   - translation_iso: jpn
     name: フモング・ドン語

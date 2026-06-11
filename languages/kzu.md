@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايوبولاو
     auto: true
+  - translation_iso: ben
+    name: কায়ুপুলাউ
+    auto: true
   - translation_iso: deu
     name: Kayupulau
     auto: true

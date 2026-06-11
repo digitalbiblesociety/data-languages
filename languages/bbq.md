@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बामाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bamali
+    auto: true
   - translation_iso: jpn
     name: バマリ語
     auto: true

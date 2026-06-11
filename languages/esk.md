@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإينوبياتون الأسكا الشمالية الغربية
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসত আলাসকা ইনুপিয়াতুন
+    auto: true
   - translation_iso: deu
     name: Nordwestalaska-Inupiatun
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: inupiaq de la péninsule de Seward
   - translation_iso: hin
     name: उत्तर-पश्चिम अलास्का इनुपियातुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwest Alaska Inupiatun
     auto: true
   - translation_iso: jpn
     name: 北西アラスカ・イヌピアツン語

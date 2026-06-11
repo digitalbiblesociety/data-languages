@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توميني
     auto: true
+  - translation_iso: ben
+    name: তোমিনি
+    auto: true
   - translation_iso: deu
     name: Tomini
   - translation_iso: fra

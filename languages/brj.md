@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيِريا
     auto: true
+  - translation_iso: ben
+    name: বিএরিয়া
+    auto: true
   - translation_iso: deu
     name: Bieria
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bieria
   - translation_iso: hin
     name: बिएरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bieria
     auto: true
   - translation_iso: jpn
     name: ビエリア語

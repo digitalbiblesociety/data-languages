@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديم
     auto: true
+  - translation_iso: ben
+    name: দেম
+    auto: true
   - translation_iso: deu
     name: Dem
     auto: true

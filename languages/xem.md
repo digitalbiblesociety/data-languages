@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيمبايان
     auto: true
+  - translation_iso: ben
+    name: কেমবায়ান
+    auto: true
   - translation_iso: deu
     name: Kembayan
     auto: true

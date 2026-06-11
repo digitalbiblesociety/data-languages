@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناجاركال
     auto: true
+  - translation_iso: ben
+    name: নাগারচাল
+    auto: true
   - translation_iso: deu
     name: Nagarchal
   - translation_iso: fra
     name: nagarchal
   - translation_iso: hin
     name: नागरचाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nagarchal
     auto: true
   - translation_iso: jpn
     name: ナガルチャル語

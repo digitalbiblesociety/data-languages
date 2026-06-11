@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانكارري
     auto: true
+  - translation_iso: ben
+    name: পানকারারে
+    auto: true
   - translation_iso: deu
     name: Pankararé
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pankararé
   - translation_iso: hin
     name: पंकारारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pankararé
     auto: true
   - translation_iso: jpn
     name: パンカラレ語

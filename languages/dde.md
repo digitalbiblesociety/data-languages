@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوندو
     auto: true
+  - translation_iso: ben
+    name: দোনদো
+    auto: true
   - translation_iso: deu
     name: Doondo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दूंदो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doondo
     auto: true
   - translation_iso: jpn
     name: ドゥンド語

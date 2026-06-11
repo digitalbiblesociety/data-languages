@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوجيلي
     auto: true
+  - translation_iso: ben
+    name: উঘেলে
+    auto: true
   - translation_iso: deu
     name: Ughele
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ughele
   - translation_iso: hin
     name: उघेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ughele
     auto: true
   - translation_iso: jpn
     name: ウゲレ語

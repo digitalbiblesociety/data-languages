@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توفين غبي
     auto: true
+  - translation_iso: ben
+    name: তোফিন গবে
+    auto: true
   - translation_iso: deu
     name: Tofin Gbe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tofin-gbe
   - translation_iso: hin
     name: तोफिन ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tofin Gbe
     auto: true
   - translation_iso: jpn
     name: トフィン・ゲベ語

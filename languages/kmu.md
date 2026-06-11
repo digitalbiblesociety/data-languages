@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيتي
     auto: true
+  - translation_iso: ben
+    name: কানিতে
+    auto: true
   - translation_iso: deu
     name: Kanite
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कनिते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanite
     auto: true
   - translation_iso: jpn
     name: カニテ語

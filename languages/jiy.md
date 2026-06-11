@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بويوان جينو
     auto: true
+  - translation_iso: ben
+    name: বুয়ুয়ান জিনুও
+    auto: true
   - translation_iso: deu
     name: Buyuan-Jinuo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: jinuo de Buyuan
   - translation_iso: hin
     name: बुयुआन जिनुओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buyuan Jinuo
     auto: true
   - translation_iso: jpn
     name: ブユアン・ジヌオ語

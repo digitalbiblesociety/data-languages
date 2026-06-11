@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يابيم
     auto: true
+  - translation_iso: ben
+    name: য়াবেম
+    auto: true
   - translation_iso: deu
     name: Yabem
   - translation_iso: fra
     name: yabem
   - translation_iso: hin
     name: याबेम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yabem
     auto: true
   - translation_iso: jpn
     name: ヤベム語

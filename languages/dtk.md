@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيني كان دوجون
     auto: true
+  - translation_iso: ben
+    name: তেনে কান দোগোন
+    auto: true
   - translation_iso: deu
     name: Tene Kan Dogon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tene kan
   - translation_iso: hin
     name: टेने कान डोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tene Kan Dogon
     auto: true
   - translation_iso: jpn
     name: テネ・カン・ドゴン語

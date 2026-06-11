@@ -30,6 +30,9 @@ translations:
     name: varhadi
   - translation_iso: hin
     name: वर्हाडी बोली
+  - translation_iso: ind
+    name: Bahasa Varhadi-Nagpuri
+    auto: true
   - translation_iso: jpn
     name: ヴァルハディ＝ナーグプリ語
   - translation_iso: kor

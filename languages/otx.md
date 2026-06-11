@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيكستيبك
     auto: true
+  - translation_iso: ben
+    name: তেকসকাতেপেক ওতোমি
+    auto: true
   - translation_iso: deu
     name: Texcatepec-Otomí
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: otomi de Texcatepec
   - translation_iso: hin
     name: तेक्सकातेपेक ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Texcatepec Otomi
     auto: true
   - translation_iso: jpn
     name: テクスカテペック・オトミ語

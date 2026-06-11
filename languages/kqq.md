@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كرينياك
     auto: true
+  - translation_iso: ben
+    name: করেনাক
+    auto: true
   - translation_iso: deu
     name: Krenak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: krenak
   - translation_iso: hin
     name: क्रेनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krenak
     auto: true
   - translation_iso: jpn
     name: クレナク語

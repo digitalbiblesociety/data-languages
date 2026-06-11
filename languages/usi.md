@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوسوي
     auto: true
+  - translation_iso: ben
+    name: উসুই
+    auto: true
   - translation_iso: deu
     name: Usui
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: usui
   - translation_iso: hin
     name: उसुई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Usui
     auto: true
   - translation_iso: jpn
     name: トリプラ語

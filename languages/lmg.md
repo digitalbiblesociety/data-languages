@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اموجاي
     auto: true
+  - translation_iso: ben
+    name: লামোগাই
+    auto: true
   - translation_iso: deu
     name: Lamogai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lamogai
   - translation_iso: hin
     name: लामोगाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lamogai
     auto: true
   - translation_iso: jpn
     name: ラモガイ語

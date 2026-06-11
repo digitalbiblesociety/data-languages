@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة منجين
     auto: true
+  - translation_iso: ben
+    name: মেঙেন
+    auto: true
   - translation_iso: deu
     name: Mengen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mengen
   - translation_iso: hin
     name: मेंगेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mengen
     auto: true
   - translation_iso: jpn
     name: メンゲン語

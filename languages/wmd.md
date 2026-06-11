@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مامايند
     auto: true
+  - translation_iso: ben
+    name: মামাইনদে
+    auto: true
   - translation_iso: deu
     name: Mamaindé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mamaindé
   - translation_iso: hin
     name: ममाइन्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mamaindé
     auto: true
   - translation_iso: jpn
     name: ママインデ語

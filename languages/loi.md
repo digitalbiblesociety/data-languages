@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وما
     auto: true
+  - translation_iso: ben
+    name: লোমা
+    auto: true
   - translation_iso: deu
     name: Loma (Elfenbeinküste)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: loma
   - translation_iso: hin
     name: लोमा (कोत दिव्वार)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loma
     auto: true
   - translation_iso: jpn
     name: ロマ語

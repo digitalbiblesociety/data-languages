@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: هاجي
     auto: true
+  - translation_iso: ben
+    name: হাজি
+    auto: true
   - translation_iso: deu
     name: Haji
     auto: true

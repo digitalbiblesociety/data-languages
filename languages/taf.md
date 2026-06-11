@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تابيرابي
     auto: true
+  - translation_iso: ben
+    name: তাপিরাপে
+    auto: true
   - translation_iso: deu
     name: Tapirapé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tapirapé
   - translation_iso: hin
     name: तापिरापे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tapirapé
     auto: true
   - translation_iso: jpn
     name: タピラペ語

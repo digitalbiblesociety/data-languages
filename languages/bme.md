@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ليماسا
     auto: true
+  - translation_iso: ben
+    name: লিমাস্সা
+    auto: true
   - translation_iso: deu
     name: Limassa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: limassa
   - translation_iso: hin
     name: लिमास्सा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Limassa
     auto: true
   - translation_iso: jpn
     name: リマッサ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موغ الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল মনোং
+    auto: true
   - translation_iso: deu
     name: Zentrales Mnong
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mnong central
   - translation_iso: hin
     name: मध्य म्नोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Mnong
     auto: true
   - translation_iso: jpn
     name: セントラル・ムノング語

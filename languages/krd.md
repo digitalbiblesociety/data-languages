@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كايروي-ميديكي
     auto: true
+  - translation_iso: ben
+    name: কাইরুই-মিদিকি
+    auto: true
   - translation_iso: deu
     name: Kairui-Midiki
   - translation_iso: fra
     name: kairui-midiki
   - translation_iso: hin
     name: कैरुई-मिदिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kairui-Midiki
     auto: true
   - translation_iso: jpn
     name: カイルイ・ミディキ語

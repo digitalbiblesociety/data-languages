@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جيريامة
     auto: true
+  - translation_iso: ben
+    name: গিরয়ামা
+    auto: true
   - translation_iso: deu
     name: Giryama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: giriama
   - translation_iso: hin
     name: गिर्यामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Giryama
     auto: true
   - translation_iso: jpn
     name: ギリアマ語

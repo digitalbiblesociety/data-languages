@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موبوم
     auto: true
+  - translation_iso: ben
+    name: মোমবুম
+    auto: true
   - translation_iso: deu
     name: Mombum
     auto: true

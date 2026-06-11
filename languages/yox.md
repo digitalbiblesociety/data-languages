@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يورون
     auto: true
+  - translation_iso: ben
+    name: য়োরোন
+    auto: true
   - translation_iso: deu
     name: Yoron
     auto: true

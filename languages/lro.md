@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ارو
     auto: true
+  - translation_iso: ben
+    name: লারো
+    auto: true
   - translation_iso: deu
     name: Laro
   - translation_iso: fra
     name: laro
   - translation_iso: hin
     name: लारो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laro
     auto: true
   - translation_iso: jpn
     name: ラロ語

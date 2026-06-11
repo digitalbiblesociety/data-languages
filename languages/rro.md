@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايما
     auto: true
+  - translation_iso: ben
+    name: ওয়াইমা
+    auto: true
   - translation_iso: deu
     name: Waima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: roro
   - translation_iso: hin
     name: वाइमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waima
     auto: true
   - translation_iso: jpn
     name: ワイマ語

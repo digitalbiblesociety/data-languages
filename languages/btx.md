@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Karo_language"
 translations:
   - translation_iso: ara
     name: كارو باتاك
+  - translation_iso: ben
+    name: বাতাক কারো
+    auto: true
   - translation_iso: deu
     name: Karo
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توبانجا
     auto: true
+  - translation_iso: ben
+    name: তোবাঙা
+    auto: true
   - translation_iso: deu
     name: Tobanga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तोबांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tobanga
     auto: true
   - translation_iso: jpn
     name: トバンガ語

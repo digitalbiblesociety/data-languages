@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: भटियाली
+  - translation_iso: ind
+    name: Bahasa Bhattiyali
+    auto: true
   - translation_iso: jpn
     name: バッティヤリ語
   - translation_iso: kor

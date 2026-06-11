@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوماتيلا
     auto: true
+  - translation_iso: ben
+    name: উমাতিল্লা
+    auto: true
   - translation_iso: deu
     name: Umatilla
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: umatilla
   - translation_iso: hin
     name: उमातिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umatilla
     auto: true
   - translation_iso: jpn
     name: コロンビア川サハプティン語

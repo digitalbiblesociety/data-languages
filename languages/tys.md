@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي سا با
     auto: true
+  - translation_iso: ben
+    name: তায় সা পা
+    auto: true
   - translation_iso: deu
     name: Tày Sa Pa
     auto: true

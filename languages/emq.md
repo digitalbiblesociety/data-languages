@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الينياج الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মিনয়াগ
+    auto: true
   - translation_iso: deu
     name: Ost-Minyag
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी मिन्याग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Minyag
     auto: true
   - translation_iso: jpn
     name: 東ミニャン語

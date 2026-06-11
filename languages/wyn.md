@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: وياندوت
     auto: true
+  - translation_iso: ben
+    name: ওয়য়ানদোত
+    auto: true
   - translation_iso: deu
     name: Wyandot
     auto: true
@@ -19,6 +22,9 @@ translations:
     name: wyandot
   - translation_iso: hin
     name: वायंडोट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wyandot
     auto: true
   - translation_iso: jpn
     name: ワイアンドット語

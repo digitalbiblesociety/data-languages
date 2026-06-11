@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كايورت
     auto: true
+  - translation_iso: ben
+    name: কায়োরত
+    auto: true
   - translation_iso: deu
     name: Kayort
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kayort
   - translation_iso: hin
     name: कायोर्ट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayort
     auto: true
   - translation_iso: jpn
     name: カヨルット語

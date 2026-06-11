@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيست دامار
     auto: true
+  - translation_iso: ben
+    name: এয়াসত দামার
+    auto: true
   - translation_iso: deu
     name: Damar Timur
   - translation_iso: fra

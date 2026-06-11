@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बानिवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baniwa
+    auto: true
   - translation_iso: jpn
     name: バニワ語
   - translation_iso: kor

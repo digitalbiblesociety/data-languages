@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيموق
     auto: true
+  - translation_iso: ben
+    name: তেমোক
+    auto: true
   - translation_iso: deu
     name: Temoq
     auto: true

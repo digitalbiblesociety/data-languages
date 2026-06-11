@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बायोट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bayot
+    auto: true
   - translation_iso: jpn
     name: バヨット語
   - translation_iso: kor

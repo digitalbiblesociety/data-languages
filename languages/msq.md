@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاك
     auto: true
+  - translation_iso: ben
+    name: কাক
+    auto: true
   - translation_iso: deu
     name: Caac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: caac
   - translation_iso: hin
     name: काक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Caac
     auto: true
   - translation_iso: jpn
     name: カアック語

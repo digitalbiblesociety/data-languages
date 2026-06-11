@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميشب
     auto: true
+  - translation_iso: ben
+    name: মিশিপ
+    auto: true
   - translation_iso: deu
     name: Miship
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miship
   - translation_iso: hin
     name: मिशिप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miship
     auto: true
   - translation_iso: jpn
     name: ミシップ語

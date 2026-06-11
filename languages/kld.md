@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاميلاراي
     auto: true
+  - translation_iso: ben
+    name: গামিলারায়
+    auto: true
   - translation_iso: deu
     name: Gamilaraay
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kamilaroi
   - translation_iso: hin
     name: गमिलाराय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gamilaraay
     auto: true
   - translation_iso: jpn
     name: カミラロイ語

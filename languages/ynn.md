@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة يانا
     auto: true
+  - translation_iso: ben
+    name: য়ানা
+    auto: true
   - translation_iso: deu
     name: Yana
   - translation_iso: fra
     name: yana
   - translation_iso: hin
     name: याना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yana
     auto: true
   - translation_iso: jpn
     name: ヤナ語

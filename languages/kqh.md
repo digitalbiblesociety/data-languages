@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسانكاسا
     auto: true
+  - translation_iso: ben
+    name: কিসানকাসা
+    auto: true
   - translation_iso: deu
     name: Kisankasa
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kisankasa
   - translation_iso: hin
     name: किसांकासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kisankasa
     auto: true
   - translation_iso: jpn
     name: キサンカサ語

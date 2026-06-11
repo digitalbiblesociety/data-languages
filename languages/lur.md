@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة اورا
     auto: true
+  - translation_iso: ben
+    name: লাউরা
+    auto: true
   - translation_iso: deu
     name: Laura
     auto: true

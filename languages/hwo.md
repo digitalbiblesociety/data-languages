@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوانا
     auto: true
+  - translation_iso: ben
+    name: হওয়ানা
+    auto: true
   - translation_iso: deu
     name: Hwana
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ह्वाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hwana
     auto: true
   - translation_iso: jpn
     name: フアナ語

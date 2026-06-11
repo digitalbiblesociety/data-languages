@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ساوث سنترال دينكا
     auto: true
+  - translation_iso: ben
+    name: সোউথ কেনতরাল দিনকা
+    auto: true
   - translation_iso: deu
     name: Südzentral-Dinka
   - translation_iso: fra
     name: dinka du Sud-Central
   - translation_iso: hin
     name: दक्षिण मध्य डिंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Central Dinka
     auto: true
   - translation_iso: jpn
     name: 中南ディンカ語

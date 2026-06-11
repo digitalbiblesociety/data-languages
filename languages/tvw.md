@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيدوا
     auto: true
+  - translation_iso: ben
+    name: সেদোয়া
+    auto: true
   - translation_iso: deu
     name: Sedoa
     auto: true

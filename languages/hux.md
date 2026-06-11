@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوبودي هويتوتو
     auto: true
+  - translation_iso: ben
+    name: নুপোদে হুইতোতো
+    auto: true
   - translation_iso: deu
     name: Nüpode-Huitoto
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: witoto nipode
   - translation_iso: hin
     name: नूपोदे हुइतोतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nüpode Huitoto
     auto: true
   - translation_iso: jpn
     name: ヌポデ・ウイトト語

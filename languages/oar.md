@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Aramaic"
 translations:
   - translation_iso: ara
     name: الآرامية القديمة
+  - translation_iso: ben
+    name: ওলদ আরামাইক
+    auto: true
   - translation_iso: deu
     name: Altaramäisch
   - translation_iso: fra

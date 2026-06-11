@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمارجانج
     auto: true
+  - translation_iso: ben
+    name: কিমারাগাং
+    auto: true
   - translation_iso: deu
     name: Kimaragang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kimaragang
   - translation_iso: hin
     name: किमारागंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kimaragang
     auto: true
   - translation_iso: jpn
     name: キマラガン語

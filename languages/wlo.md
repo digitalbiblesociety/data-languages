@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ووليو
     auto: true
+  - translation_iso: ben
+    name: ওয়োলিও
+    auto: true
   - translation_iso: deu
     name: Wolio
   - translation_iso: fra

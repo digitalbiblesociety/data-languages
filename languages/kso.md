@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كوفا
     auto: true
+  - translation_iso: ben
+    name: কোফা
+    auto: true
   - translation_iso: deu
     name: Kofa
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kofa
   - translation_iso: hin
     name: कोफा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kofa
     auto: true
   - translation_iso: jpn
     name: コファ語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة امبيكههونج
     auto: true
+  - translation_iso: ben
+    name: লামবিচহোং
+    auto: true
   - translation_iso: deu
     name: Lambichhong
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: lambichhong
   - translation_iso: hin
     name: लंबिछोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lambichhong
     auto: true
   - translation_iso: jpn
     name: ラムビッチョン語

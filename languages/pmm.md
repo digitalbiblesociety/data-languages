@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بومو
     auto: true
+  - translation_iso: ben
+    name: পোমো
+    auto: true
   - translation_iso: deu
     name: Pol
   - translation_iso: fra
     name: pol
   - translation_iso: hin
     name: पोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pomo
     auto: true
   - translation_iso: jpn
     name: ポモ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: زولا جبي الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন কসওয়লা গবে
+    auto: true
   - translation_iso: deu
     name: Östliches Xwla Gbe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "gbe xwla de l'Est"
   - translation_iso: hin
     name: पूर्वी ख्व्ला ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Xwla Gbe
     auto: true
   - translation_iso: jpn
     name: 東スウラ・ベ語

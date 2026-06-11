@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جيمي
     auto: true
+  - translation_iso: ben
+    name: গিম্মে
+    auto: true
   - translation_iso: deu
     name: Gimme
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gimme
   - translation_iso: hin
     name: गिम्मे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gimme
     auto: true
   - translation_iso: jpn
     name: ギンメ語

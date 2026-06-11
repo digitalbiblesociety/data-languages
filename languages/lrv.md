@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اريفات
     auto: true
+  - translation_iso: ben
+    name: লারেভাত
+    auto: true
   - translation_iso: deu
     name: Larevat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: larevat
   - translation_iso: hin
     name: लारेवात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Larevat
     auto: true
   - translation_iso: jpn
     name: ラレバット語

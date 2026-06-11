@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديريكو
     auto: true
+  - translation_iso: ben
+    name: দিরিকু
+    auto: true
   - translation_iso: deu
     name: Diriku
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: diriku
   - translation_iso: hin
     name: दिरिकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Diriku
     auto: true
   - translation_iso: jpn
     name: ディリク語

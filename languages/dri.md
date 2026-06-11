@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيليلا
     auto: true
+  - translation_iso: ben
+    name: কলেলা
+    auto: true
   - translation_iso: deu
     name: "C'Lela"
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: "सी'लेला"
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa C'Lela"
     auto: true
   - translation_iso: jpn
     name: クレラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الليبيرية
     auto: true
+  - translation_iso: ben
+    name: লিবেরিয়ান এংলিশ
+    auto: true
   - translation_iso: deu
     name: Liberianisches Englisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: créole libérien
   - translation_iso: hin
     name: लाइबेरियाई अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Liberian English
     auto: true
   - translation_iso: jpn
     name: リベリアン・イングリッシュ語

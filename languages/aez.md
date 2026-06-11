@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: एका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aeka
+    auto: true
   - translation_iso: jpn
     name: アエカ語
     auto: true

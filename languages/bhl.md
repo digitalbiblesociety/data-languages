@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बिमिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bimin
+    auto: true
   - translation_iso: jpn
     name: ビミン語
     auto: true

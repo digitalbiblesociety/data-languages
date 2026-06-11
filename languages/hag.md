@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: هآنجآ
     auto: true
+  - translation_iso: ben
+    name: হাঙা
+    auto: true
   - translation_iso: deu
     name: Hanga
   - translation_iso: fra
     name: hanga
   - translation_iso: hin
     name: हंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hanga
     auto: true
   - translation_iso: jpn
     name: ハンガ語

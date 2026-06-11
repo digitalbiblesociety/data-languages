@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورات
     auto: true
+  - translation_iso: ben
+    name: উরাত
+    auto: true
   - translation_iso: deu
     name: Urat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: urat
   - translation_iso: hin
     name: उरात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urat
     auto: true
   - translation_iso: jpn
     name: ウラット語

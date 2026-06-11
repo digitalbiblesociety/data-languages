@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توراهومارا جنوب غربي
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন তারাহুমারা
+    auto: true
   - translation_iso: deu
     name: Südwestliches Tarahumara
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tarahumara du Sud-Ouest
   - translation_iso: hin
     name: दक्षिणपश्चिमी तारहुमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Tarahumara
     auto: true
   - translation_iso: jpn
     name: ララムリ・ライチャ語

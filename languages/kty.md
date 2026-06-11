@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كانجو (منطقة باس-أويليه)
     auto: true
+  - translation_iso: ben
+    name: কাঙো
+    auto: true
   - translation_iso: deu
     name: Kango (Bas-Uélé)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kango
   - translation_iso: hin
     name: कांगो (बास-उएले)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kango
     auto: true
   - translation_iso: jpn
     name: Kango語

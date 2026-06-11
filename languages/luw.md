@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: ben
+    name: লুও
+    auto: true
   - translation_iso: deu
     name: Luo (Cameroon)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luo
   - translation_iso: hin
     name: लुओ (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luo
     auto: true
   - translation_iso: jpn
     name: ルオ語

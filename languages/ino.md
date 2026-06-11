@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إينوك-ياتي
     auto: true
+  - translation_iso: ben
+    name: ইনোকে-য়াতে
+    auto: true
   - translation_iso: deu
     name: Inoke-Yate
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इनोके-याते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Inoke-Yate
     auto: true
   - translation_iso: jpn
     name: イノケ・ヤテ語

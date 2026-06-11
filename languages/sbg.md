@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيجت
     auto: true
+  - translation_iso: ben
+    name: সেগেত
+    auto: true
   - translation_iso: deu
     name: Seget
     auto: true

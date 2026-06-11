@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غإسإر-غوروم
     auto: true
+  - translation_iso: ben
+    name: গেসের-গোরোম
+    auto: true
   - translation_iso: deu
     name: Geser-Gorom
     auto: true

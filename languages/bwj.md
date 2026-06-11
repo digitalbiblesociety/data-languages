@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لاا لاا بوامو
     auto: true
+  - translation_iso: ben
+    name: লা লা বওয়ামু
+    auto: true
   - translation_iso: deu
     name: Láá Láá Bwamu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bwamu laa
   - translation_iso: hin
     name: लाआ लाआ ब्वामु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Láá Láá Bwamu
     auto: true
   - translation_iso: jpn
     name: ラー・ラー・ブワム語

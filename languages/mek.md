@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكيو
     auto: true
+  - translation_iso: ben
+    name: মেকেও
+    auto: true
   - translation_iso: deu
     name: Mekeo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mekeo
   - translation_iso: hin
     name: मेकेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mekeo
     auto: true
   - translation_iso: jpn
     name: メケオ語

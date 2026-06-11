@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوتوه
     auto: true
+  - translation_iso: ben
+    name: পুতোহ
+    auto: true
   - translation_iso: deu
     name: Putoh
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: putoh
   - translation_iso: hin
     name: पुतोह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Putoh
     auto: true
   - translation_iso: jpn
     name: プトー語

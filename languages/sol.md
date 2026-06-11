@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سولوس
     auto: true
+  - translation_iso: ben
+    name: সোলোস
+    auto: true
   - translation_iso: deu
     name: Solos
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: solos
   - translation_iso: hin
     name: सोलोस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Solos
     auto: true
   - translation_iso: jpn
     name: トロス語

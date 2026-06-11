@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوامير
     auto: true
+  - translation_iso: ben
+    name: কওয়ামেরা
+    auto: true
   - translation_iso: deu
     name: Kwamera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwamera
   - translation_iso: hin
     name: क्वामेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwamera
     auto: true
   - translation_iso: jpn
     name: クワメラ語

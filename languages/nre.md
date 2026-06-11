@@ -30,6 +30,9 @@ translations:
     name: rengma du Sud
   - translation_iso: hin
     name: रेंगमा भाषा
+  - translation_iso: ind
+    name: Bahasa Southern Rengma Naga
+    auto: true
   - translation_iso: jpn
     name: 南レングマ・ナガ語
   - translation_iso: kor

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बैलेलेआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baelelea
+    auto: true
   - translation_iso: jpn
     name: バエレレア語
     auto: true

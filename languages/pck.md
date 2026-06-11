@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايتي تشين
     auto: true
+  - translation_iso: ben
+    name: পাইতে চিন
+    auto: true
   - translation_iso: deu
     name: Paite-Chin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paite
   - translation_iso: hin
     name: पिटे भाषा
+  - translation_iso: ind
+    name: Bahasa Paite Chin
+    auto: true
   - translation_iso: jpn
     name: パイテ・チン語
     auto: true

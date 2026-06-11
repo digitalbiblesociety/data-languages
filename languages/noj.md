@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نونويا
     auto: true
+  - translation_iso: ben
+    name: নোনুয়া
+    auto: true
   - translation_iso: deu
     name: Nonuya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nonuya
   - translation_iso: hin
     name: नोनुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nonuya
     auto: true
   - translation_iso: jpn
     name: ノヌヤ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: ben
+    name: বুলি
+    auto: true
   - translation_iso: deu
     name: Buli (Indonesien)
     auto: true

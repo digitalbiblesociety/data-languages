@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جاندافرا
     auto: true
+  - translation_iso: ben
+    name: জানদাভরা
+    auto: true
   - translation_iso: deu
     name: Jandavra
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जांदावरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jandavra
     auto: true
   - translation_iso: jpn
     name: ジャンダブラ語

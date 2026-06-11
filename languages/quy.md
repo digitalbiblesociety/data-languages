@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आयाकुचो क्वेचुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayacucho Quechua
+    auto: true
   - translation_iso: jpn
     name: アヤクーチョケチュア語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوانوا
     auto: true
+  - translation_iso: ben
+    name: কুয়ানুয়া
+    auto: true
   - translation_iso: deu
     name: Kuanua
   - translation_iso: fra

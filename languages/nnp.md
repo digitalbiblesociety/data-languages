@@ -30,6 +30,9 @@ translations:
     name: wantcho
   - translation_iso: hin
     name: वैन्चो भाषा
+  - translation_iso: ind
+    name: Bahasa Wancho Naga
+    auto: true
   - translation_iso: jpn
     name: ワンチョ・ナガ語
     auto: true

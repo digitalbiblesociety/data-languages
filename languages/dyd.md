@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديوجون
     auto: true
+  - translation_iso: ben
+    name: দয়ুগুন
+    auto: true
   - translation_iso: deu
     name: Dyugun
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dyugun
   - translation_iso: hin
     name: द्युगुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dyugun
     auto: true
   - translation_iso: jpn
     name: デュグン語

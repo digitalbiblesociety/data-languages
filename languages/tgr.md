@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تارينغ
     auto: true
+  - translation_iso: ben
+    name: তারেং
+    auto: true
   - translation_iso: deu
     name: Tareng
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: tareng
   - translation_iso: hin
     name: तारेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tareng
     auto: true
   - translation_iso: jpn
     name: タレン語

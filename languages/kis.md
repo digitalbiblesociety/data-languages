@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيس
     auto: true
+  - translation_iso: ben
+    name: কিস
+    auto: true
   - translation_iso: deu
     name: Kis
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kis
   - translation_iso: hin
     name: किस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kis
     auto: true
   - translation_iso: jpn
     name: キス語

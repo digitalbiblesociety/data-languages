@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وونايي بونو
     auto: true
+  - translation_iso: ben
+    name: ওয়ুনাই বুনু
+    auto: true
   - translation_iso: deu
     name: Wunai Bunu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wunai
   - translation_iso: hin
     name: वुनाई बुनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wunai Bunu
     auto: true
   - translation_iso: jpn
     name: 唔奈方言

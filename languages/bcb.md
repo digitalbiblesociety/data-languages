@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: बायनूक-समिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bainouk-Samik
+    auto: true
   - translation_iso: jpn
     name: バイノック・サミク語
     auto: true

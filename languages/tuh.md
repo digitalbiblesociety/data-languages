@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاوليل
     auto: true
+  - translation_iso: ben
+    name: তাউলিল
+    auto: true
   - translation_iso: deu
     name: Taulil
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: taulil
   - translation_iso: hin
     name: ताउलिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taulil
     auto: true
   - translation_iso: jpn
     name: タウリル語

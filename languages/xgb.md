@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غبين
     auto: true
+  - translation_iso: ben
+    name: গবিন
+    auto: true
   - translation_iso: deu
     name: Gbin
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gbin
   - translation_iso: hin
     name: ग्बिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbin
     auto: true
   - translation_iso: jpn
     name: ギビン語

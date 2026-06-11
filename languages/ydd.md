@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: يديش الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন য়িদ্দিশ
+    auto: true
   - translation_iso: deu
     name: Ostjiddisch
   - translation_iso: fra
     name: yiddish oriental
   - translation_iso: hin
     name: पूर्वी यिडिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Yiddish
     auto: true
   - translation_iso: jpn
     name: 東イディッシュ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نشومبولو
     auto: true
+  - translation_iso: ben
+    name: নচুমবুলু
+    auto: true
   - translation_iso: deu
     name: Nchumbulu
   - translation_iso: fra
     name: nchumbulu
   - translation_iso: hin
     name: न्चुम्बुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nchumbulu
     auto: true
   - translation_iso: jpn
     name: ンチュンブル語

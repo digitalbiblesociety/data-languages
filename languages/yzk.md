@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة زوخوو
     auto: true
+  - translation_iso: ben
+    name: জোখুও
+    auto: true
   - translation_iso: deu
     name: Zokhuo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़ोखुओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zokhuo
     auto: true
   - translation_iso: jpn
     name: ゾクフォ語

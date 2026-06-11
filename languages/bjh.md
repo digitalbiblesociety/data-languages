@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बहिनेमो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bahinemo
+    auto: true
   - translation_iso: jpn
     name: バヒネモ語
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अयिज़ो ग्बे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayizo Gbe
+    auto: true
   - translation_iso: jpn
     name: アイゾ語
   - translation_iso: kor

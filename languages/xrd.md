@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: جوندونجورا
     auto: true
+  - translation_iso: ben
+    name: গুনদুঙুর্রা
+    auto: true
   - translation_iso: deu
     name: Gundungurra
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: gundungurra
   - translation_iso: hin
     name: गुंडुंगुर्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gundungurra
     auto: true
   - translation_iso: jpn
     name: ガンダンガラ語

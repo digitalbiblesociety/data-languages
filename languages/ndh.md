@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نداليا
     auto: true
+  - translation_iso: ben
+    name: নদালি
+    auto: true
   - translation_iso: deu
     name: Ndali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ndali
   - translation_iso: hin
     name: न्दाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndali
     auto: true
   - translation_iso: jpn
     name: ンダリ語

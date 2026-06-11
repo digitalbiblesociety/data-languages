@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बियाफ़ादा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biafada
+    auto: true
   - translation_iso: jpn
     name: ビアファダ語
     auto: true

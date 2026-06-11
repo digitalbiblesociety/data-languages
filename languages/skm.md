@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوتونج
     auto: true
+  - translation_iso: ben
+    name: কুতোং
+    auto: true
   - translation_iso: deu
     name: Kutong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुटोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kutong
     auto: true
   - translation_iso: jpn
     name: クトン語

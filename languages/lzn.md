@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يينونج اجا
     auto: true
+  - translation_iso: ben
+    name: লেইনোং নাগা
+    auto: true
   - translation_iso: deu
     name: Leinong Naga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लीनोंग नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Leinong Naga
     auto: true
   - translation_iso: jpn
     name: レイノン・ナガ語

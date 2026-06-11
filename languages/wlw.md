@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: والاك
     auto: true
+  - translation_iso: ben
+    name: ওয়ালাক
+    auto: true
   - translation_iso: deu
     name: Walak
     auto: true

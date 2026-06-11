@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Veps_language"
 translations:
   - translation_iso: ara
     name: الفيبسية
+  - translation_iso: ben
+    name: ভেপস
+    auto: true
   - translation_iso: deu
     name: Wepsisch
   - translation_iso: fra

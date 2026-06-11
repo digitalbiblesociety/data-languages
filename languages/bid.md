@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيديو
     auto: true
+  - translation_iso: ben
+    name: বিদিয়ো
+    auto: true
   - translation_iso: deu
     name: Bidiyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bidiyo
   - translation_iso: hin
     name: बिदियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bidiyo
     auto: true
   - translation_iso: jpn
     name: ビディヨ語

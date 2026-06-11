@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خاه
     auto: true
+  - translation_iso: ben
+    name: খাহ
+    auto: true
   - translation_iso: deu
     name: Khah
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: खाह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khah
     auto: true
   - translation_iso: jpn
     name: カー語

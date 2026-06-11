@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دوماكي
     auto: true
+  - translation_iso: ben
+    name: দোমাকি
+    auto: true
   - translation_iso: deu
     name: Dumaki
   - translation_iso: fra
     name: domaaki
   - translation_iso: hin
     name: डोमाकी भाषा
+  - translation_iso: ind
+    name: Bahasa Domaaki
+    auto: true
   - translation_iso: jpn
     name: ドマーキー語
   - translation_iso: kor

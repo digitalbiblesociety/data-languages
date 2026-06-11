@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بيسوريو
     auto: true
+  - translation_iso: ben
+    name: বিসোরিও
+    auto: true
   - translation_iso: deu
     name: Bisorio
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bisorio
   - translation_iso: hin
     name: बिसोरियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bisorio
     auto: true
   - translation_iso: jpn
     name: ビソリオ語

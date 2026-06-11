@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كالابري
     auto: true
+  - translation_iso: ben
+    name: কালাবারি
+    auto: true
   - translation_iso: deu
     name: Kalabari
   - translation_iso: fra
     name: kalabari
   - translation_iso: hin
     name: कलाबारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalabari
     auto: true
   - translation_iso: jpn
     name: カラバリ語

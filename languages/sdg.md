@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سافي
     auto: true
+  - translation_iso: ben
+    name: সাভি
+    auto: true
   - translation_iso: deu
     name: Savi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sawi
   - translation_iso: hin
     name: सावी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Savi
     auto: true
   - translation_iso: jpn
     name: サウ語

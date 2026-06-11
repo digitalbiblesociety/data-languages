@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكاباي
     auto: true
+  - translation_iso: ben
+    name: কাকাবাই
+    auto: true
   - translation_iso: deu
     name: Kakabai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langue Kakabai
   - translation_iso: hin
     name: काकाबाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kakabai
     auto: true
   - translation_iso: jpn
     name: カカバイ語

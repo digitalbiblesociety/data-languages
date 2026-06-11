@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا ماركوس-يارويلكا-لاوريكوتشا
     auto: true
+  - translation_iso: ben
+    name: মারগোস-য়ারোওয়িলকা-লাউরিকোচা কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Margos-Yarowilca-Lauricocha-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua de Margos-Yarowilca-Lauricocha
   - translation_iso: hin
     name: मार्गोस-यारोविल्का-लाउरिकोचा क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Margos-Yarowilca-Lauricocha Quechua
     auto: true
   - translation_iso: jpn
     name: マルゴスヤロウィルカロウリコチャケチュア語

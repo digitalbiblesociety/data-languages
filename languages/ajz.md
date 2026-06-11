@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अमरी कार्बी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amri Karbi
+    auto: true
   - translation_iso: jpn
     name: アムリ語
   - translation_iso: kor

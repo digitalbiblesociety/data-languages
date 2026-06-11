@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيانجا
     auto: true
+  - translation_iso: ben
+    name: কয়াঙা
+    auto: true
   - translation_iso: deu
     name: Kyanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Kyanga
   - translation_iso: hin
     name: क्यांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kyanga
     auto: true
   - translation_iso: jpn
     name: テイエンガ語

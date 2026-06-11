@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة يابولا يابولا
     auto: true
+  - translation_iso: ben
+    name: য়াবুলা য়াবুলা
+    auto: true
   - translation_iso: deu
     name: Yabula Yabula
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यबुला यबुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yabula Yabula
     auto: true
   - translation_iso: jpn
     name: ヤブラ・ヤブラ語

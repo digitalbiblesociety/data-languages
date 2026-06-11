@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيرلندية بدائية
     auto: true
+  - translation_iso: ben
+    name: পরিমিতিভে ইরিশ
+    auto: true
   - translation_iso: deu
     name: Uririsch
     auto: true

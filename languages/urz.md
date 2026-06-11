@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورو-يو-واو-واو
     auto: true
+  - translation_iso: ben
+    name: উরু-এউ-ওয়াউ-ওয়াউ
+    auto: true
   - translation_iso: deu
     name: Uru-Eu-Wau-Wau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: uru-eu-wau-wau
   - translation_iso: hin
     name: उरु-एउ-वाउ-वाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uru-Eu-Wau-Wau
     auto: true
   - translation_iso: jpn
     name: カワヒブ語

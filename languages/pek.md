@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتشال
     auto: true
+  - translation_iso: ben
+    name: পেনচাল
+    auto: true
   - translation_iso: deu
     name: Penchal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: penchal
   - translation_iso: hin
     name: पेंचल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Penchal
     auto: true
   - translation_iso: jpn
     name: ペンチャル語

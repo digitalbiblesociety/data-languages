@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Morom_language"
 translations:
   - translation_iso: ara
     name: موروم
+  - translation_iso: ben
+    name: মোরোম
+    auto: true
   - translation_iso: deu
     name: Morom
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: morom
   - translation_iso: hin
     name: मोरोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morom
     auto: true
   - translation_iso: jpn
     name: モロム語

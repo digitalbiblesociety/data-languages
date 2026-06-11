@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موخا-دورا
     auto: true
+  - translation_iso: ben
+    name: মুখা-দোরা
+    auto: true
   - translation_iso: deu
     name: Mukha-Dora
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुखा-दोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mukha-Dora
     auto: true
   - translation_iso: jpn
     name: ムカ・ドラ語

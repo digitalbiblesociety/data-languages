@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ليبون بيكول
     auto: true
+  - translation_iso: ben
+    name: লিবোন বিকোল
+    auto: true
   - translation_iso: deu
     name: Libon-Bikol
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: bikol libon
   - translation_iso: hin
     name: लिबोन बिकोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Libon Bikol
     auto: true
   - translation_iso: jpn
     name: リボン・ビコール語

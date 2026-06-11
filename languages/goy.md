@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غووندو
     auto: true
+  - translation_iso: ben
+    name: গোউনদো
+    auto: true
   - translation_iso: deu
     name: Goundo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: goundo
   - translation_iso: hin
     name: गुंडो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Goundo
     auto: true
   - translation_iso: jpn
     name: グンド語

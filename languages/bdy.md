@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बंदजालंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bandjalang
+    auto: true
   - translation_iso: jpn
     name: バンジャランギック諸語
   - translation_iso: kor

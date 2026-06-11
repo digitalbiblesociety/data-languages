@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مولام
     auto: true
+  - translation_iso: ben
+    name: মুলাম
+    auto: true
   - translation_iso: deu
     name: Mulam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mulam
   - translation_iso: hin
     name: मुलाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mulam
     auto: true
   - translation_iso: jpn
     name: ムーラオ語

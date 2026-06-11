@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوبير
     auto: true
+  - translation_iso: ben
+    name: উবির
+    auto: true
   - translation_iso: deu
     name: Ubir
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ubir
   - translation_iso: hin
     name: उबीर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ubir
     auto: true
   - translation_iso: jpn
     name: ウビル語

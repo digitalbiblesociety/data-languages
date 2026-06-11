@@ -31,6 +31,9 @@ translations:
     name: bantawa
   - translation_iso: hin
     name: बंतावा भाषा
+  - translation_iso: ind
+    name: Bahasa Bantawa
+    auto: true
   - translation_iso: jpn
     name: バンタワ語
   - translation_iso: kor

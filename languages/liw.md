@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة ول
     auto: true
+  - translation_iso: ben
+    name: কোল
+    auto: true
   - translation_iso: deu
     name: Col
     auto: true

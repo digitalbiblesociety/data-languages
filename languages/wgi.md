@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واهغي
     auto: true
+  - translation_iso: ben
+    name: ওয়াহগি
+    auto: true
   - translation_iso: deu
     name: Wahgi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wahgi
   - translation_iso: hin
     name: वाहगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wahgi
     auto: true
   - translation_iso: jpn
     name: ワギ語

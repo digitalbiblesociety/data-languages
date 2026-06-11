@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: وادار
     auto: true
+  - translation_iso: ben
+    name: ওয়াদ্দার
+    auto: true
   - translation_iso: deu
     name: Waddar
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वड्डर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waddar
     auto: true
   - translation_iso: jpn
     name: ワッダル語

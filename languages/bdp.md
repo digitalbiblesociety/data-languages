@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेंडे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bende
+    auto: true
   - translation_iso: jpn
     name: ベンデ語
     auto: true

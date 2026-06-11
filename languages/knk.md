@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كورانكو
     auto: true
+  - translation_iso: ben
+    name: কুরানকো
+    auto: true
   - translation_iso: deu
     name: Kuranko
   - translation_iso: fra
     name: koranko
   - translation_iso: hin
     name: कुरांको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuranko
     auto: true
   - translation_iso: jpn
     name: クランコ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دونجمالي
     auto: true
+  - translation_iso: ben
+    name: দুংমালি
+    auto: true
   - translation_iso: deu
     name: Dungmali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dungmali
   - translation_iso: hin
     name: दुंगमाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dungmali
     auto: true
   - translation_iso: jpn
     name: ダンマリ語

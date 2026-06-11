@@ -28,6 +28,9 @@ translations:
     name: borok
   - translation_iso: hin
     name: कोक बोरोक भाषा
+  - translation_iso: ind
+    name: Bahasa Kok Borok
+    auto: true
   - translation_iso: jpn
     name: コクバラ語
   - translation_iso: kor

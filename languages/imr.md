@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إمرويغ
     auto: true
+  - translation_iso: ben
+    name: ইমরোইং
+    auto: true
   - translation_iso: deu
     name: Imroing
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इमरोइंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Imroing
     auto: true
   - translation_iso: jpn
     name: イムロイング語

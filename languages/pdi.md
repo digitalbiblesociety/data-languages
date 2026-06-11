@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باه دي
     auto: true
+  - translation_iso: ben
+    name: পা দি
+    auto: true
   - translation_iso: deu
     name: Pa Di
     auto: true

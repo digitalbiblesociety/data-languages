@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوجوسي
     auto: true
+  - translation_iso: ben
+    name: দোগোসে
+    auto: true
   - translation_iso: deu
     name: Dogosé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dogosé
   - translation_iso: hin
     name: डोगोसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dogosé
     auto: true
   - translation_iso: jpn
     name: ドゴセ語

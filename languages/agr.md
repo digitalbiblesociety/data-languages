@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अगुआरुना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aguaruna
+    auto: true
   - translation_iso: jpn
     name: アグアルナ語
     auto: true

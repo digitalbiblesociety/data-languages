@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوما
     auto: true
+  - translation_iso: ben
+    name: ফুমা
+    auto: true
   - translation_iso: deu
     name: Phuma
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: phuma
   - translation_iso: hin
     name: फूमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phuma
     auto: true
   - translation_iso: jpn
     name: フーマ語

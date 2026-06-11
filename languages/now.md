@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييامبو
     auto: true
+  - translation_iso: ben
+    name: নয়ামবো
+    auto: true
   - translation_iso: deu
     name: Nyambo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyambo
   - translation_iso: hin
     name: न्याम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyambo
     auto: true
   - translation_iso: jpn
     name: ニャンボ語

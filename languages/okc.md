@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوبو
     auto: true
+  - translation_iso: ben
+    name: কোবো
+    auto: true
   - translation_iso: deu
     name: Kobo
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: kobo
   - translation_iso: hin
     name: कोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kobo
     auto: true
   - translation_iso: jpn
     name: コボ語

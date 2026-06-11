@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अकेउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akeu
+    auto: true
   - translation_iso: jpn
     name: アケウ語
     auto: true

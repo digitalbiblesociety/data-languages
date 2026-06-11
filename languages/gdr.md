@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الويبي
     auto: true
+  - translation_iso: ben
+    name: ওয়িপি
+    auto: true
   - translation_iso: deu
     name: Wipi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wipi
   - translation_iso: hin
     name: विपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wipi
     auto: true
   - translation_iso: jpn
     name: ウィピ語

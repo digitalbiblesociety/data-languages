@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيربون
     auto: true
+  - translation_iso: ben
+    name: চেরেপোন
+    auto: true
   - translation_iso: deu
     name: Cherepon
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चेरेपोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cherepon
     auto: true
   - translation_iso: jpn
     name: チェレポン語

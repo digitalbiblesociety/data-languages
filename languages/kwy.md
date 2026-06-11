@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كونجو سان سالفادور
     auto: true
+  - translation_iso: ben
+    name: সান সালভাদোর কোঙো
+    auto: true
   - translation_iso: deu
     name: San-Salvador-Kongo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kikongo de San Salvador
   - translation_iso: hin
     name: सैन साल्वाडोर कोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Salvador Kongo
     auto: true
   - translation_iso: jpn
     name: サンサルバドル・コンゴ語

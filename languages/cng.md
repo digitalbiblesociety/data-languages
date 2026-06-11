@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشيانغ الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কিয়াং
+    auto: true
   - translation_iso: deu
     name: Nördliches Qiang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: qiang du Nord
   - translation_iso: hin
     name: उत्तरी चियांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Qiang
     auto: true
   - translation_iso: jpn
     name: 北部チャン語

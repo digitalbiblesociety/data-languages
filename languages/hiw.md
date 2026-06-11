@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هيو
     auto: true
+  - translation_iso: ben
+    name: হিওয়
+    auto: true
   - translation_iso: deu
     name: Hiw
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hiw
   - translation_iso: hin
     name: हिउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hiw
     auto: true
   - translation_iso: jpn
     name: ヒウ語

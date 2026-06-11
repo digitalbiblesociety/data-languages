@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تسامعي
     auto: true
+  - translation_iso: ben
+    name: তসামাই
+    auto: true
   - translation_iso: deu
     name: Tsamay
   - translation_iso: fra
     name: tsamai
   - translation_iso: hin
     name: त्सामाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsamai
     auto: true
   - translation_iso: jpn
     name: ツァミ語

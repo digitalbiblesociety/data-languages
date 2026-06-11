@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوني
     auto: true
+  - translation_iso: ben
+    name: সাপোনি
+    auto: true
   - translation_iso: deu
     name: Saponi
     auto: true

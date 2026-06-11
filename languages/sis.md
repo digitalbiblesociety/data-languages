@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيوسلاو
     auto: true
+  - translation_iso: ben
+    name: সিউসলাওয়
+    auto: true
   - translation_iso: deu
     name: Siuslaw
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: siuslaw
   - translation_iso: hin
     name: सियुस्लॉ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siuslaw
     auto: true
   - translation_iso: jpn
     name: サイウスロー語

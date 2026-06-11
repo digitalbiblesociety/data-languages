@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يفا
     auto: true
+  - translation_iso: ben
+    name: লেফা
+    auto: true
   - translation_iso: deu
     name: Lefa
   - translation_iso: fra
     name: lefa
   - translation_iso: hin
     name: लेफा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lefa
     auto: true
   - translation_iso: jpn
     name: レファ語

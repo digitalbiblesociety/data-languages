@@ -26,6 +26,9 @@ translations:
     name: langue des signes juive algérienne
   - translation_iso: hin
     name: अल्जीरियाई यहूदी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Algerian Jewish Sign Language
+    auto: true
   - translation_iso: jpn
     name: アルジェリア・ユダヤ・サイン・ランゲージ語
     auto: true

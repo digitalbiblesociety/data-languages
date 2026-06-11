@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راساوا
     auto: true
+  - translation_iso: ben
+    name: রাসাওয়া
+    auto: true
   - translation_iso: deu
     name: Rasawa
     auto: true

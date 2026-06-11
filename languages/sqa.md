@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاما-سامبوجا
     auto: true
+  - translation_iso: ben
+    name: শামা-সামবুগা
+    auto: true
   - translation_iso: deu
     name: Shama-Sambuga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शामा-साम्बुगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shama-Sambuga
     auto: true
   - translation_iso: jpn
     name: トゥシャマ語

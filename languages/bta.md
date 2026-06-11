@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाटा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bata
+    auto: true
   - translation_iso: jpn
     name: バタ語
   - translation_iso: kor

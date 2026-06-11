@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راثوي بارلي
     auto: true
+  - translation_iso: ben
+    name: রাথওয়ি বারেলি
+    auto: true
   - translation_iso: deu
     name: Rathwi Bareli
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: राठवी बरेली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rathwi Bareli
     auto: true
   - translation_iso: jpn
     name: ラスウィ・バレリ語

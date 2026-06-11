@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موياداان إيتنيغ
     auto: true
+  - translation_iso: ben
+    name: মোয়াদান ইতনেগ
+    auto: true
   - translation_iso: deu
     name: Moyadan-Itneg
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: itneg moyadan
   - translation_iso: hin
     name: मोयादान इतनेग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moyadan Itneg
     auto: true
   - translation_iso: jpn
     name: モヤダン・イトネグ語

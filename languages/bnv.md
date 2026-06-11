@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونيريف
     auto: true
+  - translation_iso: ben
+    name: বোনেরিফ
+    auto: true
   - translation_iso: deu
     name: Bonerif
     auto: true

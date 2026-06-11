@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيغوي
     auto: true
+  - translation_iso: ben
+    name: ইগওয়ে
+    auto: true
   - translation_iso: deu
     name: Igwe
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इग्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Igwe
     auto: true
   - translation_iso: jpn
     name: イグウェ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाहिङ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bahing
+    auto: true
   - translation_iso: jpn
     name: バヒング語
     auto: true

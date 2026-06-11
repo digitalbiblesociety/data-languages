@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جيزرا
     auto: true
+  - translation_iso: ben
+    name: গিজর্রা
+    auto: true
   - translation_iso: deu
     name: Gizrra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gizrra
   - translation_iso: hin
     name: गिज़्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gizrra
     auto: true
   - translation_iso: jpn
     name: ギズラ語

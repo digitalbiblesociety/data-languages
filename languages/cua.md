@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوا
     auto: true
+  - translation_iso: ben
+    name: কুয়া
+    auto: true
   - translation_iso: deu
     name: Cua
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cua
     auto: true
   - translation_iso: jpn
     name: クア語

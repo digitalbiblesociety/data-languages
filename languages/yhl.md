@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هليفو فوا
     auto: true
+  - translation_iso: ben
+    name: হলেফো ফোওয়া
+    auto: true
   - translation_iso: deu
     name: Hlepho Phowa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: phowa de Hlepho
   - translation_iso: hin
     name: ह्लेफो फोवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hlepho Phowa
     auto: true
   - translation_iso: jpn
     name: フレフォ・ファウ語

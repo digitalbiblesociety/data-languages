@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغام
     auto: true
+  - translation_iso: ben
+    name: ঙাম
+    auto: true
   - translation_iso: deu
     name: Ngam
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngam
     auto: true
   - translation_iso: jpn
     name: ングアム語

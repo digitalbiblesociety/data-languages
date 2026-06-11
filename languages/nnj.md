@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيانغاتوم
     auto: true
+  - translation_iso: ben
+    name: নয়াঙাতোম
+    auto: true
   - translation_iso: deu
     name: Nyangatom
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्यांगातोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyangatom
     auto: true
   - translation_iso: jpn
     name: ニアンガトム語

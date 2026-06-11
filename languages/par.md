@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بانامينت
     auto: true
+  - translation_iso: ben
+    name: পানামিনত
+    auto: true
   - translation_iso: deu
     name: Timbisha
   - translation_iso: fra
     name: timbisha
   - translation_iso: hin
     name: पानामिंट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Panamint
     auto: true
   - translation_iso: jpn
     name: ティンビシャ語

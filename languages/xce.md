@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيلتيبيريان
     auto: true
+  - translation_iso: ben
+    name: কেলতিবেরিয়ান
+    auto: true
   - translation_iso: deu
     name: Keltiberisch
   - translation_iso: fra

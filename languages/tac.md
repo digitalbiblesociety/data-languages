@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا المنخفضة
     auto: true
+  - translation_iso: ben
+    name: লোওয়লানদ তারাহুমারা
+    auto: true
   - translation_iso: deu
     name: Lowland Tarahumara
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tarahumara occidental
   - translation_iso: hin
     name: निचली तारहुमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lowland Tarahumara
     auto: true
   - translation_iso: jpn
     name: 低地タラウマラ語

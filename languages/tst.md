@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونديه سونجواي كيني
     auto: true
+  - translation_iso: ben
+    name: তোনদি সোংওয়ায় কিনি
+    auto: true
   - translation_iso: deu
     name: Tondi Songway Kiini
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tondi songway kiini
   - translation_iso: hin
     name: तोंडी सोंगवे कीनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tondi Songway Kiini
     auto: true
   - translation_iso: jpn
     name: TSK語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تشيبيا
     auto: true
+  - translation_iso: ben
+    name: চেপয়া
+    auto: true
   - translation_iso: deu
     name: Chepya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chepya
   - translation_iso: hin
     name: चेपिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chepya
     auto: true
   - translation_iso: jpn
     name: チェピア語

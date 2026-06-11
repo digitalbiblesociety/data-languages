@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ياجنوبي
     auto: true
+  - translation_iso: ben
+    name: য়াগনোবি
+    auto: true
   - translation_iso: deu
     name: Jaghnobi
   - translation_iso: fra

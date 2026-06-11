@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كويو
     auto: true
+  - translation_iso: ben
+    name: কুএয়ু
+    auto: true
   - translation_iso: deu
     name: Queyu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: queyu
   - translation_iso: hin
     name: क्वेयू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Queyu
     auto: true
   - translation_iso: jpn
     name: チョユ語

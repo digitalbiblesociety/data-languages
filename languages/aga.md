@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अगुआनो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aguano
+    auto: true
   - translation_iso: jpn
     name: アグアーノ語
     auto: true

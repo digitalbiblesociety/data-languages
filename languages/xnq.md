@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوني
     auto: true
+  - translation_iso: ben
+    name: ঙোনি
+    auto: true
   - translation_iso: deu
     name: Ngoni (Mosambik)
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: ngoni du Mozambique
   - translation_iso: hin
     name: न्गोनी (मोज़ाम्बिक)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngoni
     auto: true
   - translation_iso: jpn
     name: ンゴニ語（モザンビーク）

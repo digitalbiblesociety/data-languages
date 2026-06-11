@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بييو
     auto: true
+  - translation_iso: ben
+    name: বিয়ো
+    auto: true
   - translation_iso: deu
     name: Biyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: biyo
   - translation_iso: hin
     name: बियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Biyo
     auto: true
   - translation_iso: jpn
     name: ビヨ語

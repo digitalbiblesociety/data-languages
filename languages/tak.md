@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تالا
     auto: true
+  - translation_iso: ben
+    name: তালা
+    auto: true
   - translation_iso: deu
     name: Tala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tala
   - translation_iso: hin
     name: ताला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tala
     auto: true
   - translation_iso: jpn
     name: タラ語

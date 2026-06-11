@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Juba_Arabic"
 translations:
   - translation_iso: ara
     name: عربية جوبا
+  - translation_iso: ben
+    name: সুদানেসে করেওলে আরাবিক
+    auto: true
   - translation_iso: deu
     name: Juba-Arabisch
   - translation_iso: fra

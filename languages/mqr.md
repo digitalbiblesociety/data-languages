@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندير
     auto: true
+  - translation_iso: ben
+    name: মানদের
+    auto: true
   - translation_iso: deu
     name: Mander
     auto: true

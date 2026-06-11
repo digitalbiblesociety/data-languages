@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Powhatan_language"
 translations:
   - translation_iso: ara
     name: بوهاتان
+  - translation_iso: ben
+    name: পোওয়হাতান
+    auto: true
   - translation_iso: deu
     name: Powhatan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: powhatan
   - translation_iso: hin
     name: पोहाटन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Powhatan
     auto: true
   - translation_iso: jpn
     name: ポウハタン語

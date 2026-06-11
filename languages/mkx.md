@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانوبو كيناميجينج
     auto: true
+  - translation_iso: ben
+    name: কিনামিগিং মানোবো
+    auto: true
   - translation_iso: deu
     name: Kinamiging Manobo
     auto: true

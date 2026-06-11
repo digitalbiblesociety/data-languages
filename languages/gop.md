@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يإرإتوآر
     auto: true
+  - translation_iso: ben
+    name: য়েরেতুয়ার
+    auto: true
   - translation_iso: deu
     name: Yeretuar
     auto: true

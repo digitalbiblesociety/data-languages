@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: والوواررا
     auto: true
+  - translation_iso: ben
+    name: ওয়ালুওয়ার্রা
+    auto: true
   - translation_iso: deu
     name: Waluwarra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warluwara
   - translation_iso: hin
     name: वालुवाररा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waluwarra
     auto: true
   - translation_iso: jpn
     name: ワルワッラ語

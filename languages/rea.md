@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريراو
     auto: true
+  - translation_iso: ben
+    name: রেরাউ
+    auto: true
   - translation_iso: deu
     name: Rerau
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रेराउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rerau
     auto: true
   - translation_iso: jpn
     name: レラウ語

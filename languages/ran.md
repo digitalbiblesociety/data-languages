@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريانتانا
     auto: true
+  - translation_iso: ben
+    name: রিয়ানতানা
+    auto: true
   - translation_iso: deu
     name: Riantana
     auto: true

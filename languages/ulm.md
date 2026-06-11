@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أولوماندا
     auto: true
+  - translation_iso: ben
+    name: উলুমানদা
+    auto: true
   - translation_iso: deu
     name: Ulumanda’
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيميار
     auto: true
+  - translation_iso: ben
+    name: তেমিয়ার
+    auto: true
   - translation_iso: deu
     name: Temiar
     auto: true

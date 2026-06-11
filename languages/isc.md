@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيسكوناهوا
     auto: true
+  - translation_iso: ben
+    name: ইসকোনাহুয়া
+    auto: true
   - translation_iso: deu
     name: Isconahua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: isconahua
   - translation_iso: hin
     name: इस्कोनाहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isconahua
     auto: true
   - translation_iso: jpn
     name: イスコナフア語

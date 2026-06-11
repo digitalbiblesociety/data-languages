@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سابا
     auto: true
+  - translation_iso: ben
+    name: সাবা
+    auto: true
   - translation_iso: deu
     name: Saba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: saba
   - translation_iso: hin
     name: साबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saba
     auto: true
   - translation_iso: jpn
     name: ジェルクング語

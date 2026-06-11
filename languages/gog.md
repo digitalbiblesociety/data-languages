@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوغو
     auto: true
+  - translation_iso: ben
+    name: গোগো
+    auto: true
   - translation_iso: deu
     name: Gogo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gogo
   - translation_iso: hin
     name: गोगो भाषा
+  - translation_iso: ind
+    name: Bahasa Gogo
+    auto: true
   - translation_iso: jpn
     name: ゴゴ語
   - translation_iso: kor

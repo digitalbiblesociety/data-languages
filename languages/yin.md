@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ريانج لاي
     auto: true
+  - translation_iso: ben
+    name: রিয়াং লাই
+    auto: true
   - translation_iso: deu
     name: Riang Lai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yinchia
   - translation_iso: hin
     name: रियांग लाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Riang Lai
     auto: true
   - translation_iso: jpn
     name: リアング・ライ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانغوا
     auto: true
+  - translation_iso: ben
+    name: তাঙোয়া
+    auto: true
   - translation_iso: deu
     name: Tangoa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tangoa
   - translation_iso: hin
     name: तंगोआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tangoa
     auto: true
   - translation_iso: jpn
     name: タンゴア語

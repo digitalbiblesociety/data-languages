@@ -30,6 +30,9 @@ translations:
     name: koda
   - translation_iso: hin
     name: कोडा
+  - translation_iso: ind
+    name: Bahasa Koda
+    auto: true
   - translation_iso: jpn
     name: コダ語
     auto: true

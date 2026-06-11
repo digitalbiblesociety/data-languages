@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكوي
     auto: true
+  - translation_iso: ben
+    name: মাকওয়ে
+    auto: true
   - translation_iso: deu
     name: Makwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: makwe
   - translation_iso: hin
     name: माकवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makwe
     auto: true
   - translation_iso: jpn
     name: マクウェ語

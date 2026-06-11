@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: ben
+    name: নেমে
+    auto: true
   - translation_iso: deu
     name: Neme
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: neme
   - translation_iso: hin
     name: नेमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Neme
     auto: true
   - translation_iso: jpn
     name: ネメ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمات
     auto: true
+  - translation_iso: ben
+    name: সেইমাত
+    auto: true
   - translation_iso: deu
     name: Seimat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: seimat
   - translation_iso: hin
     name: सेइमात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seimat
     auto: true
   - translation_iso: jpn
     name: セイマット語

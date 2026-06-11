@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تشيپايا
     auto: true
+  - translation_iso: ben
+    name: চিপায়া
+    auto: true
   - translation_iso: deu
     name: Chipaya
   - translation_iso: fra
     name: chipaya
   - translation_iso: hin
     name: चिपाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chipaya
     auto: true
   - translation_iso: jpn
     name: チパヤ語

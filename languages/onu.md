@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونوا
     auto: true
+  - translation_iso: ben
+    name: উনুয়া
+    auto: true
   - translation_iso: deu
     name: Unua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: unua
   - translation_iso: hin
     name: उनुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Unua
     auto: true
   - translation_iso: jpn
     name: ウヌア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيري
     auto: true
+  - translation_iso: ben
+    name: তেরেই
+    auto: true
   - translation_iso: deu
     name: Terei
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तेरेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Terei
     auto: true
   - translation_iso: jpn
     name: ブイン語

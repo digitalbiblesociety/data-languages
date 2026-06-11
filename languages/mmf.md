@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موندات
     auto: true
+  - translation_iso: ben
+    name: মুনদাত
+    auto: true
   - translation_iso: deu
     name: Mundat
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुंदात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mundat
     auto: true
   - translation_iso: jpn
     name: ムンダット語

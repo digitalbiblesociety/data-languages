@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوسادلي
     auto: true
+  - translation_iso: ben
+    name: কোসাদলে
+    auto: true
   - translation_iso: deu
     name: Kosadle
     auto: true

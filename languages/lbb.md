@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لابل
     auto: true
+  - translation_iso: ben
+    name: লাবেল
+    auto: true
   - translation_iso: deu
     name: Label
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: label
   - translation_iso: hin
     name: लाबेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Label
     auto: true
   - translation_iso: jpn
     name: ラベル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ريفيراين سانجو
     auto: true
+  - translation_iso: ben
+    name: রিভেরাইন সাঙো
+    auto: true
   - translation_iso: deu
     name: Riverain-Sango
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sango riverain
   - translation_iso: hin
     name: रिवेरैन सांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Riverain Sango
     auto: true
   - translation_iso: jpn
     name: ヤンガティサンゴ語

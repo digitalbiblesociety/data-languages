@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: رونجتو تشين
     auto: true
+  - translation_iso: ben
+    name: রুংতু চিন
+    auto: true
   - translation_iso: deu
     name: Rungtu-Chin
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: rungtu
   - translation_iso: hin
     name: रुंगतू चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rungtu Chin
     auto: true
   - translation_iso: jpn
     name: ルングトゥチン語

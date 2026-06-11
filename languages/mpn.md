@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميندري
     auto: true
+  - translation_iso: ben
+    name: মিনদিরি
+    auto: true
   - translation_iso: deu
     name: Mindiri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mindiri
   - translation_iso: hin
     name: मिंदिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mindiri
     auto: true
   - translation_iso: jpn
     name: ミンディリ語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سيري
     auto: true
+  - translation_iso: ben
+    name: সেরি
+    auto: true
   - translation_iso: deu
     name: Seri
   - translation_iso: fra

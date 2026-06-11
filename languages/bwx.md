@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بو-ناو بونو
     auto: true
+  - translation_iso: ben
+    name: বু-নাও বুনু
+    auto: true
   - translation_iso: deu
     name: Bu-Nao Bunu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bunu dongnu de Dahua
   - translation_iso: hin
     name: बू-नाओ बुनू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bu-Nao Bunu
     auto: true
   - translation_iso: jpn
     name: プヌ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوديست
     auto: true
+  - translation_iso: ben
+    name: সুদেসত
+    auto: true
   - translation_iso: deu
     name: Sudest
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुदेस्त
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sudest
     auto: true
   - translation_iso: jpn
     name: タグラ語

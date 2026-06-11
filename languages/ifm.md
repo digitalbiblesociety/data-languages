@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيك-فوومو
     auto: true
+  - translation_iso: ben
+    name: তেকে-ফুমু
+    auto: true
   - translation_iso: deu
     name: Teke-Fuumu
   - translation_iso: fra
     name: fuumu
   - translation_iso: hin
     name: तेके-फूमू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Fuumu
     auto: true
   - translation_iso: jpn
     name: テケ・フーム語

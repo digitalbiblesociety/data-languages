@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موكن
     auto: true
+  - translation_iso: ben
+    name: মোকেন
+    auto: true
   - translation_iso: deu
     name: Moken
     auto: true

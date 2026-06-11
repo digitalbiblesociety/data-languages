@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتوبو راجا كابونسوان
     auto: true
+  - translation_iso: ben
+    name: রাজাহ কাবুনসুওয়ান মানোবো
+    auto: true
   - translation_iso: deu
     name: Rajah-Kabunsuwan-Manobo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manobo rajah kabunsuwan
   - translation_iso: hin
     name: राजा कबुनसुवान मनोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rajah Kabunsuwan Manobo
     auto: true
   - translation_iso: jpn
     name: ラジャ・カブンスワン・マノボ語

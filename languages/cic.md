@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: الشيكاساو
     auto: true
+  - translation_iso: ben
+    name: চিকাসাওয়
+    auto: true
   - translation_iso: deu
     name: Chickasaw
   - translation_iso: fra
     name: chicacha
   - translation_iso: hin
     name: चिकसॉ
+  - translation_iso: ind
+    name: Bahasa Chickasaw
+    auto: true
   - translation_iso: jpn
     name: チカソー語
   - translation_iso: kor

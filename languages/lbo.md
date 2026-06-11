@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لافن
     auto: true
+  - translation_iso: ben
+    name: লাভেন
+    auto: true
   - translation_iso: deu
     name: Laven
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: laven
   - translation_iso: hin
     name: लावेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laven
     auto: true
   - translation_iso: jpn
     name: ラヴェン語

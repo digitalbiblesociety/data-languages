@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अकुरियो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akurio
+    auto: true
   - translation_iso: jpn
     name: アクリオ語
     auto: true

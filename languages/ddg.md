@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فتالوكو
     auto: true
+  - translation_iso: ben
+    name: ফাতালুকু
+    auto: true
   - translation_iso: deu
     name: Fataluku
   - translation_iso: fra

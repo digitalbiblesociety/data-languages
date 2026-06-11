@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nubi_language"
 translations:
   - translation_iso: ara
     name: عربية نوبية
+  - translation_iso: ben
+    name: নুবি
+    auto: true
   - translation_iso: deu
     name: Nubi
   - translation_iso: fra
     name: nubi
   - translation_iso: hin
     name: नूबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nubi
     auto: true
   - translation_iso: jpn
     name: ヌビ語

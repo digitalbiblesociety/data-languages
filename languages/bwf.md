@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوسيليوا
     auto: true
+  - translation_iso: ben
+    name: বোসেলেওয়া
+    auto: true
   - translation_iso: deu
     name: Boselewa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: boselewa
   - translation_iso: hin
     name: बोसेलेवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boselewa
     auto: true
   - translation_iso: jpn
     name: ボセレワ語

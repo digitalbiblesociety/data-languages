@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ستودسدي
     auto: true
+  - translation_iso: ben
+    name: সতোদসদে
+    auto: true
   - translation_iso: deu
     name: sTodsde
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: shangzhai
   - translation_iso: hin
     name: स्तोदस्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa sTodsde
     auto: true
   - translation_iso: jpn
     name: スティオツデ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيجيريا مامبيلا
     auto: true
+  - translation_iso: ben
+    name: নিগেরিয়া মামবিলা
+    auto: true
   - translation_iso: deu
     name: Nigeria-Mambila
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mambila du Nigeria
   - translation_iso: hin
     name: नाइजीरिया मम्बिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nigeria Mambila
     auto: true
   - translation_iso: jpn
     name: ナイジェリア・マンビラ語

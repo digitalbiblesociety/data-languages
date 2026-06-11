@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوكاا
     auto: true
+  - translation_iso: ben
+    name: লোকা
+    auto: true
   - translation_iso: deu
     name: Lokaa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lokaa
   - translation_iso: hin
     name: लोकाआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lokaa
     auto: true
   - translation_iso: jpn
     name: ロカア語

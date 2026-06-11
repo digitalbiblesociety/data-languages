@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجاردي
     auto: true
+  - translation_iso: ben
+    name: ঙারদি
+    auto: true
   - translation_iso: deu
     name: Ngardi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngardi
   - translation_iso: hin
     name: न्गार्डी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngardi
     auto: true
   - translation_iso: jpn
     name: ブナラ語

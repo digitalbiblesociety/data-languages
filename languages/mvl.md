@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبارا (أستراليا)
     auto: true
+  - translation_iso: ben
+    name: মবারা
+    auto: true
   - translation_iso: deu
     name: Mbara (Australien)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbara
   - translation_iso: hin
     name: म्बारा (ऑस्ट्रेलिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbara
     auto: true
   - translation_iso: jpn
     name: ムバラ語

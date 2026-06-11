@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अवाद बिंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awad Bing
+    auto: true
   - translation_iso: jpn
     name: アワド・ビング語
     auto: true

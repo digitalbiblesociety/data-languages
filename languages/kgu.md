@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبول
     auto: true
+  - translation_iso: ben
+    name: কোবোল
+    auto: true
   - translation_iso: deu
     name: Kobol
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोबोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kobol
     auto: true
   - translation_iso: jpn
     name: コボル語

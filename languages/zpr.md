@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتياغو كسانيكا
     auto: true
+  - translation_iso: ben
+    name: সানতিয়াগো কসানিকা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Santiago Xanica)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Santiago Xanica
   - translation_iso: hin
     name: सांतियागो ज़ानिका सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santiago Xanica Zapotec
     auto: true
   - translation_iso: jpn
     name: サンティアゴ・サニカ・サポテク語

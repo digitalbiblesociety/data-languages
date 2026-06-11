@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الغيلية الهيبرنو-الاسكتلندية
     auto: true
+  - translation_iso: ben
+    name: হিবেরনো-সকোত্তিশ গাএলিক
+    auto: true
   - translation_iso: deu
     name: klassisches Gälisch
   - translation_iso: fra
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हाइबर्नो-स्कॉटिश गेलिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hiberno-Scottish Gaelic
     auto: true
   - translation_iso: jpn
     name: ハイベルノ・スコティッシュゲール語

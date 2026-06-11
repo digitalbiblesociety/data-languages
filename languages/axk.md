@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: याका (मध्य अफ्रीकी गणराज्य)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yaka
+    auto: true
   - translation_iso: jpn
     name: アカ語
   - translation_iso: kor

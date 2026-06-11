@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: إيداتي
     auto: true
+  - translation_iso: ben
+    name: ইদাতে
+    auto: true
   - translation_iso: deu
     name: Idaté
   - translation_iso: fra
     name: idaté
   - translation_iso: hin
     name: इदाते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idaté
     auto: true
   - translation_iso: jpn
     name: イダテ語

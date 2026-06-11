@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واروپين
     auto: true
+  - translation_iso: ben
+    name: ওয়ারোপেন
+    auto: true
   - translation_iso: deu
     name: Waropen
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موسوم
     auto: true
+  - translation_iso: ben
+    name: মুসোম
+    auto: true
   - translation_iso: deu
     name: Musom
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: musom
   - translation_iso: hin
     name: मुसोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Musom
     auto: true
   - translation_iso: jpn
     name: ムソム語

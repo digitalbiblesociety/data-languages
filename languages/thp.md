@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثومبسون
     auto: true
+  - translation_iso: ben
+    name: থোমপসোন
+    auto: true
   - translation_iso: deu
     name: Thompson
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: thompson
   - translation_iso: hin
     name: थॉम्पसन नदी सलीशन भाषा
+  - translation_iso: ind
+    name: Bahasa Thompson
+    auto: true
   - translation_iso: jpn
     name: トンプソン語
   - translation_iso: kor

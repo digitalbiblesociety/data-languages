@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: خام
     auto: true
+  - translation_iso: ben
+    name: কসাম
+    auto: true
   - translation_iso: deu
     name: ǀXam
   - translation_iso: fra
     name: ǀxam
   - translation_iso: hin
     name: ǀखाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǀXam
     auto: true
   - translation_iso: jpn
     name: カム語

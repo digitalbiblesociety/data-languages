@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बस्सा-कोंतागोरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bassa-Kontagora
+    auto: true
   - translation_iso: jpn
     name: バッサ・コンタゴラ語
     auto: true

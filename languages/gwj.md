@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ǀغوي
     auto: true
+  - translation_iso: ben
+    name: গওয়ি
+    auto: true
   - translation_iso: deu
     name: ǀGwi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gǀui
   - translation_iso: hin
     name: ग्वी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǀGwi
     auto: true
   - translation_iso: jpn
     name: グイ語

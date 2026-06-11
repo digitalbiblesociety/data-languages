@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوموكس
     auto: true
+  - translation_iso: ben
+    name: কোমোকস
+    auto: true
   - translation_iso: deu
     name: Comox
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: comox
   - translation_iso: hin
     name: कोमॉक्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Comox
     auto: true
   - translation_iso: jpn
     name: コモックス語

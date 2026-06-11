@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موريريبي
     auto: true
+  - translation_iso: ben
+    name: মোরেরেবি
+    auto: true
   - translation_iso: deu
     name: Morerebi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: morerebi
   - translation_iso: hin
     name: मोरेरेबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morerebi
     auto: true
   - translation_iso: jpn
     name: モレレビ語

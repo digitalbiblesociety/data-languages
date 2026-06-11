@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك توتوتيبك
     auto: true
+  - translation_iso: ben
+    name: তুতুতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Tututepec-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुतुतेपेक मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tututepec Mixtec
     auto: true
   - translation_iso: jpn
     name: トゥトゥテペック・ミステク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا باستازا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন পাসতাজা কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Südliches Pastaza-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua de Pastaza du Sud
   - translation_iso: hin
     name: दक्षिणी पास्ताज़ा क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Pastaza Quechua
     auto: true
   - translation_iso: jpn
     name: 南パスタサキチュア語

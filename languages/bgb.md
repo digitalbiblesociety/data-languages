@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوبونجكو
     auto: true
+  - translation_iso: ben
+    name: বোবোংকো
+    auto: true
   - translation_iso: deu
     name: Bobongko
     auto: true

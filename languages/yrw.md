@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يارواتا
     auto: true
+  - translation_iso: ben
+    name: য়ারাওয়াতা
+    auto: true
   - translation_iso: deu
     name: Yarawata
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yarawata
   - translation_iso: hin
     name: यारावाटा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yarawata
     auto: true
   - translation_iso: jpn
     name: ヤラワタ語

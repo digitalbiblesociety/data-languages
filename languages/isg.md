@@ -28,6 +28,9 @@ translations:
     name: langue des signes irlandaise
   - translation_iso: hin
     name: आयरिश साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Irish Sign Language
+    auto: true
   - translation_iso: jpn
     name: アイルランド手話
   - translation_iso: kor

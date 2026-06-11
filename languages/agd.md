@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अगाराबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agarabi
+    auto: true
   - translation_iso: jpn
     name: アガラビ語
   - translation_iso: kor

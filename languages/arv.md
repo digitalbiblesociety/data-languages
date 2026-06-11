@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अर्बोरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arbore
+    auto: true
   - translation_iso: jpn
     name: アルボレ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرندا الجنوبية السفلى
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের সোউথেরন আরানদা
+    auto: true
   - translation_iso: deu
     name: Untere Süd-Aranda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bas arrernte
   - translation_iso: hin
     name: निचली दक्षिणी अरंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lower Southern Aranda
     auto: true
   - translation_iso: jpn
     name: 下アレンテ語

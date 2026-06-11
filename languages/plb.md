@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولونومباوك
     auto: true
+  - translation_iso: ben
+    name: পোলোনোমবাউক
+    auto: true
   - translation_iso: deu
     name: Polonombauk
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: polonombauk
   - translation_iso: hin
     name: पोलोनोम्बाउक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Polonombauk
     auto: true
   - translation_iso: jpn
     name: ポロノンバウク語

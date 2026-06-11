@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Murle_language"
 translations:
   - translation_iso: ara
     name: لغة مرلية
+  - translation_iso: ben
+    name: মুরলে
+    auto: true
   - translation_iso: deu
     name: Murle
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: murle
   - translation_iso: hin
     name: मुर्ले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Murle
     auto: true
   - translation_iso: jpn
     name: ムルレ語

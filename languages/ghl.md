@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غولفآن
     auto: true
+  - translation_iso: ben
+    name: ঘুলফান
+    auto: true
   - translation_iso: deu
     name: Ghulfan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ghulfan
   - translation_iso: hin
     name: घुलफान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghulfan
     auto: true
   - translation_iso: jpn
     name: グルファン語

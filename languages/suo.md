@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بووني
     auto: true
+  - translation_iso: ben
+    name: বোউনি
+    auto: true
   - translation_iso: deu
     name: Bouni
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बौनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bouni
     auto: true
   - translation_iso: jpn
     name: ボウニ語

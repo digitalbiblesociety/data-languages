@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأوسيتية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ ওস্সেতিক
+    auto: true
   - translation_iso: deu
     name: Altossetisch
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुरानी ओस्सेटिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Ossetic
     auto: true
   - translation_iso: jpn
     name: 古オセチア語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تاغوي
     auto: true
+  - translation_iso: ben
+    name: তাগোই
+    auto: true
   - translation_iso: deu
     name: Tagoi
   - translation_iso: fra
     name: tagoi
   - translation_iso: hin
     name: तागोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagoi
     auto: true
   - translation_iso: jpn
     name: タゴイ語

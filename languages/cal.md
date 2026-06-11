@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كارولينيان
     auto: true
+  - translation_iso: ben
+    name: কারোলিনিয়ান
+    auto: true
   - translation_iso: deu
     name: Karolinisch
   - translation_iso: fra

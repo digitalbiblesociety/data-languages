@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كالو
     auto: true
+  - translation_iso: ben
+    name: কালোউ
+    auto: true
   - translation_iso: deu
     name: Kalou
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalou
   - translation_iso: hin
     name: कालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalou
     auto: true
   - translation_iso: jpn
     name: カロウ語

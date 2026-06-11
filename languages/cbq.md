@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسوكوبا
     auto: true
+  - translation_iso: ben
+    name: তসুকুবা
+    auto: true
   - translation_iso: deu
     name: Tsucuba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsucuba
   - translation_iso: hin
     name: त्सुकुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsucuba
     auto: true
   - translation_iso: jpn
     name: ツクバ語

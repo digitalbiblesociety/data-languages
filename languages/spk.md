@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينجو
     auto: true
+  - translation_iso: ben
+    name: সেঙো
+    auto: true
   - translation_iso: deu
     name: Sengo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sengo
   - translation_iso: hin
     name: सेंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sengo
     auto: true
   - translation_iso: jpn
     name: センゴ語

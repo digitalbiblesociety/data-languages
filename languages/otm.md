@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي الجبلية الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন হিঘলানদ ওতোমি
+    auto: true
   - translation_iso: deu
     name: Otomí des östlichen Hochlands
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: otomi de la Sierra
   - translation_iso: hin
     name: पूर्वी हाईलैंड ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Highland Otomi
     auto: true
   - translation_iso: jpn
     name: 東部高地オトミ語

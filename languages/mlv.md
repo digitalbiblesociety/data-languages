@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موتلاف
     auto: true
+  - translation_iso: ben
+    name: মোতলাভ
+    auto: true
   - translation_iso: deu
     name: Motlav
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mwotlap
   - translation_iso: hin
     name: मोतलाव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Motlav
     auto: true
   - translation_iso: jpn
     name: モトラヴ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مامباي
     auto: true
+  - translation_iso: ben
+    name: মামবাই
+    auto: true
   - translation_iso: deu
     name: Mambai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mambay
   - translation_iso: hin
     name: माम्बाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mambai
     auto: true
   - translation_iso: jpn
     name: マンバイ語

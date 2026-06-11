@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الدامبي
     auto: true
+  - translation_iso: ben
+    name: দামবি
+    auto: true
   - translation_iso: deu
     name: Dambi
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: dambi
   - translation_iso: hin
     name: डाम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dambi
     auto: true
   - translation_iso: jpn
     name: ダンビ語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: غيآلسومدو
     auto: true
+  - translation_iso: ben
+    name: গয়ালসুমদো
+    auto: true
   - translation_iso: deu
     name: Gyalsumdo
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: gyalsumdo
   - translation_iso: hin
     name: ग्यालसुम्दो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gyalsumdo
     auto: true
   - translation_iso: jpn
     name: ギャルスムド語

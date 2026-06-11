@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghandruk_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الغاندروكية
+  - translation_iso: ben
+    name: ঘানদরুক সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Ghandruk-Gebärdensprache
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: घंड्रुक सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Ghandruk Sign Language
+    auto: true
   - translation_iso: jpn
     name: ガンドルック手話
   - translation_iso: kor

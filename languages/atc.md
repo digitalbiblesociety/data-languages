@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अत्साहुआका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atsahuaca
+    auto: true
   - translation_iso: jpn
     name: アツァワカ語
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: "وت-مآ'ين"
     auto: true
+  - translation_iso: ben
+    name: উত-মাইন
+    auto: true
   - translation_iso: deu
     name: "Ut-Ma'in"
   - translation_iso: fra
     name: ut-ma’in
   - translation_iso: hin
     name: "उत-मा'इन"
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa ut-Ma'in"
     auto: true
   - translation_iso: jpn
     name: ウト・マイン語

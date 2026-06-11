@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: औशी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aushi
+    auto: true
   - translation_iso: jpn
     name: アウシ語
     auto: true

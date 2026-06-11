@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالينجا بوتبوت
     auto: true
+  - translation_iso: ben
+    name: বুতবুত কালিঙা
+    auto: true
   - translation_iso: deu
     name: Butbut-Kalinga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुतबुत कलिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Butbut Kalinga
     auto: true
   - translation_iso: jpn
     name: ブットブット・カリンガ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هيولمو
     auto: true
+  - translation_iso: ben
+    name: হয়োলমো
+    auto: true
   - translation_iso: deu
     name: Hyolmo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yolmo
   - translation_iso: hin
     name: ह्योल्मो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hyolmo
     auto: true
   - translation_iso: jpn
     name: ヘラムブシェルパ語

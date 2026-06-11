@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نيياو
     auto: true
+  - translation_iso: ben
+    name: নয়াওয়
+    auto: true
   - translation_iso: deu
     name: Nyaw
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: nyaw
   - translation_iso: hin
     name: न्याव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyaw
     auto: true
   - translation_iso: jpn
     name: ニャウ語

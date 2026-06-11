@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سوروي
     auto: true
+  - translation_iso: ben
+    name: সুরুই
+    auto: true
   - translation_iso: deu
     name: Surui
   - translation_iso: fra
     name: suruí
   - translation_iso: hin
     name: सुरुई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suruí
     auto: true
   - translation_iso: jpn
     name: パイテル語

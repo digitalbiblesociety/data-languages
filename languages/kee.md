@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيريس الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন কেরেস
+    auto: true
   - translation_iso: deu
     name: Ost-Keres
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "keres de l'Est"
   - translation_iso: hin
     name: पूर्वी केरेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Keres
     auto: true
   - translation_iso: jpn
     name: イースタン・ケレス語

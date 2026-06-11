@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإمبلاواس
     auto: true
+  - translation_iso: ben
+    name: এমপলাওয়াস
+    auto: true
   - translation_iso: deu
     name: Emplawas
   - translation_iso: fra

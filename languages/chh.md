@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشينوك
     auto: true
+  - translation_iso: ben
+    name: চিনোক
+    auto: true
   - translation_iso: deu
     name: Chinook
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bas chinook
   - translation_iso: hin
     name: चिनूक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chinook
     auto: true
   - translation_iso: jpn
     name: チヌーク語

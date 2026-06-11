@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة النومبامي
     auto: true
+  - translation_iso: ben
+    name: নুমবামি
+    auto: true
   - translation_iso: deu
     name: Numbami
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: numbani
   - translation_iso: hin
     name: नुम्बामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Numbami
     auto: true
   - translation_iso: jpn
     name: シボマ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يوو يلينج
     auto: true
+  - translation_iso: ben
+    name: লেওয়ো এলেং
+    auto: true
   - translation_iso: deu
     name: Lewo Eleng
   - translation_iso: fra

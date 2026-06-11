@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: الداري الزرادشتية
     auto: true
+  - translation_iso: ben
+    name: জোরোয়াসতরিয়ান দারি
+    auto: true
   - translation_iso: deu
     name: zoroastrisches Dari
   - translation_iso: fra
     name: dari zoroastrien
   - translation_iso: hin
     name: ज़ोरोस्ट्रियन दारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zoroastrian Dari
     auto: true
   - translation_iso: jpn
     name: ダリー語

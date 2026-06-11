@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابابانا
     auto: true
+  - translation_iso: ben
+    name: পাপাপানা
+    auto: true
   - translation_iso: deu
     name: Papapana
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: papapana
   - translation_iso: hin
     name: पापापाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Papapana
     auto: true
   - translation_iso: jpn
     name: パパパナ語

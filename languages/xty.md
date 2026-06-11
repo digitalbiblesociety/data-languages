@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يولوكسوتشيتل ميكستيك
     auto: true
+  - translation_iso: ben
+    name: য়োলোকসোচিতল মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Yoloxochitl-Mixtekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque de Yoloxóchitl
   - translation_iso: hin
     name: योलोक्सोचित्ल मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yoloxochitl Mixtec
     auto: true
   - translation_iso: jpn
     name: ヨロキソチトル・ミステク語

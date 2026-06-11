@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوماري
     auto: true
+  - translation_iso: ben
+    name: পাউমারি
+    auto: true
   - translation_iso: deu
     name: Paumarí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paumari
   - translation_iso: hin
     name: पौमारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paumarí
     auto: true
   - translation_iso: jpn
     name: パウマリ語

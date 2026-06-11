@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अमाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amal
+    auto: true
   - translation_iso: jpn
     name: アマル語
     auto: true

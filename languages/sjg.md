@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة آسانجوري
     auto: true
+  - translation_iso: ben
+    name: আস্সাঙোরি
+    auto: true
   - translation_iso: deu
     name: Assangori
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: assangori
   - translation_iso: hin
     name: असांगोरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Assangori
     auto: true
   - translation_iso: jpn
     name: アサンゴリ語

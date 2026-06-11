@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سان بلاس كونا
     auto: true
+  - translation_iso: ben
+    name: সান বলাস কুনা
+    auto: true
   - translation_iso: deu
     name: San-Blas-Kuna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kuna de San Blas
   - translation_iso: hin
     name: सान ब्लास कुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Blas Kuna
     auto: true
   - translation_iso: jpn
     name: サンブラス・クナ語

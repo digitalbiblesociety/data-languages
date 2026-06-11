@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال إينين
     auto: true
+  - translation_iso: ben
+    name: আঙাল এনেন
+    auto: true
   - translation_iso: deu
     name: Angal Enen
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अंगाल एनेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Angal Enen
     auto: true
   - translation_iso: jpn
     name: アンガル・エネン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان ديونيسيو ديل مار
     auto: true
+  - translation_iso: ben
+    name: সান দিওনিসিও দেল মার হুয়াভে
+    auto: true
   - translation_iso: deu
     name: San-Dionisio-del-Mar-Huave
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: huave de San Dionisio del Mar
   - translation_iso: hin
     name: सान डियोनिसियो डेल मार हुआवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Dionisio Del Mar Huave
     auto: true
   - translation_iso: jpn
     name: サン・ディオニシオ・デル・マル・ウアベ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خارام ناغا
     auto: true
+  - translation_iso: ben
+    name: খারাম নাগা
+    auto: true
   - translation_iso: deu
     name: Kharam Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naga kharam
   - translation_iso: hin
     name: खाराम नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kharam Naga
     auto: true
   - translation_iso: jpn
     name: ハラム・ナガ語

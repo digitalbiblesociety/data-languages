@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوفاي
     auto: true
+  - translation_iso: ben
+    name: কোভাই
+    auto: true
   - translation_iso: deu
     name: Kovai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोवाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kovai
     auto: true
   - translation_iso: jpn
     name: コヴァイ語

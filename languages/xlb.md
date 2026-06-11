@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لوب باء
     auto: true
+  - translation_iso: ben
+    name: লোউপ ব
+    auto: true
   - translation_iso: deu
     name: Loup B
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: loup b
   - translation_iso: hin
     name: लूप बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loup B
     auto: true
   - translation_iso: jpn
     name: ルーポB語

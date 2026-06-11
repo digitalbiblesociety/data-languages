@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توو
     auto: true
+  - translation_iso: ben
+    name: তোউও
+    auto: true
   - translation_iso: deu
     name: Touo
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: touo
   - translation_iso: hin
     name: तोउओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Touo
     auto: true
   - translation_iso: jpn
     name: ムバニアタ語

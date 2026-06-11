@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wayuu_language"
 translations:
   - translation_iso: ara
     name: اللغة الواييوية
+  - translation_iso: ben
+    name: ওয়ায়ু
+    auto: true
   - translation_iso: deu
     name: Wayuu
   - translation_iso: fra
     name: wayuu
   - translation_iso: hin
     name: वायू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wayuu
     auto: true
   - translation_iso: jpn
     name: ワユ語

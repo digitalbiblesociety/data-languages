@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبو مانوبو
     auto: true
+  - translation_iso: ben
+    name: ওবো মানোবো
+    auto: true
   - translation_iso: deu
     name: Obo-Manobo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओबो मानोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Obo Manobo
     auto: true
   - translation_iso: jpn
     name: オボ・マノボ語

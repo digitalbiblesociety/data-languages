@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tunni_language"
 translations:
   - translation_iso: ara
     name: لغة التوني
+  - translation_iso: ben
+    name: তুন্নি
+    auto: true
   - translation_iso: deu
     name: Tuni
   - translation_iso: fra
     name: tunni
   - translation_iso: hin
     name: तुन्नी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tunni
     auto: true
   - translation_iso: jpn
     name: ツンニ方言

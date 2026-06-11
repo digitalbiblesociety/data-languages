@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميووك البلايينز
     auto: true
+  - translation_iso: ben
+    name: পলাইনস মিওয়োক
+    auto: true
   - translation_iso: deu
     name: Plains-Miwok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miwok des plaines
   - translation_iso: hin
     name: प्लेन्स मिवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Plains Miwok
     auto: true
   - translation_iso: jpn
     name: プレーンズミウォク語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاناسي
     auto: true
+  - translation_iso: ben
+    name: কানাসি
+    auto: true
   - translation_iso: deu
     name: Kanasi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कानासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanasi
     auto: true
   - translation_iso: jpn
     name: ソナ語

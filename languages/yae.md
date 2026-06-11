@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بومي
     auto: true
+  - translation_iso: ben
+    name: পুমে
+    auto: true
   - translation_iso: deu
     name: Pumé
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: yaruro
   - translation_iso: hin
     name: पुमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pumé
     auto: true
   - translation_iso: jpn
     name: プメ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अनी फोवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ani Phowa
+    auto: true
   - translation_iso: jpn
     name: アニフォワ語
     auto: true

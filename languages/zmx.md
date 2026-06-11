@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوميتابا
     auto: true
+  - translation_iso: ben
+    name: বোমিতাবা
+    auto: true
   - translation_iso: deu
     name: Bomitaba
   - translation_iso: fra
     name: leke
   - translation_iso: hin
     name: बोमिताबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bomitaba
     auto: true
   - translation_iso: jpn
     name: ボミタバ語

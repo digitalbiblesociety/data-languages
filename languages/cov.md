@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاو ميايو
     auto: true
+  - translation_iso: ben
+    name: কাও মিয়াও
+    auto: true
   - translation_iso: deu
     name: Cao Miao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cao miao
   - translation_iso: hin
     name: काओ मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cao Miao
     auto: true
   - translation_iso: jpn
     name: カオ・ミャオ語

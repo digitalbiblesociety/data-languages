@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غوزآرخآني
     auto: true
+  - translation_iso: ben
+    name: গোজারখানি
+    auto: true
   - translation_iso: deu
     name: Gozarkhani
   - translation_iso: fra
     name: gozarkhani
   - translation_iso: hin
     name: गोज़ारखानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gozarkhani
     auto: true
   - translation_iso: jpn
     name: ゴザルハニ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نزاكارا
     auto: true
+  - translation_iso: ben
+    name: নজাকারা
+    auto: true
   - translation_iso: deu
     name: Nzakara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nzakara
   - translation_iso: hin
     name: नज़ाकारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nzakara
     auto: true
   - translation_iso: jpn
     name: ンザカラ語

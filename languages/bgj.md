@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बंगोलन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangolan
+    auto: true
   - translation_iso: jpn
     name: バンゴラン語
     auto: true

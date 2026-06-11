@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Quinault_language"
 translations:
   - translation_iso: ara
     name: كينولت
+  - translation_iso: ben
+    name: কুইনাউলত
+    auto: true
   - translation_iso: deu
     name: Quinault
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: quinault
   - translation_iso: hin
     name: क्विनॉल्ट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quinault
     auto: true
   - translation_iso: jpn
     name: クイナルト語

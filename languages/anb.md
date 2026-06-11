@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अंदोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andoa
+    auto: true
   - translation_iso: jpn
     name: アンドア語
   - translation_iso: kor

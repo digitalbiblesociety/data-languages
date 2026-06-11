@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: داكاكا
     auto: true
+  - translation_iso: ben
+    name: দাকাকা
+    auto: true
   - translation_iso: deu
     name: Dakaka
   - translation_iso: fra
     name: dakaka
   - translation_iso: hin
     name: दाकाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daakaka
     auto: true
   - translation_iso: jpn
     name: ダカカ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة او
     auto: true
+  - translation_iso: ben
+    name: লাউ
+    auto: true
   - translation_iso: deu
     name: Lau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lau
   - translation_iso: hin
     name: लाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lau
     auto: true
   - translation_iso: jpn
     name: ラウ語

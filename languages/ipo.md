@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيبيكو
     auto: true
+  - translation_iso: ben
+    name: ইপিকো
+    auto: true
   - translation_iso: deu
     name: Ipiko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ipiko
   - translation_iso: hin
     name: इपिको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ipiko
     auto: true
   - translation_iso: jpn
     name: イピコ語

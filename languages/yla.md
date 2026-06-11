@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يا اول
     auto: true
+  - translation_iso: ben
+    name: য়াউল
+    auto: true
   - translation_iso: deu
     name: Yaul
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yaul
   - translation_iso: hin
     name: यौल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaul
     auto: true
   - translation_iso: jpn
     name: ヤウル語

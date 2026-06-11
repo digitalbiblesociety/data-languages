@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو نيغيري سيمبيلان
     auto: true
+  - translation_iso: ben
+    name: নেগেরি সেমবিলান মালায়
+    auto: true
   - translation_iso: deu
     name: Malaiisch (Negeri Sembilan)
     auto: true

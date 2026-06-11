@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरुआमु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aruamu
+    auto: true
   - translation_iso: jpn
     name: アルアム語
     auto: true

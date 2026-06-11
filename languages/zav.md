@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ياتزاتشي
     auto: true
+  - translation_iso: ben
+    name: য়াতজাচি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Yatzachi)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Yatzachi
   - translation_iso: hin
     name: यात्साची सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yatzachi Zapotec
     auto: true
   - translation_iso: jpn
     name: ヤツァチ・サポテク語

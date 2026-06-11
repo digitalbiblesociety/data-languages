@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अंगाताहा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Angaataha
+    auto: true
   - translation_iso: jpn
     name: アンガアタハ語
     auto: true

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا ياويوس
     auto: true
+  - translation_iso: ben
+    name: য়াউয়োস কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Yauyos-Quechua
   - translation_iso: fra
     name: quechua de Yauyos
   - translation_iso: hin
     name: याउयोस क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yauyos Quechua
     auto: true
   - translation_iso: jpn
     name: ヤウヨスケチュア語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيمبو
     auto: true
+  - translation_iso: ben
+    name: মোতেমবো তেমবো
+    auto: true
   - translation_iso: deu
     name: Tembo (Motembo)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tembo
   - translation_iso: hin
     name: तेम्बो (मोतेम्बो)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Motembo Tembo
     auto: true
   - translation_iso: jpn
     name: テンボ語

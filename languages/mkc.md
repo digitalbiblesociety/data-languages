@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سيليبوت
     auto: true
+  - translation_iso: ben
+    name: সিলিপুত
+    auto: true
   - translation_iso: deu
     name: Siliput
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: siliput
   - translation_iso: hin
     name: सिलिपुट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siliput
     auto: true
   - translation_iso: jpn
     name: シリプット語

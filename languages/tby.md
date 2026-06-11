@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تابارو
     auto: true
+  - translation_iso: ben
+    name: তাবারু
+    auto: true
   - translation_iso: deu
     name: Tabaru
     auto: true

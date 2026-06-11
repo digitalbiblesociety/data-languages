@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: आरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ari
+    auto: true
   - translation_iso: jpn
     name: アリ語
     auto: true

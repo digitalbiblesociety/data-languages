@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الشيتكو
     auto: true
+  - translation_iso: ben
+    name: চেতকো
+    auto: true
   - translation_iso: deu
     name: Chetco
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चेट्को
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chetco
     auto: true
   - translation_iso: jpn
     name: チェツコ語

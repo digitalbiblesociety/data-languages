@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बातद इफुगाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Batad Ifugao
+    auto: true
   - translation_iso: jpn
     name: バタド・イフガオ語
     auto: true

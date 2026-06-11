@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاكواني
     auto: true
+  - translation_iso: ben
+    name: তাকওয়ানে
+    auto: true
   - translation_iso: deu
     name: Takwane
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: takwane
   - translation_iso: hin
     name: ताकवाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Takwane
     auto: true
   - translation_iso: jpn
     name: タクワネ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كارون دوري
     auto: true
+  - translation_iso: ben
+    name: কারোন দোরি
+    auto: true
   - translation_iso: deu
     name: Karon Dori
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سوو
     auto: true
+  - translation_iso: ben
+    name: সওয়ো
+    auto: true
   - translation_iso: deu
     name: So
   - translation_iso: fra
     name: swo
   - translation_iso: hin
     name: स्वो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Swo
     auto: true
   - translation_iso: jpn
     name: ソー語

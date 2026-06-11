@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكارانغغال
     auto: true
+  - translation_iso: ben
+    name: ইকারাংগাল
+    auto: true
   - translation_iso: deu
     name: Ikaranggal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ikarranggal
   - translation_iso: hin
     name: इकारंगगल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikaranggal
     auto: true
   - translation_iso: jpn
     name: イカランガル語

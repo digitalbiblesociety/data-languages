@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دي
     auto: true
+  - translation_iso: ben
+    name: দি
+    auto: true
   - translation_iso: deu
     name: Dii
   - translation_iso: fra
     name: dii
   - translation_iso: hin
     name: दीई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dii
     auto: true
   - translation_iso: jpn
     name: ディイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سان لوسيان كريول فرنش
     auto: true
+  - translation_iso: ben
+    name: সাইনত লুকিয়ান করেওলে ফরেনচ
+    auto: true
   - translation_iso: deu
     name: Lucianisches Kreolfranzösisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: créole sainte-lucien
   - translation_iso: hin
     name: सेंट लूसियन क्रियोल फ्रेंच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saint Lucian Creole French
     auto: true
   - translation_iso: jpn
     name: セントルシア・クレオール

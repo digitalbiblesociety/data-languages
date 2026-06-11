@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآيǁوم
     auto: true
+  - translation_iso: ben
+    name: হাইওম
+    auto: true
   - translation_iso: deu
     name: Haiǁom
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: haiǁom
   - translation_iso: hin
     name: हाइओम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haiǁom
     auto: true
   - translation_iso: jpn
     name: ハイイ語

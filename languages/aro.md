@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अराओना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Araona
+    auto: true
   - translation_iso: jpn
     name: アラオナ語
   - translation_iso: kor

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ليجينييم
     auto: true
+  - translation_iso: ben
+    name: লেগেনয়েম
+    auto: true
   - translation_iso: deu
     name: Legenyem
     auto: true

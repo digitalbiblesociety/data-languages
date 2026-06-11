@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيد
     auto: true
+  - translation_iso: ben
+    name: মানিদে
+    auto: true
   - translation_iso: deu
     name: Manide
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: manide
   - translation_iso: hin
     name: मनिदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manide
     auto: true
   - translation_iso: jpn
     name: マニデ語

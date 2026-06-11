@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة خوين
     auto: true
+  - translation_iso: ben
+    name: খুএন
+    auto: true
   - translation_iso: deu
     name: Khuen
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ख्वेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khuen
     auto: true
   - translation_iso: jpn
     name: クエン語

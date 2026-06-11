@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورميسو
     auto: true
+  - translation_iso: ben
+    name: বুরমেসো
+    auto: true
   - translation_iso: deu
     name: Burmeso
     auto: true

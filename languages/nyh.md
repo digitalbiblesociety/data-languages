@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيايكينا
     auto: true
+  - translation_iso: ben
+    name: নয়িকিনা
+    auto: true
   - translation_iso: deu
     name: Nyikina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyigina
   - translation_iso: hin
     name: न्यिकिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyikina
     auto: true
   - translation_iso: jpn
     name: ニギナ語

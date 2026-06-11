@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अतोरादा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atorada
+    auto: true
   - translation_iso: jpn
     name: アトラダ語
   - translation_iso: kor

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك غويفيا ده هومبولدت
     auto: true
+  - translation_iso: ben
+    name: গুএভেয়া দে হুমবোলদত জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Guevea de Humboldt)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Guevea De Humboldt
   - translation_iso: hin
     name: ग्वेवा डे हम्बोल्ट सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guevea De Humboldt Zapotec
     auto: true
   - translation_iso: jpn
     name: グエベア・デ・フンボルト・サポテク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميهيك
     auto: true
+  - translation_iso: ben
+    name: মেহেক
+    auto: true
   - translation_iso: deu
     name: Mehek
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mehek
   - translation_iso: hin
     name: मेहेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mehek
     auto: true
   - translation_iso: jpn
     name: メヘク語

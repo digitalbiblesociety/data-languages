@@ -28,6 +28,9 @@ translations:
     name: langue des signes de Ban Khor
   - translation_iso: hin
     name: बान खोर सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Ban Khor Sign Language
+    auto: true
   - translation_iso: jpn
     name: バンコール手話
   - translation_iso: kor

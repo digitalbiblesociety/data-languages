@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: وينتو
     auto: true
+  - translation_iso: ben
+    name: ওয়িনতু
+    auto: true
   - translation_iso: deu
     name: Wintu
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: wintu
   - translation_iso: hin
     name: विंटू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wintu
     auto: true
   - translation_iso: jpn
     name: ウィントゥ語

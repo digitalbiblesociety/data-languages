@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يانومامي
     auto: true
+  - translation_iso: ben
+    name: য়ানোমামি
+    auto: true
   - translation_iso: deu
     name: Yanomámi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yanomam
   - translation_iso: hin
     name: यानोमामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yanomámi
     auto: true
   - translation_iso: jpn
     name: ヤノマミ語

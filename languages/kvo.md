@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوبل
     auto: true
+  - translation_iso: ben
+    name: দোবেল
+    auto: true
   - translation_iso: deu
     name: Dobel
   - translation_iso: fra

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: موبونجنو
     auto: true
+  - translation_iso: ben
+    name: মবোংনো
+    auto: true
   - translation_iso: deu
     name: Mbongno
   - translation_iso: fra
     name: kamkam
   - translation_iso: hin
     name: म्बोंग्नो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbongno
     auto: true
   - translation_iso: jpn
     name: ムボンノ語

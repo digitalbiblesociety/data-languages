@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويسترن ميهانج
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন মেওহাং
+    auto: true
   - translation_iso: deu
     name: West-Meohang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "meohang de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी मेओहांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Meohang
     auto: true
   - translation_iso: jpn
     name: 西メオハン語

@@ -25,6 +25,9 @@ translations:
   - translation_iso: hin
     name: अक्यौंग आरी नागा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akyaung Ari Naga
+    auto: true
   - translation_iso: jpn
     name: アキャウン・アリ・ナガ語
     auto: true

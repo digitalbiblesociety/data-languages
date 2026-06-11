@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واغايا
     auto: true
+  - translation_iso: ben
+    name: ওয়াগায়া
+    auto: true
   - translation_iso: deu
     name: Wagaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wagaya
   - translation_iso: hin
     name: वगाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wagaya
     auto: true
   - translation_iso: jpn
     name: ワガヤ語

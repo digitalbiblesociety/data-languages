@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاليسي
     auto: true
+  - translation_iso: ben
+    name: তালিসে
+    auto: true
   - translation_iso: deu
     name: Talise
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: talise
   - translation_iso: hin
     name: तालिसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Talise
     auto: true
   - translation_iso: jpn
     name: タリセ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة أجومبو
     auto: true
+  - translation_iso: ben
+    name: আজুমবু
+    auto: true
   - translation_iso: deu
     name: Mbu
   - translation_iso: fra
     name: ajumbu
   - translation_iso: hin
     name: अजुम्बु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ajumbu
     auto: true
   - translation_iso: jpn
     name: アジュムブ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توروج
     auto: true
+  - translation_iso: ben
+    name: তুরুং
+    auto: true
   - translation_iso: deu
     name: Turung
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुरुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Turung
     auto: true
   - translation_iso: jpn
     name: トゥルン語

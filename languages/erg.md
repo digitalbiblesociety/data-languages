@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السي
     auto: true
+  - translation_iso: ben
+    name: সিএ
+    auto: true
   - translation_iso: deu
     name: Sie
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sie
   - translation_iso: hin
     name: सिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sie
     auto: true
   - translation_iso: jpn
     name: シエ語

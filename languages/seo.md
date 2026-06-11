@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوارمين
     auto: true
+  - translation_iso: ben
+    name: সুয়ারমিন
+    auto: true
   - translation_iso: deu
     name: Suarmin
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: suarmin
   - translation_iso: hin
     name: सुआर्मिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suarmin
     auto: true
   - translation_iso: jpn
     name: アサバ語

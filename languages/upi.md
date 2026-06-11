@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوميدا
     auto: true
+  - translation_iso: ben
+    name: উমেদা
+    auto: true
   - translation_iso: deu
     name: Umeda
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उमेदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umeda
     auto: true
   - translation_iso: jpn
     name: ウメダ語

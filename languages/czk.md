@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: الكناني
     auto: true
+  - translation_iso: ben
+    name: কনানিক
+    auto: true
   - translation_iso: deu
     name: Knaanisch
   - translation_iso: fra
     name: knaanique
   - translation_iso: hin
     name: कनानिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Knaanic
     auto: true
   - translation_iso: jpn
     name: クナアン語

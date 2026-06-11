@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رالتي
     auto: true
+  - translation_iso: ben
+    name: রালতে
+    auto: true
   - translation_iso: deu
     name: Ralte
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: राल्ते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ralte
     auto: true
   - translation_iso: jpn
     name: ラルテー語

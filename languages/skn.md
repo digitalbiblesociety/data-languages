@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوليبوجان سوبانون
     auto: true
+  - translation_iso: ben
+    name: কোলিবুগান সুবানোন
+    auto: true
   - translation_iso: deu
     name: Kolibugan-Subanon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: subanon kolibugan
   - translation_iso: hin
     name: कोलिबुगान सुबानोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kolibugan Subanon
     auto: true
   - translation_iso: jpn
     name: スバヌン語

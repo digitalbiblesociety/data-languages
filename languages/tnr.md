@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मेनिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ménik
+    auto: true
   - translation_iso: jpn
     name: メニク語
   - translation_iso: kor

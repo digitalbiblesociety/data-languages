@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: روما
     auto: true
+  - translation_iso: ben
+    name: রোমা
+    auto: true
   - translation_iso: deu
     name: Roma
     auto: true

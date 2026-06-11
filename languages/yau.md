@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوانا
     auto: true
+  - translation_iso: ben
+    name: য়ুওয়ানা
+    auto: true
   - translation_iso: deu
     name: Yuwana
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: yuwana
   - translation_iso: hin
     name: युवाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yuwana
     auto: true
   - translation_iso: jpn
     name: ユワナ語

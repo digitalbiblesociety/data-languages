@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكابي
     auto: true
+  - translation_iso: ben
+    name: কাকাবে
+    auto: true
   - translation_iso: deu
     name: Kakabe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kakabé
   - translation_iso: hin
     name: काकाबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kakabe
     auto: true
   - translation_iso: jpn
     name: カカベ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوريندجي
     auto: true
+  - translation_iso: ben
+    name: গুরিনদজি
+    auto: true
   - translation_iso: deu
     name: Gurindji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gurindji
   - translation_iso: hin
     name: गुरिंजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gurindji
     auto: true
   - translation_iso: jpn
     name: グリンジ語

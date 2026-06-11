@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوكاتا
     auto: true
+  - translation_iso: ben
+    name: কোকাতা
+    auto: true
   - translation_iso: deu
     name: Kokata
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kokata
   - translation_iso: hin
     name: कोकाटा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kokata
     auto: true
   - translation_iso: jpn
     name: コカタ語

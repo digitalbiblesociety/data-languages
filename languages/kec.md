@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيغا
     auto: true
+  - translation_iso: ben
+    name: কেইগা
+    auto: true
   - translation_iso: deu
     name: Keiga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: keiga
   - translation_iso: hin
     name: केइगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keiga
     auto: true
   - translation_iso: jpn
     name: ケイガ語

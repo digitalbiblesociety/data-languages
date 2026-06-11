@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موان
     auto: true
+  - translation_iso: ben
+    name: মওয়ান
+    auto: true
   - translation_iso: deu
     name: Mwan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: monan
   - translation_iso: hin
     name: म्वान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mwan
     auto: true
   - translation_iso: jpn
     name: ムワン語

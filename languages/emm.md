@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: الماموليك
     auto: true
+  - translation_iso: ben
+    name: মামুলিকুএ
+    auto: true
   - translation_iso: deu
     name: Mamulique
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: mamulique
   - translation_iso: hin
     name: मामुलिके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mamulique
     auto: true
   - translation_iso: jpn
     name: マムリク語

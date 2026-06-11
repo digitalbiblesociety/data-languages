@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فونابو
     auto: true
+  - translation_iso: ben
+    name: ভুনাপু
+    auto: true
   - translation_iso: deu
     name: Vunapu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vunapu
   - translation_iso: hin
     name: वुनापू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vunapu
     auto: true
   - translation_iso: jpn
     name: ブナプ語

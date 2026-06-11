@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واريس
     auto: true
+  - translation_iso: ben
+    name: ওয়ারিস
+    auto: true
   - translation_iso: deu
     name: Waris
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waris
   - translation_iso: hin
     name: वारिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waris
     auto: true
   - translation_iso: jpn
     name: ワリス語

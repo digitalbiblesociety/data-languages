@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جنوب بوبو مادري
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন বোবো মাদারে
+    auto: true
   - translation_iso: deu
     name: Südliches Bobo Madaré
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bobo madaré du Sud
   - translation_iso: hin
     name: दक्षिणी बोबो मादारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Bobo Madaré
     auto: true
   - translation_iso: jpn
     name: 南ボボ・マダレ語

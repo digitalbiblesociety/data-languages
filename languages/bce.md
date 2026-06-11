@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बामेन्याम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bamenyam
+    auto: true
   - translation_iso: jpn
     name: バメニャム語
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: يابين
     auto: true
+  - translation_iso: ben
+    name: য়াবেন
+    auto: true
   - translation_iso: deu
     name: Yaben
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yaben
   - translation_iso: hin
     name: याबेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaben
     auto: true
   - translation_iso: jpn
     name: ヤベン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيكجيني
     auto: true
+  - translation_iso: ben
+    name: নেকগিনি
+    auto: true
   - translation_iso: deu
     name: Nekgini
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nekgini
   - translation_iso: hin
     name: नेकगिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nekgini
     auto: true
   - translation_iso: jpn
     name: ネクギニ語

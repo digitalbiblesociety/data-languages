@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: لغة كلامات-مودوك
     auto: true
+  - translation_iso: ben
+    name: কলামাথ-মোদোক
+    auto: true
   - translation_iso: deu
     name: Klamath
   - translation_iso: fra
     name: klamath
   - translation_iso: hin
     name: क्लामथ-मोडोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Klamath-Modoc
     auto: true
   - translation_iso: jpn
     name: クラマス・モドック語

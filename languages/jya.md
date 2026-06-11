@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة جيارونغ
     auto: true
+  - translation_iso: ben
+    name: জিয়ারোং
+    auto: true
   - translation_iso: deu
     name: Jiarong
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: langues rGyalrong
   - translation_iso: hin
     name: जियारोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jiarong
     auto: true
   - translation_iso: jpn
     name: ギャロン語

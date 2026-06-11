@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Birgid_language"
 translations:
   - translation_iso: ara
     name: لغة برجيد
+  - translation_iso: ben
+    name: বিরকেদ
+    auto: true
   - translation_iso: deu
     name: Birked
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: birgid
   - translation_iso: hin
     name: बिर्केद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Birked
     auto: true
   - translation_iso: jpn
     name: ビルギッド語

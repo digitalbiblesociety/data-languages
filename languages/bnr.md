@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوتماس تور
     auto: true
+  - translation_iso: ben
+    name: বুতমাস-তুর
+    auto: true
   - translation_iso: deu
     name: Butmas-Tur
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: butmas-tur
   - translation_iso: hin
     name: बुटमास-तुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Butmas-Tur
     auto: true
   - translation_iso: jpn
     name: ブトマス・トゥル語

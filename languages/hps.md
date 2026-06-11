@@ -29,6 +29,9 @@ translations:
     name: "langue des signes d'Hawaï"
   - translation_iso: hin
     name: हवाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: "Bahasa Hawai'i Sign Language"
+    auto: true
   - translation_iso: jpn
     name: ハワイ・ピジン手話
   - translation_iso: kor

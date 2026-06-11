@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رهامبو
     auto: true
+  - translation_iso: ben
+    name: রাহামবু
+    auto: true
   - translation_iso: deu
     name: Rahambuu
     auto: true

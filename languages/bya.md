@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: باتاك
     auto: true
+  - translation_iso: ben
+    name: বাতাক
+    auto: true
   - translation_iso: deu
     name: Batak
     auto: true

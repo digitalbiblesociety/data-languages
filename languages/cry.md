@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكوري
     auto: true
+  - translation_iso: ben
+    name: কোরি
+    auto: true
   - translation_iso: deu
     name: Chori
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cori
     auto: true
   - translation_iso: jpn
     name: コリ語

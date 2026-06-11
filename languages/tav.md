@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاتويو
     auto: true
+  - translation_iso: ben
+    name: তাতুয়ো
+    auto: true
   - translation_iso: deu
     name: Tatuyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tatuyo
   - translation_iso: hin
     name: ततुयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tatuyo
     auto: true
   - translation_iso: jpn
     name: タトゥヨ語

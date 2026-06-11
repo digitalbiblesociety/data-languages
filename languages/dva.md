@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دواو
     auto: true
+  - translation_iso: ben
+    name: দুয়াউ
+    auto: true
   - translation_iso: deu
     name: Duau
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: duau
   - translation_iso: hin
     name: दुआउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duau
     auto: true
   - translation_iso: jpn
     name: ドゥアウ語

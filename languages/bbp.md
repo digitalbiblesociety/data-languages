@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بندا الوسطى الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত কেনতরাল বানদা
+    auto: true
   - translation_iso: deu
     name: Westzentral-Banda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "banda central de l'Ouest"
   - translation_iso: hin
     name: पश्चिम मध्य बांदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Central Banda
     auto: true
   - translation_iso: jpn
     name: 中西部バンダ語

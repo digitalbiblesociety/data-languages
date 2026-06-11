@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فانو
     auto: true
+  - translation_iso: ben
+    name: ভানো
+    auto: true
   - translation_iso: deu
     name: Vano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lovono
   - translation_iso: hin
     name: वानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vano
     auto: true
   - translation_iso: jpn
     name: ロヴォノ語

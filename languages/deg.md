@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: देगेमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Degema
+    auto: true
   - translation_iso: jpn
     name: デゲマ語
     auto: true

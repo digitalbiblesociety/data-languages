@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manda_language_(India)"
 translations:
   - translation_iso: ara
     name: لغة ماندا
+  - translation_iso: ben
+    name: মানদা
+    auto: true
   - translation_iso: deu
     name: Manda (India)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manda
   - translation_iso: hin
     name: मंडा भाषा
+  - translation_iso: ind
+    name: Bahasa Manda
+    auto: true
   - translation_iso: jpn
     name: マンダ語
   - translation_iso: kor

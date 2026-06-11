@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sorkhei_language"
 translations:
   - translation_iso: ara
     name: سرخي
+  - translation_iso: ben
+    name: সোরখেই
+    auto: true
   - translation_iso: deu
     name: Sorkhei
   - translation_iso: fra

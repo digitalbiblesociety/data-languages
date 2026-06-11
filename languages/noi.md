@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نويري
     auto: true
+  - translation_iso: ben
+    name: নোইরি
+    auto: true
   - translation_iso: deu
     name: Noiri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: noiri
   - translation_iso: hin
     name: नोइरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Noiri
     auto: true
   - translation_iso: jpn
     name: ノイリ語

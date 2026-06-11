@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يكوم
     auto: true
+  - translation_iso: ben
+    name: লিকুম
+    auto: true
   - translation_iso: deu
     name: Likum
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: likum
   - translation_iso: hin
     name: लिकुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Likum
     auto: true
   - translation_iso: jpn
     name: リクム語

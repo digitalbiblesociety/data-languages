@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوبو
     auto: true
+  - translation_iso: ben
+    name: দোবু
+    auto: true
   - translation_iso: deu
     name: Dobu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dobu
   - translation_iso: hin
     name: डोबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dobu
     auto: true
   - translation_iso: jpn
     name: ドブ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودو بارجا
     auto: true
+  - translation_iso: ben
+    name: বোদো পারজা
+    auto: true
   - translation_iso: deu
     name: Bodo Parja
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bodo parja
   - translation_iso: hin
     name: बोडो परजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bodo Parja
     auto: true
   - translation_iso: jpn
     name: ボド・パルジャ語

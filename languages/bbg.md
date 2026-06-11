@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बारामा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barama
+    auto: true
   - translation_iso: jpn
     name: バラマ語
     auto: true

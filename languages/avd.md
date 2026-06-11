@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अल्विरी-विदारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alviri-Vidari
+    auto: true
   - translation_iso: jpn
     name: アルビリビダリ語
     auto: true

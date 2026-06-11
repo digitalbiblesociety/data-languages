@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bongo_language"
 translations:
   - translation_iso: ara
     name: لغة البونجو
+  - translation_iso: ben
+    name: বোঙো
+    auto: true
   - translation_iso: deu
     name: Bongo
   - translation_iso: fra
     name: bongo
   - translation_iso: hin
     name: बोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bongo
     auto: true
   - translation_iso: jpn
     name: ボンゴ語

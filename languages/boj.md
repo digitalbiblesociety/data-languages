@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अंजम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anjam
+    auto: true
   - translation_iso: jpn
     name: アンジャム語
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الأرومو الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন ওরোমো
+    auto: true
   - translation_iso: deu
     name: Östliches Oromo
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: "oromo de l'Est"
   - translation_iso: hin
     name: पूर्वी ओरोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Oromo
     auto: true
   - translation_iso: jpn
     name: 東オロモ語

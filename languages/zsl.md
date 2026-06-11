@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الزامبية
     auto: true
+  - translation_iso: ben
+    name: জামবিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Sambianische Gebärdensprache
   - translation_iso: fra
     name: langue des signes zambienne
   - translation_iso: hin
     name: ज़ाम्बियाई सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zambian Sign Language
     auto: true
   - translation_iso: jpn
     name: ザンビア手話

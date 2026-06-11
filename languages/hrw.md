@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: وارور فيني
     auto: true
+  - translation_iso: ben
+    name: ওয়ারওয়ার ফেনি
+    auto: true
   - translation_iso: deu
     name: Warwar Feni
     auto: true
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वारवार फेनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warwar Feni
     auto: true
   - translation_iso: jpn
     name: ウォーウォー・フェニ語

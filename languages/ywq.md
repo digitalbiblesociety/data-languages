@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ووديج-لوكوان يي
     auto: true
+  - translation_iso: ben
+    name: ওয়ুদিং-লুকুয়ান য়ি
+    auto: true
   - translation_iso: deu
     name: Wuding-Luquan-Yi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yi wuding-luquan
   - translation_iso: hin
     name: वुडिंग-लुक्वान यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wuding-Luquan Yi
     auto: true
   - translation_iso: jpn
     name: ウーディング-ルクアン・イー語

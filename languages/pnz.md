@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بانا (جمهورية أفريقيا الوسطى)
     auto: true
+  - translation_iso: ben
+    name: পানা
+    auto: true
   - translation_iso: deu
     name: Pana
   - translation_iso: fra
     name: pana
   - translation_iso: hin
     name: पाना (मध्य अफ़्रीकी गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pana
     auto: true
   - translation_iso: jpn
     name: パナ語

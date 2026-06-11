@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوماشتي
     auto: true
+  - translation_iso: ben
+    name: শুমাশতি
+    auto: true
   - translation_iso: deu
     name: Shumashti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shumashti
   - translation_iso: hin
     name: शुमश्ती भाषा
+  - translation_iso: ind
+    name: Bahasa Shumashti
+    auto: true
   - translation_iso: jpn
     name: シュマシュティー語
   - translation_iso: kor

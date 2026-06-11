@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوآيآبإرو
     auto: true
+  - translation_iso: ben
+    name: গুয়ায়াবেরো
+    auto: true
   - translation_iso: deu
     name: Guayabero
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guayabero
   - translation_iso: hin
     name: गुआयाबेरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guayabero
     auto: true
   - translation_iso: jpn
     name: グアヤベロ語

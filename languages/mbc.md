@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكوشي
     auto: true
+  - translation_iso: ben
+    name: মাকুশি
+    auto: true
   - translation_iso: deu
     name: Macushi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: macushi
   - translation_iso: hin
     name: मकुशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Macushi
     auto: true
   - translation_iso: jpn
     name: マクシー語

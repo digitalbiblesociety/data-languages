@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جاه هوت
     auto: true
+  - translation_iso: ben
+    name: জাহ হুত
+    auto: true
   - translation_iso: deu
     name: Jah Hut
     auto: true

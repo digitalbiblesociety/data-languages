@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشي
     auto: true
+  - translation_iso: ben
+    name: চে
+    auto: true
   - translation_iso: deu
     name: Che
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Che
     auto: true
   - translation_iso: jpn
     name: ルクバ語

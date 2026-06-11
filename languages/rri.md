@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريريو
     auto: true
+  - translation_iso: ben
+    name: রিরিও
+    auto: true
   - translation_iso: deu
     name: Ririo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ririo
   - translation_iso: hin
     name: रिरियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ririo
     auto: true
   - translation_iso: jpn
     name: リリオ語

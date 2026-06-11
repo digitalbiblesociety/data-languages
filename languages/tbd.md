@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاكي إيي
     auto: true
+  - translation_iso: ben
+    name: কাকি আএ
+    auto: true
   - translation_iso: deu
     name: Kaki Ae
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: kaki ae
   - translation_iso: hin
     name: काकी आए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaki Ae
     auto: true
   - translation_iso: jpn
     name: カキ・アエ語

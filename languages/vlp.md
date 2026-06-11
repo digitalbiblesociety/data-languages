@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فالبي
     auto: true
+  - translation_iso: ben
+    name: ভালপেই
+    auto: true
   - translation_iso: deu
     name: Valpei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: valpei
   - translation_iso: hin
     name: वालपेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Valpei
     auto: true
   - translation_iso: jpn
     name: ヴァルペイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوسْنْجون
     auto: true
+  - translation_iso: ben
+    name: বোসঙুন
+    auto: true
   - translation_iso: deu
     name: Bosngun
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bosngun
   - translation_iso: hin
     name: बोसंगुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bosngun
     auto: true
   - translation_iso: jpn
     name: ボスングン語

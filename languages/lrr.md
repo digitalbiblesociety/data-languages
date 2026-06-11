@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ووتهيرن امپهو
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন য়ামফু
+    auto: true
   - translation_iso: deu
     name: Southern Yamphu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yamphu du Sud
   - translation_iso: hin
     name: दक्षिणी याम्फु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Yamphu
     auto: true
   - translation_iso: jpn
     name: 南ヤンフ語

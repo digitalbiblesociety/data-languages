@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اليخي
     auto: true
+  - translation_iso: ben
+    name: য়েখে
+    auto: true
   - translation_iso: deu
     name: Yekhee
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: etsako
   - translation_iso: hin
     name: येखी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yekhee
     auto: true
   - translation_iso: jpn
     name: イェッキー語

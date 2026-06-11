@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ستوني
     auto: true
+  - translation_iso: ben
+    name: সতোনেয়
+    auto: true
   - translation_iso: deu
     name: Stoney
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: stoney
   - translation_iso: hin
     name: स्टोनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Stoney
     auto: true
   - translation_iso: jpn
     name: ストニー語

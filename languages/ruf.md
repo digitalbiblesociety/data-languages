@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوجورو
     auto: true
+  - translation_iso: ben
+    name: লুগুরু
+    auto: true
   - translation_iso: deu
     name: Luguru
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लुगुरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luguru
     auto: true
   - translation_iso: jpn
     name: ルグル語

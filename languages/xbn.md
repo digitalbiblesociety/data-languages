@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كينابوي
     auto: true
+  - translation_iso: ben
+    name: কেনাবোই
+    auto: true
   - translation_iso: deu
     name: Kenaboi
     auto: true
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: केनाबोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kenaboi
     auto: true
   - translation_iso: jpn
     name: ケナボイ語

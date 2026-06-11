@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مونو (الكاميرون)
     auto: true
+  - translation_iso: ben
+    name: মোনো
+    auto: true
   - translation_iso: deu
     name: Mono (Kamerun)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mono
   - translation_iso: hin
     name: मोनो (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mono
     auto: true
   - translation_iso: jpn
     name: モノ語

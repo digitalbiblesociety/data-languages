@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة يانسي
     auto: true
+  - translation_iso: ben
+    name: য়ানসি
+    auto: true
   - translation_iso: deu
     name: Yansi
   - translation_iso: fra
     name: yansi
   - translation_iso: hin
     name: यांसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yansi
     auto: true
   - translation_iso: jpn
     name: ヤンシ語

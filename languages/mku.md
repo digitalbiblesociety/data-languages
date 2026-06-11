@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونيانكا مانينكا
     auto: true
+  - translation_iso: ben
+    name: কোনয়ানকা মানিনকা
+    auto: true
   - translation_iso: deu
     name: Konyanka Maninka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maninka konyanka
   - translation_iso: hin
     name: कोन्यांका मानिंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konyanka Maninka
     auto: true
   - translation_iso: jpn
     name: コニャンカ・マニンカ語

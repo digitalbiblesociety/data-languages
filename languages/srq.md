@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيريونو
     auto: true
+  - translation_iso: ben
+    name: সিরিওনো
+    auto: true
   - translation_iso: deu
     name: Sirionó
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sirionó
   - translation_iso: hin
     name: सिरियोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sirionó
     auto: true
   - translation_iso: jpn
     name: シリオノ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيفيه
     auto: true
+  - translation_iso: ben
+    name: ইয়িভে
+    auto: true
   - translation_iso: deu
     name: Iyive
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iyive
   - translation_iso: hin
     name: इयिवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iyive
     auto: true
   - translation_iso: jpn
     name: ウイヴェ語

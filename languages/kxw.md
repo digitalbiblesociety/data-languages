@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوناي
     auto: true
+  - translation_iso: ben
+    name: কোনাই
+    auto: true
   - translation_iso: deu
     name: Konai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: konai
   - translation_iso: hin
     name: कोनाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konai
     auto: true
   - translation_iso: jpn
     name: コナイ語

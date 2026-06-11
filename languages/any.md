@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अन्यिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anyin
+    auto: true
   - translation_iso: jpn
     name: アニ語
   - translation_iso: kor

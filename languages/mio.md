@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بينوتبا الوطنية
     auto: true
+  - translation_iso: ben
+    name: পিনোতেপা নাকিওনাল মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Pinotepa Nacional Mixtec
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque de Pinotepa Nacional
   - translation_iso: hin
     name: पिनोतेपा नासियोनाल मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pinotepa Nacional Mixtec
     auto: true
   - translation_iso: jpn
     name: ピノテパ・ナシオナル・ミステク語

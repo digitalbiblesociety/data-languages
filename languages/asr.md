@@ -30,6 +30,9 @@ translations:
     name: asur
   - translation_iso: hin
     name: असुर भाषा
+  - translation_iso: ind
+    name: Bahasa Asuri
+    auto: true
   - translation_iso: jpn
     name: アスル語
   - translation_iso: kor

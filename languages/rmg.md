@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مسافر نرويجي
     auto: true
+  - translation_iso: ben
+    name: তরাভেল্লের নোরওয়েগিয়ান
+    auto: true
   - translation_iso: deu
     name: Rodi
   - translation_iso: fra
     name: rodi
   - translation_iso: hin
     name: ट्रैवलर नॉर्वेजियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Traveller Norwegian
     auto: true
   - translation_iso: jpn
     name: トラベラーノルウェー語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نيليم
     auto: true
+  - translation_iso: ben
+    name: নিএল্লিম
+    auto: true
   - translation_iso: deu
     name: Niellim
   - translation_iso: fra
     name: niellim
   - translation_iso: hin
     name: नीएलिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Niellim
     auto: true
   - translation_iso: jpn
     name: ニエリム語

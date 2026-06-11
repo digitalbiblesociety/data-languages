@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موروبي
     auto: true
+  - translation_iso: ben
+    name: মুরুপি
+    auto: true
   - translation_iso: deu
     name: Murupi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: murupi
   - translation_iso: hin
     name: मुरुपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Murupi
     auto: true
   - translation_iso: jpn
     name: ムルピ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يونغ
     auto: true
+  - translation_iso: ben
+    name: য়োং
+    auto: true
   - translation_iso: deu
     name: Yong
     auto: true

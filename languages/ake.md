@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अकावाइयो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akawaio
+    auto: true
   - translation_iso: jpn
     name: アカワイオ語
     auto: true

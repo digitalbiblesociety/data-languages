@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تارتيسي
     auto: true
+  - translation_iso: ben
+    name: তারতেস্সিয়ান
+    auto: true
   - translation_iso: deu
     name: Tartessisch
   - translation_iso: fra

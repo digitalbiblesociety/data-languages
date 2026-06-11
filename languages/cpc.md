@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अज्यीनिन्का अपुरुकायाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ajyíninka Apurucayali
+    auto: true
   - translation_iso: jpn
     name: アジェニンカ・アプルカヤリ語
     auto: true

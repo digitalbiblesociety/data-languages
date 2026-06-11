@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Aramaic_dialect_of_Hertevin"
 translations:
   - translation_iso: ara
     name: سورث هرتفين
+  - translation_iso: ben
+    name: হেরতেভিন
+    auto: true
   - translation_iso: deu
     name: Hertevin
   - translation_iso: fra
     name: hertevin
   - translation_iso: hin
     name: हेरतेविन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hértevin
     auto: true
   - translation_iso: jpn
     name: ヘルテヴィン語

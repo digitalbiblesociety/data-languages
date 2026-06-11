@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاكو
     auto: true
+  - translation_iso: ben
+    name: তাকু
+    auto: true
   - translation_iso: deu
     name: Takuu
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Takuu
     auto: true
   - translation_iso: jpn
     name: タクー語

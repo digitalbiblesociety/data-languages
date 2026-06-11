@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يسينج-يليمي
     auto: true
+  - translation_iso: ben
+    name: লেসিং-গেলিমি
+    auto: true
   - translation_iso: deu
     name: Lesing-Gelimi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: amio-gelimi
   - translation_iso: hin
     name: लेसिंग-गेलिमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lesing-Gelimi
     auto: true
   - translation_iso: jpn
     name: レシン・ゲリミ語

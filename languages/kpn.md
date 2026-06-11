@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيبكيريوات
     auto: true
+  - translation_iso: ben
+    name: কেপকিরিওয়াত
+    auto: true
   - translation_iso: deu
     name: Kepkiriwát
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kepkiriwát
   - translation_iso: hin
     name: केपकिरिवात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kepkiriwát
     auto: true
   - translation_iso: jpn
     name: ケプキリワット語

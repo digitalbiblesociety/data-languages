@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوابوا
     auto: true
+  - translation_iso: ben
+    name: পওয়াপওয়া
+    auto: true
   - translation_iso: deu
     name: Pwapwâ
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pwapwâ
   - translation_iso: hin
     name: प्वाप्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pwapwâ
     auto: true
   - translation_iso: jpn
     name: プワプワ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كريول
     auto: true
+  - translation_iso: ben
+    name: করিওল
+    auto: true
   - translation_iso: deu
     name: Kriol
   - translation_iso: fra
     name: créole australien
   - translation_iso: hin
     name: क्रियोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kriol
     auto: true
   - translation_iso: jpn
     name: オーストラリア・クレオール言語

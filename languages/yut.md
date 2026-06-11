@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوبنو
     auto: true
+  - translation_iso: ben
+    name: য়োপনো
+    auto: true
   - translation_iso: deu
     name: Yopno
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: योपनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yopno
     auto: true
   - translation_iso: jpn
     name: ヨプノ語

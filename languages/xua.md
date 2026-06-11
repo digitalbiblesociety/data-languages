@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आलू कुरुम्बा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alu Kurumba
+    auto: true
   - translation_iso: jpn
     name: アル・クルンバ語
     auto: true

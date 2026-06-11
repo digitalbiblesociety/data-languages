@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: فارسية وسيطة مانوية
     auto: true
+  - translation_iso: ben
+    name: মানিচাএয়ান মিদ্দলে পেরসিয়ান
+    auto: true
   - translation_iso: deu
     name: Manichäisch-Mittelpersisch
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मानीवादी मध्य फ़ारसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manichaean Middle Persian
     auto: true
   - translation_iso: jpn
     name: マニ教中期ペルシア語

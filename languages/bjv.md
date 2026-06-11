@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेदजोंद
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bedjond
+    auto: true
   - translation_iso: jpn
     name: ベジョンド語
     auto: true

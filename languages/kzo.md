@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كانينجي
     auto: true
+  - translation_iso: ben
+    name: কানিঙি
+    auto: true
   - translation_iso: deu
     name: Kaningi
   - translation_iso: fra
     name: kaningi
   - translation_iso: hin
     name: कानिंगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaningi
     auto: true
   - translation_iso: jpn
     name: カニンギ語

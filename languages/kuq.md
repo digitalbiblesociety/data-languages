@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاريبونا
     auto: true
+  - translation_iso: ben
+    name: কারিপুনা
+    auto: true
   - translation_iso: deu
     name: Karipuna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: karipuna
   - translation_iso: hin
     name: कारिपुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karipuna
     auto: true
   - translation_iso: jpn
     name: カリプナ語

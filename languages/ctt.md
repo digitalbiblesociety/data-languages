@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايانيد تشيتي
     auto: true
+  - translation_iso: ben
+    name: ওয়ায়ানাদ চেত্তি
+    auto: true
   - translation_iso: deu
     name: Wayanad-Chetti
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वायनाड चेट्टी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wayanad Chetti
     auto: true
   - translation_iso: jpn
     name: ワヤナード・チェッティ語

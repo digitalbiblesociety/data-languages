@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghotuo_language"
 translations:
   - translation_iso: ara
     name: لغة جوتشيو
+  - translation_iso: ben
+    name: ঘোতুও
+    auto: true
   - translation_iso: deu
     name: Ghotuo
   - translation_iso: fra
     name: ghotuo
   - translation_iso: hin
     name: घोटुओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghotuo
     auto: true
   - translation_iso: jpn
     name: ゴートゥオ語

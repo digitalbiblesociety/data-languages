@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوكبا
     auto: true
+  - translation_iso: ben
+    name: লুকপা
+    auto: true
   - translation_iso: deu
     name: Lukpa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lokpa
   - translation_iso: hin
     name: लुक्पा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lukpa
     auto: true
   - translation_iso: jpn
     name: ルクパ語

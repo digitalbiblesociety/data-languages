@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نتْشام
     auto: true
+  - translation_iso: ben
+    name: নতচাম
+    auto: true
   - translation_iso: deu
     name: Ntcham
   - translation_iso: fra
     name: ntcham
   - translation_iso: hin
     name: न्चाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ntcham
     auto: true
   - translation_iso: jpn
     name: ンチャム語

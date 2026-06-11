@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fer_language"
 translations:
   - translation_iso: ara
     name: فير
+  - translation_iso: ben
+    name: কারা
+    auto: true
   - translation_iso: deu
     name: Kara (Zentralafrikanische Republik)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: fer
   - translation_iso: hin
     name: कारा (मध्य अफ़्रीकी गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kara
     auto: true
   - translation_iso: jpn
     name: カラ語

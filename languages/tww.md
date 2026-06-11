@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توواري
     auto: true
+  - translation_iso: ben
+    name: তুওয়ারি
+    auto: true
   - translation_iso: deu
     name: Tuwari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tuwari
   - translation_iso: hin
     name: तुवारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuwari
     auto: true
   - translation_iso: jpn
     name: トゥワリ語

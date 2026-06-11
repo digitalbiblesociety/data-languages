@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السمناني
     auto: true
+  - translation_iso: ben
+    name: সেমনানি
+    auto: true
   - translation_iso: deu
     name: Semnani
   - translation_iso: fra

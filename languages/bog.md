@@ -30,6 +30,9 @@ translations:
     name: langue des signes malienne
   - translation_iso: hin
     name: बामको सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Bamako Sign Language
+    auto: true
   - translation_iso: jpn
     name: バマコ手話
   - translation_iso: kor

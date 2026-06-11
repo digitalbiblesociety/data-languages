@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيور
     auto: true
+  - translation_iso: ben
+    name: ইওয়ুর
+    auto: true
   - translation_iso: deu
     name: Iwur
     auto: true

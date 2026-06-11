@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساتاوالية
     auto: true
+  - translation_iso: ben
+    name: সাতাওয়ালেসে
+    auto: true
   - translation_iso: deu
     name: Satawal
   - translation_iso: fra

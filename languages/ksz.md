@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوداكو
     auto: true
+  - translation_iso: ben
+    name: কোদাকু
+    auto: true
   - translation_iso: deu
     name: Kodaku
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koraku
   - translation_iso: hin
     name: कोडाकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kodaku
     auto: true
   - translation_iso: jpn
     name: コダク語

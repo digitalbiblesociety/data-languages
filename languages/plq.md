@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالايك
     auto: true
+  - translation_iso: ben
+    name: পালাইক
+    auto: true
   - translation_iso: deu
     name: Palaisch
   - translation_iso: fra

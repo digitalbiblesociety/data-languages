@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونغ
     auto: true
+  - translation_iso: ben
+    name: ওং
+    auto: true
   - translation_iso: deu
     name: Ong
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ong
   - translation_iso: hin
     name: ओंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ong
     auto: true
   - translation_iso: jpn
     name: オング語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوريتي
     auto: true
+  - translation_iso: ben
+    name: কোরেতে
+    auto: true
   - translation_iso: deu
     name: Koorete
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koore
   - translation_iso: hin
     name: कूरेते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koorete
     auto: true
   - translation_iso: jpn
     name: コオレテ語

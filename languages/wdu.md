@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واديجو
     auto: true
+  - translation_iso: ben
+    name: ওয়াদজিগু
+    auto: true
   - translation_iso: deu
     name: Wadjigu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wadjigu
   - translation_iso: hin
     name: वजिगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wadjigu
     auto: true
   - translation_iso: jpn
     name: ワジグ語

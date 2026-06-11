@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيفارو
     auto: true
+  - translation_iso: ben
+    name: তেফারো
+    auto: true
   - translation_iso: deu
     name: Tefaro
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيمي
     auto: true
+  - translation_iso: ben
+    name: তেমে
+    auto: true
   - translation_iso: deu
     name: Teme
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तेमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teme
     auto: true
   - translation_iso: jpn
     name: テメ語

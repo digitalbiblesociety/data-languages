@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييانغومارتا
     auto: true
+  - translation_iso: ben
+    name: নয়াঙুমারতা
+    auto: true
   - translation_iso: deu
     name: Nyangumarta
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्यांगुमार्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyangumarta
     auto: true
   - translation_iso: jpn
     name: ニャングマルタ語

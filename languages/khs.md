@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كاسوا
     auto: true
+  - translation_iso: ben
+    name: কাসুয়া
+    auto: true
   - translation_iso: deu
     name: Kasua
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कासुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kasua
     auto: true
   - translation_iso: jpn
     name: カスア語

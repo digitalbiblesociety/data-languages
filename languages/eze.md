@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الأزكوي
     auto: true
+  - translation_iso: ben
+    name: উজেকওয়ে
+    auto: true
   - translation_iso: deu
     name: Uzekwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: uzekwe
   - translation_iso: hin
     name: उज़ेक्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uzekwe
     auto: true
   - translation_iso: jpn
     name: ウゼクウェ語

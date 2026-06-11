@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تانغوات
     auto: true
+  - translation_iso: ben
+    name: তাঙুয়াত
+    auto: true
   - translation_iso: deu
     name: Tanguat
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tanguat
   - translation_iso: hin
     name: तांगुआत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanguat
     auto: true
   - translation_iso: jpn
     name: タングアット語

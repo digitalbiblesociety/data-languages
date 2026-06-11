@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: يالاكالوري
     auto: true
+  - translation_iso: ben
+    name: য়ালাকালোরে
+    auto: true
   - translation_iso: deu
     name: Yalakalore
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yalakalore
   - translation_iso: hin
     name: यालाकालोरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yalakalore
     auto: true
   - translation_iso: jpn
     name: ヤラカロレ語

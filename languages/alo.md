@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة لاريك-واكاسيهو
     auto: true
+  - translation_iso: ben
+    name: লারিকে-ওয়াকাসিহু
+    auto: true
   - translation_iso: deu
     name: Larike-Wakasihu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: larike
   - translation_iso: hin
     name: लारिके-वाकासिहु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Larike-Wakasihu
     auto: true
   - translation_iso: jpn
     name: ラリケワカシフ語

@@ -29,6 +29,9 @@ translations:
     name: langue des signes guatémaltèque
   - translation_iso: hin
     name: ग्वाटेमेले सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Guatemalan Sign Language
+    auto: true
   - translation_iso: jpn
     name: グアテマラ手話
   - translation_iso: kor

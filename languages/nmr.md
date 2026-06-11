@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نيمباري
     auto: true
+  - translation_iso: ben
+    name: নিমবারি
+    auto: true
   - translation_iso: deu
     name: Nimbari
   - translation_iso: fra
     name: nimbari
   - translation_iso: hin
     name: निम्बारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nimbari
     auto: true
   - translation_iso: jpn
     name: ニンバリ語

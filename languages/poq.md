@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا تيكسيستيبك
     auto: true
+  - translation_iso: ben
+    name: তেকসিসতেপেক পোপোলুকা
+    auto: true
   - translation_iso: deu
     name: Texistepec-Popoluca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: popoluca de Texistepec
   - translation_iso: hin
     name: तेक्सिस्तेपेक पोपोलुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Texistepec Popoluca
     auto: true
   - translation_iso: jpn
     name: テキステペックポプロッカ語

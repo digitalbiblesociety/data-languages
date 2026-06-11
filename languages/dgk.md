@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داجبا
     auto: true
+  - translation_iso: ben
+    name: দাগবা
+    auto: true
   - translation_iso: deu
     name: Dagba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: Dagba
   - translation_iso: hin
     name: दग्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dagba
     auto: true
   - translation_iso: jpn
     name: ダグバ語

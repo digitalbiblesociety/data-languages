@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: موفيما
     auto: true
+  - translation_iso: ben
+    name: মোভিমা
+    auto: true
   - translation_iso: deu
     name: Movima
   - translation_iso: fra
     name: movima
   - translation_iso: hin
     name: मोविमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Movima
     auto: true
   - translation_iso: jpn
     name: モヴィマ語

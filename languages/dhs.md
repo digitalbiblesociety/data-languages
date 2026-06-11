@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دايسو
     auto: true
+  - translation_iso: ben
+    name: ধাইসো
+    auto: true
   - translation_iso: deu
     name: Dhaiso
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dhaiso
   - translation_iso: hin
     name: धाइसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhaiso
     auto: true
   - translation_iso: jpn
     name: ダイソ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تامكي
     auto: true
+  - translation_iso: ben
+    name: তামকি
+    auto: true
   - translation_iso: deu
     name: Tamki
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tamki
   - translation_iso: hin
     name: तामकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tamki
     auto: true
   - translation_iso: jpn
     name: タムキ語

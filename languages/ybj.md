@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هاشا
     auto: true
+  - translation_iso: ben
+    name: হাশা
+    auto: true
   - translation_iso: deu
     name: Hasha
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hasha
   - translation_iso: hin
     name: हाशा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hasha
     auto: true
   - translation_iso: jpn
     name: ハシャ語

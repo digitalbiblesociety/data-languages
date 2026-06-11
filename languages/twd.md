@@ -15,12 +15,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tweants_dialect"
 translations:
   - translation_iso: ara
     name: اللهجة التفنتية
+  - translation_iso: ben
+    name: তওয়েনতস
+    auto: true
   - translation_iso: deu
     name: Twents
   - translation_iso: fra
     name: twents
   - translation_iso: hin
     name: ट्वेंट्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Twents
     auto: true
   - translation_iso: jpn
     name: トゥウェンテ語

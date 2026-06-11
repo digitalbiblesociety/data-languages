@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوريغواخي
     auto: true
+  - translation_iso: ben
+    name: কোরেগুয়াজে
+    auto: true
   - translation_iso: deu
     name: Koreguaje
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koreguaje
   - translation_iso: hin
     name: कोरेगुआहे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koreguaje
     auto: true
   - translation_iso: jpn
     name: コレグアヘ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيهاكور
     auto: true
+  - translation_iso: ben
+    name: নয়াহকুর
+    auto: true
   - translation_iso: deu
     name: Nyahkur
   - translation_iso: fra

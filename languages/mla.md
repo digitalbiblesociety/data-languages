@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالو
     auto: true
+  - translation_iso: ben
+    name: মালো
+    auto: true
   - translation_iso: deu
     name: Malo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tamambo
   - translation_iso: hin
     name: मालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malo
     auto: true
   - translation_iso: jpn
     name: マロ語

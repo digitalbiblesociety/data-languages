@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موروري
     auto: true
+  - translation_iso: ben
+    name: মোরোরি
+    auto: true
   - translation_iso: deu
     name: Morori
     auto: true

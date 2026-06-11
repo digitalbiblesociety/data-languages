@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونجكو
     auto: true
+  - translation_iso: ben
+    name: বুংকু
+    auto: true
   - translation_iso: deu
     name: Bungku
   - translation_iso: fra

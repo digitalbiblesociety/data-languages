@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنتس التندرا
     auto: true
+  - translation_iso: ben
+    name: তুনদরা এনেতস
+    auto: true
   - translation_iso: deu
     name: Tundra-Enzisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: énètse de la toundra
   - translation_iso: hin
     name: टुंड्रा एनेट्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tundra Enets
     auto: true
   - translation_iso: jpn
     name: ツンドラエネツ語

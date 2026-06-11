@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अपलाची
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apalachee
+    auto: true
   - translation_iso: jpn
     name: アパラチー語
     auto: true

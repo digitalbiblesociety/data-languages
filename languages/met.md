@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتو
     auto: true
+  - translation_iso: ben
+    name: মাতো
+    auto: true
   - translation_iso: deu
     name: Mato
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mato
   - translation_iso: hin
     name: माटो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mato
     auto: true
   - translation_iso: jpn
     name: マト語

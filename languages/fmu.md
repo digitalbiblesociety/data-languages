@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الموريا الشرقية البعيدة
     auto: true
+  - translation_iso: ben
+    name: ফার ওয়েসতেরন মুরিয়া
+    auto: true
   - translation_iso: deu
     name: Far Western Muria
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muria du Grand-Ouest
   - translation_iso: hin
     name: सुदूर पश्चिमी मुरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Far Western Muria
     auto: true
   - translation_iso: jpn
     name: 遠西ムリア語

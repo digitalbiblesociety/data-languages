@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوسوندا
     auto: true
+  - translation_iso: ben
+    name: কুসুনদা
+    auto: true
   - translation_iso: deu
     name: Kusunda
   - translation_iso: fra

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: شيبايا
     auto: true
+  - translation_iso: ben
+    name: কসিপায়া
+    auto: true
   - translation_iso: deu
     name: Xipaya
   - translation_iso: fra
     name: xipaya
   - translation_iso: hin
     name: शिपाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xipaya
     auto: true
   - translation_iso: jpn
     name: シパヤ語

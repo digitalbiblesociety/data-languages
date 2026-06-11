@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bari
+    auto: true
   - translation_iso: jpn
     name: バリ語
   - translation_iso: kor

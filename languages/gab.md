@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الجابري
     auto: true
+  - translation_iso: ben
+    name: গাবরি
+    auto: true
   - translation_iso: deu
     name: Gabri
   - translation_iso: fra
     name: gabri
   - translation_iso: hin
     name: गाब्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gabri
     auto: true
   - translation_iso: jpn
     name: ガブリ語

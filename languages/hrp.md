@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نهيريبي
     auto: true
+  - translation_iso: ben
+    name: নহির্রপি
+    auto: true
   - translation_iso: deu
     name: Nhirrpi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: nhirrpi
   - translation_iso: hin
     name: न्हिरपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nhirrpi
     auto: true
   - translation_iso: jpn
     name: ニリッピ語

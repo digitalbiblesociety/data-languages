@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يوليه جينو
     auto: true
+  - translation_iso: ben
+    name: য়োউলে জিনুও
+    auto: true
   - translation_iso: deu
     name: Youle-Jinuo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: jinuo de Youle
   - translation_iso: hin
     name: यौले जिनुओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Youle Jinuo
     auto: true
   - translation_iso: jpn
     name: ユーレ・ジヌオ語

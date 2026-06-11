@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाफांजी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bafanji
+    auto: true
   - translation_iso: jpn
     name: バファンジ語
     auto: true

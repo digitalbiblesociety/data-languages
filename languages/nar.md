@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إجوتا
     auto: true
+  - translation_iso: ben
+    name: ইগুতা
+    auto: true
   - translation_iso: deu
     name: Iguta
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इगुता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iguta
     auto: true
   - translation_iso: jpn
     name: イグタ語

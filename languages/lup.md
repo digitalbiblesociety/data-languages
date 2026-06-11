@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ومبو
     auto: true
+  - translation_iso: ben
+    name: লুমবু
+    auto: true
   - translation_iso: deu
     name: Lumbu
   - translation_iso: fra
     name: lumbu
   - translation_iso: hin
     name: लुम्बू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lumbu
     auto: true
   - translation_iso: jpn
     name: ルンブ語

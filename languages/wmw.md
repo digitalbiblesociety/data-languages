@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مواني
     auto: true
+  - translation_iso: ben
+    name: মওয়ানি
+    auto: true
   - translation_iso: deu
     name: Mwani
   - translation_iso: fra
     name: mwani
   - translation_iso: hin
     name: म्वानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mwani
     auto: true
   - translation_iso: jpn
     name: ンワニ語

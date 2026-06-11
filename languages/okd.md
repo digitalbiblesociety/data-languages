@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوكوديا
     auto: true
+  - translation_iso: ben
+    name: ওকোদিয়া
+    auto: true
   - translation_iso: deu
     name: Okodia
   - translation_iso: fra
     name: okodia
   - translation_iso: hin
     name: ओकोदिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Okodia
     auto: true
   - translation_iso: jpn
     name: オコディア語

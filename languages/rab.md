@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاملينج
     auto: true
+  - translation_iso: ben
+    name: কামলিং
+    auto: true
   - translation_iso: deu
     name: Camling
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chamling
   - translation_iso: hin
     name: चामलिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Camling
     auto: true
   - translation_iso: jpn
     name: カムリン語

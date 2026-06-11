@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيايها (ملاوي)
     auto: true
+  - translation_iso: ben
+    name: নয়িহা
+    auto: true
   - translation_iso: deu
     name: Nyiha (Malawi)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyiha
   - translation_iso: hin
     name: न्यिहा (मलावी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyiha
     auto: true
   - translation_iso: jpn
     name: ニイハ語

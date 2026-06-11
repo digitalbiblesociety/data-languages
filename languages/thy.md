@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثا
     auto: true
+  - translation_iso: ben
+    name: থা
+    auto: true
   - translation_iso: deu
     name: Tha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tha
   - translation_iso: hin
     name: था
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tha
     auto: true
   - translation_iso: jpn
     name: タ語

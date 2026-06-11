@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماكاا
     auto: true
+  - translation_iso: ben
+    name: মাকা
+    auto: true
   - translation_iso: deu
     name: Makaa
   - translation_iso: fra
     name: maka
   - translation_iso: hin
     name: माकाआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makaa
     auto: true
   - translation_iso: jpn
     name: マカア語

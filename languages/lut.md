@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة وسهووتسييد
     auto: true
+  - translation_iso: ben
+    name: লুশোতসেদ
+    auto: true
   - translation_iso: deu
     name: Lushootseed
   - translation_iso: fra
     name: lushootseed
   - translation_iso: hin
     name: लुशूटसीड
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lushootseed
     auto: true
   - translation_iso: jpn
     name: ルシュツィード語

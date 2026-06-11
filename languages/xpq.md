@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: موهيجان-بيكوت
     auto: true
+  - translation_iso: ben
+    name: মোহেগান-পেকুওত
+    auto: true
   - translation_iso: deu
     name: Mohegan-Pequot
     auto: true

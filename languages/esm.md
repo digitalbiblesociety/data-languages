@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإسوما
     auto: true
+  - translation_iso: ben
+    name: এসুমা
+    auto: true
   - translation_iso: deu
     name: Esuma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: essouma
   - translation_iso: hin
     name: एसुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Esuma
     auto: true
   - translation_iso: jpn
     name: エスマ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة فويي
     auto: true
+  - translation_iso: ben
+    name: ফুইএ
+    auto: true
   - translation_iso: deu
     name: Phuie
   - translation_iso: fra
     name: puguli
   - translation_iso: hin
     name: फुइए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phuie
     auto: true
   - translation_iso: jpn
     name: フィエ語

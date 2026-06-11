@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अवा-कुआइकेर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awa-Cuaiquer
+    auto: true
   - translation_iso: jpn
     name: アワ・クアイケル語
     auto: true

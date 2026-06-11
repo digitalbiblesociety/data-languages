@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الموريا الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মুরিয়া
+    auto: true
   - translation_iso: deu
     name: Ost-Muria
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "muria de l'Est"
   - translation_iso: hin
     name: पूर्वी मुरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Muria
     auto: true
   - translation_iso: jpn
     name: 東ムリア語

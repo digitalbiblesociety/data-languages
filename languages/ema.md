@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الإيماي-إيوليها-أورا
     auto: true
+  - translation_iso: ben
+    name: এমাই-ইউলেহা-ওরা
+    auto: true
   - translation_iso: deu
     name: Ivbiosakon
   - translation_iso: fra
     name: emai-iuleha-ora
   - translation_iso: hin
     name: एमाई-इउलेहा-ओरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Emai-Iuleha-Ora
     auto: true
   - translation_iso: jpn
     name: エマイ・イウレハ・オラ語

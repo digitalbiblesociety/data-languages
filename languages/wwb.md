@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واكابونغا
     auto: true
+  - translation_iso: ben
+    name: ওয়াকাবুঙা
+    auto: true
   - translation_iso: deu
     name: Wakabunga
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वाकाबुंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wakabunga
     auto: true
   - translation_iso: jpn
     name: ワカブンガ語

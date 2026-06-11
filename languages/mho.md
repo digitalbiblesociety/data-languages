@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماشي زامبيا
     auto: true
+  - translation_iso: ben
+    name: মাশি
+    auto: true
   - translation_iso: deu
     name: Mashi (Zambia)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mashi
   - translation_iso: hin
     name: माशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mashi
     auto: true
   - translation_iso: jpn
     name: マシ語

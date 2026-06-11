@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ووته يمباتا
     auto: true
+  - translation_iso: ben
+    name: সোউথ লেমবাতা
+    auto: true
   - translation_iso: deu
     name: Süd-Lembata
     auto: true

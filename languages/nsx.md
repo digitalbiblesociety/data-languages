@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نسونغو
     auto: true
+  - translation_iso: ben
+    name: নসোঙো
+    auto: true
   - translation_iso: deu
     name: Nsongo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nsongo
   - translation_iso: hin
     name: न्सोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nsongo
     auto: true
   - translation_iso: jpn
     name: ンソンゴ語

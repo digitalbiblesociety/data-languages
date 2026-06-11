@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيرانيغي ديغا دوغون
     auto: true
+  - translation_iso: ben
+    name: তিরানিগে দিগা দোগোন
+    auto: true
   - translation_iso: deu
     name: Tiranige Diga Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tiranige diga
   - translation_iso: hin
     name: तिरानिगे दिगा दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiranige Diga Dogon
     auto: true
   - translation_iso: jpn
     name: ティラニゲ・ディガ・ドゴン語

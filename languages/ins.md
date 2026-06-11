@@ -28,6 +28,9 @@ translations:
     name: langue des signes indienne
   - translation_iso: hin
     name: भारतीय सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Indian Sign Language
+    auto: true
   - translation_iso: jpn
     name: インド手話
   - translation_iso: kor

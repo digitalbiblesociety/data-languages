@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سور
     auto: true
+  - translation_iso: ben
+    name: সুর
+    auto: true
   - translation_iso: deu
     name: Sur
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sur
   - translation_iso: hin
     name: सुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sur
     auto: true
   - translation_iso: jpn
     name: スル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكايام
     auto: true
+  - translation_iso: ben
+    name: মাকায়াম
+    auto: true
   - translation_iso: deu
     name: Makayam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: makayam
   - translation_iso: hin
     name: मकायम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makayam
     auto: true
   - translation_iso: jpn
     name: マカヤム語

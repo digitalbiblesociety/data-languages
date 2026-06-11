@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هولما
     auto: true
+  - translation_iso: ben
+    name: হোলমা
+    auto: true
   - translation_iso: deu
     name: Holma
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: होल्मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Holma
     auto: true
   - translation_iso: jpn
     name: ホルマ語

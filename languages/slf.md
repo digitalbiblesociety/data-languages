@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الإيطالية
     auto: true
+  - translation_iso: ben
+    name: সওয়িস্স-ইতালিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Lingua dei segni della Svizzera italiana
   - translation_iso: fra
     name: langue des signes de la Suisse italienne
   - translation_iso: hin
     name: स्विस-इतालवी सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Swiss-Italian Sign Language
     auto: true
   - translation_iso: jpn
     name: スイス＝イタリア手話

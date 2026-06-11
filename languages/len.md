@@ -17,12 +17,18 @@ translations:
   - translation_iso: ara
     name: لغة ينكا
     auto: true
+  - translation_iso: ben
+    name: লেনকা
+    auto: true
   - translation_iso: deu
     name: Lenca
   - translation_iso: fra
     name: langues lencas
   - translation_iso: hin
     name: लेंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lenca
     auto: true
   - translation_iso: jpn
     name: レンカ語

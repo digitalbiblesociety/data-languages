@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورانغ كانق
     auto: true
+  - translation_iso: ben
+    name: ওরাং কানাক
+    auto: true
   - translation_iso: deu
     name: Orang Kanaq
     auto: true

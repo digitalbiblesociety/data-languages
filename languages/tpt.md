@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوا تلاتشيتشيلكو
     auto: true
+  - translation_iso: ben
+    name: তলাচিচিলকো তেপেহুয়া
+    auto: true
   - translation_iso: deu
     name: Tlachichilco Tepehua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tepehua de Tlachichilco
   - translation_iso: hin
     name: त्लाचिचिल्को तेपेहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tlachichilco Tepehua
     auto: true
   - translation_iso: jpn
     name: 西テペウア語

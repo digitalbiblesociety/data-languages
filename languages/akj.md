@@ -30,6 +30,9 @@ translations:
     name: aka-Jeru
   - translation_iso: hin
     name: अका-जेरु भाषा
+  - translation_iso: ind
+    name: Bahasa Aka-Jeru
+    auto: true
   - translation_iso: jpn
     name: アカジェル語
     auto: true

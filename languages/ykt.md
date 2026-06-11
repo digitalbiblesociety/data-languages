@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاثو
     auto: true
+  - translation_iso: ben
+    name: কাথু
+    auto: true
   - translation_iso: deu
     name: Kathu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kathu
   - translation_iso: hin
     name: काथु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kathu
     auto: true
   - translation_iso: jpn
     name: カツ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مافتشي
     auto: true
+  - translation_iso: ben
+    name: মাওয়চি
+    auto: true
   - translation_iso: deu
     name: Mawchi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mawchi
   - translation_iso: hin
     name: माउची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mawchi
     auto: true
   - translation_iso: jpn
     name: マウチ語

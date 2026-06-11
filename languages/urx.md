@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوريمو
     auto: true
+  - translation_iso: ben
+    name: উরিমো
+    auto: true
   - translation_iso: deu
     name: Urimo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: urimo
   - translation_iso: hin
     name: उरिमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urimo
     auto: true
   - translation_iso: jpn
     name: ヤウギバ語

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبيشيرا
     auto: true
+  - translation_iso: ben
+    name: আবিশিরা
+    auto: true
   - translation_iso: deu
     name: Abishira
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: auishiri
   - translation_iso: hin
     name: अबिशिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Abishira
     auto: true
   - translation_iso: jpn
     name: アビシラ語

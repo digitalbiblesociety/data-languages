@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن لالو
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন লালু
+    auto: true
   - translation_iso: deu
     name: Östliches Lalu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी लालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Lalu
     auto: true
   - translation_iso: jpn
     name: 東ラル語

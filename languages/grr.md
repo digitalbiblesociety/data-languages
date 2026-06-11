@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تآزنآتيت
     auto: true
+  - translation_iso: ben
+    name: তাজনাতিত
+    auto: true
   - translation_iso: deu
     name: Taznatit
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Sud Oranais-Gourara
   - translation_iso: hin
     name: ताज़नातित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taznatit
     auto: true
   - translation_iso: jpn
     name: タズナティト語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبي
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন এদো ওকপে
+    auto: true
   - translation_iso: deu
     name: Okpe (Südwest-Edo)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: okpe
   - translation_iso: hin
     name: ओक्पे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Edo Okpe
     auto: true
   - translation_iso: jpn
     name: オクペ語

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: وونومارا
     auto: true
+  - translation_iso: ben
+    name: ওয়ুনুমারা
+    auto: true
   - translation_iso: deu
     name: Wunumara
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: wunumara
   - translation_iso: hin
     name: वुनुमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wunumara
     auto: true
   - translation_iso: jpn
     name: ウヌムラ語

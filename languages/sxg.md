@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شوهي
     auto: true
+  - translation_iso: ben
+    name: শুহি
+    auto: true
   - translation_iso: deu
     name: Shuhi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shixing
   - translation_iso: hin
     name: शुही
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shuhi
     auto: true
   - translation_iso: jpn
     name: シヒン語

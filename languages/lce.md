@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لونتشونج
     auto: true
+  - translation_iso: ben
+    name: লোনকোং
+    auto: true
   - translation_iso: deu
     name: Loncong
     auto: true

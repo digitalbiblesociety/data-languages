@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآتó
     auto: true
+  - translation_iso: ben
+    name: গুয়াতো
+    auto: true
   - translation_iso: deu
     name: Guató
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: guató
   - translation_iso: hin
     name: ग्वातो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guató
     auto: true
   - translation_iso: jpn
     name: グアトー語

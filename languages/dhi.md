@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديمال
     auto: true
+  - translation_iso: ben
+    name: ধিমাল
+    auto: true
   - translation_iso: deu
     name: Dhimal
   - translation_iso: fra
     name: dhimal
   - translation_iso: hin
     name: धीमाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhimal
     auto: true
   - translation_iso: jpn
     name: ディマール語

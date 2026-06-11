@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موتو
     auto: true
+  - translation_iso: ben
+    name: মোতু
+    auto: true
   - translation_iso: deu
     name: Motu
     auto: true

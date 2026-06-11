@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوبلو
     auto: true
+  - translation_iso: ben
+    name: ওবলো
+    auto: true
   - translation_iso: deu
     name: Oblo
   - translation_iso: fra
     name: oblo
   - translation_iso: hin
     name: ओब्लो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oblo
     auto: true
   - translation_iso: jpn
     name: オブロ語

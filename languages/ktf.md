@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوامي
     auto: true
+  - translation_iso: ben
+    name: কওয়ামি
+    auto: true
   - translation_iso: deu
     name: Kwami
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kwami
   - translation_iso: hin
     name: क्वामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwami
     auto: true
   - translation_iso: jpn
     name: クワミ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إسي
     auto: true
+  - translation_iso: ben
+    name: এসে
+    auto: true
   - translation_iso: deu
     name: Ese
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: एसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ese
     auto: true
   - translation_iso: jpn
     name: エセ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيك-إيبو
     auto: true
+  - translation_iso: ben
+    name: তেকে-এবো
+    auto: true
   - translation_iso: deu
     name: Teke-Eboo
   - translation_iso: fra
     name: teke-ebo
   - translation_iso: hin
     name: तेके-एबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Ebo
     auto: true
   - translation_iso: jpn
     name: 中央テケ語

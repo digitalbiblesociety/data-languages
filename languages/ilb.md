@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيلا
     auto: true
+  - translation_iso: ben
+    name: ইলা
+    auto: true
   - translation_iso: deu
     name: Ila
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ila
   - translation_iso: hin
     name: इला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ila
     auto: true
   - translation_iso: jpn
     name: イラ語

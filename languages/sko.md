@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو تينجاه
     auto: true
+  - translation_iso: ben
+    name: সেকো তেঙাহ
+    auto: true
   - translation_iso: deu
     name: Seko Tengah
     auto: true

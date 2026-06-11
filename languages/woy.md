@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وييتو
     auto: true
+  - translation_iso: ben
+    name: ওয়েয়তো
+    auto: true
   - translation_iso: deu
     name: Weyto
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वेयतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Weyto
     auto: true
   - translation_iso: jpn
     name: ウェイトー語

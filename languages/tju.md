@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تجوروروا
     auto: true
+  - translation_iso: ben
+    name: তজুর্রুরু
+    auto: true
   - translation_iso: deu
     name: Tjurruru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tjurruru
   - translation_iso: hin
     name: तजुर्रुरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tjurruru
     auto: true
   - translation_iso: jpn
     name: チュルル語

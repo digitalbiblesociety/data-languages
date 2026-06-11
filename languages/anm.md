@@ -28,6 +28,9 @@ translations:
     name: anal
   - translation_iso: hin
     name: अनाल भाषा
+  - translation_iso: ind
+    name: Bahasa Anal
+    auto: true
   - translation_iso: jpn
     name: アナル語
   - translation_iso: kor

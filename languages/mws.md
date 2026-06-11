@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مويمبي-موثامبي
     auto: true
+  - translation_iso: ben
+    name: মওয়িমবি-মুথামবি
+    auto: true
   - translation_iso: deu
     name: Mwimbi-Muthambi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mwimbi-muthambi
   - translation_iso: hin
     name: म्विम्बी-मुथाम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mwimbi-Muthambi
     auto: true
   - translation_iso: jpn
     name: ムウィンビ・ムタンビ語

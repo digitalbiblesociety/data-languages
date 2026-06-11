@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوغباه
     auto: true
+  - translation_iso: ben
+    name: ওগবাহ
+    auto: true
   - translation_iso: deu
     name: Ogba
   - translation_iso: fra
     name: ogba
   - translation_iso: hin
     name: ओग्बाह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ogbah
     auto: true
   - translation_iso: jpn
     name: オグバ語

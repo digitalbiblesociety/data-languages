@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وون
     auto: true
+  - translation_iso: ben
+    name: লোউন
+    auto: true
   - translation_iso: deu
     name: Loun
     auto: true

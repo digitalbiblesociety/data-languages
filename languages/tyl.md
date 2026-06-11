@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تو لاو
     auto: true
+  - translation_iso: ben
+    name: থু লাও
+    auto: true
   - translation_iso: deu
     name: Thu Lao
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: thu lao
   - translation_iso: hin
     name: थू लाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thu Lao
     auto: true
   - translation_iso: jpn
     name: ウェン・マー・サザン・チュワン語

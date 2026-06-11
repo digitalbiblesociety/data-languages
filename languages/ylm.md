@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليمي
     auto: true
+  - translation_iso: ben
+    name: লিমি
+    auto: true
   - translation_iso: deu
     name: Limi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लिमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Limi
     auto: true
   - translation_iso: jpn
     name: 留米語

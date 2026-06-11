@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياهونا
     auto: true
+  - translation_iso: ben
+    name: য়াহুনা
+    auto: true
   - translation_iso: deu
     name: Yahuna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yahuna
   - translation_iso: hin
     name: याहूना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yahuna
     auto: true
   - translation_iso: jpn
     name: ヤフナ語

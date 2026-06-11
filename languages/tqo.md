@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توارييبي
     auto: true
+  - translation_iso: ben
+    name: তোয়ারিপি
+    auto: true
   - translation_iso: deu
     name: Toaripi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: toaripi
   - translation_iso: hin
     name: तोआरिपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toaripi
     auto: true
   - translation_iso: jpn
     name: トアリピ語

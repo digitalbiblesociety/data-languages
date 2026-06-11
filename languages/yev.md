@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يابوندا
     auto: true
+  - translation_iso: ben
+    name: য়াপুনদা
+    auto: true
   - translation_iso: deu
     name: Yapunda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yapunda
   - translation_iso: hin
     name: यापुंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yapunda
     auto: true
   - translation_iso: jpn
     name: ヤプンダ語

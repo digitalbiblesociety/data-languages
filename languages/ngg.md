@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نجبكا مانزا
     auto: true
+  - translation_iso: ben
+    name: ংবাকা মানজা
+    auto: true
   - translation_iso: deu
     name: Ngbaka Manza
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manza ngbaka
   - translation_iso: hin
     name: न्गबाका मांज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngbaka Manza
     auto: true
   - translation_iso: jpn
     name: ングバカ・マンザ語

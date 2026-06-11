@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راجونج
     auto: true
+  - translation_iso: ben
+    name: রাজোং
+    auto: true
   - translation_iso: deu
     name: Rajong
   - translation_iso: fra

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مامبيلا الكاميرون
     auto: true
+  - translation_iso: ben
+    name: কামেরোন মামবিলা
+    auto: true
   - translation_iso: deu
     name: Cameroon Mambila
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mambila du Cameroun
   - translation_iso: hin
     name: कैमरून माम्बिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cameroon Mambila
     auto: true
   - translation_iso: jpn
     name: カメルーン・マンビラ語

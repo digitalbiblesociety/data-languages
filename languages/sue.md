@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سويينا
     auto: true
+  - translation_iso: ben
+    name: সুএনা
+    auto: true
   - translation_iso: deu
     name: Suena
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suena
   - translation_iso: hin
     name: सुएना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suena
     auto: true
   - translation_iso: jpn
     name: スエナ語

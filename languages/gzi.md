@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gazi_language"
 translations:
   - translation_iso: ara
     name: لغة غازي
+  - translation_iso: ben
+    name: গাজি
+    auto: true
   - translation_iso: deu
     name: Gazi
   - translation_iso: fra
     name: gazi
   - translation_iso: hin
     name: गाज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gazi
     auto: true
   - translation_iso: jpn
     name: ギャズ語

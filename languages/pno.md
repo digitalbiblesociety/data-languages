@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانوبو
     auto: true
+  - translation_iso: ben
+    name: পানোবো
+    auto: true
   - translation_iso: deu
     name: Panobo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: huariapano
   - translation_iso: hin
     name: पानोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Panobo
     auto: true
   - translation_iso: jpn
     name: パノボ語

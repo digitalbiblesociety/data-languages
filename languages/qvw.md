@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوايلا وانكا
     auto: true
+  - translation_iso: ben
+    name: হুয়ায়ল্লা ওয়ানকা কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Waylla Wanka
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वायया वांका क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huaylla Wanca Quechua
     auto: true
   - translation_iso: jpn
     name: ワイラワンカケチュア語

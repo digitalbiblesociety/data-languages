@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ماوايانا
     auto: true
+  - translation_iso: ben
+    name: মাওয়ায়ানা
+    auto: true
   - translation_iso: deu
     name: Mawayana
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: mawayana
   - translation_iso: hin
     name: मावायाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mawayana
     auto: true
   - translation_iso: jpn
     name: マワヤナ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويدا
     auto: true
+  - translation_iso: ben
+    name: ওয়দা
+    auto: true
   - translation_iso: deu
     name: Oyda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: oyda
   - translation_iso: hin
     name: ओयदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oyda
     auto: true
   - translation_iso: jpn
     name: オイダ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا كالديرون الجبلية
     auto: true
+  - translation_iso: ben
+    name: কালদেরোন হিঘলানদ কুইচুয়া
+    auto: true
   - translation_iso: deu
     name: Calderón Hochland-Quichua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quichua de Calderón
   - translation_iso: hin
     name: काल्देरोन हाइलैंड किचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Calderón Highland Quichua
     auto: true
   - translation_iso: jpn
     name: カルデロンハイランドキチュア語

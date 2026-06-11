@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيونج
     auto: true
+  - translation_iso: ben
+    name: কিওং
+    auto: true
   - translation_iso: deu
     name: Kiong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kiong
   - translation_iso: hin
     name: कियोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kiong
     auto: true
   - translation_iso: jpn
     name: キオン語

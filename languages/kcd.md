@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة نغكالمبو كانوم
     auto: true
+  - translation_iso: ben
+    name: ংকালমপওয় কানুম
+    auto: true
   - translation_iso: deu
     name: Ngkâlmpw Kanum
     auto: true

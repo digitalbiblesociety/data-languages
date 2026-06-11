@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة أتشوار-شيويار
     auto: true
+  - translation_iso: ben
+    name: আচুয়ার-শিওয়িয়ার
+    auto: true
   - translation_iso: deu
     name: Achuar-Shiwiar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: achuar
   - translation_iso: hin
     name: अचुआर-शिवियार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Achuar-Shiwiar
     auto: true
   - translation_iso: jpn
     name: アチュアルシウィアル語

@@ -25,6 +25,9 @@ translations:
   - translation_iso: hin
     name: अहिराणी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ahirani
+    auto: true
   - translation_iso: jpn
     name: アヒラーニー語
   - translation_iso: kor

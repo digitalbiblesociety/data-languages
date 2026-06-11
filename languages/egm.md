@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بينامانجا
     auto: true
+  - translation_iso: ben
+    name: বেনামাঙা
+    auto: true
   - translation_iso: deu
     name: Benamanga
     auto: true
@@ -20,6 +23,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बेनामांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Benamanga
     auto: true
   - translation_iso: jpn
     name: ベナマンガ語

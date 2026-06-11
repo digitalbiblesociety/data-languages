@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: توكانو
     auto: true
+  - translation_iso: ben
+    name: তুকানো
+    auto: true
   - translation_iso: deu
     name: Tucano
   - translation_iso: fra
     name: tucano
   - translation_iso: hin
     name: तुकानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tucano
     auto: true
   - translation_iso: jpn
     name: トゥカノ語

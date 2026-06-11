@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناسال
     auto: true
+  - translation_iso: ben
+    name: নাসাল
+    auto: true
   - translation_iso: deu
     name: Nasal
   - translation_iso: fra

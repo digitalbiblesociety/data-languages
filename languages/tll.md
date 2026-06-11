@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيتيلا
     auto: true
+  - translation_iso: ben
+    name: তেতেলা
+    auto: true
   - translation_iso: deu
     name: Tetela
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tetela
   - translation_iso: hin
     name: तेतेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tetela
     auto: true
   - translation_iso: jpn
     name: テテラ語

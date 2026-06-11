@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاجواسوهن
     auto: true
+  - translation_iso: ben
+    name: তাজুয়াসোহন
+    auto: true
   - translation_iso: deu
     name: Tajuasohn
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताजुआसोह्न
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tajuasohn
     auto: true
   - translation_iso: jpn
     name: タジュアソーン語

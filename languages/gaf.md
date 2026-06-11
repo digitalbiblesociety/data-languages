@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجيند
     auto: true
+  - translation_iso: ben
+    name: গেনদে
+    auto: true
   - translation_iso: deu
     name: Gende
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gende
   - translation_iso: hin
     name: गेन्डे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gende
     auto: true
   - translation_iso: jpn
     name: ゲンデ語

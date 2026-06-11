@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाकामा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bacama
+    auto: true
   - translation_iso: jpn
     name: バカマ語
     auto: true

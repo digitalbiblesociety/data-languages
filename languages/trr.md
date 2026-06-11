@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوشيرو
     auto: true
+  - translation_iso: ben
+    name: তাউশিরো
+    auto: true
   - translation_iso: deu
     name: Taushiro
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: taushiro
   - translation_iso: hin
     name: ताउशिरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taushiro
     auto: true
   - translation_iso: jpn
     name: ピンチェ語

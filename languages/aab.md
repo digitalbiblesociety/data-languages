@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलुमू-तेसू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alumu-Tesu
+    auto: true
   - translation_iso: jpn
     name: アルムテス語
     auto: true

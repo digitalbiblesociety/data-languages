@@ -30,6 +30,9 @@ translations:
     name: lepcha
   - translation_iso: hin
     name: लेप्चा
+  - translation_iso: ind
+    name: Bahasa Lepcha
+    auto: true
   - translation_iso: jpn
     name: レプチャ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: ben
+    name: কারে
+    auto: true
   - translation_iso: deu
     name: Kare (Papua-Neuguinea)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कारे (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kare
     auto: true
   - translation_iso: jpn
     name: カレ語

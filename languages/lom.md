@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: लोमा (लाइबेरिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Loma
+    auto: true
   - translation_iso: jpn
     name: トマ語
   - translation_iso: kor

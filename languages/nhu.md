@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نوني
     auto: true
+  - translation_iso: ben
+    name: নোনে
+    auto: true
   - translation_iso: deu
     name: Noone
   - translation_iso: fra
     name: noone
   - translation_iso: hin
     name: नूने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Noone
     auto: true
   - translation_iso: jpn
     name: Noni語

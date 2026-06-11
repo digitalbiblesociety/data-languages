@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانجوتاران سما
     auto: true
+  - translation_iso: ben
+    name: পাঙুতারান সামা
+    auto: true
   - translation_iso: deu
     name: Pangutaran-Sama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sama de Pangutaran
   - translation_iso: hin
     name: पंगुतारन समा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pangutaran Sama
     auto: true
   - translation_iso: jpn
     name: シヤマ語

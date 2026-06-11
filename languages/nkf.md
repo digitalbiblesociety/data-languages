@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إينبوي ناغا
     auto: true
+  - translation_iso: ben
+    name: ইনপুই নাগা
+    auto: true
   - translation_iso: deu
     name: Inpui-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kabui
   - translation_iso: hin
     name: कबुई भाषा
+  - translation_iso: ind
+    name: Bahasa Inpui Naga
+    auto: true
   - translation_iso: jpn
     name: インプイ・ナガ語
     auto: true

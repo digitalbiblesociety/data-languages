@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساماروكينا
     auto: true
+  - translation_iso: ben
+    name: সামারোকেনা
+    auto: true
   - translation_iso: deu
     name: Samarokena
     auto: true

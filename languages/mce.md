@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك إيتونودجيا
     auto: true
+  - translation_iso: ben
+    name: ইতুনদুজিয়া মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Itundujia Mixtec
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "mixtèque d'Itundujia"
   - translation_iso: hin
     name: इतुंदुहिया मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Itundujia Mixtec
     auto: true
   - translation_iso: jpn
     name: イトゥンドゥヒア・ミステク語

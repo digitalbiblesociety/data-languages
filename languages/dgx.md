@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوجورو
     auto: true
+  - translation_iso: ben
+    name: দোঘোরো
+    auto: true
   - translation_iso: deu
     name: Doghoro
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दोघोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doghoro
     auto: true
   - translation_iso: jpn
     name: ドゴロ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويري
     auto: true
+  - translation_iso: ben
+    name: ওয়েরি
+    auto: true
   - translation_iso: deu
     name: Weri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: weri
   - translation_iso: hin
     name: वेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Weri
     auto: true
   - translation_iso: jpn
     name: ウェリ語

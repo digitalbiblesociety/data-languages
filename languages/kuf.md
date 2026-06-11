@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاتو الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন কাতু
+    auto: true
   - translation_iso: deu
     name: West-Katu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: katu
   - translation_iso: hin
     name: पश्चिमी कातू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Katu
     auto: true
   - translation_iso: jpn
     name: カトゥ語

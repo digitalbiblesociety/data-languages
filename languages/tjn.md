@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تونجون
     auto: true
+  - translation_iso: ben
+    name: তোনজোন
+    auto: true
   - translation_iso: deu
     name: Tonjon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tonjon
   - translation_iso: hin
     name: टोंजोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tonjon
     auto: true
   - translation_iso: jpn
     name: トンジョン語

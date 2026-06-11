@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيلكيابان
     auto: true
+  - translation_iso: ben
+    name: তিলকুইয়াপান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Tilquiapan)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Tilquiapan
   - translation_iso: hin
     name: तिलकियापन ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tilquiapan Zapotec
     auto: true
   - translation_iso: jpn
     name: ティルキアパン・サポテク語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: دوكشي
     auto: true
+  - translation_iso: ben
+    name: দোকশি
+    auto: true
   - translation_iso: deu
     name: Dokshi
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डोक्शी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dokshi
     auto: true
   - translation_iso: jpn
     name: ドクシ語

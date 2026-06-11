@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बादिमाया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Badimaya
+    auto: true
   - translation_iso: jpn
     name: バディマヤ語
     auto: true

@@ -29,6 +29,9 @@ translations:
     name: garo
   - translation_iso: hin
     name: गारो भाषा
+  - translation_iso: ind
+    name: Bahasa Garo
+    auto: true
   - translation_iso: jpn
     name: ガロ語
   - translation_iso: kor

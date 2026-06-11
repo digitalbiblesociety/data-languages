@@ -26,6 +26,9 @@ translations:
   - translation_iso: hin
     name: अदुगे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aduge
+    auto: true
   - translation_iso: jpn
     name: アドゥゲ語
     auto: true

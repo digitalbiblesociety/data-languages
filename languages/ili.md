@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: इली तुर्की
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ili Turki
+    auto: true
   - translation_iso: jpn
     name: イリ・チュルク語
   - translation_iso: kor

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: رازاجيردي
     auto: true
+  - translation_iso: ben
+    name: রাজাজেরদি
+    auto: true
   - translation_iso: deu
     name: Razajerdi
   - translation_iso: fra
     name: razajerdi
   - translation_iso: hin
     name: रजाजेर्दी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Razajerdi
     auto: true
   - translation_iso: jpn
     name: ラザジェルディ語

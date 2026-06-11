@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يدو ايلي
     auto: true
+  - translation_iso: ben
+    name: লেদো কাইলি
+    auto: true
   - translation_iso: deu
     name: Kaili
   - translation_iso: fra

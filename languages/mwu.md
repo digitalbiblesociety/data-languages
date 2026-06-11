@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميتو
     auto: true
+  - translation_iso: ben
+    name: মিত্তু
+    auto: true
   - translation_iso: deu
     name: Mittu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mittu
   - translation_iso: hin
     name: मित्तू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mittu
     auto: true
   - translation_iso: jpn
     name: ミッツ語

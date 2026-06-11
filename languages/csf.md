@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: क्यूबा सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Cuba Sign Language
+    auto: true
   - translation_iso: jpn
     name: キューバ手話
   - translation_iso: kor

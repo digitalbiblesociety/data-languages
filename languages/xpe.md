@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كبيللي ليبيريا
     auto: true
+  - translation_iso: ben
+    name: লিবেরিয়া কপেল্লে
+    auto: true
   - translation_iso: deu
     name: Liberia-Kpelle
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kpellé du Liberia
   - translation_iso: hin
     name: लाइबेरियाई क्पेल्ले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Liberia Kpelle
     auto: true
   - translation_iso: jpn
     name: リベリア・クペレ語

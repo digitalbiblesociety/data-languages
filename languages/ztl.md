@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاباغويا-غويفيني
     auto: true
+  - translation_iso: ben
+    name: লাপাগুইয়া-গুইভিনি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Lapaguía-Guivini)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Lapaguía-Guivini
   - translation_iso: hin
     name: लापागुइया-गुइविनी ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lapaguía-Guivini Zapotec
     auto: true
   - translation_iso: jpn
     name: ラパグア-グイビニ・サポテク語

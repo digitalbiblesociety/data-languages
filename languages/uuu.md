@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أو
     auto: true
+  - translation_iso: ben
+    name: উ
+    auto: true
   - translation_iso: deu
     name: U
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue u
   - translation_iso: hin
     name: यू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa U
     auto: true
   - translation_iso: jpn
     name: ポウマ語

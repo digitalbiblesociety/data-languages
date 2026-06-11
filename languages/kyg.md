@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كييجانا
     auto: true
+  - translation_iso: ben
+    name: কেয়াগানা
+    auto: true
   - translation_iso: deu
     name: Keyagana
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: केयागाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keyagana
     auto: true
   - translation_iso: jpn
     name: キャガナ語

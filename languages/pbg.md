@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوخانو
     auto: true
+  - translation_iso: ben
+    name: পারাউজানো
+    auto: true
   - translation_iso: deu
     name: Paraujano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: agnou
   - translation_iso: hin
     name: पाराउहानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paraujano
     auto: true
   - translation_iso: jpn
     name: パラウハノ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوفلي
     auto: true
+  - translation_iso: ben
+    name: দুভলে
+    auto: true
   - translation_iso: deu
     name: Duvle
     auto: true

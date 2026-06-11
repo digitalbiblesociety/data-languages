@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة توكانج بيسي الشمالية
     auto: true
+  - translation_iso: ben
+    name: তুকাং বেসি নোরথ
+    auto: true
   - translation_iso: deu
     name: Tukang Besi Nord
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tukang besi du Nord
   - translation_iso: hin
     name: उत्तरी तुकांग बेसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tukang Besi North
     auto: true
   - translation_iso: jpn
     name: トゥカン・ベシ北語

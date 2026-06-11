@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كافيت
     auto: true
+  - translation_iso: ben
+    name: কাভেত
+    auto: true
   - translation_iso: deu
     name: Kavet
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: kravet
   - translation_iso: hin
     name: कावेत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kavet
     auto: true
   - translation_iso: jpn
     name: カベット語

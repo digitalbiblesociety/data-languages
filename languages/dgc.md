@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاسيجوران دوماجات أجتا
     auto: true
+  - translation_iso: ben
+    name: কাসিগুরান দুমাগাত আগতা
+    auto: true
   - translation_iso: deu
     name: Casiguran-Dumagat-Agta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: agta de Casiguran
   - translation_iso: hin
     name: कासिगुरान दुमागत आग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Casiguran Dumagat Agta
     auto: true
   - translation_iso: jpn
     name: カシグラン・ドゥマガット・アグタ語

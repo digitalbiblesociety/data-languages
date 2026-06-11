@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديتيداهت
     auto: true
+  - translation_iso: ben
+    name: দিতিদাহত
+    auto: true
   - translation_iso: deu
     name: Ditidaht
   - translation_iso: fra
     name: nitinaht
   - translation_iso: hin
     name: डिटिडाहट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ditidaht
     auto: true
   - translation_iso: jpn
     name: ディティダフト語

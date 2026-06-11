@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوي
     auto: true
+  - translation_iso: ben
+    name: য়োয়
+    auto: true
   - translation_iso: deu
     name: Yoy
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: योय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yoy
     auto: true
   - translation_iso: jpn
     name: ヨイ語

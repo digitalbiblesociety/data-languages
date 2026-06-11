@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بيلا
     auto: true
+  - translation_iso: ben
+    name: বিলা
+    auto: true
   - translation_iso: deu
     name: Bila
   - translation_iso: fra
     name: bila
   - translation_iso: hin
     name: बिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bila
     auto: true
   - translation_iso: jpn
     name: ビラ語

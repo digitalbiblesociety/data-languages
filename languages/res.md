@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ريشي
     auto: true
+  - translation_iso: ben
+    name: রেশে
+    auto: true
   - translation_iso: deu
     name: Resche
   - translation_iso: fra
     name: reshe
   - translation_iso: hin
     name: रेशे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Reshe
     auto: true
   - translation_iso: jpn
     name: レシェ語

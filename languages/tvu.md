@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: توننن
     auto: true
+  - translation_iso: ben
+    name: তুনেন
+    auto: true
   - translation_iso: deu
     name: Tunen
   - translation_iso: fra
     name: tunen
   - translation_iso: hin
     name: तुनेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tunen
     auto: true
   - translation_iso: jpn
     name: トゥネン語

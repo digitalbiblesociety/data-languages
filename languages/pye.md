@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بي كرومن
     auto: true
+  - translation_iso: ben
+    name: পয়ে করুমেন
+    auto: true
   - translation_iso: deu
     name: Pye-Krumen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kroumen pye
   - translation_iso: hin
     name: प्ये क्रुमेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pye Krumen
     auto: true
   - translation_iso: jpn
     name: パイクルーメン語

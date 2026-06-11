@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجآنجآم
     auto: true
+  - translation_iso: ben
+    name: ঙাঙাম
+    auto: true
   - translation_iso: deu
     name: Ngangam
   - translation_iso: fra
     name: ngangam
   - translation_iso: hin
     name: न्गांगम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngangam
     auto: true
   - translation_iso: jpn
     name: ンガンガム語

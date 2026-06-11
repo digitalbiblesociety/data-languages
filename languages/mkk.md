@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة بييب
     auto: true
+  - translation_iso: ben
+    name: বয়েপ
+    auto: true
   - translation_iso: deu
     name: Byep
   - translation_iso: fra
     name: byep
   - translation_iso: hin
     name: ब्येप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Byep
     auto: true
   - translation_iso: jpn
     name: ビエプ語

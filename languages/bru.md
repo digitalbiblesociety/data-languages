@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: برو الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন বরু
+    auto: true
   - translation_iso: deu
     name: Eastern Bru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bru de l’Est
   - translation_iso: hin
     name: पूर्वी ब्रू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Bru
     auto: true
   - translation_iso: jpn
     name: 東ブル語

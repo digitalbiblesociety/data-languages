@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Nubian"
 translations:
   - translation_iso: ara
     name: النوبية القديمة
+  - translation_iso: ben
+    name: ওলদ নুবিয়ান
+    auto: true
   - translation_iso: deu
     name: Altnubisch
   - translation_iso: fra
     name: ancien nubien
   - translation_iso: hin
     name: पुरानी नूबियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Nubian
     auto: true
   - translation_iso: jpn
     name: 古ヌビア語

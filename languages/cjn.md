@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشينابيان
     auto: true
+  - translation_iso: ben
+    name: চেনাপিয়ান
+    auto: true
   - translation_iso: deu
     name: Chenapian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chenapian
   - translation_iso: hin
     name: चेनापियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chenapian
     auto: true
   - translation_iso: jpn
     name: チェナピアン語

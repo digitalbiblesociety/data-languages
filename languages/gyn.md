@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكريول الإنجليزية الغيانية
     auto: true
+  - translation_iso: ben
+    name: গুয়ানেসে করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Guyanisches Kreolenglisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: créole guyanien
   - translation_iso: hin
     name: गयानी क्रेओल
+  - translation_iso: ind
+    name: Bahasa Guyanese Creole English
+    auto: true
   - translation_iso: jpn
     name: ガイアナ・クレオール語
   - translation_iso: kor

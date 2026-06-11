@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: يانْجكام
     auto: true
+  - translation_iso: ben
+    name: য়াংকাম
+    auto: true
   - translation_iso: deu
     name: Yangkam
   - translation_iso: fra
     name: yangkam
   - translation_iso: hin
     name: यांगकम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yangkam
     auto: true
   - translation_iso: jpn
     name: ヤングカム語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بورونج
     auto: true
+  - translation_iso: ben
+    name: বোরোং
+    auto: true
   - translation_iso: deu
     name: Borong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बोरोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Borong
     auto: true
   - translation_iso: jpn
     name: ボロン語

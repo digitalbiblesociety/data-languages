@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوريك
     auto: true
+  - translation_iso: ben
+    name: পুরিক
+    auto: true
   - translation_iso: deu
     name: Purik
     auto: true

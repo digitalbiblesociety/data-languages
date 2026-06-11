@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نيي
     auto: true
+  - translation_iso: ben
+    name: নি
+    auto: true
   - translation_iso: deu
     name: Ek Nii
   - translation_iso: fra
     name: nii
   - translation_iso: hin
     name: नी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nii
     auto: true
   - translation_iso: jpn
     name: ニイ語

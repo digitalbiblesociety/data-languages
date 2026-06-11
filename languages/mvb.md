@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماتول
     auto: true
+  - translation_iso: ben
+    name: মাত্তোলে
+    auto: true
   - translation_iso: deu
     name: Mattole
   - translation_iso: fra
     name: mattole
   - translation_iso: hin
     name: मैटोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mattole
     auto: true
   - translation_iso: jpn
     name: マットレ語

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاراnكاوا
     auto: true
+  - translation_iso: ben
+    name: কারানকাওয়া
+    auto: true
   - translation_iso: deu
     name: Karankawa
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: karankawa
   - translation_iso: hin
     name: करनकावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karankawa
     auto: true
   - translation_iso: jpn
     name: カランカワ語

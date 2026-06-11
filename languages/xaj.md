@@ -24,6 +24,9 @@ translations:
   - translation_iso: hin
     name: अरारंदेवारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ararandewára
+    auto: true
   - translation_iso: jpn
     name: アラランデワラ語
     auto: true

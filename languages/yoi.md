@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يونانغوني
     auto: true
+  - translation_iso: ben
+    name: য়োনাগুনি
+    auto: true
   - translation_iso: deu
     name: Yonaguni
     auto: true

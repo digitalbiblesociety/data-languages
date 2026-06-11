@@ -17,12 +17,18 @@ translations:
   - translation_iso: ara
     name: كارين لاهتا
     auto: true
+  - translation_iso: ben
+    name: লাহতা কারেন
+    auto: true
   - translation_iso: deu
     name: Lahta
   - translation_iso: fra
     name: lahta
   - translation_iso: hin
     name: लाहता करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lahta Karen
     auto: true
   - translation_iso: jpn
     name: ラータ・カレン語

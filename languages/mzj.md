@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مانيا
     auto: true
+  - translation_iso: ben
+    name: মানয়া
+    auto: true
   - translation_iso: deu
     name: Manya
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manya
   - translation_iso: hin
     name: मान्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manya
     auto: true
   - translation_iso: jpn
     name: マニャ語

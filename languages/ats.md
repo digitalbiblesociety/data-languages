@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة جروس فنتر
     auto: true
+  - translation_iso: ben
+    name: গরোস ভেনতরে
+    auto: true
   - translation_iso: deu
     name: Gros Ventre
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فونج-نيانج
     auto: true
+  - translation_iso: ben
+    name: ফোং-কনিয়াং
+    auto: true
   - translation_iso: deu
     name: Phong-Kniang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phong-kniang
   - translation_iso: hin
     name: फोंग-कन्यांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phong-Kniang
     auto: true
   - translation_iso: jpn
     name: フォンクニアン語

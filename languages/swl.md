@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: स्वीडिश सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Swedish Sign Language
+    auto: true
   - translation_iso: jpn
     name: スウェーデン手話
   - translation_iso: kor

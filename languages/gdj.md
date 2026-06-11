@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجوردجار
     auto: true
+  - translation_iso: ben
+    name: গুরদজার
+    auto: true
   - translation_iso: deu
     name: Gurdjar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gurdjar
   - translation_iso: hin
     name: गुर्जर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gurdjar
     auto: true
   - translation_iso: jpn
     name: グルッジャル語

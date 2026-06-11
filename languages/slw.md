@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيالوم
     auto: true
+  - translation_iso: ben
+    name: সিয়ালুম
+    auto: true
   - translation_iso: deu
     name: Sialum
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सियालुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sialum
     auto: true
   - translation_iso: jpn
     name: シアルム語

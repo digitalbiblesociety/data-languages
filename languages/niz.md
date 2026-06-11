@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نينجيل
     auto: true
+  - translation_iso: ben
+    name: নিঙিল
+    auto: true
   - translation_iso: deu
     name: Ningil
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ningil
   - translation_iso: hin
     name: निंगिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ningil
     auto: true
   - translation_iso: jpn
     name: ニンギル語

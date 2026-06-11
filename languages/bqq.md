@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Biritai_language"
 translations:
   - translation_iso: ara
     name: لغة بيريتاي
+  - translation_iso: ben
+    name: বিরিতাই
+    auto: true
   - translation_iso: deu
     name: Biritai
     auto: true

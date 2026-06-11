@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يانكونيتجاتجارا
     auto: true
+  - translation_iso: ben
+    name: য়ানকুনয়তজাতজারা
+    auto: true
   - translation_iso: deu
     name: Yankunytjatjara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yankunytjatjara
   - translation_iso: hin
     name: यनकुनित्जातजारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yankunytjatjara
     auto: true
   - translation_iso: jpn
     name: ヤンクニチャチャラ語

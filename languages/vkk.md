@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كاور
     auto: true
+  - translation_iso: ben
+    name: কাউর
+    auto: true
   - translation_iso: deu
     name: Kaur
   - translation_iso: fra

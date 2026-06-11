@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: راونغتو كهين
     auto: true
+  - translation_iso: ben
+    name: রাওয়ংতু চিন
+    auto: true
   - translation_iso: deu
     name: Rawngtu Chin
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: welaung
   - translation_iso: hin
     name: रौंगतू चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rawngtu Chin
     auto: true
   - translation_iso: jpn
     name: ラウング・チン語

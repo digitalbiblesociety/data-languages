@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مانانغبا
     auto: true
+  - translation_iso: ben
+    name: মানাংবা
+    auto: true
   - translation_iso: deu
     name: Manangba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: manangba
   - translation_iso: hin
     name: मानांगबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manangba
     auto: true
   - translation_iso: jpn
     name: マナン語

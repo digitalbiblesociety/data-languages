@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تينيغوا
     auto: true
+  - translation_iso: ben
+    name: তিনিগুয়া
+    auto: true
   - translation_iso: deu
     name: Tinigua
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: tinigua
   - translation_iso: hin
     name: तिनिगुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tinigua
     auto: true
   - translation_iso: jpn
     name: ティニグア語

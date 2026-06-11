@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان لويس
     auto: true
+  - translation_iso: ben
+    name: সান লুইস তেমালাকায়ুকা পোপোলোকা
+    auto: true
   - translation_iso: deu
     name: San Luís Temalacayuca-Popoloca
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: popoloca de San Luís Temalacayuca
   - translation_iso: hin
     name: सान लुईस तेमालाकायुका पोपोलोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Luís Temalacayuca Popoloca
     auto: true
   - translation_iso: jpn
     name: サンルイステマラカユカポポロカ語

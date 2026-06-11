@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماجيرا
     auto: true
+  - translation_iso: ben
+    name: মাজেরা
+    auto: true
   - translation_iso: deu
     name: Majera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: majera
   - translation_iso: hin
     name: मजेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Majera
     auto: true
   - translation_iso: jpn
     name: マジェラ語

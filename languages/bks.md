@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سورسوجانون الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন সোরসোগানোন
+    auto: true
   - translation_iso: deu
     name: Northern Sorsoganon
     auto: true

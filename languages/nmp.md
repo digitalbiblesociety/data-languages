@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيمانبور
     auto: true
+  - translation_iso: ben
+    name: নিমানবুর
+    auto: true
   - translation_iso: deu
     name: Nimanbur
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nimanbur
   - translation_iso: hin
     name: निमानबुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nimanbur
     auto: true
   - translation_iso: jpn
     name: ニマンブル語

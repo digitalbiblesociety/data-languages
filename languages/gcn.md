@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجاينا
     auto: true
+  - translation_iso: ben
+    name: গাইনা
+    auto: true
   - translation_iso: deu
     name: Gaina
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gaina
   - translation_iso: hin
     name: गाइना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gaina
     auto: true
   - translation_iso: jpn
     name: ガイナ語

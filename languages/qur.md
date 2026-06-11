@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا يانايوانكا باسكو
     auto: true
+  - translation_iso: ben
+    name: য়ানাহুয়ানকা পাসকো কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Yanahuanca-Pasco-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua pasco yanahuanca
   - translation_iso: hin
     name: यानावांका पास्को क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yanahuanca Pasco Quechua
     auto: true
   - translation_iso: jpn
     name: ヤナワンカパスコケチュア語

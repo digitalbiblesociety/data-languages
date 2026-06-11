@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لاكاندون
     auto: true
+  - translation_iso: ben
+    name: লাকানদোন
+    auto: true
   - translation_iso: deu
     name: Lakandonisch
   - translation_iso: fra
     name: lacandon
   - translation_iso: hin
     name: लाकानदोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lacandon
     auto: true
   - translation_iso: jpn
     name: ラカンドン語

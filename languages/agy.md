@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ساوثيرن ألتا
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন আলতা
+    auto: true
   - translation_iso: deu
     name: Süd-Alta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: alta du Sud
   - translation_iso: hin
     name: दक्षिणी अल्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Alta
     auto: true
   - translation_iso: jpn
     name: 南部アルタ語

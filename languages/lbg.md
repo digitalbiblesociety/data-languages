@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لاوبانج
     auto: true
+  - translation_iso: ben
+    name: লাওপাং
+    auto: true
   - translation_iso: deu
     name: Laopang
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लाओपांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laopang
     auto: true
   - translation_iso: jpn
     name: ラオパン語

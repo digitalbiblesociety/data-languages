@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تابرياك
     auto: true
+  - translation_iso: ben
+    name: তাবরিয়াক
+    auto: true
   - translation_iso: deu
     name: Tabriak
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tabriak
   - translation_iso: hin
     name: ताब्रियाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tabriak
     auto: true
   - translation_iso: jpn
     name: カラワリ語

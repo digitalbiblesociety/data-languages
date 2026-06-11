@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अलोआपम सैपोटेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aloápam Zapotec
+    auto: true
   - translation_iso: jpn
     name: アロアパム・サポテク語
     auto: true

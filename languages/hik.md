@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيت-كايتيتو
     auto: true
+  - translation_iso: ben
+    name: সেইত-কাইতেতু
+    auto: true
   - translation_iso: deu
     name: Seit-Kaitetu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेइत-काइतेतु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seit-Kaitetu
     auto: true
   - translation_iso: jpn
     name: セイト・カイテツ語

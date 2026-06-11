@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تومادينو
     auto: true
+  - translation_iso: ben
+    name: তোমাদিনো
+    auto: true
   - translation_iso: deu
     name: Tomadino
     auto: true

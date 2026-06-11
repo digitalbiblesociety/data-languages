@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ليوجيانغ زوانغ
     auto: true
+  - translation_iso: ben
+    name: লিউজিয়াং ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Liujiang-Zhuang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhuang de Liujiang
   - translation_iso: hin
     name: लिउजियांग ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Liujiang Zhuang
     auto: true
   - translation_iso: jpn
     name: 柳江チワン語

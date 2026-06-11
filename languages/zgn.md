@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة زوانغ غويبيان
     auto: true
+  - translation_iso: ben
+    name: গুইবিয়ান ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Guibian-Zhuang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhuang de Guibian
   - translation_iso: hin
     name: गुइबियान ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guibian Zhuang
     auto: true
   - translation_iso: jpn
     name: 桂辺チワン語

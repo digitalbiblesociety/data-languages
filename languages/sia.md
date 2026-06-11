@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अक्कला सामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akkala Sami
+    auto: true
   - translation_iso: jpn
     name: アッカラ・サーミ語
   - translation_iso: kor

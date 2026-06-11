@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अप्मा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apma
+    auto: true
   - translation_iso: jpn
     name: アプマ語
   - translation_iso: kor

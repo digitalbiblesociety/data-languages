@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: केन्याई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kenyan Sign Language
+    auto: true
   - translation_iso: jpn
     name: ケニア手話
   - translation_iso: kor

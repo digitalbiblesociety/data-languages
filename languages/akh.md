@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال هينينج
     auto: true
+  - translation_iso: ben
+    name: আঙাল হেনেং
+    auto: true
   - translation_iso: deu
     name: Angal Heneng
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अंगाल हेनेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Angal Heneng
     auto: true
   - translation_iso: jpn
     name: アンガル・ヘネン語

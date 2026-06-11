@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كتابية أويرات
     auto: true
+  - translation_iso: ben
+    name: ওয়রিত্তেন ওইরাত
+    auto: true
   - translation_iso: deu
     name: Geschriebenes Oiratisch
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: oïrate littéraire
   - translation_iso: hin
     name: लिखित ओइरात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Written Oirat
     auto: true
   - translation_iso: jpn
     name: 書き言葉オイラート語

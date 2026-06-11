@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتسيس
     auto: true
+  - translation_iso: ben
+    name: মাতসেস
+    auto: true
   - translation_iso: deu
     name: Matsés
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: matses
   - translation_iso: hin
     name: मात्सेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matsés
     auto: true
   - translation_iso: jpn
     name: マツェス語

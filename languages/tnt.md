@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونتيمبوان
     auto: true
+  - translation_iso: ben
+    name: তোনতেমবোয়ান
+    auto: true
   - translation_iso: deu
     name: Tontemboan
   - translation_iso: fra

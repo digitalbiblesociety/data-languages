@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نمبوران
     auto: true
+  - translation_iso: ben
+    name: নিমবোরান
+    auto: true
   - translation_iso: deu
     name: Nimboran
     auto: true

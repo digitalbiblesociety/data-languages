@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: माल्टा सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Maltese Sign Language
+    auto: true
   - translation_iso: jpn
     name: マルタ手話
   - translation_iso: kor

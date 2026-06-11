@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अवुतु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awutu
+    auto: true
   - translation_iso: jpn
     name: アウトゥ語
     auto: true

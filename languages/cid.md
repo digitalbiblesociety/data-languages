@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشيماريكو
     auto: true
+  - translation_iso: ben
+    name: চিমারিকো
+    auto: true
   - translation_iso: deu
     name: Chimariko
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: chimariko
   - translation_iso: hin
     name: चिमारिको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chimariko
     auto: true
   - translation_iso: jpn
     name: チマリコ語

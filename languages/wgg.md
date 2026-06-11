@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وانغكانغوررو
     auto: true
+  - translation_iso: ben
+    name: ওয়াংকাঙুর্রু
+    auto: true
   - translation_iso: deu
     name: Wangkangurru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wangkangurru
   - translation_iso: hin
     name: वंगकंगुर्रू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wangkangurru
     auto: true
   - translation_iso: jpn
     name: ワンガンガル語

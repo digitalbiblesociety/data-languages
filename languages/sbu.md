@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ستود بوتي
     auto: true
+  - translation_iso: ben
+    name: সতোদ ভোতি
+    auto: true
   - translation_iso: deu
     name: Stod-Bhoti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bhoti stod
   - translation_iso: hin
     name: लाहौली भाषा
+  - translation_iso: ind
+    name: Bahasa Stod Bhoti
+    auto: true
   - translation_iso: jpn
     name: スッドボティ語
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: فالي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ ফালি
+    auto: true
   - translation_iso: deu
     name: Süd-Fali
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिणी फाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Fali
     auto: true
   - translation_iso: jpn
     name: 南ファリ語

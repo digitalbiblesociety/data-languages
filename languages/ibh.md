@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: بيه
     auto: true
+  - translation_iso: ben
+    name: বিহ
+    auto: true
   - translation_iso: deu
     name: Bih
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: bih
   - translation_iso: hin
     name: बिह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bih
     auto: true
   - translation_iso: jpn
     name: ビ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بواتو
     auto: true
+  - translation_iso: ben
+    name: বওয়াতো
+    auto: true
   - translation_iso: deu
     name: Bwatoo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bwatoo
   - translation_iso: hin
     name: ब्वातू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwatoo
     auto: true
   - translation_iso: jpn
     name: ブワトゥー語

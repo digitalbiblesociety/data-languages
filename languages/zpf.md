@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان بيدرو كوياتوني
     auto: true
+  - translation_iso: ben
+    name: সান পেদরো কুইয়াতোনি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (San Pedro Quiatoni)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de San Pedro Quiatoni
   - translation_iso: hin
     name: सान पेद्रो कियातोनी सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Pedro Quiatoni Zapotec
     auto: true
   - translation_iso: jpn
     name: サン・ペドロ・キアトニ・サポテク語

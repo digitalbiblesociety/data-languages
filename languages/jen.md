@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيين
     auto: true
+  - translation_iso: ben
+    name: দজা
+    auto: true
   - translation_iso: deu
     name: Jen
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dza
     auto: true
   - translation_iso: jpn
     name: ジェン語

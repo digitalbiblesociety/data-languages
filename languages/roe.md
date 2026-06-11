@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونجي
     auto: true
+  - translation_iso: ben
+    name: রোনজি
+    auto: true
   - translation_iso: deu
     name: Ronji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ronji
   - translation_iso: hin
     name: रोंजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ronji
     auto: true
   - translation_iso: jpn
     name: ロンジ語

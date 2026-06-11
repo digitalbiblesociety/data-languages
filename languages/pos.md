@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سايولا
     auto: true
+  - translation_iso: ben
+    name: সায়ুলা পোপোলুকা
+    auto: true
   - translation_iso: deu
     name: Sayula-Popoluca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: popoluca de Sayula
   - translation_iso: hin
     name: सायुला पोपोलुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sayula Popoluca
     auto: true
   - translation_iso: jpn
     name: サユラ語

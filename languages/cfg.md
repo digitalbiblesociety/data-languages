@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كومو كاريم
     auto: true
+  - translation_iso: ben
+    name: কোমো কারিম
+    auto: true
   - translation_iso: deu
     name: Como Karim
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोमो कारिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Como Karim
     auto: true
   - translation_iso: jpn
     name: コモ・カリム語

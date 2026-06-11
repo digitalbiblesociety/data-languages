@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بورجي
     auto: true
+  - translation_iso: ben
+    name: বুরজি
+    auto: true
   - translation_iso: deu
     name: Burji
   - translation_iso: fra
     name: burji
   - translation_iso: hin
     name: बुर्जी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burji
     auto: true
   - translation_iso: jpn
     name: ブルジ語

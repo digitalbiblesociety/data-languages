@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: روما
     auto: true
+  - translation_iso: ben
+    name: রুমা
+    auto: true
   - translation_iso: deu
     name: Ruma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ruma
   - translation_iso: hin
     name: रुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ruma
     auto: true
   - translation_iso: jpn
     name: ツルマ語

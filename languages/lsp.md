@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البنمية
     auto: true
+  - translation_iso: ben
+    name: পানামানিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Panamaische Gebärdensprache
   - translation_iso: fra
     name: langue des signes panaméenne
   - translation_iso: hin
     name: पनामियन सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Panamanian Sign Language
+    auto: true
   - translation_iso: jpn
     name: パナマ手話
   - translation_iso: kor

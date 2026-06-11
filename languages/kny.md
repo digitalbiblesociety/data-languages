@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيوك
     auto: true
+  - translation_iso: ben
+    name: কানয়োক
+    auto: true
   - translation_iso: deu
     name: Kanyok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kanyok
   - translation_iso: hin
     name: कान्योक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanyok
     auto: true
   - translation_iso: jpn
     name: カニョク語

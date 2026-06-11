@@ -30,6 +30,9 @@ translations:
     name: deuri
   - translation_iso: hin
     name: डियोरी भाषा
+  - translation_iso: ind
+    name: Bahasa Deori
+    auto: true
   - translation_iso: jpn
     name: デオリ語
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: "اللغة ما'دي الجنوبية"
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন মাদি
+    auto: true
   - translation_iso: deu
     name: "Southern Ma'di"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "ma'di du Sud"
   - translation_iso: hin
     name: दक्षिणी मादी
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Southern Ma'di"
     auto: true
   - translation_iso: jpn
     name: サザン・マディ語

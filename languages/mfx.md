@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ميلو
     auto: true
+  - translation_iso: ben
+    name: মেলো
+    auto: true
   - translation_iso: deu
     name: Melo
   - translation_iso: fra
     name: melo
   - translation_iso: hin
     name: मेलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Melo
     auto: true
   - translation_iso: jpn
     name: メロ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبيمب
     auto: true
+  - translation_iso: ben
+    name: করোস্স রিভের মবেমবে
+    auto: true
   - translation_iso: deu
     name: Cross River Mbembe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbembe cross river
   - translation_iso: hin
     name: क्रॉस रिवर म्बेम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cross River Mbembe
     auto: true
   - translation_iso: jpn
     name: クロス・リバー・ムベンベ語

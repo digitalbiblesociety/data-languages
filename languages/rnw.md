@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونجوا
     auto: true
+  - translation_iso: ben
+    name: রুংওয়া
+    auto: true
   - translation_iso: deu
     name: Rungwa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रुंगवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rungwa
     auto: true
   - translation_iso: jpn
     name: ルングワ語

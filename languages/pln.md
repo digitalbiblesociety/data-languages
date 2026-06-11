@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: पालेंकेरो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Palenquero
+    auto: true
   - translation_iso: jpn
     name: パレンケロ語
     auto: true

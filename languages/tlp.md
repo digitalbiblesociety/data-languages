@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك فيلومينا ماتا كواويتلان
     auto: true
+  - translation_iso: ben
+    name: ফিলোমেনা মাতা-কোয়াহুইতলান তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Filomena Mata-Coahuitlán Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque de Filomeno Mata
   - translation_iso: hin
     name: फिलोमेना माता-कोआहुइतलान टोटोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Filomena Mata-Coahuitlán Totonac
     auto: true
   - translation_iso: jpn
     name: フィレメナ・マタ・コアウイトラン・トトナック語

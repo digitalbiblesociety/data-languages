@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيمباكونج موروت
     auto: true
+  - translation_iso: ben
+    name: সেমবাকুং মুরুত
+    auto: true
   - translation_iso: deu
     name: Sembakung-Murut
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेम्बाकुंग मुरुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sembakung Murut
     auto: true
   - translation_iso: jpn
     name: ティドング語

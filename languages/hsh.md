@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة المجرية
     auto: true
+  - translation_iso: ben
+    name: হুঙারিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Ungarische Gebärdensprache
   - translation_iso: fra
     name: langue des signes hongroise
   - translation_iso: hin
     name: हंगेरियन सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hungarian Sign Language
     auto: true
   - translation_iso: jpn
     name: ハンガリー手話

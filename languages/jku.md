@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة لابير
     auto: true
+  - translation_iso: ben
+    name: লাবির
+    auto: true
   - translation_iso: deu
     name: Labir
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: labir
   - translation_iso: hin
     name: लाबिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Labir
     auto: true
   - translation_iso: jpn
     name: ラビル語

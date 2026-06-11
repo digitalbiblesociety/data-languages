@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبي
     auto: true
+  - translation_iso: ben
+    name: কুবে
+    auto: true
   - translation_iso: deu
     name: Kube
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tobo-kube
   - translation_iso: hin
     name: कूबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kube
     auto: true
   - translation_iso: jpn
     name: クベ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجالجولجولي
     auto: true
+  - translation_iso: ben
+    name: নজালগুলগুলে
+    auto: true
   - translation_iso: deu
     name: Njalgulgule
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: njalgulgule
   - translation_iso: hin
     name: न्जालगुलगुले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Njalgulgule
     auto: true
   - translation_iso: jpn
     name: ンジャルグルグレ語

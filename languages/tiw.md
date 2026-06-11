@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيوي
     auto: true
+  - translation_iso: ben
+    name: তিওয়ি
+    auto: true
   - translation_iso: deu
     name: Tiwi
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: tiwi
   - translation_iso: hin
     name: तिवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiwi
     auto: true
   - translation_iso: jpn
     name: ティウィ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كولواوا
     auto: true
+  - translation_iso: ben
+    name: কোলুওয়াওয়া
+    auto: true
   - translation_iso: deu
     name: Koluwawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोलुवावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koluwawa
     auto: true
   - translation_iso: jpn
     name: コルワワ語

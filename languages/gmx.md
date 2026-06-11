@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مآغومآ
     auto: true
+  - translation_iso: ben
+    name: মাগোমা
+    auto: true
   - translation_iso: deu
     name: Magoma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: magoma
   - translation_iso: hin
     name: मागोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Magoma
     auto: true
   - translation_iso: jpn
     name: マゴマ語

@@ -15,12 +15,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البوروندية
     auto: true
+  - translation_iso: ben
+    name: বুরুনদিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Burundi-Gebärdensprache
   - translation_iso: fra
     name: langue des signes du Burundi
   - translation_iso: hin
     name: बुरुंडियन सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burundian Sign Language
     auto: true
   - translation_iso: jpn
     name: ブルンジ手話

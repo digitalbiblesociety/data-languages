@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: كيندم
     auto: true
+  - translation_iso: ben
+    name: কেনদেম
+    auto: true
   - translation_iso: deu
     name: Kendem
   - translation_iso: fra
     name: kendem
   - translation_iso: hin
     name: केंडेम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kendem
     auto: true
   - translation_iso: jpn
     name: ケンデム語

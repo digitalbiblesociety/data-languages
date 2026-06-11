@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الرواندية
     auto: true
+  - translation_iso: ben
+    name: রওয়ানদান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Ruandische Gebärdensprache
   - translation_iso: fra
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रवांडा सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rwandan Sign Language
     auto: true
   - translation_iso: jpn
     name: ルワンダ手話

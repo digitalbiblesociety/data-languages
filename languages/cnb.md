@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تشينبون تشين
     auto: true
+  - translation_iso: ben
+    name: চিনবোন চিন
+    auto: true
   - translation_iso: deu
     name: Chinbon-Chin
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चिनबोन चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chinbon Chin
     auto: true
   - translation_iso: jpn
     name: チンボン・チン語

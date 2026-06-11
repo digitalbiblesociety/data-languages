@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي لوي
     auto: true
+  - translation_iso: ben
+    name: তাই লোই
+    auto: true
   - translation_iso: deu
     name: Tai Loi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tai loi
   - translation_iso: hin
     name: ताई लोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Loi
     auto: true
   - translation_iso: jpn
     name: タイ・ロイ語

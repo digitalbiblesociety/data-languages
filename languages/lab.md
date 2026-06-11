@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Linear_A"
 translations:
   - translation_iso: ara
     name: نظام خطي أ
+  - translation_iso: ben
+    name: লিনেয়ার আ
+    auto: true
   - translation_iso: deu
     name: Linearschrift A
   - translation_iso: fra

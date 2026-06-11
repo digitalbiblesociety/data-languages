@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Birri_language"
 translations:
   - translation_iso: ara
     name: بيري
+  - translation_iso: ben
+    name: বির্রি
+    auto: true
   - translation_iso: deu
     name: Birri
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: birri
   - translation_iso: hin
     name: बिर्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Birri
     auto: true
   - translation_iso: jpn
     name: ビッリ語

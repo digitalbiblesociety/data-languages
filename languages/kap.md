@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेज़्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bezhta
+    auto: true
   - translation_iso: jpn
     name: ベジタ語
   - translation_iso: kor

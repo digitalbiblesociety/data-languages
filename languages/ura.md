@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورارينا
     auto: true
+  - translation_iso: ben
+    name: উরারিনা
+    auto: true
   - translation_iso: deu
     name: Urarina
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: urarina
   - translation_iso: hin
     name: उरारिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urarina
     auto: true
   - translation_iso: jpn
     name: ウラリナ語

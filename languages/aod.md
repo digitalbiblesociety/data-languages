@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अंदारुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andarum
+    auto: true
   - translation_iso: jpn
     name: アンダルム語
     auto: true

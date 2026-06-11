@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تمبس
     auto: true
+  - translation_iso: ben
+    name: তামবাস
+    auto: true
   - translation_iso: deu
     name: Tambas
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताम्बास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tambas
     auto: true
   - translation_iso: jpn
     name: タンバス語

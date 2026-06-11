@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوماڤرين
     auto: true
+  - translation_iso: ben
+    name: লোমাভরেন
+    auto: true
   - translation_iso: deu
     name: Lomavren
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लोमावरेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lomavren
     auto: true
   - translation_iso: jpn
     name: ロマブレン語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نيارافولو سينوفو
     auto: true
+  - translation_iso: ben
+    name: নয়ারাফোলো সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Nyarafolo
   - translation_iso: fra
     name: niarafolo
   - translation_iso: hin
     name: न्यारफोलो सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyarafolo Senoufo
     auto: true
   - translation_iso: jpn
     name: セナリ語

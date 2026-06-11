@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سانجا
     auto: true
+  - translation_iso: ben
+    name: সাঙা
+    auto: true
   - translation_iso: deu
     name: Sanga (Nigeria)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sanga
   - translation_iso: hin
     name: सांगा (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sanga
     auto: true
   - translation_iso: jpn
     name: サンガ語

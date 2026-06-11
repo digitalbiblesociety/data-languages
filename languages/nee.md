@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نيليمواا نيكسومواك
     auto: true
+  - translation_iso: ben
+    name: নেলেমওয়া-নিকসুমওয়াক
+    auto: true
   - translation_iso: deu
     name: Kumak
   - translation_iso: fra
     name: nêlêmwa-nixumwak
   - translation_iso: hin
     name: नेलेम्वा-निक्सुम्वाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nêlêmwa-Nixumwak
     auto: true
   - translation_iso: jpn
     name: ネレムワ・ニクスムワク語

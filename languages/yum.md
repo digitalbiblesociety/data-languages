@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتشوان
     auto: true
+  - translation_iso: ben
+    name: কুএচান
+    auto: true
   - translation_iso: deu
     name: Quechan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yuma
   - translation_iso: hin
     name: क्वेचान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quechan
     auto: true
   - translation_iso: jpn
     name: ケチャン語

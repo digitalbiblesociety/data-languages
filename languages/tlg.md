@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توفانما
     auto: true
+  - translation_iso: ben
+    name: তোফানমা
+    auto: true
   - translation_iso: deu
     name: Tofanma
     auto: true

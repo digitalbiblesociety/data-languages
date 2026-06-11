@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونما
     auto: true
+  - translation_iso: ben
+    name: বুনামা
+    auto: true
   - translation_iso: deu
     name: Bunama
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुनामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bunama
     auto: true
   - translation_iso: jpn
     name: ブナマ語

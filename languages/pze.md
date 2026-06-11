@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيسي
     auto: true
+  - translation_iso: ben
+    name: পেস্সে
+    auto: true
   - translation_iso: deu
     name: Pesse
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पेस्से
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pesse
     auto: true
   - translation_iso: jpn
     name: ペッセ語

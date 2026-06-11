@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لوكسيتشا
     auto: true
+  - translation_iso: ben
+    name: লোকসিচা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Loxicha)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Loxicha
   - translation_iso: hin
     name: लोक्सिचा ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loxicha Zapotec
     auto: true
   - translation_iso: jpn
     name: ロキチャ・サポテク語

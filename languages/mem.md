@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجالا
     auto: true
+  - translation_iso: ben
+    name: মাঙালা
+    auto: true
   - translation_iso: deu
     name: Mangala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mangala
   - translation_iso: hin
     name: मंगला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangala
     auto: true
   - translation_iso: jpn
     name: マンガラ語

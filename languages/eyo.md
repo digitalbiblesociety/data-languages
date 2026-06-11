@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الكايو
     auto: true
+  - translation_iso: ben
+    name: কেইয়ো
+    auto: true
   - translation_iso: deu
     name: Keiyo
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: keyo
   - translation_iso: hin
     name: केयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keiyo
     auto: true
   - translation_iso: jpn
     name: ケイヨ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أموزجو إبالابا
     auto: true
+  - translation_iso: ben
+    name: ইপালাপা আমুজগো
+    auto: true
   - translation_iso: deu
     name: Ipalapa-Amuzgo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "amuzgo d'Ipalapa"
   - translation_iso: hin
     name: इपालापा अमुज़गो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ipalapa Amuzgo
     auto: true
   - translation_iso: jpn
     name: イパラパ・アムズゴ語

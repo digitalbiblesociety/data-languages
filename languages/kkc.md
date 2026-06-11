@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة أودودي
     auto: true
+  - translation_iso: ben
+    name: ওদোদে
+    auto: true
   - translation_iso: deu
     name: Odoodee
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: odoodee
   - translation_iso: hin
     name: ओडूडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Odoodee
     auto: true
   - translation_iso: jpn
     name: オドドゥ語

@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: فوتونا الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত ফুতুনা
+    auto: true
   - translation_iso: deu
     name: Futunisch
   - translation_iso: fra
     name: futunien
   - translation_iso: hin
     name: पूर्वी फुटुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa East Futuna
     auto: true
   - translation_iso: jpn
     name: フトゥナ語

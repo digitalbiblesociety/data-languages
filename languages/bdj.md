@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाई (दक्षिण सूडान)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bai
+    auto: true
   - translation_iso: jpn
     name: バイ語
     auto: true

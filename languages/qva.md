@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आम्बो-पास्को क्वेचुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambo-Pasco Quechua
+    auto: true
   - translation_iso: jpn
     name: アンボパスコケチュア語
     auto: true

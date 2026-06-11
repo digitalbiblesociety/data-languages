@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ǁغآنآ
     auto: true
+  - translation_iso: ben
+    name: গানা
+    auto: true
   - translation_iso: deu
     name: ǁGana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gana
   - translation_iso: hin
     name: ग्ǁआना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǁGana
     auto: true
   - translation_iso: jpn
     name: ガーナ語

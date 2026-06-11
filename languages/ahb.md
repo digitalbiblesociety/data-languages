@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अक्साम्ब
     auto: true
+  - translation_iso: ind
+    name: Bahasa Axamb
+    auto: true
   - translation_iso: jpn
     name: アクサンブ語
     auto: true

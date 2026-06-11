@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريغوي
     auto: true
+  - translation_iso: ben
+    name: রিগওয়ে
+    auto: true
   - translation_iso: deu
     name: Rigwe
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रिग्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rigwe
     auto: true
   - translation_iso: jpn
     name: リグウェ語

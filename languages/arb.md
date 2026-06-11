@@ -20,12 +20,18 @@ wikidata_id: Q122602987
 translations:
   - translation_iso: ara
     name: العربية الفصحى
+  - translation_iso: ben
+    name: আরাবিক
+    auto: true
   - translation_iso: deu
     name: Hocharabisch
   - translation_iso: fra
     name: arabe standard
   - translation_iso: hin
     name: मानक अरबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Arabic
     auto: true
   - translation_iso: jpn
     name: フスハー

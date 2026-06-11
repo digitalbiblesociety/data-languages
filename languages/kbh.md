@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كامسا
     auto: true
+  - translation_iso: ben
+    name: কামসা
+    auto: true
   - translation_iso: deu
     name: Camsá
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: camsá
   - translation_iso: hin
     name: कामसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Camsá
     auto: true
   - translation_iso: jpn
     name: カムサ語

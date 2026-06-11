@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوليسوسو
     auto: true
+  - translation_iso: ben
+    name: কুলিসুসু
+    auto: true
   - translation_iso: deu
     name: Kulisusu
     auto: true

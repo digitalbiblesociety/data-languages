@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة الملايو القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ মালায়
+    auto: true
   - translation_iso: deu
     name: Altmalaiisch
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورواننجيرين
     auto: true
+  - translation_iso: ben
+    name: উরুয়াংনিরিন
+    auto: true
   - translation_iso: deu
     name: Uruangnirin
     auto: true

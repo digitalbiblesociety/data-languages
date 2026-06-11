@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورورو-كاابور
     auto: true
+  - translation_iso: ben
+    name: উরুবু-কাপোর
+    auto: true
   - translation_iso: deu
     name: Urubú-Kaapor
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaapor
   - translation_iso: hin
     name: उरुबू-काआपोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urubú-Kaapor
     auto: true
   - translation_iso: jpn
     name: ウルブ語

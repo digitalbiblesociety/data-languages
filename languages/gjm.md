@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غونديتجمآرآ
     auto: true
+  - translation_iso: ben
+    name: গুনদিতজমারা
+    auto: true
   - translation_iso: deu
     name: Gunditjmara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gunditjmara
   - translation_iso: hin
     name: गुंडितजमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gunditjmara
     auto: true
   - translation_iso: jpn
     name: ガンディッジマラ語

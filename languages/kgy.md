@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيرونج
     auto: true
+  - translation_iso: ben
+    name: কয়েরুং
+    auto: true
   - translation_iso: deu
     name: Kyerung
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: क्येरुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kyerung
     auto: true
   - translation_iso: jpn
     name: キェルング語

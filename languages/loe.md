@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الوان
     auto: true
+  - translation_iso: ben
+    name: সালুয়ান
+    auto: true
   - translation_iso: deu
     name: Saluan
   - translation_iso: fra

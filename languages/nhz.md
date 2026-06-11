@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سانتا ماريا لا ألتا ناهواتل
     auto: true
+  - translation_iso: ben
+    name: সানতা মারিয়া লা আলতা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Santa María La Alta-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de Santa María la Alta
   - translation_iso: hin
     name: सांता मारिया ला आल्ता नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa María La Alta Nahuatl
     auto: true
   - translation_iso: jpn
     name: サンタ・マリア・ラ・アルタ・ナワトル語

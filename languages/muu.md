@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ياكو
     auto: true
+  - translation_iso: ben
+    name: য়াকু
+    auto: true
   - translation_iso: deu
     name: Yaaku
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: याकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaaku
     auto: true
   - translation_iso: jpn
     name: ヤアク語

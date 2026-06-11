@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك كاكالوكستيبك
     auto: true
+  - translation_iso: ben
+    name: কাকালোকসতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Cacaloxtepec Mixtec
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: काकालोक्सतेपेक मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cacaloxtepec Mixtec
     auto: true
   - translation_iso: jpn
     name: カカロクステペク・ミステク語

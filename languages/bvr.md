@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوراررا
     auto: true
+  - translation_iso: ben
+    name: বুরার্রা
+    auto: true
   - translation_iso: deu
     name: Burarra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: burarra
   - translation_iso: hin
     name: बुरार्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burarra
     auto: true
   - translation_iso: jpn
     name: ブラッラ語

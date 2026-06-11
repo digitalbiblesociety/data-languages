@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bati
+    auto: true
   - translation_iso: jpn
     name: バティ語
     auto: true

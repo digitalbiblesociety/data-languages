@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هولو
     auto: true
+  - translation_iso: ben
+    name: হোলু
+    auto: true
   - translation_iso: deu
     name: Holu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: holu
   - translation_iso: hin
     name: होलू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Holu
     auto: true
   - translation_iso: jpn
     name: ホル語

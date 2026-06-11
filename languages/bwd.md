@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوايدوكا
     auto: true
+  - translation_iso: ben
+    name: বওয়াইদোকা
+    auto: true
   - translation_iso: deu
     name: Bwaidoka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bwaidoga
   - translation_iso: hin
     name: ब्वाइदोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwaidoka
     auto: true
   - translation_iso: jpn
     name: ブァイドカ語

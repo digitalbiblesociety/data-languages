@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بخاري
     auto: true
+  - translation_iso: ben
+    name: বুখারিক
+    auto: true
   - translation_iso: deu
     name: Buchori-Sprache
   - translation_iso: fra

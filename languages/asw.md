@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: ऑस्ट्रेलियाई आदिवासी सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Australian Aborigines Sign Language
+    auto: true
   - translation_iso: jpn
     name: オーストラリア・アボリジニ手話
   - translation_iso: kor

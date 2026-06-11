@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अके
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ake
+    auto: true
   - translation_iso: jpn
     name: アケ語
     auto: true

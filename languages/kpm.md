@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوهو
     auto: true
+  - translation_iso: ben
+    name: কোহো
+    auto: true
   - translation_iso: deu
     name: Koho
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koho
   - translation_iso: hin
     name: कोहो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koho
     auto: true
   - translation_iso: jpn
     name: コホ語

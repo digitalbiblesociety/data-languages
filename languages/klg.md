@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة تاجاكاولو
     auto: true
+  - translation_iso: ben
+    name: তাগাকাউলো
+    auto: true
   - translation_iso: deu
     name: Tagakaulo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tagakaulo
   - translation_iso: hin
     name: तागाकाउलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagakaulo
     auto: true
   - translation_iso: jpn
     name: タガカウロ語

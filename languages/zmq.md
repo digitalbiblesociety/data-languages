@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميتوكو
     auto: true
+  - translation_iso: ben
+    name: মিতুকু
+    auto: true
   - translation_iso: deu
     name: Mituku
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mituku
   - translation_iso: hin
     name: मितुकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mituku
     auto: true
   - translation_iso: jpn
     name: ミツク語

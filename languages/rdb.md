@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رودباري
     auto: true
+  - translation_iso: ben
+    name: রুদবারি
+    auto: true
   - translation_iso: deu
     name: Rudbari
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: rudbari
   - translation_iso: hin
     name: रुदबारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rudbari
     auto: true
   - translation_iso: jpn
     name: ルドバリ語

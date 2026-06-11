@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالينج
     auto: true
+  - translation_iso: ben
+    name: মালেং
+    auto: true
   - translation_iso: deu
     name: Maleng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maleng
   - translation_iso: hin
     name: मालेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maleng
     auto: true
   - translation_iso: jpn
     name: マレン語

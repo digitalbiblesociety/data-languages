@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الواجي
     auto: true
+  - translation_iso: ben
+    name: ওয়াগি
+    auto: true
   - translation_iso: deu
     name: Wagi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wagi
   - translation_iso: hin
     name: वागी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wagi
     auto: true
   - translation_iso: jpn
     name: ワギ語

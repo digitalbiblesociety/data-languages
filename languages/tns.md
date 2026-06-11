@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تينيس
     auto: true
+  - translation_iso: ben
+    name: তেনিস
+    auto: true
   - translation_iso: deu
     name: Tenis
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tenis
   - translation_iso: hin
     name: तेनिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tenis
     auto: true
   - translation_iso: jpn
     name: テニス語

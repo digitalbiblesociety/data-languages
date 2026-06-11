@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيبينو
     auto: true
+  - translation_iso: ben
+    name: ইবিনো
+    auto: true
   - translation_iso: deu
     name: Ibino
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ibino
   - translation_iso: hin
     name: इबिनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ibino
     auto: true
   - translation_iso: jpn
     name: イビノ語

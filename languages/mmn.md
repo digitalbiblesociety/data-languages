@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماماونا
     auto: true
+  - translation_iso: ben
+    name: মামানওয়া
+    auto: true
   - translation_iso: deu
     name: Mamanwa
     auto: true

@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة مويا
     auto: true
+  - translation_iso: ben
+    name: মোবা
+    auto: true
   - translation_iso: deu
     name: Moba
   - translation_iso: fra
     name: moba
   - translation_iso: hin
     name: मोबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moba
     auto: true
   - translation_iso: jpn
     name: モバ語

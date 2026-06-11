@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: راوتي
     auto: true
+  - translation_iso: ben
+    name: রাউতে
+    auto: true
   - translation_iso: deu
     name: Raute
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: raute
   - translation_iso: hin
     name: राउते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Raute
     auto: true
   - translation_iso: jpn
     name: ラウテ語

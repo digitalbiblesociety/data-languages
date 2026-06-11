@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: فيلا فيسيوسا أجتا
     auto: true
+  - translation_iso: ben
+    name: ভিল্লা ভিকিওসা আগতা
+    auto: true
   - translation_iso: deu
     name: Villa Viciosa Agta
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: agta de Villa Viciosa
   - translation_iso: hin
     name: विला विसिओसा आग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Villa Viciosa Agta
     auto: true
   - translation_iso: jpn
     name: ビラ・ビシオサ・アグタ語

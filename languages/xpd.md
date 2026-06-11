@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني أويستر باي
     auto: true
+  - translation_iso: ben
+    name: ওয়সতের বায় তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Oyster Bay Tasmanian
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: paredarerme
   - translation_iso: hin
     name: ऑयस्टर बे तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oyster Bay Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: オイスターベイ・タスマニア語

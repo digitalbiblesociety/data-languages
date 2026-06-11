@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نهاندا
     auto: true
+  - translation_iso: ben
+    name: নহানদা
+    auto: true
   - translation_iso: deu
     name: Nhanda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nhanta
   - translation_iso: hin
     name: न्हांडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nhanda
     auto: true
   - translation_iso: jpn
     name: ンハンダ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هري
     auto: true
+  - translation_iso: ben
+    name: হরে
+    auto: true
   - translation_iso: deu
     name: Hre
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hrê
   - translation_iso: hin
     name: ह्रे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hre
     auto: true
   - translation_iso: jpn
     name: フレ語

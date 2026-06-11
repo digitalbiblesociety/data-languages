@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ارانتوكا الاي
     auto: true
+  - translation_iso: ben
+    name: লারানতুকা মালায়
+    auto: true
   - translation_iso: deu
     name: Larantuka-Malaiisch
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاراو
     auto: true
+  - translation_iso: ben
+    name: কারাও
+    auto: true
   - translation_iso: deu
     name: Karao
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: karao
   - translation_iso: hin
     name: काराओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karao
     auto: true
   - translation_iso: jpn
     name: カラオ語

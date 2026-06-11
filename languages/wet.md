@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: پيراي
     auto: true
+  - translation_iso: ben
+    name: পেরাই
+    auto: true
   - translation_iso: deu
     name: Perai
     auto: true

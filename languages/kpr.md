@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كورافي ييغها
     auto: true
+  - translation_iso: ben
+    name: কোরাফে-য়েঘা
+    auto: true
   - translation_iso: deu
     name: Korafe-Yegha
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोराफे-येघा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Korafe-Yegha
     auto: true
   - translation_iso: jpn
     name: コラフェ・イェガ語

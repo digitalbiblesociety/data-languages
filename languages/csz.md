@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hanis_language"
 translations:
   - translation_iso: ara
     name: هانيس
+  - translation_iso: ben
+    name: কোস
+    auto: true
   - translation_iso: deu
     name: Coos
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hanis
   - translation_iso: hin
     name: कूस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coos
     auto: true
   - translation_iso: jpn
     name: クース語

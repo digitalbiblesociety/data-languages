@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيغويري
     auto: true
+  - translation_iso: ben
+    name: লাচিগুইরি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Lachiguiri)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Lachiguiri
   - translation_iso: hin
     name: लाचीगिरी सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lachiguiri Zapotec
     auto: true
   - translation_iso: jpn
     name: ラチグイリ・サポテク語

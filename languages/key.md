@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبيا
     auto: true
+  - translation_iso: ben
+    name: কুপিয়া
+    auto: true
   - translation_iso: deu
     name: Kupia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kupia
   - translation_iso: hin
     name: कुपिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kupia
     auto: true
   - translation_iso: jpn
     name: クピア語

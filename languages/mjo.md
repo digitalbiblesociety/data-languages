@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: मलंकुरवन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Malankuravan
+    auto: true
   - translation_iso: jpn
     name: マランクラヴァン語
     auto: true

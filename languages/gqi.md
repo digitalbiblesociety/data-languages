@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غويقيونج
     auto: true
+  - translation_iso: ben
+    name: গুইকিওং
+    auto: true
   - translation_iso: deu
     name: Guiqiong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guiqiong
   - translation_iso: hin
     name: ग्विचोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guiqiong
     auto: true
   - translation_iso: jpn
     name: グイチョン語

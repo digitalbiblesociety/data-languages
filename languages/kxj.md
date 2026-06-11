@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كولفا
     auto: true
+  - translation_iso: ben
+    name: কুলফা
+    auto: true
   - translation_iso: deu
     name: Kulfa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koulfa
   - translation_iso: hin
     name: कुल्फा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kulfa
     auto: true
   - translation_iso: jpn
     name: クルファ語

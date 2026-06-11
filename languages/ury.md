@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوريا
     auto: true
+  - translation_iso: ben
+    name: ওরয়া
+    auto: true
   - translation_iso: deu
     name: Orya
   - translation_iso: fra

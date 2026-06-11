@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتشاما غانجولي
     auto: true
+  - translation_iso: ben
+    name: কাচামা-গানজুলে
+    auto: true
   - translation_iso: deu
     name: Kachama-Ganjule
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kachama-ganjule
   - translation_iso: hin
     name: काचामा-गंजुले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kachama-Ganjule
     auto: true
   - translation_iso: jpn
     name: カチャマ・ガンジュレ語

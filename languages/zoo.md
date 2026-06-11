@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: असुनसियोन मिक्स्तेपेक सैपोटेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Asunción Mixtepec Zapotec
+    auto: true
   - translation_iso: jpn
     name: アスンシオン・ミステペック・サポテク語
     auto: true

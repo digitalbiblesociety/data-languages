@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pular_language"
 translations:
   - translation_iso: ara
     name: لغة بولارية
+  - translation_iso: ben
+    name: পুলার
+    auto: true
   - translation_iso: deu
     name: Pular
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pular
   - translation_iso: hin
     name: पुलार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pular
     auto: true
   - translation_iso: jpn
     name: プラー語

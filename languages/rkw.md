@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: अराकवाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arakwal
+    auto: true
   - translation_iso: jpn
     name: アラクワル語
     auto: true

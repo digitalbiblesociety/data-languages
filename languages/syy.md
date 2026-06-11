@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अल-सय्यद बेडौइन सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Al-Sayyid Bedouin Sign Language
+    auto: true
   - translation_iso: jpn
     name: アル＝サイード・ベドウィン手話
   - translation_iso: kor

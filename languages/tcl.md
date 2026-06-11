@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تامان
     auto: true
+  - translation_iso: ben
+    name: তামান
+    auto: true
   - translation_iso: deu
     name: Taman (Myanmar)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: taman
   - translation_iso: hin
     name: तामान (म्यांमार)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taman
     auto: true
   - translation_iso: jpn
     name: タマン語

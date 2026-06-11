@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجيروما
     auto: true
+  - translation_iso: ben
+    name: গেরুমা
+    auto: true
   - translation_iso: deu
     name: Geruma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: geruma
   - translation_iso: hin
     name: गेरुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Geruma
     auto: true
   - translation_iso: jpn
     name: ゲルマ語

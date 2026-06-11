@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالول
     auto: true
+  - translation_iso: ben
+    name: মালোল
+    auto: true
   - translation_iso: deu
     name: Malol
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मालोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malol
     auto: true
   - translation_iso: jpn
     name: マロル語

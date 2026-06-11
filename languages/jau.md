@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يور
     auto: true
+  - translation_iso: ben
+    name: য়াউর
+    auto: true
   - translation_iso: deu
     name: Yaur
     auto: true

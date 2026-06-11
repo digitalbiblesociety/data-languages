@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الساوتوميزية
     auto: true
+  - translation_iso: ben
+    name: সাওতোমেনসে
+    auto: true
   - translation_iso: deu
     name: Saotomensisch
   - translation_iso: fra
     name: forro
   - translation_iso: hin
     name: साओतोमेन्से
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sãotomense
     auto: true
   - translation_iso: jpn
     name: フォロ語

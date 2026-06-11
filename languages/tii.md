@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تينيي
     auto: true
+  - translation_iso: ben
+    name: তিএনে
+    auto: true
   - translation_iso: deu
     name: Tiene
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तियेने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiene
     auto: true
   - translation_iso: jpn
     name: Tiene語

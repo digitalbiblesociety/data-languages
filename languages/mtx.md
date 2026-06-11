@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك تيداا
     auto: true
+  - translation_iso: ben
+    name: তিদা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Tidaá-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तिदा मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tidaá Mixtec
     auto: true
   - translation_iso: jpn
     name: ティダア・ミステク語

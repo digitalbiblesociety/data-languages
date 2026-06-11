@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hejazi_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة حجازية
+  - translation_iso: ben
+    name: হিজাজি আরাবিক
+    auto: true
   - translation_iso: deu
     name: Hidschasi-Arabisch
   - translation_iso: fra

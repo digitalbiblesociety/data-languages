@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موينجي
     auto: true
+  - translation_iso: ben
+    name: মোইঙি
+    auto: true
   - translation_iso: deu
     name: Moingi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moingi
   - translation_iso: hin
     name: मोइंगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moingi
     auto: true
   - translation_iso: jpn
     name: モインギ語

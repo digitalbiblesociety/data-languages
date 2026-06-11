@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجان كالاجان
     auto: true
+  - translation_iso: ben
+    name: কাগান কালাগান
+    auto: true
   - translation_iso: deu
     name: Kagan Kalagan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalagan kagan
   - translation_iso: hin
     name: कगन कालागान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kagan Kalagan
     auto: true
   - translation_iso: jpn
     name: カガン・カラガン語

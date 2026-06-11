@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غايافي
     auto: true
+  - translation_iso: ben
+    name: ঘায়াভি
+    auto: true
   - translation_iso: deu
     name: Ghayavi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: घयावी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghayavi
     auto: true
   - translation_iso: jpn
     name: ガヤヴィ語

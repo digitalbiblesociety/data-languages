@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوتو
     auto: true
+  - translation_iso: ben
+    name: উতু
+    auto: true
   - translation_iso: deu
     name: Utu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उतु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Utu
     auto: true
   - translation_iso: jpn
     name: ウトゥ語

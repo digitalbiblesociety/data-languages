@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تريكي سان مارتين إيتونيوسو
     auto: true
+  - translation_iso: ben
+    name: সান মারতিন ইতুনয়োসো তরিকুই
+    auto: true
   - translation_iso: deu
     name: San Martín Itunyoso Triqui
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: trique de San Martín Itunyoso
   - translation_iso: hin
     name: सान मार्तिन इतुन्योसो त्रिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Martín Itunyoso Triqui
     auto: true
   - translation_iso: jpn
     name: サン・マルティン・イトゥニョーソ・トリケ語

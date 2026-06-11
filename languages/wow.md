@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واوونيي
     auto: true
+  - translation_iso: ben
+    name: ওয়াওয়োনি
+    auto: true
   - translation_iso: deu
     name: Wawonii
   - translation_iso: fra

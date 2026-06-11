@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अविंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awing
+    auto: true
   - translation_iso: jpn
     name: アウィング語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بينوكيد
     auto: true
+  - translation_iso: ben
+    name: বিনুকিদ
+    auto: true
   - translation_iso: deu
     name: Binukid
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिनुकिड
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Binukid
     auto: true
   - translation_iso: jpn
     name: ビヌキド

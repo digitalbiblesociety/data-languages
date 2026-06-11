@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جابي-جابي
     auto: true
+  - translation_iso: ben
+    name: গাবি-গাবি
+    auto: true
   - translation_iso: deu
     name: Gabi-Gabi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gabi-gabi
   - translation_iso: hin
     name: गाबी-गाबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gabi-Gabi
     auto: true
   - translation_iso: jpn
     name: ガビ・ガビ語

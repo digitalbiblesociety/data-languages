@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अवाक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awak
+    auto: true
   - translation_iso: jpn
     name: アワク語
     auto: true

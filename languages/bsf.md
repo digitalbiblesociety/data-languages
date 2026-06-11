@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाउची
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bauchi
+    auto: true
   - translation_iso: jpn
     name: バウチ語
     auto: true

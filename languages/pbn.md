@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كباسام
     auto: true
+  - translation_iso: ben
+    name: কপাসাম
+    auto: true
   - translation_iso: deu
     name: Kpasam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Nyesam
   - translation_iso: hin
     name: क्पासाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpasam
     auto: true
   - translation_iso: jpn
     name: クパサム語

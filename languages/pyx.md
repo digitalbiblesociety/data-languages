@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو (ميانمار)
     auto: true
+  - translation_iso: ben
+    name: পয়ু
+    auto: true
   - translation_iso: deu
     name: Pyu
   - translation_iso: fra

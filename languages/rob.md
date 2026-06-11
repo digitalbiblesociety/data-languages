@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تائي
     auto: true
+  - translation_iso: ben
+    name: তাএ
+    auto: true
   - translation_iso: deu
     name: Ta’e
   - translation_iso: fra

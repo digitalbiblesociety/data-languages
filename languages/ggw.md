@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غوغودآلآ
     auto: true
+  - translation_iso: ben
+    name: গোগোদালা
+    auto: true
   - translation_iso: deu
     name: Gogodala
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गोगोदाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gogodala
     auto: true
   - translation_iso: jpn
     name: ゴゴダラ語

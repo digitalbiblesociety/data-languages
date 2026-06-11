@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رامواينا
     auto: true
+  - translation_iso: ben
+    name: রামোয়াইনা
+    auto: true
   - translation_iso: deu
     name: Ramoaaina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ramoaaina
   - translation_iso: hin
     name: रामोआइना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ramoaaina
     auto: true
   - translation_iso: jpn
     name: ラモアイナ語

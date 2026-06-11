@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زوغوتشو
     auto: true
+  - translation_iso: ben
+    name: জোগোচো জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Zoogocho)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Zoogocho
   - translation_iso: hin
     name: ज़ूगोचो सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zoogocho Zapotec
     auto: true
   - translation_iso: jpn
     name: ゾオゴッチョ・サポテク語

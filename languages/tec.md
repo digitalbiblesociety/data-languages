@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تيريك
     auto: true
+  - translation_iso: ben
+    name: তেরিক
+    auto: true
   - translation_iso: deu
     name: Terik
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: terik
   - translation_iso: hin
     name: तेरिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Terik
     auto: true
   - translation_iso: jpn
     name: テリク語

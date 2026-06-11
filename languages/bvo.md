@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بولْجو
     auto: true
+  - translation_iso: ben
+    name: বোলগো
+    auto: true
   - translation_iso: deu
     name: Bolgo
   - translation_iso: fra
     name: bolgo
   - translation_iso: hin
     name: बोल्गो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolgo
     auto: true
   - translation_iso: jpn
     name: ボルゴ語

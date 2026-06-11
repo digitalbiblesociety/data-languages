@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: سيكي
     auto: true
+  - translation_iso: ben
+    name: সেকি
+    auto: true
   - translation_iso: deu
     name: Seki
   - translation_iso: fra
     name: seki
   - translation_iso: hin
     name: सेकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seki
     auto: true
   - translation_iso: jpn
     name: セケ語

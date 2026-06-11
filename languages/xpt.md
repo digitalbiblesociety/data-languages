@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بونتاماتا
     auto: true
+  - translation_iso: ben
+    name: পুনথামারা
+    auto: true
   - translation_iso: deu
     name: Punthamara
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: punthamara
   - translation_iso: hin
     name: पुन्थामारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Punthamara
     auto: true
   - translation_iso: jpn
     name: プントハマラ語

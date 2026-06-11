@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كويريبي
     auto: true
+  - translation_iso: ben
+    name: কুইরিপি
+    auto: true
   - translation_iso: deu
     name: Quiripi
     auto: true

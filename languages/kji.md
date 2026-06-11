@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة زابانا
     auto: true
+  - translation_iso: ben
+    name: জাবানা
+    auto: true
   - translation_iso: deu
     name: Zabana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zabana
   - translation_iso: hin
     name: ज़बाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zabana
     auto: true
   - translation_iso: jpn
     name: ザバナ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبسابيني
     auto: true
+  - translation_iso: ben
+    name: কুপসাবিনয়
+    auto: true
   - translation_iso: deu
     name: Kupsabiny
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sapiny
   - translation_iso: hin
     name: कुप्सबिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kupsabiny
     auto: true
   - translation_iso: jpn
     name: クプサビニィ語

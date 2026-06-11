@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونغو
     auto: true
+  - translation_iso: ben
+    name: বুঙু
+    auto: true
   - translation_iso: deu
     name: Bungu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bungu
     auto: true
   - translation_iso: jpn
     name: ブング語

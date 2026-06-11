@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكاغوان
     auto: true
+  - translation_iso: ben
+    name: মাকাগুয়ান
+    auto: true
   - translation_iso: deu
     name: Macaguán
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: macaguán
   - translation_iso: hin
     name: माकागुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Macaguán
     auto: true
   - translation_iso: jpn
     name: マカグアン語

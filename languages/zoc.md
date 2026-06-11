@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سوكي كوبايناليا
     auto: true
+  - translation_iso: ben
+    name: কোপাইনালা জোকুএ
+    auto: true
   - translation_iso: deu
     name: Zoque (Copainalá)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: zoque de Copainalá
   - translation_iso: hin
     name: कोपैनाला ज़ोके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Copainalá Zoque
     auto: true
   - translation_iso: jpn
     name: コパイナラ・ゾケ語

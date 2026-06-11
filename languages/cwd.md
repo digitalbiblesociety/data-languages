@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الكري الغابات
     auto: true
+  - translation_iso: ben
+    name: ওয়োদস করে
+    auto: true
   - translation_iso: deu
     name: Wald-Cree
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वुड्स क्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Woods Cree
     auto: true
   - translation_iso: jpn
     name: 森林クリー語

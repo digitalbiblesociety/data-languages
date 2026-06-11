@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dair_language"
 translations:
   - translation_iso: ara
     name: لغة دير
+  - translation_iso: ben
+    name: দাইর
+    auto: true
   - translation_iso: deu
     name: Dair
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dair
   - translation_iso: hin
     name: डायर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dair
     auto: true
   - translation_iso: jpn
     name: ダイル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة المينوية
     auto: true
+  - translation_iso: ben
+    name: মিনোয়ান
+    auto: true
   - translation_iso: deu
     name: Minoisch
   - translation_iso: fra

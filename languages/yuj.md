@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاركار-يوري
     auto: true
+  - translation_iso: ben
+    name: কারকার-য়ুরি
+    auto: true
   - translation_iso: deu
     name: Karkar-Yuri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karkar
   - translation_iso: hin
     name: कर्कर-युरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karkar-Yuri
     auto: true
   - translation_iso: jpn
     name: カルカル-ユリ語

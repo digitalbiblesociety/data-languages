@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اياكها
     auto: true
+  - translation_iso: ben
+    name: লায়াখা
+    auto: true
   - translation_iso: deu
     name: Layakha
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लायाखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Layakha
     auto: true
   - translation_iso: jpn
     name: ラヤ語

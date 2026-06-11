@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجاندي
     auto: true
+  - translation_iso: ben
+    name: ঙানদি
+    auto: true
   - translation_iso: deu
     name: Ngandi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गांडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngandi
     auto: true
   - translation_iso: jpn
     name: ングアンディ語

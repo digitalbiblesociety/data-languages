@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وانوكاكا
     auto: true
+  - translation_iso: ben
+    name: ওয়ানুকাকা
+    auto: true
   - translation_iso: deu
     name: Wanukaka
     auto: true

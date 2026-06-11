@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوسوسو
     auto: true
+  - translation_iso: ben
+    name: ওসোসো
+    auto: true
   - translation_iso: deu
     name: Ososo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओसोसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ososo
     auto: true
   - translation_iso: jpn
     name: オソソ語

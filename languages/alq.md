@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अल्गोंक्विन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Algonquin
+    auto: true
   - translation_iso: jpn
     name: アルゴンキン語
   - translation_iso: kor

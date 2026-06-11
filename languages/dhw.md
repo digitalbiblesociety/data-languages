@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دانوار
     auto: true
+  - translation_iso: ben
+    name: ধানওয়ার
+    auto: true
   - translation_iso: deu
     name: Dhanwar (Nepal)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dhanwar
   - translation_iso: hin
     name: दनुवार भाषा
+  - translation_iso: ind
+    name: Bahasa Dhanwar
+    auto: true
   - translation_iso: jpn
     name: ダヌワール族
   - translation_iso: kor

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एसे एज्जा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ese Ejja
+    auto: true
   - translation_iso: jpn
     name: エセエハ語
   - translation_iso: kor

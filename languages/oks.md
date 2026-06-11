@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو إني أوسايين
     auto: true
+  - translation_iso: ben
+    name: ওকো-এনি-ওসায়েন
+    auto: true
   - translation_iso: deu
     name: Oko
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओको-एनी-ओसायेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oko-Eni-Osayen
     auto: true
   - translation_iso: jpn
     name: オコ語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Teda_language"
 translations:
   - translation_iso: ara
     name: لغة التيدا
+  - translation_iso: ben
+    name: তেদাগা
+    auto: true
   - translation_iso: deu
     name: Tedaga
   - translation_iso: fra
     name: tedaga
   - translation_iso: hin
     name: तेदागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tedaga
     auto: true
   - translation_iso: jpn
     name: テダ語

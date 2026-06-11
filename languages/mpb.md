@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالك مالك
     auto: true
+  - translation_iso: ben
+    name: মালাক মালাক
+    auto: true
   - translation_iso: deu
     name: Malak Malak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malak-malak
   - translation_iso: hin
     name: मलक मलक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malak Malak
     auto: true
   - translation_iso: jpn
     name: マラク・マラク語

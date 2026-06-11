@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يمبينا
     auto: true
+  - translation_iso: ben
+    name: লেমবেনা
+    auto: true
   - translation_iso: deu
     name: Lembena
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेम्बेना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lembena
     auto: true
   - translation_iso: jpn
     name: レンベナ語

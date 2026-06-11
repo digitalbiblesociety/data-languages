@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشوتشانغاكاخا
     auto: true
+  - translation_iso: ben
+    name: চোকাঙাকাখা
+    auto: true
   - translation_iso: deu
     name: Chocangacakha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chocangacakha
   - translation_iso: hin
     name: चोचंगकखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chocangacakha
     auto: true
   - translation_iso: jpn
     name: チョチャガチャ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكريولية الفرنسية كاريبونا
     auto: true
+  - translation_iso: ben
+    name: কারিপুনা করেওলে ফরেনচ
+    auto: true
   - translation_iso: deu
     name: Karipúna-Kreolfranzösisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karipuna
   - translation_iso: hin
     name: करिपूना क्रियोल फ्रेंच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karipúna Creole French
     auto: true
   - translation_iso: jpn
     name: カリプナ語

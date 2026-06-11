@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيواغي-نوتو
     auto: true
+  - translation_iso: ben
+    name: এওয়াগে-নোতু
+    auto: true
   - translation_iso: deu
     name: Ewage-Notu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: एवागे-नोतु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ewage-Notu
     auto: true
   - translation_iso: jpn
     name: エワゲ・ノツ語

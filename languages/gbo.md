@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجريبو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন গরেবো
+    auto: true
   - translation_iso: deu
     name: Nördliches Grebo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: grebo du Nord
   - translation_iso: hin
     name: उत्तरी ग्रेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Grebo
     auto: true
   - translation_iso: jpn
     name: 北グレボ語

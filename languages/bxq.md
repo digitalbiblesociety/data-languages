@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيليي
     auto: true
+  - translation_iso: ben
+    name: বেলে
+    auto: true
   - translation_iso: deu
     name: Beele
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: beele
   - translation_iso: hin
     name: बेएले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Beele
     auto: true
   - translation_iso: jpn
     name: ベエレ語

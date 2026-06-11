@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكارا
     auto: true
+  - translation_iso: ben
+    name: কারা
+    auto: true
   - translation_iso: deu
     name: Cara
   - translation_iso: fra
     name: cara
   - translation_iso: hin
     name: कारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cara
     auto: true
   - translation_iso: jpn
     name: カラ語

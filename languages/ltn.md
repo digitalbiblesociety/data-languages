@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة اتوند
     auto: true
+  - translation_iso: ben
+    name: লাতুনদে
+    auto: true
   - translation_iso: deu
     name: Latundê
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: latundê
   - translation_iso: hin
     name: लातुंदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Latundê
     auto: true
   - translation_iso: jpn
     name: ラトゥンデ語

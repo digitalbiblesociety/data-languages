@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واتوبيلا
     auto: true
+  - translation_iso: ben
+    name: ওয়াতুবেলা
+    auto: true
   - translation_iso: deu
     name: Watubela
     auto: true

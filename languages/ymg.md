@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامونجري
     auto: true
+  - translation_iso: ben
+    name: য়ামোঙেরি
+    auto: true
   - translation_iso: deu
     name: Yamongeri
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: yamongeri
   - translation_iso: hin
     name: यामोंगेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yamongeri
     auto: true
   - translation_iso: jpn
     name: ヤモンゲリ語

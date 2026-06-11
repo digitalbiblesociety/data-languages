@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अयाउतला मासातेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayautla Mazatec
+    auto: true
   - translation_iso: jpn
     name: アヤウトラ・マサテク語
     auto: true

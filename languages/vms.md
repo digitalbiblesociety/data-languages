@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موكسيلا
     auto: true
+  - translation_iso: ben
+    name: মোকসেলা
+    auto: true
   - translation_iso: deu
     name: Moksela
   - translation_iso: fra

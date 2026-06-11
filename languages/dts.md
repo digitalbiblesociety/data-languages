@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تورو سو دوجون
     auto: true
+  - translation_iso: ben
+    name: তোরো সো দোগোন
+    auto: true
   - translation_iso: deu
     name: Toro So Dogon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dogon toro so
   - translation_iso: hin
     name: टोरो सो डोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toro So Dogon
     auto: true
   - translation_iso: jpn
     name: トロ・ソ・ドゴン語

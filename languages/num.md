@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: "نيواتو'و"
     auto: true
+  - translation_iso: ben
+    name: নিউয়াফোউ
+    auto: true
   - translation_iso: deu
     name: Niuafoʻouanisch
   - translation_iso: fra
     name: niuafoʻou
   - translation_iso: hin
     name: नियुआफोऊ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Niuafo'ou"
     auto: true
   - translation_iso: jpn
     name: ニウアフォオウ語

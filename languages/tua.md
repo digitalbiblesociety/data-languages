@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وياروموس
     auto: true
+  - translation_iso: ben
+    name: ওয়িয়ারুমুস
+    auto: true
   - translation_iso: deu
     name: Wiarumus
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wiarumus
   - translation_iso: hin
     name: वियारुमुस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wiarumus
     auto: true
   - translation_iso: jpn
     name: マンディ語

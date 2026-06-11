@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الكريولية فرناندو بو
     auto: true
+  - translation_iso: ben
+    name: ফেরনানদো পো করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Fernando-Po-Kreolisch
   - translation_iso: fra
     name: pichi
   - translation_iso: hin
     name: फर्नांडो पो क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fernando Po Creole English
     auto: true
   - translation_iso: jpn
     name: フェルナンド・ポー・クレオール英語

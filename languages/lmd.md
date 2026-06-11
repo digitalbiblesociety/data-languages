@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ومون
     auto: true
+  - translation_iso: ben
+    name: লুমুন
+    auto: true
   - translation_iso: deu
     name: Lumun
   - translation_iso: fra
     name: lumun
   - translation_iso: hin
     name: लुमुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lumun
     auto: true
   - translation_iso: jpn
     name: ルムン語

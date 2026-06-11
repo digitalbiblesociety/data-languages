@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बुम्थांगखा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bumthangkha
+    auto: true
   - translation_iso: jpn
     name: ブムタン語
   - translation_iso: kor

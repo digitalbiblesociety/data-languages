@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاب
     auto: true
+  - translation_iso: ben
+    name: কাপ
+    auto: true
   - translation_iso: deu
     name: Kap
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yakamul
   - translation_iso: hin
     name: काप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kap
     auto: true
   - translation_iso: jpn
     name: カップ語

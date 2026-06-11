@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفايول
     auto: true
+  - translation_iso: ben
+    name: ফাইওয়োল
+    auto: true
   - translation_iso: deu
     name: Faiwol
     auto: true

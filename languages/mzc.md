@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الملغاشية
     auto: true
+  - translation_iso: ben
+    name: মাদাগাসকার সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Madagassische Gebärdensprache
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langue des signes malgache
   - translation_iso: hin
     name: मेडागास्कर सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Madagascar Sign Language
     auto: true
   - translation_iso: jpn
     name: マダガスカル手話

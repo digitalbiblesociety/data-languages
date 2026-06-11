@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماي براتن
     auto: true
+  - translation_iso: ben
+    name: মাই বরাত
+    auto: true
   - translation_iso: deu
     name: Mai Brat
     auto: true

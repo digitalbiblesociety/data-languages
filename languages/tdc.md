@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيمبيرا تادو
     auto: true
+  - translation_iso: ben
+    name: এমবেরা-তাদো
+    auto: true
   - translation_iso: deu
     name: Emberá-Tadó
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: emberá tadó
   - translation_iso: hin
     name: एम्बेरा-तादो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Emberá-Tadó
     auto: true
   - translation_iso: jpn
     name: エンベラ・タド語

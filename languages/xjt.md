@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: جايتماتانج
     auto: true
+  - translation_iso: ben
+    name: জাইতমাতাং
+    auto: true
   - translation_iso: deu
     name: Jaitmatang
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: jaitmatang
   - translation_iso: hin
     name: जैतमतांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jaitmatang
     auto: true
   - translation_iso: jpn
     name: ジャイトマタン語

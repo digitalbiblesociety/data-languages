@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بندا-يانجيري
     auto: true
+  - translation_iso: ben
+    name: বানদা-য়াঙেরে
+    auto: true
   - translation_iso: deu
     name: Banda-Yangere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yangere
   - translation_iso: hin
     name: बंदा-यांगेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Banda-Yangere
     auto: true
   - translation_iso: jpn
     name: バンダ＝ヤンゲレ語

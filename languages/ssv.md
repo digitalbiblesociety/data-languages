@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شارك باي
     auto: true
+  - translation_iso: ben
+    name: শারক বায়
+    auto: true
   - translation_iso: deu
     name: Shark Bay
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngen
   - translation_iso: hin
     name: शार्क बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shark Bay
     auto: true
   - translation_iso: jpn
     name: シャークベイ語

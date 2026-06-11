@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: سيكاني
     auto: true
+  - translation_iso: ben
+    name: সিকানিয়ান
+    auto: true
   - translation_iso: deu
     name: Sikanisch
   - translation_iso: fra
     name: sicanien
   - translation_iso: hin
     name: सिकानियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sicanian
     auto: true
   - translation_iso: jpn
     name: シカニア語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تيور
     auto: true
+  - translation_iso: ben
+    name: তেওর
+    auto: true
   - translation_iso: deu
     name: Teor
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: teor
   - translation_iso: hin
     name: तेओर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teor
     auto: true
   - translation_iso: jpn
     name: テオル語

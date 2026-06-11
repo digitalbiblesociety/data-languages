@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيلونغ
     auto: true
+  - translation_iso: ben
+    name: তিলুং
+    auto: true
   - translation_iso: deu
     name: Tilung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tilung
   - translation_iso: hin
     name: तिलुङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tilung
     auto: true
   - translation_iso: jpn
     name: ティルン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماي
     auto: true
+  - translation_iso: ben
+    name: মাএ
+    auto: true
   - translation_iso: deu
     name: Mae
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mae
   - translation_iso: hin
     name: माए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mae
     auto: true
   - translation_iso: jpn
     name: マエ語

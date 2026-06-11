@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاتو الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন কাতু
+    auto: true
   - translation_iso: deu
     name: Ost-Katu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी कातू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Katu
     auto: true
   - translation_iso: jpn
     name: 東カトゥ語

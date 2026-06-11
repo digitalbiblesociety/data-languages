@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الماراثية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ মারাথি
+    auto: true
   - translation_iso: deu
     name: Altmarathi
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुरानी मराठी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Marathi
     auto: true
   - translation_iso: jpn
     name: 古マラティ語

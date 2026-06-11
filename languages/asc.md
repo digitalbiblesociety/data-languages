@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسمات ساحل كاسواارينا
     auto: true
+  - translation_iso: ben
+    name: কাসুয়ারিনা কোয়াসত আসমাত
+    auto: true
   - translation_iso: deu
     name: Casuarina-Coast-Asmat
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कैजुअरीना तट असमत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Casuarina Coast Asmat
     auto: true
   - translation_iso: jpn
     name: カスアリーナ・コースト・アスマット語

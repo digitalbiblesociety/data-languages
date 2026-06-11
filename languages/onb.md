@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة لينغاو
     auto: true
+  - translation_iso: ben
+    name: লিঙাও
+    auto: true
   - translation_iso: deu
     name: Lingao
     auto: true

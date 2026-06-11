@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآتآم
     auto: true
+  - translation_iso: ben
+    name: হাতাম
+    auto: true
   - translation_iso: deu
     name: Hatam
     auto: true

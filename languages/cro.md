@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Crow_language"
 translations:
   - translation_iso: ara
     name: كروو
+  - translation_iso: ben
+    name: করোওয়
+    auto: true
   - translation_iso: deu
     name: Crow
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: crow
   - translation_iso: hin
     name: क्रो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Crow
     auto: true
   - translation_iso: jpn
     name: クロウ語

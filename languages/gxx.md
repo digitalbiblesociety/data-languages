@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وè سووثإرن
     auto: true
+  - translation_iso: ben
+    name: ওয়ে সোউথেরন
+    auto: true
   - translation_iso: deu
     name: Südliches Wè
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: guéré méridional
   - translation_iso: hin
     name: वे दक्षिणी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wè Southern
     auto: true
   - translation_iso: jpn
     name: ウェ語

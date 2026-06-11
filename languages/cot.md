@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاكينتي
     auto: true
+  - translation_iso: ben
+    name: কাকুইনতে
+    auto: true
   - translation_iso: deu
     name: Caquinte
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: caquinte
   - translation_iso: hin
     name: कैक्विंटे
+  - translation_iso: ind
+    name: Bahasa Caquinte
+    auto: true
   - translation_iso: jpn
     name: カキンテ語
   - translation_iso: kor

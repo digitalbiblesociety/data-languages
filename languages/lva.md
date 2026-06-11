@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "لغة اكو'ا"
     auto: true
+  - translation_iso: ben
+    name: মাকুয়া
+    auto: true
   - translation_iso: deu
     name: Makuva
   - translation_iso: fra

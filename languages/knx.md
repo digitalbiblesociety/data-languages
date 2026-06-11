@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيندايان
     auto: true
+  - translation_iso: ben
+    name: কেনদায়ান
+    auto: true
   - translation_iso: deu
     name: Kendayan
     auto: true

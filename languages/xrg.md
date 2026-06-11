@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: مينانج
     auto: true
+  - translation_iso: ben
+    name: মিনাং
+    auto: true
   - translation_iso: deu
     name: Minang
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: minang
   - translation_iso: hin
     name: मिनांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minang
     auto: true
   - translation_iso: jpn
     name: ミナング語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غوآجآجáرآ
     auto: true
+  - translation_iso: ben
+    name: গুয়াজাজারা
+    auto: true
   - translation_iso: deu
     name: Guajajára
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: guajajára
   - translation_iso: hin
     name: गुआजाजारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guajajára
     auto: true
   - translation_iso: jpn
     name: グアジャジャラ語

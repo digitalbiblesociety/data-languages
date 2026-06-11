@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कुन्दुवादी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kunduvadi
+    auto: true
   - translation_iso: jpn
     name: クンドゥバディ語
     auto: true

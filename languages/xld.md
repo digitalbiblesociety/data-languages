@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lydian_language"
 translations:
   - translation_iso: ara
     name: اللوذية
+  - translation_iso: ben
+    name: লয়দিয়ান
+    auto: true
   - translation_iso: deu
     name: Lydisch
   - translation_iso: fra

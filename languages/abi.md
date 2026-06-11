@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अबिद्जी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abidji
+    auto: true
   - translation_iso: jpn
     name: アビッジ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونزو
     auto: true
+  - translation_iso: ben
+    name: তুনজু
+    auto: true
   - translation_iso: deu
     name: Tunzu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tunzu
   - translation_iso: hin
     name: तुन्ज़ु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tunzu
     auto: true
   - translation_iso: jpn
     name: トゥンズ語

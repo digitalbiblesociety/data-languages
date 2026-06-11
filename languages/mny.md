@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيافا
     auto: true
+  - translation_iso: ben
+    name: মানয়াওয়া
+    auto: true
   - translation_iso: deu
     name: Manyawa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manyawa
   - translation_iso: hin
     name: मान्यावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manyawa
     auto: true
   - translation_iso: jpn
     name: マニャワ語

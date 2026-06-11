@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مآغɨيي
     auto: true
+  - translation_iso: ben
+    name: মাগিয়ি
+    auto: true
   - translation_iso: deu
     name: Magɨyi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: magiyi
   - translation_iso: hin
     name: मागीयी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Magɨyi
     auto: true
   - translation_iso: jpn
     name: マガイイ語

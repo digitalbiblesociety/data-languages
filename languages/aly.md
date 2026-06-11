@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अल्यावार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alyawarr
+    auto: true
   - translation_iso: jpn
     name: アリャワール語
     auto: true

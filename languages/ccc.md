@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشاميكورو
     auto: true
+  - translation_iso: ben
+    name: চামিকুরো
+    auto: true
   - translation_iso: deu
     name: Chamicuro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chamicuro
   - translation_iso: hin
     name: चामिकुरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chamicuro
     auto: true
   - translation_iso: jpn
     name: チャミクロ語

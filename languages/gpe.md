@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: घानाई पिजिन अंग्रेज़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ghanaian Pidgin English
+    auto: true
   - translation_iso: jpn
     name: ガーナピジン英語
   - translation_iso: kor

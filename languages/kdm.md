@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاغوما
     auto: true
+  - translation_iso: ben
+    name: কাগোমা
+    auto: true
   - translation_iso: deu
     name: Kagoma
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कागोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kagoma
     auto: true
   - translation_iso: jpn
     name: カゴマ語

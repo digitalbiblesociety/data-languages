@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجو
     auto: true
+  - translation_iso: ben
+    name: মাঙো
+    auto: true
   - translation_iso: deu
     name: Mango
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mango
   - translation_iso: hin
     name: मांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mango
     auto: true
   - translation_iso: jpn
     name: マンゴ語

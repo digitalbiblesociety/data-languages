@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساب
     auto: true
+  - translation_iso: ben
+    name: সাএপ
+    auto: true
   - translation_iso: deu
     name: Saep
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: साएप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saep
     auto: true
   - translation_iso: jpn
     name: サエップ語

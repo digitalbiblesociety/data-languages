@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارا
     auto: true
+  - translation_iso: ben
+    name: ওয়ারা
+    auto: true
   - translation_iso: deu
     name: Wára
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wára
   - translation_iso: hin
     name: वारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wára
     auto: true
   - translation_iso: jpn
     name: ワラ語

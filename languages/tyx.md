@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: تيكي تيي
     auto: true
+  - translation_iso: ben
+    name: তেকে-তয়ে
+    auto: true
   - translation_iso: deu
     name: Teke-Tyee
   - translation_iso: fra
     name: teke-tyee
   - translation_iso: hin
     name: तेके-त्ये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teke-Tyee
     auto: true
   - translation_iso: jpn
     name: ウェスト・テケ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الماركويتا
     auto: true
+  - translation_iso: ben
+    name: মারকওয়েতা
+    auto: true
   - translation_iso: deu
     name: Markweeta
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: markweta
   - translation_iso: hin
     name: मार्कवीटा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Markweeta
     auto: true
   - translation_iso: jpn
     name: マラクウェット語

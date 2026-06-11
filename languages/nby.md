@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نينجرا
     auto: true
+  - translation_iso: ben
+    name: নিঙেরা
+    auto: true
   - translation_iso: deu
     name: Ningera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ningera
   - translation_iso: hin
     name: निंगेरा
+  - translation_iso: ind
+    name: Bahasa Ningera
+    auto: true
   - translation_iso: jpn
     name: ニンゲラ語
     auto: true

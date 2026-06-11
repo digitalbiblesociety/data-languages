@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अनामगुरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anamgura
+    auto: true
   - translation_iso: jpn
     name: アナムグラ語
     auto: true

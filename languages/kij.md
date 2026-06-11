@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيليفيلا
     auto: true
+  - translation_iso: ben
+    name: কিলিভিলা
+    auto: true
   - translation_iso: deu
     name: Kilivila
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kilivila
   - translation_iso: hin
     name: किलिविला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kilivila
     auto: true
   - translation_iso: jpn
     name: キリヴィラ語

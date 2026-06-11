@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غآنجتإ
     auto: true
+  - translation_iso: ben
+    name: গাংতে
+    auto: true
   - translation_iso: deu
     name: Gangte
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gangte
   - translation_iso: hin
     name: गांटे भाषा
+  - translation_iso: ind
+    name: Bahasa Gangte
+    auto: true
   - translation_iso: jpn
     name: ガンテ語
     auto: true

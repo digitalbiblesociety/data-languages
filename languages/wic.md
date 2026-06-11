@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويشيتا
     auto: true
+  - translation_iso: ben
+    name: ওয়িচিতা
+    auto: true
   - translation_iso: deu
     name: Wichita
     auto: true

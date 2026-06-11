@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شينا كوهستاني
     auto: true
+  - translation_iso: ben
+    name: কোহিসতানি শিনা
+    auto: true
   - translation_iso: deu
     name: Kohistani-Shina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shina kohistani
   - translation_iso: hin
     name: कोहिस्तानी शीना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kohistani Shina
     auto: true
   - translation_iso: jpn
     name: コヒスタニシナ語

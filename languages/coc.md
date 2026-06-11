@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكوكوبا
     auto: true
+  - translation_iso: ben
+    name: কোকোপা
+    auto: true
   - translation_iso: deu
     name: Cocopa
   - translation_iso: fra
     name: cocopa
   - translation_iso: hin
     name: कोकोपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cocopa
     auto: true
   - translation_iso: jpn
     name: ココパ語

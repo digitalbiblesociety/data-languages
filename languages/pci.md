@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة دورووا
     auto: true
+  - translation_iso: ben
+    name: দুরুওয়া
+    auto: true
   - translation_iso: deu
     name: Duruwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: duruwa
   - translation_iso: hin
     name: परजी भाषा
+  - translation_iso: ind
+    name: Bahasa Duruwa
+    auto: true
   - translation_iso: jpn
     name: ドゥルワー語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكسي برزخ
     auto: true
+  - translation_iso: ben
+    name: ইসথমুস মিকসে
+    auto: true
   - translation_iso: deu
     name: Isthmus Mixe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "mixe de l'isthme"
   - translation_iso: hin
     name: इस्थमस मिशे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isthmus Mixe
     auto: true
   - translation_iso: jpn
     name: 峡谷ミヘ語

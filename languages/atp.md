@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودتول أتا
     auto: true
+  - translation_iso: ben
+    name: পুদতোল আত্তা
+    auto: true
   - translation_iso: deu
     name: Pudtol-Atta
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुडतोल अत्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pudtol Atta
     auto: true
   - translation_iso: jpn
     name: プドトル・アッタ語

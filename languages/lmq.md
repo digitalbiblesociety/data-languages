@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة اماتوكا
     auto: true
+  - translation_iso: ben
+    name: লামাতুকা
+    auto: true
   - translation_iso: deu
     name: Lamatuka
   - translation_iso: fra

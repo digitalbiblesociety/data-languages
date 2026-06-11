@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا إينس ياتزيتشي
     auto: true
+  - translation_iso: ben
+    name: সানতা ইনেস য়াতজেচি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Santa Inés Yatzechi)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Santa Inés Yatzechi
   - translation_iso: hin
     name: सांता इनेस यात्ज़ेची सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa Inés Yatzechi Zapotec
     auto: true
   - translation_iso: jpn
     name: サンタ・イネス・ヤツェチ・サポテク語

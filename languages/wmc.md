@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واماس
     auto: true
+  - translation_iso: ben
+    name: ওয়ামাস
+    auto: true
   - translation_iso: deu
     name: Wamas
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wamas
   - translation_iso: hin
     name: वामस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wamas
     auto: true
   - translation_iso: jpn
     name: ワマス語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: औरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aurá
+    auto: true
   - translation_iso: jpn
     name: アウラ語
     auto: true

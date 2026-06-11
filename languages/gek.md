@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الياوم
     auto: true
+  - translation_iso: ben
+    name: য়ওয়োম
+    auto: true
   - translation_iso: deu
     name: Ywom
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ywom
   - translation_iso: hin
     name: यवोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ywom
     auto: true
   - translation_iso: jpn
     name: イウォム語

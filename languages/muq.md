@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميـاو شيانغشي الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন কসিয়াংকসি মিয়াও
+    auto: true
   - translation_iso: deu
     name: Ost-Xiangxi-Miao
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी श्यांगशी मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Xiangxi Miao
     auto: true
   - translation_iso: jpn
     name: 東部湘西苗語

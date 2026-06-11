@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يو ميين
     auto: true
+  - translation_iso: ben
+    name: ইউ মিএন
+    auto: true
   - translation_iso: deu
     name: Iu Mien
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iu mien
   - translation_iso: hin
     name: इउ मियेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iu Mien
     auto: true
   - translation_iso: jpn
     name: ヤオ語

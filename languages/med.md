@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ملبا
     auto: true
+  - translation_iso: ben
+    name: মেলপা
+    auto: true
   - translation_iso: deu
     name: Melpa
   - translation_iso: fra
     name: melpa
   - translation_iso: hin
     name: मेल्पा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Melpa
     auto: true
   - translation_iso: jpn
     name: メルパ語

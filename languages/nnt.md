@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nanticoke_language"
 translations:
   - translation_iso: ara
     name: نانتيكوك
+  - translation_iso: ben
+    name: নানতিকোকে
+    auto: true
   - translation_iso: deu
     name: Nanticoke
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nanticoke
   - translation_iso: hin
     name: नान्तिकोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nanticoke
     auto: true
   - translation_iso: jpn
     name: ナンチコーク語

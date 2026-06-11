@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كسو
     auto: true
+  - translation_iso: ben
+    name: ক্কসোএ
+    auto: true
   - translation_iso: deu
     name: Kxoe
   - translation_iso: fra
     name: khwe
   - translation_iso: hin
     name: क्ख्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kxoe
     auto: true
   - translation_iso: jpn
     name: クエ語

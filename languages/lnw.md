@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة انيما
     auto: true
+  - translation_iso: ben
+    name: লানিমা
+    auto: true
   - translation_iso: deu
     name: Lanima
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: lanima
   - translation_iso: hin
     name: लानिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lanima
     auto: true
   - translation_iso: jpn
     name: ラニマ語

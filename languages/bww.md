@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوا
     auto: true
+  - translation_iso: ben
+    name: বওয়া
+    auto: true
   - translation_iso: deu
     name: Bwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bwa
   - translation_iso: hin
     name: ब्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwa
     auto: true
   - translation_iso: jpn
     name: Bwa語

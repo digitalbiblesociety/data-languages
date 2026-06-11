@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة دونجشانبا لالو
     auto: true
+  - translation_iso: ben
+    name: দোংশানবা লালো
+    auto: true
   - translation_iso: deu
     name: Dongshanba Lalo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डोंगशानबा लालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dongshanba Lalo
     auto: true
   - translation_iso: jpn
     name: ドンシャンバ・ラロ語

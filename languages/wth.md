@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واتهاووررونغ
     auto: true
+  - translation_iso: ben
+    name: ওয়াথাওয়ুর্রুং
+    auto: true
   - translation_iso: deu
     name: Wathawurrung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wathawurrung
   - translation_iso: hin
     name: वाथावुरुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wathawurrung
     auto: true
   - translation_iso: jpn
     name: ワタウルング語

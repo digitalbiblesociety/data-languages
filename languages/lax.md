@@ -30,6 +30,9 @@ translations:
     name: tiwa
   - translation_iso: hin
     name: टिवा भाषा
+  - translation_iso: ind
+    name: Bahasa Tiwa
+    auto: true
   - translation_iso: jpn
     name: ティワ語
   - translation_iso: kor

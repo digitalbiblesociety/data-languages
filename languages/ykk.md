@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياكايكيكي
     auto: true
+  - translation_iso: ben
+    name: য়াকাইকেকে
+    auto: true
   - translation_iso: deu
     name: Yakaikeke
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السيمبري
     auto: true
+  - translation_iso: ben
+    name: কিমবরিয়ান
+    auto: true
   - translation_iso: deu
     name: Zimbrisch
   - translation_iso: fra

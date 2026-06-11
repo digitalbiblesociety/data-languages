@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एस्टोनियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Estonian Sign Language
+    auto: true
   - translation_iso: jpn
     name: エストニア手話
   - translation_iso: kor

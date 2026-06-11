@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बागा कोगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baga Koga
+    auto: true
   - translation_iso: jpn
     name: バガ・コガ語
     auto: true

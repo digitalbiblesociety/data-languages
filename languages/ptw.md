@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بنتلاتش
     auto: true
+  - translation_iso: ben
+    name: পেনতলাতচ
+    auto: true
   - translation_iso: deu
     name: Pentlatch
   - translation_iso: fra
     name: pentlatch
   - translation_iso: hin
     name: पेंटलैच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pentlatch
     auto: true
   - translation_iso: jpn
     name: ペントラッチ語

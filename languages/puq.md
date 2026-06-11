@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوكينا
     auto: true
+  - translation_iso: ben
+    name: পুকুইনা
+    auto: true
   - translation_iso: deu
     name: Puquina
   - translation_iso: fra
     name: puquina
   - translation_iso: hin
     name: पुकीना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puquina
     auto: true
   - translation_iso: jpn
     name: Puquina語

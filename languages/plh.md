@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولوهي
     auto: true
+  - translation_iso: ben
+    name: পাউলোহি
+    auto: true
   - translation_iso: deu
     name: Paulohi
   - translation_iso: fra

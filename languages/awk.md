@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अवाबाकल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awabakal
+    auto: true
   - translation_iso: jpn
     name: アワバカル語
     auto: true

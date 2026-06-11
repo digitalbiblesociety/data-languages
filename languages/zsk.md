@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاسكيان
     auto: true
+  - translation_iso: ben
+    name: কাসকেয়ান
+    auto: true
   - translation_iso: deu
     name: Kaskäisch
     auto: true

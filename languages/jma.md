@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ديما
     auto: true
+  - translation_iso: ben
+    name: দিমা
+    auto: true
   - translation_iso: deu
     name: Dima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dima
   - translation_iso: hin
     name: दिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dima
     auto: true
   - translation_iso: jpn
     name: ディマ語

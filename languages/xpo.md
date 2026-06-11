@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوتشوتيك
     auto: true
+  - translation_iso: ben
+    name: পোচুতেক
+    auto: true
   - translation_iso: deu
     name: Pochuteco
     auto: true

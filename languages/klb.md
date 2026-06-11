@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كيليوا
     auto: true
+  - translation_iso: ben
+    name: কিলিওয়া
+    auto: true
   - translation_iso: deu
     name: Kiliwa
   - translation_iso: fra
     name: kiliwa
   - translation_iso: hin
     name: किलिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kiliwa
     auto: true
   - translation_iso: jpn
     name: キリワ語

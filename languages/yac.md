@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: باس فالي يالي
     auto: true
+  - translation_iso: ben
+    name: পাস্স ভাল্লেয় য়ালি
+    auto: true
   - translation_iso: deu
     name: Pass Valley Yali
     auto: true

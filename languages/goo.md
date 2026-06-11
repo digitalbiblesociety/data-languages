@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غونإ دآو
     auto: true
+  - translation_iso: ben
+    name: গোনে দাউ
+    auto: true
   - translation_iso: deu
     name: Gone Dau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gone dau
   - translation_iso: hin
     name: गोन डाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gone Dau
     auto: true
   - translation_iso: jpn
     name: ゴーン・ダウ語

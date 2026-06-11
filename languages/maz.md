@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة مازاهوا وسطية
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল মাজাহুয়া
+    auto: true
   - translation_iso: deu
     name: Mazahua-Sprache
   - translation_iso: fra
     name: mazahua
   - translation_iso: hin
     name: मध्य माज़ाहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Mazahua
     auto: true
   - translation_iso: jpn
     name: 中央マサウア語

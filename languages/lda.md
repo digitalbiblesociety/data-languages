@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كلا-دان
     auto: true
+  - translation_iso: ben
+    name: কলা-দান
+    auto: true
   - translation_iso: deu
     name: Kla-Dan
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: kla-dan
   - translation_iso: hin
     name: क्ला-दान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kla-Dan
     auto: true
   - translation_iso: jpn
     name: クラ・ダン語

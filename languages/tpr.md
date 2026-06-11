@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توباري
     auto: true
+  - translation_iso: ben
+    name: তুপারি
+    auto: true
   - translation_iso: deu
     name: Tuparí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tupari
   - translation_iso: hin
     name: तुपारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuparí
     auto: true
   - translation_iso: jpn
     name: トゥパリ語

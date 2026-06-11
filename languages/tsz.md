@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوريبتشا
     auto: true
+  - translation_iso: ben
+    name: পুরেপেচা
+    auto: true
   - translation_iso: deu
     name: Taraskisch
   - translation_iso: fra
     name: purépecha
   - translation_iso: hin
     name: पुरेपेचा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Purepecha
     auto: true
   - translation_iso: jpn
     name: タラスコ語

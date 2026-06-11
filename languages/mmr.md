@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميـاو شيانغشي الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন কসিয়াংকসি মিয়াও
+    auto: true
   - translation_iso: deu
     name: Western Xiangxi Miao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miao du Xiangxi occidental
   - translation_iso: hin
     name: पश्चिमी श्यांगशी मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Xiangxi Miao
     auto: true
   - translation_iso: jpn
     name: 西部湘西苗語

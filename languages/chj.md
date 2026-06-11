@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوجيتلان تشينانتك
     auto: true
+  - translation_iso: ben
+    name: ওজিতলান চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Ojitlán-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinantèque d’Ojitlán
   - translation_iso: hin
     name: ओहितलान चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ojitlán Chinantec
     auto: true
   - translation_iso: jpn
     name: オヒトラン・チナンテク語

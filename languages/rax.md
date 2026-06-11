@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رانج
     auto: true
+  - translation_iso: ben
+    name: রাং
+    auto: true
   - translation_iso: deu
     name: Rang
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rang
     auto: true
   - translation_iso: jpn
     name: ラン語

@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बाकोले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bakole
+    auto: true
   - translation_iso: jpn
     name: バコレ語
     auto: true

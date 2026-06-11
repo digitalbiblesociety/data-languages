@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: आदिवासी गरासिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adiwasi Garasia
+    auto: true
   - translation_iso: jpn
     name: アディワシ・ガラシア語
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة سيوو
     auto: true
+  - translation_iso: ben
+    name: সিওয়ু
+    auto: true
   - translation_iso: deu
     name: Siwu
   - translation_iso: fra
     name: siwu
   - translation_iso: hin
     name: सिवू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siwu
     auto: true
   - translation_iso: jpn
     name: シウ語

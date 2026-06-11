@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكولكول
     auto: true
+  - translation_iso: ben
+    name: মাকোলকোল
+    auto: true
   - translation_iso: deu
     name: Makolkol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: makolkol
   - translation_iso: hin
     name: माकोलकोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makolkol
     auto: true
   - translation_iso: jpn
     name: マコルコル語

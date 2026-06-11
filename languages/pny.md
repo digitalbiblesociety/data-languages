@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بينيين
     auto: true
+  - translation_iso: ben
+    name: পিনয়িন
+    auto: true
   - translation_iso: deu
     name: Pinyin
   - translation_iso: fra
     name: pinyin
   - translation_iso: hin
     name: पिनयिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pinyin
     auto: true
   - translation_iso: jpn
     name: ピンイン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كويتابو
     auto: true
+  - translation_iso: ben
+    name: কোইতাবু
+    auto: true
   - translation_iso: deu
     name: Koitabu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: koitabu
   - translation_iso: hin
     name: कोइताबु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koitabu
     auto: true
   - translation_iso: jpn
     name: コイタ語

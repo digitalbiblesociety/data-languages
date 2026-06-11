@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كابوري وان
     auto: true
+  - translation_iso: ben
+    name: কাবোরে ওনে
+    auto: true
   - translation_iso: deu
     name: Kabore One
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: one kabore
   - translation_iso: hin
     name: काबोरे वन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kabore One
     auto: true
   - translation_iso: jpn
     name: カボレ・ワン語

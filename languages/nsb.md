@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نوسوب الأدنى
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের নোস্সোবর
+    auto: true
   - translation_iso: deu
     name: Nieder-Nossob
   - translation_iso: fra
     name: bas nossob
   - translation_iso: hin
     name: निचला नोसोब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lower Nossob\r
     auto: true
   - translation_iso: jpn
     name: ロウアー・ノッソブ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فالورا
     auto: true
+  - translation_iso: ben
+    name: ফালুরা
+    auto: true
   - translation_iso: deu
     name: Phalura
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phalura
   - translation_iso: hin
     name: पालूला भाषा
+  - translation_iso: ind
+    name: Bahasa Phalura
+    auto: true
   - translation_iso: jpn
     name: パルーラ語
   - translation_iso: kor

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: التايو
     auto: true
+  - translation_iso: ben
+    name: তায়ো
+    auto: true
   - translation_iso: deu
     name: Tayo
   - translation_iso: fra
     name: tayo
   - translation_iso: hin
     name: तायो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tayo
     auto: true
   - translation_iso: jpn
     name: タヨ語

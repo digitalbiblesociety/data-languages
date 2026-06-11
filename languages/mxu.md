@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مادا كاميرون
     auto: true
+  - translation_iso: ben
+    name: মাদা
+    auto: true
   - translation_iso: deu
     name: Mada (Kamerun)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mada
   - translation_iso: hin
     name: मादा (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mada
     auto: true
   - translation_iso: jpn
     name: マダ語

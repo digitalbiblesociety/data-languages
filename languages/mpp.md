@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميجابك
     auto: true
+  - translation_iso: ben
+    name: মিগাবাক
+    auto: true
   - translation_iso: deu
     name: Migabac
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिगाबाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Migabac
     auto: true
   - translation_iso: jpn
     name: ミガバック語

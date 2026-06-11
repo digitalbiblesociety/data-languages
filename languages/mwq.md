@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موين تشين
     auto: true
+  - translation_iso: ben
+    name: মুন চিন
+    auto: true
   - translation_iso: deu
     name: Mün-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुन चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mün Chin
     auto: true
   - translation_iso: jpn
     name: ムン・チン語

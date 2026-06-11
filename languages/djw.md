@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دجاوي
     auto: true
+  - translation_iso: ben
+    name: দজাওয়ি
+    auto: true
   - translation_iso: deu
     name: Djawi
     auto: true

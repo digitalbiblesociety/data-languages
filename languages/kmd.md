@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجوكايانج كالينجا
     auto: true
+  - translation_iso: ben
+    name: মাজুকায়াং কালিঙা
+    auto: true
   - translation_iso: deu
     name: Majukayang Kalinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalinga majukayang
   - translation_iso: hin
     name: माजुकायांग कालिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Majukayang Kalinga
     auto: true
   - translation_iso: jpn
     name: マジュカヤン・カリンガ語

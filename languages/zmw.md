@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إمبو
     auto: true
+  - translation_iso: ben
+    name: মবো
+    auto: true
   - translation_iso: deu
     name: Mbo (Demokratische Republik Kongo)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbo
   - translation_iso: hin
     name: म्बो (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbo
     auto: true
   - translation_iso: jpn
     name: ムボ語（コンゴ民主共和国）

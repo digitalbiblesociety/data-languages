@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بيسيسي
     auto: true
+  - translation_iso: ben
+    name: বেসিসি
+    auto: true
   - translation_iso: deu
     name: Besisi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: besisi
   - translation_iso: hin
     name: बेसिसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Besisi
     auto: true
   - translation_iso: jpn
     name: ベシシ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كارين ينباو
     auto: true
+  - translation_iso: ben
+    name: য়িনবাওয় কারেন
+    auto: true
   - translation_iso: deu
     name: Yinbaw-Karen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yinbaw
   - translation_iso: hin
     name: यिनबाव करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yinbaw Karen
     auto: true
   - translation_iso: jpn
     name: イインバウ・カレン語

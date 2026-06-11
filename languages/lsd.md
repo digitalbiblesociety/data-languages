@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لشنا ديني
     auto: true
+  - translation_iso: ben
+    name: লিশানা দেনি
+    auto: true
   - translation_iso: deu
     name: Lishana Deni
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lishana deni
   - translation_iso: hin
     name: लिशाना देनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lishana Deni
     auto: true
   - translation_iso: jpn
     name: ディダン語

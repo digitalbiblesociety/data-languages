@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سان ميجيل
     auto: true
+  - translation_iso: ben
+    name: সান মিগুএল এল গরানদে মিকসতেক
+    auto: true
   - translation_iso: deu
     name: San Miguel El Grande Mixtec
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de San Miguel El Grande
   - translation_iso: hin
     name: सान मिगेल एल ग्रांडे मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Miguel El Grande Mixtec
     auto: true
   - translation_iso: jpn
     name: サン・ミゲル・エル・グランデ・ミステク語

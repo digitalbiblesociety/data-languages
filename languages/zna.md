@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زان غولا
     auto: true
+  - translation_iso: ben
+    name: জান গুলা
+    auto: true
   - translation_iso: deu
     name: Zan Gula
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zan goula
   - translation_iso: hin
     name: ज़ान गुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zan Gula
     auto: true
   - translation_iso: jpn
     name: ザン・グラ語

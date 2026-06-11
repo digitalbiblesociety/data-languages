@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندينجيريكو
     auto: true
+  - translation_iso: ben
+    name: নদেঙেরেকো
+    auto: true
   - translation_iso: deu
     name: Ndengereko
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्देंगेरेको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndengereko
     auto: true
   - translation_iso: jpn
     name: ンデンゲレコ語

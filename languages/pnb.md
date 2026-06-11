@@ -20,12 +20,18 @@ wikidata_id: Q1389492
 translations:
   - translation_iso: ara
     name: بنجابية غربية
+  - translation_iso: ben
+    name: ওয়েসতেরন পানজাবি
+    auto: true
   - translation_iso: deu
     name: Westliches Panjabi
   - translation_iso: fra
     name: "pendjabi de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी पंजाबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Panjabi
     auto: true
   - translation_iso: jpn
     name: 西パンジャーブ語

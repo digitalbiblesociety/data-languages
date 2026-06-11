@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوا-نسي
     auto: true
+  - translation_iso: ben
+    name: কুয়া-নসি
+    auto: true
   - translation_iso: deu
     name: Kua-nsi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुआ-न्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kua-nsi
     auto: true
   - translation_iso: jpn
     name: クア・ンシ語

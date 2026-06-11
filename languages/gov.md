@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: غوو
     auto: true
+  - translation_iso: ben
+    name: গো
+    auto: true
   - translation_iso: deu
     name: Goo
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: goo
   - translation_iso: hin
     name: गू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Goo
     auto: true
   - translation_iso: jpn
     name: グー語

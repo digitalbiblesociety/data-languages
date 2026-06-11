@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيلا
     auto: true
+  - translation_iso: ben
+    name: পেলা
+    auto: true
   - translation_iso: deu
     name: Pela
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pela
   - translation_iso: hin
     name: पेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pela
     auto: true
   - translation_iso: jpn
     name: ペラ語

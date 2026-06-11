@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अमुर्दक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amurdak
+    auto: true
   - translation_iso: jpn
     name: アムルダック語
     auto: true

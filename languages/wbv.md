@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واجاري
     auto: true
+  - translation_iso: ben
+    name: ওয়াজার্রি
+    auto: true
   - translation_iso: deu
     name: Wajarri
   - translation_iso: fra
     name: wajarri
   - translation_iso: hin
     name: वजर्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wajarri
     auto: true
   - translation_iso: jpn
     name: ワジャリ語

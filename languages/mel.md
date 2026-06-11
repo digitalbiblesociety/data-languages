@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميلانو الوسطية
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল মেলানাউ
+    auto: true
   - translation_iso: deu
     name: Central Melanau
     auto: true

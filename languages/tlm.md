@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تولوماكو
     auto: true
+  - translation_iso: ben
+    name: তোলোমাকো
+    auto: true
   - translation_iso: deu
     name: Tolomako
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tolomako
   - translation_iso: hin
     name: तोलोमाको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tolomako
     auto: true
   - translation_iso: jpn
     name: トロマコ語

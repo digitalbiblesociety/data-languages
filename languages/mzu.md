@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيناباج
     auto: true
+  - translation_iso: ben
+    name: ইনাপাং
+    auto: true
   - translation_iso: deu
     name: Inapang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: inapang
   - translation_iso: hin
     name: इनापांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Inapang
     auto: true
   - translation_iso: jpn
     name: イナパン語

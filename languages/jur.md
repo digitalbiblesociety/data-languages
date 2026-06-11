@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جورونا
     auto: true
+  - translation_iso: ben
+    name: জুরুনা
+    auto: true
   - translation_iso: deu
     name: Jurúna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: juruna
   - translation_iso: hin
     name: जुरूना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jurúna
     auto: true
   - translation_iso: jpn
     name: ジュルナ語

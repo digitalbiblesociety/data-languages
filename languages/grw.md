@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوإدآ
     auto: true
+  - translation_iso: ben
+    name: গওয়েদা
+    auto: true
   - translation_iso: deu
     name: Gweda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gweda
   - translation_iso: hin
     name: ग्वेदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gweda
     auto: true
   - translation_iso: jpn
     name: グウェダ語

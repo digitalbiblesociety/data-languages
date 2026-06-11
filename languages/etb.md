@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإتيبي
     auto: true
+  - translation_iso: ben
+    name: এতেবি
+    auto: true
   - translation_iso: deu
     name: Etebi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: etebi
   - translation_iso: hin
     name: एतेबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Etebi
     auto: true
   - translation_iso: jpn
     name: エテビ語

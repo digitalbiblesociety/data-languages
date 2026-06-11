@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غوآ
     auto: true
+  - translation_iso: ben
+    name: গুয়া
+    auto: true
   - translation_iso: deu
     name: Gua
   - translation_iso: fra
     name: gua
   - translation_iso: hin
     name: गुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gua
     auto: true
   - translation_iso: jpn
     name: グア語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تسيلتال
     auto: true
+  - translation_iso: ben
+    name: তজেলতাল
+    auto: true
   - translation_iso: deu
     name: Tzeltal-Sprache
   - translation_iso: fra
     name: tzeltal
   - translation_iso: hin
     name: त्सेल्ताल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tzeltal
     auto: true
   - translation_iso: jpn
     name: ツェルタル語

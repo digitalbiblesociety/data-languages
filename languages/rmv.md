@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: روماڤا
     auto: true
+  - translation_iso: ben
+    name: রোমানোভা
+    auto: true
   - translation_iso: deu
     name: Romanova
   - translation_iso: fra
     name: romanova
   - translation_iso: hin
     name: रोमानोवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romanova
     auto: true
   - translation_iso: jpn
     name: ロマノヴァ

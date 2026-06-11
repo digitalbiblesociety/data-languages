@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ندوت
     auto: true
+  - translation_iso: ben
+    name: নদুত
+    auto: true
   - translation_iso: deu
     name: Ndut
   - translation_iso: fra

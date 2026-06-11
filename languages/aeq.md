@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aer
+    auto: true
   - translation_iso: jpn
     name: アエル語
     auto: true

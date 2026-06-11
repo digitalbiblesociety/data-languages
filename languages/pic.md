@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بينجي
     auto: true
+  - translation_iso: ben
+    name: পিনজি
+    auto: true
   - translation_iso: deu
     name: Pinji
   - translation_iso: fra
     name: apindji
   - translation_iso: hin
     name: पिंजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pinji
     auto: true
   - translation_iso: jpn
     name: ピンジ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك غويلا
     auto: true
+  - translation_iso: ben
+    name: গুইলা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Güilá)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Güilá
   - translation_iso: hin
     name: गुइला ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Güilá Zapotec
     auto: true
   - translation_iso: jpn
     name: グイラ・サポテク語

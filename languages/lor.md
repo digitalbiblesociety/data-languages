@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ن
     auto: true
+  - translation_iso: ben
+    name: তেন
+    auto: true
   - translation_iso: deu
     name: Téén
   - translation_iso: fra
     name: téén
   - translation_iso: hin
     name: तेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Téén
     auto: true
   - translation_iso: jpn
     name: テーン語

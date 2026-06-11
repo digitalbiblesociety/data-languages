@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسيتاك
     auto: true
+  - translation_iso: ben
+    name: কিতাক
+    auto: true
   - translation_iso: deu
     name: Citak
     auto: true

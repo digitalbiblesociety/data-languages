@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كامبيو
     auto: true
+  - translation_iso: ben
+    name: কামবিওয়া
+    auto: true
   - translation_iso: deu
     name: Kambiwá
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कांबिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kambiwá
     auto: true
   - translation_iso: jpn
     name: カンビワ語

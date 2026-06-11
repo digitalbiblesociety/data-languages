@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامونا
     auto: true
+  - translation_iso: ben
+    name: পামোনা
+    auto: true
   - translation_iso: deu
     name: Pamona
   - translation_iso: fra

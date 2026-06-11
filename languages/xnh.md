@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كوانهوا
     auto: true
+  - translation_iso: ben
+    name: কুয়ানহুয়া
+    auto: true
   - translation_iso: deu
     name: Kuanhua
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kuan
   - translation_iso: hin
     name: कुआनहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuanhua
     auto: true
   - translation_iso: jpn
     name: クアンファ語

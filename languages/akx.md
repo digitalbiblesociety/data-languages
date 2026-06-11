@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: आका-केडे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aka-Kede
+    auto: true
   - translation_iso: jpn
     name: アカケデ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خاراتشوو
     auto: true
+  - translation_iso: ben
+    name: কসারাকু
+    auto: true
   - translation_iso: deu
     name: Xârâcùù
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: xârâcùù
   - translation_iso: hin
     name: शाराचू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xârâcùù
     auto: true
   - translation_iso: jpn
     name: ハランチュー語

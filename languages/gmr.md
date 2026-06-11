@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ميرنينج\ر
     auto: true
+  - translation_iso: ben
+    name: মিরনিংর
+    auto: true
   - translation_iso: deu
     name: Mirning
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: mirning
   - translation_iso: hin
     name: मिर्निंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mirning\r
     auto: true
   - translation_iso: jpn
     name: ミルニング語

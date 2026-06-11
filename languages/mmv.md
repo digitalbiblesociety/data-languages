@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميريتي
     auto: true
+  - translation_iso: ben
+    name: মিরিতি
+    auto: true
   - translation_iso: deu
     name: Miriti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miriti
   - translation_iso: hin
     name: मिरिति
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miriti
     auto: true
   - translation_iso: jpn
     name: ミリティ語

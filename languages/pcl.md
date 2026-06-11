@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بارذي
     auto: true
+  - translation_iso: ben
+    name: পারধি
+    auto: true
   - translation_iso: deu
     name: Pardhi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pardhi
   - translation_iso: hin
     name: पारधी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pardhi
     auto: true
   - translation_iso: jpn
     name: パルディ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الفوا
     auto: true
+  - translation_iso: ben
+    name: ফোয়াউ
+    auto: true
   - translation_iso: deu
     name: Foau
     auto: true

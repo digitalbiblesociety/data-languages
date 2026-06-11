@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سيلاكايوابان
     auto: true
+  - translation_iso: ben
+    name: সিলাকায়োয়াপান মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Silacayoapan Mixtec
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque silacayoapan
   - translation_iso: hin
     name: सिलाकायोआपान मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Silacayoapan Mixtec
     auto: true
   - translation_iso: jpn
     name: シラカヨアパン・ミステク語

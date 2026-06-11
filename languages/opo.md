@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوباو
     auto: true
+  - translation_iso: ben
+    name: ওপাও
+    auto: true
   - translation_iso: deu
     name: Opao
   - translation_iso: fra
     name: Opao
   - translation_iso: hin
     name: ओपाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Opao
     auto: true
   - translation_iso: jpn
     name: オパオ語

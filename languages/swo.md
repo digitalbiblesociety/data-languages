@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شانيناوا
     auto: true
+  - translation_iso: ben
+    name: শানেনাওয়া
+    auto: true
   - translation_iso: deu
     name: Shanenawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shanenawa
   - translation_iso: hin
     name: शानेनावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shanenawa
     auto: true
   - translation_iso: jpn
     name: シャネナワ語

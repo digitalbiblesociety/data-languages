@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نييابارلي
     auto: true
+  - translation_iso: ben
+    name: নয়িয়াপারলি
+    auto: true
   - translation_iso: deu
     name: Nyiyaparli
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyiyaparli
   - translation_iso: hin
     name: न्यियापार्ली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyiyaparli
     auto: true
   - translation_iso: jpn
     name: ニイャパーリ語

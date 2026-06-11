@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: إيكوو
     auto: true
+  - translation_iso: ben
+    name: ইকওয়ো
+    auto: true
   - translation_iso: deu
     name: Ikwo
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इक्वो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikwo
     auto: true
   - translation_iso: jpn
     name: イクウォ語

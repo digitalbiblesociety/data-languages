@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يوو
     auto: true
+  - translation_iso: ben
+    name: লেওয়ো
+    auto: true
   - translation_iso: deu
     name: Lewo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lewo
   - translation_iso: hin
     name: लेवो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lewo
     auto: true
   - translation_iso: jpn
     name: レウォ語

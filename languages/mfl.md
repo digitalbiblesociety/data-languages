@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بوتاي
     auto: true
+  - translation_iso: ben
+    name: পুতাই
+    auto: true
   - translation_iso: deu
     name: Putai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: putai
   - translation_iso: hin
     name: पुताई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Putai
     auto: true
   - translation_iso: jpn
     name: プタイ語

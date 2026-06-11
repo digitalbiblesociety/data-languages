@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سانجو (جابون)
     auto: true
+  - translation_iso: ben
+    name: সাঙু
+    auto: true
   - translation_iso: deu
     name: Sangu
   - translation_iso: fra
     name: isangu
   - translation_iso: hin
     name: सांगु (गैबॉन)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sangu
     auto: true
   - translation_iso: jpn
     name: サング語

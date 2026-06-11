@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإينوبياتون الأسكا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ আলাসকান ইনুপিয়াতুন
+    auto: true
   - translation_iso: deu
     name: Nordalaska-Inupiatun
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उत्तरी अलास्का इनुपियातुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Alaskan Inupiatun
     auto: true
   - translation_iso: jpn
     name: 北アラスカ・イヌピアツン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوراك
     auto: true
+  - translation_iso: ben
+    name: বুরাক
+    auto: true
   - translation_iso: deu
     name: Burak
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुराक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burak
     auto: true
   - translation_iso: jpn
     name: ブラク語

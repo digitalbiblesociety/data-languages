@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: पंखु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pankhu
+    auto: true
   - translation_iso: jpn
     name: パンク語
     auto: true

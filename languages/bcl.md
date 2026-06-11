@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bikol"
 translations:
   - translation_iso: ara
     name: بيكول المركزية
+  - translation_iso: ben
+    name: কেনতরাল বিকোল
+    auto: true
   - translation_iso: deu
     name: Zentral-Bikol
   - translation_iso: fra

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك يوتيبيك
     auto: true
+  - translation_iso: ben
+    name: য়াউতেপেক জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Yautepec)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Yautepec
   - translation_iso: hin
     name: यौतेपेक सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yautepec Zapotec
     auto: true
   - translation_iso: jpn
     name: ヤウテペック・サポテク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توجوتيل
     auto: true
+  - translation_iso: ben
+    name: তুগুতিল
+    auto: true
   - translation_iso: deu
     name: Tugutil
     auto: true

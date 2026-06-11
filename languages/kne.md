@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانكانيي
     auto: true
+  - translation_iso: ben
+    name: কানকানাএয়
+    auto: true
   - translation_iso: deu
     name: Kankanaey
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kankanaey
   - translation_iso: hin
     name: कनकनाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kankanaey
     auto: true
   - translation_iso: jpn
     name: カンカナエ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هيبيتو
     auto: true
+  - translation_iso: ben
+    name: হিবিতো
+    auto: true
   - translation_iso: deu
     name: Hibito
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hibito
   - translation_iso: hin
     name: हिबितो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hibito
     auto: true
   - translation_iso: jpn
     name: ヒビト語

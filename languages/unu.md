@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أونوباهي
     auto: true
+  - translation_iso: ben
+    name: উনুবাহে
+    auto: true
   - translation_iso: deu
     name: Unubahe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: unubahe
   - translation_iso: hin
     name: उनुबाहे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Unubahe
     auto: true
   - translation_iso: jpn
     name: ウノバイ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لامي
     auto: true
+  - translation_iso: ben
+    name: লামে
+    auto: true
   - translation_iso: deu
     name: Lame
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lame
     auto: true
   - translation_iso: jpn
     name: ラメ語

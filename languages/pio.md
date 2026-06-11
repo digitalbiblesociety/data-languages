@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيابوكو
     auto: true
+  - translation_iso: ben
+    name: পিয়াপোকো
+    auto: true
   - translation_iso: deu
     name: Piapoco
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: piapoco
   - translation_iso: hin
     name: पियापोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Piapoco
     auto: true
   - translation_iso: jpn
     name: ピアポコ語

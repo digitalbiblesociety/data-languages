@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كيتوم
     auto: true
+  - translation_iso: ben
+    name: কেতুম
+    auto: true
   - translation_iso: deu
     name: Ketum
     auto: true

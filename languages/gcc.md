@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مالي
     auto: true
+  - translation_iso: ben
+    name: মালি
+    auto: true
   - translation_iso: deu
     name: Mali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mali
   - translation_iso: hin
     name: माली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mali
     auto: true
   - translation_iso: jpn
     name: マリ語

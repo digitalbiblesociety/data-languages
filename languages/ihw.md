@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيدهاوال
     auto: true
+  - translation_iso: ben
+    name: বিধাওয়াল
+    auto: true
   - translation_iso: deu
     name: Bidhawal
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बिधावल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bidhawal
     auto: true
   - translation_iso: jpn
     name: ビドハワル語

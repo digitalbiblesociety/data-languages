@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غونجدوك
     auto: true
+  - translation_iso: ben
+    name: গোংদুক
+    auto: true
   - translation_iso: deu
     name: Gongduk
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gongduk
   - translation_iso: hin
     name: गोंगडुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gongduk
     auto: true
   - translation_iso: jpn
     name: ゴングドゥク語

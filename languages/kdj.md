@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كارامويونغ
     auto: true
+  - translation_iso: ben
+    name: কারামোজোং
+    auto: true
   - translation_iso: deu
     name: Karamojong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karimojong
   - translation_iso: hin
     name: करामोजोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karamojong
     auto: true
   - translation_iso: jpn
     name: カリモジョン語

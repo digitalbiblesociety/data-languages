@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बार्डी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bardi
+    auto: true
   - translation_iso: jpn
     name: Bardi語
   - translation_iso: kor

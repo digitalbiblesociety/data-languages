@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوي
     auto: true
+  - translation_iso: ben
+    name: সুওয়
+    auto: true
   - translation_iso: deu
     name: Suoy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suoy
   - translation_iso: hin
     name: सुओय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suoy
     auto: true
   - translation_iso: jpn
     name: スオイ語

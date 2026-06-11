@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتي
     auto: true
+  - translation_iso: ben
+    name: কেতে
+    auto: true
   - translation_iso: deu
     name: Kete
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kete
   - translation_iso: hin
     name: केटे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kete
     auto: true
   - translation_iso: jpn
     name: ケテ語

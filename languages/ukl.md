@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأوكرانية
     auto: true
+  - translation_iso: ben
+    name: উকরাইনিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: ukrainische Gebärdensprache
   - translation_iso: fra
     name: langue des signes ukrainienne
   - translation_iso: hin
     name: यूक्रेनी सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukrainian Sign Language
     auto: true
   - translation_iso: jpn
     name: ウクライナ手話

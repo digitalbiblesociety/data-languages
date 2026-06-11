@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: ben
+    name: গিমি
+    auto: true
   - translation_iso: deu
     name: Gimi (Eastern Highlands)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गिमी (पूर्वी हाइलैंड्स)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gimi
     auto: true
   - translation_iso: jpn
     name: ギミ語

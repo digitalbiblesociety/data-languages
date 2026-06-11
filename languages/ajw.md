@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अजावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ajawa
+    auto: true
   - translation_iso: jpn
     name: アジャワ語
   - translation_iso: kor

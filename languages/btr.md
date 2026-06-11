@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बायतोरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baetora
+    auto: true
   - translation_iso: jpn
     name: バエトラ語
     auto: true

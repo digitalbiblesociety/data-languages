@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زانيزا
     auto: true
+  - translation_iso: ben
+    name: জানিজা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Zaniza)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Zaniza
   - translation_iso: hin
     name: ज़ानिज़ा सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zaniza Zapotec
     auto: true
   - translation_iso: jpn
     name: ザニザ・サポテク語

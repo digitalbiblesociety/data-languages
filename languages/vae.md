@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فالي
     auto: true
+  - translation_iso: ben
+    name: ভালে
+    auto: true
   - translation_iso: deu
     name: Vale
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vale
   - translation_iso: hin
     name: वाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vale
     auto: true
   - translation_iso: jpn
     name: ヴァレ語

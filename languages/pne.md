@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينان الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন পেনান
+    auto: true
   - translation_iso: deu
     name: Westliches Penan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "penan de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी पेनान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Penan
     auto: true
   - translation_iso: jpn
     name: 西ペナン語

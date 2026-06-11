@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيليفول
     auto: true
+  - translation_iso: ben
+    name: তেলেফোল
+    auto: true
   - translation_iso: deu
     name: Telefol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: telefol
   - translation_iso: hin
     name: तेलेफोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Telefol
     auto: true
   - translation_iso: jpn
     name: テレフォル語

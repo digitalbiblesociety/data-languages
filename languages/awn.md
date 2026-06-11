@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आउंगी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awngi
+    auto: true
   - translation_iso: jpn
     name: アウンギ語
     auto: true

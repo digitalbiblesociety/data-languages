@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيزاماني
     auto: true
+  - translation_iso: ben
+    name: কিজামানি
+    auto: true
   - translation_iso: deu
     name: Kizamani
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: किज़ामानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kizamani
     auto: true
   - translation_iso: jpn
     name: キザマニ語

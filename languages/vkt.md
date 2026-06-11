@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيناجارونج كوتاي ملايو
     auto: true
+  - translation_iso: ben
+    name: তেংগারোং কুতাই মালায়
+    auto: true
   - translation_iso: deu
     name: Tenggarong-Kutai-Malaiisch
     auto: true

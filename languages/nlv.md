@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناواتل أوريزابا
     auto: true
+  - translation_iso: ben
+    name: ওরিজাবা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Orizaba-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "nahuatl d'Orizaba"
   - translation_iso: hin
     name: ओरिज़ाबा नवात्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Orizaba Nahuatl
     auto: true
   - translation_iso: jpn
     name: オリザバ・ナワトル語

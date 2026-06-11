@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ticuna_language"
 translations:
   - translation_iso: ara
     name: لغة التيكونا
+  - translation_iso: ben
+    name: তিকুনা
+    auto: true
   - translation_iso: deu
     name: Ticuna
   - translation_iso: fra

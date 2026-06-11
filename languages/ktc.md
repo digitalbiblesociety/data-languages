@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خولوك
     auto: true
+  - translation_iso: ben
+    name: খোলোক
+    auto: true
   - translation_iso: deu
     name: Kholok
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: खोलोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kholok
     auto: true
   - translation_iso: jpn
     name: コロク語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hidatsa_language"
 translations:
   - translation_iso: ara
     name: هيداتسا
+  - translation_iso: ben
+    name: হিদাতসা
+    auto: true
   - translation_iso: deu
     name: Hidatsa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hidatsa
   - translation_iso: hin
     name: हिदात्सा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hidatsa
     auto: true
   - translation_iso: jpn
     name: ヒダッサ語

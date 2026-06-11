@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة تينهاريم
     auto: true
+  - translation_iso: ben
+    name: তেনহারিম
+    auto: true
   - translation_iso: deu
     name: Tenharim
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tenharim
   - translation_iso: hin
     name: तेनहारिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tenharim
     auto: true
   - translation_iso: jpn
     name: テンハリム語

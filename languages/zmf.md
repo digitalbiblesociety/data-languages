@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة مفينو
     auto: true
+  - translation_iso: ben
+    name: মফিনু
+    auto: true
   - translation_iso: deu
     name: Mfinu
   - translation_iso: fra
     name: mfinu
   - translation_iso: hin
     name: मफिनू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mfinu
     auto: true
   - translation_iso: jpn
     name: ムフィヌ語

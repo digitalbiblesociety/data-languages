@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نورث غيزيغآ
     auto: true
+  - translation_iso: ben
+    name: নোরথ গিজিগা
+    auto: true
   - translation_iso: deu
     name: Nördliches Giziga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guiziga du Nord
   - translation_iso: hin
     name: उत्तरी गिज़िगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Giziga
     auto: true
   - translation_iso: jpn
     name: ノース・ギジガ語

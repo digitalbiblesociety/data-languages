@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجاجونمايا
     auto: true
+  - translation_iso: ben
+    name: ঙাদজুনমায়া
+    auto: true
   - translation_iso: deu
     name: Ngadjunmaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngadjunmaya
   - translation_iso: hin
     name: नगाजुनमाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngadjunmaya
     auto: true
   - translation_iso: jpn
     name: ングアジュンマヤ語

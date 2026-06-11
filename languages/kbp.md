@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كابياه
     auto: true
+  - translation_iso: ben
+    name: কাবিয়ে
+    auto: true
   - translation_iso: deu
     name: Kabiyé
   - translation_iso: fra

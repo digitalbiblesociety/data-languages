@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shihhi_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة الشحية
+  - translation_iso: ben
+    name: শিহ্হি আরাবিক
+    auto: true
   - translation_iso: deu
     name: Shihhi Arabic
     auto: true

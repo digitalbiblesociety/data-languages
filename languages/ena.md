@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अपाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apali
+    auto: true
   - translation_iso: jpn
     name: アパリ語
     auto: true

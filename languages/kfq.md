@@ -30,6 +30,9 @@ translations:
     name: korku
   - translation_iso: hin
     name: कोरकू भाषा
+  - translation_iso: ind
+    name: Bahasa Korku
+    auto: true
   - translation_iso: jpn
     name: コルク語
   - translation_iso: kor

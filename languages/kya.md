@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوايا
     auto: true
+  - translation_iso: ben
+    name: কওয়ায়া
+    auto: true
   - translation_iso: deu
     name: Kwaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwaya
   - translation_iso: hin
     name: क्वाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwaya
     auto: true
   - translation_iso: jpn
     name: クワヤ語

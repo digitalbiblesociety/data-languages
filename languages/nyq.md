@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nayini_language"
 translations:
   - translation_iso: ara
     name: لغة ناييني
+  - translation_iso: ben
+    name: নায়িনি
+    auto: true
   - translation_iso: deu
     name: Nayini
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nayini
   - translation_iso: hin
     name: नायिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nayini
     auto: true
   - translation_iso: jpn
     name: ナーイーン語

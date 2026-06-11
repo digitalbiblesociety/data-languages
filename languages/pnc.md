@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانّي
     auto: true
+  - translation_iso: ben
+    name: পান্নেই
+    auto: true
   - translation_iso: deu
     name: Pannei
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पन्नेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pannei
     auto: true
   - translation_iso: jpn
     name: パンネイ語

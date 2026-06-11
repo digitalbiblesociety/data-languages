@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बो-रुकुल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bo-Rukul
+    auto: true
   - translation_iso: jpn
     name: ボ・ルクル語
     auto: true

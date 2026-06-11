@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السنتينيل
     auto: true
+  - translation_iso: ben
+    name: সেনতিনেল
+    auto: true
   - translation_iso: deu
     name: Sentinelesisch
   - translation_iso: fra

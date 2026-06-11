@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بآتبآتآر
     auto: true
+  - translation_iso: ben
+    name: পাতপাতার
+    auto: true
   - translation_iso: deu
     name: Patpatar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: patpatar
   - translation_iso: hin
     name: पतपतार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Patpatar
     auto: true
   - translation_iso: jpn
     name: パトパタル語

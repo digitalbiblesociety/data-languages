@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاتوا
     auto: true
+  - translation_iso: ben
+    name: কাতুয়া
+    auto: true
   - translation_iso: deu
     name: Katua
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कातुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katua
     auto: true
   - translation_iso: jpn
     name: カトゥア語

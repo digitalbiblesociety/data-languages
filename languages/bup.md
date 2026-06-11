@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوسوا
     auto: true
+  - translation_iso: ben
+    name: বুসোয়া
+    auto: true
   - translation_iso: deu
     name: Busoa
     auto: true

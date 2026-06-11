@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يامفو
     auto: true
+  - translation_iso: ben
+    name: য়ামফু
+    auto: true
   - translation_iso: deu
     name: Yamphu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yamphu
   - translation_iso: hin
     name: यांफू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yamphu
     auto: true
   - translation_iso: jpn
     name: ヤンプ語

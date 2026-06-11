@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الملاقي الكريول الملايوي
     auto: true
+  - translation_iso: ben
+    name: মালাক্কান করেওলে মালায়
+    auto: true
   - translation_iso: deu
     name: Malakkanisches Kreolmalaiisch
     auto: true

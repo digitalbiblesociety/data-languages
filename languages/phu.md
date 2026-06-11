@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوان
     auto: true
+  - translation_iso: ben
+    name: ফুয়ান
+    auto: true
   - translation_iso: deu
     name: Phuan
     auto: true

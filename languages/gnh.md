@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لإرإ
     auto: true
+  - translation_iso: ben
+    name: লেরে
+    auto: true
   - translation_iso: deu
     name: Lere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lere
   - translation_iso: hin
     name: लेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lere
     auto: true
   - translation_iso: jpn
     name: レレ語

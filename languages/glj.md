@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غولآ يرو
     auto: true
+  - translation_iso: ben
+    name: গুলা ইরো
+    auto: true
   - translation_iso: deu
     name: Gula Iro
   - translation_iso: fra
     name: Kulaal
   - translation_iso: hin
     name: गुला इरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gula Iro
     auto: true
   - translation_iso: jpn
     name: グラ・イロ語

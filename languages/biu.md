@@ -30,6 +30,9 @@ translations:
     name: biete
   - translation_iso: hin
     name: बियाट भाषा
+  - translation_iso: ind
+    name: Bahasa Biete
+    auto: true
   - translation_iso: jpn
     name: ビエテ語
     auto: true

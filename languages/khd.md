@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बादी कानुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bädi Kanum
+    auto: true
   - translation_iso: jpn
     name: バディ・カヌム語
     auto: true

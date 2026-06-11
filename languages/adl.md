@@ -30,6 +30,9 @@ translations:
     name: galo
   - translation_iso: hin
     name: गालो भाषा
+  - translation_iso: ind
+    name: Bahasa Galo
+    auto: true
   - translation_iso: jpn
     name: Galo語
   - translation_iso: kor

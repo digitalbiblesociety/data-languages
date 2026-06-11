@@ -22,6 +22,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kelantan%E2%80%93Pattani_Malay"
 translations:
   - translation_iso: ara
     name: بهاس جاوي
+  - translation_iso: ben
+    name: পাত্তানি মালায়
+    auto: true
   - translation_iso: deu
     name: Yawi
   - translation_iso: fra

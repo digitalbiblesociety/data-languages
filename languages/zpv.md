@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تشيتشيكابان
     auto: true
+  - translation_iso: ben
+    name: চিচিকাপান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Chichicapan)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Chichicapan
   - translation_iso: hin
     name: चिचिकापन सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chichicapan Zapotec
     auto: true
   - translation_iso: jpn
     name: チチカパン・サポテク語

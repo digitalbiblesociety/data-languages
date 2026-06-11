@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دغويدي
     auto: true
+  - translation_iso: ben
+    name: দঘওয়েদে
+    auto: true
   - translation_iso: deu
     name: Dghwede
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dghwede
   - translation_iso: hin
     name: द्घवेदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dghwede
     auto: true
   - translation_iso: jpn
     name: ドゥウェデ語

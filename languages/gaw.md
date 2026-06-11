@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: النوبونوب
     auto: true
+  - translation_iso: ben
+    name: নোবোনোব
+    auto: true
   - translation_iso: deu
     name: Nobonob
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nobonob
   - translation_iso: hin
     name: नोबोनोब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nobonob
     auto: true
   - translation_iso: jpn
     name: ノボノブ語

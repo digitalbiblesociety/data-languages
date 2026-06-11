@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناي
     auto: true
+  - translation_iso: ben
+    name: নায়ি
+    auto: true
   - translation_iso: deu
     name: Nayi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nayi
   - translation_iso: hin
     name: नायी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nayi
     auto: true
   - translation_iso: jpn
     name: ナイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتان
     auto: true
+  - translation_iso: ben
+    name: কিতান
+    auto: true
   - translation_iso: deu
     name: Kitanisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناتانزي
     auto: true
+  - translation_iso: ben
+    name: নাতানজি
+    auto: true
   - translation_iso: deu
     name: Natanzi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nata
   - translation_iso: hin
     name: नातांज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Natanzi
     auto: true
   - translation_iso: jpn
     name: ナタンズ語

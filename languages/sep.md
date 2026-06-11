@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيسيتي سينوفو
     auto: true
+  - translation_iso: ben
+    name: সিকিতে সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Sìcìté-Senufo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिसिते सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sìcìté Sénoufo
     auto: true
   - translation_iso: jpn
     name: シシレ語

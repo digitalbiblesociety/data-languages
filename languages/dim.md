@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديمي
     auto: true
+  - translation_iso: ben
+    name: দিমে
+    auto: true
   - translation_iso: deu
     name: Dime
   - translation_iso: fra
     name: dime
   - translation_iso: hin
     name: डाइम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dime
     auto: true
   - translation_iso: jpn
     name: ディメ語

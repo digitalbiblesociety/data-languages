@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوي بالاونج
     auto: true
+  - translation_iso: ben
+    name: শওয়ে পালাউং
+    auto: true
   - translation_iso: deu
     name: Shwe-Palaung
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: palaung shwe
   - translation_iso: hin
     name: श्वे पलाउंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shwe Palaung
     auto: true
   - translation_iso: jpn
     name: シュエパラウン語

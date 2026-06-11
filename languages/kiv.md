@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمبو
     auto: true
+  - translation_iso: ben
+    name: কিমবু
+    auto: true
   - translation_iso: deu
     name: Kimbu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kimbu
   - translation_iso: hin
     name: किम्बू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kimbu
     auto: true
   - translation_iso: jpn
     name: キンブ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوورو
     auto: true
+  - translation_iso: ben
+    name: গোওয়রো
+    auto: true
   - translation_iso: deu
     name: Gowro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gowro
   - translation_iso: hin
     name: गोवरो भाषा
+  - translation_iso: ind
+    name: Bahasa Gowro
+    auto: true
   - translation_iso: jpn
     name: ゴウロ語
   - translation_iso: kor

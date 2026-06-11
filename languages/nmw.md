@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيموا
     auto: true
+  - translation_iso: ben
+    name: নিমোয়া
+    auto: true
   - translation_iso: deu
     name: Nimoa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निमोआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nimoa
     auto: true
   - translation_iso: jpn
     name: ニモア語

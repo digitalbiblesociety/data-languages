@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سانتا إينيس أهواتيمبان
     auto: true
+  - translation_iso: ben
+    name: সানতা ইনেস আহুয়াতেমপান পোপোলোকা
+    auto: true
   - translation_iso: deu
     name: Santa Inés Ahuatempan-Popoloca
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: popoloca de Santa Inés Ahuatempan
   - translation_iso: hin
     name: सांता इनेस अहुआतेम्पान पोपोलोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa Inés Ahuatempan Popoloca
     auto: true
   - translation_iso: jpn
     name: サンタ・イネス・アワテンパン・ポポロカ語

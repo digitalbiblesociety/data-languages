@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غبيري-نيرآغو
     auto: true
+  - translation_iso: ben
+    name: গবিরি-নিরাগু
+    auto: true
   - translation_iso: deu
     name: Gbiri-Niragu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gbiri-niragu
   - translation_iso: hin
     name: ग्बिरी-निरागु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gbiri-Niragu
     auto: true
   - translation_iso: jpn
     name: ギビリ・ニラグ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आउवे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Auwe
+    auto: true
   - translation_iso: jpn
     name: シモッグ語
     auto: true

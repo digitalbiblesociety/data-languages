@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماغوري
     auto: true
+  - translation_iso: ben
+    name: মাগোরি
+    auto: true
   - translation_iso: deu
     name: Magori
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: magori
   - translation_iso: hin
     name: मागोरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Magori
     auto: true
   - translation_iso: jpn
     name: マゴリ語

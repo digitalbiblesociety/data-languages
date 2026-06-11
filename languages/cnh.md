@@ -29,6 +29,9 @@ translations:
     name: haka chin
   - translation_iso: hin
     name: हाखा चिन भाषा
+  - translation_iso: ind
+    name: Bahasa Hakha Chin
+    auto: true
   - translation_iso: jpn
     name: ハカ語
   - translation_iso: kor

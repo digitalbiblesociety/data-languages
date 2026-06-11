@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رويلي
     auto: true
+  - translation_iso: ben
+    name: রুলি
+    auto: true
   - translation_iso: deu
     name: Ruuli
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ruuli
   - translation_iso: hin
     name: रूली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ruuli
     auto: true
   - translation_iso: jpn
     name: ルーリ語

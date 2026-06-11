@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: غارينغبال
     auto: true
+  - translation_iso: ben
+    name: গারিংবাল
+    auto: true
   - translation_iso: deu
     name: Garingbal
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: garingbal
   - translation_iso: hin
     name: गारिंगबल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garingbal
     auto: true
   - translation_iso: jpn
     name: ガリングバル語

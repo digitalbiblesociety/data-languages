@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बेते
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bete
+    auto: true
   - translation_iso: jpn
     name: ベテ語
   - translation_iso: kor

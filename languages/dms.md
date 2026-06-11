@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دامبيلاس
     auto: true
+  - translation_iso: ben
+    name: দামপেলাস
+    auto: true
   - translation_iso: deu
     name: Dampelas
     auto: true

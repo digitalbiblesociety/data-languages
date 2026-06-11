@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كايان نهر كايان
     auto: true
+  - translation_iso: ben
+    name: কায়ান রিভের কায়ান
+    auto: true
   - translation_iso: deu
     name: Kayan River Kayan
     auto: true

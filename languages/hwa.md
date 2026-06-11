@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وان
     auto: true
+  - translation_iso: ben
+    name: ওয়ানে
+    auto: true
   - translation_iso: deu
     name: Wané
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue wané
   - translation_iso: hin
     name: वाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wané
     auto: true
   - translation_iso: jpn
     name: ワネ語

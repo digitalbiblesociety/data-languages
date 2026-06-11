@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وآسإمبو
     auto: true
+  - translation_iso: ben
+    name: ওয়াসেমবো
+    auto: true
   - translation_iso: deu
     name: Wasembo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वासेम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wasembo
     auto: true
   - translation_iso: jpn
     name: ワセンボ語

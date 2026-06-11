@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ويرغايا
     auto: true
+  - translation_iso: ben
+    name: ওয়েরগাইয়া
+    auto: true
   - translation_iso: deu
     name: Wergaia
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: wergaia
   - translation_iso: hin
     name: वर्गाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wergaia
     auto: true
   - translation_iso: jpn
     name: ウェルガイア語

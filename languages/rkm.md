@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ماركا
     auto: true
+  - translation_iso: ben
+    name: মারকা
+    auto: true
   - translation_iso: deu
     name: Marka
   - translation_iso: fra
     name: marka
   - translation_iso: hin
     name: मार्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marka
     auto: true
   - translation_iso: jpn
     name: マルカ語

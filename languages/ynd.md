@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياندروواندا
     auto: true
+  - translation_iso: ben
+    name: য়ানদরুওয়ানধা
+    auto: true
   - translation_iso: deu
     name: Yandruwandha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yandruwandha
   - translation_iso: hin
     name: यांद्रुवांधा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yandruwandha
     auto: true
   - translation_iso: jpn
     name: ヤンドルワンダ語

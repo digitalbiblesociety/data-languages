@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: النيكسيك
     auto: true
+  - translation_iso: ben
+    name: নিকসেক
+    auto: true
   - translation_iso: deu
     name: Niksek
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: niksek
   - translation_iso: hin
     name: निकसेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Niksek
     auto: true
   - translation_iso: jpn
     name: ニクセク語

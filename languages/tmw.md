@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تيموان
     auto: true
+  - translation_iso: ben
+    name: তেমুয়ান
+    auto: true
   - translation_iso: deu
     name: Temuan
     auto: true

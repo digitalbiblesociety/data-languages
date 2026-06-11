@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: التايلاندية الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন থাই
+    auto: true
   - translation_iso: deu
     name: Lanna
   - translation_iso: fra

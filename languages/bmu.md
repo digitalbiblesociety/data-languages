@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سومبا سيواري
     auto: true
+  - translation_iso: ben
+    name: সোমবা-সিয়াওয়ারি
+    auto: true
   - translation_iso: deu
     name: Somba-Siawari
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोम्बा-सियावारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Somba-Siawari
     auto: true
   - translation_iso: jpn
     name: ソンバ・シアワリ語

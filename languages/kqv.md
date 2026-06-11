@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة أوكولود
     auto: true
+  - translation_iso: ben
+    name: ওকোলোদ
+    auto: true
   - translation_iso: deu
     name: Okolod
     auto: true

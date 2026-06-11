@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيتيري
     auto: true
+  - translation_iso: ben
+    name: ইতেরি
+    auto: true
   - translation_iso: deu
     name: Iteri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iteri
   - translation_iso: hin
     name: इतेरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iteri
     auto: true
   - translation_iso: jpn
     name: イテリ語

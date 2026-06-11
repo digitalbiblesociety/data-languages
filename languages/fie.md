@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفيير
     auto: true
+  - translation_iso: ben
+    name: ফয়ের
+    auto: true
   - translation_iso: deu
     name: Fyer
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fyer
   - translation_iso: hin
     name: फायर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fyer
     auto: true
   - translation_iso: jpn
     name: フィエル語

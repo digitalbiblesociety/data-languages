@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ريجانج كايان
     auto: true
+  - translation_iso: ben
+    name: রেজাং কায়ান
+    auto: true
   - translation_iso: deu
     name: Rejang-Kayan
     auto: true

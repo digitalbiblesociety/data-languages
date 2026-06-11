@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالام
     auto: true
+  - translation_iso: ben
+    name: কালাম
+    auto: true
   - translation_iso: deu
     name: Kalam
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कलम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalam
     auto: true
   - translation_iso: jpn
     name: カラム語

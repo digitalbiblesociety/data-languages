@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هدي
     auto: true
+  - translation_iso: ben
+    name: হদি
+    auto: true
   - translation_iso: deu
     name: Hdi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hidé
   - translation_iso: hin
     name: ह्दी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hdi
     auto: true
   - translation_iso: jpn
     name: フディ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كابولا
     auto: true
+  - translation_iso: ben
+    name: কাবোলা
+    auto: true
   - translation_iso: deu
     name: Kabola
   - translation_iso: fra

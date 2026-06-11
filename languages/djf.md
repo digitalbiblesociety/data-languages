@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دجانجون
     auto: true
+  - translation_iso: ben
+    name: দজাঙুন
+    auto: true
   - translation_iso: deu
     name: Djangun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: djangun
   - translation_iso: hin
     name: जंगुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djangun
     auto: true
   - translation_iso: jpn
     name: ジャングン語

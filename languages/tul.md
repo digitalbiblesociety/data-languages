@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توللا
     auto: true
+  - translation_iso: ben
+    name: তুলা
+    auto: true
   - translation_iso: deu
     name: Tula
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tula
   - translation_iso: hin
     name: तुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tula
     auto: true
   - translation_iso: jpn
     name: コトゥレ語

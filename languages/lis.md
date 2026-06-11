@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة يسو
     auto: true
+  - translation_iso: ben
+    name: লিসু
+    auto: true
   - translation_iso: deu
     name: Lisu
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: lissou
   - translation_iso: hin
     name: लिसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lisu
     auto: true
   - translation_iso: jpn
     name: リス語

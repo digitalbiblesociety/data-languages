@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نومي
     auto: true
+  - translation_iso: ben
+    name: নুমে
+    auto: true
   - translation_iso: deu
     name: Numèè
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nââ numèè
   - translation_iso: hin
     name: नुमेए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Numèè
     auto: true
   - translation_iso: jpn
     name: クニェ語

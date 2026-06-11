@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توكومانفيد
     auto: true
+  - translation_iso: ben
+    name: তুকুমানফেদ
+    auto: true
   - translation_iso: deu
     name: Tukumanféd
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kagwahiva
   - translation_iso: hin
     name: तुकुमानफेद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tukumanféd
     auto: true
   - translation_iso: jpn
     name: カワイブ語

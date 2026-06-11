@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ياتي
     auto: true
+  - translation_iso: ben
+    name: য়াতে জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Yatee)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Yateé
   - translation_iso: hin
     name: यातेय ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yatee Zapotec
     auto: true
   - translation_iso: jpn
     name: ヤテ・サポテク語

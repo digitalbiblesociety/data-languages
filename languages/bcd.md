@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابار الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ বাবার
+    auto: true
   - translation_iso: deu
     name: Nord-Babar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उत्तरी बाबार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Babar
     auto: true
   - translation_iso: jpn
     name: 北ババル語

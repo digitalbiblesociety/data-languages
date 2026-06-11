@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chadian_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة تشادية
+  - translation_iso: ben
+    name: চাদিয়ান আরাবিক
+    auto: true
   - translation_iso: deu
     name: Tschadisch-Arabisch
   - translation_iso: fra

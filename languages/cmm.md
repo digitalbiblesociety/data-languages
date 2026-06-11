@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الميتشيغاميا
     auto: true
+  - translation_iso: ben
+    name: মিচিগামেয়া
+    auto: true
   - translation_iso: deu
     name: Michigamea
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: mitchigamea
   - translation_iso: hin
     name: मिचिगामिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Michigamea
     auto: true
   - translation_iso: jpn
     name: ミチガメア語

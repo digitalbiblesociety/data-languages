@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماهيكان
     auto: true
+  - translation_iso: ben
+    name: মাহিকান
+    auto: true
   - translation_iso: deu
     name: Mahican
     auto: true

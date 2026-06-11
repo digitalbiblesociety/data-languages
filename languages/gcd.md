@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجانجاليدا
     auto: true
+  - translation_iso: ben
+    name: গাংগালিদা
+    auto: true
   - translation_iso: deu
     name: Ganggalida
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ganggalida
   - translation_iso: hin
     name: गंगालिडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ganggalida
     auto: true
   - translation_iso: jpn
     name: ガンガリダ語

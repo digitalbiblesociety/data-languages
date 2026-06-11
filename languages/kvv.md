@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كولا
     auto: true
+  - translation_iso: ben
+    name: কোলা
+    auto: true
   - translation_iso: deu
     name: Kola
   - translation_iso: fra

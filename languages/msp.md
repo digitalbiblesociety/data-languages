@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريتسايا
     auto: true
+  - translation_iso: ben
+    name: মারিতসাউয়া
+    auto: true
   - translation_iso: deu
     name: Maritsauá
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मारित्साउआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maritsauá
     auto: true
   - translation_iso: jpn
     name: マリツァウア語

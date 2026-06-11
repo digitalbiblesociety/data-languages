@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مومبو دوجون
     auto: true
+  - translation_iso: ben
+    name: মোমবো দোগোন
+    auto: true
   - translation_iso: deu
     name: Mombo-Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mombo
   - translation_iso: hin
     name: मोम्बो दोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mombo Dogon
     auto: true
   - translation_iso: jpn
     name: モンボ・ドゴン語

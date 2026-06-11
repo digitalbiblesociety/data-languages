@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مسير
     auto: true
+  - translation_iso: ben
+    name: মসের
+    auto: true
   - translation_iso: deu
     name: Mser
   - translation_iso: fra
     name: mser
   - translation_iso: hin
     name: म्सेर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mser
     auto: true
   - translation_iso: jpn
     name: ムセル語

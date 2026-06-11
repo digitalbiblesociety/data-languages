@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جيرو
     auto: true
+  - translation_iso: ben
+    name: জিরু
+    auto: true
   - translation_iso: deu
     name: Jiru
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: जिरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jiru
     auto: true
   - translation_iso: jpn
     name: ジル語

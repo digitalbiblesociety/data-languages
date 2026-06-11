@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجوريمي
     auto: true
+  - translation_iso: ben
+    name: ঙুরিমি
+    auto: true
   - translation_iso: deu
     name: Ngurimi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्गुरिमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngurimi
     auto: true
   - translation_iso: jpn
     name: ングリミ語

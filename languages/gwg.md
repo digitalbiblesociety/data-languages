@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موو
     auto: true
+  - translation_iso: ben
+    name: মো
+    auto: true
   - translation_iso: deu
     name: Moo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moo
   - translation_iso: hin
     name: मू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moo
     auto: true
   - translation_iso: jpn
     name: モー語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هإوآ
     auto: true
+  - translation_iso: ben
+    name: হেওয়া
+    auto: true
   - translation_iso: deu
     name: Hewa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hewa
   - translation_iso: hin
     name: हेवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hewa
     auto: true
   - translation_iso: jpn
     name: ヘワ語

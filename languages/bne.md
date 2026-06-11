@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بينتاونا
     auto: true
+  - translation_iso: ben
+    name: বিনতাউনা
+    auto: true
   - translation_iso: deu
     name: Bintauna
     auto: true

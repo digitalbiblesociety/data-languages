@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيانجسي
     auto: true
+  - translation_iso: ben
+    name: বয়াংসি
+    auto: true
   - translation_iso: deu
     name: Byangsi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: byangsi
   - translation_iso: hin
     name: ब्यांग्सी भाषा
+  - translation_iso: ind
+    name: Bahasa Byangsi
+    auto: true
   - translation_iso: jpn
     name: ビャンシ語
     auto: true

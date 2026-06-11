@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماكو
     auto: true
+  - translation_iso: ben
+    name: মাকো
+    auto: true
   - translation_iso: deu
     name: Maco
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maco
   - translation_iso: hin
     name: माको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maco
     auto: true
   - translation_iso: jpn
     name: マコ語

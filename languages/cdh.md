@@ -30,6 +30,9 @@ translations:
     name: chambeali
   - translation_iso: hin
     name: चम्बयाली
+  - translation_iso: ind
+    name: Bahasa Chambeali
+    auto: true
   - translation_iso: jpn
     name: チャンベアリ語
     auto: true

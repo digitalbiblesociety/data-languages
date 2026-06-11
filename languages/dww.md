@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داواوا
     auto: true
+  - translation_iso: ben
+    name: দাওয়াওয়া
+    auto: true
   - translation_iso: deu
     name: Dawawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dawawa
   - translation_iso: hin
     name: दावावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dawawa
     auto: true
   - translation_iso: jpn
     name: ダワワ語

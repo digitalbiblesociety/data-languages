@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: ओटावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ottawa
+    auto: true
   - translation_iso: jpn
     name: オタワ語
   - translation_iso: kor

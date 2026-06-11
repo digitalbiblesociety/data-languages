@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توراو
     auto: true
+  - translation_iso: ben
+    name: তোরাউ
+    auto: true
   - translation_iso: deu
     name: Torau
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: torau
   - translation_iso: hin
     name: तोराउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Torau
     auto: true
   - translation_iso: jpn
     name: トラウ語

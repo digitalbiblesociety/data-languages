@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بو
     auto: true
+  - translation_iso: ben
+    name: বো
+    auto: true
   - translation_iso: deu
     name: Bo (Papua New Guinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bo
   - translation_iso: hin
     name: बो (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bo
     auto: true
   - translation_iso: jpn
     name: ボ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الشيندا-ريغي-تيايال
     auto: true
+  - translation_iso: ben
+    name: কিনদা-রেগি-তিয়াল
+    auto: true
   - translation_iso: deu
     name: Kamuku
   - translation_iso: fra
     name: langue kamuku
   - translation_iso: hin
     name: सिन्दा-रेगी-तियाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cinda-Regi-Tiyal
     auto: true
   - translation_iso: jpn
     name: チンダ・レギ・ティヤル語

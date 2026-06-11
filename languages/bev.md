@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: दलोआ बेते
     auto: true
+  - translation_iso: ind
+    name: Bahasa Daloa Bété
+    auto: true
   - translation_iso: jpn
     name: ダロア・ベテ語
     auto: true

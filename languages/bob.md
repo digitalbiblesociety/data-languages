@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अवीर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aweer
+    auto: true
   - translation_iso: jpn
     name: アウェール語
     auto: true

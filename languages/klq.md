@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة روموو
     auto: true
+  - translation_iso: ben
+    name: রুমু
+    auto: true
   - translation_iso: deu
     name: Rumu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रुमू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rumu
     auto: true
   - translation_iso: jpn
     name: ルムー語

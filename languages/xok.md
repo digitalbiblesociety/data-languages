@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شوكلينج
     auto: true
+  - translation_iso: ben
+    name: কসোকলেং
+    auto: true
   - translation_iso: deu
     name: Xokleng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: xoclengue
   - translation_iso: hin
     name: शोक्लेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xokleng
     auto: true
   - translation_iso: jpn
     name: ショクレング語

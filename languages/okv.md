@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكايفا
     auto: true
+  - translation_iso: ben
+    name: ওরোকাইভা
+    auto: true
   - translation_iso: deu
     name: Orokaiva
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: orokaiva
   - translation_iso: hin
     name: ओरोकैवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Orokaiva
     auto: true
   - translation_iso: jpn
     name: オロカイヴァ語

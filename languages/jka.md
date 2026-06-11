@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كايرا
     auto: true
+  - translation_iso: ben
+    name: কাএরা
+    auto: true
   - translation_iso: deu
     name: Kaera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaera
   - translation_iso: hin
     name: कैरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaera
     auto: true
   - translation_iso: jpn
     name: カエラ語

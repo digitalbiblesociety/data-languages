@@ -30,6 +30,9 @@ translations:
     name: naga zeme
   - translation_iso: hin
     name: ज़ेमे भाषा
+  - translation_iso: ind
+    name: Bahasa Zeme Naga
+    auto: true
   - translation_iso: jpn
     name: ゼメ・ナガ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويكمونغكان
     auto: true
+  - translation_iso: ben
+    name: ওয়িক-মুংকান
+    auto: true
   - translation_iso: deu
     name: Wik-Mungkan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wik-mungkan
   - translation_iso: hin
     name: विक-मुंगकन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wik-Mungkan
     auto: true
   - translation_iso: jpn
     name: ウィク・ムンカン語

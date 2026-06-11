@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيرانتخي
     auto: true
+  - translation_iso: ben
+    name: ইরানতকসে
+    auto: true
   - translation_iso: deu
     name: Irántxe
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: irántxe
   - translation_iso: hin
     name: इरांचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Irántxe
     auto: true
   - translation_iso: jpn
     name: イランシェ語

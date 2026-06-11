@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دار داجو داجو
     auto: true
+  - translation_iso: ben
+    name: দার দাজু দাজু
+    auto: true
   - translation_iso: deu
     name: Dar Daju Daju
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dadjo
   - translation_iso: hin
     name: दार दाजू दाजू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dar Daju Daju
     auto: true
   - translation_iso: jpn
     name: ダル・ダジュ語

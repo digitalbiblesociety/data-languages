@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيكتية
     auto: true
+  - translation_iso: ben
+    name: পিকতিশ
+    auto: true
   - translation_iso: deu
     name: Piktisch
   - translation_iso: fra

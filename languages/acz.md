@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: एचेरोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Acheron
+    auto: true
   - translation_iso: jpn
     name: アケロン語
     auto: true

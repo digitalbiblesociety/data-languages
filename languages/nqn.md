@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نين
     auto: true
+  - translation_iso: ben
+    name: নেন
+    auto: true
   - translation_iso: deu
     name: Nen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nen
   - translation_iso: hin
     name: नेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nen
     auto: true
   - translation_iso: jpn
     name: ネン語

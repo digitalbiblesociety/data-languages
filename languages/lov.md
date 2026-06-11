@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة وپي
     auto: true
+  - translation_iso: ben
+    name: লোপি
+    auto: true
   - translation_iso: deu
     name: Lopi
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: lopi
   - translation_iso: hin
     name: लोपी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lopi
     auto: true
   - translation_iso: jpn
     name: ロピ語

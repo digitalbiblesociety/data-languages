@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوللاتان
     auto: true
+  - translation_iso: ben
+    name: উল্লাতান
+    auto: true
   - translation_iso: deu
     name: Ullatan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उल्लातन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ullatan
     auto: true
   - translation_iso: jpn
     name: コチュ・ヴェラン語

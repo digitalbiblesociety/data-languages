@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماروبو
     auto: true
+  - translation_iso: ben
+    name: মারুবো
+    auto: true
   - translation_iso: deu
     name: Marúbo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marubo
   - translation_iso: hin
     name: मारूबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marúbo
     auto: true
   - translation_iso: jpn
     name: マルーボ語

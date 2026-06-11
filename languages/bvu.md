@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوكيت مالاي
     auto: true
+  - translation_iso: ben
+    name: বুকিত মালায়
+    auto: true
   - translation_iso: deu
     name: Bukit Malay
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ورو
     auto: true
+  - translation_iso: ben
+    name: য়ুরু
+    auto: true
   - translation_iso: deu
     name: Yuru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yuru
   - translation_iso: hin
     name: युरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yuru
     auto: true
   - translation_iso: jpn
     name: ユル語

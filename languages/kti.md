@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موي الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ মুয়ু
+    auto: true
   - translation_iso: deu
     name: Nord-Muyu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muyu du Nord
   - translation_iso: hin
     name: उत्तरी मुयु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Muyu
     auto: true
   - translation_iso: jpn
     name: 北ムユ語

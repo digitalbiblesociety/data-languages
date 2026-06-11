@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبيرا
     auto: true
+  - translation_iso: ben
+    name: তিপ্পেরা
+    auto: true
   - translation_iso: deu
     name: Tippera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tippera
   - translation_iso: hin
     name: टिप्पेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tippera
     auto: true
   - translation_iso: jpn
     name: トリプラ語

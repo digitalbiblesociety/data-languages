@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيسابي
     auto: true
+  - translation_iso: ben
+    name: ইসাবি
+    auto: true
   - translation_iso: deu
     name: Isabi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इसाबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isabi
     auto: true
   - translation_iso: jpn
     name: イサビ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बनारो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banaro
+    auto: true
   - translation_iso: jpn
     name: バナロ語
     auto: true

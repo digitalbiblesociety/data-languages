@@ -16,12 +16,18 @@ translations:
   - translation_iso: ara
     name: لغة أومبامبا
     auto: true
+  - translation_iso: ben
+    name: ওমবামবা
+    auto: true
   - translation_iso: deu
     name: Ombamba
   - translation_iso: fra
     name: lembaama
   - translation_iso: hin
     name: ओम्बाम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ombamba
     auto: true
   - translation_iso: jpn
     name: ンバンバ語

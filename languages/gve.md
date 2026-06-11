@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دووإت
     auto: true
+  - translation_iso: ben
+    name: দুওয়েত
+    auto: true
   - translation_iso: deu
     name: Duwet
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: duwet
   - translation_iso: hin
     name: डुवेट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duwet
     auto: true
   - translation_iso: jpn
     name: ドゥウェット語

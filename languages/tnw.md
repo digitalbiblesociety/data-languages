@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونساوانج
     auto: true
+  - translation_iso: ben
+    name: তোনসাওয়াং
+    auto: true
   - translation_iso: deu
     name: Tonsawang
   - translation_iso: fra

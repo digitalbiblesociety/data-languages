@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: تافي
     auto: true
+  - translation_iso: ben
+    name: তাফি
+    auto: true
   - translation_iso: deu
     name: Tafi
   - translation_iso: fra
     name: tafi
   - translation_iso: hin
     name: ताफी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tafi
     auto: true
   - translation_iso: jpn
     name: タフィ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الساكسونية العليا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের সাকসোন
+    auto: true
   - translation_iso: deu
     name: Sächsisch
   - translation_iso: fra
     name: haut-saxon
   - translation_iso: hin
     name: ऊपरी सैक्सन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Saxon
     auto: true
   - translation_iso: jpn
     name: 上部ザクセン語

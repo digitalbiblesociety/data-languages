@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة منغولي الطرفية
     auto: true
+  - translation_iso: ben
+    name: পেরিফেরাল মোঙোলিয়ান
+    auto: true
   - translation_iso: deu
     name: Peripheres Mongolisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: mongol de Chine
   - translation_iso: hin
     name: परिधीय मंगोलियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Peripheral Mongolian
     auto: true
   - translation_iso: jpn
     name: 南部モンゴル語群

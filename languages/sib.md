@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيبوب
     auto: true
+  - translation_iso: ben
+    name: সেবোপ
+    auto: true
   - translation_iso: deu
     name: Sebop
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेबोप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sebop
     auto: true
   - translation_iso: jpn
     name: セボップ語

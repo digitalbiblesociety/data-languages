@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوروايا
     auto: true
+  - translation_iso: ben
+    name: কুরুয়ায়া
+    auto: true
   - translation_iso: deu
     name: Kuruáya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuruáya
   - translation_iso: hin
     name: कुरुआया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuruáya
     auto: true
   - translation_iso: jpn
     name: クルアヤ語

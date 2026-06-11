@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هاني
     auto: true
+  - translation_iso: ben
+    name: হানি
+    auto: true
   - translation_iso: deu
     name: Hani
     auto: true

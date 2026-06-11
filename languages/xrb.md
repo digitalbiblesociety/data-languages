@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كارابورو الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন কারাবোরো
+    auto: true
   - translation_iso: deu
     name: Kar
   - translation_iso: fra
     name: kar
   - translation_iso: hin
     name: पूर्वी काराबोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Karaboro
     auto: true
   - translation_iso: jpn
     name: 東カラボロ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماما
     auto: true
+  - translation_iso: ben
+    name: মামা
+    auto: true
   - translation_iso: deu
     name: Mamaa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mamaa
   - translation_iso: hin
     name: मामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mamaa
     auto: true
   - translation_iso: jpn
     name: ママア語

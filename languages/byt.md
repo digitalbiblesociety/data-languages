@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बेर्ती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Berti
+    auto: true
   - translation_iso: jpn
     name: ベルティ語
   - translation_iso: kor

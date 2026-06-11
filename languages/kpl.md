@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كبالا
     auto: true
+  - translation_iso: ben
+    name: কপালা
+    auto: true
   - translation_iso: deu
     name: Kpala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kpala
   - translation_iso: hin
     name: क्पाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpala
     auto: true
   - translation_iso: jpn
     name: クパラ語

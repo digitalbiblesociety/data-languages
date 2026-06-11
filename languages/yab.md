@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: يوهوب
     auto: true
+  - translation_iso: ben
+    name: য়ুহুপ
+    auto: true
   - translation_iso: deu
     name: Yuhup
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yuhup
   - translation_iso: hin
     name: युहुप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yuhup
     auto: true
   - translation_iso: jpn
     name: ユフップ語

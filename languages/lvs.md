@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة تاندارد اتفيان
     auto: true
+  - translation_iso: ben
+    name: সতানদারদ লাতভিয়ান
+    auto: true
   - translation_iso: deu
     name: Standardlettisch
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मानक लातवियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Standard Latvian
     auto: true
   - translation_iso: jpn
     name: 標準ラトビア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مالجانا
     auto: true
+  - translation_iso: ben
+    name: মালগানা
+    auto: true
   - translation_iso: deu
     name: Malgana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malgana
   - translation_iso: hin
     name: मलगाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malgana
     auto: true
   - translation_iso: jpn
     name: マルガナ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تايرما
     auto: true
+  - translation_iso: ben
+    name: তাইরুমা
+    auto: true
   - translation_iso: deu
     name: Tairuma
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तैरुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tairuma
     auto: true
   - translation_iso: jpn
     name: タイルマ語

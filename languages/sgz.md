@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: سورسورونجا
     auto: true
+  - translation_iso: ben
+    name: সুরসুরুঙা
+    auto: true
   - translation_iso: deu
     name: Sursurunga
   - translation_iso: fra
     name: sursurunga
   - translation_iso: hin
     name: सुरसुरुंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sursurunga
     auto: true
   - translation_iso: jpn
     name: スルスルンガ語

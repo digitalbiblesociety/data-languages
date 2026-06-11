@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: واديكالي
     auto: true
+  - translation_iso: ben
+    name: ওয়াদিকালি
+    auto: true
   - translation_iso: deu
     name: Wadikali
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: wadikali
   - translation_iso: hin
     name: वडिकली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wadikali
     auto: true
   - translation_iso: jpn
     name: ワディカリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا أولوتا
     auto: true
+  - translation_iso: ben
+    name: ওলুতা পোপোলুকা
+    auto: true
   - translation_iso: deu
     name: Oluta-Popoluca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "popoluca d'Oluta"
   - translation_iso: hin
     name: ओलुता पोपोलुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oluta Popoluca
     auto: true
   - translation_iso: jpn
     name: オルタポプロッカ語

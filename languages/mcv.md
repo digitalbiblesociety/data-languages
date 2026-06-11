@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميناني باي
     auto: true
+  - translation_iso: ben
+    name: মিনানিবাই
+    auto: true
   - translation_iso: deu
     name: Minanibai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिनानिबाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minanibai
     auto: true
   - translation_iso: jpn
     name: ミナニバイ語

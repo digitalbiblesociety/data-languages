@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة التايلاندية الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন থাই
+    auto: true
   - translation_iso: deu
     name: Südthailändisch
   - translation_iso: fra

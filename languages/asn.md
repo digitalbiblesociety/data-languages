@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسورينيه شينجو
     auto: true
+  - translation_iso: ben
+    name: কসিঙু আসুরিনি
+    auto: true
   - translation_iso: deu
     name: Xingú-Asuriní
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: asurini du Xingu
   - translation_iso: hin
     name: शिंगू असुरिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xingú Asuriní
     auto: true
   - translation_iso: jpn
     name: シング・アスリニ語

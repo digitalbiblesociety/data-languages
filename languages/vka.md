@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاريارا
     auto: true
+  - translation_iso: ben
+    name: কারিয়ার্রা
+    auto: true
   - translation_iso: deu
     name: Kariyarra
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kariyarra
   - translation_iso: hin
     name: करियारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kariyarra
     auto: true
   - translation_iso: jpn
     name: カリャーラ語

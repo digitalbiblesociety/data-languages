@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ديواس راي
     auto: true
+  - translation_iso: ben
+    name: দেওয়াস রাই
+    auto: true
   - translation_iso: deu
     name: Dewas Rai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dewas rai
   - translation_iso: hin
     name: देवास राय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dewas Rai
     auto: true
   - translation_iso: jpn
     name: デワス・ライ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لاو ناغا
     auto: true
+  - translation_iso: ben
+    name: লাও নাগা
+    auto: true
   - translation_iso: deu
     name: Lao-Naga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: naga lao
   - translation_iso: hin
     name: लाओ नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lao Naga
     auto: true
   - translation_iso: jpn
     name: ラオ・ナガ語

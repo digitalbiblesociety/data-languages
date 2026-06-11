@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अयिवो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayiwo
+    auto: true
   - translation_iso: jpn
     name: エイウォ語
   - translation_iso: kor

@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: सऊदी अरब सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Saudi Arabian Sign Language
+    auto: true
   - translation_iso: jpn
     name: サウジアラビア手話
   - translation_iso: kor

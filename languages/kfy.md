@@ -31,6 +31,9 @@ translations:
     name: kumaoni
   - translation_iso: hin
     name: कुमाऊँनी
+  - translation_iso: ind
+    name: Bahasa Kumaoni
+    auto: true
   - translation_iso: jpn
     name: クマーオニー語
   - translation_iso: kor

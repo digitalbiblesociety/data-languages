@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेक्वेल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bekwel
+    auto: true
   - translation_iso: jpn
     name: ベクウェル語
     auto: true

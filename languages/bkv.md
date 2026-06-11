@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेक्वार्रा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bekwarra
+    auto: true
   - translation_iso: jpn
     name: ベクワッラ語
     auto: true

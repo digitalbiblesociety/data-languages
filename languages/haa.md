@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هآن
     auto: true
+  - translation_iso: ben
+    name: হান
+    auto: true
   - translation_iso: deu
     name: Han
   - translation_iso: fra
     name: han
   - translation_iso: hin
     name: हान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Han
     auto: true
   - translation_iso: jpn
     name: ハン語

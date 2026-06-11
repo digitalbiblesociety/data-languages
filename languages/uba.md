@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: उबांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ubang
+    auto: true
   - translation_iso: jpn
     name: ウバンゴ語
     auto: true

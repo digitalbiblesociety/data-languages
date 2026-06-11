@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيني
     auto: true
+  - translation_iso: ben
+    name: সেনে
+    auto: true
   - translation_iso: deu
     name: Sene
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sene
   - translation_iso: hin
     name: सेने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sene
     auto: true
   - translation_iso: jpn
     name: セネ語

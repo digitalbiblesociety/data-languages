@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هونسرك
     auto: true
+  - translation_iso: ben
+    name: হুনসরিক
+    auto: true
   - translation_iso: deu
     name: Riograndenser Hunsrückisch
   - translation_iso: fra
     name: hunsrik
   - translation_iso: hin
     name: हुन्स्रिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hunsrik
     auto: true
   - translation_iso: jpn
     name: フンスリュック方言

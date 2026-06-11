@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دينجيسي
     auto: true
+  - translation_iso: ben
+    name: দেঙেসে
+    auto: true
   - translation_iso: deu
     name: Dengese
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bondengese
   - translation_iso: hin
     name: देंगेसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dengese
     auto: true
   - translation_iso: jpn
     name: デンゲセ語

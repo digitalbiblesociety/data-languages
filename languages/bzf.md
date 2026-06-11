@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بويكين
     auto: true
+  - translation_iso: ben
+    name: বোইকিন
+    auto: true
   - translation_iso: deu
     name: Boikin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: boiken
   - translation_iso: hin
     name: बोइकिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boikin
     auto: true
   - translation_iso: jpn
     name: ボイキン語

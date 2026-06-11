@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Haveke_language"
 translations:
   - translation_iso: ara
     name: لغة هافيكي
+  - translation_iso: ben
+    name: হাভেকে
+    auto: true
   - translation_iso: deu
     name: Haveke
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: haveke
   - translation_iso: hin
     name: हावेके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haveke
     auto: true
   - translation_iso: jpn
     name: ハヴェケ語

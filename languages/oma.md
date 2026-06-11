@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Omaha%E2%80%93Ponca_language"
 translations:
   - translation_iso: ara
     name: أوماها-بونكا
+  - translation_iso: ben
+    name: ওমাহা-পোনকা
+    auto: true
   - translation_iso: deu
     name: Omaha-Ponca
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: omaha-ponca
   - translation_iso: hin
     name: ओमाहा-पोंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Omaha-Ponca
     auto: true
   - translation_iso: jpn
     name: オマハ語

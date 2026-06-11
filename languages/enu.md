@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإنو
     auto: true
+  - translation_iso: ben
+    name: এনু
+    auto: true
   - translation_iso: deu
     name: Enu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: enu
   - translation_iso: hin
     name: एनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enu
     auto: true
   - translation_iso: jpn
     name: エヌ語

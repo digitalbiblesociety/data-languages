@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوما لاسان
     auto: true
+  - translation_iso: ben
+    name: উমা লাসান
+    auto: true
   - translation_iso: deu
     name: "Uma' Lasan"
     auto: true

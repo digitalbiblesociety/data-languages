@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ايكو-يبوات
     auto: true
+  - translation_iso: ben
+    name: লাএকো-লিবুয়াত
+    auto: true
   - translation_iso: deu
     name: Laeko-Libuat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: laeko-libuat
   - translation_iso: hin
     name: लाएको-लिबुआट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laeko-Libuat
     auto: true
   - translation_iso: jpn
     name: ラエコ・リブアット語

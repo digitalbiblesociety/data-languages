@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوسي
     auto: true
+  - translation_iso: ben
+    name: সাউসে
+    auto: true
   - translation_iso: deu
     name: Sause
     auto: true

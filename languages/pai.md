@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بي
     auto: true
+  - translation_iso: ben
+    name: পে
+    auto: true
   - translation_iso: deu
     name: Pe
   - translation_iso: fra
     name: pe
   - translation_iso: hin
     name: पे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pe
     auto: true
   - translation_iso: jpn
     name: ピ語

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لابا
     auto: true
+  - translation_iso: ben
+    name: লাবা
+    auto: true
   - translation_iso: deu
     name: Laba
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: laba
   - translation_iso: hin
     name: लाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laba
     auto: true
   - translation_iso: jpn
     name: ラバ語

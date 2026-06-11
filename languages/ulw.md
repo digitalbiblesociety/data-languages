@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: أولوا
     auto: true
+  - translation_iso: ben
+    name: উলওয়া
+    auto: true
   - translation_iso: deu
     name: Ulwa
   - translation_iso: fra
     name: ulwa
   - translation_iso: hin
     name: उल्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ulwa
     auto: true
   - translation_iso: jpn
     name: スム語

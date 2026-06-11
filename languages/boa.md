@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بورا
     auto: true
+  - translation_iso: ben
+    name: বোরা
+    auto: true
   - translation_iso: deu
     name: Bora
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bora
   - translation_iso: hin
     name: बोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bora
     auto: true
   - translation_iso: jpn
     name: ボラ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: باكوكو
     auto: true
+  - translation_iso: ben
+    name: বাকোকো
+    auto: true
   - translation_iso: deu
     name: Bakoko
   - translation_iso: fra
     name: bakoko
   - translation_iso: hin
     name: बाकोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bakoko
     auto: true
   - translation_iso: jpn
     name: バココ語

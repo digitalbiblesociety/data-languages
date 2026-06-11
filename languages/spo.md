@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سبوكان
     auto: true
+  - translation_iso: ben
+    name: সপোকানে
+    auto: true
   - translation_iso: deu
     name: Spokane
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: spokane
   - translation_iso: hin
     name: स्पोकेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Spokane
     auto: true
   - translation_iso: jpn
     name: スポケーン語

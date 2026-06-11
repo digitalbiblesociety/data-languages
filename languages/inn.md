@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيسيناي
     auto: true
+  - translation_iso: ben
+    name: ইসিনাই
+    auto: true
   - translation_iso: deu
     name: Isinai
     auto: true

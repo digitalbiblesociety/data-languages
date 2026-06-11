@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نو-تشاه-نولث
     auto: true
+  - translation_iso: ben
+    name: নু-চাহ-নুলথ
+    auto: true
   - translation_iso: deu
     name: Nuu-chah-nulth
   - translation_iso: fra
     name: nuuchahnulth
   - translation_iso: hin
     name: नू-चाह-नल्थ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nuu-chah-nulth
     auto: true
   - translation_iso: jpn
     name: ヌーチャヌルス語

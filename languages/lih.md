@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يهير
     auto: true
+  - translation_iso: ben
+    name: লিহির
+    auto: true
   - translation_iso: deu
     name: Lihir
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लिहिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lihir
     auto: true
   - translation_iso: jpn
     name: リヒル語

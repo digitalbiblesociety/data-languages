@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अंदेगेरेबिन्हा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andegerebinha
+    auto: true
   - translation_iso: jpn
     name: アンデゲレビンハ語
     auto: true

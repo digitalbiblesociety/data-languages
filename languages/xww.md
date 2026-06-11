@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ويمبا ويمبا
     auto: true
+  - translation_iso: ben
+    name: ওয়েমবা ওয়েমবা
+    auto: true
   - translation_iso: deu
     name: Wemba Wemba
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: wemba wemba
   - translation_iso: hin
     name: वेम्बा वेम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wemba Wemba
     auto: true
   - translation_iso: jpn
     name: ウェンバ・ウェンバ語

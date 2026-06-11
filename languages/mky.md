@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكيان الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত মাকিয়ান
+    auto: true
   - translation_iso: deu
     name: East Makian
     auto: true

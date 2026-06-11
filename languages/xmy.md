@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مايابودونا
     auto: true
+  - translation_iso: ben
+    name: মায়াগুদুনা
+    auto: true
   - translation_iso: deu
     name: Mayaguduna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mayaguduna
   - translation_iso: hin
     name: मायागुडुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayaguduna
     auto: true
   - translation_iso: jpn
     name: マヤグドゥナ語

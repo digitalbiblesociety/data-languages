@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة المنغولية الخالخا
     auto: true
+  - translation_iso: ben
+    name: হালহ মোঙোলিয়ান
+    auto: true
   - translation_iso: deu
     name: Chalcha-Mongolisch
   - translation_iso: fra
     name: khalkha
   - translation_iso: hin
     name: खल्ख मंगोलियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Halh Mongolian
     auto: true
   - translation_iso: jpn
     name: ハルハ・モンゴル語

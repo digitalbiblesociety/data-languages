@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيكويري
     auto: true
+  - translation_iso: ben
+    name: ইকওয়েরে
+    auto: true
   - translation_iso: deu
     name: Ikwere
   - translation_iso: fra
     name: ikwere
   - translation_iso: hin
     name: इक्वेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikwere
     auto: true
   - translation_iso: jpn
     name: イクヴェレ語

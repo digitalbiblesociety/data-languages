@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يميريج
     auto: true
+  - translation_iso: ben
+    name: লেমেরিগ
+    auto: true
   - translation_iso: deu
     name: Lemerig
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lemerig
   - translation_iso: hin
     name: लेमेरिग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lemerig
     auto: true
   - translation_iso: jpn
     name: レメリグ語

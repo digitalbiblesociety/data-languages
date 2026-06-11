@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوفي
     auto: true
+  - translation_iso: ben
+    name: কোভে
+    auto: true
   - translation_iso: deu
     name: Kove
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kove
   - translation_iso: hin
     name: कोवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kove
     auto: true
   - translation_iso: jpn
     name: コヴェ語

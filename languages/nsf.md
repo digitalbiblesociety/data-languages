@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيسو الشمالية الغربية
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসতেরন নিসু
+    auto: true
   - translation_iso: deu
     name: Nordwestliches Nisu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nisu du Nord-Ouest
   - translation_iso: hin
     name: उत्तर-पश्चिमी निसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwestern Nisu
     auto: true
   - translation_iso: jpn
     name: 北西ニス語

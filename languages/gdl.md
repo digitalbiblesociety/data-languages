@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الديراشا
     auto: true
+  - translation_iso: ben
+    name: দিরাশা
+    auto: true
   - translation_iso: deu
     name: Dirasha
   - translation_iso: fra
     name: dirasha
   - translation_iso: hin
     name: दिराशा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dirasha
     auto: true
   - translation_iso: jpn
     name: ディラシャ語

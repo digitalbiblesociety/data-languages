@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونا
     auto: true
+  - translation_iso: ben
+    name: ওনা
+    auto: true
   - translation_iso: deu
     name: Ona
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: selknam
   - translation_iso: hin
     name: ओना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ona
     auto: true
   - translation_iso: jpn
     name: オナ語

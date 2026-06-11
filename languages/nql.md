@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: نجينديلينغو
     auto: true
+  - translation_iso: ben
+    name: ঙেনদেলেঙো
+    auto: true
   - translation_iso: deu
     name: Ngendelengo
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: ngendelengo
   - translation_iso: hin
     name: नगेंदेलेंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngendelengo
     auto: true
   - translation_iso: jpn
     name: ンゲンデレンゴ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة والو
     auto: true
+  - translation_iso: ben
+    name: লওয়ালু
+    auto: true
   - translation_iso: deu
     name: Lwalu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lwalu
   - translation_iso: hin
     name: ल्वालु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lwalu
     auto: true
   - translation_iso: jpn
     name: ルワル語

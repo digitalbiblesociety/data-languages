@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توراه
     auto: true
+  - translation_iso: ben
+    name: তোরা
+    auto: true
   - translation_iso: deu
     name: Torá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: torá
   - translation_iso: hin
     name: तोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Torá
     auto: true
   - translation_iso: jpn
     name: トラズ語

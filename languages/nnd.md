@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أمباي الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত আমবাএ
+    auto: true
   - translation_iso: deu
     name: West-Ambae
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "ambae de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी अम्बाए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Ambae
     auto: true
   - translation_iso: jpn
     name: 西アンバエ語

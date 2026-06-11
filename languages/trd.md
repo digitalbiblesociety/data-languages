@@ -29,6 +29,9 @@ translations:
     name: turi
   - translation_iso: hin
     name: तुरी भाषा
+  - translation_iso: ind
+    name: Bahasa Turi
+    auto: true
   - translation_iso: jpn
     name: トゥーリー語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واكا
     auto: true
+  - translation_iso: ben
+    name: ওয়াকা
+    auto: true
   - translation_iso: deu
     name: Waka
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वाका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waka
     auto: true
   - translation_iso: jpn
     name: ワカ語

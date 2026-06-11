@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سام
     auto: true
+  - translation_iso: ben
+    name: সাম
+    auto: true
   - translation_iso: deu
     name: Sam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sam
   - translation_iso: hin
     name: साम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sam
     auto: true
   - translation_iso: jpn
     name: ソングン語

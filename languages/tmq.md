@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توملييو
     auto: true
+  - translation_iso: ben
+    name: তুমলেও
+    auto: true
   - translation_iso: deu
     name: Tumleo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tumleo
   - translation_iso: hin
     name: तुमलेओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tumleo
     auto: true
   - translation_iso: jpn
     name: トゥムレオ語

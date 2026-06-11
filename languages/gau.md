@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جادابا موديلي
     auto: true
+  - translation_iso: ben
+    name: মুধিলি গাদাবা
+    auto: true
   - translation_iso: deu
     name: Gadaba
   - translation_iso: fra
     name: gadaba mudhili
   - translation_iso: hin
     name: मुधिली गडबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mudhili Gadaba
     auto: true
   - translation_iso: jpn
     name: ムディリ・ガダバ語

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الكون
     auto: true
+  - translation_iso: ben
+    name: কোন
+    auto: true
   - translation_iso: deu
     name: Con
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: con
   - translation_iso: hin
     name: कोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Con
     auto: true
   - translation_iso: jpn
     name: コン語

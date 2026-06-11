@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Potawatomi_language"
 translations:
   - translation_iso: ara
     name: بوتاواتومي
+  - translation_iso: ben
+    name: পোতাওয়াতোমি
+    auto: true
   - translation_iso: deu
     name: Potawatomi
     auto: true

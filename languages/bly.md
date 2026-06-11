@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوتري
     auto: true
+  - translation_iso: ben
+    name: নোতরে
+    auto: true
   - translation_iso: deu
     name: Notre
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: notre
   - translation_iso: hin
     name: नोत्रे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Notre
     auto: true
   - translation_iso: jpn
     name: ノートレ語

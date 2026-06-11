@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अधोला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adhola
+    auto: true
   - translation_iso: jpn
     name: アドラ語
   - translation_iso: kor

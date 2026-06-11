@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: دانغاورا ثارو
     auto: true
+  - translation_iso: ben
+    name: দাঙাউরা থারু
+    auto: true
   - translation_iso: deu
     name: Dangaura Tharu
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tharu dangaura
   - translation_iso: hin
     name: दंगौरा थारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dangaura Tharu
     auto: true
   - translation_iso: jpn
     name: ダンガウラ・タル語

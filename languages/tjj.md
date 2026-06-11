@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تجونغوندجي
     auto: true
+  - translation_iso: ben
+    name: তজুঙুনদজি
+    auto: true
   - translation_iso: deu
     name: Tjungundji
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yangathimri
   - translation_iso: hin
     name: चुंगुंडजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tjungundji
     auto: true
   - translation_iso: jpn
     name: チュングンジ語

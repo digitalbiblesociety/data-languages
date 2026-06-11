@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ألوت ميدني
     auto: true
+  - translation_iso: ben
+    name: মেদনয়জ আলেউত
+    auto: true
   - translation_iso: deu
     name: Mednyj-Aleutisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: aléoute de Medny
   - translation_iso: hin
     name: मेदनी अलेउत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mednyj Aleut
     auto: true
   - translation_iso: jpn
     name: メードヌイ・アレウト語

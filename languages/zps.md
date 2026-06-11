@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كوتلان
     auto: true
+  - translation_iso: ben
+    name: কোয়াতলান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Coatlán)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Coatlán
   - translation_iso: hin
     name: कोआतलान सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coatlán Zapotec
     auto: true
   - translation_iso: jpn
     name: コアトラン・サポテク語

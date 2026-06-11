@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غيثآبول
     auto: true
+  - translation_iso: ben
+    name: গিথাবুল
+    auto: true
   - translation_iso: deu
     name: Githabul
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: githabul
   - translation_iso: hin
     name: गिथाबुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Githabul
     auto: true
   - translation_iso: jpn
     name: ギタバル語

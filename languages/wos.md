@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هانغا هوندي
     auto: true
+  - translation_iso: ben
+    name: হাঙা হুনদি
+    auto: true
   - translation_iso: deu
     name: Hanga Hundi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hanga hundi
   - translation_iso: hin
     name: हंगा हुंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hanga Hundi
     auto: true
   - translation_iso: jpn
     name: ハンガ・フンディ語

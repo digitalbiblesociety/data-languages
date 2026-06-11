@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بينيادو
     auto: true
+  - translation_iso: ben
+    name: বেনয়াদু
+    auto: true
   - translation_iso: deu
     name: Benyadu
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاندوشي-شابرا
     auto: true
+  - translation_iso: ben
+    name: কানদোশি-শাপরা
+    auto: true
   - translation_iso: deu
     name: Candoshi-Shapra
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: candoshi
   - translation_iso: hin
     name: कान्दोशी-शप्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Candoshi-Shapra
     auto: true
   - translation_iso: jpn
     name: カンドシ・シャプラ語

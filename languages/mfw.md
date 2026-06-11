@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مولاها
     auto: true
+  - translation_iso: ben
+    name: মুলাহা
+    auto: true
   - translation_iso: deu
     name: Mulaha
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुलाहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mulaha
     auto: true
   - translation_iso: jpn
     name: ムラハ語

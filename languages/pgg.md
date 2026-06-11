@@ -30,6 +30,9 @@ translations:
     name: pangwali
   - translation_iso: hin
     name: पंगवाड़ी
+  - translation_iso: ind
+    name: Bahasa Pangwali
+    auto: true
   - translation_iso: jpn
     name: パングワーリー語
   - translation_iso: kor

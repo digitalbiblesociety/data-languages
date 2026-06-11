@@ -18,6 +18,9 @@ glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Unclassi
 wikidata_id: Q4219330
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenati_language"
 translations:
+  - translation_iso: ben
+    name: কেনাতি
+    auto: true
   - translation_iso: deu
     name: Kenati
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: केनाती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kenati
     auto: true
   - translation_iso: jpn
     name: ケナティ語

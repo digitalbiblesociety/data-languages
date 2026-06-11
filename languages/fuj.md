@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكو
     auto: true
+  - translation_iso: ben
+    name: কো
+    auto: true
   - translation_iso: deu
     name: Ko
   - translation_iso: fra
     name: ko
   - translation_iso: hin
     name: को
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ko
     auto: true
   - translation_iso: jpn
     name: コ語

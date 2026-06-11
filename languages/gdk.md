@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجادانج
     auto: true
+  - translation_iso: ben
+    name: গাদাং
+    auto: true
   - translation_iso: deu
     name: Gadang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gadang
   - translation_iso: hin
     name: गादांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gadang
     auto: true
   - translation_iso: jpn
     name: ガダン語

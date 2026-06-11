@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نجليما
     auto: true
+  - translation_iso: ben
+    name: ঙেলিমা
+    auto: true
   - translation_iso: deu
     name: Ngelima
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: angba
   - translation_iso: hin
     name: न्गेलिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngelima
     auto: true
   - translation_iso: jpn
     name: ンゲリマ語

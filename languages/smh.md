@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السامي
     auto: true
+  - translation_iso: ben
+    name: সামেই
+    auto: true
   - translation_iso: deu
     name: Samei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: samei
   - translation_iso: hin
     name: सामेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samei
     auto: true
   - translation_iso: jpn
     name: サメイ語

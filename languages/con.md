@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوفان
     auto: true
+  - translation_iso: ben
+    name: কোফান
+    auto: true
   - translation_iso: deu
     name: Cofán
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: cofán
   - translation_iso: hin
     name: कोफान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cofán
     auto: true
   - translation_iso: jpn
     name: アイ語

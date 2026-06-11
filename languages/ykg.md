@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة يوكاغيز الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন য়ুকাঘির
+    auto: true
   - translation_iso: deu
     name: Tundrajukagirisch
   - translation_iso: fra
     name: youkaguir du Nord
   - translation_iso: hin
     name: उत्तरी युकागिर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Yukaghir
     auto: true
   - translation_iso: jpn
     name: ツンドラ・ユカギール語

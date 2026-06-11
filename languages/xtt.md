@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاكاهوا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: তাকাহুয়া মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Tacahua-Mixtekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque tacahua
   - translation_iso: hin
     name: ताकाहुआ मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tacahua Mixtec
     auto: true
   - translation_iso: jpn
     name: タカフア・ミステク語

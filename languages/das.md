@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داهو دو
     auto: true
+  - translation_iso: ben
+    name: দাহো-দো
+    auto: true
   - translation_iso: deu
     name: Daho-Doo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: daho-doo
   - translation_iso: hin
     name: दाहो-दू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daho-Doo
     auto: true
   - translation_iso: jpn
     name: ダホ・ドゥー語

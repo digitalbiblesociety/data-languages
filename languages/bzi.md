@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيسو
     auto: true
+  - translation_iso: ben
+    name: বিসু
+    auto: true
   - translation_iso: deu
     name: Bisu
     auto: true

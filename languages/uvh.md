@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوري
     auto: true
+  - translation_iso: ben
+    name: উরি
+    auto: true
   - translation_iso: deu
     name: Uri
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uri
     auto: true
   - translation_iso: jpn
     name: エラップ語

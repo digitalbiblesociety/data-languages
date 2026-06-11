@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوزو
     auto: true
+  - translation_iso: ben
+    name: হোজো
+    auto: true
   - translation_iso: deu
     name: Hozo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hozo
   - translation_iso: hin
     name: होज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hozo
     auto: true
   - translation_iso: jpn
     name: ホゾ語

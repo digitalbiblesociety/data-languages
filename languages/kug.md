@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوبا
     auto: true
+  - translation_iso: ben
+    name: কুপা
+    auto: true
   - translation_iso: deu
     name: Kupa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kupa
     auto: true
   - translation_iso: jpn
     name: クパ語

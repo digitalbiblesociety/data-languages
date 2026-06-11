@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السولود
     auto: true
+  - translation_iso: ben
+    name: সুলোদ
+    auto: true
   - translation_iso: deu
     name: Sulod
     auto: true

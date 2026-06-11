@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تافرينجر رومانية
     auto: true
+  - translation_iso: ben
+    name: তাভরিঙের রোমানি
+    auto: true
   - translation_iso: deu
     name: Tavringer-Romani
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: टावरिंगर रोमानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tavringer Romani
     auto: true
   - translation_iso: jpn
     name: タブリンガーロマニ語

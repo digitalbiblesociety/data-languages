@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فاو
     auto: true
+  - translation_iso: ben
+    name: ভাও
+    auto: true
   - translation_iso: deu
     name: Vao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vao
   - translation_iso: hin
     name: वाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vao
     auto: true
   - translation_iso: jpn
     name: ヴァオ語

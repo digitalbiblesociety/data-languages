@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كامايو
     auto: true
+  - translation_iso: ben
+    name: কামায়ো
+    auto: true
   - translation_iso: deu
     name: Kamayo
     auto: true

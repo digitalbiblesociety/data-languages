@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Soddo_language"
 translations:
   - translation_iso: ara
     name: سودو (لغة)
+  - translation_iso: ben
+    name: কিসতানে
+    auto: true
   - translation_iso: deu
     name: Kistane
   - translation_iso: fra
     name: soddo
   - translation_iso: hin
     name: किस्ताने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kistane
     auto: true
   - translation_iso: jpn
     name: ソッド語

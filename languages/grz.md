@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غورآمآلوم
     auto: true
+  - translation_iso: ben
+    name: গুরামালুম
+    auto: true
   - translation_iso: deu
     name: Guramalum
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: guramalum
   - translation_iso: hin
     name: गुरामालुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guramalum
     auto: true
   - translation_iso: jpn
     name: グラマルム語

@@ -30,6 +30,9 @@ translations:
     name: tangkhul naga
   - translation_iso: hin
     name: तांगखुल भाषा
+  - translation_iso: ind
+    name: Bahasa Tangkhul Naga
+    auto: true
   - translation_iso: jpn
     name: タンクル語
   - translation_iso: kor

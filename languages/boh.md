@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوما
     auto: true
+  - translation_iso: ben
+    name: বোমা
+    auto: true
   - translation_iso: deu
     name: Boma
   - translation_iso: fra
     name: boma
   - translation_iso: hin
     name: बोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boma
     auto: true
   - translation_iso: jpn
     name: ボマ語

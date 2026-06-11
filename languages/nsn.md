@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيهان
     auto: true
+  - translation_iso: ben
+    name: নেহান
+    auto: true
   - translation_iso: deu
     name: Nehan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nehan
   - translation_iso: hin
     name: नेहान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nehan
     auto: true
   - translation_iso: jpn
     name: ネハン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي يا
     auto: true
+  - translation_iso: ben
+    name: তাই য়া
+    auto: true
   - translation_iso: deu
     name: Tai Ya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tai ya
   - translation_iso: hin
     name: ताई या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Ya
     auto: true
   - translation_iso: jpn
     name: 傣雅語

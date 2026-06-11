@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجولا
     auto: true
+  - translation_iso: ben
+    name: লেঙোলা
+    auto: true
   - translation_iso: deu
     name: Lengola
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेंगोला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lengola
     auto: true
   - translation_iso: jpn
     name: Lengola語

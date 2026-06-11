@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبانين الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন সুবানেন
+    auto: true
   - translation_iso: deu
     name: Northern Subanen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: subanen du Nord
   - translation_iso: hin
     name: उत्तरी सुबानेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Subanen
     auto: true
   - translation_iso: jpn
     name: スバノン語

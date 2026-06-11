@@ -27,6 +27,9 @@ translations:
   - translation_iso: hin
     name: आंध
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andh
+    auto: true
   - translation_iso: jpn
     name: アンドゥ語
     auto: true

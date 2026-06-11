@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجار الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন মাগার
+    auto: true
   - translation_iso: deu
     name: West-Magar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पश्चिमी मगर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Magar
     auto: true
   - translation_iso: jpn
     name: ウェスタン・マガル語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: إيداخو-إيسوخا-تيريكي
     auto: true
+  - translation_iso: ben
+    name: ইদাখো-ইসুখা-তিরিকি
+    auto: true
   - translation_iso: deu
     name: Idakho-Isukha-Tiriki
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इदाखो-इसुखा-तिरिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idakho-Isukha-Tiriki
     auto: true
   - translation_iso: jpn
     name: イダホ＝イスハ＝ティリキ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الإستونية
     auto: true
+  - translation_iso: ben
+    name: সতানদারদ এসতোনিয়ান
+    auto: true
   - translation_iso: deu
     name: standardisiertes Estnisch
   - translation_iso: fra
     name: estonien standard
   - translation_iso: hin
     name: मानक एस्टोनियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Standard Estonian
     auto: true
   - translation_iso: jpn
     name: エストニア語

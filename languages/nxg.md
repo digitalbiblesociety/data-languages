@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغادا
     auto: true
+  - translation_iso: ben
+    name: ঙাদা
+    auto: true
   - translation_iso: deu
     name: Ngada
   - translation_iso: fra

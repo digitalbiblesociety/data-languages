@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة آب ما
     auto: true
+  - translation_iso: ben
+    name: আপ মা
+    auto: true
   - translation_iso: deu
     name: Ap Ma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ap ma
   - translation_iso: hin
     name: आप मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ap Ma
     auto: true
   - translation_iso: jpn
     name: アップ・マ語

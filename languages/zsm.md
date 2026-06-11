@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الملايو المعياري
     auto: true
+  - translation_iso: ben
+    name: সতানদারদ মালায়
+    auto: true
   - translation_iso: deu
     name: Standardmalaiisch
     auto: true

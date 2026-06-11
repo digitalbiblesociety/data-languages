@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة انجام
     auto: true
+  - translation_iso: ben
+    name: লাঙাম
+    auto: true
   - translation_iso: deu
     name: Langam
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langam
   - translation_iso: hin
     name: लंगम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Langam
     auto: true
   - translation_iso: jpn
     name: ランガム語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: سابيني
     auto: true
+  - translation_iso: ben
+    name: সাবিনে
+    auto: true
   - translation_iso: deu
     name: Sabinische Sprache
   - translation_iso: fra
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: साबिने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sabine
     auto: true
   - translation_iso: jpn
     name: サビーネ語

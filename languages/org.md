@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورينغ
     auto: true
+  - translation_iso: ben
+    name: ওরিং
+    auto: true
   - translation_iso: deu
     name: Oring
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओरिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oring
     auto: true
   - translation_iso: jpn
     name: オリング語

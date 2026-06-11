@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكاندا
     auto: true
+  - translation_iso: ben
+    name: কাকানদা
+    auto: true
   - translation_iso: deu
     name: Kakanda
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: काकंदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kakanda
     auto: true
   - translation_iso: jpn
     name: カカンダ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موندو
     auto: true
+  - translation_iso: ben
+    name: মুনদু
+    auto: true
   - translation_iso: deu
     name: Mündü
   - translation_iso: fra
     name: mundu
   - translation_iso: hin
     name: मुंदू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mündü
     auto: true
   - translation_iso: jpn
     name: ムンドゥ語

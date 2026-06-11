@@ -33,6 +33,9 @@ translations:
   - translation_iso: hin
     name: तागबनवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tagbanwa
+    auto: true
   - translation_iso: jpn
     name: タグバンワ語
     auto: true

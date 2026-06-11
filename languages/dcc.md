@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديكان
     auto: true
+  - translation_iso: ben
+    name: দেক্কান
+    auto: true
   - translation_iso: deu
     name: Deccan
     auto: true
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्कनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Deccan
     auto: true
   - translation_iso: jpn
     name: デッカン語

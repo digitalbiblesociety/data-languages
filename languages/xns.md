@@ -30,6 +30,9 @@ translations:
     name: kanashi
   - translation_iso: hin
     name: कनाशी भाषा
+  - translation_iso: ind
+    name: Bahasa Kanashi
+    auto: true
   - translation_iso: jpn
     name: カナシ語
     auto: true

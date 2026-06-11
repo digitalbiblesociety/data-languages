@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरोप-लोकेप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arop-Lokep
+    auto: true
   - translation_iso: jpn
     name: シアッシ語
   - translation_iso: kor

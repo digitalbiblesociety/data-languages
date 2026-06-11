@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hurrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الحورية
+  - translation_iso: ben
+    name: হুর্রিয়ান
+    auto: true
   - translation_iso: deu
     name: Hurritisch
   - translation_iso: fra

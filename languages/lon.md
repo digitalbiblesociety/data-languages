@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الاوي وموي
     auto: true
+  - translation_iso: ben
+    name: মালাওয়ি লোমওয়ে
+    auto: true
   - translation_iso: deu
     name: Malawi-Lomwe
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मलावी लोम्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malawi Lomwe
     auto: true
   - translation_iso: jpn
     name: マラウイ・ロムウェ語

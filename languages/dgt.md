@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ندرانجيث
     auto: true
+  - translation_iso: ben
+    name: নদরাঙিথ
+    auto: true
   - translation_iso: deu
     name: "Ndra'ngith"
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्द्रांगिथ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Ndra'ngith"
     auto: true
   - translation_iso: jpn
     name: ンドラングイット語

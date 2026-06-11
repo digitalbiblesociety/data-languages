@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماركيزان الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ মারকুএসান
+    auto: true
   - translation_iso: deu
     name: Nordmarquesanisch
   - translation_iso: fra
     name: marquisien du Nord
   - translation_iso: hin
     name: उत्तरी मार्केसन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Marquesan
     auto: true
   - translation_iso: jpn
     name: 北マルキーズ語

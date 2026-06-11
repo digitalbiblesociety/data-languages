@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: داويك كوي
     auto: true
+  - translation_iso: ben
+    name: দাওয়িক কুই
+    auto: true
   - translation_iso: deu
     name: Dawik Kui
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दाविक कुई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dawik Kui
     auto: true
   - translation_iso: jpn
     name: ダウィック・クイ語

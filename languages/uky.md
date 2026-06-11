@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوك-ياك
     auto: true
+  - translation_iso: ben
+    name: কুক-য়াক
+    auto: true
   - translation_iso: deu
     name: Kuuk-Yak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuuk-yak
   - translation_iso: hin
     name: कुक-याक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuuk-Yak
     auto: true
   - translation_iso: jpn
     name: ココ・ヤク語

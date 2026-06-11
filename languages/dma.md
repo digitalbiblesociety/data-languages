@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دوما
     auto: true
+  - translation_iso: ben
+    name: দুমা
+    auto: true
   - translation_iso: deu
     name: Duma
   - translation_iso: fra
     name: douma
   - translation_iso: hin
     name: दुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duma
     auto: true
   - translation_iso: jpn
     name: ドゥマ語

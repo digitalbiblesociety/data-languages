@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسوابونج
     auto: true
+  - translation_iso: ben
+    name: তসওয়াপোং
+    auto: true
   - translation_iso: deu
     name: Tswapong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tswapong
   - translation_iso: hin
     name: त्स्वापोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tswapong
     auto: true
   - translation_iso: jpn
     name: ペディ語

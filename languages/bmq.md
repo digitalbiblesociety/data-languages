@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: بوموو
     auto: true
+  - translation_iso: ben
+    name: বোমু
+    auto: true
   - translation_iso: deu
     name: Bomu
   - translation_iso: fra
     name: bomu
   - translation_iso: hin
     name: बोमू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bomu
     auto: true
   - translation_iso: jpn
     name: ボム語

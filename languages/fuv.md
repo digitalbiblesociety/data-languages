@@ -20,12 +20,18 @@ glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer
 wikidata_id: Q36129
 wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Fulfulde"
 translations:
+  - translation_iso: ben
+    name: নিগেরিয়ান ফুলফুলদে
+    auto: true
   - translation_iso: deu
     name: nigerianisches Fulfulde
   - translation_iso: fra
     name: peul nigérian
   - translation_iso: hin
     name: नाइजीरियाई फुलफुल्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nigerian Fulfulde
     auto: true
   - translation_iso: jpn
     name: ナイジェリア・フラニ語

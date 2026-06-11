@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كرونغ
     auto: true
+  - translation_iso: ben
+    name: করুং
+    auto: true
   - translation_iso: deu
     name: Krung
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: krung
   - translation_iso: hin
     name: क्रुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krung
     auto: true
   - translation_iso: jpn
     name: クルン語

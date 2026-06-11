@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: पाओ करेन
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Pa'o Karen"
+    auto: true
   - translation_iso: jpn
     name: パオ語
   - translation_iso: kor

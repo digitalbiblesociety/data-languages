@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بونتوك
     auto: true
+  - translation_iso: ben
+    name: বোনতোক
+    auto: true
   - translation_iso: deu
     name: Bontok
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: bontok
   - translation_iso: hin
     name: बोंतोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bontok
     auto: true
   - translation_iso: jpn
     name: ボントック語

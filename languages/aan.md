@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कैरारी की अनम्बे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anambé of Cairarí
+    auto: true
   - translation_iso: jpn
     name: カイラリのアナンベ語
     auto: true

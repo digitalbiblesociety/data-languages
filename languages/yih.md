@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: الاش الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন য়িদ্দিশ
+    auto: true
   - translation_iso: deu
     name: Westjiddisch
   - translation_iso: fra
     name: yiddish occidental
   - translation_iso: hin
     name: पश्चिमी यिडिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Yiddish
     auto: true
   - translation_iso: jpn
     name: 西イディッシュ語

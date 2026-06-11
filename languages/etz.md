@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السيميمي
     auto: true
+  - translation_iso: ben
+    name: সেমিমি
+    auto: true
   - translation_iso: deu
     name: Semimi
     auto: true

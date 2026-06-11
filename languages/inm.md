@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Minaean_language"
 translations:
   - translation_iso: ara
     name: المعينية
+  - translation_iso: ben
+    name: মিনাএয়ান
+    auto: true
   - translation_iso: deu
     name: Minäisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: minéen
   - translation_iso: hin
     name: मिनाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minaean
     auto: true
   - translation_iso: jpn
     name: ミナエア語

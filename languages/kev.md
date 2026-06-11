@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कणिक्कारन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kanikkaran
+    auto: true
   - translation_iso: jpn
     name: カニッカラン語
     auto: true

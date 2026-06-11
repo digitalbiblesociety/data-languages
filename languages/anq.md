@@ -30,6 +30,9 @@ translations:
     name: jarawa
   - translation_iso: hin
     name: जारवा भाषा
+  - translation_iso: ind
+    name: Bahasa Jarawa
+    auto: true
   - translation_iso: jpn
     name: ジャラワ語
   - translation_iso: kor

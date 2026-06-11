@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوناندغا
     auto: true
+  - translation_iso: ben
+    name: ওনোনদাগা
+    auto: true
   - translation_iso: deu
     name: Onondaga
   - translation_iso: fra
     name: onondaga
   - translation_iso: hin
     name: ओनोंडागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Onondaga
     auto: true
   - translation_iso: jpn
     name: オノンダガ語

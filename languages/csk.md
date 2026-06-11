@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جولا-كاسا
     auto: true
+  - translation_iso: ben
+    name: জোলা-কাসা
+    auto: true
   - translation_iso: deu
     name: Jola-Kasa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: diola-kasa
   - translation_iso: hin
     name: जोला-कासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jola-Kasa
     auto: true
   - translation_iso: jpn
     name: ジョラ＝カサ語

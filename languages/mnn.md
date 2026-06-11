@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة منونج الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন মনোং
+    auto: true
   - translation_iso: deu
     name: Southern Mnong
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिणी म्नोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Mnong
     auto: true
   - translation_iso: jpn
     name: サザン・ムノング語

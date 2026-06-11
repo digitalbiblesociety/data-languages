@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أما (السودان)
     auto: true
+  - translation_iso: ben
+    name: আমা
+    auto: true
   - translation_iso: deu
     name: Ama
   - translation_iso: fra
     name: ama
   - translation_iso: hin
     name: अमा (सूडान)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ama
     auto: true
   - translation_iso: jpn
     name: アマ語（スーダン）

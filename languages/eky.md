@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كايا الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন কায়াহ
+    auto: true
   - translation_iso: deu
     name: Ost-Kayah
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "kayah de l'Est"
   - translation_iso: hin
     name: पूर्वी कायाह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Kayah
     auto: true
   - translation_iso: jpn
     name: 東カヤー語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وويووررونغ
     auto: true
+  - translation_iso: ben
+    name: ওয়োইওয়ুর্রুং
+    auto: true
   - translation_iso: deu
     name: Woiwurrung
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वोइवुरुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Woiwurrung
     auto: true
   - translation_iso: jpn
     name: ウォイウルング語

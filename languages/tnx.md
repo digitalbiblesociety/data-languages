@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانيما
     auto: true
+  - translation_iso: ben
+    name: তানেমা
+    auto: true
   - translation_iso: deu
     name: Tanema
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tanema
   - translation_iso: hin
     name: तानेमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanema
     auto: true
   - translation_iso: jpn
     name: タネマ語

@@ -30,6 +30,9 @@ translations:
     name: chowra
   - translation_iso: hin
     name: चौरा भाषा
+  - translation_iso: ind
+    name: Bahasa Chaura
+    auto: true
   - translation_iso: jpn
     name: チャウラ語
   - translation_iso: kor

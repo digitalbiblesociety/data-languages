@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توركا
     auto: true
+  - translation_iso: ben
+    name: তরুকা
+    auto: true
   - translation_iso: deu
     name: Truká
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्रुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Truká
     auto: true
   - translation_iso: jpn
     name: トゥルカ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बारोक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barok
+    auto: true
   - translation_iso: jpn
     name: バロク語
   - translation_iso: kor

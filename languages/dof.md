@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دومو
     auto: true
+  - translation_iso: ben
+    name: দোমু
+    auto: true
   - translation_iso: deu
     name: Domu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: domu
   - translation_iso: hin
     name: डोमू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Domu
     auto: true
   - translation_iso: jpn
     name: ドム語

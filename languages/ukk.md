@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: موآك سا-آك
     auto: true
+  - translation_iso: ben
+    name: মুয়াক সা-আক
+    auto: true
   - translation_iso: deu
     name: Muak Sa-aak
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: muak sa-aak
   - translation_iso: hin
     name: मुआक सा-आक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muak Sa-aak
     auto: true
   - translation_iso: jpn
     name: ムアク・サアク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارغي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: মারঘি সোউথ
+    auto: true
   - translation_iso: deu
     name: Marghi South
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिणी मार्गी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marghi South
     auto: true
   - translation_iso: jpn
     name: マルギ南語

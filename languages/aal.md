@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अफादे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Afade
+    auto: true
   - translation_iso: jpn
     name: アファデ語
     auto: true

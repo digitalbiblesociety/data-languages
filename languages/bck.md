@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونوبا
     auto: true
+  - translation_iso: ben
+    name: বুনুবা
+    auto: true
   - translation_iso: deu
     name: Bunuba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bunuba
   - translation_iso: hin
     name: बुनुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bunuba
     auto: true
   - translation_iso: jpn
     name: ブヌバ語

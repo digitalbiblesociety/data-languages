@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: سافاليبا
     auto: true
+  - translation_iso: ben
+    name: সাফালিবা
+    auto: true
   - translation_iso: deu
     name: Safaliba
   - translation_iso: fra
     name: safaliba
   - translation_iso: hin
     name: साफालिबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Safaliba
     auto: true
   - translation_iso: jpn
     name: サファラバ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاستا
     auto: true
+  - translation_iso: ben
+    name: শাসতা
+    auto: true
   - translation_iso: deu
     name: Shasta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shasta
   - translation_iso: hin
     name: शास्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shasta
     auto: true
   - translation_iso: jpn
     name: サステアン語

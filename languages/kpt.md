@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كاراتا
     auto: true
+  - translation_iso: ben
+    name: কারাতা
+    auto: true
   - translation_iso: deu
     name: Karatinisch
   - translation_iso: fra
     name: karata
   - translation_iso: hin
     name: कराता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karata
     auto: true
   - translation_iso: jpn
     name: カラタ語

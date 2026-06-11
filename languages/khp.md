@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كابوري
     auto: true
+  - translation_iso: ben
+    name: কাপোরি
+    auto: true
   - translation_iso: deu
     name: Kapori
     auto: true

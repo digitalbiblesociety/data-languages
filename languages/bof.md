@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بولون
     auto: true
+  - translation_iso: ben
+    name: বোলোন
+    auto: true
   - translation_iso: deu
     name: Bolon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bolon
   - translation_iso: hin
     name: बोलोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolon
     auto: true
   - translation_iso: jpn
     name: ボロン語

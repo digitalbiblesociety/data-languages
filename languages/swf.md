@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيري
     auto: true
+  - translation_iso: ben
+    name: সেরে
+    auto: true
   - translation_iso: deu
     name: Sere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sere l
   - translation_iso: hin
     name: सेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sere
     auto: true
   - translation_iso: jpn
     name: セレ語

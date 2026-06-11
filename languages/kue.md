@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كومان (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: ben
+    name: কুমান
+    auto: true
   - translation_iso: deu
     name: Kuman (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kuman
   - translation_iso: hin
     name: कुमान (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuman
     auto: true
   - translation_iso: jpn
     name: クマン語

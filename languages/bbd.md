@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bau
+    auto: true
   - translation_iso: jpn
     name: バウ語
     auto: true

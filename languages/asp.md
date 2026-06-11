@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: अल्जीरियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Algerian Sign Language
+    auto: true
   - translation_iso: jpn
     name: アルジェリア手話
   - translation_iso: kor

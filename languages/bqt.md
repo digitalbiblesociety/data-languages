@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बामुकुम्बित
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bamukumbit
+    auto: true
   - translation_iso: jpn
     name: バムクムビット語
     auto: true

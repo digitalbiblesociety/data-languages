@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوهورونج
     auto: true
+  - translation_iso: ben
+    name: লোহোরুং
+    auto: true
   - translation_iso: deu
     name: Lohorung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lohorung
   - translation_iso: hin
     name: लोहोरुङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lohorung
     auto: true
   - translation_iso: jpn
     name: ロホルン語

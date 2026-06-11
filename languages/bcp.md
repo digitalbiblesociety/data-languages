@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बाली (कांगो लोकतांत्रिक गणराज्य)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bali
+    auto: true
   - translation_iso: jpn
     name: バリ語
   - translation_iso: kor

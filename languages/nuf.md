@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوسو
     auto: true
+  - translation_iso: ben
+    name: নুসু
+    auto: true
   - translation_iso: deu
     name: Nusu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nusu
   - translation_iso: hin
     name: नुसु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nusu
     auto: true
   - translation_iso: jpn
     name: 怒蘇語

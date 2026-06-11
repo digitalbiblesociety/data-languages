@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابوما
     auto: true
+  - translation_iso: ben
+    name: পাপুমা
+    auto: true
   - translation_iso: deu
     name: Papuma
     auto: true

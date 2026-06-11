@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेली (दक्षिण सूडान)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Beli
+    auto: true
   - translation_iso: jpn
     name: ベリ語
     auto: true

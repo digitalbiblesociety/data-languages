@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هآمبآ
     auto: true
+  - translation_iso: ben
+    name: হামবা
+    auto: true
   - translation_iso: deu
     name: Hamba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hamba
   - translation_iso: hin
     name: हम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hamba
     auto: true
   - translation_iso: jpn
     name: ハンバ語

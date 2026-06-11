@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغاانياتجارا
     auto: true
+  - translation_iso: ben
+    name: ঙানয়াতজার্রা
+    auto: true
   - translation_iso: deu
     name: Ngaanyatjarra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngaanyatjarra
   - translation_iso: hin
     name: न्गानयाचारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngaanyatjarra
     auto: true
   - translation_iso: jpn
     name: ンガーニャチャラ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكايانا
     auto: true
+  - translation_iso: ben
+    name: সিকাইয়ানা
+    auto: true
   - translation_iso: deu
     name: Sikaiana
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिकायाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sikaiana
     auto: true
   - translation_iso: jpn
     name: シカイアナ語

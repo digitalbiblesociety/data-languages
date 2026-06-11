@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: جنوب غربي بونتوك
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসতেরন বোনতোক
+    auto: true
   - translation_iso: deu
     name: Südwest-Bontok
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: bontok du Sud-Ouest
   - translation_iso: hin
     name: दक्षिणपश्चिमी बोंतोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwestern Bontok
     auto: true
   - translation_iso: jpn
     name: 南西ボントク語

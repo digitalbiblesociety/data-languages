@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوواي
     auto: true
+  - translation_iso: ben
+    name: কোওয়িয়াই
+    auto: true
   - translation_iso: deu
     name: Kowiai
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موفو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ মোফু
+    auto: true
   - translation_iso: deu
     name: North Mofu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mofu du Nord
   - translation_iso: hin
     name: उत्तरी मोफू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Mofu
     auto: true
   - translation_iso: jpn
     name: 北モフ語

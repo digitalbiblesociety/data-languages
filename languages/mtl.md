@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مونتول
     auto: true
+  - translation_iso: ben
+    name: মোনতোল
+    auto: true
   - translation_iso: deu
     name: Montol
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मोंटोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Montol
     auto: true
   - translation_iso: jpn
     name: Montol語

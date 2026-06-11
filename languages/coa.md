@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة جزر كوكوس الملايوية
     auto: true
+  - translation_iso: ben
+    name: কোকোস ইসলানদস মালায়
+    auto: true
   - translation_iso: deu
     name: Kokosinseln-Malaiisch
     auto: true

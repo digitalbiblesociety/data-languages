@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاماساو
     auto: true
+  - translation_iso: ben
+    name: কামাসাউ
+    auto: true
   - translation_iso: deu
     name: Kamasau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kamasau
   - translation_iso: hin
     name: कामासाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamasau
     auto: true
   - translation_iso: jpn
     name: カマサウ語

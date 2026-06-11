@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غينومآن
     auto: true
+  - translation_iso: ben
+    name: গিনুমান
+    auto: true
   - translation_iso: deu
     name: Ginuman
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गिनुमान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ginuman
     auto: true
   - translation_iso: jpn
     name: ギヌマン語

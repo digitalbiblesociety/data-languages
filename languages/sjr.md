@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيار-لاك
     auto: true
+  - translation_iso: ben
+    name: সিয়ার-লাক
+    auto: true
   - translation_iso: deu
     name: Siar-Lak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: siar-lak
   - translation_iso: hin
     name: सियार-लाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siar-Lak
     auto: true
   - translation_iso: jpn
     name: シアル語

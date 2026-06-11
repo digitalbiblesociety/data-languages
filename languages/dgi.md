@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نورثرن داجارا
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন দাগারা
+    auto: true
   - translation_iso: deu
     name: Nord-Dagara
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उत्तरी दगारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Dagara
     auto: true
   - translation_iso: jpn
     name: ノーザン・ダガラ語

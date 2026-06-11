@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيكاراجوا كريول إنْجليزي
     auto: true
+  - translation_iso: ben
+    name: নিকারাগুয়া করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Nicaragua-Kreolenglisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: créole anglais nicaraguayen
   - translation_iso: hin
     name: निकारागुआ क्रिओल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nicaragua Creole English
     auto: true
   - translation_iso: jpn
     name: ニカラグア・クレオール・イングリッシュ語

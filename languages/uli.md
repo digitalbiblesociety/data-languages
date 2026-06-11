@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: أوليثيان
     auto: true
+  - translation_iso: ben
+    name: উলিথিয়ান
+    auto: true
   - translation_iso: deu
     name: Ulithisch
   - translation_iso: fra

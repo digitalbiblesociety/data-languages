@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوبوت
     auto: true
+  - translation_iso: ben
+    name: বোবোত
+    auto: true
   - translation_iso: deu
     name: Bobot
     auto: true

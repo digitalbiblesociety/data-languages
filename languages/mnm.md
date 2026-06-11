@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مابينا
     auto: true
+  - translation_iso: ben
+    name: মাপেনা
+    auto: true
   - translation_iso: deu
     name: Mapena
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मापेना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mapena
     auto: true
   - translation_iso: jpn
     name: マペナ語

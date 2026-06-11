@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوليتز
     auto: true
+  - translation_iso: ben
+    name: কোওয়লিতজ
+    auto: true
   - translation_iso: deu
     name: Cowlitz
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cowlitz
   - translation_iso: hin
     name: काउलिट्ज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cowlitz
     auto: true
   - translation_iso: jpn
     name: カウリッツ語

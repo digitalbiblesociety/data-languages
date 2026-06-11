@@ -29,6 +29,9 @@ translations:
     name: nicobarais central
   - translation_iso: hin
     name: मध्य निकोबारी भाषाएँ
+  - translation_iso: ind
+    name: Bahasa Central Nicobarese
+    auto: true
   - translation_iso: jpn
     name: 中央ニコバル語
     auto: true

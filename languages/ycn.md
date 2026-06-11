@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يوكونا
     auto: true
+  - translation_iso: ben
+    name: য়ুকুনা
+    auto: true
   - translation_iso: deu
     name: Yucuna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yucuna
   - translation_iso: hin
     name: युकुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yucuna
     auto: true
   - translation_iso: jpn
     name: ユクナ語

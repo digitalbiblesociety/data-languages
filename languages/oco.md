@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة الكورنية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ কোরনিশ
+    auto: true
   - translation_iso: deu
     name: Altkornisch
   - translation_iso: fra
     name: vieux cornique
   - translation_iso: hin
     name: प्राचीन कॉर्निश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Cornish
     auto: true
   - translation_iso: jpn
     name: 古コーンウォール語

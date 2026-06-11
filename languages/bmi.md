@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बागिर्मी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bagirmi
+    auto: true
   - translation_iso: jpn
     name: バギルミ語
   - translation_iso: kor

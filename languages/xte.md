@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيتينجبان
     auto: true
+  - translation_iso: ben
+    name: কেতেংবান
+    auto: true
   - translation_iso: deu
     name: Ketengban
     auto: true

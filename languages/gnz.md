@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غآنزي
     auto: true
+  - translation_iso: ben
+    name: গানজি
+    auto: true
   - translation_iso: deu
     name: Ganzi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ganzi
   - translation_iso: hin
     name: गांज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ganzi
     auto: true
   - translation_iso: jpn
     name: ガンジ語

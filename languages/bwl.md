@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بويلا
     auto: true
+  - translation_iso: ben
+    name: বওয়েলা
+    auto: true
   - translation_iso: deu
     name: Bwela
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्वेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwela
     auto: true
   - translation_iso: jpn
     name: ブウェラ語

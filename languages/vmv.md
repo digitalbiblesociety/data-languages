@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: فالي مايدو
     auto: true
+  - translation_iso: ben
+    name: ভাল্লেয় মাইদু
+    auto: true
   - translation_iso: deu
     name: Chico
   - translation_iso: fra
     name: maidu de la vallée
   - translation_iso: hin
     name: वैली माइदू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Valley Maidu
     auto: true
   - translation_iso: jpn
     name: バレー・マイドゥ語

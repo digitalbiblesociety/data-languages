@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجيم
     auto: true
+  - translation_iso: ben
+    name: ংগেম
+    auto: true
   - translation_iso: deu
     name: Nggem
     auto: true

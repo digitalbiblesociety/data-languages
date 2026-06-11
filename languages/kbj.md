@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: ben
+    name: কারি
+    auto: true
   - translation_iso: deu
     name: Kari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kari
   - translation_iso: hin
     name: कारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kari
     auto: true
   - translation_iso: jpn
     name: カリ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديتاماري
     auto: true
+  - translation_iso: ben
+    name: দিতাম্মারি
+    auto: true
   - translation_iso: deu
     name: Ditammari
   - translation_iso: fra
     name: ditammari
   - translation_iso: hin
     name: दितामारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ditammari
     auto: true
   - translation_iso: jpn
     name: ディタマリ語

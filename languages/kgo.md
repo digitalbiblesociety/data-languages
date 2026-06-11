@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كرونجو
     auto: true
+  - translation_iso: ben
+    name: করোঙো
+    auto: true
   - translation_iso: deu
     name: Krongo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: krongo
   - translation_iso: hin
     name: क्रोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krongo
     auto: true
   - translation_iso: jpn
     name: クロンゴ語

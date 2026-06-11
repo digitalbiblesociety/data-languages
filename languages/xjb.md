@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مينجونجبال
     auto: true
+  - translation_iso: ben
+    name: মিনজুংবাল
+    auto: true
   - translation_iso: deu
     name: Minjungbal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yugambeh
   - translation_iso: hin
     name: मिन्जुंगबल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minjungbal
     auto: true
   - translation_iso: jpn
     name: ミンジングバル語

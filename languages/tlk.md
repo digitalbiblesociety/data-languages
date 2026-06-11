@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تالوكي
     auto: true
+  - translation_iso: ben
+    name: তালোকি
+    auto: true
   - translation_iso: deu
     name: Taloki
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوم
     auto: true
+  - translation_iso: ben
+    name: তুওতোমব
+    auto: true
   - translation_iso: deu
     name: Tuotomb
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tuotomb
   - translation_iso: hin
     name: तुओतोम्ब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuotomb
     auto: true
   - translation_iso: jpn
     name: ボネク語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरोसी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arosi
+    auto: true
   - translation_iso: jpn
     name: アロシ語
   - translation_iso: kor

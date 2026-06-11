@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتو تشين
     auto: true
+  - translation_iso: ben
+    name: মাতু চিন
+    auto: true
   - translation_iso: deu
     name: Matu-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मातू चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matu Chin
     auto: true
   - translation_iso: jpn
     name: マトゥ・チン語

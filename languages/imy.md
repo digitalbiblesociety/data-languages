@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميليان
     auto: true
+  - translation_iso: ben
+    name: মিলয়ান
+    auto: true
   - translation_iso: deu
     name: Milyisch
   - translation_iso: fra

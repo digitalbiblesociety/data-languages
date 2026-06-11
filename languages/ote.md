@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي مثكيتال
     auto: true
+  - translation_iso: ben
+    name: মেজকুইতাল ওতোমি
+    auto: true
   - translation_iso: deu
     name: Mezquital-Otomi
   - translation_iso: fra
     name: otomi de la vallée de Mezquital
   - translation_iso: hin
     name: मेस्किताल ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mezquital Otomi
     auto: true
   - translation_iso: jpn
     name: メスキタル・オトミ語

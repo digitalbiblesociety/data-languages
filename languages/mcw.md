@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مافا الشاد
     auto: true
+  - translation_iso: ben
+    name: মাওয়া
+    auto: true
   - translation_iso: deu
     name: Mawa (Chad)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mawa
   - translation_iso: hin
     name: मावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mawa
     auto: true
   - translation_iso: jpn
     name: マワ語

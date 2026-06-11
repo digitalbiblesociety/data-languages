@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: فالي ناسيونال تشينانتك
     auto: true
+  - translation_iso: ben
+    name: ভাল্লে নাকিওনাল চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Valle-Nacional-Chinantekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chinantèque de Valle Nacional
   - translation_iso: hin
     name: वाये नासियोनाल चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Valle Nacional Chinantec
     auto: true
   - translation_iso: jpn
     name: バジェ・ナシオナル・チナンテク語

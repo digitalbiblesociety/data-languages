@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوهومونو
     auto: true
+  - translation_iso: ben
+    name: কোহুমোনো
+    auto: true
   - translation_iso: deu
     name: Kohumono
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोहुमोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kohumono
     auto: true
   - translation_iso: jpn
     name: コフモノ語

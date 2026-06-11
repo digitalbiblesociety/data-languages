@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एडोलो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Edolo
+    auto: true
   - translation_iso: jpn
     name: エドロ語
     auto: true

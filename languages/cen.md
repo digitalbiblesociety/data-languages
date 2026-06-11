@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: السين
     auto: true
+  - translation_iso: ben
+    name: কেন
+    auto: true
   - translation_iso: deu
     name: Cen
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cen
     auto: true
   - translation_iso: jpn
     name: セン語

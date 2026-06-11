@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتاريمبونغ
     auto: true
+  - translation_iso: ben
+    name: উতারমবুং
+    auto: true
   - translation_iso: deu
     name: Utarmbung
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उतार्मबुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Utarmbung
     auto: true
   - translation_iso: jpn
     name: ウタルムブング語

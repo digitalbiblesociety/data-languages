@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيبو
     auto: true
+  - translation_iso: ben
+    name: কেপো
+    auto: true
   - translation_iso: deu
     name: Kepo
   - translation_iso: fra

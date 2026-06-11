@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كاخاتامبو شمال ليما
     auto: true
+  - translation_iso: ben
+    name: কাজাতামবো নোরথ লিমা কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Cajatambo-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua de Cajatambo et du nord de Lima
   - translation_iso: hin
     name: काखातांबो उत्तरी लीमा क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cajatambo North Lima Quechua
     auto: true
   - translation_iso: jpn
     name: カハタンボ北リマケチュア語

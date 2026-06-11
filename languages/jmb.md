@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة زومبون
     auto: true
+  - translation_iso: ben
+    name: জুমবুন
+    auto: true
   - translation_iso: deu
     name: Zumbun
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ज़ुम्बुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zumbun
     auto: true
   - translation_iso: jpn
     name: ズンブン語

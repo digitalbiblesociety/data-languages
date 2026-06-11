@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيروي لاوت
     auto: true
+  - translation_iso: ben
+    name: সেরুই-লাউত
+    auto: true
   - translation_iso: deu
     name: Serui-Laut
     auto: true

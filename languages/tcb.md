@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانا كروس
     auto: true
+  - translation_iso: ben
+    name: তানাকরোস্স
+    auto: true
   - translation_iso: deu
     name: Tanacross
   - translation_iso: fra

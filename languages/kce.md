@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كايفي
     auto: true
+  - translation_iso: ben
+    name: কাইভি
+    auto: true
   - translation_iso: deu
     name: Kaivi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kaivi
   - translation_iso: hin
     name: काइवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaivi
     auto: true
   - translation_iso: jpn
     name: カイビ語

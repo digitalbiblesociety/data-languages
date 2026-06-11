@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغاووون
     auto: true
+  - translation_iso: ben
+    name: ঙাওয়ুন
+    auto: true
   - translation_iso: deu
     name: Ngawun
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngawun
   - translation_iso: hin
     name: नगावुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngawun
     auto: true
   - translation_iso: jpn
     name: ンガウン語

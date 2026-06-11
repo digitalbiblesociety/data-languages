@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مودبورا
     auto: true
+  - translation_iso: ben
+    name: মুদবুর্রা
+    auto: true
   - translation_iso: deu
     name: Mudburra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mudbura
   - translation_iso: hin
     name: मुदबुर्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mudburra
     auto: true
   - translation_iso: jpn
     name: ムドブラ語

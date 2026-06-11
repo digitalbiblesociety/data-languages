@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: बंकाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bankal
+    auto: true
   - translation_iso: jpn
     name: バンカル語
     auto: true

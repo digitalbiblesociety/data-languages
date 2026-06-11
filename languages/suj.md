@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوبي
     auto: true
+  - translation_iso: ben
+    name: শুবি
+    auto: true
   - translation_iso: deu
     name: Shubi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shubi
   - translation_iso: hin
     name: शुबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shubi
     auto: true
   - translation_iso: jpn
     name: シュビ語

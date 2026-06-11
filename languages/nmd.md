@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ندومو
     auto: true
+  - translation_iso: ben
+    name: নদুমু
+    auto: true
   - translation_iso: deu
     name: Ndumu
   - translation_iso: fra
     name: Ndumu
   - translation_iso: hin
     name: न्दुमु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndumu
     auto: true
   - translation_iso: jpn
     name: ンドゥム語

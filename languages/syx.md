@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سامي
     auto: true
+  - translation_iso: ben
+    name: সামায়
+    auto: true
   - translation_iso: deu
     name: Samay
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: samayé
   - translation_iso: hin
     name: समाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samay
     auto: true
   - translation_iso: jpn
     name: サマ語

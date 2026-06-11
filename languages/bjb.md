@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बांगर्ला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banggarla
+    auto: true
   - translation_iso: jpn
     name: バンガルラ語
     auto: true

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة كانان
     auto: true
+  - translation_iso: ben
+    name: কানান
+    auto: true
   - translation_iso: deu
     name: Kanan
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: kanan
   - translation_iso: hin
     name: कनान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanan
     auto: true
   - translation_iso: jpn
     name: カナン語

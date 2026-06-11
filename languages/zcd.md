@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك لاس ديليشياس
     auto: true
+  - translation_iso: ben
+    name: লাস দেলিকিয়াস জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Las Delicias)
     auto: true
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लास डेलिसियास सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Las Delicias Zapotec
     auto: true
   - translation_iso: jpn
     name: ラス・デリシアス・サポテク語

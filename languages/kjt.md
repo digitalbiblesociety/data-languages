@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فراي پو كارين
     auto: true
+  - translation_iso: ben
+    name: ফরাএ পওয়ো কারেন
+    auto: true
   - translation_iso: deu
     name: Phrae Pwo Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pwo phrae
   - translation_iso: hin
     name: फ्राए पो करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phrae Pwo Karen
     auto: true
   - translation_iso: jpn
     name: プレー・プウォ・カレン語

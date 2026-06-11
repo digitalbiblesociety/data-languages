@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سالاس
     auto: true
+  - translation_iso: ben
+    name: সালাস
+    auto: true
   - translation_iso: deu
     name: Salas
     auto: true

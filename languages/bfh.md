@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بلافي
     auto: true
+  - translation_iso: ben
+    name: বলাফে
+    auto: true
   - translation_iso: deu
     name: Blafe
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्लाफे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Blafe
     auto: true
   - translation_iso: jpn
     name: ブラフェ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موراد
     auto: true
+  - translation_iso: ben
+    name: মোরাইদ
+    auto: true
   - translation_iso: deu
     name: Moraid
     auto: true

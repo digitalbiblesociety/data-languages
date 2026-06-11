@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساكسوي غبي
     auto: true
+  - translation_iso: ben
+    name: সাকসওয়ে গবে
+    auto: true
   - translation_iso: deu
     name: Saxwe Gbe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: saxwe
   - translation_iso: hin
     name: साख्वे ग्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saxwe Gbe
     auto: true
   - translation_iso: jpn
     name: サクシェ・ゲベ語

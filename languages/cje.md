@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشرو
     auto: true
+  - translation_iso: ben
+    name: চরু
+    auto: true
   - translation_iso: deu
     name: Chru
     auto: true

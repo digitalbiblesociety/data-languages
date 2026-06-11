@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Day_language"
 translations:
   - translation_iso: ara
     name: داي
+  - translation_iso: ben
+    name: দায়
+    auto: true
   - translation_iso: deu
     name: Day
   - translation_iso: fra
     name: day
   - translation_iso: hin
     name: डे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Day
     auto: true
   - translation_iso: jpn
     name: デイ語

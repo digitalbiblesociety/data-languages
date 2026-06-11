@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة انجباسهي
     auto: true
+  - translation_iso: ben
+    name: লাংবাশে
+    auto: true
   - translation_iso: deu
     name: Langbashe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langbashe
   - translation_iso: hin
     name: लांगबाशे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Langbashe
     auto: true
   - translation_iso: jpn
     name: ランガバシェ語

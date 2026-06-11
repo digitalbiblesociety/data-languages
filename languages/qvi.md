@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا إمبابورا الجبلية
     auto: true
+  - translation_iso: ben
+    name: ইমবাবুরা হিঘলানদ কুইচুয়া
+    auto: true
   - translation_iso: deu
     name: Imbabura-Quichua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "quichua des hauts-plateaux d'Imbabura"
   - translation_iso: hin
     name: इम्बाबुरा हाइलैंड किचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Imbabura Highland Quichua
     auto: true
   - translation_iso: jpn
     name: インバブラハイランドキチュア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لالا
     auto: true
+  - translation_iso: ben
+    name: লালা
+    auto: true
   - translation_iso: deu
     name: Lala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lala
   - translation_iso: hin
     name: लाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lala
     auto: true
   - translation_iso: jpn
     name: ララ語

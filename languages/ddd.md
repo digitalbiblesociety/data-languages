@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دونجوتونو
     auto: true
+  - translation_iso: ben
+    name: দোঙোতোনো
+    auto: true
   - translation_iso: deu
     name: Dongotono
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dongotono
   - translation_iso: hin
     name: डोंगोटोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dongotono
     auto: true
   - translation_iso: jpn
     name: ドンゴトノ語

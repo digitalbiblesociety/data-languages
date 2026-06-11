@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Domari_language"
 translations:
   - translation_iso: ara
     name: الدومرية
+  - translation_iso: ben
+    name: দোমারি
+    auto: true
   - translation_iso: deu
     name: Domari
   - translation_iso: fra
     name: domari
   - translation_iso: hin
     name: डोमारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Domari
     auto: true
   - translation_iso: jpn
     name: ドマリ語

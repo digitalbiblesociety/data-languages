@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الشام الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন চাম
+    auto: true
   - translation_iso: deu
     name: Cham
   - translation_iso: fra

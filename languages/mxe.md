@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميلي فيلا
     auto: true
+  - translation_iso: ben
+    name: মেলে-ফিলা
+    auto: true
   - translation_iso: deu
     name: Mele-Fila
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mele-fila
   - translation_iso: hin
     name: मेले-फिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mele-Fila
     auto: true
   - translation_iso: jpn
     name: メレ・フィラ語

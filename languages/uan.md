@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوان
     auto: true
+  - translation_iso: ben
+    name: কুয়ান
+    auto: true
   - translation_iso: deu
     name: Kuan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuan
     auto: true
   - translation_iso: jpn
     name: クァン語

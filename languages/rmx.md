@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رومام
     auto: true
+  - translation_iso: ben
+    name: রোমাম
+    auto: true
   - translation_iso: deu
     name: Romam
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: romam
   - translation_iso: hin
     name: रोमाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romam
     auto: true
   - translation_iso: jpn
     name: ロマム語

@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chippewa_language"
 translations:
   - translation_iso: ara
     name: شيبيوا
+  - translation_iso: ben
+    name: চিপ্পেওয়া
+    auto: true
   - translation_iso: deu
     name: Chippewa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chippewa
   - translation_iso: hin
     name: चिप्पेवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chippewa
     auto: true
   - translation_iso: jpn
     name: 南西部オジブワ語

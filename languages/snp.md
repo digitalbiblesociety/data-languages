@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيان
     auto: true
+  - translation_iso: ben
+    name: সিয়ানে
+    auto: true
   - translation_iso: deu
     name: Siane
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: siane
   - translation_iso: hin
     name: सियाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siane
     auto: true
   - translation_iso: jpn
     name: シアネ語

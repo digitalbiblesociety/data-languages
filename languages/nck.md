@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نا كارا
     auto: true
+  - translation_iso: ben
+    name: না-কারা
+    auto: true
   - translation_iso: deu
     name: Na-kara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nakara
   - translation_iso: hin
     name: ना-कारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Na-kara
     auto: true
   - translation_iso: jpn
     name: ナッカラ

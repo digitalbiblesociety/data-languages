@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وونامبال
     auto: true
+  - translation_iso: ben
+    name: ওয়ুনামবাল
+    auto: true
   - translation_iso: deu
     name: Wunambal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wunambal
   - translation_iso: hin
     name: वुनम्बल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wunambal
     auto: true
   - translation_iso: jpn
     name: ウナンバル語

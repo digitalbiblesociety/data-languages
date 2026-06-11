@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هافاسوباي-والاباي-يافاباي
     auto: true
+  - translation_iso: ben
+    name: হাভাসুপাই-ওয়ালাপাই-য়াভাপাই
+    auto: true
   - translation_iso: deu
     name: Havasupai-Walapai-Yavapai
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हवासुपाई-वालापाई-यवापाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Havasupai-Walapai-Yavapai
     auto: true
   - translation_iso: jpn
     name: ハヴァスパイ-ワラパイ-ヤヴァパイ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تشاكوبو
     auto: true
+  - translation_iso: ben
+    name: চাকোবো
+    auto: true
   - translation_iso: deu
     name: Chacobo
   - translation_iso: fra
     name: chácobo
   - translation_iso: hin
     name: चाकोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chácobo
     auto: true
   - translation_iso: jpn
     name: チャコボ語

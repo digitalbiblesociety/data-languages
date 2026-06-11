@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونداديان تشيتي
     auto: true
+  - translation_iso: ben
+    name: মোউনদাদান চেত্তয়
+    auto: true
   - translation_iso: deu
     name: Moundadan Chetty
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मौंडादन चेट्टी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moundadan Chetty
     auto: true
   - translation_iso: jpn
     name: マウンダダン・チェッティ語

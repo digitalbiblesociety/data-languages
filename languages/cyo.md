@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويونون
     auto: true
+  - translation_iso: ben
+    name: কুয়োনোন
+    auto: true
   - translation_iso: deu
     name: Cuyonon
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुयोनोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cuyonon
     auto: true
   - translation_iso: jpn
     name: クヨノン語

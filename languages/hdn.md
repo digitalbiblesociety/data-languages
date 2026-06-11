@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن هآيدآ
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন হাইদা
+    auto: true
   - translation_iso: deu
     name: Nord-Haida
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: haïda du Nord
   - translation_iso: hin
     name: उत्तरी हाइदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Haida
     auto: true
   - translation_iso: jpn
     name: 北部ハイダ語

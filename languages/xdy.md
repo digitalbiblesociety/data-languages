@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مالاييك داياك
     auto: true
+  - translation_iso: ben
+    name: মালায়িক দায়াক
+    auto: true
   - translation_iso: deu
     name: Malaiisches Dayak
     auto: true

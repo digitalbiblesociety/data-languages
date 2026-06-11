@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويرانغو
     auto: true
+  - translation_iso: ben
+    name: ওয়িরাঙু
+    auto: true
   - translation_iso: deu
     name: Wirangu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wirangu
   - translation_iso: hin
     name: विरंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wirangu
     auto: true
   - translation_iso: jpn
     name: ウィラング語

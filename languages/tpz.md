@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تينبوتز
     auto: true
+  - translation_iso: ben
+    name: তিনপুতজ
+    auto: true
   - translation_iso: deu
     name: Tinputz
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tinputz
   - translation_iso: hin
     name: टिनपुट्ज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tinputz
     auto: true
   - translation_iso: jpn
     name: ヴァスイ語

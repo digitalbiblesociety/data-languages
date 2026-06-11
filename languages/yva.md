@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوا
     auto: true
+  - translation_iso: ben
+    name: য়াওয়া
+    auto: true
   - translation_iso: deu
     name: Yawa
     auto: true

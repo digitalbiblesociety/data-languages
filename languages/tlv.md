@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تالياابو
     auto: true
+  - translation_iso: ben
+    name: তালিয়াবু
+    auto: true
   - translation_iso: deu
     name: Taliabu
     auto: true

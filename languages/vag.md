@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: فاجلا
     auto: true
+  - translation_iso: ben
+    name: ভাগলা
+    auto: true
   - translation_iso: deu
     name: Vagla
   - translation_iso: fra
     name: vagla
   - translation_iso: hin
     name: वगला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vagla
     auto: true
   - translation_iso: jpn
     name: コノサロラ語

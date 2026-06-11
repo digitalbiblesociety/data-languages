@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لوتي
     auto: true
+  - translation_iso: ben
+    name: লোতে
+    auto: true
   - translation_iso: deu
     name: Lote
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lote
   - translation_iso: hin
     name: लोते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lote
     auto: true
   - translation_iso: jpn
     name: ウヴォル語

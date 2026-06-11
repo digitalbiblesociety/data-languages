@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेट्टा कुरुम्बा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Betta Kurumba
+    auto: true
   - translation_iso: jpn
     name: ベッタ・クルンバ語
     auto: true

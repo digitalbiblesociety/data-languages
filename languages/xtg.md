@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جوليا ترانسالبينية
     auto: true
+  - translation_iso: ben
+    name: তরানসালপিনে গাউলিশ
+    auto: true
   - translation_iso: deu
     name: Transalpinisches Gallisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ट्रांसएल्पाइन गॉलिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Transalpine Gaulish
     auto: true
   - translation_iso: jpn
     name: トランスアルパイン・ゴール語

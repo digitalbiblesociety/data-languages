@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة تشيشينجيني
     auto: true
+  - translation_iso: ben
+    name: কিশিঙিনি
+    auto: true
   - translation_iso: deu
     name: Cischingini
   - translation_iso: fra
     name: cishingini
   - translation_iso: hin
     name: चिशिंगिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cishingini
     auto: true
   - translation_iso: jpn
     name: チシンギニ語

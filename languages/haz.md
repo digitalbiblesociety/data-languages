@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hazaragi_dialects"
 translations:
   - translation_iso: ara
     name: هزارة غى
+  - translation_iso: ben
+    name: হাজারাগি
+    auto: true
   - translation_iso: deu
     name: Hazaragi
   - translation_iso: fra

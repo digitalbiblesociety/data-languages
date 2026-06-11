@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دارو ماتو ميلانو
     auto: true
+  - translation_iso: ben
+    name: দারো-মাতু মেলানাউ
+    auto: true
   - translation_iso: deu
     name: Daro-Matu Melanau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: daro-matu
   - translation_iso: hin
     name: डारो-मातू मेलानाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daro-Matu Melanau
     auto: true
   - translation_iso: jpn
     name: ダロマトゥ・メラナウ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بو
     auto: true
+  - translation_iso: ben
+    name: বু
+    auto: true
   - translation_iso: deu
     name: Bu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bu
   - translation_iso: hin
     name: बू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bu
     auto: true
   - translation_iso: jpn
     name: ブ語

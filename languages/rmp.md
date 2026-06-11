@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريمبي
     auto: true
+  - translation_iso: ben
+    name: রেমপি
+    auto: true
   - translation_iso: deu
     name: Rempi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rempi
   - translation_iso: hin
     name: रेम्पी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rempi
     auto: true
   - translation_iso: jpn
     name: レンピ語

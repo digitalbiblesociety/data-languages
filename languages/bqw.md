@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بورو
     auto: true
+  - translation_iso: ben
+    name: বুরু
+    auto: true
   - translation_iso: deu
     name: Buru
   - translation_iso: fra

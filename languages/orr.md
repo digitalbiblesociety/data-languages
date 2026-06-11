@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوروما
     auto: true
+  - translation_iso: ben
+    name: ওরুমা
+    auto: true
   - translation_iso: deu
     name: Oruma
   - translation_iso: fra
     name: oruma
   - translation_iso: hin
     name: ओरुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oruma
     auto: true
   - translation_iso: jpn
     name: オルマ語

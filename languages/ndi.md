@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سامبا ليكو
     auto: true
+  - translation_iso: ben
+    name: সামবা লেকো
+    auto: true
   - translation_iso: deu
     name: Samba Leko
   - translation_iso: fra
     name: samba leko
   - translation_iso: hin
     name: साम्बा लेको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samba Leko
     auto: true
   - translation_iso: jpn
     name: サンバ・レコ語

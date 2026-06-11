@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة البومبيتا أرابيش
     auto: true
+  - translation_iso: ben
+    name: বুমবিতা আরাপেশ
+    auto: true
   - translation_iso: deu
     name: Bumbita-Arapesh
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: arapesh bumbita
   - translation_iso: hin
     name: बुम्बिता अरापेश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bumbita Arapesh
     auto: true
   - translation_iso: jpn
     name: ブンビタ・アラペシュ語

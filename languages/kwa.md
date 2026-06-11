@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داو
     auto: true
+  - translation_iso: ben
+    name: দাওয়
+    auto: true
   - translation_iso: deu
     name: Dâw
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dâw
   - translation_iso: hin
     name: दाव
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dâw
     auto: true
   - translation_iso: jpn
     name: ダウ語

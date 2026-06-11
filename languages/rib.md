@@ -17,12 +17,18 @@ translations:
   - translation_iso: ara
     name: بريبري لغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: বরিবরি সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Bribri-Gebärdensprache
   - translation_iso: fra
     name: langue des signes bribri
   - translation_iso: hin
     name: ब्रिब्री सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Bribri Sign Language
+    auto: true
   - translation_iso: jpn
     name: ブリブリ手話
   - translation_iso: kor

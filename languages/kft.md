@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجاري
     auto: true
+  - translation_iso: ben
+    name: কানজারি
+    auto: true
   - translation_iso: deu
     name: Kanjari
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कंजारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanjari
     auto: true
   - translation_iso: jpn
     name: カンジャリ語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كورونيان
     auto: true
+  - translation_iso: ben
+    name: কুরোনিয়ান
+    auto: true
   - translation_iso: deu
     name: Kurisch
   - translation_iso: fra

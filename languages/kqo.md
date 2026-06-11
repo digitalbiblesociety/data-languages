@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كراهن الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন করাহন
+    auto: true
   - translation_iso: deu
     name: Ost-Krahn
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Konobo
   - translation_iso: hin
     name: पूर्वी क्राह्न
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Krahn
     auto: true
   - translation_iso: jpn
     name: イースタン・クラーン語

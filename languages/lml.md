@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة هانو
     auto: true
+  - translation_iso: ben
+    name: হানো
+    auto: true
   - translation_iso: deu
     name: Hano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hano
   - translation_iso: hin
     name: हानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hano
     auto: true
   - translation_iso: jpn
     name: ラガ語

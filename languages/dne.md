@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندينديول
     auto: true
+  - translation_iso: ben
+    name: নদেনদেউলে
+    auto: true
   - translation_iso: deu
     name: Ndendeule
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्देन्देउले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndendeule
     auto: true
   - translation_iso: jpn
     name: ンデンドゥレ語

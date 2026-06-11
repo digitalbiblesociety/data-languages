@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نالك
     auto: true
+  - translation_iso: ben
+    name: নালিক
+    auto: true
   - translation_iso: deu
     name: Nalik
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nalik
   - translation_iso: hin
     name: नालिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nalik
     auto: true
   - translation_iso: jpn
     name: ナリク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ياستيرن اوا
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন লাওয়া
+    auto: true
   - translation_iso: deu
     name: Eastern Lawa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "lawa de l'Est"
   - translation_iso: hin
     name: पूर्वी लावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Lawa
     auto: true
   - translation_iso: jpn
     name: 東ラワ語

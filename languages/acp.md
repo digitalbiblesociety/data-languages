@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن أسيپا
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন আকিপা
+    auto: true
   - translation_iso: deu
     name: Ost-Acipa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: acipa oriental
   - translation_iso: hin
     name: पूर्वी अचिपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Acipa
     auto: true
   - translation_iso: jpn
     name: 東部アシパ語

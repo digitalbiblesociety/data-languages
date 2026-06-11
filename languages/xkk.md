@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاكو
     auto: true
+  - translation_iso: ben
+    name: কাকো
+    auto: true
   - translation_iso: deu
     name: Kaco
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaco
   - translation_iso: hin
     name: काको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaco
     auto: true
   - translation_iso: jpn
     name: カコ語

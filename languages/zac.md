@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أوكوتلان
     auto: true
+  - translation_iso: ben
+    name: ওকোতলান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Ocotlán)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: "zapotèque d'Ocotlán"
   - translation_iso: hin
     name: ओकोत्लान ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ocotlán Zapotec
     auto: true
   - translation_iso: jpn
     name: オコトラン・サポテク語

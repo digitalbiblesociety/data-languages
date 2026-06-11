@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موراوا
     auto: true
+  - translation_iso: ben
+    name: মোরাওয়া
+    auto: true
   - translation_iso: deu
     name: Morawa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: morawa
   - translation_iso: hin
     name: मोरावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morawa
     auto: true
   - translation_iso: jpn
     name: モラワ語

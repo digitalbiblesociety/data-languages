@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बांदा-न्देले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banda-Ndélé
+    auto: true
   - translation_iso: jpn
     name: バンダ・ンデレ語
     auto: true

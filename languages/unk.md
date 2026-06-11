@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إناوينيه-ناويه
     auto: true
+  - translation_iso: ben
+    name: এনাওয়েনে-নাওয়ে
+    auto: true
   - translation_iso: deu
     name: Enawené-Nawé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: enawene-nawe
   - translation_iso: hin
     name: एनावेने-नावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Enawené-Nawé
     auto: true
   - translation_iso: jpn
     name: サルマ語

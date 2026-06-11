@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروبورا
     auto: true
+  - translation_iso: ben
+    name: পুরুবোরা
+    auto: true
   - translation_iso: deu
     name: Puruborá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: puruborá
   - translation_iso: hin
     name: पुरुबोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puruborá
     auto: true
   - translation_iso: jpn
     name: プルボラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كانوم سمارتكي
     auto: true
+  - translation_iso: ben
+    name: সমারকয় কানুম
+    auto: true
   - translation_iso: deu
     name: Smärky-Kanum
     auto: true

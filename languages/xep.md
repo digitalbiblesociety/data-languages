@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: يپيولميك
     auto: true
+  - translation_iso: ben
+    name: এপি-ওলমেক
+    auto: true
   - translation_iso: deu
     name: Epi-Olmekisch
     auto: true
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: एपी-ओल्मेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Epi-Olmec
     auto: true
   - translation_iso: jpn
     name: エピ・オルメック語

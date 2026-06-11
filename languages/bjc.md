@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बारिजी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bariji
+    auto: true
   - translation_iso: jpn
     name: バリジ語
     auto: true

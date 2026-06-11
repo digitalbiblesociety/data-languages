@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتاكسو ها-ها-هاي
     auto: true
+  - translation_iso: ben
+    name: পাতাকসো হা-হা-হাএ
+    auto: true
   - translation_iso: deu
     name: Pataxó Hã-Ha-Hãe
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पाताक्सो हां-हा-हांए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pataxó Hã-Ha-Hãe
     auto: true
   - translation_iso: jpn
     name: パタショーハーハーハーエ語

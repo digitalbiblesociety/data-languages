@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توجون
     auto: true
+  - translation_iso: ben
+    name: তুগুন
+    auto: true
   - translation_iso: deu
     name: Tugun
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيكيلي
     auto: true
+  - translation_iso: ben
+    name: সেকেলে
+    auto: true
   - translation_iso: deu
     name: Sekele
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vaseleke
   - translation_iso: hin
     name: सेकेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sekele
     auto: true
   - translation_iso: jpn
     name: 北クン語

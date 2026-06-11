@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: يدغة
     auto: true
+  - translation_iso: ben
+    name: য়িদঘা
+    auto: true
   - translation_iso: deu
     name: Yidgha
   - translation_iso: fra
     name: yidgha
   - translation_iso: hin
     name: यिदगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yidgha
     auto: true
   - translation_iso: jpn
     name: イドガ語

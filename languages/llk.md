@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يلاك
     auto: true
+  - translation_iso: ben
+    name: লেলাক
+    auto: true
   - translation_iso: deu
     name: Lelak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lelak
   - translation_iso: hin
     name: लेलाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lelak
     auto: true
   - translation_iso: jpn
     name: レラック語

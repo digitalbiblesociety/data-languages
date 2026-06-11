@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيماسيوي بوزو
     auto: true
+  - translation_iso: ben
+    name: তিএমাকেওয়ে বোজো
+    auto: true
   - translation_iso: deu
     name: Tiemacèwè Bozo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bozo de Tiemacèwè
   - translation_iso: hin
     name: तियेमासेवे बोज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiemacèwè Bozo
     auto: true
   - translation_iso: jpn
     name: ティエマセウェ・ボゾ語

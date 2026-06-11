@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: تشيشينجيني
     auto: true
+  - translation_iso: ben
+    name: তসিশিঙিনি
+    auto: true
   - translation_iso: deu
     name: Tsischingini
   - translation_iso: fra
     name: tsishingini
   - translation_iso: hin
     name: त्सिशिंगिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsishingini
     auto: true
   - translation_iso: jpn
     name: ツィシンギニ語

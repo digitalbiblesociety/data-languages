@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وينيه
     auto: true
+  - translation_iso: ben
+    name: ওয়িনয়ে
+    auto: true
   - translation_iso: deu
     name: Winyé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: winyé
   - translation_iso: hin
     name: विन्ये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Winyé
     auto: true
   - translation_iso: jpn
     name: ウィニェ語

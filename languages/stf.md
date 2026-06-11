@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيتية
     auto: true
+  - translation_iso: ben
+    name: সেতা
+    auto: true
   - translation_iso: deu
     name: Seta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: seta
   - translation_iso: hin
     name: सेता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seta
     auto: true
   - translation_iso: jpn
     name: セタ語

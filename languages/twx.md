@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توي
     auto: true
+  - translation_iso: ben
+    name: তেওয়ে
+    auto: true
   - translation_iso: deu
     name: Tewe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tewe
   - translation_iso: hin
     name: तेवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tewe
     auto: true
   - translation_iso: jpn
     name: チマニカ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوليب
     auto: true
+  - translation_iso: ben
+    name: কোয়ালিব
+    auto: true
   - translation_iso: deu
     name: Koalib
   - translation_iso: fra
     name: koalib
   - translation_iso: hin
     name: कोआलिब
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koalib
     auto: true
   - translation_iso: jpn
     name: コアリブ語

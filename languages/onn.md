@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونوباسولو
     auto: true
+  - translation_iso: ben
+    name: ওনোবাসুলু
+    auto: true
   - translation_iso: deu
     name: Onobasulu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओनोबासुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Onobasulu
     auto: true
   - translation_iso: jpn
     name: オノバスル語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارونغو
     auto: true
+  - translation_iso: ben
+    name: ওয়ারুঙু
+    auto: true
   - translation_iso: deu
     name: Warungu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warrungu
   - translation_iso: hin
     name: वारुंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warungu
     auto: true
   - translation_iso: jpn
     name: ワルング語

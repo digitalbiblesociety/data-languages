@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوكيك
     auto: true
+  - translation_iso: ben
+    name: ওকিএক
+    auto: true
   - translation_iso: deu
     name: Okiek
   - translation_iso: fra
     name: okiek
   - translation_iso: hin
     name: ओकिएक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Okiek
     auto: true
   - translation_iso: jpn
     name: オキエク語

@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अक्पा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akpa
+    auto: true
   - translation_iso: jpn
     name: アクパ語
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एफ्रो-सेमिनोल क्रियोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Afro-Seminole Creole
+    auto: true
   - translation_iso: jpn
     name: アフロ・セミノール語
   - translation_iso: kor

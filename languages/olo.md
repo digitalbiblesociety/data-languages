@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة ليفي
     auto: true
+  - translation_iso: ben
+    name: লিভ্ভি
+    auto: true
   - translation_iso: deu
     name: Olonetzisch
   - translation_iso: fra
     name: olonetsien
   - translation_iso: hin
     name: लिव्वी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Livvi
     auto: true
   - translation_iso: jpn
     name: リッヴィ語

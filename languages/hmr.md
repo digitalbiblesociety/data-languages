@@ -30,6 +30,9 @@ translations:
     name: hmar
   - translation_iso: hin
     name: म्हार भाषा
+  - translation_iso: ind
+    name: Bahasa Hmar
+    auto: true
   - translation_iso: jpn
     name: フマール語
   - translation_iso: kor

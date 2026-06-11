@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: غيإلإ
     auto: true
+  - translation_iso: ben
+    name: গয়েলে
+    auto: true
   - translation_iso: deu
     name: Gyele
   - translation_iso: fra
     name: gyele
   - translation_iso: hin
     name: ग्येले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gyele
     auto: true
   - translation_iso: jpn
     name: ギェレ語

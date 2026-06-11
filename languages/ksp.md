@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابا
     auto: true
+  - translation_iso: ben
+    name: কাবা
+    auto: true
   - translation_iso: deu
     name: Kaba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Kabba
   - translation_iso: hin
     name: काबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaba
     auto: true
   - translation_iso: jpn
     name: カバ語

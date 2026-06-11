@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ساكاتلان أهواكاتلان تيبتسينتلا ناهواتل
     auto: true
+  - translation_iso: ben
+    name: জাকাতলান-আহুয়াকাতলান-তেপেতজিনতলা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Zacatlán-Ahuacatlán-Tepetzintla-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de Zacatlán-Ahuacatlán-Tepetzintla
   - translation_iso: hin
     name: साकातलान-आहुआकातलान-तेपेत्ज़िंतला नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zacatlán-Ahuacatlán-Tepetzintla Nahuatl
     auto: true
   - translation_iso: jpn
     name: サカトラン・アワカトラン・テペツィントラ・ナワトル語

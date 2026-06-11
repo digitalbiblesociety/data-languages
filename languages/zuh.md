@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توكانو
     auto: true
+  - translation_iso: ben
+    name: তোকানো
+    auto: true
   - translation_iso: deu
     name: Tokano
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: टोकानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tokano
     auto: true
   - translation_iso: jpn
     name: トカノ語

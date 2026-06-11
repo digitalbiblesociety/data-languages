@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بالور
     auto: true
+  - translation_iso: ben
+    name: পালোর
+    auto: true
   - translation_iso: deu
     name: Palor
   - translation_iso: fra
     name: palor
   - translation_iso: hin
     name: पलूर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paloor
     auto: true
   - translation_iso: jpn
     name: パロール語

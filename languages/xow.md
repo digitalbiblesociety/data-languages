@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوواكي
     auto: true
+  - translation_iso: ben
+    name: কোওয়াকি
+    auto: true
   - translation_iso: deu
     name: Kowaki
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kowaki
   - translation_iso: hin
     name: कोवाकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kowaki
     auto: true
   - translation_iso: jpn
     name: コワキ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وامبولي
     auto: true
+  - translation_iso: ben
+    name: ওয়ামবুলে
+    auto: true
   - translation_iso: deu
     name: Wambule
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wambule
   - translation_iso: hin
     name: वम्बुले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wambule
     auto: true
   - translation_iso: jpn
     name: ワンブレ語

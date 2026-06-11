@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كارو (إثيوبيا)
     auto: true
+  - translation_iso: ben
+    name: কারো
+    auto: true
   - translation_iso: deu
     name: Karo (Äthiopien)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: karo
   - translation_iso: hin
     name: कारो (इथियोपिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karo
     auto: true
   - translation_iso: jpn
     name: カロ語

@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: क्रोएशिया सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Croatia Sign Language
+    auto: true
   - translation_iso: jpn
     name: クロアチア手話
   - translation_iso: kor

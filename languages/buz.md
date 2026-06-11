@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوكْويْن
     auto: true
+  - translation_iso: ben
+    name: বুকওয়েন
+    auto: true
   - translation_iso: deu
     name: Bukwen
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुकवेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bukwen
     auto: true
   - translation_iso: jpn
     name: ブクウェン語

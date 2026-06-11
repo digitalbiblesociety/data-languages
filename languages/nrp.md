@@ -19,12 +19,18 @@ translations:
   - translation_iso: ara
     name: بيسيني الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ পিকেনে
+    auto: true
   - translation_iso: deu
     name: Nordpikenisch
   - translation_iso: fra
     name: nord-picène
   - translation_iso: hin
     name: उत्तरी पिकेने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Picene
     auto: true
   - translation_iso: jpn
     name: 北ピケネ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكيري
     auto: true
+  - translation_iso: ben
+    name: কিরে
+    auto: true
   - translation_iso: deu
     name: Kire
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kire
   - translation_iso: hin
     name: किरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kire
     auto: true
   - translation_iso: jpn
     name: キレ語

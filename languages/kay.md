@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كامايورا
     auto: true
+  - translation_iso: ben
+    name: কামায়ুরা
+    auto: true
   - translation_iso: deu
     name: Kamayurá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kamayurá
   - translation_iso: hin
     name: कामायुरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamayurá
     auto: true
   - translation_iso: jpn
     name: カマユラ語

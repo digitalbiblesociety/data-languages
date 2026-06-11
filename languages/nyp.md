@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "نيانغ'i"
     auto: true
+  - translation_iso: ben
+    name: নয়াঙি
+    auto: true
   - translation_iso: deu
     name: "Nyang'i"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "nyang'i"
   - translation_iso: hin
     name: न्यांगी
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Nyang'i"
     auto: true
   - translation_iso: jpn
     name: ニャンギ語

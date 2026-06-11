@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووينيا
     auto: true
+  - translation_iso: ben
+    name: ওওয়েনিয়া
+    auto: true
   - translation_iso: deu
     name: Owenia
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओवेनिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Owenia
     auto: true
   - translation_iso: jpn
     name: オウェニア語

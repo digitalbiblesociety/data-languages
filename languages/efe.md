@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एफे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Efe
+    auto: true
   - translation_iso: jpn
     name: エフェ語
     auto: true

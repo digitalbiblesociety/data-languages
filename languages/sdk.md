@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوس كندي
     auto: true
+  - translation_iso: ben
+    name: সোস কুনদি
+    auto: true
   - translation_iso: deu
     name: Sos Kundi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sos kundi
   - translation_iso: hin
     name: सोस कुंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sos Kundi
     auto: true
   - translation_iso: jpn
     name: アグバーネ語

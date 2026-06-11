@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: جنوب بينغ الصينية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন পিং চিনেসের
+    auto: true
   - translation_iso: deu
     name: Südliches Ping-Chinesisch
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिणी पिंग चीनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Ping Chinese\r
     auto: true
   - translation_iso: jpn
     name: 桂南平話

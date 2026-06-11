@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كووتااي
     auto: true
+  - translation_iso: ben
+    name: কুওয়াতায়
+    auto: true
   - translation_iso: deu
     name: Kwatay
   - translation_iso: fra
     name: kwatay
   - translation_iso: hin
     name: कुवाताय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuwaataay
     auto: true
   - translation_iso: jpn
     name: クワータイ語

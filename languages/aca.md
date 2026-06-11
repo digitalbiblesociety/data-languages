@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अचागुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Achagua
+    auto: true
   - translation_iso: jpn
     name: アチャワ語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-ماريفوني
     auto: true
+  - translation_iso: ben
+    name: মাখুওয়া-মার্রেভোনে
+    auto: true
   - translation_iso: deu
     name: Makhuwa-Marrevone
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: makhuwa-marrevone
   - translation_iso: hin
     name: माखुवा-मारेवोने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makhuwa-Marrevone
     auto: true
   - translation_iso: jpn
     name: マク​​ワ・マレボネ語

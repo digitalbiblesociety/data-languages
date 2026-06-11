@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فيرا
     auto: true
+  - translation_iso: ben
+    name: ভেরা
+    auto: true
   - translation_iso: deu
     name: "Vera'a"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "vera'a"
   - translation_iso: hin
     name: वेराआ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Vera'a"
     auto: true
   - translation_iso: jpn
     name: ベラア語

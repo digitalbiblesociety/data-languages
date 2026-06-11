@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: إيدي كابي
     auto: true
+  - translation_iso: ben
+    name: এদে কাবে
+    auto: true
   - translation_iso: deu
     name: Cabe
   - translation_iso: fra
     name: ede cabe
   - translation_iso: hin
     name: एदे काबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ede Cabe
     auto: true
   - translation_iso: jpn
     name: エデ・カベ語

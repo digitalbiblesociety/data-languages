@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارينج
     auto: true
+  - translation_iso: ben
+    name: মারিং
+    auto: true
   - translation_iso: deu
     name: Maring
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maring
   - translation_iso: hin
     name: मरीआंग भाषा
+  - translation_iso: ind
+    name: Bahasa Maring
+    auto: true
   - translation_iso: jpn
     name: マリング語
     auto: true

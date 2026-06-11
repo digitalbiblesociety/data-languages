@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوردونا
     auto: true
+  - translation_iso: ben
+    name: বুরদুনা
+    auto: true
   - translation_iso: deu
     name: Burduna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: burduna
   - translation_iso: hin
     name: बुर्दुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burduna
     auto: true
   - translation_iso: jpn
     name: ブルドゥナ語

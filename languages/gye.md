@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غيإم
     auto: true
+  - translation_iso: ben
+    name: গয়েম
+    auto: true
   - translation_iso: deu
     name: Gyem
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gyem
   - translation_iso: hin
     name: ग्येम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gyem
     auto: true
   - translation_iso: jpn
     name: ギェム語

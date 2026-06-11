@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مين بي الصينية
     auto: true
+  - translation_iso: ben
+    name: মিন বেই চিনেসে
+    auto: true
   - translation_iso: deu
     name: Min Bei
   - translation_iso: fra

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سيرا
     auto: true
+  - translation_iso: ben
+    name: সিরা
+    auto: true
   - translation_iso: deu
     name: Sira
   - translation_iso: fra
     name: sira
   - translation_iso: hin
     name: सिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sira
     auto: true
   - translation_iso: jpn
     name: シラ語

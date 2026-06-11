@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अगोब
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agob
+    auto: true
   - translation_iso: jpn
     name: アゴブ語
     auto: true

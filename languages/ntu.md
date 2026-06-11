@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناتوغو
     auto: true
+  - translation_iso: ben
+    name: নাতুগু
+    auto: true
   - translation_iso: deu
     name: Natügu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: natügu
   - translation_iso: hin
     name: नातुगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Natügu
     auto: true
   - translation_iso: jpn
     name: ナトゥグ語

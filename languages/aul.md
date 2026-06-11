@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: औलुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aulua
+    auto: true
   - translation_iso: jpn
     name: アウルア語
     auto: true

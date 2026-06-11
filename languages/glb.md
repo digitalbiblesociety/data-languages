@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बेल्निंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Belning
+    auto: true
   - translation_iso: jpn
     name: ベルニング語
     auto: true

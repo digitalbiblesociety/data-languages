@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينهاوانغكا
     auto: true
+  - translation_iso: ben
+    name: য়িনহাওয়াংকা
+    auto: true
   - translation_iso: deu
     name: Yinhawangka
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yinhawangka
   - translation_iso: hin
     name: यिन्हावांगका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yinhawangka
     auto: true
   - translation_iso: jpn
     name: イインハワンカ語

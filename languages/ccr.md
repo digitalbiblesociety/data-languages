@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الكاكاوبيرا
     auto: true
+  - translation_iso: ben
+    name: কাকাওপেরা
+    auto: true
   - translation_iso: deu
     name: Cacaopera
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: काकाओपेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cacaopera
     auto: true
   - translation_iso: jpn
     name: カカオペラ語

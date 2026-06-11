@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة تانودان كالينجا
     auto: true
+  - translation_iso: ben
+    name: তানুদান কালিঙা
+    auto: true
   - translation_iso: deu
     name: Tanudan Kalinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalinga tanudan
   - translation_iso: hin
     name: तानुदान कालिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanudan Kalinga
     auto: true
   - translation_iso: jpn
     name: タヌダン・カリンガ語

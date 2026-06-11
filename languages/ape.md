@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكيايب
     auto: true
+  - translation_iso: ben
+    name: বুকিয়িপ
+    auto: true
   - translation_iso: deu
     name: Bukiyip
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bukiyip
   - translation_iso: hin
     name: बुकियिप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bukiyip
     auto: true
   - translation_iso: jpn
     name: 山岳アラペシュ語

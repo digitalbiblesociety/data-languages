@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كورو (فانواتو)
     auto: true
+  - translation_iso: ben
+    name: কোরো
+    auto: true
   - translation_iso: deu
     name: Koro
   - translation_iso: fra
     name: koro
   - translation_iso: hin
     name: कोरो (वानुआतू)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koro
     auto: true
   - translation_iso: jpn
     name: コロ語

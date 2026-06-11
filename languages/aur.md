@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अरुएक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aruek
+    auto: true
   - translation_iso: jpn
     name: アルエク語
     auto: true

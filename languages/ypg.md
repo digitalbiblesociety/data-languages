@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فولا
     auto: true
+  - translation_iso: ben
+    name: ফোলা
+    auto: true
   - translation_iso: deu
     name: Phola
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phola
   - translation_iso: hin
     name: फोला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phola
     auto: true
   - translation_iso: jpn
     name: フォラ語

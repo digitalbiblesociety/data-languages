@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابورا
     auto: true
+  - translation_iso: ben
+    name: পাপোরা
+    auto: true
   - translation_iso: deu
     name: Papora
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: papora
   - translation_iso: hin
     name: पापोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Papora
     auto: true
   - translation_iso: jpn
     name: パポラ・ホアンヤ語

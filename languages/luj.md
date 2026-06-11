@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ونا
     auto: true
+  - translation_iso: ben
+    name: লুনা
+    auto: true
   - translation_iso: deu
     name: Luna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luna
   - translation_iso: hin
     name: लुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luna
     auto: true
   - translation_iso: jpn
     name: ルナ語

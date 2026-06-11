@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوري
     auto: true
+  - translation_iso: ben
+    name: কুরি
+    auto: true
   - translation_iso: deu
     name: Kuri
     auto: true

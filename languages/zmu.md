@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موروواري
     auto: true
+  - translation_iso: ben
+    name: মুরুওয়ারি
+    auto: true
   - translation_iso: deu
     name: Muruwari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muruwari
   - translation_iso: hin
     name: मुरुवारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muruwari
     auto: true
   - translation_iso: jpn
     name: ムルワリ語

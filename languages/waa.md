@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: والا والا
     auto: true
+  - translation_iso: ben
+    name: ওয়াল্লা ওয়াল্লা
+    auto: true
   - translation_iso: deu
     name: Walla Walla
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: walla walla
   - translation_iso: hin
     name: वाला वाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Walla Walla
     auto: true
   - translation_iso: jpn
     name: ワラワラ語

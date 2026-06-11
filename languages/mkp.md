@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مويكودي
     auto: true
+  - translation_iso: ben
+    name: মোইকোদি
+    auto: true
   - translation_iso: deu
     name: Moikodi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moikodi
   - translation_iso: hin
     name: मोइकोदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moikodi
     auto: true
   - translation_iso: jpn
     name: モイコディ語

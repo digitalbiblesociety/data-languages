@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كباتي
     auto: true
+  - translation_iso: ben
+    name: কপাতি
+    auto: true
   - translation_iso: deu
     name: Kpati
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: क्पाती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpati
     auto: true
   - translation_iso: jpn
     name: クパティ語

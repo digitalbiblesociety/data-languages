@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوسبانتيكو
     auto: true
+  - translation_iso: ben
+    name: উসপানতেকো
+    auto: true
   - translation_iso: deu
     name: Uspanteco
   - translation_iso: fra

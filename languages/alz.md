@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलूर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alur
+    auto: true
   - translation_iso: jpn
     name: アルール語
   - translation_iso: kor

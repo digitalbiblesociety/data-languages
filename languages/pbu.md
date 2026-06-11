@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة باشتو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন পাশতো
+    auto: true
   - translation_iso: deu
     name: Nordpaschtu
     auto: true

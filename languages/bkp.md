@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بوكو
     auto: true
+  - translation_iso: ben
+    name: বোকো
+    auto: true
   - translation_iso: deu
     name: Boko
   - translation_iso: fra
     name: iboko
   - translation_iso: hin
     name: बोको (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boko
     auto: true
   - translation_iso: jpn
     name: ボコ

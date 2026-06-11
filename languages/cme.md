@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: السيرما
     auto: true
+  - translation_iso: ben
+    name: কেরমা
+    auto: true
   - translation_iso: deu
     name: Cerma
   - translation_iso: fra
     name: cerma
   - translation_iso: hin
     name: सेर्मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cerma
     auto: true
   - translation_iso: jpn
     name: セルマ語

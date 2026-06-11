@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إبيرا
     auto: true
+  - translation_iso: ben
+    name: এবিরা
+    auto: true
   - translation_iso: deu
     name: Ebira
   - translation_iso: fra
     name: ebira
   - translation_iso: hin
     name: एबिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ebira
     auto: true
   - translation_iso: jpn
     name: エビラ語

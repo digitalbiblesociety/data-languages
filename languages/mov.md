@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موهافي
     auto: true
+  - translation_iso: ben
+    name: মোহাভে
+    auto: true
   - translation_iso: deu
     name: Mohave
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mojave
   - translation_iso: hin
     name: मोहावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mohave
     auto: true
   - translation_iso: jpn
     name: モハベ語

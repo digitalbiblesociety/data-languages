@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوسون مالانج
     auto: true
+  - translation_iso: ben
+    name: দুসুন মালাং
+    auto: true
   - translation_iso: deu
     name: Dusun Malang
     auto: true

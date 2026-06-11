@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बांदा-बांदा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banda-Banda
+    auto: true
   - translation_iso: jpn
     name: バンダ・バンダ語
     auto: true

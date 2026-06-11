@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: وايلاكي
     auto: true
+  - translation_iso: ben
+    name: ওয়াইলাকি
+    auto: true
   - translation_iso: deu
     name: Wailaki
   - translation_iso: fra
     name: wailaki
   - translation_iso: hin
     name: वैलाकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wailaki
     auto: true
   - translation_iso: jpn
     name: ワイラキ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يكپيلي
     auto: true
+  - translation_iso: ben
+    name: সেকপেলে
+    auto: true
   - translation_iso: deu
     name: Sekpele
   - translation_iso: fra
     name: sekpele
   - translation_iso: hin
     name: सेक्पेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sekpele
     auto: true
   - translation_iso: jpn
     name: セクペレ語

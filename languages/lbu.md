@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لابو
     auto: true
+  - translation_iso: ben
+    name: লাবু
+    auto: true
   - translation_iso: deu
     name: Labu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: labu
   - translation_iso: hin
     name: लाबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Labu
     auto: true
   - translation_iso: jpn
     name: ラブ語

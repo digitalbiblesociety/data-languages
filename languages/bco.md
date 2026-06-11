@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة كالولي
     auto: true
+  - translation_iso: ben
+    name: কালুলি
+    auto: true
   - translation_iso: deu
     name: Kaluli
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कालुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaluli
     auto: true
   - translation_iso: jpn
     name: カルリ語

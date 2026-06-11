@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك كاخونوس
     auto: true
+  - translation_iso: ben
+    name: কাজোনোস জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Cajonos)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Cajonos
   - translation_iso: hin
     name: काहोनोस ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cajonos Zapotec
     auto: true
   - translation_iso: jpn
     name: カホノス・サポテク語

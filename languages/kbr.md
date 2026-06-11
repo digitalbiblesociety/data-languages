@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kafa_language"
 translations:
   - translation_iso: ara
     name: لغة كافا
+  - translation_iso: ben
+    name: কাফা
+    auto: true
   - translation_iso: deu
     name: Kaffa
   - translation_iso: fra
     name: kafa
   - translation_iso: hin
     name: काफ़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kafa
     auto: true
   - translation_iso: jpn
     name: カファ語

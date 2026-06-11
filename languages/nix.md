@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هيما
     auto: true
+  - translation_iso: ben
+    name: হেমা
+    auto: true
   - translation_iso: deu
     name: Hema
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hema
   - translation_iso: hin
     name: हेमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hema
     auto: true
   - translation_iso: jpn
     name: ヘマ語

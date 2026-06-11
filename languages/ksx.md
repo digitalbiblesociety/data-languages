@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيدانج
     auto: true
+  - translation_iso: ben
+    name: কেদাং
+    auto: true
   - translation_iso: deu
     name: Kedang
   - translation_iso: fra

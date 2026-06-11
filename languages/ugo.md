@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوجونج
     auto: true
+  - translation_iso: ben
+    name: উগোং
+    auto: true
   - translation_iso: deu
     name: Ugong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ugong
   - translation_iso: hin
     name: उगोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ugong
     auto: true
   - translation_iso: jpn
     name: ウゴン語

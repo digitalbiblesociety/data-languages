@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تينّ
     auto: true
+  - translation_iso: ben
+    name: তেন
+    auto: true
   - translation_iso: deu
     name: "T'en"
     auto: true

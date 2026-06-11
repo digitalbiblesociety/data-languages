@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Grenadian_Creole_English"
 translations:
   - translation_iso: ara
     name: إنكليزية غرنادة المولدة
+  - translation_iso: ben
+    name: গরেনাদিয়ান করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Grenada-Kreolisch
   - translation_iso: fra
     name: créole grenadais
   - translation_iso: hin
     name: ग्रेनेडियन क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Grenadian Creole English
     auto: true
   - translation_iso: jpn
     name: グレナダ・クレオール語

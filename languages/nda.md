@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نداسا
     auto: true
+  - translation_iso: ben
+    name: নদাসা
+    auto: true
   - translation_iso: deu
     name: Ndasa
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्दासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndasa
     auto: true
   - translation_iso: jpn
     name: ンダサ語

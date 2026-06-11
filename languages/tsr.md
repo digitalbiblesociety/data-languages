@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अकेई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akei
+    auto: true
   - translation_iso: jpn
     name: タシリキ語
     auto: true

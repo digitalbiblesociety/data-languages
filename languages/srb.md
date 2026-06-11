@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة سورا
     auto: true
+  - translation_iso: ben
+    name: সোরা
+    auto: true
   - translation_iso: deu
     name: Sora
   - translation_iso: fra
     name: sora
   - translation_iso: hin
     name: सोरा भाषा
+  - translation_iso: ind
+    name: Bahasa Sora
+    auto: true
   - translation_iso: jpn
     name: ソーラ語
   - translation_iso: kor

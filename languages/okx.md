@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبي الشمالية الغربية
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসতেরন এদো ওকপে
+    auto: true
   - translation_iso: deu
     name: Okpe (Nordwest-Edo)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओक्पे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwestern Edo Okpe
     auto: true
   - translation_iso: jpn
     name: オクペ語

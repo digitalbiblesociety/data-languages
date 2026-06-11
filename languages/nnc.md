@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نانسيري
     auto: true
+  - translation_iso: ben
+    name: নানকেরে
+    auto: true
   - translation_iso: deu
     name: Nancere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nangjere
   - translation_iso: hin
     name: नानसेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nancere
     auto: true
   - translation_iso: jpn
     name: ナンセレ語

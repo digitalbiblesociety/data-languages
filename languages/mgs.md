@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندا
     auto: true
+  - translation_iso: ben
+    name: মানদা
+    auto: true
   - translation_iso: deu
     name: Manda (Tanzania)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: manda
   - translation_iso: hin
     name: मांडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manda
     auto: true
   - translation_iso: jpn
     name: マンダ語

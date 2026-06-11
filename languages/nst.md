@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسي ناغا
     auto: true
+  - translation_iso: ben
+    name: তাসে নাগা
+    auto: true
   - translation_iso: deu
     name: Tase-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tangsa
   - translation_iso: hin
     name: तंग्सा भाषा
+  - translation_iso: ind
+    name: Bahasa Tase Naga
+    auto: true
   - translation_iso: jpn
     name: タセ・ナガ語
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بونو
     auto: true
+  - translation_iso: ben
+    name: পুনো কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Puno-Quechua
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: quechua de Puno
   - translation_iso: hin
     name: पुनो क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puno Quechua
     auto: true
   - translation_iso: jpn
     name: プノ・ケチュア語

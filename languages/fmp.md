@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: فيفي
     auto: true
+  - translation_iso: ben
+    name: ফেফে
+    auto: true
   - translation_iso: deu
     name: "Fe'fe"
   - translation_iso: fra
     name: nufi
   - translation_iso: hin
     name: फेफे
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Fe'fe"
     auto: true
   - translation_iso: jpn
     name: フェフェ語

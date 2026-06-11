@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فانيمو
     auto: true
+  - translation_iso: ben
+    name: ভানিমো
+    auto: true
   - translation_iso: deu
     name: Vanimo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vanimo
   - translation_iso: hin
     name: वानिमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vanimo
     auto: true
   - translation_iso: jpn
     name: ドゥソ語

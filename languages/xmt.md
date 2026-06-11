@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماتبات
     auto: true
+  - translation_iso: ben
+    name: মাতবাত
+    auto: true
   - translation_iso: deu
     name: Matbat
     auto: true

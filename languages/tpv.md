@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانابج
     auto: true
+  - translation_iso: ben
+    name: তানাপাগ
+    auto: true
   - translation_iso: deu
     name: Tanapag
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tanapag
   - translation_iso: hin
     name: तानापाग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanapag
     auto: true
   - translation_iso: jpn
     name: 北カロリニアン語

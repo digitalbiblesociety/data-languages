@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توكانج بيسي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: তুকাং বেসি সোউথ
+    auto: true
   - translation_iso: deu
     name: Tukang Besi South
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tukang besi du Sud
   - translation_iso: hin
     name: दक्षिणी तुकांग बेसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tukang Besi South
     auto: true
   - translation_iso: jpn
     name: トゥカン・ベシ南語

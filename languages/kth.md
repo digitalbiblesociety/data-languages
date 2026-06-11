@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: करंगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Karanga
+    auto: true
   - translation_iso: jpn
     name: カランガ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন কায়াহ
+    auto: true
   - translation_iso: deu
     name: West-Kayah
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "kayah de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी कायाह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Kayah
     auto: true
   - translation_iso: jpn
     name: 西カヤ語

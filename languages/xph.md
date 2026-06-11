@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماني المنتصف الشمالي
     auto: true
+  - translation_iso: ben
+    name: নোরথ মিদলানদস তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: North Midlands Tasmanian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "tasmanien du nord de l'intérieur"
   - translation_iso: hin
     name: उत्तरी मिडलैंड्स तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Midlands Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: 北ミッドランド・タスマニア語

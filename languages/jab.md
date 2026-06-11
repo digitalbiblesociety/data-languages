@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة هيام
     auto: true
+  - translation_iso: ben
+    name: হয়াম
+    auto: true
   - translation_iso: deu
     name: Hyam
   - translation_iso: fra
     name: hyam
   - translation_iso: hin
     name: ह्याम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hyam
     auto: true
   - translation_iso: jpn
     name: ヒャム語

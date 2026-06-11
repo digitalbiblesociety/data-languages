@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فوريس
     auto: true
+  - translation_iso: ben
+    name: ভুরেস
+    auto: true
   - translation_iso: deu
     name: Vurës
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vurës
   - translation_iso: hin
     name: वुरेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vurës
     auto: true
   - translation_iso: jpn
     name: ヴュレス語

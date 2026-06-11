@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: "كايلي دا'ا"
     auto: true
+  - translation_iso: ben
+    name: দা কাইলি
+    auto: true
   - translation_iso: deu
     name: "Da'a-Kaili"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "kaili da'a"
   - translation_iso: hin
     name: दआ कैली
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Da'a Kaili"
     auto: true
   - translation_iso: jpn
     name: ダア・カイリ語

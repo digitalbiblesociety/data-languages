@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الأرمنية الكلاسيكية
     auto: true
+  - translation_iso: ben
+    name: কলাস্সিকাল আরমেনিয়ান
+    auto: true
   - translation_iso: deu
     name: Altarmenisch
   - translation_iso: fra

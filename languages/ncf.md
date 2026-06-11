@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوتسي
     auto: true
+  - translation_iso: ben
+    name: নোতসি
+    auto: true
   - translation_iso: deu
     name: Notsi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: notsi
   - translation_iso: hin
     name: नोत्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Notsi
     auto: true
   - translation_iso: jpn
     name: ノツィ語

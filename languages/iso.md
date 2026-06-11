@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيسوكو
     auto: true
+  - translation_iso: ben
+    name: ইসোকো
+    auto: true
   - translation_iso: deu
     name: Isoko
   - translation_iso: fra
     name: isoko
   - translation_iso: hin
     name: इसोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isoko
     auto: true
   - translation_iso: jpn
     name: イソコ語

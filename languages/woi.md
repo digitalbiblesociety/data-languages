@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كامانغ
     auto: true
+  - translation_iso: ben
+    name: কামাং
+    auto: true
   - translation_iso: deu
     name: Kamang
     auto: true

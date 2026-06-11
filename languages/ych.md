@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشيسو
     auto: true
+  - translation_iso: ben
+    name: চেসু
+    auto: true
   - translation_iso: deu
     name: Chesu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chesu
   - translation_iso: hin
     name: चेसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chesu
     auto: true
   - translation_iso: jpn
     name: チェス語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة الشيلك
     auto: true
+  - translation_iso: ben
+    name: শিল্লুক
+    auto: true
   - translation_iso: deu
     name: Schilluk
   - translation_iso: fra
     name: shilluk
   - translation_iso: hin
     name: शिल्लुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shilluk
     auto: true
   - translation_iso: jpn
     name: シルク語

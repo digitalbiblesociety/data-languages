@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماج أنتسي أيتا
     auto: true
+  - translation_iso: ben
+    name: মাগ-আনতসি আয়তা
+    auto: true
   - translation_iso: deu
     name: Mag-antsi-Ayta
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माग-अंत्सी आयता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mag-antsi Ayta
     auto: true
   - translation_iso: jpn
     name: マグアントシ語

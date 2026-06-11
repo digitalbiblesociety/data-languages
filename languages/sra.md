@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساروجا
     auto: true
+  - translation_iso: ben
+    name: সারুগা
+    auto: true
   - translation_iso: deu
     name: Saruga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: saruga
   - translation_iso: hin
     name: सारुगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saruga
     auto: true
   - translation_iso: jpn
     name: サルガ語

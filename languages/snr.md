@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيهان
     auto: true
+  - translation_iso: ben
+    name: সিহান
+    auto: true
   - translation_iso: deu
     name: Sihan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिहान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sihan
     auto: true
   - translation_iso: jpn
     name: シハン語

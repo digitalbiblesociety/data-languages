@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا سيهواس أنكاش
     auto: true
+  - translation_iso: ben
+    name: সিহুয়াস আনকাশ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Sihuas-Ancash-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua ancash de Sihuas
   - translation_iso: hin
     name: सिवास आंकाश क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sihuas Ancash Quechua
     auto: true
   - translation_iso: jpn
     name: シフアスアンカシュケチュア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجيبي
     auto: true
+  - translation_iso: ben
+    name: গেবে
+    auto: true
   - translation_iso: deu
     name: Gebe
     auto: true

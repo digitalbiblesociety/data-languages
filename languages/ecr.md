@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الإتيوكريتي
     auto: true
+  - translation_iso: ben
+    name: এতেওকরেতান
+    auto: true
   - translation_iso: deu
     name: Eteokretisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوموندو
     auto: true
+  - translation_iso: ben
+    name: কোমোদো
+    auto: true
   - translation_iso: deu
     name: Komodo
   - translation_iso: fra

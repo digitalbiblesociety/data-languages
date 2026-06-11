@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: باربارام
     auto: true
+  - translation_iso: ben
+    name: বারবারাম
+    auto: true
   - translation_iso: deu
     name: Barbaram
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbabaram
   - translation_iso: hin
     name: बारबारम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Barbaram
     auto: true
   - translation_iso: jpn
     name: バルバラム語

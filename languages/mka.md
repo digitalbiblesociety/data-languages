@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبري
     auto: true
+  - translation_iso: ben
+    name: মবরে
+    auto: true
   - translation_iso: deu
     name: Mbre
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Mbre
   - translation_iso: hin
     name: म्ब्रे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbre
     auto: true
   - translation_iso: jpn
     name: ムブレ語

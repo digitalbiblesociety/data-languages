@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إنجديو
     auto: true
+  - translation_iso: ben
+    name: এংদেওয়ু
+    auto: true
   - translation_iso: deu
     name: Engdewu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nanggu
   - translation_iso: hin
     name: एंगदेवू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Engdewu
     auto: true
   - translation_iso: jpn
     name: ナング語

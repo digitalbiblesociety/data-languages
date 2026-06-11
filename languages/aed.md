@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अर्जेंटीनी सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Argentine Sign Language
+    auto: true
   - translation_iso: jpn
     name: アルゼンチン手話
   - translation_iso: kor

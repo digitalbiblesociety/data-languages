@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: نيو هيتيت
     auto: true
+  - translation_iso: ben
+    name: নেও-হিত্তিতে
+    auto: true
   - translation_iso: deu
     name: Junghethitisch
   - translation_iso: fra
     name: néo-hittite
   - translation_iso: hin
     name: नव-हित्ती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Neo-Hittite
     auto: true
   - translation_iso: jpn
     name: ネオ・ヒッタイト語

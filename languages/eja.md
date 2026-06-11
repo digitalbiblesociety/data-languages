@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإجامات
     auto: true
+  - translation_iso: ben
+    name: এজামাত
+    auto: true
   - translation_iso: deu
     name: Ejamat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ejamat
   - translation_iso: hin
     name: एजामात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ejamat
     auto: true
   - translation_iso: jpn
     name: エジャマット語

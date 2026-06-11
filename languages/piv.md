@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليني
     auto: true
+  - translation_iso: ben
+    name: পিলেনি
+    auto: true
   - translation_iso: deu
     name: Pileni
     auto: true

@@ -22,6 +22,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/V%C3%B5ro_language"
 translations:
   - translation_iso: ara
     name: لغة فورو
+  - translation_iso: ben
+    name: ভোরো
+    auto: true
   - translation_iso: deu
     name: Südestnisch
   - translation_iso: fra

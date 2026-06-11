@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبو
     auto: true
+  - translation_iso: ben
+    name: কুবো
+    auto: true
   - translation_iso: deu
     name: Kubo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kubo
     auto: true
   - translation_iso: jpn
     name: クボ語

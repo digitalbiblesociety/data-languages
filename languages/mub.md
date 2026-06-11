@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موبي
     auto: true
+  - translation_iso: ben
+    name: মুবি
+    auto: true
   - translation_iso: deu
     name: Mubi
   - translation_iso: fra
     name: mubi
   - translation_iso: hin
     name: मुबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mubi
     auto: true
   - translation_iso: jpn
     name: ムビ語

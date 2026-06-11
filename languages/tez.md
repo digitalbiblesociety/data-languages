@@ -19,6 +19,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tetserret_language"
 translations:
   - translation_iso: ara
     name: لغة تتسرت
+  - translation_iso: ben
+    name: তেতসের্রেত
+    auto: true
   - translation_iso: deu
     name: Tetserret
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: tetserret
   - translation_iso: hin
     name: तेत्सेर्रेत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tetserret
     auto: true
   - translation_iso: jpn
     name: ティンセルト語

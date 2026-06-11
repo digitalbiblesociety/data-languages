@@ -30,6 +30,9 @@ translations:
     name: chug
   - translation_iso: hin
     name: चुग भाषा
+  - translation_iso: ind
+    name: Bahasa Chug
+    auto: true
   - translation_iso: jpn
     name: チュグ語
     auto: true

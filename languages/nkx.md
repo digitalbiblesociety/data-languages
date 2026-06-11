@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نكوروو
     auto: true
+  - translation_iso: ben
+    name: নকোরো
+    auto: true
   - translation_iso: deu
     name: Nkoro
   - translation_iso: fra
     name: nkoroo
   - translation_iso: hin
     name: नकोरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkoroo
     auto: true
   - translation_iso: jpn
     name: ンコロ語

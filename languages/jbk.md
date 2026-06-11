@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बारिकेवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barikewa
+    auto: true
   - translation_iso: jpn
     name: バリケワ語
     auto: true

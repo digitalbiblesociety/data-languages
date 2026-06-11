@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيريوو
     auto: true
+  - translation_iso: ben
+    name: কেরেওয়ো
+    auto: true
   - translation_iso: deu
     name: Kerewo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kerewo
   - translation_iso: hin
     name: केरेवो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kerewo
     auto: true
   - translation_iso: jpn
     name: ケレウォ語

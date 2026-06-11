@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة كوالهيوكوا-تلاتسكاناي
     auto: true
+  - translation_iso: ben
+    name: কওয়ালহিওকুয়া-তলাতসকানাই
+    auto: true
   - translation_iso: deu
     name: Kwalhioqua-Clatskanie
   - translation_iso: fra
     name: kwalhioqua-clatskanie
   - translation_iso: hin
     name: क्वालहियोक्वा-त्लात्स्कानाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwalhioqua-Tlatskanai
     auto: true
   - translation_iso: jpn
     name: クワルヒオクワトラツカナイ語

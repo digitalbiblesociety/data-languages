@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوكوباروو
     auto: true
+  - translation_iso: ben
+    name: বোকোবারু
+    auto: true
   - translation_iso: deu
     name: Bokobaru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bokobaru
   - translation_iso: hin
     name: बोकोबारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bokobaru
     auto: true
   - translation_iso: jpn
     name: ボコバル語

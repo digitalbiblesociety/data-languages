@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة موراتايك
     auto: true
+  - translation_iso: ben
+    name: মুরাতায়াক
+    auto: true
   - translation_iso: deu
     name: Muratayak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: muratayak
   - translation_iso: hin
     name: मुरातायक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Muratayak
     auto: true
   - translation_iso: jpn
     name: ムラタヤク語

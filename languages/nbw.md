@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جنوب نجباندي
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন ংবানদি
+    auto: true
   - translation_iso: deu
     name: Süd-Ngbandi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngbandi du Sud
   - translation_iso: hin
     name: दक्षिणी न्गबांडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Ngbandi
     auto: true
   - translation_iso: jpn
     name: 南ングバンディ語

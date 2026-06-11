@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أود
     auto: true
+  - translation_iso: ben
+    name: ওদ
+    auto: true
   - translation_iso: deu
     name: Od
   - translation_iso: fra
     name: od
   - translation_iso: hin
     name: ओड
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Od
     auto: true
   - translation_iso: jpn
     name: オド語

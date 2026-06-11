@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميفيلي
     auto: true
+  - translation_iso: ben
+    name: মেফেলে
+    auto: true
   - translation_iso: deu
     name: Mefele
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mefele
   - translation_iso: hin
     name: मेफेले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mefele
     auto: true
   - translation_iso: jpn
     name: メフェレ語

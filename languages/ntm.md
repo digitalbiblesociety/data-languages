@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناتيني
     auto: true
+  - translation_iso: ben
+    name: নাতেনি
+    auto: true
   - translation_iso: deu
     name: Nateni
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naténi
   - translation_iso: hin
     name: नातेनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nateni
     auto: true
   - translation_iso: jpn
     name: ナテニ語

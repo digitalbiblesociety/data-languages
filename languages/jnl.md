@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة راوات
     auto: true
+  - translation_iso: ben
+    name: রাওয়াত
+    auto: true
   - translation_iso: deu
     name: Rawat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rawat
   - translation_iso: hin
     name: रावत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rawat
     auto: true
   - translation_iso: jpn
     name: ラワット語

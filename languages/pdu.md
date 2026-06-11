@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Padaung_language"
 translations:
   - translation_iso: ara
     name: لغة بادونغ
+  - translation_iso: ben
+    name: কায়ান
+    auto: true
   - translation_iso: deu
     name: Kayan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: padaung
   - translation_iso: hin
     name: कायान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayan
     auto: true
   - translation_iso: jpn
     name: パダウン語

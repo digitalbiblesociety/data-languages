@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوواندا
     auto: true
+  - translation_iso: ben
+    name: সোওয়ানদা
+    auto: true
   - translation_iso: deu
     name: Sowanda
     auto: true

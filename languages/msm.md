@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अगुसान मानोबो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agusan Manobo
+    auto: true
   - translation_iso: jpn
     name: アグサン・マノボ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بولا
     auto: true
+  - translation_iso: ben
+    name: বোলা
+    auto: true
   - translation_iso: deu
     name: Bola
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bola
   - translation_iso: hin
     name: बोला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bola
     auto: true
   - translation_iso: jpn
     name: ボラ語

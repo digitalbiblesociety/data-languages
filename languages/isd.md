@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيسناغ
     auto: true
+  - translation_iso: ben
+    name: ইসনাগ
+    auto: true
   - translation_iso: deu
     name: Isnag
     auto: true

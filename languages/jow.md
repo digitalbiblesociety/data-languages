@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جووولو
     auto: true
+  - translation_iso: ben
+    name: জোওয়ুলু
+    auto: true
   - translation_iso: deu
     name: Jowulu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jowulu
   - translation_iso: hin
     name: जोवुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jowulu
     auto: true
   - translation_iso: jpn
     name: ジョウル語

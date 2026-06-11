@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مي ‍ّفا
     auto: true
+  - translation_iso: ben
+    name: মালিনালতেপেক মেফা
+    auto: true
   - translation_iso: deu
     name: "Malinaltepec Me'phaa"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tlapanèque de Malinaltepec
   - translation_iso: hin
     name: मालिनाल्तेपेक मेफा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Malinaltepec Me'phaa"
     auto: true
   - translation_iso: jpn
     name: マリナルテペク・メファ語

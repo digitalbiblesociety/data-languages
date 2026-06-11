@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي دينج
     auto: true
+  - translation_iso: ben
+    name: তাই দাএং
+    auto: true
   - translation_iso: deu
     name: Tai Daeng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tay deng
   - translation_iso: hin
     name: ताई डेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Daeng
     auto: true
   - translation_iso: jpn
     name: 赤タイ語

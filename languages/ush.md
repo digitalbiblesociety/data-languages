@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: أوشوجو
     auto: true
+  - translation_iso: ben
+    name: উশোজো
+    auto: true
   - translation_iso: deu
     name: Ushoji
   - translation_iso: fra
     name: Ushojo
   - translation_iso: hin
     name: उशोजी भाषा
+  - translation_iso: ind
+    name: Bahasa Ushojo
+    auto: true
   - translation_iso: jpn
     name: ウショジョ語
   - translation_iso: kor

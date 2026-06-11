@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالانجو
     auto: true
+  - translation_iso: ben
+    name: মালাঙো
+    auto: true
   - translation_iso: deu
     name: Malango
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malango
   - translation_iso: hin
     name: मालांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malango
     auto: true
   - translation_iso: jpn
     name: マランゴ語

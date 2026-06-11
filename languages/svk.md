@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السلوفاكية
     auto: true
+  - translation_iso: ben
+    name: সলোভাকিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Slowakische Gebärdensprache
   - translation_iso: fra
     name: langue des signes slovaque
   - translation_iso: hin
     name: स्लोवाक सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Slovakian Sign Language
     auto: true
   - translation_iso: jpn
     name: スロバキア手話

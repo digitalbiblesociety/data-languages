@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسوفان
     auto: true
+  - translation_iso: ben
+    name: তসুভান
+    auto: true
   - translation_iso: deu
     name: Tsuvan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsuvan
   - translation_iso: hin
     name: त्सुवान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsuvan
     auto: true
   - translation_iso: jpn
     name: マツヴァン語

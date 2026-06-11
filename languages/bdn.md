@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाल्डेमु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baldemu
+    auto: true
   - translation_iso: jpn
     name: バルデム語
     auto: true

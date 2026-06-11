@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورانغ سيليتار
     auto: true
+  - translation_iso: ben
+    name: ওরাং সেলেতার
+    auto: true
   - translation_iso: deu
     name: Orang Seletar
     auto: true

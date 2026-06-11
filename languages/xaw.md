@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاواييسو
     auto: true
+  - translation_iso: ben
+    name: কাওয়াইসু
+    auto: true
   - translation_iso: deu
     name: Kawaiisu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kawaiisu
   - translation_iso: hin
     name: कावाइसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kawaiisu
     auto: true
   - translation_iso: jpn
     name: カワイイス語

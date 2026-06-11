@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إڤانت
     auto: true
+  - translation_iso: ben
+    name: এভানত
+    auto: true
   - translation_iso: deu
     name: Evant
   - translation_iso: fra
     name: evant
   - translation_iso: hin
     name: एवांत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Evant
     auto: true
   - translation_iso: jpn
     name: エヴァント語

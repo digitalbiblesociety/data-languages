@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونو
     auto: true
+  - translation_iso: ben
+    name: ওনো
+    auto: true
   - translation_iso: deu
     name: Ono
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ono
     auto: true
   - translation_iso: jpn
     name: オノ語

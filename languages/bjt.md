@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बालंता-गांजा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balanta-Ganja
+    auto: true
   - translation_iso: jpn
     name: バランタ・ガンジャ語
     auto: true

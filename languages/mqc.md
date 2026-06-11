@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجول
     auto: true
+  - translation_iso: ben
+    name: মাঙোলে
+    auto: true
   - translation_iso: deu
     name: Mangole
     auto: true

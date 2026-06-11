@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سارا كابا
     auto: true
+  - translation_iso: ben
+    name: সারা কাবা
+    auto: true
   - translation_iso: deu
     name: Sara Kaba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sara kaba
   - translation_iso: hin
     name: सारा काबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sara Kaba
     auto: true
   - translation_iso: jpn
     name: サラカバ語

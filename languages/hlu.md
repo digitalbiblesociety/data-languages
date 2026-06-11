@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة اللوفية الهيروغليفية
     auto: true
+  - translation_iso: ben
+    name: হিএরোগলয়ফিক লুওয়িয়ান
+    auto: true
   - translation_iso: deu
     name: Hieroglyphen-Luwisch
   - translation_iso: fra

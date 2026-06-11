@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: رير بير
     auto: true
+  - translation_iso: ben
+    name: রের বারে
+    auto: true
   - translation_iso: deu
     name: Rer Bare
   - translation_iso: fra
     name: rer bare
   - translation_iso: hin
     name: रेर बारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rer Bare
     auto: true
   - translation_iso: jpn
     name: レルバレ語

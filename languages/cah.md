@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاهوارانو
     auto: true
+  - translation_iso: ben
+    name: কাহুয়ারানো
+    auto: true
   - translation_iso: deu
     name: Cahuarano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cahuarano
   - translation_iso: hin
     name: काहुआरानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cahuarano
     auto: true
   - translation_iso: jpn
     name: カワラノ語

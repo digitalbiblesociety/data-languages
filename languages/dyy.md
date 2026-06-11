@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دجابوجاي
     auto: true
+  - translation_iso: ben
+    name: দজাবুগায়
+    auto: true
   - translation_iso: deu
     name: Djabugay
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djabugay
   - translation_iso: hin
     name: जाबुगाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djabugay
     auto: true
   - translation_iso: jpn
     name: ジャブガイ語

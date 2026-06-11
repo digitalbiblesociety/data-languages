@@ -30,6 +30,9 @@ translations:
     name: tshangla
   - translation_iso: hin
     name: सांगला भाषा
+  - translation_iso: ind
+    name: Bahasa Tshangla
+    auto: true
   - translation_iso: jpn
     name: ツァンラ語
   - translation_iso: kor

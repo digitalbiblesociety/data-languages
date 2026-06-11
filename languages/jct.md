@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: क्रिमचाक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Krymchak
+    auto: true
   - translation_iso: jpn
     name: クリムチャク語
   - translation_iso: kor

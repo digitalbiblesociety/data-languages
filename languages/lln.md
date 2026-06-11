@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: ben
+    name: লেলে
+    auto: true
   - translation_iso: deu
     name: Lele
   - translation_iso: fra
     name: lélé
   - translation_iso: hin
     name: लेले (चाड)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lele
     auto: true
   - translation_iso: jpn
     name: レレ語

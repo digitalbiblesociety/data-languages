@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيلامبا
     auto: true
+  - translation_iso: ben
+    name: নিলামবা
+    auto: true
   - translation_iso: deu
     name: Nilamba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iramba
   - translation_iso: hin
     name: निलाम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nilamba
     auto: true
   - translation_iso: jpn
     name: ニランバ語

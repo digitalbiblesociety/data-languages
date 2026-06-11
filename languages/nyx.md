@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغانيايوانا
     auto: true
+  - translation_iso: ben
+    name: ঙানয়ায়ওয়ানা
+    auto: true
   - translation_iso: deu
     name: Nganyaywana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nganyaywana
   - translation_iso: hin
     name: न्गान्यायवाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nganyaywana
     auto: true
   - translation_iso: jpn
     name: アネワン語

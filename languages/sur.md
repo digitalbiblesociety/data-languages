@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة موا ghavul
     auto: true
+  - translation_iso: ben
+    name: মওয়াঘাভুল
+    auto: true
   - translation_iso: deu
     name: Mwaghavul
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mwaghavul
   - translation_iso: hin
     name: म्वाघावुल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mwaghavul
     auto: true
   - translation_iso: jpn
     name: ムワガヴル語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ميكستيبيك
     auto: true
+  - translation_iso: ben
+    name: মিকসতেপেক জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Mixtepec)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Mixtepec
   - translation_iso: hin
     name: मिक्स्तेपेक सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mixtepec Zapotec
     auto: true
   - translation_iso: jpn
     name: ミステペック・サポテク語

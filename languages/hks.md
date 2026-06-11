@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهونغ كونغ
     auto: true
+  - translation_iso: ben
+    name: হোং কোং সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Hongkong-Gebärdensprache
   - translation_iso: fra
     name: langue des signes hongkongaise
   - translation_iso: hin
     name: हांगकांग सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Hong Kong Sign Language
+    auto: true
   - translation_iso: jpn
     name: 香港手話
   - translation_iso: kor

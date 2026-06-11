@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيزون
     auto: true
+  - translation_iso: ben
+    name: ইজোন
+    auto: true
   - translation_iso: deu
     name: Izon
   - translation_iso: fra
     name: izon
   - translation_iso: hin
     name: इज़ोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Izon
     auto: true
   - translation_iso: jpn
     name: イゾン語

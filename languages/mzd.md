@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مالمبا
     auto: true
+  - translation_iso: ben
+    name: মালিমবা
+    auto: true
   - translation_iso: deu
     name: Malimba
   - translation_iso: fra
     name: malimba
   - translation_iso: hin
     name: मालिंबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malimba
     auto: true
   - translation_iso: jpn
     name: マリンバ語

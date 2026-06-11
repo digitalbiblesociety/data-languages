@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبتيابا
     auto: true
+  - translation_iso: ben
+    name: সুবতিয়াবা
+    auto: true
   - translation_iso: deu
     name: Subtiaba
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुब्तियाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Subtiaba
     auto: true
   - translation_iso: jpn
     name: サブティアバ語

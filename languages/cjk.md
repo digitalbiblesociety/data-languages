@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشوكوي
     auto: true
+  - translation_iso: ben
+    name: চোকওয়ে
+    auto: true
   - translation_iso: deu
     name: Chokwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tchokwé
   - translation_iso: hin
     name: चोकवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chokwe
     auto: true
   - translation_iso: jpn
     name: チョクウェ語

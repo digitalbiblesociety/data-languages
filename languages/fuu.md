@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفورو
     auto: true
+  - translation_iso: ben
+    name: ফুরু
+    auto: true
   - translation_iso: deu
     name: Furu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: furu
   - translation_iso: hin
     name: फुरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Furu
     auto: true
   - translation_iso: jpn
     name: フル語

@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: إيموندا
     auto: true
+  - translation_iso: ben
+    name: ইমোনদা
+    auto: true
   - translation_iso: deu
     name: Imonda
   - translation_iso: fra
     name: imonda
   - translation_iso: hin
     name: इमोंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Imonda
     auto: true
   - translation_iso: jpn
     name: イモンダ語

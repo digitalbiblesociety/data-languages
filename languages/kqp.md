@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمري
     auto: true
+  - translation_iso: ben
+    name: কিমরে
+    auto: true
   - translation_iso: deu
     name: Kimré
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kimré
   - translation_iso: hin
     name: किमरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kimré
     auto: true
   - translation_iso: jpn
     name: キムレ語

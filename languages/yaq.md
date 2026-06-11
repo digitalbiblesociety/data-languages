@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ياكي
     auto: true
+  - translation_iso: ben
+    name: য়াকুই
+    auto: true
   - translation_iso: deu
     name: Yaqui
   - translation_iso: fra
     name: yaqui
   - translation_iso: hin
     name: याकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaqui
     auto: true
   - translation_iso: jpn
     name: ヤキ語

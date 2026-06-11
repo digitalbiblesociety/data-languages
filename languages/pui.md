@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بويناف
     auto: true
+  - translation_iso: ben
+    name: পুইনাভে
+    auto: true
   - translation_iso: deu
     name: Puinave
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: puinave
   - translation_iso: hin
     name: पुइनावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puinave
     auto: true
   - translation_iso: jpn
     name: プイナベ語

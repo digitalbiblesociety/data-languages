@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبيسبينيو
     auto: true
+  - translation_iso: ben
+    name: ওবিসপেনয়ো
+    auto: true
   - translation_iso: deu
     name: Obispeño
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: obispeño
   - translation_iso: hin
     name: ओबिस्पेन्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Obispeño
     auto: true
   - translation_iso: jpn
     name: オビスペーニョ語

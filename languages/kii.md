@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتسائي
     auto: true
+  - translation_iso: ben
+    name: কিতসাই
+    auto: true
   - translation_iso: deu
     name: Kitsai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kitsai
   - translation_iso: hin
     name: कित्साई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kitsai
     auto: true
   - translation_iso: jpn
     name: キツァイ語

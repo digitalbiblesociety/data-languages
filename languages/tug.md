@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توينيا
     auto: true
+  - translation_iso: ben
+    name: তুনিয়া
+    auto: true
   - translation_iso: deu
     name: Tunia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tounia
   - translation_iso: hin
     name: तुनिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tunia
     auto: true
   - translation_iso: jpn
     name: トゥニア語

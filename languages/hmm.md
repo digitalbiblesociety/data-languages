@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল মাশান হমোং
+    auto: true
   - translation_iso: deu
     name: Zentrales Mashan-Hmong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मध्य माशान ह्मोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Mashan Hmong
     auto: true
   - translation_iso: jpn
     name: 中部麻山フモン語

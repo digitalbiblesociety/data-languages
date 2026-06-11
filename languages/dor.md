@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوريو
     auto: true
+  - translation_iso: ben
+    name: দোরিও
+    auto: true
   - translation_iso: deu
     name: "Dori'o"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dori’o
   - translation_iso: hin
     name: डोरिओ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Dori'o"
     auto: true
   - translation_iso: jpn
     name: ドリオ語

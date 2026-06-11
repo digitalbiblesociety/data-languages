@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إلوانا
     auto: true
+  - translation_iso: ben
+    name: ইলওয়ানা
+    auto: true
   - translation_iso: deu
     name: Ilwana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kiwilwana
   - translation_iso: hin
     name: इल्वाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ilwana
     auto: true
   - translation_iso: jpn
     name: イルワナ語

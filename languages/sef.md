@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: سيبارا سينوفو
     auto: true
+  - translation_iso: ben
+    name: কেবারা সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Cebaara
   - translation_iso: fra
     name: cebaara
   - translation_iso: hin
     name: सेबारा सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cebaara Senoufo
     auto: true
   - translation_iso: jpn
     name: セナリ語

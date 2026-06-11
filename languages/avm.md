@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अंगकामुथी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Angkamuthi
+    auto: true
   - translation_iso: jpn
     name: アンカムティ語
     auto: true

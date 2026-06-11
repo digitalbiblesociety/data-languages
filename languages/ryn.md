@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نورذرن أمامي أوشيما
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন আমামি-ওশিমা
+    auto: true
   - translation_iso: deu
     name: Nord-Amami-Oshima
     auto: true

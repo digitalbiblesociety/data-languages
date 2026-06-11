@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مسافر دانماركي
     auto: true
+  - translation_iso: ben
+    name: তরাভেল্লের দানিশ
+    auto: true
   - translation_iso: deu
     name: Reisendendänisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ट्रैवलर डेनिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Traveller Danish
     auto: true
   - translation_iso: jpn
     name: トラベラーデンマーク語

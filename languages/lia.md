@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يست-ينترال يمبا
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত-কেনতরাল লিমবা
+    auto: true
   - translation_iso: deu
     name: West-Zentral-Limba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: limba central-ouest
   - translation_iso: hin
     name: पश्चिम-मध्य लिंबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West-Central Limba
     auto: true
   - translation_iso: jpn
     name: 西中部リンバ語

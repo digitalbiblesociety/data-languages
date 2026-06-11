@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tamahaq_language"
 translations:
   - translation_iso: ara
     name: تماهق
+  - translation_iso: ben
+    name: তাহাগ্গারত তামাহাক
+    auto: true
   - translation_iso: deu
     name: Tamahaq
   - translation_iso: fra
     name: tamahaq
   - translation_iso: hin
     name: तहग्गार्त तमाहाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tahaggart Tamahaq
     auto: true
   - translation_iso: jpn
     name: タハガルト・タマハック語

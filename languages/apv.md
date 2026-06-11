@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: उत्तरी नाम्बिकवारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Nambikwara
+    auto: true
   - translation_iso: jpn
     name: 北部ナンビクワラ語
     auto: true

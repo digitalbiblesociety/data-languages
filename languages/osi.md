@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوسينغ
     auto: true
+  - translation_iso: ben
+    name: ওসিং
+    auto: true
   - translation_iso: deu
     name: Osing
   - translation_iso: fra

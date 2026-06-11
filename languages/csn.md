@@ -28,6 +28,9 @@ translations:
     name: langue des signes colombienne
   - translation_iso: hin
     name: कोलंबियाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Colombian Sign Language
+    auto: true
   - translation_iso: jpn
     name: コロンビア手話
   - translation_iso: kor

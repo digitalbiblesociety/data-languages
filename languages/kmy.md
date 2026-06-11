@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة كوما
     auto: true
+  - translation_iso: ben
+    name: কোমা
+    auto: true
   - translation_iso: deu
     name: Koma
   - translation_iso: fra
     name: koma
   - translation_iso: hin
     name: कोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koma
     auto: true
   - translation_iso: jpn
     name: コマ語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة انجا
     auto: true
+  - translation_iso: ben
+    name: ওয়াঙা
+    auto: true
   - translation_iso: deu
     name: Wanga
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: wanga
   - translation_iso: hin
     name: वंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wanga
     auto: true
   - translation_iso: jpn
     name: ワンガ語

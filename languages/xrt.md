@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरानामा-तामिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aranama-Tamique
+    auto: true
   - translation_iso: jpn
     name: アラナマ・タミーク語
     auto: true

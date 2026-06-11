@@ -25,6 +25,9 @@ translations:
     name: nihali
   - translation_iso: hin
     name: निहाली भाषा
+  - translation_iso: ind
+    name: Bahasa Nihali
+    auto: true
   - translation_iso: jpn
     name: ニハリ語
   - translation_iso: kor

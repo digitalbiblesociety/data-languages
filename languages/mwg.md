@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: ऐक्लेप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aiklep
+    auto: true
   - translation_iso: jpn
     name: メーヴェハーフェン語
   - translation_iso: kor

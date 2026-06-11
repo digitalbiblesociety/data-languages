@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو
     auto: true
+  - translation_iso: ben
+    name: পয়ু
+    auto: true
   - translation_iso: deu
     name: Pyu (Papua-Neuguinea)
     auto: true

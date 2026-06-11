@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوكودا
     auto: true
+  - translation_iso: ben
+    name: কোকোদা
+    auto: true
   - translation_iso: deu
     name: Kokoda
     auto: true

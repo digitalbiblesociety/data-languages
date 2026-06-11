@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الجاليس
     auto: true
+  - translation_iso: ben
+    name: গালিকে
+    auto: true
   - translation_iso: deu
     name: Galice
   - translation_iso: fra
     name: galice
   - translation_iso: hin
     name: गालिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Galice
     auto: true
   - translation_iso: jpn
     name: ガリセ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فيتو
     auto: true
+  - translation_iso: ben
+    name: ভিতু
+    auto: true
   - translation_iso: deu
     name: Vitu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vitu
   - translation_iso: hin
     name: वितु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vitu
     auto: true
   - translation_iso: jpn
     name: ビトゥ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سيسيبو
     auto: true
+  - translation_iso: ben
+    name: কিকিপু
+    auto: true
   - translation_iso: deu
     name: Cipu
   - translation_iso: fra
     name: cicipu
   - translation_iso: hin
     name: सिसिपु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cicipu
     auto: true
   - translation_iso: jpn
     name: シシプ語

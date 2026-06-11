@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تومبيلالا
     auto: true
+  - translation_iso: ben
+    name: তোমবেলালা
+    auto: true
   - translation_iso: deu
     name: Tombelala
     auto: true

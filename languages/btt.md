@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेते-बेंदी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bete-Bendi
+    auto: true
   - translation_iso: jpn
     name: ベテ・ベンディ語
     auto: true

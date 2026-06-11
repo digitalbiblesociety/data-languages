@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالت-يوي
     auto: true
+  - translation_iso: ben
+    name: সালত-য়ুই
+    auto: true
   - translation_iso: deu
     name: Salt-Yui
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: साल्ट-यूई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Salt-Yui
     auto: true
   - translation_iso: jpn
     name: ユイ語

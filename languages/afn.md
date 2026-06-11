@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: देफाका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Defaka
+    auto: true
   - translation_iso: jpn
     name: デファカ語
   - translation_iso: kor

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एकित
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ekit
+    auto: true
   - translation_iso: jpn
     name: エキット語
     auto: true

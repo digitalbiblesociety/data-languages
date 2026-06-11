@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونو
     auto: true
+  - translation_iso: ben
+    name: কোনো
+    auto: true
   - translation_iso: deu
     name: Kono (Nigeria)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kono
   - translation_iso: hin
     name: कोनो (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kono
     auto: true
   - translation_iso: jpn
     name: コノ語

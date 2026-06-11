@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بو-أونج
     auto: true
+  - translation_iso: ben
+    name: বো-উং
+    auto: true
   - translation_iso: deu
     name: Bo-Ung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bo-ung
   - translation_iso: hin
     name: बो-उंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bo-Ung
     auto: true
   - translation_iso: jpn
     name: ボ・ウン語

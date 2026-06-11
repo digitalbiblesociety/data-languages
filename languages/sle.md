@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شولاجا
     auto: true
+  - translation_iso: ben
+    name: শোলাগা
+    auto: true
   - translation_iso: deu
     name: Sholaga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sholaga
   - translation_iso: hin
     name: शोलागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sholaga
     auto: true
   - translation_iso: jpn
     name: ソリガ語

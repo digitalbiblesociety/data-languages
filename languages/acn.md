@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अचांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Achang
+    auto: true
   - translation_iso: jpn
     name: アチャン語
   - translation_iso: kor

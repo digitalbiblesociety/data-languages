@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليهالي
     auto: true
+  - translation_iso: ben
+    name: লেহালি
+    auto: true
   - translation_iso: deu
     name: Lehali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lehali
   - translation_iso: hin
     name: लेहाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lehali
     auto: true
   - translation_iso: jpn
     name: ローリ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: المانينكاكان الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মানিনকাকান
+    auto: true
   - translation_iso: deu
     name: Ost-Maninkakan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "maninkakan de l'Est"
   - translation_iso: hin
     name: पूर्वी मनिंकाकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Maninkakan
     auto: true
   - translation_iso: jpn
     name: 東マニンカカン語

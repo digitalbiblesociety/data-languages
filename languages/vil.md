@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيليلا
     auto: true
+  - translation_iso: ben
+    name: ভিলেলা
+    auto: true
   - translation_iso: deu
     name: Vilela
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: vilela
   - translation_iso: hin
     name: विलेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vilela
     auto: true
   - translation_iso: jpn
     name: ワカ語

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: دومبي
     auto: true
+  - translation_iso: ben
+    name: দোমবে
+    auto: true
   - translation_iso: deu
     name: Dombe
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: dombe
   - translation_iso: hin
     name: डोंबे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dombe
     auto: true
   - translation_iso: jpn
     name: ドンベ語

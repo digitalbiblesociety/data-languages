@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندآي
     auto: true
+  - translation_iso: ben
+    name: নদাই
+    auto: true
   - translation_iso: deu
     name: Ndai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ndai
   - translation_iso: hin
     name: न्डाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndai
     auto: true
   - translation_iso: jpn
     name: ンダイ語

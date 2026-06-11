@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Warnang_language"
 translations:
   - translation_iso: ara
     name: لغة ويرني
+  - translation_iso: ben
+    name: ওয়ারনাং
+    auto: true
   - translation_iso: deu
     name: Warnang
   - translation_iso: fra
     name: warnang
   - translation_iso: hin
     name: वारनांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warnang
     auto: true
   - translation_iso: jpn
     name: ワルナン語

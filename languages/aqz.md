@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अकुन्त्सू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akuntsu
+    auto: true
   - translation_iso: jpn
     name: アクンツ語
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अद्ज़ेरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adzera
+    auto: true
   - translation_iso: jpn
     name: アゼラ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نومانغانغ
     auto: true
+  - translation_iso: ben
+    name: নুমাংগাং
+    auto: true
   - translation_iso: deu
     name: Numanggang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: numanggang
   - translation_iso: hin
     name: नुमांग्गांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Numanggang
     auto: true
   - translation_iso: jpn
     name: ヌマンガン語

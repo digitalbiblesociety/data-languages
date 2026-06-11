@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أويساي
     auto: true
+  - translation_iso: ben
+    name: উইসাই
+    auto: true
   - translation_iso: deu
     name: Uisai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: uisai
   - translation_iso: hin
     name: उइसाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uisai
     auto: true
   - translation_iso: jpn
     name: ウィサイ語

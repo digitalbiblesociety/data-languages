@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نورذرن بونتوك
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন বোনতোক
+    auto: true
   - translation_iso: deu
     name: Nord-Bontok
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: bontok du Nord
   - translation_iso: hin
     name: उत्तरी बोंटोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Bontok
     auto: true
   - translation_iso: jpn
     name: 北ボントク語

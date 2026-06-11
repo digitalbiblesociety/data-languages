@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ياو
     auto: true
+  - translation_iso: ben
+    name: ইয়াউ
+    auto: true
   - translation_iso: deu
     name: Iau
     auto: true

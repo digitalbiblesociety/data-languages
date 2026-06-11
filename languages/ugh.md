@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kubachi_language"
 translations:
   - translation_iso: ara
     name: لغة كوباشية
+  - translation_iso: ben
+    name: কুবাচি
+    auto: true
   - translation_iso: deu
     name: Kubatschinisch
   - translation_iso: fra
@@ -25,6 +28,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुबाची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kubachi
     auto: true
   - translation_iso: jpn
     name: クバチ語

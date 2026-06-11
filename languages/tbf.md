@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماندارا
     auto: true
+  - translation_iso: ben
+    name: মানদারা
+    auto: true
   - translation_iso: deu
     name: Mandara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mandara
   - translation_iso: hin
     name: मंदारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandara
     auto: true
   - translation_iso: jpn
     name: タバル語

@@ -30,6 +30,9 @@ translations:
     name: bhilali
   - translation_iso: hin
     name: भिलाली भाषा
+  - translation_iso: ind
+    name: Bahasa Bhilali
+    auto: true
   - translation_iso: jpn
     name: ビリアリ語
     auto: true

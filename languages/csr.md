@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: कोस्टा रिकन सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Costa Rican Sign Language
+    auto: true
   - translation_iso: jpn
     name: コスタリカ手話
   - translation_iso: kor

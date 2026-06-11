@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رينغما ناغا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন রেংমা নাগা
+    auto: true
   - translation_iso: deu
     name: Nördliches Rengma-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naga rengma du Nord
   - translation_iso: hin
     name: उत्तरी रेंग्मा नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Rengma Naga
     auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語

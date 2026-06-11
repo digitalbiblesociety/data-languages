@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Massa_language"
 translations:
   - translation_iso: ara
     name: اللغة الماسية
+  - translation_iso: ben
+    name: মাসানা
+    auto: true
   - translation_iso: deu
     name: Masa
   - translation_iso: fra
     name: massa
   - translation_iso: hin
     name: मसाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Masana
     auto: true
   - translation_iso: jpn
     name: マサナ語

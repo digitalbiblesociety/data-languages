@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ثايفوم تشين
     auto: true
+  - translation_iso: ben
+    name: থাইফুম চিন
+    auto: true
   - translation_iso: deu
     name: Thaiphum-Chin
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: thaiphum
   - translation_iso: hin
     name: थाइफुम चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thaiphum Chin
     auto: true
   - translation_iso: jpn
     name: タイプム・チン語

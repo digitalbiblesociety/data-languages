@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेरिनोमो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Berinomo
+    auto: true
   - translation_iso: jpn
     name: ベリノモ語
     auto: true

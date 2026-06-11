@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سوتسو
     auto: true
+  - translation_iso: ben
+    name: তসোতসো
+    auto: true
   - translation_iso: deu
     name: Tsotso
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsotso
   - translation_iso: hin
     name: त्सोत्सो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsotso
     auto: true
   - translation_iso: jpn
     name: ツォツォ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وارروا
     auto: true
+  - translation_iso: ben
+    name: ওয়ার্রওয়া
+    auto: true
   - translation_iso: deu
     name: Warrwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warrwa
   - translation_iso: hin
     name: वारवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warrwa
     auto: true
   - translation_iso: jpn
     name: ワラワ語

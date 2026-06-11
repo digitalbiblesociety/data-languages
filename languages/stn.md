@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوا
     auto: true
+  - translation_iso: ben
+    name: ওওয়া
+    auto: true
   - translation_iso: deu
     name: Owa-Sprache
   - translation_iso: fra
     name: owa
   - translation_iso: hin
     name: ओवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Owa
     auto: true
   - translation_iso: jpn
     name: オワ語

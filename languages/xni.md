@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نجاريجو
     auto: true
+  - translation_iso: ben
+    name: ঙারিগু
+    auto: true
   - translation_iso: deu
     name: Ngarigu
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: ngarigu
   - translation_iso: hin
     name: न्गारिगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngarigu
     auto: true
   - translation_iso: jpn
     name: ンガリグ語

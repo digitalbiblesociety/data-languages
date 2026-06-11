@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوروروا
     auto: true
+  - translation_iso: ben
+    name: বোরোরো
+    auto: true
   - translation_iso: deu
     name: Bororo
   - translation_iso: fra
     name: bororo
   - translation_iso: hin
     name: बोरोरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Borôro
     auto: true
   - translation_iso: jpn
     name: ボロロ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة زارامو
     auto: true
+  - translation_iso: ben
+    name: জারামো
+    auto: true
   - translation_iso: deu
     name: Zaramo
   - translation_iso: fra
     name: zaramo
   - translation_iso: hin
     name: ज़रामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zaramo
     auto: true
   - translation_iso: jpn
     name: ザラモ語

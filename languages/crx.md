@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الكاريير
     auto: true
+  - translation_iso: ben
+    name: কার্রিএর
+    auto: true
   - translation_iso: deu
     name: Dakelh
   - translation_iso: fra
     name: porteur
   - translation_iso: hin
     name: कैरियर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Carrier
     auto: true
   - translation_iso: jpn
     name: キャリア語

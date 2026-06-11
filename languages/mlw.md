@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مولوكو
     auto: true
+  - translation_iso: ben
+    name: মোলোকো
+    auto: true
   - translation_iso: deu
     name: Moloko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moloko
   - translation_iso: hin
     name: मोलोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moloko
     auto: true
   - translation_iso: jpn
     name: モロコ語

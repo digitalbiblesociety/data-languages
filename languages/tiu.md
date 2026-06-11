@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अदासेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Adasen
+    auto: true
   - translation_iso: jpn
     name: アダセン語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كإنترآل غرإبو
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল গরেবো
+    auto: true
   - translation_iso: deu
     name: Zentrales Grebo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: grebo central
   - translation_iso: hin
     name: मध्य ग्रेबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Grebo
     auto: true
   - translation_iso: jpn
     name: セントラル・グレボ語

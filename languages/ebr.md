@@ -18,12 +18,18 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Kwa Volta-Congo > Nyo 
 wikidata_id: Q36644
 wikipedia_url: "https://en.wikipedia.org/wiki/Ebri%C3%A9_language"
 translations:
+  - translation_iso: ben
+    name: এবরিএ
+    auto: true
   - translation_iso: deu
     name: Tschaman
   - translation_iso: fra
     name: tchaman
   - translation_iso: hin
     name: एब्रिये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ebrié
     auto: true
   - translation_iso: jpn
     name: エブリエ語

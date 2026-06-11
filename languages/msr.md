@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: मंगोलियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mongolian Sign Language
+    auto: true
   - translation_iso: jpn
     name: モンゴル手話
   - translation_iso: kor

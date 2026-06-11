@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تينينو
     auto: true
+  - translation_iso: ben
+    name: তেনিনো
+    auto: true
   - translation_iso: deu
     name: Tenino
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tenino
   - translation_iso: hin
     name: तेनिनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tenino
     auto: true
   - translation_iso: jpn
     name: ウォームスプリングス語

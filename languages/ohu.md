@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة المجرية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ হুঙারিয়ান
+    auto: true
   - translation_iso: deu
     name: Altungarisch
   - translation_iso: fra
     name: vieux-hongrois
   - translation_iso: hin
     name: प्राचीन हंगेरियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Hungarian
     auto: true
   - translation_iso: jpn
     name: 古ハンガリー語

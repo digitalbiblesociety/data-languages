@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامبا
     auto: true
+  - translation_iso: ben
+    name: সামবা
+    auto: true
   - translation_iso: deu
     name: Samba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: samba
   - translation_iso: hin
     name: सांबा
+  - translation_iso: ind
+    name: Bahasa Samba
+    auto: true
   - translation_iso: jpn
     name: キホロ語
     auto: true

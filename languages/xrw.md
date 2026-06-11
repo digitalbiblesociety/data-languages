@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاراوا
     auto: true
+  - translation_iso: ben
+    name: কারাওয়া
+    auto: true
   - translation_iso: deu
     name: Karawa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: karawa
   - translation_iso: hin
     name: कारावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karawa
     auto: true
   - translation_iso: jpn
     name: カラワ語

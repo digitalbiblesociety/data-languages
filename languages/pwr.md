@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوري
     auto: true
+  - translation_iso: ben
+    name: পোওয়ারি
+    auto: true
   - translation_iso: deu
     name: Powari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: powari
   - translation_iso: hin
     name: पोवारी भाषा
+  - translation_iso: ind
+    name: Bahasa Powari
+    auto: true
   - translation_iso: jpn
     name: ポワリ語
     auto: true

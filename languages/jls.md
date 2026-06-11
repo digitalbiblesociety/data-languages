@@ -28,6 +28,9 @@ translations:
     name: langue des signes jamaïcaine
   - translation_iso: hin
     name: जमैका सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Jamaican Sign Language
+    auto: true
   - translation_iso: jpn
     name: ジャマイカ手話
   - translation_iso: kor

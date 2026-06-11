@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جوهوان
     auto: true
+  - translation_iso: ben
+    name: জুহোয়ান
+    auto: true
   - translation_iso: deu
     name: Juǀʼhoan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: juǀʼhoan
   - translation_iso: hin
     name: जूहोआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Juǀʼhoan
     auto: true
   - translation_iso: jpn
     name: ジューホアン方言

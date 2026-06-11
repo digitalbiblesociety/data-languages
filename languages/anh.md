@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نيند
     auto: true
+  - translation_iso: ben
+    name: নেনদ
+    auto: true
   - translation_iso: deu
     name: Nend
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नेन्द
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nend
     auto: true
   - translation_iso: jpn
     name: ネンド語

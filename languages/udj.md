@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوجير
     auto: true
+  - translation_iso: ben
+    name: উজির
+    auto: true
   - translation_iso: deu
     name: Ujir
     auto: true

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dezfuli_dialect"
 translations:
   - translation_iso: ara
     name: لهجة دزفولية
+  - translation_iso: ben
+    name: দেজফুলি
+    auto: true
   - translation_iso: deu
     name: Dezfuli
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: देज़फ़ुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dezfuli
     auto: true
   - translation_iso: jpn
     name: デズフリ語

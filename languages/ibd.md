@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيوايدجا
     auto: true
+  - translation_iso: ben
+    name: ইওয়াইদজা
+    auto: true
   - translation_iso: deu
     name: Iwaidja
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iwaidja
   - translation_iso: hin
     name: इवायजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iwaidja
     auto: true
   - translation_iso: jpn
     name: イワイジャ語

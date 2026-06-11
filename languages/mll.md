@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالوا بي
     auto: true
+  - translation_iso: ben
+    name: মালুয়া বায়
+    auto: true
   - translation_iso: deu
     name: Malua Bay
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malua bay
   - translation_iso: hin
     name: मालुआ बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malua Bay
     auto: true
   - translation_iso: jpn
     name: マルア・ベイ語

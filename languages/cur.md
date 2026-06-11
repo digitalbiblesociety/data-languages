@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: التشولونغ
     auto: true
+  - translation_iso: ben
+    name: চহুলুং
+    auto: true
   - translation_iso: deu
     name: Chhulung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chulung
   - translation_iso: hin
     name: छुलुङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chhulung
     auto: true
   - translation_iso: jpn
     name: チュルング語

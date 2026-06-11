@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة السالا
     auto: true
+  - translation_iso: ben
+    name: সালা
+    auto: true
   - translation_iso: deu
     name: Sala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sala
   - translation_iso: hin
     name: साला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sala
     auto: true
   - translation_iso: jpn
     name: ルンドウェ語

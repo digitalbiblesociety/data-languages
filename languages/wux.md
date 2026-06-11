@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وولنا
     auto: true
+  - translation_iso: ben
+    name: ওয়ুলনা
+    auto: true
   - translation_iso: deu
     name: Wulna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wulna
   - translation_iso: hin
     name: वुलना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wulna
     auto: true
   - translation_iso: jpn
     name: ウルナ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكاكا
     auto: true
+  - translation_iso: ben
+    name: কাকা
+    auto: true
   - translation_iso: deu
     name: Caka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: caka
   - translation_iso: hin
     name: काका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Caka
     auto: true
   - translation_iso: jpn
     name: カカ語

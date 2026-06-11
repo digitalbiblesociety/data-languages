@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوشونج
     auto: true
+  - translation_iso: ben
+    name: বুশোং
+    auto: true
   - translation_iso: deu
     name: Bushoong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bushong
   - translation_iso: hin
     name: बुशूंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bushoong
     auto: true
   - translation_iso: jpn
     name: ブションゴ語

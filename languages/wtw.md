@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ووتو
     auto: true
+  - translation_iso: ben
+    name: ওয়োতু
+    auto: true
   - translation_iso: deu
     name: Wotu
   - translation_iso: fra

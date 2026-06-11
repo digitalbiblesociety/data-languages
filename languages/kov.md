@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كودو تشامو
     auto: true
+  - translation_iso: ben
+    name: কুদু-কামো
+    auto: true
   - translation_iso: deu
     name: Kudu-Camo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kudu-camo
   - translation_iso: hin
     name: कुडु-कामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kudu-Camo
     auto: true
   - translation_iso: jpn
     name: クドゥ・カモ語

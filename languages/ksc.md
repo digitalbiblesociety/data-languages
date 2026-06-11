@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كالينجا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কালিঙা
+    auto: true
   - translation_iso: deu
     name: Süd-Kalinga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kalinga du Sud
   - translation_iso: hin
     name: दक्षिणी कलिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Kalinga
     auto: true
   - translation_iso: jpn
     name: サザン・カリンガ語

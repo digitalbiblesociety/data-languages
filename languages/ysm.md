@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميانمار الإشارة
     auto: true
+  - translation_iso: ben
+    name: ময়ানমার সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Myanmarische Gebärdensprache
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مينجانج دوسو
     auto: true
+  - translation_iso: ben
+    name: মিঙাং দোসো
+    auto: true
   - translation_iso: deu
     name: Mingang Doso
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mingang doso
   - translation_iso: hin
     name: मिंगांग दोसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mingang Doso
     auto: true
   - translation_iso: jpn
     name: ミンガン・ドソ語

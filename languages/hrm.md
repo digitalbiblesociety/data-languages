@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو ذات القرون
     auto: true
+  - translation_iso: ben
+    name: হোরনেদ মিয়াও
+    auto: true
   - translation_iso: deu
     name: Horned Miao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miao horned
   - translation_iso: hin
     name: सींगदार मियाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Horned Miao
     auto: true
   - translation_iso: jpn
     name: 角苗語

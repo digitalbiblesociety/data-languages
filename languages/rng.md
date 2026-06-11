@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: رونجا
     auto: true
+  - translation_iso: ben
+    name: রোঙা
+    auto: true
   - translation_iso: deu
     name: XiRonga
   - translation_iso: fra
     name: ronga
   - translation_iso: hin
     name: रोंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ronga
     auto: true
   - translation_iso: jpn
     name: ロンガ語

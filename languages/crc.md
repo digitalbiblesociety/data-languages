@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لونوولول
     auto: true
+  - translation_iso: ben
+    name: লোনওয়োলওয়োল
+    auto: true
   - translation_iso: deu
     name: Lonwolwol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lonwolwol
   - translation_iso: hin
     name: लोनवोलवोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lonwolwol
     auto: true
   - translation_iso: jpn
     name: ロンウォルウォル語

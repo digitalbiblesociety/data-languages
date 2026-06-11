@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाजेलानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bajelani
+    auto: true
   - translation_iso: jpn
     name: バジェラニ語
     auto: true

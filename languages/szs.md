@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بجزر سليمان
     auto: true
+  - translation_iso: ben
+    name: সোলোমোন ইসলানদস সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Solomon Islands Sign Language
   - translation_iso: fra
     name: langue des signe salamonaise
   - translation_iso: hin
     name: सोलोमन द्वीप सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Solomon Islands Sign Language
     auto: true
   - translation_iso: jpn
     name: ソロモン諸島手話

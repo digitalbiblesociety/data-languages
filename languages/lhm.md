@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هومي
     auto: true
+  - translation_iso: ben
+    name: লহোমি
+    auto: true
   - translation_iso: deu
     name: Lhomi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lhomi
   - translation_iso: hin
     name: ल्होमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lhomi
     auto: true
   - translation_iso: jpn
     name: ルホミ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غومآتج
     auto: true
+  - translation_iso: ben
+    name: গুমাতজ
+    auto: true
   - translation_iso: deu
     name: Gumatj
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gumatj
   - translation_iso: hin
     name: गुमात्ज
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gumatj
     auto: true
   - translation_iso: jpn
     name: グマタジ語

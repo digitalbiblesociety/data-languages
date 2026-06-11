@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अत्सुगेवी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atsugewi
+    auto: true
   - translation_iso: jpn
     name: アツゲウィ語
     auto: true

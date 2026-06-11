@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nottoway_language"
 translations:
   - translation_iso: ara
     name: نوتوويي
+  - translation_iso: ben
+    name: নোত্তোওয়ায়
+    auto: true
   - translation_iso: deu
     name: Nottoway
   - translation_iso: fra
     name: nottoway
   - translation_iso: hin
     name: नोटोवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nottoway
     auto: true
   - translation_iso: jpn
     name: ノッタウェイ語

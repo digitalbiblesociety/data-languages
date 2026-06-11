@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوما
     auto: true
+  - translation_iso: ben
+    name: উমা
+    auto: true
   - translation_iso: deu
     name: Uma
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uma
     auto: true
   - translation_iso: jpn
     name: ウマ語

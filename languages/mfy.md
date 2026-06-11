@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مايو
     auto: true
+  - translation_iso: ben
+    name: মায়ো
+    auto: true
   - translation_iso: deu
     name: Mayo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mayo
   - translation_iso: hin
     name: मायो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayo
     auto: true
   - translation_iso: jpn
     name: マヨ語

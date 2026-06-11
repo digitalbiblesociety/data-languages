@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: गुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Gun
+    auto: true
   - translation_iso: jpn
     name: グン語
   - translation_iso: kor

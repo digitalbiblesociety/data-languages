@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ساوثيسترن دينكا
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসতেরন দিনকা
+    auto: true
   - translation_iso: deu
     name: Südost-Dinka
   - translation_iso: fra
     name: dinka du Sud-Est
   - translation_iso: hin
     name: दक्षिण-पूर्वी डिंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeastern Dinka
     auto: true
   - translation_iso: jpn
     name: 南東ディンカ語

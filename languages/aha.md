@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अहान्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ahanta
+    auto: true
   - translation_iso: jpn
     name: アハンタ語
     auto: true

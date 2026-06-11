@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينينجيتيج
     auto: true
+  - translation_iso: ben
+    name: লেনিঙিতিজ
+    auto: true
   - translation_iso: deu
     name: Leningitij
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: linngithigh
   - translation_iso: hin
     name: लेनिंगितिज
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Leningitij
     auto: true
   - translation_iso: jpn
     name: レニンギティジ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة موجي
     auto: true
+  - translation_iso: ben
+    name: মোজি
+    auto: true
   - translation_iso: deu
     name: Moji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: moji
   - translation_iso: hin
     name: मोजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moji
     auto: true
   - translation_iso: jpn
     name: モジ語

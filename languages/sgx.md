@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: سييرا ليون لغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: সিএর্রা লেওনে সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Sierraleonische Gebärdensprache
   - translation_iso: fra
     name: langue des signes sierra-léonaise
   - translation_iso: hin
     name: सिएरा लियोन सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sierra Leone Sign Language
     auto: true
   - translation_iso: jpn
     name: シエラレオネ手話

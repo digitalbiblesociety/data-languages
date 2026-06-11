@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अवारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awara
+    auto: true
   - translation_iso: jpn
     name: アワラ語
     auto: true

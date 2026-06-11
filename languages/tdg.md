@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تامانغ الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন তামাং
+    auto: true
   - translation_iso: deu
     name: Western Tamang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: "tamang de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी तामाङ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Tamang
     auto: true
   - translation_iso: jpn
     name: 西部タマン語

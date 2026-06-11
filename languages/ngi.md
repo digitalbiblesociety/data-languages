@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجيزيم
     auto: true
+  - translation_iso: ben
+    name: ঙিজিম
+    auto: true
   - translation_iso: deu
     name: Ngizim
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngizim
   - translation_iso: hin
     name: न्गिज़िम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngizim
     auto: true
   - translation_iso: jpn
     name: ンギジム語

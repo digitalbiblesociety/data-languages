@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتاباتو مانوبو
     auto: true
+  - translation_iso: ben
+    name: কোতাবাতো মানোবো
+    auto: true
   - translation_iso: deu
     name: Cotabato-Manobo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोटाबाटो मानोबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cotabato Manobo
     auto: true
   - translation_iso: jpn
     name: コタバト・マノボ語

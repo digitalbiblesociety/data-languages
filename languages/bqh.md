@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बैमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baima
+    auto: true
   - translation_iso: jpn
     name: 白馬語
   - translation_iso: kor

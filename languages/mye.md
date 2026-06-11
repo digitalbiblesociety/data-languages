@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميني
     auto: true
+  - translation_iso: ben
+    name: ময়েনে
+    auto: true
   - translation_iso: deu
     name: Myene
   - translation_iso: fra

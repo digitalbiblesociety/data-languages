@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अनुकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anuki
+    auto: true
   - translation_iso: jpn
     name: アヌキ語
     auto: true

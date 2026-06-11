@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تشيانج الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কিয়াং
+    auto: true
   - translation_iso: deu
     name: Süd-Qiang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: qiang du Sud
   - translation_iso: hin
     name: दक्षिणी छ्यांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Qiang
     auto: true
   - translation_iso: jpn
     name: 南部チャン語

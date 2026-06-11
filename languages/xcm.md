@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوميكرودو
     auto: true
+  - translation_iso: ben
+    name: কোমেকরুদো
+    auto: true
   - translation_iso: deu
     name: Comecrudo
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: comecrudo
   - translation_iso: hin
     name: कोमेक्रुडो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Comecrudo
     auto: true
   - translation_iso: jpn
     name: コメクルド語

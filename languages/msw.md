@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مانسوانكا
     auto: true
+  - translation_iso: ben
+    name: মানসোয়ানকা
+    auto: true
   - translation_iso: deu
     name: Mansoanka
   - translation_iso: fra
     name: mansoanka
   - translation_iso: hin
     name: मनसोआंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mansoanka
     auto: true
   - translation_iso: jpn
     name: マンソアンカ語

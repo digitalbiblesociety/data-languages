@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيرا
     auto: true
+  - translation_iso: ben
+    name: তিরা
+    auto: true
   - translation_iso: deu
     name: Tira
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तीरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tira
     auto: true
   - translation_iso: jpn
     name: ティラ語

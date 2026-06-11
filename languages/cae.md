@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ليهار
     auto: true
+  - translation_iso: ben
+    name: লেহার
+    auto: true
   - translation_iso: deu
     name: Laalaa
   - translation_iso: fra
     name: léhar
   - translation_iso: hin
     name: लेहार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lehar
     auto: true
   - translation_iso: jpn
     name: レハル語

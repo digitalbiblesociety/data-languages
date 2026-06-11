@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دونجو
     auto: true
+  - translation_iso: ben
+    name: দুঙু
+    auto: true
   - translation_iso: deu
     name: Dungu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dungu
   - translation_iso: hin
     name: दुंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dungu
     auto: true
   - translation_iso: jpn
     name: ドゥング語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مابويو
     auto: true
+  - translation_iso: ben
+    name: মাপোয়ো
+    auto: true
   - translation_iso: deu
     name: Mapoyo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wanai
   - translation_iso: hin
     name: मापोयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mapoyo
     auto: true
   - translation_iso: jpn
     name: マポヨ語

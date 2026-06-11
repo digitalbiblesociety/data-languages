@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة مايواولي
     auto: true
+  - translation_iso: ben
+    name: মায়াওয়ালি
+    auto: true
   - translation_iso: deu
     name: Mayawali
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: mayawali
   - translation_iso: hin
     name: मायावली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayawali
     auto: true
   - translation_iso: jpn
     name: マヤワリ語

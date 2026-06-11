@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موساك
     auto: true
+  - translation_iso: ben
+    name: মুসাক
+    auto: true
   - translation_iso: deu
     name: Musak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: musak
   - translation_iso: hin
     name: मुसाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Musak
     auto: true
   - translation_iso: jpn
     name: ムサク語

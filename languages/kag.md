@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجامان
     auto: true
+  - translation_iso: ben
+    name: কাজামান
+    auto: true
   - translation_iso: deu
     name: Kajaman
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: काजामन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kajaman
     auto: true
   - translation_iso: jpn
     name: カジャマン語

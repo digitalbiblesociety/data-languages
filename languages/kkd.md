@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كينوكو
     auto: true
+  - translation_iso: ben
+    name: কিনুকু
+    auto: true
   - translation_iso: deu
     name: Kinuku
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: किनुकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kinuku
     auto: true
   - translation_iso: jpn
     name: キヌク語

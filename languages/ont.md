@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونتينو
     auto: true
+  - translation_iso: ben
+    name: ওনতেনু
+    auto: true
   - translation_iso: deu
     name: Ontenu
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: ontena
   - translation_iso: hin
     name: ओन्तेनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ontenu
     auto: true
   - translation_iso: jpn
     name: オンテヌ語

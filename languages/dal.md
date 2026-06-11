@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: داهالو
     auto: true
+  - translation_iso: ben
+    name: দাহালো
+    auto: true
   - translation_iso: deu
     name: Dahalo
   - translation_iso: fra
     name: dahalo
   - translation_iso: hin
     name: दहालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dahalo
     auto: true
   - translation_iso: jpn
     name: ダハロ語

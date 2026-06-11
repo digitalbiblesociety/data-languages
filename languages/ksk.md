@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كانسا
     auto: true
+  - translation_iso: ben
+    name: কানসা
+    auto: true
   - translation_iso: deu
     name: Kansa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kanza
   - translation_iso: hin
     name: कांसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kansa
     auto: true
   - translation_iso: jpn
     name: カンサ語

@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iranian_Persian"
 translations:
   - translation_iso: ara
     name: الفارسية الإيرانية
+  - translation_iso: ben
+    name: ইরানিয়ান পেরসিয়ান
+    auto: true
   - translation_iso: deu
     name: Westpersisch (Farsi)
   - translation_iso: fra

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان أغوستين ميكستيبيك
     auto: true
+  - translation_iso: ben
+    name: সান আগুসতিন মিকসতেপেক জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (San Agustín Mixtepec)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de San Agustín Mixtepec
   - translation_iso: hin
     name: सान अगुस्तीन मिक्सटेपेक ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Agustín Mixtepec Zapotec
     auto: true
   - translation_iso: jpn
     name: サン・アグスティン・ミステペック・サポテク語

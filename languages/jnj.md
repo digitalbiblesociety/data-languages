@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ييمسا
     auto: true
+  - translation_iso: ben
+    name: য়েমসা
+    auto: true
   - translation_iso: deu
     name: Yem
   - translation_iso: fra
     name: yemsa
   - translation_iso: hin
     name: येमसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yemsa
     auto: true
   - translation_iso: jpn
     name: イェム語

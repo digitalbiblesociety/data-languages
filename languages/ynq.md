@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يندانغ
     auto: true
+  - translation_iso: ben
+    name: য়েনদাং
+    auto: true
   - translation_iso: deu
     name: Yendang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yendang
   - translation_iso: hin
     name: येंदांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yendang
     auto: true
   - translation_iso: jpn
     name: イェンダング語

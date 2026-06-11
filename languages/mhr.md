@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة ماري الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মারি
+    auto: true
   - translation_iso: deu
     name: Wiesenmari
   - translation_iso: fra
     name: mari des prairies
   - translation_iso: hin
     name: पूर्वी मारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Mari
     auto: true
   - translation_iso: jpn
     name: 牧地マリ語

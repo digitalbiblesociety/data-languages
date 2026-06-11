@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيلا كولا
     auto: true
+  - translation_iso: ben
+    name: বেল্লা কোলা
+    auto: true
   - translation_iso: deu
     name: Bella Coola
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nuxalk
   - translation_iso: hin
     name: नूखल्क भाषा
+  - translation_iso: ind
+    name: Bahasa Bella Coola
+    auto: true
   - translation_iso: jpn
     name: ヌーハルク語
   - translation_iso: kor

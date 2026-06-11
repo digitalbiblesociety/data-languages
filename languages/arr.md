@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة كارو
     auto: true
+  - translation_iso: ben
+    name: কারো
+    auto: true
   - translation_iso: deu
     name: Karo
   - translation_iso: fra
     name: karo
   - translation_iso: hin
     name: कारो (ब्राज़ील)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karo
     auto: true
   - translation_iso: jpn
     name: ラマラマ語

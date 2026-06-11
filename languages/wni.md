@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة القمرية النزوانية
     auto: true
+  - translation_iso: ben
+    name: নদজওয়ানি কোমোরিয়ান
+    auto: true
   - translation_iso: deu
     name: Ndzwani-Komorisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: anjouanais
   - translation_iso: hin
     name: न्द्ज़्वानी कोमोरियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndzwani Comorian
     auto: true
   - translation_iso: jpn
     name: ンジワニ・コモロ語

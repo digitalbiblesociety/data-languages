@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ونغغومي
     auto: true
+  - translation_iso: ben
+    name: উংগুমি
+    auto: true
   - translation_iso: deu
     name: Unggumi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: unggumi
   - translation_iso: hin
     name: उंगुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Unggumi
     auto: true
   - translation_iso: jpn
     name: ウングミ語

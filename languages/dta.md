@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داور
     auto: true
+  - translation_iso: ben
+    name: দাউর
+    auto: true
   - translation_iso: deu
     name: Dagurisch
   - translation_iso: fra

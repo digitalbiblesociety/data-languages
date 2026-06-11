@@ -15,12 +15,18 @@ translations:
   - translation_iso: ara
     name: شيتلان
     auto: true
+  - translation_iso: ben
+    name: শাএতলান
+    auto: true
   - translation_iso: deu
     name: Shetländisch
   - translation_iso: fra
     name: shetlandais
   - translation_iso: hin
     name: शेटलान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shaetlan
     auto: true
   - translation_iso: jpn
     name: シェトランド語の

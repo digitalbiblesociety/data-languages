@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك شيكوتيبيك دي خوارز
     auto: true
+  - translation_iso: ben
+    name: কসিকোতেপেক দে জুয়ারেজ তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Xicotepec De Juárez Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque de Xicotepec
   - translation_iso: hin
     name: शिकोतेपेक दे हुआरेस तोतोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xicotepec De Juárez Totonac
     auto: true
   - translation_iso: jpn
     name: シコテペク・デ・フアレス・トトナック語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفانج
     auto: true
+  - translation_iso: ben
+    name: ফাং
+    auto: true
   - translation_iso: deu
     name: Fang (Kamerun)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fang
   - translation_iso: hin
     name: फांग (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fang
     auto: true
   - translation_iso: jpn
     name: ファン語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ زوجيانغ
     auto: true
+  - translation_iso: ben
+    name: জুওজিয়াং ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Zuojiang-Zhuang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zhuang de Zuojiang
   - translation_iso: hin
     name: ज़ुओजियांग ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zuojiang Zhuang
     auto: true
   - translation_iso: jpn
     name: 左江チワン語

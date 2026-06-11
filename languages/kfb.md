@@ -29,6 +29,9 @@ translations:
     name: kolami
   - translation_iso: hin
     name: कोलामि भाषा
+  - translation_iso: ind
+    name: Bahasa Northwestern Kolami
+    auto: true
   - translation_iso: jpn
     name: コーラーミー語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وابودا
     auto: true
+  - translation_iso: ben
+    name: ওয়াবোদা
+    auto: true
   - translation_iso: deu
     name: Waboda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: waboda
   - translation_iso: hin
     name: वाबोदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waboda
     auto: true
   - translation_iso: jpn
     name: ワボダ語

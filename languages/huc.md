@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ǂHua
     auto: true
+  - translation_iso: ben
+    name: হুয়া
+    auto: true
   - translation_iso: deu
     name: Hoan-Sprache
   - translation_iso: fra
     name: ǂhoan
   - translation_iso: hin
     name: हुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǂHua
     auto: true
   - translation_iso: jpn
     name: ホアン語

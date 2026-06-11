@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكارامانتا
     auto: true
+  - translation_iso: ben
+    name: কারামানতা
+    auto: true
   - translation_iso: deu
     name: Caramanta
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कारामांता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Caramanta
     auto: true
   - translation_iso: jpn
     name: カラマンタ語

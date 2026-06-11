@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليهالوروب
     auto: true
+  - translation_iso: ben
+    name: লেহালুরুপ
+    auto: true
   - translation_iso: deu
     name: Lehalurup
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: löyöp
   - translation_iso: hin
     name: लेहालुरुप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lehalurup
     auto: true
   - translation_iso: jpn
     name: ダイバース・ベイ語

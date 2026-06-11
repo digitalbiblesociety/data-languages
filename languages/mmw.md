@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إماي
     auto: true
+  - translation_iso: ben
+    name: এমাএ
+    auto: true
   - translation_iso: deu
     name: Emae
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: emae
   - translation_iso: hin
     name: एमाए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Emae
     auto: true
   - translation_iso: jpn
     name: エマエ語

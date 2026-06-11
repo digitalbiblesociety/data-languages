@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أباتشي الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন আপাচে
+    auto: true
   - translation_iso: deu
     name: Western Apache
   - translation_iso: fra

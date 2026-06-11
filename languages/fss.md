@@ -29,6 +29,9 @@ translations:
     name: langue des signes finno-suédoise
   - translation_iso: hin
     name: फिनलैंड-स्वेडिश सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Finland-Swedish Sign Language
+    auto: true
   - translation_iso: jpn
     name: フィンランド＝スウェーデン手話
   - translation_iso: kor

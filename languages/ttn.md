@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توويي
     auto: true
+  - translation_iso: ben
+    name: তোওয়েই
+    auto: true
   - translation_iso: deu
     name: Towei
     auto: true

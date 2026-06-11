@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامو
     auto: true
+  - translation_iso: ben
+    name: সামো
+    auto: true
   - translation_iso: deu
     name: Samo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samo
     auto: true
   - translation_iso: jpn
     name: ダバ語

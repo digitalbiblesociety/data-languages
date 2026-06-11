@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيريفور الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন বিরিফোর
+    auto: true
   - translation_iso: deu
     name: Southern Birifor
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: birifor du Sud
   - translation_iso: hin
     name: दक्षिणी बिरिफोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Birifor
     auto: true
   - translation_iso: jpn
     name: 南ビリフォル語

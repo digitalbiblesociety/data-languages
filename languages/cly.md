@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الشاتينو الشرقي الأعلى
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন হিঘলানদ চাতিনো
+    auto: true
   - translation_iso: deu
     name: Östliches Hochland-Chatino
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chatino de la Sierra orientale
   - translation_iso: hin
     name: पूर्वी हाइलैंड चाटिनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Highland Chatino
     auto: true
   - translation_iso: jpn
     name: イースタン・ハイランド・チャティーノ語

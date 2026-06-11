@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبول أور دوجون
     auto: true
+  - translation_iso: ben
+    name: তেবুল উরে দোগোন
+    auto: true
   - translation_iso: deu
     name: Tebul Ure Dogon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tebul
   - translation_iso: hin
     name: तेबुल उरे डोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tebul Ure Dogon
     auto: true
   - translation_iso: jpn
     name: テブル・ウレ・ドゴン語

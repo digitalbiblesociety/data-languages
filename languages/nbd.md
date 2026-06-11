@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجبيندا
     auto: true
+  - translation_iso: ben
+    name: ংবিনদা
+    auto: true
   - translation_iso: deu
     name: Ngbinda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngbinda
   - translation_iso: hin
     name: न्गबिंदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngbinda
     auto: true
   - translation_iso: jpn
     name: ングビンダ語

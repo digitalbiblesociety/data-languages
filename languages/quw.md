@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تينا المنخفضة
     auto: true
+  - translation_iso: ben
+    name: তেনা লোওয়লানদ কুইচুয়া
+    auto: true
   - translation_iso: deu
     name: Tena-Quichua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quichua de Tena
   - translation_iso: hin
     name: तेना तराई किचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tena Lowland Quichua
     auto: true
   - translation_iso: jpn
     name: テナ低地キチュア語

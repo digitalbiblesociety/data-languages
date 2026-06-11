@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوالو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ নুয়াউলু
+    auto: true
   - translation_iso: deu
     name: Nord-Nuaulu
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: يانجوم ديي
     auto: true
+  - translation_iso: ben
+    name: য়াঙুম দেয়
+    auto: true
   - translation_iso: deu
     name: Yangum Dey
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: yangum dey
   - translation_iso: hin
     name: यांगुम डे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yangum Dey
     auto: true
   - translation_iso: jpn
     name: ヤングム・デイ語

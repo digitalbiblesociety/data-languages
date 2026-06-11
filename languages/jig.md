@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جينغولو
     auto: true
+  - translation_iso: ben
+    name: জিঙুলু
+    auto: true
   - translation_iso: deu
     name: Jingulu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jingulu
   - translation_iso: hin
     name: जिंगुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jingulu
     auto: true
   - translation_iso: jpn
     name: ジングル語

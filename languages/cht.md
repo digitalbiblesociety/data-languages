@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشولون
     auto: true
+  - translation_iso: ben
+    name: চোলোন
+    auto: true
   - translation_iso: deu
     name: Cholón
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cholón
   - translation_iso: hin
     name: चोलोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cholón
     auto: true
   - translation_iso: jpn
     name: チョロン語

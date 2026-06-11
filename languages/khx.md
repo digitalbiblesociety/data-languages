@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كانو
     auto: true
+  - translation_iso: ben
+    name: কানু
+    auto: true
   - translation_iso: deu
     name: Kanu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kanu
   - translation_iso: hin
     name: कानू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanu
     auto: true
   - translation_iso: jpn
     name: カヌ語

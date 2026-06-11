@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لومويي
     auto: true
+  - translation_iso: ben
+    name: লোমওয়ে
+    auto: true
   - translation_iso: deu
     name: Lomwe
   - translation_iso: fra
     name: lomwe
   - translation_iso: hin
     name: लोम्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lomwe
     auto: true
   - translation_iso: jpn
     name: ロムウェ語

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لاما باي
     auto: true
+  - translation_iso: ben
+    name: লামা বাই
+    auto: true
   - translation_iso: deu
     name: Lama-Bai
     auto: true
@@ -24,6 +27,9 @@ translations:
     name: lama
   - translation_iso: hin
     name: लामा बाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lama Bai
     auto: true
   - translation_iso: jpn
     name: ラマ・バイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غلآفدآ
     auto: true
+  - translation_iso: ben
+    name: গলাভদা
+    auto: true
   - translation_iso: deu
     name: Glavda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: glavda
   - translation_iso: hin
     name: ग्लाव्दा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Glavda
     auto: true
   - translation_iso: jpn
     name: グラヴダ語

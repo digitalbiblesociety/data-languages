@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالافيدان
     auto: true
+  - translation_iso: ben
+    name: মালাভেদান
+    auto: true
   - translation_iso: deu
     name: Malavedan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malavedan
   - translation_iso: hin
     name: मलावेदन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malavedan
     auto: true
   - translation_iso: jpn
     name: マラヴェダン語

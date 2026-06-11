@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واردامان
     auto: true
+  - translation_iso: ben
+    name: ওয়ারদামান
+    auto: true
   - translation_iso: deu
     name: Wardaman
   - translation_iso: fra
     name: wardaman
   - translation_iso: hin
     name: वार्दामान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wardaman
     auto: true
   - translation_iso: jpn
     name: ワルダマン語

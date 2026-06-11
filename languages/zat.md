@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تابا
     auto: true
+  - translation_iso: ben
+    name: তাবা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Tabaa)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Tabaa
   - translation_iso: hin
     name: ताबा सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tabaa Zapotec
     auto: true
   - translation_iso: jpn
     name: タバア・サポテク語

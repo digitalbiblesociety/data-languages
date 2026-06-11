@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ناري ناري
     auto: true
+  - translation_iso: ben
+    name: নারি নারি
+    auto: true
   - translation_iso: deu
     name: Nari Nari
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: nari nari
   - translation_iso: hin
     name: नारी नारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nari Nari
     auto: true
   - translation_iso: jpn
     name: ナリナリ語

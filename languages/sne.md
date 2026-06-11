@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باو بيدايوه
     auto: true
+  - translation_iso: ben
+    name: বাউ বিদায়ুহ
+    auto: true
   - translation_iso: deu
     name: Bau-Bidayuh
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bau bidayuh
   - translation_iso: hin
     name: बाउ बिदायुह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bau Bidayuh
     auto: true
   - translation_iso: jpn
     name: バウ語

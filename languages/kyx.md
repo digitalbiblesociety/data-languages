@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رابويسي
     auto: true
+  - translation_iso: ben
+    name: রাপোইসি
+    auto: true
   - translation_iso: deu
     name: Rapoisi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रापोइसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rapoisi
     auto: true
   - translation_iso: jpn
     name: クヌア語

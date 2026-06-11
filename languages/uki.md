@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كوي
     auto: true
+  - translation_iso: ben
+    name: কুই
+    auto: true
   - translation_iso: deu
     name: Kui (Indien)
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: kui
   - translation_iso: hin
     name: कुई भाषा
+  - translation_iso: ind
+    name: Bahasa Kui
+    auto: true
   - translation_iso: jpn
     name: クーイ語
   - translation_iso: kor

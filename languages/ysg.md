@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونااغا
     auto: true
+  - translation_iso: ben
+    name: সোনাগা
+    auto: true
   - translation_iso: deu
     name: Sonaga
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोनागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sonaga
     auto: true
   - translation_iso: jpn
     name: ソナガ語

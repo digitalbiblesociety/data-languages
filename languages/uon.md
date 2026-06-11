@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كولون
     auto: true
+  - translation_iso: ben
+    name: কুলোন
+    auto: true
   - translation_iso: deu
     name: Kulon
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुलोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kulon
     auto: true
   - translation_iso: jpn
     name: クーロン語

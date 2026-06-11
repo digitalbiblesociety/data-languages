@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوانجا
     auto: true
+  - translation_iso: ben
+    name: কওয়ানজা
+    auto: true
   - translation_iso: deu
     name: Kwanja
   - translation_iso: fra
     name: kwanja
   - translation_iso: hin
     name: क्वांजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwanja
     auto: true
   - translation_iso: jpn
     name: クワンジャ語

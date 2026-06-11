@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: آمبريم جنوب شرق
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসত আমবরয়ম
+    auto: true
   - translation_iso: deu
     name: Südost-Ambrym
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ambrym du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्व एम्ब्रिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeast Ambrym
     auto: true
   - translation_iso: jpn
     name: タヴェアク語

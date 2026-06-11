@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيتامان
     auto: true
+  - translation_iso: ben
+    name: সেতামান
+    auto: true
   - translation_iso: deu
     name: Setaman
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: setaman
   - translation_iso: hin
     name: सेतामान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Setaman
     auto: true
   - translation_iso: jpn
     name: セタマン語

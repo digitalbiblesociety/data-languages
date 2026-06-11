@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مجار الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন মাগার
+    auto: true
   - translation_iso: deu
     name: Eastern Magar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पूर्वी मगर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Magar
     auto: true
   - translation_iso: jpn
     name: 東マガル語

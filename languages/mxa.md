@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك أواكساكا الشمالية الغربية
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসত ওয়াকসাকা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Nordwest-Oaxaca-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "mixtèque d'Oaxaca du Nord-Ouest"
   - translation_iso: hin
     name: उत्तर-पश्चिमी ओआहाका मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwest Oaxaca Mixtec
     auto: true
   - translation_iso: jpn
     name: ノースウェスト・オアハカ・ミステク語

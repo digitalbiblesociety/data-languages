@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بينتولو
     auto: true
+  - translation_iso: ben
+    name: বিনতুলু
+    auto: true
   - translation_iso: deu
     name: Bintulu
     auto: true

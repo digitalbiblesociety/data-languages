@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فانجونو
     auto: true
+  - translation_iso: ben
+    name: ভাঙুনু
+    auto: true
   - translation_iso: deu
     name: Vangunu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vangunu
   - translation_iso: hin
     name: वांगुनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vangunu
     auto: true
   - translation_iso: jpn
     name: ヴァングヌ語

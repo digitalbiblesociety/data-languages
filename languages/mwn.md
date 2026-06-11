@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نياموانجا
     auto: true
+  - translation_iso: ben
+    name: নয়ামওয়াঙা
+    auto: true
   - translation_iso: deu
     name: Mwanga
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्यामवांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyamwanga
     auto: true
   - translation_iso: jpn
     name: ムワンガ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बरियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bariai
+    auto: true
   - translation_iso: jpn
     name: バリアイ語
   - translation_iso: kor

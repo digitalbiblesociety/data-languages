@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيكولية
     auto: true
+  - translation_iso: ben
+    name: সিকুলে
+    auto: true
   - translation_iso: deu
     name: Sikule
   - translation_iso: fra

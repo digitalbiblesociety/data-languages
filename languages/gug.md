@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: بآرآغوآيآن غوآرآنí
     auto: true
+  - translation_iso: ben
+    name: পারাগুয়ায়ান গুয়ারানি
+    auto: true
   - translation_iso: deu
     name: Paraguayisches Guaraní
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: guarani paraguayen
   - translation_iso: hin
     name: पराग्वायी गुआरानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paraguayan Guaraní
     auto: true
   - translation_iso: jpn
     name: パラグアイ・グアラニー語

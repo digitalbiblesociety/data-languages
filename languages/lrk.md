@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة واركي
     auto: true
+  - translation_iso: ben
+    name: লোয়ারকি
+    auto: true
   - translation_iso: deu
     name: Loarki
     auto: true

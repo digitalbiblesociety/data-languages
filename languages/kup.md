@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كونيمايبا
     auto: true
+  - translation_iso: ben
+    name: কুনিমাইপা
+    auto: true
   - translation_iso: deu
     name: Kunimaipa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kunimaipa
   - translation_iso: hin
     name: कुनिमाइपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunimaipa
     auto: true
   - translation_iso: jpn
     name: クニマイパ語

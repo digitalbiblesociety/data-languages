@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هويآهويآ
     auto: true
+  - translation_iso: ben
+    name: হোয়াহোয়া
+    auto: true
   - translation_iso: deu
     name: Hoyahoya
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: होयाहोया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hoyahoya
     auto: true
   - translation_iso: jpn
     name: ホヤホヤ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سا
     auto: true
+  - translation_iso: ben
+    name: সা
+    auto: true
   - translation_iso: deu
     name: Sa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sa
   - translation_iso: hin
     name: सा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sa
     auto: true
   - translation_iso: jpn
     name: サ語

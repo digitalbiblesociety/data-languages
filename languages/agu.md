@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अगुआकातेको
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aguacateco
+    auto: true
   - translation_iso: jpn
     name: アワカテコ語
   - translation_iso: kor

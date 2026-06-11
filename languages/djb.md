@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دجينبا
     auto: true
+  - translation_iso: ben
+    name: দজিনবা
+    auto: true
   - translation_iso: deu
     name: Djinba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djinba
   - translation_iso: hin
     name: जिंबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djinba
     auto: true
   - translation_iso: jpn
     name: ジインバ語

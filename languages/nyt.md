@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيياوايجي
     auto: true
+  - translation_iso: ben
+    name: নয়াওয়ায়গি
+    auto: true
   - translation_iso: deu
     name: Nyawaygi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyawaygi
   - translation_iso: hin
     name: न्यावायगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyawaygi
     auto: true
   - translation_iso: jpn
     name: ニャワイギ語

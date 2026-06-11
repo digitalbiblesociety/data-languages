@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة مجندانايون
     auto: true
+  - translation_iso: ben
+    name: মাগুইনদানাওন
+    auto: true
   - translation_iso: deu
     name: Maguindanaon
     auto: true

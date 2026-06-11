@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاامبا
     auto: true
+  - translation_iso: ben
+    name: কামবা
+    auto: true
   - translation_iso: deu
     name: Kaamba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kaamba
   - translation_iso: hin
     name: कामबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaamba
     auto: true
   - translation_iso: jpn
     name: カアンバ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاسيجورانين
     auto: true
+  - translation_iso: ben
+    name: কাসিগুরানিন
+    auto: true
   - translation_iso: deu
     name: Kasiguranin
     auto: true

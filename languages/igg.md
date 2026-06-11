@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيغانا
     auto: true
+  - translation_iso: ben
+    name: ইগানা
+    auto: true
   - translation_iso: deu
     name: Igana
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: igana
   - translation_iso: hin
     name: इगाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Igana
     auto: true
   - translation_iso: jpn
     name: イガナ語

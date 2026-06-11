@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتشينجا
     auto: true
+  - translation_iso: ben
+    name: মাচিঙা
+    auto: true
   - translation_iso: deu
     name: Machinga
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माचिंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Machinga
     auto: true
   - translation_iso: jpn
     name: マチンガ語

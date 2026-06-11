@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة اللويه
     auto: true
+  - translation_iso: ben
+    name: লু
+    auto: true
   - translation_iso: deu
     name: Tai Lü
   - translation_iso: fra

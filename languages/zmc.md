@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة مارغاني
     auto: true
+  - translation_iso: ben
+    name: মারগানয়
+    auto: true
   - translation_iso: deu
     name: Margany
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: margany
   - translation_iso: hin
     name: मार्गनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Margany
     auto: true
   - translation_iso: jpn
     name: マルガニー語

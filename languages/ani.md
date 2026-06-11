@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अंदी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andi
+    auto: true
   - translation_iso: jpn
     name: アンディ語
   - translation_iso: kor

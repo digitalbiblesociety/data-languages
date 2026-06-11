@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अम्बेले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambele
+    auto: true
   - translation_iso: jpn
     name: アンベレ語
     auto: true

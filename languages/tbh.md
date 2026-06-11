@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ذاراوال
     auto: true
+  - translation_iso: ben
+    name: ধারাওয়াল
+    auto: true
   - translation_iso: deu
     name: Dharawal
     auto: true

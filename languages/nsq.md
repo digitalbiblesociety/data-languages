@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مايوك سيرا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন সিএর্রা মিওয়োক
+    auto: true
   - translation_iso: deu
     name: Nördliches Sierra-Miwok
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miwok de la Sierra du Nord
   - translation_iso: hin
     name: उत्तरी सिएरा मिवोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Sierra Miwok
     auto: true
   - translation_iso: jpn
     name: 北シエラミウォク語

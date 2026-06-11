@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غابرييلينوفيرنانديو
     auto: true
+  - translation_iso: ben
+    name: গাবরিএলিনো-ফেরনানদেনয়ো
+    auto: true
   - translation_iso: deu
     name: Tongwa
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك ميكستيبك
     auto: true
+  - translation_iso: ben
+    name: মিকসতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Mixtepec Mixtec
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque de Mixtepec
   - translation_iso: hin
     name: मिश्तेपेक मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mixtepec Mixtec
     auto: true
   - translation_iso: jpn
     name: ミステペク・ミステク語

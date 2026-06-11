@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: غرونينجس
     auto: true
+  - translation_iso: ben
+    name: গরোনিংস
+    auto: true
   - translation_iso: deu
     name: Gronings
   - translation_iso: fra
     name: groningois
   - translation_iso: hin
     name: ग्रोनिंग्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gronings
     auto: true
   - translation_iso: jpn
     name: フローニン語

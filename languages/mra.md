@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ملابري
     auto: true
+  - translation_iso: ben
+    name: মলাবরি
+    auto: true
   - translation_iso: deu
     name: Mlabri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mlabri
   - translation_iso: hin
     name: म्लाब्री
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mlabri
     auto: true
   - translation_iso: jpn
     name: ムラブリ語

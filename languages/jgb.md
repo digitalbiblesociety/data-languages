@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نغبي
     auto: true
+  - translation_iso: ben
+    name: ংবে
+    auto: true
   - translation_iso: deu
     name: Ngbee
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ंगबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngbee
     auto: true
   - translation_iso: jpn
     name: ングベー語

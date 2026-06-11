@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كونجا
     auto: true
+  - translation_iso: ben
+    name: কুনজা
+    auto: true
   - translation_iso: deu
     name: Kunja
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुंजा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunja
     auto: true
   - translation_iso: jpn
     name: クンジャ語

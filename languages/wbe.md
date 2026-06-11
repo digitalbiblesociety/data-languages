@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واريتاي
     auto: true
+  - translation_iso: ben
+    name: ওয়ারিতাই
+    auto: true
   - translation_iso: deu
     name: Waritai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waritai
   - translation_iso: hin
     name: वरितै
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waritai
     auto: true
   - translation_iso: jpn
     name: ワリタイ語

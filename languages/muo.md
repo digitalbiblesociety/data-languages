@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة نيونج
     auto: true
+  - translation_iso: ben
+    name: নয়োং
+    auto: true
   - translation_iso: deu
     name: Nyong
   - translation_iso: fra
     name: nyong
   - translation_iso: hin
     name: न्योंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyong
     auto: true
   - translation_iso: jpn
     name: ニョン語

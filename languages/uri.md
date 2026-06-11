@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوريم
     auto: true
+  - translation_iso: ben
+    name: উরিম
+    auto: true
   - translation_iso: deu
     name: Urim
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: urim
   - translation_iso: hin
     name: उरिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Urim
     auto: true
   - translation_iso: jpn
     name: カルプ語

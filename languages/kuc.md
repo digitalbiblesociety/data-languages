@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوينسو
     auto: true
+  - translation_iso: ben
+    name: কওয়িনসু
+    auto: true
   - translation_iso: deu
     name: Kwinsu
     auto: true

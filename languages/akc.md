@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مپور
     auto: true
+  - translation_iso: ben
+    name: মপুর
+    auto: true
   - translation_iso: deu
     name: Amberbaken
   - translation_iso: fra

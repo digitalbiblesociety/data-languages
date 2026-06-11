@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن غآلإ
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন ঘালে
+    auto: true
   - translation_iso: deu
     name: Nördliches Ghale
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ghale du Nord
   - translation_iso: hin
     name: उत्तरी घले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Ghale
     auto: true
   - translation_iso: jpn
     name: ノーザン・ガレ語

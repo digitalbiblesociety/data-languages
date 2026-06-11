@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاهي
     auto: true
+  - translation_iso: ben
+    name: কাহে
+    auto: true
   - translation_iso: deu
     name: Kahe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kahe
   - translation_iso: hin
     name: काहे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kahe
     auto: true
   - translation_iso: jpn
     name: カヘ語

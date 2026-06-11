@@ -15,6 +15,9 @@ glottocode: fuln1247
 wikidata_id: Q774441
 wikipedia_url: "https://en.wikipedia.org/wiki/Iat%C3%AA_language"
 translations:
+  - translation_iso: ben
+    name: ফুলনিও
+    auto: true
   - translation_iso: deu
     name: Fulniô
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: yatê
   - translation_iso: hin
     name: फुलनिओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fulniô
     auto: true
   - translation_iso: jpn
     name: フルニオ語

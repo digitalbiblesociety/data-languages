@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي ولاية مكسيكو
     auto: true
+  - translation_iso: ben
+    name: এসতাদো দে মেকসিকো ওতোমি
+    auto: true
   - translation_iso: deu
     name: Otomí des Bundesstaates México
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "otomi de l'État de Mexico"
   - translation_iso: hin
     name: एस्तादो दे मेक्सिको ओटोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Estado de México Otomi
     auto: true
   - translation_iso: jpn
     name: メキシコ州オトミ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاوبويد شرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন তাওয়বুইদ
+    auto: true
   - translation_iso: deu
     name: Eastern Tawbuid
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "tawbuid de l'Est"
   - translation_iso: hin
     name: पूर्वी ताउबुइद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Tawbuid
     auto: true
   - translation_iso: jpn
     name: 東ボウユイド語

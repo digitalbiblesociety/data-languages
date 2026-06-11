@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Beng
+    auto: true
   - translation_iso: jpn
     name: ベン語
     auto: true

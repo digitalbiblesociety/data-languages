@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكوتشيمي
     auto: true
+  - translation_iso: ben
+    name: কোচিমি
+    auto: true
   - translation_iso: deu
     name: Cochimí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cochimi
   - translation_iso: hin
     name: कोचिमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cochimi
     auto: true
   - translation_iso: jpn
     name: コチミ語

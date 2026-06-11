@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توخاري ألف
     auto: true
+  - translation_iso: ben
+    name: তোখারিয়ান আ
+    auto: true
   - translation_iso: deu
     name: Osttocharisch
   - translation_iso: fra

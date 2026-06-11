@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: دادي دادي
     auto: true
+  - translation_iso: ben
+    name: দাদি দাদি
+    auto: true
   - translation_iso: deu
     name: Dadi Dadi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: dadi dadi
   - translation_iso: hin
     name: दादी दादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dadi Dadi
     auto: true
   - translation_iso: jpn
     name: ダディ・ダディ語

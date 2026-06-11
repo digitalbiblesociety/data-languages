@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مينافيها
     auto: true
+  - translation_iso: ben
+    name: মিনাভেহা
+    auto: true
   - translation_iso: deu
     name: Minaveha
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिनावेहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minaveha
     auto: true
   - translation_iso: jpn
     name: ミナヴェハ語

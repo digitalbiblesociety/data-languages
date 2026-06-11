@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا سانتياجو ديل إستيرو
     auto: true
+  - translation_iso: ben
+    name: সানতিয়াগো দেল এসতেরো কুইচুয়া
+    auto: true
   - translation_iso: deu
     name: argentinisches Quechua
   - translation_iso: fra
     name: quechua de Santiago del Estero
   - translation_iso: hin
     name: सांतियागो देल एस्तेरो किचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santiago del Estero Quichua
     auto: true
   - translation_iso: jpn
     name: サンティアゴデルエステロキチュア語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبو
     auto: true
+  - translation_iso: ben
+    name: মবো
+    auto: true
   - translation_iso: deu
     name: Mbo
   - translation_iso: fra
     name: mbo
   - translation_iso: hin
     name: म्बो (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbo
     auto: true
   - translation_iso: jpn
     name: ムボ語

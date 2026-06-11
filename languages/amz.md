@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अटाम्पाया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atampaya
+    auto: true
   - translation_iso: jpn
     name: アタンパヤ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوكوريا
     auto: true
+  - translation_iso: ben
+    name: নুকুরিয়া
+    auto: true
   - translation_iso: deu
     name: Nukuria
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नुकुरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nukuria
     auto: true
   - translation_iso: jpn
     name: ヌクリア語

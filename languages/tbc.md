@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاكيا
     auto: true
+  - translation_iso: ben
+    name: তাকিয়া
+    auto: true
   - translation_iso: deu
     name: Takia
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: takia
   - translation_iso: hin
     name: ताकिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Takia
     auto: true
   - translation_iso: jpn
     name: タキア語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هإردé
     auto: true
+  - translation_iso: ben
+    name: হেরদে
+    auto: true
   - translation_iso: deu
     name: Herdé
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: herdé
   - translation_iso: hin
     name: हेर्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Herdé
     auto: true
   - translation_iso: jpn
     name: ヘルデ語

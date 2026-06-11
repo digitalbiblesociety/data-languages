@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السفلى تشهاليس
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের চেহালিস
+    auto: true
   - translation_iso: deu
     name: Niederchehalis
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chehalis inférieur
   - translation_iso: hin
     name: निचली चेहालिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lower Chehalis
     auto: true
   - translation_iso: jpn
     name: 下チヘリス語

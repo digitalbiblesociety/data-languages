@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوآري
     auto: true
+  - translation_iso: ben
+    name: পুয়ারে
+    auto: true
   - translation_iso: deu
     name: Puare
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: puare
   - translation_iso: hin
     name: पुआरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puare
     auto: true
   - translation_iso: jpn
     name: プアレ語

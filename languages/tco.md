@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاونغيو
     auto: true
+  - translation_iso: ben
+    name: তাউংয়ো
+    auto: true
   - translation_iso: deu
     name: Taungyo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: taungyo
   - translation_iso: hin
     name: ताउंग्यो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Taungyo
     auto: true
   - translation_iso: jpn
     name: タウンギョ語

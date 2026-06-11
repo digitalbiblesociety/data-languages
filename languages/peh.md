@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان
     auto: true
+  - translation_iso: ben
+    name: বোনান
+    auto: true
   - translation_iso: deu
     name: Bonan
   - translation_iso: fra

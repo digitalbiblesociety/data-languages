@@ -31,6 +31,9 @@ translations:
     name: sirmauri
   - translation_iso: hin
     name: सिरमौरी
+  - translation_iso: ind
+    name: Bahasa Sirmauri
+    auto: true
   - translation_iso: jpn
     name: スルマウリ語
   - translation_iso: kor

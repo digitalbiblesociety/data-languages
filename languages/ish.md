@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيسان
     auto: true
+  - translation_iso: ben
+    name: এসান
+    auto: true
   - translation_iso: deu
     name: Esan
   - translation_iso: fra
     name: esan
   - translation_iso: hin
     name: एसान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Esan
     auto: true
   - translation_iso: jpn
     name: エサン語

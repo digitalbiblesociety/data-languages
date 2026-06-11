@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوجان
     auto: true
+  - translation_iso: ben
+    name: বুগান
+    auto: true
   - translation_iso: deu
     name: Bugan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pakan
   - translation_iso: hin
     name: बुगान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bugan
     auto: true
   - translation_iso: jpn
     name: ブガン語

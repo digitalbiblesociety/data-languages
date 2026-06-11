@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان بالتازار لوكسيتشا
     auto: true
+  - translation_iso: ben
+    name: সান বালতাজার লোকসিচা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (San Baltazar Loxicha)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de San Baltazar Loxicha
   - translation_iso: hin
     name: सान बाल्तज़ार लोक्सिचा सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Baltazar Loxicha Zapotec
     auto: true
   - translation_iso: jpn
     name: サン・バルタザル・ロキチャ・サポテク語

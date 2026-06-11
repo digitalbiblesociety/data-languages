@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوبي
     auto: true
+  - translation_iso: ben
+    name: বুবি
+    auto: true
   - translation_iso: deu
     name: Bubi
   - translation_iso: fra
     name: pove
   - translation_iso: hin
     name: बुबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bubi
     auto: true
   - translation_iso: jpn
     name: ブビ語

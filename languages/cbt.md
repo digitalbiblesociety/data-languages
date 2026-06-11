@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشايهويتا
     auto: true
+  - translation_iso: ben
+    name: চায়াহুইতা
+    auto: true
   - translation_iso: deu
     name: Chayahuita
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chayahuita
   - translation_iso: hin
     name: चायाहुइता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chayahuita
     auto: true
   - translation_iso: jpn
     name: チャヤウイタ語

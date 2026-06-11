@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: قاقيت
     auto: true
+  - translation_iso: ben
+    name: কাকেত
+    auto: true
   - translation_iso: deu
     name: Qaqet
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: qaqet
   - translation_iso: hin
     name: काकेत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Qaqet
     auto: true
   - translation_iso: jpn
     name: バイニン語

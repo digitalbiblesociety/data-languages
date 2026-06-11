@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يجينزا
     auto: true
+  - translation_iso: ben
+    name: লিগেনজা
+    auto: true
   - translation_iso: deu
     name: Ligenza
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: genza
   - translation_iso: hin
     name: लिगेन्ज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ligenza
     auto: true
   - translation_iso: jpn
     name: リゲンザ語

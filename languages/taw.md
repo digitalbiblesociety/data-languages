@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي
     auto: true
+  - translation_iso: ben
+    name: তাই
+    auto: true
   - translation_iso: deu
     name: Tai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai
     auto: true
   - translation_iso: jpn
     name: タイ語

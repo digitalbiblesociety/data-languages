@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوآمبيآنو
     auto: true
+  - translation_iso: ben
+    name: গুয়ামবিয়ানো
+    auto: true
   - translation_iso: deu
     name: Guambiano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guambiano
   - translation_iso: hin
     name: गुआम्बियानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guambiano
     auto: true
   - translation_iso: jpn
     name: グアンビアーノ語

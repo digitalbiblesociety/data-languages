@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داجا
     auto: true
+  - translation_iso: ben
+    name: দাগা
+    auto: true
   - translation_iso: deu
     name: Daga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: daga
   - translation_iso: hin
     name: दागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Daga
     auto: true
   - translation_iso: jpn
     name: ダガ語

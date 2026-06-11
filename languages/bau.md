@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بادا
     auto: true
+  - translation_iso: ben
+    name: বাদা
+    auto: true
   - translation_iso: deu
     name: Bada (Nigeria)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mbat
   - translation_iso: hin
     name: बाडा (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bada
     auto: true
   - translation_iso: jpn
     name: バダ語

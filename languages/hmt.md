@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هامتاي
     auto: true
+  - translation_iso: ben
+    name: হামতাই
+    auto: true
   - translation_iso: deu
     name: Hamtai
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हमताई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hamtai
     auto: true
   - translation_iso: jpn
     name: ハムタイ語

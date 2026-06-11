@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مايري
     auto: true
+  - translation_iso: ben
+    name: মারিরি
+    auto: true
   - translation_iso: deu
     name: Mariri
     auto: true

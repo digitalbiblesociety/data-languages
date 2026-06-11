@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داويرا داويلور
     auto: true
+  - translation_iso: ben
+    name: দাওয়েরা-দাওয়েলোর
+    auto: true
   - translation_iso: deu
     name: Dawera-Daweloor
     auto: true

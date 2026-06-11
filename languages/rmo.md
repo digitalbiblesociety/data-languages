@@ -23,12 +23,18 @@ translations:
   - translation_iso: ara
     name: سينتي رومانية
     auto: true
+  - translation_iso: ben
+    name: সিনতে রোমানি
+    auto: true
   - translation_iso: deu
     name: Sintitikes
   - translation_iso: fra
     name: sintikès
   - translation_iso: hin
     name: सिंते रोमानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sinte Romani
     auto: true
   - translation_iso: jpn
     name: シンティー＝ロマ語

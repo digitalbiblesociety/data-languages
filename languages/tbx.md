@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابين
     auto: true
+  - translation_iso: ben
+    name: কাপিন
+    auto: true
   - translation_iso: deu
     name: Kapin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kapin
   - translation_iso: hin
     name: कापिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kapin
     auto: true
   - translation_iso: jpn
     name: カピン語

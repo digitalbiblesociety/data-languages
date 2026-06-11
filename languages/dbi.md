@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوكا
     auto: true
+  - translation_iso: ben
+    name: দোকা
+    auto: true
   - translation_iso: deu
     name: Doka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: doka
   - translation_iso: hin
     name: दोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doka
     auto: true
   - translation_iso: jpn
     name: ドカ語

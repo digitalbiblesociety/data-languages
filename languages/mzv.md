@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مانزا
     auto: true
+  - translation_iso: ben
+    name: মানজা
+    auto: true
   - translation_iso: deu
     name: Manza
   - translation_iso: fra
     name: manza
   - translation_iso: hin
     name: मांज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manza
     auto: true
   - translation_iso: jpn
     name: マンザ語

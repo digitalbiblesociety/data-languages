@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كونكومبا
     auto: true
+  - translation_iso: ben
+    name: কোনকোমবা
+    auto: true
   - translation_iso: deu
     name: Konkomba
   - translation_iso: fra
     name: konkomba
   - translation_iso: hin
     name: कोंकोम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konkomba
     auto: true
   - translation_iso: jpn
     name: コンコンバ語

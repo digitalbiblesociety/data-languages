@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوكو بابانغك
     auto: true
+  - translation_iso: ben
+    name: কোকো বাবাংক
+    auto: true
   - translation_iso: deu
     name: Koko Babangk
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: koko babangk
   - translation_iso: hin
     name: कोको बाबांग्क
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koko Babangk
     auto: true
   - translation_iso: jpn
     name: ココ・ババングク語

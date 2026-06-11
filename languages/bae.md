@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बारे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baré
+    auto: true
   - translation_iso: jpn
     name: ギナオ語
   - translation_iso: kor

@@ -25,6 +25,9 @@ translations:
   - translation_iso: hin
     name: ज़ारफ़ाटिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Zarphatic
+    auto: true
   - translation_iso: jpn
     name: ツァルファティート
   - translation_iso: kor

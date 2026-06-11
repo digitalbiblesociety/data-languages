@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة تالو
     auto: true
+  - translation_iso: ben
+    name: তালু
+    auto: true
   - translation_iso: deu
     name: Talu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: talu
   - translation_iso: hin
     name: तालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Talu
     auto: true
   - translation_iso: jpn
     name: タル語

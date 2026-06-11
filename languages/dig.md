@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديجو
     auto: true
+  - translation_iso: ben
+    name: দিগো
+    auto: true
   - translation_iso: deu
     name: Digo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: digo
   - translation_iso: hin
     name: दिगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Digo
     auto: true
   - translation_iso: jpn
     name: ディゴ語

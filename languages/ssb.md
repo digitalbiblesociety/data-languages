@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سما الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন সামা
+    auto: true
   - translation_iso: deu
     name: Southern Sama
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sama méridional
   - translation_iso: hin
     name: दक्षिणी सामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Sama
     auto: true
   - translation_iso: jpn
     name: バジャウ語

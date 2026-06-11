@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جوبا
     auto: true
+  - translation_iso: ben
+    name: জোবা
+    auto: true
   - translation_iso: deu
     name: Joba
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: joba
   - translation_iso: hin
     name: जोबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Joba
     auto: true
   - translation_iso: jpn
     name: ジョバ語

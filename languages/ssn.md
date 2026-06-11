@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة واتا
     auto: true
+  - translation_iso: ben
+    name: ওয়াতা
+    auto: true
   - translation_iso: deu
     name: Waata
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waata
   - translation_iso: hin
     name: वाटा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waata
     auto: true
   - translation_iso: jpn
     name: ワアタ語

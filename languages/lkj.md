@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يمون
     auto: true
+  - translation_iso: ben
+    name: রেমুন
+    auto: true
   - translation_iso: deu
     name: Remun
     auto: true

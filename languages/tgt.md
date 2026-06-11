@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاغبانوا الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল তাগবানওয়া
+    auto: true
   - translation_iso: deu
     name: Central Tagbanwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tagbanwa central
   - translation_iso: hin
     name: मध्य तागबानवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Tagbanwa
     auto: true
   - translation_iso: jpn
     name: タグバヌワ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جينا
     auto: true
+  - translation_iso: ben
+    name: জিনা
+    auto: true
   - translation_iso: deu
     name: Jina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: jina
   - translation_iso: hin
     name: जिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jina
     auto: true
   - translation_iso: jpn
     name: ジナ語

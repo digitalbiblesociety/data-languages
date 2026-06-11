@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كنسوي نسي
     auto: true
+  - translation_iso: ben
+    name: কেনসওয়েই নসেই
+    auto: true
   - translation_iso: deu
     name: Kenswei Nsei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kenswei nsei
   - translation_iso: hin
     name: केनस्वेई न्सेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kenswei Nsei
     auto: true
   - translation_iso: jpn
     name: ケンスウェイ・ンセイ語

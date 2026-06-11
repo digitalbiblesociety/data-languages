@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاي تاك
     auto: true
+  - translation_iso: ben
+    name: তায় তাক
+    auto: true
   - translation_iso: deu
     name: Tày Tac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tày tac
   - translation_iso: hin
     name: ताय तक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tày Tac
     auto: true
   - translation_iso: jpn
     name: タイー・タック語

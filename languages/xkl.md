@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mainstream_Kenyah_language"
 translations:
   - translation_iso: ara
     name: لغة الكينياه السائدة
+  - translation_iso: ben
+    name: মাইনসতরেয়াম কেনয়াহ
+    auto: true
   - translation_iso: deu
     name: Mainstream Kenyah
     auto: true

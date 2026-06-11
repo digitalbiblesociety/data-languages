@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: واغاواغا
     auto: true
+  - translation_iso: ben
+    name: ওয়াগাওয়াগা
+    auto: true
   - translation_iso: deu
     name: Wagawaga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wagawaga
   - translation_iso: hin
     name: वगवगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wagawaga
     auto: true
   - translation_iso: jpn
     name: ワガワガ語

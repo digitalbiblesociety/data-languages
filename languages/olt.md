@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: اللغة الليتوانية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ লিথুয়ানিয়ান
+    auto: true
   - translation_iso: deu
     name: Altlitauisch
   - translation_iso: fra
     name: vieux lituanien
   - translation_iso: hin
     name: पुरानी लिथुआनियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Lithuanian
     auto: true
   - translation_iso: jpn
     name: 古リトアニア語

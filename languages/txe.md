@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتولي
     auto: true
+  - translation_iso: ben
+    name: তোতোলি
+    auto: true
   - translation_iso: deu
     name: Tolitoli
   - translation_iso: fra

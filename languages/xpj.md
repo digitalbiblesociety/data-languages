@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مبالتجان
     auto: true
+  - translation_iso: ben
+    name: মপালিতজানহ
+    auto: true
   - translation_iso: deu
     name: Mpalitjanh
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: mpalitjanh
   - translation_iso: hin
     name: म्पालिटजान्ह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mpalitjanh
     auto: true
   - translation_iso: jpn
     name: ムパリチャンハ語

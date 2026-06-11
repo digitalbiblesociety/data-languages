@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة وكومي
     auto: true
+  - translation_iso: ben
+    name: লুকুমি
+    auto: true
   - translation_iso: deu
     name: Lukumí
   - translation_iso: fra
     name: lucumí
   - translation_iso: hin
     name: लुकुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lucumi
     auto: true
   - translation_iso: jpn
     name: ルクミ語

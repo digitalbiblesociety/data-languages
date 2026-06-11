@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوإرإ
     auto: true
+  - translation_iso: ben
+    name: গওয়েরে
+    auto: true
   - translation_iso: deu
     name: Gwere
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gwere
   - translation_iso: hin
     name: ग्वेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gwere
     auto: true
   - translation_iso: jpn
     name: グウェレ語

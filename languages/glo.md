@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآلآمبو
     auto: true
+  - translation_iso: ben
+    name: গালামবু
+    auto: true
   - translation_iso: deu
     name: Galambu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गालम्बु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Galambu
     auto: true
   - translation_iso: jpn
     name: ガラムブ語

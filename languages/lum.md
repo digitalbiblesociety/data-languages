@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ويمبي
     auto: true
+  - translation_iso: ben
+    name: লুইমবি
+    auto: true
   - translation_iso: deu
     name: Luimbi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luimbi
   - translation_iso: hin
     name: लुइम्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Luimbi
     auto: true
   - translation_iso: jpn
     name: ルイムビ語

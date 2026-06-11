@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايو
     auto: true
+  - translation_iso: ben
+    name: ওয়ায়ু
+    auto: true
   - translation_iso: deu
     name: Wayu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wayu
   - translation_iso: hin
     name: हायु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wayu
     auto: true
   - translation_iso: jpn
     name: ハユ語

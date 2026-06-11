@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونغوي
     auto: true
+  - translation_iso: ben
+    name: তোংওয়ে
+    auto: true
   - translation_iso: deu
     name: Tongwe
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तोंगवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tongwe
     auto: true
   - translation_iso: jpn
     name: トングウェ語

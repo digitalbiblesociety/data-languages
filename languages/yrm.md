@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة ييرك-مل
     auto: true
+  - translation_iso: ben
+    name: য়ির্রক-মেল
+    auto: true
   - translation_iso: deu
     name: Yirrk-Mel
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: yirrk-thangalkl
   - translation_iso: hin
     name: यिर्क-मेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yirrk-Mel
     auto: true
   - translation_iso: jpn
     name: イリク-メル語

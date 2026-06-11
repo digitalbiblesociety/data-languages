@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامتاو
     auto: true
+  - translation_iso: ben
+    name: সামতাও
+    auto: true
   - translation_iso: deu
     name: Samtao
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सामताओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samtao
     auto: true
   - translation_iso: jpn
     name: サムタオ語

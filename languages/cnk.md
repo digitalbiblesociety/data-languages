@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: खुमी चिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Khumi Chin
+    auto: true
   - translation_iso: jpn
     name: クミ・チン語
     auto: true

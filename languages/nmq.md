@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نامبيا
     auto: true
+  - translation_iso: ben
+    name: নামবয়া
+    auto: true
   - translation_iso: deu
     name: Nambya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nambya
   - translation_iso: hin
     name: नाम्ब्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nambya
     auto: true
   - translation_iso: jpn
     name: ナンビャ語

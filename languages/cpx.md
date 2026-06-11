@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: بو-شيان الصينية
     auto: true
+  - translation_iso: ben
+    name: পু-কসিয়ান চিনেসে
+    auto: true
   - translation_iso: deu
     name: Pu-Xian
   - translation_iso: fra

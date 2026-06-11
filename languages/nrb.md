@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: نارا
     auto: true
+  - translation_iso: ben
+    name: নারা
+    auto: true
   - translation_iso: deu
     name: Nara
   - translation_iso: fra
     name: nara
   - translation_iso: hin
     name: नारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nara
     auto: true
   - translation_iso: jpn
     name: ナラ語

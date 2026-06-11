@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثاكالي
     auto: true
+  - translation_iso: ben
+    name: থাকালি
+    auto: true
   - translation_iso: deu
     name: Thakali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: thakali
   - translation_iso: hin
     name: थकाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thakali
     auto: true
   - translation_iso: jpn
     name: タカリ語

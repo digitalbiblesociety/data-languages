@@ -30,6 +30,9 @@ translations:
     name: kachari
   - translation_iso: hin
     name: कछारी भाषा
+  - translation_iso: ind
+    name: Bahasa Kachari
+    auto: true
   - translation_iso: jpn
     name: カチャリ語
   - translation_iso: kor

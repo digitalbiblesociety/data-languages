@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجاليلا
     auto: true
+  - translation_iso: ben
+    name: গালেলা
+    auto: true
   - translation_iso: deu
     name: Galela
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوال
     auto: true
+  - translation_iso: ben
+    name: বুওয়াল
+    auto: true
   - translation_iso: deu
     name: Buwal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: buwal
   - translation_iso: hin
     name: बुवाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buwal
     auto: true
   - translation_iso: jpn
     name: ブワル語

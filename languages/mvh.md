@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: मुल्गी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mulgi
+    auto: true
   - translation_iso: jpn
     name: ムルギ語
     auto: true

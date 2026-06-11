@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندويوي
     auto: true
+  - translation_iso: ben
+    name: নদওয়েওয়ে
+    auto: true
   - translation_iso: deu
     name: Ndwewe
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: न्द्वेवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndwewe
     auto: true
   - translation_iso: jpn
     name: ンドウェウェ語

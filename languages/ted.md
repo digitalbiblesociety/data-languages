@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيبو كرومين
     auto: true
+  - translation_iso: ben
+    name: তেপো করুমেন
+    auto: true
   - translation_iso: deu
     name: Tepo Krumen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kroumen tépo
   - translation_iso: hin
     name: तेपो क्रुमेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tepo Krumen
     auto: true
   - translation_iso: jpn
     name: テポ・クルーメン語

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة آفار القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ আভার
+    auto: true
   - translation_iso: deu
     name: Altawarisch
     auto: true
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्राचीन अवार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Avar
     auto: true
   - translation_iso: jpn
     name: 古アバル語

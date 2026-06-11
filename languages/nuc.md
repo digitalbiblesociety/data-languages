@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوكويني
     auto: true
+  - translation_iso: ben
+    name: নুকুইনি
+    auto: true
   - translation_iso: deu
     name: Nukuini
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nukuini
   - translation_iso: hin
     name: नुकुइनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nukuini
     auto: true
   - translation_iso: jpn
     name: ヌクイニ語

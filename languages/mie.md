@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أوكوتيبك
     auto: true
+  - translation_iso: ben
+    name: ওকোতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Ocotepec Mixtec
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque d’Ocotepec
   - translation_iso: hin
     name: ओकोतेपेक मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ocotepec Mixtec
     auto: true
   - translation_iso: jpn
     name: オコテペク・ミステク語

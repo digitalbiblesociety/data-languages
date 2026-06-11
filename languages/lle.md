@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: ben
+    name: লেলে
+    auto: true
   - translation_iso: deu
     name: Lele (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lele
   - translation_iso: hin
     name: लेले (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lele
     auto: true
   - translation_iso: jpn
     name: レレ語

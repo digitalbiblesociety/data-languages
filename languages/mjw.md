@@ -30,6 +30,9 @@ translations:
     name: karbi
   - translation_iso: hin
     name: कार्बी भाषा
+  - translation_iso: ind
+    name: Bahasa Karbi
+    auto: true
   - translation_iso: jpn
     name: カルビ語
   - translation_iso: kor

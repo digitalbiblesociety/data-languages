@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإمبالوه
     auto: true
+  - translation_iso: ben
+    name: এমবালোহ
+    auto: true
   - translation_iso: deu
     name: Mbalo
   - translation_iso: fra

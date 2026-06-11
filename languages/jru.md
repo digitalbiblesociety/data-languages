@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جابريريا
     auto: true
+  - translation_iso: ben
+    name: জাপরেরিয়া
+    auto: true
   - translation_iso: deu
     name: Japrería
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: japreria
   - translation_iso: hin
     name: हाप्रेरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Japrería
     auto: true
   - translation_iso: jpn
     name: ジャプレリア語

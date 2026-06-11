@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مويرا
     auto: true
+  - translation_iso: ben
+    name: চিমওয়েরা মওয়েরা
+    auto: true
   - translation_iso: deu
     name: Mwera (Chimwera)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mwera
   - translation_iso: hin
     name: म्वेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chimwera Mwera
     auto: true
   - translation_iso: jpn
     name: ムウェラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك يارني
     auto: true
+  - translation_iso: ben
+    name: য়ারেনি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Yareni)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zapotèque de Yareni
   - translation_iso: hin
     name: यारेनी ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yareni Zapotec
     auto: true
   - translation_iso: jpn
     name: ヤレニ・サポテク語

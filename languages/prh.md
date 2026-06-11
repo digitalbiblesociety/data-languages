@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروهانون
     auto: true
+  - translation_iso: ben
+    name: পোরোহানোন
+    auto: true
   - translation_iso: deu
     name: Porohanon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: porohanon
   - translation_iso: hin
     name: पोरोहानोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Porohanon
     auto: true
   - translation_iso: jpn
     name: ポロハノン語

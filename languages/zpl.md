@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيكسيو
     auto: true
+  - translation_iso: ben
+    name: লাচিকসিও জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Lachixío)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Lachixío
   - translation_iso: hin
     name: लाचिशियो सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lachixío Zapotec
     auto: true
   - translation_iso: jpn
     name: ラチシオ・サポテク語

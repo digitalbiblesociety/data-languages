@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كازوكورو
     auto: true
+  - translation_iso: ben
+    name: কাজুকুরু
+    auto: true
   - translation_iso: deu
     name: Kazukuru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kazukuru
   - translation_iso: hin
     name: कज़ुकुरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kazukuru
     auto: true
   - translation_iso: jpn
     name: カズクル語

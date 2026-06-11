@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نار فو
     auto: true
+  - translation_iso: ben
+    name: নার ফু
+    auto: true
   - translation_iso: deu
     name: Nar Phu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nar phu
   - translation_iso: hin
     name: नार फु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nar Phu
     auto: true
   - translation_iso: jpn
     name: ナル・プ語

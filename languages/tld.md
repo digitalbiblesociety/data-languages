@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تالاود
     auto: true
+  - translation_iso: ben
+    name: তালাউদ
+    auto: true
   - translation_iso: deu
     name: Talaud
   - translation_iso: fra

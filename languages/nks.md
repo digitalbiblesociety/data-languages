@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديار أسمات الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ আসমাত
+    auto: true
   - translation_iso: deu
     name: Nord-Asmat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: asmat du Nord
   - translation_iso: hin
     name: उत्तरी अस्मात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Asmat
     auto: true
   - translation_iso: jpn
     name: 北アスマット語

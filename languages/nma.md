@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مارام ناغا
     auto: true
+  - translation_iso: ben
+    name: মারাম নাগা
+    auto: true
   - translation_iso: deu
     name: Maram-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maram naga
   - translation_iso: hin
     name: मरम भाषा
+  - translation_iso: ind
+    name: Bahasa Maram Naga
+    auto: true
   - translation_iso: jpn
     name: マラム・ナガ語
     auto: true

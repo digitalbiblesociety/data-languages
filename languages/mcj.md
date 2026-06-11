@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مفانيب
     auto: true
+  - translation_iso: ben
+    name: মভানিপ
+    auto: true
   - translation_iso: deu
     name: Mvanip
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mvanip
   - translation_iso: hin
     name: म्वानिप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mvanip
     auto: true
   - translation_iso: jpn
     name: ムバニップ語

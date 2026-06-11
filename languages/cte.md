@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيبيناپا تشينانتك
     auto: true
+  - translation_iso: ben
+    name: তেপিনাপা চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Tepinapa-Chinantekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chinantèque de Tepinapa
   - translation_iso: hin
     name: टेपिनापा चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tepinapa Chinantec
     auto: true
   - translation_iso: jpn
     name: テピナパ・チナンテク語

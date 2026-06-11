@@ -29,6 +29,9 @@ translations:
     name: bhadrawahi
   - translation_iso: hin
     name: भदरवाही
+  - translation_iso: ind
+    name: Bahasa Bhadrawahi
+    auto: true
   - translation_iso: jpn
     name: バドラワーヒー語
   - translation_iso: kor

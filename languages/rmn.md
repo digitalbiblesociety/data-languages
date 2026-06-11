@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बाल्कन रोमानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Balkan Romani
+    auto: true
   - translation_iso: jpn
     name: バルカン方言群
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ميجوم
     auto: true
+  - translation_iso: ben
+    name: মিগুম
+    auto: true
   - translation_iso: deu
     name: Migum
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिगुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Migum
     auto: true
   - translation_iso: jpn
     name: ミグム語

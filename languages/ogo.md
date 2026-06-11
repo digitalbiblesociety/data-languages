@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة خانا
     auto: true
+  - translation_iso: ben
+    name: খানা
+    auto: true
   - translation_iso: deu
     name: Khana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: khana
   - translation_iso: hin
     name: खाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khana
     auto: true
   - translation_iso: jpn
     name: カナ語

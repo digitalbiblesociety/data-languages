@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Colorado_River_Numic_language"
 translations:
   - translation_iso: ara
     name: إيتوه
+  - translation_iso: ben
+    name: উতে-সোউথেরন পাইউতে
+    auto: true
   - translation_iso: deu
     name: Ute-Sprache
   - translation_iso: fra
     name: ute
   - translation_iso: hin
     name: यूट-दक्षिणी पाइयूट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ute-Southern Paiute
     auto: true
   - translation_iso: jpn
     name: ユト語

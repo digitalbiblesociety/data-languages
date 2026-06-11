@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيتي
     auto: true
+  - translation_iso: ben
+    name: নেতে
+    auto: true
   - translation_iso: deu
     name: Nete
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nete
   - translation_iso: hin
     name: नेते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nete
     auto: true
   - translation_iso: jpn
     name: ネテ語

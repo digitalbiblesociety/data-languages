@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مالا
     auto: true
+  - translation_iso: ben
+    name: মালা
+    auto: true
   - translation_iso: deu
     name: Mala (Nigeria)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mala
   - translation_iso: hin
     name: माला (नाइजीरिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mala
     auto: true
   - translation_iso: jpn
     name: ルマヤ語

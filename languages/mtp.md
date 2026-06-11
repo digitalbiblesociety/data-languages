@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: विची ल्हाम्तेस नोक्तेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wichí Lhamtés Nocten
+    auto: true
   - translation_iso: jpn
     name: ウィチ・ルハムテス・ノクテン語
     auto: true

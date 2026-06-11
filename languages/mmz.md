@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مابالي
     auto: true
+  - translation_iso: ben
+    name: মাবালে
+    auto: true
   - translation_iso: deu
     name: Mabaale
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mabale
   - translation_iso: hin
     name: माबाले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mabaale
     auto: true
   - translation_iso: jpn
     name: マバアレ語

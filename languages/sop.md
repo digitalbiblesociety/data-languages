@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجي
     auto: true
+  - translation_iso: ben
+    name: সোঙে
+    auto: true
   - translation_iso: deu
     name: Songe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kisongye
   - translation_iso: hin
     name: सोंगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Songe
     auto: true
   - translation_iso: jpn
     name: ソンゲ語

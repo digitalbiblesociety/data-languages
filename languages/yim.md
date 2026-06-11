@@ -30,6 +30,9 @@ translations:
     name: yimchungru
   - translation_iso: hin
     name: यिमचुंगगुरु भाषा
+  - translation_iso: ind
+    name: Bahasa Yimchungru Naga
+    auto: true
   - translation_iso: jpn
     name: イムチュングル・ナガ語
     auto: true

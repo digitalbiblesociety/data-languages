@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريكباكتسا
     auto: true
+  - translation_iso: ben
+    name: রিকবাকতসা
+    auto: true
   - translation_iso: deu
     name: Rikbaktsa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: rikbaktsa
   - translation_iso: hin
     name: रिकबाक्तसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rikbaktsa
     auto: true
   - translation_iso: jpn
     name: リクバクチァ語

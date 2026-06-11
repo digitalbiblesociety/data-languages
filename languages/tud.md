@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكسا
     auto: true
+  - translation_iso: ben
+    name: তুকসা
+    auto: true
   - translation_iso: deu
     name: Tuxá
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुक्सा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuxá
     auto: true
   - translation_iso: jpn
     name: トデラ語

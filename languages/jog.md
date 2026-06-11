@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة جوغي
     auto: true
+  - translation_iso: ben
+    name: জোগি
+    auto: true
   - translation_iso: deu
     name: Jogi
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: jogi
   - translation_iso: hin
     name: जोगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jogi
     auto: true
   - translation_iso: jpn
     name: ジョギ語

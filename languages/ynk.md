@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ناوكان يوبيك
     auto: true
+  - translation_iso: ben
+    name: নাউকান য়ুপিক
+    auto: true
   - translation_iso: deu
     name: Naukan Yupik
   - translation_iso: fra

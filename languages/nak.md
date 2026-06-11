@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناكاناي
     auto: true
+  - translation_iso: ben
+    name: নাকানাই
+    auto: true
   - translation_iso: deu
     name: Nakanai
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nakanai
   - translation_iso: hin
     name: नाकानाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nakanai
     auto: true
   - translation_iso: jpn
     name: ナカナイ語

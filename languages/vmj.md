@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إكستايوتلا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: ইকসতায়ুতলা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Ixtayutla-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इक्सतायुतला मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ixtayutla Mixtec
     auto: true
   - translation_iso: jpn
     name: イクスタユトラ・ミシテク語

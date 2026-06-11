@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زاخرينج
     auto: true
+  - translation_iso: ben
+    name: জাখরিং
+    auto: true
   - translation_iso: deu
     name: Zakhring
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zakhring
   - translation_iso: hin
     name: जैवा भाषा
+  - translation_iso: ind
+    name: Bahasa Zakhring
+    auto: true
   - translation_iso: jpn
     name: ザクリング語
     auto: true

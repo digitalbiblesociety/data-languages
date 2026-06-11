@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيندي
     auto: true
+  - translation_iso: ben
+    name: নিনদি
+    auto: true
   - translation_iso: deu
     name: Nindi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निंदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nindi
     auto: true
   - translation_iso: jpn
     name: ニンディ語

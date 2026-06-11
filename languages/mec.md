@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مرا
     auto: true
+  - translation_iso: ben
+    name: মার্রা
+    auto: true
   - translation_iso: deu
     name: Marra
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mara
   - translation_iso: hin
     name: मर्रा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marra
     auto: true
   - translation_iso: jpn
     name: マッラ語

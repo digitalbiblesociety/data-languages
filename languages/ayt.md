@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيتا ماجبوكون
     auto: true
+  - translation_iso: ben
+    name: মাগবুকুন আয়তা
+    auto: true
   - translation_iso: deu
     name: Magbukun-Ayta
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बारुगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baruga
+    auto: true
   - translation_iso: jpn
     name: バルガ語
     auto: true

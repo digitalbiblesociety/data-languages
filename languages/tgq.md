@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ترينغ
     auto: true
+  - translation_iso: ben
+    name: তরিং
+    auto: true
   - translation_iso: deu
     name: Tring
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्रिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tring
     auto: true
   - translation_iso: jpn
     name: トリン語

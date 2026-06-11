@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত বেরাওয়ান
+    auto: true
   - translation_iso: deu
     name: Ost-Berawan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: long jegan
   - translation_iso: hin
     name: पूर्वी बेरावन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa East Berawan
     auto: true
   - translation_iso: jpn
     name: イースト・ベラワン語

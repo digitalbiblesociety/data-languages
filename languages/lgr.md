@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجو
     auto: true
+  - translation_iso: ben
+    name: লেঙো
+    auto: true
   - translation_iso: deu
     name: Lengo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lengo
   - translation_iso: hin
     name: लेंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lengo
     auto: true
   - translation_iso: jpn
     name: レンゴ語

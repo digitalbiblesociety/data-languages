@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كابوري
     auto: true
+  - translation_iso: ben
+    name: কাবুরি
+    auto: true
   - translation_iso: deu
     name: Kaburi
     auto: true

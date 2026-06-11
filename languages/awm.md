@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरावुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arawum
+    auto: true
   - translation_iso: jpn
     name: アラウム語
     auto: true

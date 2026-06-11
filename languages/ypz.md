@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوزا
     auto: true
+  - translation_iso: ben
+    name: ফুজা
+    auto: true
   - translation_iso: deu
     name: Phuza
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: phuza
   - translation_iso: hin
     name: फूज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phuza
     auto: true
   - translation_iso: jpn
     name: フーザ語

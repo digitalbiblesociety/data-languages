@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريبون
     auto: true
+  - translation_iso: ben
+    name: রিবুন
+    auto: true
   - translation_iso: deu
     name: Ribun
     auto: true

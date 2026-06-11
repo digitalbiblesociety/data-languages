@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الشانغريوا
     auto: true
+  - translation_iso: ben
+    name: চাংরিওয়া
+    auto: true
   - translation_iso: deu
     name: Changriwa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: changriwa
   - translation_iso: hin
     name: चांगरिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Changriwa
     auto: true
   - translation_iso: jpn
     name: チャングリワ語

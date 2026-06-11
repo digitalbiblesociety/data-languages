@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ومايفيتي
     auto: true
+  - translation_iso: ben
+    name: লোমাইভিতি
+    auto: true
   - translation_iso: deu
     name: Lomaiviti
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lomaiviti
   - translation_iso: hin
     name: लोमाइविती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lomaiviti
     auto: true
   - translation_iso: jpn
     name: ロマイビティ語

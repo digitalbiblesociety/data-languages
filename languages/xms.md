@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moroccan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة المغربية
+  - translation_iso: ben
+    name: মোরোক্কান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Marokkanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes marocaine
   - translation_iso: hin
     name: मोरक्कन सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moroccan Sign Language
     auto: true
   - translation_iso: jpn
     name: モロッコ手話

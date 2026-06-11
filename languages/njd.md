@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ندوندي همبا
     auto: true
+  - translation_iso: ben
+    name: নদোনদে হামবা
+    auto: true
   - translation_iso: deu
     name: Ndonde Hamba
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: ndonde
   - translation_iso: hin
     name: न्दोंदे हाम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndonde Hamba
     auto: true
   - translation_iso: jpn
     name: ンドンデ・ハンバ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एफाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Efai
+    auto: true
   - translation_iso: jpn
     name: エファイ語
     auto: true

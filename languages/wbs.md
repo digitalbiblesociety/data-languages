@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بنغال الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত বেঙাল সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Westbengalische Gebärdensprache
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: langue des signes du Bengale-Occidental
   - translation_iso: hin
     name: पश्चिम बंगाल सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Bengal Sign Language
     auto: true
   - translation_iso: jpn
     name: 西ベンガル手話

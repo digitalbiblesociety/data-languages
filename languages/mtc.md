@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موني
     auto: true
+  - translation_iso: ben
+    name: মুনিত
+    auto: true
   - translation_iso: deu
     name: Munit
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: munit
   - translation_iso: hin
     name: मुनित
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Munit
     auto: true
   - translation_iso: jpn
     name: ムニット語

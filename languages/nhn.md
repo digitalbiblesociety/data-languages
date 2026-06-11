@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سينترال ناهواتل
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Zentral-Nahuatl
   - translation_iso: fra
     name: nahuatl central
   - translation_iso: hin
     name: मध्य नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Nahuatl
     auto: true
   - translation_iso: jpn
     name: 中央ナワトル語

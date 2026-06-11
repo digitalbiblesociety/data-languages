@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فونو
     auto: true
+  - translation_iso: ben
+    name: ভোনো
+    auto: true
   - translation_iso: deu
     name: Vono
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vono
     auto: true
   - translation_iso: jpn
     name: ボノ語

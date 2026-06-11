@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميكسي كويتزالتيبك
     auto: true
+  - translation_iso: ben
+    name: কুএতজালতেপেক মিকসে
+    auto: true
   - translation_iso: deu
     name: Quetzaltepec-Mixe
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: mixe de Quetzaltepec
   - translation_iso: hin
     name: केत्साल्तेपेक मिखे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quetzaltepec Mixe
     auto: true
   - translation_iso: jpn
     name: ケツァルテペックミクステ語

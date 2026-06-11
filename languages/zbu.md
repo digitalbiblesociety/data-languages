@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة بو - باوتشي
     auto: true
+  - translation_iso: ben
+    name: বু
+    auto: true
   - translation_iso: deu
     name: Bu (Bundesstaat Bauchi)
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: zaranda
   - translation_iso: hin
     name: बु (बाउची राज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bu
     auto: true
   - translation_iso: jpn
     name: ブ語（バウチ州）

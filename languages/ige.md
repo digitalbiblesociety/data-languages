@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيغيدي
     auto: true
+  - translation_iso: ben
+    name: ইগেদে
+    auto: true
   - translation_iso: deu
     name: Igede
   - translation_iso: fra
     name: Igede
   - translation_iso: hin
     name: इगेदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Igede
     auto: true
   - translation_iso: jpn
     name: イゲデ語

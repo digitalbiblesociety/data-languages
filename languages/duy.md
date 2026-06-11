@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديكاماي أجتا
     auto: true
+  - translation_iso: ben
+    name: দিকামায় আগতা
+    auto: true
   - translation_iso: deu
     name: Dicamay-Agta
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डिकामाय आग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dicamay Agta
     auto: true
   - translation_iso: jpn
     name: ディカマイ・アグタ語

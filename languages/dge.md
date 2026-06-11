@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ديجينان
     auto: true
+  - translation_iso: ben
+    name: দেগেনান
+    auto: true
   - translation_iso: deu
     name: Degenan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: degenan
   - translation_iso: hin
     name: देगेनान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Degenan
     auto: true
   - translation_iso: jpn
     name: デゲナン語

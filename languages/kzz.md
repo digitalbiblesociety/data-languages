@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالابرا
     auto: true
+  - translation_iso: ben
+    name: কালাবরা
+    auto: true
   - translation_iso: deu
     name: Kalabra
     auto: true

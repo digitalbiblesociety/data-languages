@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكانها
     auto: true
+  - translation_iso: ben
+    name: পাকানহা
+    auto: true
   - translation_iso: deu
     name: Pakanha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pakanh
   - translation_iso: hin
     name: पाकान्हा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pakanha
     auto: true
   - translation_iso: jpn
     name: パカンハ語

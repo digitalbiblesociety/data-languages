@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gulay_language"
 translations:
   - translation_iso: ara
     name: قولاي
+  - translation_iso: ben
+    name: গুলায়
+    auto: true
   - translation_iso: deu
     name: Gulay
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gulay
   - translation_iso: hin
     name: गुलाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gulay
     auto: true
   - translation_iso: jpn
     name: グレイ語

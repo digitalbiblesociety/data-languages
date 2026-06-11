@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: माला मालासर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mala Malasar
+    auto: true
   - translation_iso: jpn
     name: マラ・マラサル語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوريخون
     auto: true
+  - translation_iso: ben
+    name: ওরেজোন
+    auto: true
   - translation_iso: deu
     name: Orejón
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: orejón
   - translation_iso: hin
     name: ओरेहोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Orejón
     auto: true
   - translation_iso: jpn
     name: オレホン語

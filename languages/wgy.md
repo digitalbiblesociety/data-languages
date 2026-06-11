@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واررغاماي
     auto: true
+  - translation_iso: ben
+    name: ওয়ার্রগামায়
+    auto: true
   - translation_iso: deu
     name: Warrgamay
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: warrgamay
   - translation_iso: hin
     name: वर्गमय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Warrgamay
     auto: true
   - translation_iso: jpn
     name: ワルガマイ語

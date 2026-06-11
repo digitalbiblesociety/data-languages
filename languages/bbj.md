@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghomala%CA%BC_language"
 translations:
   - translation_iso: ara
     name: لغة الغومالا
+  - translation_iso: ben
+    name: ঘোমালা
+    auto: true
   - translation_iso: deu
     name: Ghomala
   - translation_iso: fra

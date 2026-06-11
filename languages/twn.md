@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توندي
     auto: true
+  - translation_iso: ben
+    name: তওয়েনদি
+    auto: true
   - translation_iso: deu
     name: Twendi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: twendi
   - translation_iso: hin
     name: ट्वेंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Twendi
     auto: true
   - translation_iso: jpn
     name: カンバプ語

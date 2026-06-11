@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: نامونويتو
     auto: true
+  - translation_iso: ben
+    name: নামোনুইতো
+    auto: true
   - translation_iso: deu
     name: Namonuitonisch
   - translation_iso: fra
     name: namonuito
   - translation_iso: hin
     name: नामोनुइतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namonuito
     auto: true
   - translation_iso: jpn
     name: ナモヌイト語

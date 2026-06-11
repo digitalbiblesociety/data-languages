@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويتاموت
     auto: true
+  - translation_iso: ben
+    name: ওয়েতামুত
+    auto: true
   - translation_iso: deu
     name: Wetamut
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dorig
   - translation_iso: hin
     name: वेतामुट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wetamut
     auto: true
   - translation_iso: jpn
     name: ウェタムト語

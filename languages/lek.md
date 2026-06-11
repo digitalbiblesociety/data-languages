@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ييپون
     auto: true
+  - translation_iso: ben
+    name: লেইপোন
+    auto: true
   - translation_iso: deu
     name: Leipon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: leipon
   - translation_iso: hin
     name: लेइपोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Leipon
     auto: true
   - translation_iso: jpn
     name: レイポン語

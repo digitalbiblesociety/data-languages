@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوجولو
     auto: true
+  - translation_iso: ben
+    name: পোগোলো
+    auto: true
   - translation_iso: deu
     name: Pogolo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पोगोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pogolo
     auto: true
   - translation_iso: jpn
     name: ポゴロ語

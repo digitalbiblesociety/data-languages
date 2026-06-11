@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوومتاري
     auto: true
+  - translation_iso: ben
+    name: কওয়োমতারি
+    auto: true
   - translation_iso: deu
     name: Kwomtari
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kwomtari
   - translation_iso: hin
     name: क्वोमतारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwomtari
     auto: true
   - translation_iso: jpn
     name: クウォムタリ語

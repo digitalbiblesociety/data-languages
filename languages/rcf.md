@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: كريول ريونيون الفرنسي
     auto: true
+  - translation_iso: ben
+    name: রেউনিওন করেওলে ফরেনচ
+    auto: true
   - translation_iso: deu
     name: Réunion-Kreolisch
   - translation_iso: fra
     name: Créole réunionnais
   - translation_iso: hin
     name: रीयूनियन क्रेओल
+  - translation_iso: ind
+    name: Bahasa Réunion Creole French
+    auto: true
   - translation_iso: jpn
     name: レユニオン・クレオール語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مونوم
     auto: true
+  - translation_iso: ben
+    name: মোনোম
+    auto: true
   - translation_iso: deu
     name: Monom
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मोनोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Monom
     auto: true
   - translation_iso: jpn
     name: モノム語

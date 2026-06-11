@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandailing_Batak_language"
 translations:
   - translation_iso: ara
     name: لغة مانديلينج
+  - translation_iso: ben
+    name: বাতাক মানদাইলিং
+    auto: true
   - translation_iso: deu
     name: Batak Mandailing
     auto: true

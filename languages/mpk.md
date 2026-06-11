@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبارا (تشاد)
     auto: true
+  - translation_iso: ben
+    name: মবারা
+    auto: true
   - translation_iso: deu
     name: Mbara (Tschad)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbara
   - translation_iso: hin
     name: मबारा (चाड)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbara
     auto: true
   - translation_iso: jpn
     name: ムバラ語

@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية النيجر الوسط-الشرقية
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল-এয়াসতেরন নিগের ফুলফুলদে
+    auto: true
   - translation_iso: deu
     name: Zentral-Ost-Niger-Fulfulde
     auto: true
@@ -30,6 +33,9 @@ translations:
     name: peul du Niger centre-oriental
   - translation_iso: hin
     name: मध्य-पूर्वी नाइजर फुलफुल्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central-Eastern Niger Fulfulde
     auto: true
   - translation_iso: jpn
     name: 中東部ニジェール・フルフルディ語

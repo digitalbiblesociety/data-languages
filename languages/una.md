@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: شمال واتوت
     auto: true
+  - translation_iso: ben
+    name: নোরথ ওয়াতুত
+    auto: true
   - translation_iso: deu
     name: North Watut
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: watut du Nord
   - translation_iso: hin
     name: उत्तरी वातुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Watut
     auto: true
   - translation_iso: jpn
     name: オナンク語

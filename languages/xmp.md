@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوكو-موئيني
     auto: true
+  - translation_iso: ben
+    name: কুকু-মুইনহ
+    auto: true
   - translation_iso: deu
     name: "Kuku-Mu'inh"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "kuku-mu'inh"
   - translation_iso: hin
     name: कुकु-मुइन्ह
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Kuku-Mu'inh"
     auto: true
   - translation_iso: jpn
     name: クク・ムイン語

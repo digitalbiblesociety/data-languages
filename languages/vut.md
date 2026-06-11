@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: فوتي
     auto: true
+  - translation_iso: ben
+    name: ভুতে
+    auto: true
   - translation_iso: deu
     name: Wute
   - translation_iso: fra
     name: vute
   - translation_iso: hin
     name: वुते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vute
     auto: true
   - translation_iso: jpn
     name: ヴテ語

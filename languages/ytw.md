@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوت وام
     auto: true
+  - translation_iso: ben
+    name: য়োউত ওয়াম
+    auto: true
   - translation_iso: deu
     name: Yout Wam
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: yout wam
   - translation_iso: hin
     name: यौत वाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yout Wam
     auto: true
   - translation_iso: jpn
     name: ユウト・ワム語

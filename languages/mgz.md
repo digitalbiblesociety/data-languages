@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوجوي
     auto: true
+  - translation_iso: ben
+    name: মবুগওয়ে
+    auto: true
   - translation_iso: deu
     name: Mbugwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbugwe
   - translation_iso: hin
     name: म्बुग्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbugwe
     auto: true
   - translation_iso: jpn
     name: ムブグウェ語

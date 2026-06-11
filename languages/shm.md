@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاهرودية
     auto: true
+  - translation_iso: ben
+    name: শাহরুদি
+    auto: true
   - translation_iso: deu
     name: Shahrudi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शाहरूदी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shahrudi
     auto: true
   - translation_iso: jpn
     name: シャハルディ語

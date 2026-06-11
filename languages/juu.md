@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جو
     auto: true
+  - translation_iso: ben
+    name: জু
+    auto: true
   - translation_iso: deu
     name: Ju
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ju
   - translation_iso: hin
     name: जू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ju
     auto: true
   - translation_iso: jpn
     name: ユ語

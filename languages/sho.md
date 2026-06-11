@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشانجا
     auto: true
+  - translation_iso: ben
+    name: শাঙা
+    auto: true
   - translation_iso: deu
     name: Shanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shanga
   - translation_iso: hin
     name: शांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shanga
     auto: true
   - translation_iso: jpn
     name: シャンガワ語

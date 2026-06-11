@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سوكوروم
     auto: true
+  - translation_iso: ben
+    name: সুকুরুম
+    auto: true
   - translation_iso: deu
     name: Sukurum
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुकुरुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sukurum
     auto: true
   - translation_iso: jpn
     name: スクルム語

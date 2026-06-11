@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: ويداو
     auto: true
+  - translation_iso: ben
+    name: ওয়েদাউ
+    auto: true
   - translation_iso: deu
     name: Wedau
   - translation_iso: fra
     name: wedau
   - translation_iso: hin
     name: वेदाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wedau
     auto: true
   - translation_iso: jpn
     name: ウェダウ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هونجارا-كاينا كي
     auto: true
+  - translation_iso: ben
+    name: হুনজারা-কাইনা কে
+    auto: true
   - translation_iso: deu
     name: Hunjara-Kaina Ke
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hunjara-kaina ke
   - translation_iso: hin
     name: हुंजारा-काइना के
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hunjara-Kaina Ke
     auto: true
   - translation_iso: jpn
     name: フンジャラ・カイナ・ケ語

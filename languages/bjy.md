@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बायाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bayali
+    auto: true
   - translation_iso: jpn
     name: バヤリ語
     auto: true

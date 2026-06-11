@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बागो-कुसुंतु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bago-Kusuntu
+    auto: true
   - translation_iso: jpn
     name: バゴ・クスントゥ語
     auto: true

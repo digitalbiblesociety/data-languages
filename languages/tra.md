@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيراهي
     auto: true
+  - translation_iso: ben
+    name: তিরাহি
+    auto: true
   - translation_iso: deu
     name: Tirahi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tirahi
   - translation_iso: hin
     name: तीराही भाषा
+  - translation_iso: ind
+    name: Bahasa Tirahi
+    auto: true
   - translation_iso: jpn
     name: ティラーヒー語
   - translation_iso: kor

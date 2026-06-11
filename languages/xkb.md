@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: ناجو الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন নাগো
+    auto: true
   - translation_iso: deu
     name: Manigri-Kambolé
   - translation_iso: fra
     name: nago du Nord
   - translation_iso: hin
     name: उत्तरी नागो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Nago
     auto: true
   - translation_iso: jpn
     name: 北ナゴ語

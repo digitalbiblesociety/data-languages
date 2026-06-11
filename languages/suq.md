@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوري
     auto: true
+  - translation_iso: ben
+    name: সুরি
+    auto: true
   - translation_iso: deu
     name: Suri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suri
   - translation_iso: hin
     name: सुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suri
     auto: true
   - translation_iso: jpn
     name: スリ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نامات
     auto: true
+  - translation_iso: ben
+    name: নামাত
+    auto: true
   - translation_iso: deu
     name: Namat
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: namat
   - translation_iso: hin
     name: नामात
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namat
     auto: true
   - translation_iso: jpn
     name: ナマト語

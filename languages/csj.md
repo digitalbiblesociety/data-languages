@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: سونغلاي تشين
     auto: true
+  - translation_iso: ben
+    name: সোংলাই চিন
+    auto: true
   - translation_iso: deu
     name: Songlai-Chin
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: songlai
   - translation_iso: hin
     name: सोंगलाई चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Songlai Chin
     auto: true
   - translation_iso: jpn
     name: ソンライ・チン語

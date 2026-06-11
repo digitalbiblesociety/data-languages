@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناواتل تلاماكازابا
     auto: true
+  - translation_iso: ben
+    name: তলামাকাজাপা নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Tlamacazapa-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de Tlamacazapa
   - translation_iso: hin
     name: त्लामाकाज़ापा नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tlamacazapa Nahuatl
     auto: true
   - translation_iso: jpn
     name: トラマカザパ・ナワトル語

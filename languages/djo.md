@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جانجكانج
     auto: true
+  - translation_iso: ben
+    name: জাংকাং
+    auto: true
   - translation_iso: deu
     name: Jangkang
     auto: true

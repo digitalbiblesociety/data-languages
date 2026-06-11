@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كايتاغ
     auto: true
+  - translation_iso: ben
+    name: কাইতাগ
+    auto: true
   - translation_iso: deu
     name: Kaitakisch
   - translation_iso: fra

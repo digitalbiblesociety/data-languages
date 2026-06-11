@@ -17,12 +17,18 @@ translations:
   - translation_iso: ara
     name: اللغة السينارا سينوفو
     auto: true
+  - translation_iso: ben
+    name: সয়েনারা সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Schenara
   - translation_iso: fra
     name: syenara
   - translation_iso: hin
     name: स्येनारा सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Syenara Senoufo
     auto: true
   - translation_iso: jpn
     name: セナリ語

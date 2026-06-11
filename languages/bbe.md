@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बांगबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangba
+    auto: true
   - translation_iso: jpn
     name: バングバ語
     auto: true

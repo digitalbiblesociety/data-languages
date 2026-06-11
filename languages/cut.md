@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيوتيلا كويكاتك
     auto: true
+  - translation_iso: ben
+    name: তেউতিলা কুইকাতেক
+    auto: true
   - translation_iso: deu
     name: Teutila-Cuicatekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cuicatèque de Teutila
   - translation_iso: hin
     name: तेउतीला कुइकातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Teutila Cuicatec
     auto: true
   - translation_iso: jpn
     name: テウティラ・クイカテク語

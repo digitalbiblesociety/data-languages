@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويربا مامبيرامو
     auto: true
+  - translation_iso: ben
+    name: কওয়েরবা মামবেরামো
+    auto: true
   - translation_iso: deu
     name: Kwerba Mamberamo
     auto: true

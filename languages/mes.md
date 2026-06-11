@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: मासमाजे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Masmaje
+    auto: true
   - translation_iso: jpn
     name: マスマエ語
     auto: true

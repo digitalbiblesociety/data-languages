@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كايوسي
     auto: true
+  - translation_iso: ben
+    name: কায়ুসে
+    auto: true
   - translation_iso: deu
     name: Cayuse
   - translation_iso: fra
     name: cayuse
   - translation_iso: hin
     name: कैयुसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cayuse
     auto: true
   - translation_iso: jpn
     name: カユース語

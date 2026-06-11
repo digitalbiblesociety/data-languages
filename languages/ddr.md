@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دودوروا
     auto: true
+  - translation_iso: ben
+    name: ধুধুরোয়া
+    auto: true
   - translation_iso: deu
     name: Dhudhuroa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dhudhuroa
   - translation_iso: hin
     name: धुधुरोआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhudhuroa
     auto: true
   - translation_iso: jpn
     name: ドゥドゥロア語

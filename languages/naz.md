@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كواتيبيك ناهواتل
     auto: true
+  - translation_iso: ben
+    name: কোয়াতেপেক নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Coatepec-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl de Coatepec
   - translation_iso: hin
     name: कोआतेपेक नाहुआत्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coatepec Nahuatl
     auto: true
   - translation_iso: jpn
     name: コアテペク・ナワトル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناوارو
     auto: true
+  - translation_iso: ben
+    name: নাওয়ারু
+    auto: true
   - translation_iso: deu
     name: Nawaru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nawaru
   - translation_iso: hin
     name: नावारु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nawaru
     auto: true
   - translation_iso: jpn
     name: ナワル語

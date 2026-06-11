@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فانا
     auto: true
+  - translation_iso: ben
+    name: ফানা
+    auto: true
   - translation_iso: deu
     name: Phana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phana’
   - translation_iso: hin
     name: फाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phana
     auto: true
   - translation_iso: jpn
     name: ファナ語

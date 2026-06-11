@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: داجومان
     auto: true
+  - translation_iso: ben
+    name: দাগোমান
+    auto: true
   - translation_iso: deu
     name: Dagoman
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dagoman
   - translation_iso: hin
     name: दागोमान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dagoman
     auto: true
   - translation_iso: jpn
     name: ダゴマン語

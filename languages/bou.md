@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونديي
     auto: true
+  - translation_iso: ben
+    name: বোনদেই
+    auto: true
   - translation_iso: deu
     name: Bondei
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bondei
   - translation_iso: hin
     name: बोंदेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bondei
     auto: true
   - translation_iso: jpn
     name: ボンデイ語

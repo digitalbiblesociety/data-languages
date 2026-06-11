@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جفوكو
     auto: true
+  - translation_iso: ben
+    name: গভোকো
+    auto: true
   - translation_iso: deu
     name: Gvoko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gvoko
   - translation_iso: hin
     name: ग्वोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gvoko
     auto: true
   - translation_iso: jpn
     name: グボコ語

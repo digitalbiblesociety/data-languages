@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كونومالا
     auto: true
+  - translation_iso: ben
+    name: কোনোমালা
+    auto: true
   - translation_iso: deu
     name: Konomala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: konomala
   - translation_iso: hin
     name: कोनोमाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konomala
     auto: true
   - translation_iso: jpn
     name: コノマラ語

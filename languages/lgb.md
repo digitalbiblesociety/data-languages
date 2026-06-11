@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اجهو
     auto: true
+  - translation_iso: ben
+    name: লাঘু
+    auto: true
   - translation_iso: deu
     name: Laghu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: laghu
   - translation_iso: hin
     name: लाघु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laghu
     auto: true
   - translation_iso: jpn
     name: ラグ語

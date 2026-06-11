@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيندي
     auto: true
+  - translation_iso: ben
+    name: ফেনদে
+    auto: true
   - translation_iso: deu
     name: Phende
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kipende
   - translation_iso: hin
     name: फेंदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phende
     auto: true
   - translation_iso: jpn
     name: フェンデ語

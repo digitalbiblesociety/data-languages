@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مونو (جزر سليمان)
     auto: true
+  - translation_iso: ben
+    name: মোনো
+    auto: true
   - translation_iso: deu
     name: Mono
   - translation_iso: fra
     name: mono
   - translation_iso: hin
     name: मोनो (सोलोमन द्वीप)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mono
     auto: true
   - translation_iso: jpn
     name: モノ語

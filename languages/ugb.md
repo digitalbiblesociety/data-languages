@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوكو-أوجبانه
     auto: true
+  - translation_iso: ben
+    name: কুকু-উগবানহ
+    auto: true
   - translation_iso: deu
     name: Kuku-Ugbanh
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kuku-ugbanh
   - translation_iso: hin
     name: कुकु-उग्बान्ह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuku-Ugbanh
     auto: true
   - translation_iso: jpn
     name: ウィク・ムミンハ語

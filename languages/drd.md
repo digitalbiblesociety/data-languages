@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دارميا
     auto: true
+  - translation_iso: ben
+    name: দারমিয়া
+    auto: true
   - translation_iso: deu
     name: Darmiya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: darmiya
   - translation_iso: hin
     name: दर्मा भाषा
+  - translation_iso: ind
+    name: Bahasa Darmiya
+    auto: true
   - translation_iso: jpn
     name: ダルミヤ語
     auto: true

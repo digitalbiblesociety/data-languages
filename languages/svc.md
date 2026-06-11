@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فينسينتيان كريول إنجليزية
     auto: true
+  - translation_iso: ben
+    name: ভিনকেনতিয়ান করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Vincentian Creole English
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: विन्सेन्टियन क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vincentian Creole English
     auto: true
   - translation_iso: jpn
     name: ビンセント・クレオール英語

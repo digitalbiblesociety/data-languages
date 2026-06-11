@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وي
     auto: true
+  - translation_iso: ben
+    name: ওয়োই
+    auto: true
   - translation_iso: deu
     name: Woi
     auto: true

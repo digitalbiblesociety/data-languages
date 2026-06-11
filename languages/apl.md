@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة ليبان أباتشي
     auto: true
+  - translation_iso: ben
+    name: লিপান আপাচে
+    auto: true
   - translation_iso: deu
     name: Lipan
   - translation_iso: fra
     name: lipan
   - translation_iso: hin
     name: लिपान अपाचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lipan Apache
     auto: true
   - translation_iso: jpn
     name: リパン・アパッチ語

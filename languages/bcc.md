@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالوتشي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন বালোচি
+    auto: true
   - translation_iso: deu
     name: Süd-Belutschisch
     auto: true

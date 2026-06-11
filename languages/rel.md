@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: رينديلي
     auto: true
+  - translation_iso: ben
+    name: রেনদিল্লে
+    auto: true
   - translation_iso: deu
     name: Rendille
   - translation_iso: fra
     name: Rendille
   - translation_iso: hin
     name: रेंडिले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rendille
     auto: true
   - translation_iso: jpn
     name: レンディーレ語

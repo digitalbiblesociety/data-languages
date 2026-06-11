@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سوكي فرانثيسكو ليون
     auto: true
+  - translation_iso: ben
+    name: ফরানকিসকো লেওন জোকুএ
+    auto: true
   - translation_iso: deu
     name: Zoque (Francisco León)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: zoque de Francisco León
   - translation_iso: hin
     name: फ्रांसिस्को लेओन ज़ोके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Francisco León Zoque
     auto: true
   - translation_iso: jpn
     name: フランシスコ・レオン・ゾケ語

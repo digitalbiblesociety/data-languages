@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويست دامار
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত দামার
+    auto: true
   - translation_iso: deu
     name: West-Damar
     auto: true

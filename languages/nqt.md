@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نتينج
     auto: true
+  - translation_iso: ben
+    name: নতেং
+    auto: true
   - translation_iso: deu
     name: Nteng
     auto: true
@@ -26,6 +29,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नतेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nteng
     auto: true
   - translation_iso: jpn
     name: ンテング語

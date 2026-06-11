@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارتي كي
     auto: true
+  - translation_iso: ben
+    name: মারতি কে
+    auto: true
   - translation_iso: deu
     name: Marti Ke
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marti ke
   - translation_iso: hin
     name: मार्ती के
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marti Ke
     auto: true
   - translation_iso: jpn
     name: マティ・ケ語

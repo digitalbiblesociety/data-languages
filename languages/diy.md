@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ديويي
     auto: true
+  - translation_iso: ben
+    name: দিউওয়ে
+    auto: true
   - translation_iso: deu
     name: Diuwe
     auto: true

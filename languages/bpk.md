@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوروي
     auto: true
+  - translation_iso: ben
+    name: ওরোওয়ে
+    auto: true
   - translation_iso: deu
     name: Orowe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ôrôê
   - translation_iso: hin
     name: ओरोवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Orowe
     auto: true
   - translation_iso: jpn
     name: オロウェ語

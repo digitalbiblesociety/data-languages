@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غونجآبولآ
     auto: true
+  - translation_iso: ben
+    name: গুঙাবুলা
+    auto: true
   - translation_iso: deu
     name: Gungabula
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gungabula
   - translation_iso: hin
     name: गुंगाबुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gungabula
     auto: true
   - translation_iso: jpn
     name: グンガブラ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيل آبي
     auto: true
+  - translation_iso: ben
+    name: ইলে আপে
+    auto: true
   - translation_iso: deu
     name: Ile Ape
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توموشوكيزي
     auto: true
+  - translation_iso: ben
+    name: তুমশুকেসে
+    auto: true
   - translation_iso: deu
     name: Tumshuqisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुमशुकीज़
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tumshuqese
     auto: true
   - translation_iso: jpn
     name: トゥムシュケーゼ語

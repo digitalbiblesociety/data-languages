@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: مونسي
     auto: true
+  - translation_iso: ben
+    name: মুনসে
+    auto: true
   - translation_iso: deu
     name: Munsee
   - translation_iso: fra
     name: munsee
   - translation_iso: hin
     name: मुंसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Munsee
     auto: true
   - translation_iso: jpn
     name: マンシー語

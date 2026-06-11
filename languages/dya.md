@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ديان
     auto: true
+  - translation_iso: ben
+    name: দয়ান
+    auto: true
   - translation_iso: deu
     name: Dyan
   - translation_iso: fra
     name: dyan
   - translation_iso: hin
     name: दियान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dyan
     auto: true
   - translation_iso: jpn
     name: ディャン語

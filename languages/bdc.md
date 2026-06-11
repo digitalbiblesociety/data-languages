@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: एम्बेरा-बाउदो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Emberá-Baudó
+    auto: true
   - translation_iso: jpn
     name: エンベラ・バウド語
     auto: true

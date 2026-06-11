@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايديبانج
     auto: true
+  - translation_iso: ben
+    name: কাইদিপাং
+    auto: true
   - translation_iso: deu
     name: Kaidipang
     auto: true

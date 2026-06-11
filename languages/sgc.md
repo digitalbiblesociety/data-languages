@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: كيبسيجيس
     auto: true
+  - translation_iso: ben
+    name: কিপসিগিস
+    auto: true
   - translation_iso: deu
     name: Kipsigis
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: kipsikis
   - translation_iso: hin
     name: किप्सिगिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kipsigis
     auto: true
   - translation_iso: jpn
     name: キプシギ語

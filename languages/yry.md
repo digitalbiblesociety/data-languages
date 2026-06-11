@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة يارلويندي
     auto: true
+  - translation_iso: ben
+    name: য়ারলুয়ানদি
+    auto: true
   - translation_iso: deu
     name: Yarluyandi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: yarluyandi
   - translation_iso: hin
     name: यारलुयांडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yarluyandi
     auto: true
   - translation_iso: jpn
     name: ヤルユアンディ語

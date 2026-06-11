@@ -30,6 +30,9 @@ translations:
     name: chokri
   - translation_iso: hin
     name: चोकरी भाषा
+  - translation_iso: ind
+    name: Bahasa Chokri Naga
+    auto: true
   - translation_iso: jpn
     name: チョクリ語
   - translation_iso: kor

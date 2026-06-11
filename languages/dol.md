@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوسو
     auto: true
+  - translation_iso: ben
+    name: দোসো
+    auto: true
   - translation_iso: deu
     name: Doso
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: doso
   - translation_iso: hin
     name: डोसो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doso
     auto: true
   - translation_iso: jpn
     name: ドソ語

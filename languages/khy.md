@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: ben
+    name: কেলে
+    auto: true
   - translation_iso: deu
     name: Kele (Demokratische Republik Kongo)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lokele
   - translation_iso: hin
     name: केले (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kele
     auto: true
   - translation_iso: jpn
     name: ロケレ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاناكانابو
     auto: true
+  - translation_iso: ben
+    name: কানাকানাবু
+    auto: true
   - translation_iso: deu
     name: Kanakanabu
     auto: true

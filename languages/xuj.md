@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جينو كوروما
     auto: true
+  - translation_iso: ben
+    name: জেন্নু কুরুমবা
+    auto: true
   - translation_iso: deu
     name: Jennu Kurumba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kurumba jennu
   - translation_iso: hin
     name: जेनु कुरुम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jennu Kurumba
     auto: true
   - translation_iso: jpn
     name: ジェンヌ・クルンバ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاغبانوا كالاميان
     auto: true
+  - translation_iso: ben
+    name: কালামিয়ান তাগবানওয়া
+    auto: true
   - translation_iso: deu
     name: Calamian Tagbanwa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tagbanwa calamian
   - translation_iso: hin
     name: कालामियान तागबनवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Calamian Tagbanwa
     auto: true
   - translation_iso: jpn
     name: カラミアン・タグバンワ語

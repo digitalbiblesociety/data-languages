@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة مابان
     auto: true
+  - translation_iso: ben
+    name: মাবান
+    auto: true
   - translation_iso: deu
     name: Mabaan
   - translation_iso: fra
     name: mabaan
   - translation_iso: hin
     name: माबान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mabaan
     auto: true
   - translation_iso: jpn
     name: マバアン語

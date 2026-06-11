@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هإلونج
     auto: true
+  - translation_iso: ben
+    name: হেলোং
+    auto: true
   - translation_iso: deu
     name: Helong
   - translation_iso: fra

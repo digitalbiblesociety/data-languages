@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورام
     auto: true
+  - translation_iso: ben
+    name: পুরুম
+    auto: true
   - translation_iso: deu
     name: Purum
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: purum
   - translation_iso: hin
     name: पुरुम भाषा
+  - translation_iso: ind
+    name: Bahasa Purum
+    auto: true
   - translation_iso: jpn
     name: プルム語
     auto: true

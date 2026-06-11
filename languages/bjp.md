@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: فانامكت
     auto: true
+  - translation_iso: ben
+    name: ফানামাকেত
+    auto: true
   - translation_iso: deu
     name: Fanamaket
     auto: true
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: फानामाकेट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fanamaket
     auto: true
   - translation_iso: jpn
     name: ファナマケット語

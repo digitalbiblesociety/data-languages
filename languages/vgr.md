@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فاغري
     auto: true
+  - translation_iso: ben
+    name: ভাঘরি
+    auto: true
   - translation_iso: deu
     name: Vaghri
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वाघरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vaghri
     auto: true
   - translation_iso: jpn
     name: バヴリ語

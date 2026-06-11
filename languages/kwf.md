@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "كوارا'اي"
     auto: true
+  - translation_iso: ben
+    name: কওয়ারাএ
+    auto: true
   - translation_iso: deu
     name: "Kwara'ae"
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwara’ae
   - translation_iso: hin
     name: क्वाराआए
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Kwara'ae"
     auto: true
   - translation_iso: jpn
     name: クワラアエ語

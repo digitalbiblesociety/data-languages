@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أومبوجارلا
     auto: true
+  - translation_iso: ben
+    name: উমবুগারলা
+    auto: true
   - translation_iso: deu
     name: Umbugarla
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: umbugarla
   - translation_iso: hin
     name: उमबुगरला भाषा
+  - translation_iso: ind
+    name: Bahasa Umbugarla
+    auto: true
   - translation_iso: jpn
     name: ウンブガルラ語
   - translation_iso: kor

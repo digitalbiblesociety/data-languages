@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إيليون
     auto: true
+  - translation_iso: ben
+    name: ইলিউন
+    auto: true
   - translation_iso: deu
     name: Illiun
   - translation_iso: fra

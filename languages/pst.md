@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة بشتو الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল পাশতো
+    auto: true
   - translation_iso: deu
     name: Zentralpaschtu
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मध्य पश्तो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Pashto
     auto: true
   - translation_iso: jpn
     name: 中部パシュトー語

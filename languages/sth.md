@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shelta"
 translations:
   - translation_iso: ara
     name: شيلتا
+  - translation_iso: ben
+    name: শেলতা
+    auto: true
   - translation_iso: deu
     name: Shelta
   - translation_iso: fra

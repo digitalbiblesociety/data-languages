@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الشاكافي
     auto: true
+  - translation_iso: ben
+    name: চাকাভিয়ানর
+    auto: true
   - translation_iso: deu
     name: Čakavisch
   - translation_iso: fra

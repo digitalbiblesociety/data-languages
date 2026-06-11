@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوكسابمين
     auto: true
+  - translation_iso: ben
+    name: ওকসাপমিন
+    auto: true
   - translation_iso: deu
     name: Oksapmin
   - translation_iso: fra
     name: oksapmin
   - translation_iso: hin
     name: ओक्सापमिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oksapmin
     auto: true
   - translation_iso: jpn
     name: オクサプミン語

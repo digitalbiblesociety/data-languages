@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجي
     auto: true
+  - translation_iso: ben
+    name: লেনজে
+    auto: true
   - translation_iso: deu
     name: Lenje
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेंजे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lenje
     auto: true
   - translation_iso: jpn
     name: レンジェ語

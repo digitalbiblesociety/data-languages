@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चांग भाषा
+  - translation_iso: ind
+    name: Bahasa Chang Naga
+    auto: true
   - translation_iso: jpn
     name: チャン・ナガ語
     auto: true

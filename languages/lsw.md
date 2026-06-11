@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السيشيلية
     auto: true
+  - translation_iso: ben
+    name: সেয়চেল্লেস সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Seychellen-Gebärdensprache
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेशेल्स सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seychelles Sign Language
     auto: true
   - translation_iso: jpn
     name: セイシェル手話

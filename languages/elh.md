@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/El_Hugeirat_language"
 translations:
   - translation_iso: ara
     name: لغة الحجيرات
+  - translation_iso: ben
+    name: এল হুগেইরাত
+    auto: true
   - translation_iso: deu
     name: El Hugeirat
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: el hugeirat
   - translation_iso: hin
     name: एल हुगेरात
+  - translation_iso: ind
+    name: Bahasa El Hugeirat
+    auto: true
   - translation_iso: jpn
     name: エル・フゲイラット語
     auto: true

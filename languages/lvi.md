@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة افي
     auto: true
+  - translation_iso: ben
+    name: লাভি
+    auto: true
   - translation_iso: deu
     name: Lavi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lawi
   - translation_iso: hin
     name: लावी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lavi
     auto: true
   - translation_iso: jpn
     name: ラビ語

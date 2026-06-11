@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانغسينغ
     auto: true
+  - translation_iso: ben
+    name: পাংসেং
+    auto: true
   - translation_iso: deu
     name: Pangseng
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पांगसेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pangseng
     auto: true
   - translation_iso: jpn
     name: パングセン語

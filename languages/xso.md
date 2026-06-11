@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سولانو
     auto: true
+  - translation_iso: ben
+    name: সোলানো
+    auto: true
   - translation_iso: deu
     name: Solano
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: solano
   - translation_iso: hin
     name: सोलानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Solano
     auto: true
   - translation_iso: jpn
     name: ソラノ語

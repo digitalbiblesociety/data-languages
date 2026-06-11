@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: راجبانشي
     auto: true
+  - translation_iso: ben
+    name: রাজবানশি
+    auto: true
   - translation_iso: deu
     name: Rajbanshi
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: rajbanshi
   - translation_iso: hin
     name: राजबंशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rajbanshi
     auto: true
   - translation_iso: jpn
     name: ラージバンシ語

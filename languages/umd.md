@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أومبندهامو
     auto: true
+  - translation_iso: ben
+    name: উমবিনধামু
+    auto: true
   - translation_iso: deu
     name: Umbindhamu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: umbindhamu
   - translation_iso: hin
     name: उम्बिंधामु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umbindhamu
     auto: true
   - translation_iso: jpn
     name: ウンビンダムー語

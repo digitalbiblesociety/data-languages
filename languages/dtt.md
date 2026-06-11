@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تورو تيجو دوجون
     auto: true
+  - translation_iso: ben
+    name: তোরো তেগু দোগোন
+    auto: true
   - translation_iso: deu
     name: Toro Tegu Dogon
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: टोरो टेगू डोगोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toro Tegu Dogon
     auto: true
   - translation_iso: jpn
     name: トロ・テグ・ドゴン語

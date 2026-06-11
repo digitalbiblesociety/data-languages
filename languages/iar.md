@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورار
     auto: true
+  - translation_iso: ben
+    name: পুরারি
+    auto: true
   - translation_iso: deu
     name: Purari
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: purari
   - translation_iso: hin
     name: पुरारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Purari
     auto: true
   - translation_iso: jpn
     name: プラリ語

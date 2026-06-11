@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة خلولا
     auto: true
+  - translation_iso: ben
+    name: খলুলা
+    auto: true
   - translation_iso: deu
     name: Khlula
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ख्लुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khlula
     auto: true
   - translation_iso: jpn
     name: クルラ語

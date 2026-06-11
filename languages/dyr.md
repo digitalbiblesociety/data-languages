@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ديريم
     auto: true
+  - translation_iso: ben
+    name: দয়ারিম
+    auto: true
   - translation_iso: deu
     name: Dyarim
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: dyarim
   - translation_iso: hin
     name: डयारिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dyarim
     auto: true
   - translation_iso: jpn
     name: ディャリム語

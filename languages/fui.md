@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बागिर्मी फुलफुल्दे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bagirmi Fulfulde
+    auto: true
   - translation_iso: jpn
     name: バギルミ・フルフルディ語
   - translation_iso: kor

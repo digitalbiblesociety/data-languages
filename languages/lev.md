@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة امما
     auto: true
+  - translation_iso: ben
+    name: লাম্মা
+    auto: true
   - translation_iso: deu
     name: Lamma
     auto: true

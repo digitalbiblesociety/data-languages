@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نيو
     auto: true
+  - translation_iso: ben
+    name: নেয়ো
+    auto: true
   - translation_iso: deu
     name: Neyo
   - translation_iso: fra
     name: néyo
   - translation_iso: hin
     name: नेयो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Neyo
     auto: true
   - translation_iso: jpn
     name: ネヨ語

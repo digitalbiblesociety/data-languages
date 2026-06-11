@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيموغون موروت
     auto: true
+  - translation_iso: ben
+    name: তিমুগোন মুরুত
+    auto: true
   - translation_iso: deu
     name: Timugon Murut
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तिमुगोन मुरुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Timugon Murut
     auto: true
   - translation_iso: jpn
     name: ティムゴン語

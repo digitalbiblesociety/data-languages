@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غآنجلآو
     auto: true
+  - translation_iso: ben
+    name: গাংলাউ
+    auto: true
   - translation_iso: deu
     name: Ganglau
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गांगलाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ganglau
     auto: true
   - translation_iso: jpn
     name: ガングラウ語

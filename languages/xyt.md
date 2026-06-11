@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: مايي-ثاكورتي
     auto: true
+  - translation_iso: ben
+    name: মায়ি-থাকুরতি
+    auto: true
   - translation_iso: deu
     name: Mayi-Thakurti
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: mayi-thakurti
   - translation_iso: hin
     name: मायी-थाकुर्ती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayi-Thakurti
     auto: true
   - translation_iso: jpn
     name: マイイ・タクルティ語

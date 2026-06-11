@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة شيشي خام
     auto: true
+  - translation_iso: ben
+    name: শেশি খাম
+    auto: true
   - translation_iso: deu
     name: Sheshi Kham
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kham sheshi
   - translation_iso: hin
     name: शेषी खाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sheshi Kham
     auto: true
   - translation_iso: jpn
     name: シェシ・ハム語

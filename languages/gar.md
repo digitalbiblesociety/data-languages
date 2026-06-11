@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجاليا
     auto: true
+  - translation_iso: ben
+    name: গালেয়া
+    auto: true
   - translation_iso: deu
     name: Galeya
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गालेया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Galeya
     auto: true
   - translation_iso: jpn
     name: ガレヤ語

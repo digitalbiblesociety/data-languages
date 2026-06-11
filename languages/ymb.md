@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يمبس
     auto: true
+  - translation_iso: ben
+    name: য়ামবেস
+    auto: true
   - translation_iso: deu
     name: Yambes
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: याम्बेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yambes
     auto: true
   - translation_iso: jpn
     name: ヤンベス語

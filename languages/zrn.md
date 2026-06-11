@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: زيرينكل
     auto: true
+  - translation_iso: ben
+    name: জেরেনকেল
+    auto: true
   - translation_iso: deu
     name: Zerenkel
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: zirenkel
   - translation_iso: hin
     name: ज़ेरेंकेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zerenkel
     auto: true
   - translation_iso: jpn
     name: ゼレンケル語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: गुरो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Guro
+    auto: true
   - translation_iso: jpn
     name: グロ語
   - translation_iso: kor

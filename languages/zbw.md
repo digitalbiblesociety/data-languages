@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত বেরাওয়ান
+    auto: true
   - translation_iso: deu
     name: West-Berawan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: long terawan
   - translation_iso: hin
     name: पश्चिमी बेरावन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Berawan
     auto: true
   - translation_iso: jpn
     name: ウェスト・ベラワン語

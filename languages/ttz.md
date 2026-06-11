@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تسوم
     auto: true
+  - translation_iso: ben
+    name: তসুম
+    auto: true
   - translation_iso: deu
     name: Tsum
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tsum
   - translation_iso: hin
     name: त्सुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsum
     auto: true
   - translation_iso: jpn
     name: ツムケ語

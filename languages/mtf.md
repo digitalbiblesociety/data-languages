@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موريك (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: ben
+    name: মুরিক
+    auto: true
   - translation_iso: deu
     name: Murik (Papua-Neuguinea)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: murik
   - translation_iso: hin
     name: मुरिक (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Murik
     auto: true
   - translation_iso: jpn
     name: ムリク語

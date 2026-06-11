@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बाकवे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bakwé
+    auto: true
   - translation_iso: jpn
     name: バクウェ語
   - translation_iso: kor

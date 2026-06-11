@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ket_language"
 translations:
   - translation_iso: ara
     name: الكيتية
+  - translation_iso: ben
+    name: কেত
+    auto: true
   - translation_iso: deu
     name: Ket
   - translation_iso: fra

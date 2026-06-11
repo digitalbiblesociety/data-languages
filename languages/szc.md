@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيماك بيري
     auto: true
+  - translation_iso: ben
+    name: সেমাক বেরি
+    auto: true
   - translation_iso: deu
     name: Semaq Beri
     auto: true

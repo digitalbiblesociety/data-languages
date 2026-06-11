@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيدوما
     auto: true
+  - translation_iso: ben
+    name: ইদোমা
+    auto: true
   - translation_iso: deu
     name: Idoma
   - translation_iso: fra
     name: idoma
   - translation_iso: hin
     name: इदोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idoma
     auto: true
   - translation_iso: jpn
     name: イドマ語

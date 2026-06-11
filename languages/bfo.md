@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مالبا بيريفور
     auto: true
+  - translation_iso: ben
+    name: মালবা বিরিফোর
+    auto: true
   - translation_iso: deu
     name: Malba Birifor
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: birifor du Nord
   - translation_iso: hin
     name: माल्बा बिरिफोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malba Birifor
     auto: true
   - translation_iso: jpn
     name: マルバ・ビリフォル語

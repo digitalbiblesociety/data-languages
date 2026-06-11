@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميتشي
     auto: true
+  - translation_iso: ben
+    name: মিকিএ
+    auto: true
   - translation_iso: deu
     name: Miqie
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: miqie
   - translation_iso: hin
     name: मिचिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miqie
     auto: true
   - translation_iso: jpn
     name: ミチエ語

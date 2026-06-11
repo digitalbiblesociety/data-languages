@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مابا (إندونيسيا)
     auto: true
+  - translation_iso: ben
+    name: মাবা
+    auto: true
   - translation_iso: deu
     name: Maba (Indonesien)
     auto: true

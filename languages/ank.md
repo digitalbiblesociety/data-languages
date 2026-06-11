@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة جويمّاي
     auto: true
+  - translation_iso: ben
+    name: গোএমাই
+    auto: true
   - translation_iso: deu
     name: Goemai
   - translation_iso: fra
     name: goemai
   - translation_iso: hin
     name: गोएमाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Goemai
     auto: true
   - translation_iso: jpn
     name: ゴエマイ語

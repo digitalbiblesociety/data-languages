@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوموتيك
     auto: true
+  - translation_iso: ben
+    name: ওমোতিক
+    auto: true
   - translation_iso: deu
     name: Omotik
   - translation_iso: fra
     name: omotik
   - translation_iso: hin
     name: ओमोटिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Omotik
     auto: true
   - translation_iso: jpn
     name: オモティク語

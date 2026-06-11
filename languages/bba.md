@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बातोनुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baatonum
+    auto: true
   - translation_iso: jpn
     name: バアトゥヌム語
     auto: true

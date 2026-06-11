@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة واندالا
     auto: true
+  - translation_iso: ben
+    name: ওয়ানদালা
+    auto: true
   - translation_iso: deu
     name: Wandala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wandala
   - translation_iso: hin
     name: वंडाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wandala
     auto: true
   - translation_iso: jpn
     name: ワンダラ語

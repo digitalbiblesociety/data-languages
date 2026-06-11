@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بروناي بيسايا
     auto: true
+  - translation_iso: ben
+    name: বরুনেই বিসায়া
+    auto: true
   - translation_iso: deu
     name: Brunei Bisaya
     auto: true

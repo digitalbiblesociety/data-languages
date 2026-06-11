@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوايلي
     auto: true
+  - translation_iso: ben
+    name: বওয়িলে
+    auto: true
   - translation_iso: deu
     name: Bwile
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ब्वीले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bwile
     auto: true
   - translation_iso: jpn
     name: ブワイレ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jahanka_language"
 translations:
   - translation_iso: ara
     name: لغة جهنكية
+  - translation_iso: ben
+    name: জাহানকা
+    auto: true
   - translation_iso: deu
     name: Jahanka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: diakhanké
   - translation_iso: hin
     name: जहांका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jahanka
     auto: true
   - translation_iso: jpn
     name: ジャハンカ語

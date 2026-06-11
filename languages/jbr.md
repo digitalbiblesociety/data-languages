@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة جوفوتيك برومنيا
     auto: true
+  - translation_iso: ben
+    name: জোফোতেক-বরোমনয়া
+    auto: true
   - translation_iso: deu
     name: Jofotek-Bromnya
     auto: true

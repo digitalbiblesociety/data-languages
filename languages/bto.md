@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: رينْكونادا بيكول
     auto: true
+  - translation_iso: ben
+    name: রিনকোনাদা বিকোল
+    auto: true
   - translation_iso: deu
     name: Rinconada Bikol
     auto: true
@@ -30,6 +33,9 @@ translations:
     name: bikol rinconada
   - translation_iso: hin
     name: रिनकोनाडा बिकोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rinconada Bikol
     auto: true
   - translation_iso: jpn
     name: イリガ・ビコール語

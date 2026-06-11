@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بلابلانجا
     auto: true
+  - translation_iso: ben
+    name: বলাবলাঙা
+    auto: true
   - translation_iso: deu
     name: Blablanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: blablanga
   - translation_iso: hin
     name: ब्लाब्लांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Blablanga
     auto: true
   - translation_iso: jpn
     name: ブラブランガ語

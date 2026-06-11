@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فاجري بولي
     auto: true
+  - translation_iso: ben
+    name: ভাগরি বোলি
+    auto: true
   - translation_iso: deu
     name: Vaagri Booli
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वाग्री बोली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vaagri Booli
     auto: true
   - translation_iso: jpn
     name: ハッキピッキ語

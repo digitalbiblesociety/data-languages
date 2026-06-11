@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كينالاكنا
     auto: true
+  - translation_iso: ben
+    name: কিনালাকনা
+    auto: true
   - translation_iso: deu
     name: Kinalakna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kinalakna
   - translation_iso: hin
     name: किनालाक्ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kinalakna
     auto: true
   - translation_iso: jpn
     name: キナラクナ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बर्बिस क्रियोल डच
     auto: true
+  - translation_iso: ind
+    name: Bahasa Berbice Creole Dutch
+    auto: true
   - translation_iso: jpn
     name: バルビス・クレオール・オランダ語
     auto: true

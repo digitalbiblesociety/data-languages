@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جبايا-بوسانجوا
     auto: true
+  - translation_iso: ben
+    name: গবায়া-বোস্সাঙোয়া
+    auto: true
   - translation_iso: deu
     name: Gbaya-Bossangoa
   - translation_iso: fra

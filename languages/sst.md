@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيناسينا
     auto: true
+  - translation_iso: ben
+    name: সিনাসিনা
+    auto: true
   - translation_iso: deu
     name: Sinasina
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sinasina
   - translation_iso: hin
     name: सिनासिना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sinasina
     auto: true
   - translation_iso: jpn
     name: シナシナ語

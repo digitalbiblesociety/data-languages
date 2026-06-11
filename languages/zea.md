@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zeelandic"
 translations:
   - translation_iso: ara
     name: الزيلندية
+  - translation_iso: ben
+    name: জেউওয়স
+    auto: true
   - translation_iso: deu
     name: Seeländisch
   - translation_iso: fra
     name: zélandais
   - translation_iso: hin
     name: ज़ीलैंडिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zeeuws
     auto: true
   - translation_iso: jpn
     name: ゼーランド語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कासिपो-बालेसी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kacipo-Balesi
+    auto: true
   - translation_iso: jpn
     name: カチポ・バレシ語
     auto: true

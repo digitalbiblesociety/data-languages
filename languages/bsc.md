@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बस्सारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bassari
+    auto: true
   - translation_iso: jpn
     name: バサリ語
   - translation_iso: kor

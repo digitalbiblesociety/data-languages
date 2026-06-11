@@ -30,6 +30,9 @@ translations:
     name: mising
   - translation_iso: hin
     name: मिसिंग भाषा
+  - translation_iso: ind
+    name: Bahasa Mising
+    auto: true
   - translation_iso: jpn
     name: ミシン語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تشانج-تشونج
     auto: true
+  - translation_iso: ben
+    name: ঝাং-ঝুং
+    auto: true
   - translation_iso: deu
     name: Zhang-Zhung
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: zhang-zhung
   - translation_iso: hin
     name: झांग-झुंग भाषा
+  - translation_iso: ind
+    name: Bahasa Zhang-Zhung
+    auto: true
   - translation_iso: jpn
     name: シャンシュン語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فيمجو-مابس
     auto: true
+  - translation_iso: ben
+    name: ভেমগো-মাবাস
+    auto: true
   - translation_iso: deu
     name: Vemgo-Mabas
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vemgo-mabas
   - translation_iso: hin
     name: वेम्गो-माबास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vemgo-Mabas
     auto: true
   - translation_iso: jpn
     name: ヴェムゴ・マバス語

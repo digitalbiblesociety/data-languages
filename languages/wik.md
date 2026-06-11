@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويكالكان
     auto: true
+  - translation_iso: ben
+    name: ওয়িকালকান
+    auto: true
   - translation_iso: deu
     name: Wikalkan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wikalkan
   - translation_iso: hin
     name: विकलकन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wikalkan
     auto: true
   - translation_iso: jpn
     name: ウィカルカン語

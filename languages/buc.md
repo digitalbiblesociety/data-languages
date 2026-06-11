@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: بوشي
     auto: true
+  - translation_iso: ben
+    name: বুশি
+    auto: true
   - translation_iso: deu
     name: Baushi
   - translation_iso: fra

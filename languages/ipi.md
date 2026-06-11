@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيبيلي
     auto: true
+  - translation_iso: ben
+    name: ইপিলি
+    auto: true
   - translation_iso: deu
     name: Ipili
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इपिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ipili
     auto: true
   - translation_iso: jpn
     name: イピリ語

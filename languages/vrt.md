@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بورمبار
     auto: true
+  - translation_iso: ben
+    name: বুরমবার
+    auto: true
   - translation_iso: deu
     name: Burmbar
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: burmbar
   - translation_iso: hin
     name: बुर्म्बार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Burmbar
     auto: true
   - translation_iso: jpn
     name: バルムバル語

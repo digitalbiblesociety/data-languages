@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كانكاناي الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কানকানায়
+    auto: true
   - translation_iso: deu
     name: Nord-Kankanay
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kankanay du Nord
   - translation_iso: hin
     name: उत्तरी कंकनाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Kankanay
     auto: true
   - translation_iso: jpn
     name: 北部カンカナイ語

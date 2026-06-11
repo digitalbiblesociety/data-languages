@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نك
     auto: true
+  - translation_iso: ben
+    name: নেক
+    auto: true
   - translation_iso: deu
     name: Nek
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nek
   - translation_iso: hin
     name: नेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nek
     auto: true
   - translation_iso: jpn
     name: ネク語

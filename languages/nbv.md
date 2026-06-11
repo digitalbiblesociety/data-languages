@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نجاممبو
     auto: true
+  - translation_iso: ben
+    name: ঙামামবো
+    auto: true
   - translation_iso: deu
     name: Ngamambo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngamambo
   - translation_iso: hin
     name: न्गामाम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngamambo
     auto: true
   - translation_iso: jpn
     name: ングアマンボ語

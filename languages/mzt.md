@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: منتيل
     auto: true
+  - translation_iso: ben
+    name: মিনতিল
+    auto: true
   - translation_iso: deu
     name: Mintil
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mintil
   - translation_iso: hin
     name: मिंतिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mintil
     auto: true
   - translation_iso: jpn
     name: ミンティル語

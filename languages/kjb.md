@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كانجوبال
     auto: true
+  - translation_iso: ben
+    name: কানজোবাল
+    auto: true
   - translation_iso: deu
     name: Kanjobal-Sprache
   - translation_iso: fra
     name: "q'anjob'al"
   - translation_iso: hin
     name: कानजोबाल
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Q'anjob'al"
     auto: true
   - translation_iso: jpn
     name: カンホバル語

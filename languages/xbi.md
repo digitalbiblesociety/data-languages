@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كومبيو
     auto: true
+  - translation_iso: ben
+    name: কোমবিও
+    auto: true
   - translation_iso: deu
     name: Kombio
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kombio
   - translation_iso: hin
     name: कोम्बियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kombio
     auto: true
   - translation_iso: jpn
     name: コンビオ語

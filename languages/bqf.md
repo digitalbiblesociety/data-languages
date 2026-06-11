@@ -26,6 +26,9 @@ translations:
   - translation_iso: hin
     name: बागा कलूम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baga Kaloum
+    auto: true
   - translation_iso: jpn
     name: バガ・カルム語
     auto: true

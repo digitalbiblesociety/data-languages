@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अगुना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aguna
+    auto: true
   - translation_iso: jpn
     name: アグナ語
     auto: true

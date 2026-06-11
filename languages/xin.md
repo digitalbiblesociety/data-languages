@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: شينكا
     auto: true
+  - translation_iso: ben
+    name: কসিনকা
+    auto: true
   - translation_iso: deu
     name: Xinca-Sprachen
   - translation_iso: fra

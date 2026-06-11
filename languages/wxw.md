@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: وارداندي
     auto: true
+  - translation_iso: ben
+    name: ওয়ারদানদি
+    auto: true
   - translation_iso: deu
     name: Wardandi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: wardandi
   - translation_iso: hin
     name: वार्डांडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wardandi
     auto: true
   - translation_iso: jpn
     name: ワルダンディ語

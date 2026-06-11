@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دجامينجونج
     auto: true
+  - translation_iso: ben
+    name: দজামিনদজুং
+    auto: true
   - translation_iso: deu
     name: Djamindjung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djamindjung
   - translation_iso: hin
     name: जमिनजुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djamindjung
     auto: true
   - translation_iso: jpn
     name: ジャミンジュング語

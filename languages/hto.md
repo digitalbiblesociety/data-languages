@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مينيكا هويتوتو
     auto: true
+  - translation_iso: ben
+    name: মিনিকা হুইতোতো
+    auto: true
   - translation_iso: deu
     name: Minica-Huitoto
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: witoto minica
   - translation_iso: hin
     name: मिनिका हुइतोतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minica Huitoto
     auto: true
   - translation_iso: jpn
     name: ミニカ・ウイトト語

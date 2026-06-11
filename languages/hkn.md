@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميل-خاوnh
     auto: true
+  - translation_iso: ben
+    name: মেল-খাওনহ
+    auto: true
   - translation_iso: deu
     name: Mel-Khaonh
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: khaonh
   - translation_iso: hin
     name: मेल-खाओंह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mel-Khaonh
     auto: true
   - translation_iso: jpn
     name: メル・カオン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيرمانو
     auto: true
+  - translation_iso: ben
+    name: তেরমানু
+    auto: true
   - translation_iso: deu
     name: Termanu
     auto: true

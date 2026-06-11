@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مكوي
     auto: true
+  - translation_iso: ben
+    name: মেকওয়েই
+    auto: true
   - translation_iso: deu
     name: Mekwei
     auto: true

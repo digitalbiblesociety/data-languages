@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوما
     auto: true
+  - translation_iso: ben
+    name: সুমা
+    auto: true
   - translation_iso: deu
     name: Suma
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: suma
   - translation_iso: hin
     name: सुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suma
     auto: true
   - translation_iso: jpn
     name: ソウマ語

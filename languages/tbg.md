@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تايرورا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথ তাইরোরা
+    auto: true
   - translation_iso: deu
     name: North Tairora
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tairora du Nord
   - translation_iso: hin
     name: उत्तरी तायरोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa North Tairora
     auto: true
   - translation_iso: jpn
     name: 北タイロラ語

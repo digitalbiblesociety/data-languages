@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نانيريجي سينوفو
     auto: true
+  - translation_iso: ben
+    name: নানেরিগে সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Nanerige
   - translation_iso: fra
     name: nanerigé
   - translation_iso: hin
     name: नानेरिगे सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nanerigé Sénoufo
     auto: true
   - translation_iso: jpn
     name: ナーニ語

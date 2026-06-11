@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ووميج ناسو
     auto: true
+  - translation_iso: ben
+    name: ওয়ুমেং নাসু
+    auto: true
   - translation_iso: deu
     name: Wumeng-Nasu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वुमेंग नासू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wumeng Nasu
     auto: true
   - translation_iso: jpn
     name: ウーメング・ナス語

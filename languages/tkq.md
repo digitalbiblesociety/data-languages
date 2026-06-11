@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: ती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tee
+    auto: true
   - translation_iso: jpn
     name: テー語
     auto: true

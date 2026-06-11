@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شومتشو
     auto: true
+  - translation_iso: ben
+    name: শুমচো
+    auto: true
   - translation_iso: deu
     name: Shumcho
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shumcho
   - translation_iso: hin
     name: शुमचो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shumcho
     auto: true
   - translation_iso: jpn
     name: カナワリングスカド語

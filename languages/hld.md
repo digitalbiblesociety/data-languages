@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هالانغ دوان
     auto: true
+  - translation_iso: ben
+    name: হালাং দোয়ান
+    auto: true
   - translation_iso: deu
     name: Halang Doan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हलंग दोआन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Halang Doan
     auto: true
   - translation_iso: jpn
     name: ハラング・ドアン語

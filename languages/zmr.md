@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مارانونغو
     auto: true
+  - translation_iso: ben
+    name: মারানুংগু
+    auto: true
   - translation_iso: deu
     name: Maranunggu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मरानुंगू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maranunggu
     auto: true
   - translation_iso: jpn
     name: マランンググ語

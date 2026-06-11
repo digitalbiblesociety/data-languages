@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مونومبو
     auto: true
+  - translation_iso: ben
+    name: মোনুমবো
+    auto: true
   - translation_iso: deu
     name: Monumbo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: monumbo
   - translation_iso: hin
     name: मोनुंबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Monumbo
     auto: true
   - translation_iso: jpn
     name: モヌンボ語

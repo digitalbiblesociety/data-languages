@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الرهبانية
     auto: true
+  - translation_iso: ben
+    name: মোনাসতিক সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: klösterliche Zeichensprache
   - translation_iso: fra

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एरिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arin
+    auto: true
   - translation_iso: jpn
     name: アリン語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاماريان
     auto: true
+  - translation_iso: ben
+    name: কামারিয়ান
+    auto: true
   - translation_iso: deu
     name: Kamarian
     auto: true

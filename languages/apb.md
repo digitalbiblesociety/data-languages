@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سآ
     auto: true
+  - translation_iso: ben
+    name: সা
+    auto: true
   - translation_iso: deu
     name: "Sa'a"
   - translation_iso: fra
     name: sa’a
   - translation_iso: hin
     name: साआ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Sa'a"
     auto: true
   - translation_iso: jpn
     name: サア語

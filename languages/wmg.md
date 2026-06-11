@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويستيرن مينياغ
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন মিনয়াগ
+    auto: true
   - translation_iso: deu
     name: West-Minyag
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पश्चिमी मिन्याग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Minyag
     auto: true
   - translation_iso: jpn
     name: 西ミニャク語

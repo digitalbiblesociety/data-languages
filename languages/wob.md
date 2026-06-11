@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: و نورتهيرن
     auto: true
+  - translation_iso: ben
+    name: ওয়ে নোরথেরন
+    auto: true
   - translation_iso: deu
     name: Nord-Wè
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wobé
   - translation_iso: hin
     name: उत्तरी वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wè Northern
     auto: true
   - translation_iso: jpn
     name: ウェ・ノーザン語

@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अमातलान सैपोटेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amatlán Zapotec
+    auto: true
   - translation_iso: jpn
     name: アマトラン・サポテク語
     auto: true

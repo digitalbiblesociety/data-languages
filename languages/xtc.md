@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاتشا-كادولي-ميري
     auto: true
+  - translation_iso: ben
+    name: কাতচা-কাদুগলি-মিরি
+    auto: true
   - translation_iso: deu
     name: Katcha-Kadugli-Miri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Katcha-kadugli-miri
   - translation_iso: hin
     name: कत्चा-कडुगली-मिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katcha-Kadugli-Miri
     auto: true
   - translation_iso: jpn
     name: カチャ・カドゥグリ・ミリ語

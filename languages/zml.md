@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتنغالا
     auto: true
+  - translation_iso: ben
+    name: মাতঙালা
+    auto: true
   - translation_iso: deu
     name: Matngala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: matngele
   - translation_iso: hin
     name: मतंगला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matngala
     auto: true
   - translation_iso: jpn
     name: マトゥンガラ語

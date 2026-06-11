@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وسط واتوت
     auto: true
+  - translation_iso: ben
+    name: মিদ্দলে ওয়াতুত
+    auto: true
   - translation_iso: deu
     name: Mittel-Watut
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: watut central
   - translation_iso: hin
     name: मध्य वातुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Middle Watut
     auto: true
   - translation_iso: jpn
     name: ミドル・ワトゥット語

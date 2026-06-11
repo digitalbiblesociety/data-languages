@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بيموبا
     auto: true
+  - translation_iso: ben
+    name: বিমোবা
+    auto: true
   - translation_iso: deu
     name: Bimoba
   - translation_iso: fra
     name: bimoba
   - translation_iso: hin
     name: बिमोबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bimoba
     auto: true
   - translation_iso: jpn
     name: ビモバ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ياهاديان
     auto: true
+  - translation_iso: ben
+    name: য়াহাদিয়ান
+    auto: true
   - translation_iso: deu
     name: Yahadian
     auto: true

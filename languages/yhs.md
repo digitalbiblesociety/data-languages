@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة يان-نهانغو الإشارة
     auto: true
+  - translation_iso: ben
+    name: য়ান-নহাঙু সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Yan-nhaŋu-Gebärdensprache
   - translation_iso: fra
@@ -20,6 +23,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यान-नहाङु सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yan-nhaŋu Sign Language
     auto: true
   - translation_iso: jpn
     name: ヤン・ナハン手話

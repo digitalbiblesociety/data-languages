@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ساموسا
     auto: true
+  - translation_iso: ben
+    name: সামোসা
+    auto: true
   - translation_iso: deu
     name: Samosa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: samosa
   - translation_iso: hin
     name: सामोसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samosa
     auto: true
   - translation_iso: jpn
     name: サモサ語

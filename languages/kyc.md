@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كياكا
     auto: true
+  - translation_iso: ben
+    name: কয়াকা
+    auto: true
   - translation_iso: deu
     name: Kyaka
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: क्याका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kyaka
     auto: true
   - translation_iso: jpn
     name: キャカ語

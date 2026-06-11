@@ -29,6 +29,9 @@ translations:
     name: jaunsari
   - translation_iso: hin
     name: जौनसारी भाषा
+  - translation_iso: ind
+    name: Bahasa Jaunsari
+    auto: true
   - translation_iso: jpn
     name: ジャウンサーリー語
   - translation_iso: kor

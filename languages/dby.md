@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديبياسو
     auto: true
+  - translation_iso: ben
+    name: দিবিয়াসো
+    auto: true
   - translation_iso: deu
     name: Dibiyaso
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: dibiyaso
   - translation_iso: hin
     name: दिबियासो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dibiyaso
     auto: true
   - translation_iso: jpn
     name: ディビヤソ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बांदा-बंबारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banda-Bambari
+    auto: true
   - translation_iso: jpn
     name: バンダ・バンバリ語
     auto: true

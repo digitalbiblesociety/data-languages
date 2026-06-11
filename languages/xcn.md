@@ -17,12 +17,18 @@ translations:
   - translation_iso: ara
     name: كوتونامي
     auto: true
+  - translation_iso: ben
+    name: কোতোনামে
+    auto: true
   - translation_iso: deu
     name: Cotoname
   - translation_iso: fra
     name: cotoname
   - translation_iso: hin
     name: कोटोनामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cotoname
     auto: true
   - translation_iso: jpn
     name: コトナメ語

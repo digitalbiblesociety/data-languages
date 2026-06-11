@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميتلاتونوك ميكستك
     auto: true
+  - translation_iso: ben
+    name: মেতলাতোনোক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Metlatónoc-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Metlatónoc
   - translation_iso: hin
     name: मेत्लातोनोक मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Metlatónoc Mixtec
     auto: true
   - translation_iso: jpn
     name: メトラトノック・ミステク語

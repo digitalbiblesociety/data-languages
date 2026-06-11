@@ -29,6 +29,9 @@ translations:
     name: tanchangya
   - translation_iso: hin
     name: तंचंग्या भाषा
+  - translation_iso: ind
+    name: Bahasa Tangchangya
+    auto: true
   - translation_iso: jpn
     name: タンチャンギャ語
     auto: true

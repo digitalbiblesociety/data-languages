@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يوغور الشرقية
     auto: true
+  - translation_iso: ben
+    name: এয়াসত য়ুগুর
+    auto: true
   - translation_iso: deu
     name: Ost-Yugurisch
   - translation_iso: fra

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة مبول
     auto: true
+  - translation_iso: ben
+    name: মবুলে
+    auto: true
   - translation_iso: deu
     name: Mbule
   - translation_iso: fra
     name: mbule
   - translation_iso: hin
     name: मबुले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbule
     auto: true
   - translation_iso: jpn
     name: ムブレ語

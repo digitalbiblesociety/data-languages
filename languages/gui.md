@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: إآستإرن بوليفيآن غوآرآنí
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন বোলিভিয়ান গুয়ারানি
+    auto: true
   - translation_iso: deu
     name: Ost-Bolivianisches Guaraní
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: chiriguano
   - translation_iso: hin
     name: पूर्वी बोलिवियाई गुआरानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Bolivian Guaraní
     auto: true
   - translation_iso: jpn
     name: チリグアノ族

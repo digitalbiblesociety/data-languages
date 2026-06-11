@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كونتشوس الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কোনচুকোস আনকাশ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Nord-Conchucos-Ancash-Quechua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quechua ancash de Conchucos du Nord
   - translation_iso: hin
     name: उत्तरी कोंचुकोस आंकाश क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Conchucos Ancash Quechua
     auto: true
   - translation_iso: jpn
     name: 北コンチュコスアンカシュケチュア語

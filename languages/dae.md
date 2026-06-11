@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: الدوپا
     auto: true
+  - translation_iso: ben
+    name: দুপা
+    auto: true
   - translation_iso: deu
     name: Duupa
   - translation_iso: fra
     name: duupa
   - translation_iso: hin
     name: दूपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duupa
     auto: true
   - translation_iso: jpn
     name: ドゥーパ語

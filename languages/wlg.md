@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كونبارلانغ
     auto: true
+  - translation_iso: ben
+    name: কুনবারলাং
+    auto: true
   - translation_iso: deu
     name: Kunbarlang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kunbarlang
   - translation_iso: hin
     name: कुनबर्लंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunbarlang
     auto: true
   - translation_iso: jpn
     name: クンバルラン語

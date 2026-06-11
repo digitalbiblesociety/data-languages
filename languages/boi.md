@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बारबारेन्यो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barbareño
+    auto: true
   - translation_iso: jpn
     name: バルバレーニョ語
     auto: true

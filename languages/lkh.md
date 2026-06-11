@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اكها
     auto: true
+  - translation_iso: ben
+    name: লাখা
+    auto: true
   - translation_iso: deu
     name: Lakha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lakha
   - translation_iso: hin
     name: लाखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lakha
     auto: true
   - translation_iso: jpn
     name: ラ語

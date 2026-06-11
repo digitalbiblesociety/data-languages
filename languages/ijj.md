@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एदे इजे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ede Ije
+    auto: true
   - translation_iso: jpn
     name: エデ・イジェ語
     auto: true

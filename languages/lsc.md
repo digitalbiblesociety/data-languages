@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة ألبارادا
     auto: true
+  - translation_iso: ben
+    name: আলবার্রাদাস সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Albarradas-Gebärdensprache
     auto: true
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अल्बराडस सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Albarradas Sign Language
+    auto: true
   - translation_iso: jpn
     name: アルバラダ手話
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: चीनी ऐनू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Chinese Ainu
+    auto: true
   - translation_iso: jpn
     name: エイヌ語
   - translation_iso: kor

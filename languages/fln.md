@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جزيرة فليندرز
     auto: true
+  - translation_iso: ben
+    name: ফলিনদেরস ইসলানদ
+    auto: true
   - translation_iso: deu
     name: Flinders Island
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: flinders island
   - translation_iso: hin
     name: फ्लिंडर्स द्वीप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Flinders Island
     auto: true
   - translation_iso: jpn
     name: フリンダース島語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيدون
     auto: true
+  - translation_iso: ben
+    name: ইদোন
+    auto: true
   - translation_iso: deu
     name: Idon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: idon
   - translation_iso: hin
     name: इदोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Idon
     auto: true
   - translation_iso: jpn
     name: イドン語

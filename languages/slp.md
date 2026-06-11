@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة لاماهولوت
     auto: true
+  - translation_iso: ben
+    name: লামাহোলোত
+    auto: true
   - translation_iso: deu
     name: Lamaholot
   - translation_iso: fra

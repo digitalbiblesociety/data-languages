@@ -13,12 +13,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karakhanid_language"
 translations:
   - translation_iso: ara
     name: اللغة القراخانية
+  - translation_iso: ben
+    name: কারাখানিদ
+    auto: true
   - translation_iso: deu
     name: Karachanidisch
   - translation_iso: fra
     name: karakhanid
   - translation_iso: hin
     name: काराखानिद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karakhanid
     auto: true
   - translation_iso: jpn
     name: カラハン朝トルコ語

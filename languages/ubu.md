@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أمبو-أونجو
     auto: true
+  - translation_iso: ben
+    name: উমবু-উঙু
+    auto: true
   - translation_iso: deu
     name: Umbu-Ungu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: umbu-ungu
   - translation_iso: hin
     name: उम्बु-उंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umbu-Ungu
     auto: true
   - translation_iso: jpn
     name: カコリ語

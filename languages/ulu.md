@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوما لونج
     auto: true
+  - translation_iso: ben
+    name: উমা লুং
+    auto: true
   - translation_iso: deu
     name: "Uma' Lung"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: uma’ lung
   - translation_iso: hin
     name: उमा लुंग
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Uma' Lung"
     auto: true
   - translation_iso: jpn
     name: オマ・ロング語

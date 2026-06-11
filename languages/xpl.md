@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاسماني بورت سوريل
     auto: true
+  - translation_iso: ben
+    name: পোরত সোরেল্ল তাসমানিয়ানর
+    auto: true
   - translation_iso: deu
     name: Port Sorell Tasmanian
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: port sorell
   - translation_iso: hin
     name: पोर्ट सोरेल तस्मानियाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Port Sorell Tasmanian\r
     auto: true
   - translation_iso: jpn
     name: ポートソレル・タスマニア語

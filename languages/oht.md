@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: اللغة الحيثية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ হিত্তিতে
+    auto: true
   - translation_iso: deu
     name: Althethitisch
   - translation_iso: fra
     name: ancien hittite
   - translation_iso: hin
     name: प्राचीन हित्ती
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Hittite
     auto: true
   - translation_iso: jpn
     name: 古ヒッタイト語

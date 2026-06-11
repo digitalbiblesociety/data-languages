@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توليشي
     auto: true
+  - translation_iso: ben
+    name: তুলিশি
+    auto: true
   - translation_iso: deu
     name: Tulishi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tulishi
   - translation_iso: hin
     name: तुलिशी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tulishi
     auto: true
   - translation_iso: jpn
     name: トゥリシ語

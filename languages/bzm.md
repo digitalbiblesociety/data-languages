@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: بولوندو
     auto: true
+  - translation_iso: ben
+    name: বোলোনদো
+    auto: true
   - translation_iso: deu
     name: Bolondo
   - translation_iso: fra
     name: londo
   - translation_iso: hin
     name: बोलोंडो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bolondo
     auto: true
   - translation_iso: jpn
     name: ボロンド語

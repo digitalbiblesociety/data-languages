@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inor_language"
 translations:
   - translation_iso: ara
     name: إنور (لغة)
+  - translation_iso: ben
+    name: ইনোর
+    auto: true
   - translation_iso: deu
     name: Inor
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इनोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Inor
     auto: true
   - translation_iso: jpn
     name: イノル語

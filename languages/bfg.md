@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوسانج كايان
     auto: true
+  - translation_iso: ben
+    name: বুসাং কায়ান
+    auto: true
   - translation_iso: deu
     name: Busang Kayan
     auto: true

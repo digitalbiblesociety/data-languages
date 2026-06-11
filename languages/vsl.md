@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: वेनेज़ुएलाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Venezuelan Sign Language
+    auto: true
   - translation_iso: jpn
     name: ベネズエラ手話
   - translation_iso: kor

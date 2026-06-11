@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كادونج
     auto: true
+  - translation_iso: ben
+    name: কাদুং
+    auto: true
   - translation_iso: deu
     name: Kadung
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कादुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kadung
     auto: true
   - translation_iso: jpn
     name: カドゥング語

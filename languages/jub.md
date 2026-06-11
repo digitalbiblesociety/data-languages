@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وانو
     auto: true
+  - translation_iso: ben
+    name: ওয়ান্নু
+    auto: true
   - translation_iso: deu
     name: Wannu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वन्नू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wannu
     auto: true
   - translation_iso: jpn
     name: ワンヌ語

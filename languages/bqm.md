@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: وومبوكو
     auto: true
+  - translation_iso: ben
+    name: ওয়ুমবোকো
+    auto: true
   - translation_iso: deu
     name: Wumboko
   - translation_iso: fra
     name: wumboko
   - translation_iso: hin
     name: वुम्बोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wumboko
     auto: true
   - translation_iso: jpn
     name: ウムボコ語

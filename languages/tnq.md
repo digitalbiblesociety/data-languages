@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تايينو
     auto: true
+  - translation_iso: ben
+    name: তাইনো
+    auto: true
   - translation_iso: deu
     name: Taíno
   - translation_iso: fra

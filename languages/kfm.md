@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة خونساري
     auto: true
+  - translation_iso: ben
+    name: খুনসারি
+    auto: true
   - translation_iso: deu
     name: Khunsari
     auto: true

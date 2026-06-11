@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: ओबानलिकु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Obanliku
+    auto: true
   - translation_iso: jpn
     name: オバンリク語
     auto: true

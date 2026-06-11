@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Martha%27s_Vineyard_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة في مارثا فينيارد
+  - translation_iso: ben
+    name: মারথাস ভিনেয়ারদ সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Martha’s Vineyards Gebärdensprache
   - translation_iso: fra
     name: "langue des signes de Martha's Vineyard"
   - translation_iso: hin
     name: मार्था की वाइनयार्ड साइन भाषा
+  - translation_iso: ind
+    name: "Bahasa Martha's Vineyard Sign Language"
+    auto: true
   - translation_iso: jpn
     name: マーサズ・ヴィンヤード手話
   - translation_iso: kor

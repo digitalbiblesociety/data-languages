@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجاتك رجال كريول
     auto: true
+  - translation_iso: ben
+    name: ঙাতিক মেনস করেওলে
+    auto: true
   - translation_iso: deu
     name: Ngatik Men’s Creole
   - translation_iso: fra
     name: créole ngatik
   - translation_iso: hin
     name: न्गाटिक मेन्स क्रियोल
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Ngatik Men's Creole"
     auto: true
   - translation_iso: jpn
     name: ギャチック語

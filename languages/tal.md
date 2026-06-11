@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تال
     auto: true
+  - translation_iso: ben
+    name: তাল
+    auto: true
   - translation_iso: deu
     name: Tal
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tal
     auto: true
   - translation_iso: jpn
     name: タル語

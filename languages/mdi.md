@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مامفو
     auto: true
+  - translation_iso: ben
+    name: মামভু
+    auto: true
   - translation_iso: deu
     name: Mamvu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mamvu
   - translation_iso: hin
     name: मामवु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mamvu
     auto: true
   - translation_iso: jpn
     name: マムブ語

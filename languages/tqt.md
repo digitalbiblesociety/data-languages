@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توتوناك الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Westliches Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "totonaque d'Ozomatlán"
   - translation_iso: hin
     name: पश्चिमी तोतोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Totonac
     auto: true
   - translation_iso: jpn
     name: 西トトナク語

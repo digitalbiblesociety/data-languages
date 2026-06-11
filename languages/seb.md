@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شيمبير سينوفو
     auto: true
+  - translation_iso: ben
+    name: শেমপিরে সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Schempire
   - translation_iso: fra
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शेम्पिरे सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shempire Senoufo
     auto: true
   - translation_iso: jpn
     name: シェンピレ語

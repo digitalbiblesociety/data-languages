@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ماسلام
     auto: true
+  - translation_iso: ben
+    name: মাসলাম
+    auto: true
   - translation_iso: deu
     name: Maslam
   - translation_iso: fra
     name: maslam
   - translation_iso: hin
     name: मासलाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maslam
     auto: true
   - translation_iso: jpn
     name: マスラム語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناويتي
     auto: true
+  - translation_iso: ben
+    name: নাউএতে
+    auto: true
   - translation_iso: deu
     name: Naueti
   - translation_iso: fra
     name: nauete
   - translation_iso: hin
     name: नौएते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nauete
     auto: true
   - translation_iso: jpn
     name: ナウエテ語

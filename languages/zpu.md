@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك يالاليغ
     auto: true
+  - translation_iso: ben
+    name: য়ালালাগ জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Yalálag)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Yalálag
   - translation_iso: hin
     name: यालालाग सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yalálag Zapotec
     auto: true
   - translation_iso: jpn
     name: ヤララグ・サポテク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوجورو
     auto: true
+  - translation_iso: ben
+    name: বোগুরু
+    auto: true
   - translation_iso: deu
     name: Boguru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: boguru
   - translation_iso: hin
     name: बोगुरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boguru
     auto: true
   - translation_iso: jpn
     name: ボグル語

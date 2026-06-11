@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جنوب نامبيكوارا
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন নামবিকুয়ারা
+    auto: true
   - translation_iso: deu
     name: Nambikwara
   - translation_iso: fra
     name: nambikwara
   - translation_iso: hin
     name: दक्षिणी नांबिकुआरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Nambikuára
     auto: true
   - translation_iso: jpn
     name: 南ナンビクワラ語

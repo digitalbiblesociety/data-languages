@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة منجبوتو
     auto: true
+  - translation_iso: ben
+    name: মাংবুতু
+    auto: true
   - translation_iso: deu
     name: Mangbutu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mangbutu
   - translation_iso: hin
     name: मांगबुतु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mangbutu
     auto: true
   - translation_iso: jpn
     name: マングトゥ語

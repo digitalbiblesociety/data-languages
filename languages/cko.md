@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الأنوفو
     auto: true
+  - translation_iso: ben
+    name: আনুফো
+    auto: true
   - translation_iso: deu
     name: Anufo
   - translation_iso: fra
     name: anufo
   - translation_iso: hin
     name: अनुफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Anufo
     auto: true
   - translation_iso: jpn
     name: アヌフォ語

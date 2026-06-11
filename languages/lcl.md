@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليسيلا
     auto: true
+  - translation_iso: ben
+    name: লিসেলা
+    auto: true
   - translation_iso: deu
     name: Lisela
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lisela
   - translation_iso: hin
     name: लिसेला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lisela
     auto: true
   - translation_iso: jpn
     name: リセラ語

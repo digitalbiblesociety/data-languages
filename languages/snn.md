@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيونا
     auto: true
+  - translation_iso: ben
+    name: সিওনা
+    auto: true
   - translation_iso: deu
     name: Siona
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: siona
   - translation_iso: hin
     name: सिओना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siona
     auto: true
   - translation_iso: jpn
     name: ガンテーヤコカ語

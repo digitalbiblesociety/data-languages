@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إتولو
     auto: true
+  - translation_iso: ben
+    name: এতুলো
+    auto: true
   - translation_iso: deu
     name: Etulo
   - translation_iso: fra
     name: etulo
   - translation_iso: hin
     name: एतुलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Etulo
     auto: true
   - translation_iso: jpn
     name: エトゥロ語

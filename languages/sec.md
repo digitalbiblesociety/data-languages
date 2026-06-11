@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيتشيلت
     auto: true
+  - translation_iso: ben
+    name: সেচেলত
+    auto: true
   - translation_iso: deu
     name: Sechelt
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sechelt
   - translation_iso: hin
     name: सेचेल्ट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sechelt
     auto: true
   - translation_iso: jpn
     name: シーシェルト語

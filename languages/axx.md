@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة خاراجوري
     auto: true
+  - translation_iso: ben
+    name: কসারাগুরে
+    auto: true
   - translation_iso: deu
     name: Xârâgurè
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: xaragurè
   - translation_iso: hin
     name: ख़ारागुरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xârâgurè
     auto: true
   - translation_iso: jpn
     name: シャラグレ語

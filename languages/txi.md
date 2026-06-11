@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إكبينج
     auto: true
+  - translation_iso: ben
+    name: ইকপেং
+    auto: true
   - translation_iso: deu
     name: Ikpeng
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ikpeng
   - translation_iso: hin
     name: इक्पेंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ikpeng
     auto: true
   - translation_iso: jpn
     name: イクペング語

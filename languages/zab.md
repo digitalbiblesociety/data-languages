@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تلاكولولا الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন তলাকোলুলা ভাল্লেয় জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (West-Tlacolula-Tal)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de San Juan Guelavía
   - translation_iso: hin
     name: पश्चिमी त्लाकोलूला घाटी ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Tlacolula Valley Zapotec
     auto: true
   - translation_iso: jpn
     name: ウェスタン・トラコルラ・バレー・サポテク語

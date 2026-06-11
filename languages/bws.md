@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بومْبوما
     auto: true
+  - translation_iso: ben
+    name: বোমবোমা
+    auto: true
   - translation_iso: deu
     name: Bomboma
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बोम्बोमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bomboma
     auto: true
   - translation_iso: jpn
     name: ボンボマ語

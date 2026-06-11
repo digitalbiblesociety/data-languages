@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موروبالاما
     auto: true
+  - translation_iso: ben
+    name: মোর্রোবালামা
+    auto: true
   - translation_iso: deu
     name: Morrobalama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: morrobalama
   - translation_iso: hin
     name: मोरोबालामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Morrobalama
     auto: true
   - translation_iso: jpn
     name: モロバラマ語

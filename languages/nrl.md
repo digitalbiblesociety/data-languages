@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغارلوما
     auto: true
+  - translation_iso: ben
+    name: ঙারলুমা
+    auto: true
   - translation_iso: deu
     name: Ngarluma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngarluma
   - translation_iso: hin
     name: नगारलुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngarluma
     auto: true
   - translation_iso: jpn
     name: ングアルマ語

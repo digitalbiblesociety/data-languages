@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথ আওয়য়ু
+    auto: true
   - translation_iso: deu
     name: Süd-Awyu
     auto: true

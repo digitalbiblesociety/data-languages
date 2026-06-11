@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pontic_Greek"
 translations:
   - translation_iso: ara
     name: يونانية البنطس
+  - translation_iso: ben
+    name: পোনতিক
+    auto: true
   - translation_iso: deu
     name: Pontisch
   - translation_iso: fra

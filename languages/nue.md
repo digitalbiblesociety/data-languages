@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نغوندو
     auto: true
+  - translation_iso: ben
+    name: ঙুনদু
+    auto: true
   - translation_iso: deu
     name: Ngundu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ngundu
   - translation_iso: hin
     name: न्गुंडु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngundu
     auto: true
   - translation_iso: jpn
     name: ングンドゥ語

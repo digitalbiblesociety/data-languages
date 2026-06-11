@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tawellemmet_language"
 translations:
   - translation_iso: ara
     name: تاولميت
+  - translation_iso: ben
+    name: তাওয়াল্লাম্মাত তামাজাক
+    auto: true
   - translation_iso: deu
     name: Tawellemet
   - translation_iso: fra
     name: tawellemmet
   - translation_iso: hin
     name: तावल्लम्मत तामाजाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tawallammat Tamajaq
     auto: true
   - translation_iso: jpn
     name: タワラマト・タマジャク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشايوكو
     auto: true
+  - translation_iso: ben
+    name: চায়ুকো মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Chayuco Mixtec
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mixtèque de Chayuco
   - translation_iso: hin
     name: चायुको मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chayuco Mixtec
     auto: true
   - translation_iso: jpn
     name: チャユコ・ミステク語

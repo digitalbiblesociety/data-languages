@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نكوتو
     auto: true
+  - translation_iso: ben
+    name: নকুতু
+    auto: true
   - translation_iso: deu
     name: Nkutu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nkutu
   - translation_iso: hin
     name: नकुतु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkutu
     auto: true
   - translation_iso: jpn
     name: ンクツ語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: आयुत्ला मिश्तेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayutla Mixtec
+    auto: true
   - translation_iso: jpn
     name: アユトラ・ミステク語
     auto: true

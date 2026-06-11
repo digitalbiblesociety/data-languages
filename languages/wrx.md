@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واي رانا
     auto: true
+  - translation_iso: ben
+    name: ওয়াএ রানা
+    auto: true
   - translation_iso: deu
     name: Wae Rana
   - translation_iso: fra

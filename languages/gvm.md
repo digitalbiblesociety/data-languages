@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غورمآنآ
     auto: true
+  - translation_iso: ben
+    name: গুরমানা
+    auto: true
   - translation_iso: deu
     name: Gurmana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gurmana
   - translation_iso: hin
     name: गुर्माना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gurmana
     auto: true
   - translation_iso: jpn
     name: グルマナ語

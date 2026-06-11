@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة وكو
     auto: true
+  - translation_iso: ben
+    name: লোকো
+    auto: true
   - translation_iso: deu
     name: Loko
   - translation_iso: fra
     name: loko
   - translation_iso: hin
     name: लोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loko
     auto: true
   - translation_iso: jpn
     name: ロコ語

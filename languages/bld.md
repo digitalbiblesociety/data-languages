@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بولانجو
     auto: true
+  - translation_iso: ben
+    name: বোলাঙো
+    auto: true
   - translation_iso: deu
     name: Bolango
     auto: true

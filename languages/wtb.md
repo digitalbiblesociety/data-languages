@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ماتامبوي
     auto: true
+  - translation_iso: ben
+    name: মাতামবওয়ে
+    auto: true
   - translation_iso: deu
     name: Matambwe
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मातांब्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matambwe
     auto: true
   - translation_iso: jpn
     name: マタンブウェ語

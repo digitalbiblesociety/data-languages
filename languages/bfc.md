@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بانيي باي
     auto: true
+  - translation_iso: ben
+    name: পানয়ি বাই
+    auto: true
   - translation_iso: deu
     name: Panyi Bai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bai septentrional
   - translation_iso: hin
     name: पान्यी बाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Panyi Bai
     auto: true
   - translation_iso: jpn
     name: パニ・バイ語

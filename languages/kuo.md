@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوموكيو
     auto: true
+  - translation_iso: ben
+    name: কুমুকিও
+    auto: true
   - translation_iso: deu
     name: Kumukio
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुमुकियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kumukio
     auto: true
   - translation_iso: jpn
     name: クムキオ語

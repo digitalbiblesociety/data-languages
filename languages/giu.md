@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مولآو
     auto: true
+  - translation_iso: ben
+    name: মুলাও
+    auto: true
   - translation_iso: deu
     name: Mulao
     auto: true

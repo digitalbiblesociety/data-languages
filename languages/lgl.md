@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة الا
     auto: true
+  - translation_iso: ben
+    name: ওয়ালা
+    auto: true
   - translation_iso: deu
     name: Wala
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wala
   - translation_iso: hin
     name: वाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wala
     auto: true
   - translation_iso: jpn
     name: ワラ語

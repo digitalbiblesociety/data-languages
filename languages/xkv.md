@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كالاجادي
     auto: true
+  - translation_iso: ben
+    name: কগালাগাদি
+    auto: true
   - translation_iso: deu
     name: Kgalagadi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kgalagadi
   - translation_iso: hin
     name: कागालागादी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kgalagadi
     auto: true
   - translation_iso: jpn
     name: カラガディ語

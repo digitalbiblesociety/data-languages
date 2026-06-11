@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बीके
     auto: true
+  - translation_iso: ind
+    name: Bahasa Beeke
+    auto: true
   - translation_iso: jpn
     name: ベーケ語
     auto: true

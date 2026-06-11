@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة بونو جيونج ناي
     auto: true
+  - translation_iso: ben
+    name: জিওংনাই বুনু
+    auto: true
   - translation_iso: deu
     name: Jiongnai
   - translation_iso: fra
     name: bunu jiongnai
   - translation_iso: hin
     name: च्योंगनाई बुनु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jiongnai Bunu
     auto: true
   - translation_iso: jpn
     name: 炯奈語

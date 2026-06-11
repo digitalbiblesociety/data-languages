@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ يانغ
     auto: true
+  - translation_iso: ben
+    name: য়াং ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Yang-Zhuang
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zhuang de Dejing
   - translation_iso: hin
     name: यांग ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yang Zhuang
     auto: true
   - translation_iso: jpn
     name: 徳靖チワン語

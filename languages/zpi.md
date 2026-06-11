@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا ماريا كويغولاني
     auto: true
+  - translation_iso: ben
+    name: সানতা মারিয়া কুইএগোলানি জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Santa María Quiegolani)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Santa María Quiegolani
   - translation_iso: hin
     name: सांता मारिया कियेगोलानी सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa María Quiegolani Zapotec
     auto: true
   - translation_iso: jpn
     name: キエゴラニ・サポテク語

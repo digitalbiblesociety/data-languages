@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنجليزية بيدجين الصينية
     auto: true
+  - translation_iso: ben
+    name: চিনেসে পিদগিন এংলিশ
+    auto: true
   - translation_iso: deu
     name: Chinesisches Pidgin-Englisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pidgin chinois
   - translation_iso: hin
     name: चीनी पिजिन अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chinese Pidgin English
     auto: true
   - translation_iso: jpn
     name: 中国ピジン語

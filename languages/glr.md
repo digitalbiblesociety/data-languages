@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غلآرو-توآبو
     auto: true
+  - translation_iso: ben
+    name: গলারো-তওয়াবো
+    auto: true
   - translation_iso: deu
     name: Glaro-Twabo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ग्लारो-त्वाबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Glaro-Twabo
     auto: true
   - translation_iso: jpn
     name: グラロ・トワボ語

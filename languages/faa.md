@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفاسو
     auto: true
+  - translation_iso: ben
+    name: ফাসু
+    auto: true
   - translation_iso: deu
     name: Fasu
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: fasu
   - translation_iso: hin
     name: फासू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fasu
     auto: true
   - translation_iso: jpn
     name: ファス語

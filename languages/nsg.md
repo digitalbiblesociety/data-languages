@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغاسا
     auto: true
+  - translation_iso: ben
+    name: ঙাসা
+    auto: true
   - translation_iso: deu
     name: Ngasa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ongamo
   - translation_iso: hin
     name: न्गासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngasa
     auto: true
   - translation_iso: jpn
     name: ンガサ語

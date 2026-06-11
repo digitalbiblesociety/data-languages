@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الفلايتال
     auto: true
+  - translation_iso: ben
+    name: ফলাইতাল
+    auto: true
   - translation_iso: deu
     name: Tsotsitaal
   - translation_iso: fra

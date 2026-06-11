@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ساذرن كاتانج
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কাতাং
+    auto: true
   - translation_iso: deu
     name: Süd-Katang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: katang du Sud
   - translation_iso: hin
     name: दक्षिणी कातांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Katang
     auto: true
   - translation_iso: jpn
     name: サザン・カタン語

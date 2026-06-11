@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوروهاّ
     auto: true
+  - translation_iso: ben
+    name: সুরুয়াহা
+    auto: true
   - translation_iso: deu
     name: Suruahá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suruwahá
   - translation_iso: hin
     name: सुरुआहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suruahá
     auto: true
   - translation_iso: jpn
     name: スルアハ語

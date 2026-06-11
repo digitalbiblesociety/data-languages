@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة صابح مالاي
     auto: true
+  - translation_iso: ben
+    name: সাবাহ মালায়
+    auto: true
   - translation_iso: deu
     name: Sabah-Malaiisch
     auto: true

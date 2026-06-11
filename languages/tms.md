@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tima_language"
 translations:
   - translation_iso: ara
     name: لغة دوموريك
+  - translation_iso: ben
+    name: তিমা
+    auto: true
   - translation_iso: deu
     name: Tima
   - translation_iso: fra
     name: tima
   - translation_iso: hin
     name: तिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tima
     auto: true
   - translation_iso: jpn
     name: ティマ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان توبو
     auto: true
+  - translation_iso: ben
+    name: পুনান তুবু
+    auto: true
   - translation_iso: deu
     name: Punan Tubu
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايس
     auto: true
+  - translation_iso: ben
+    name: কাইস
+    auto: true
   - translation_iso: deu
     name: Kais
     auto: true

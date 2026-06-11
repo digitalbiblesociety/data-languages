@@ -30,6 +30,9 @@ translations:
     name: naga poumei
   - translation_iso: hin
     name: पोउला भाषा
+  - translation_iso: ind
+    name: Bahasa Poumei Naga
+    auto: true
   - translation_iso: jpn
     name: ポウメイナガ語
     auto: true

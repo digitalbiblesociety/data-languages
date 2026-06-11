@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: ben
+    name: বুলি
+    auto: true
   - translation_iso: deu
     name: Buli
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: buli
   - translation_iso: hin
     name: बुली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buli
     auto: true
   - translation_iso: jpn
     name: バラワ語

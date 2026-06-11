@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآكö
     auto: true
+  - translation_iso: ben
+    name: হাকো
+    auto: true
   - translation_iso: deu
     name: Hakö
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hakö
   - translation_iso: hin
     name: हाको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hakö
     auto: true
   - translation_iso: jpn
     name: ハコ語

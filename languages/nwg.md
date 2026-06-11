@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نغايوانغ
     auto: true
+  - translation_iso: ben
+    name: ঙায়াওয়ুং
+    auto: true
   - translation_iso: deu
     name: Ngayawung
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: ngayawung
   - translation_iso: hin
     name: न्गायावुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngayawung
     auto: true
   - translation_iso: jpn
     name: ンガヤウング語

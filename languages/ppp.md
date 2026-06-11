@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليندي
     auto: true
+  - translation_iso: ben
+    name: পেলেনদে
+    auto: true
   - translation_iso: deu
     name: Pelende
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: pelende
   - translation_iso: hin
     name: पेलेंडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pelende
     auto: true
   - translation_iso: jpn
     name: ペレンデ語

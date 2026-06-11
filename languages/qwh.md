@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوايلاس أنكاش
     auto: true
+  - translation_iso: ben
+    name: হুয়ায়লাস আনকাশ কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Huaylas-Ancash-Quechua
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: quechua ancash de Huaylas
   - translation_iso: hin
     name: वायलास आंकाश क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huaylas Ancash Quechua
     auto: true
   - translation_iso: jpn
     name: ワイラスアンカシュケチュア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شيكي
     auto: true
+  - translation_iso: ben
+    name: শিকি
+    auto: true
   - translation_iso: deu
     name: Shiki
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: shiki
   - translation_iso: hin
     name: शिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shiki
     auto: true
   - translation_iso: jpn
     name: シキ語

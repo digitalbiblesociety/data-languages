@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيانغ
     auto: true
+  - translation_iso: ben
+    name: তিয়াং
+    auto: true
   - translation_iso: deu
     name: Tiang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tiang
   - translation_iso: hin
     name: तियांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiang
     auto: true
   - translation_iso: jpn
     name: ティアン語

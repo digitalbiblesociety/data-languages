@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داجاري ديولا
     auto: true
+  - translation_iso: ben
+    name: দাগারি দিওউলা
+    auto: true
   - translation_iso: deu
     name: Dagaari Dioula
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dagaari dioula
   - translation_iso: hin
     name: दगारी दिउला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dagaari Dioula
     auto: true
   - translation_iso: jpn
     name: ダガアリ・ジウラ語

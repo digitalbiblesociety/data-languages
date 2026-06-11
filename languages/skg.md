@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملاجاسي سكالافا
     auto: true
+  - translation_iso: ben
+    name: সাকালাভা মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Sakalava-Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sakalava
   - translation_iso: hin
     name: साकालावा मालागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sakalava Malagasy
     auto: true
   - translation_iso: jpn
     name: サカラヴァ・マダガスカル語

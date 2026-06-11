@@ -23,12 +23,18 @@ translations:
   - translation_iso: ara
     name: لغة كرمانجكي
     auto: true
+  - translation_iso: ben
+    name: কিরমানজকি
+    auto: true
   - translation_iso: deu
     name: Kırmancki
   - translation_iso: fra
     name: Kırmancki
   - translation_iso: hin
     name: किरमांजकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kirmanjki
     auto: true
   - translation_iso: jpn
     name: キルマンジュキ語

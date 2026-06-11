@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: ऑस्ट्रियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Austrian Sign Language
+    auto: true
   - translation_iso: jpn
     name: オーストリア手話
   - translation_iso: kor

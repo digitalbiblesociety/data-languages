@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اليوبيك الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল য়ুপিক
+    auto: true
   - translation_iso: deu
     name: "Yup'ik"
   - translation_iso: fra
     name: "yupik de l'Alaska central"
   - translation_iso: hin
     name: मध्य युपिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Yupik
     auto: true
   - translation_iso: jpn
     name: 中央アラスカ・ユピック語

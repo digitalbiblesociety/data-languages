@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ناوو
     auto: true
+  - translation_iso: ben
+    name: নাউও
+    auto: true
   - translation_iso: deu
     name: Nauo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नाउओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nauo
     auto: true
   - translation_iso: jpn
     name: ナウオ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Qatab%C4%81nian_language"
 translations:
   - translation_iso: ara
     name: قتبانية
+  - translation_iso: ben
+    name: কাতাবানিয়ান
+    auto: true
   - translation_iso: deu
     name: Qatabanisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: qatabanien
   - translation_iso: hin
     name: कताबानियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Qatabanian
     auto: true
   - translation_iso: jpn
     name: カタバン語

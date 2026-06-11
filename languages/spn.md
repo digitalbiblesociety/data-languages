@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سانابانا
     auto: true
+  - translation_iso: ben
+    name: সানাপানা
+    auto: true
   - translation_iso: deu
     name: Sanapaná
   - translation_iso: fra
     name: sanapaná
   - translation_iso: hin
     name: सानापाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sanapaná
     auto: true
   - translation_iso: jpn
     name: サナパナパイボマ語

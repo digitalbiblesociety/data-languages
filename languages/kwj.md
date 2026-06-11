@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوانجا
     auto: true
+  - translation_iso: ben
+    name: কওয়াঙা
+    auto: true
   - translation_iso: deu
     name: Kwanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kwanga
   - translation_iso: hin
     name: क्वांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwanga
     auto: true
   - translation_iso: jpn
     name: クワンガ語

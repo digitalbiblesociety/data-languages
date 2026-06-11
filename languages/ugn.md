@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة الأوغندية
     auto: true
+  - translation_iso: ben
+    name: উগানদান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Ugandische Gebärdensprache
   - translation_iso: fra
     name: langue des signes ougandaise
   - translation_iso: hin
     name: युगांडा सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ugandan Sign Language
     auto: true
   - translation_iso: jpn
     name: ウガンダ手話

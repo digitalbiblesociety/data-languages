@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अयू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayu
+    auto: true
   - translation_iso: jpn
     name: アユ語
     auto: true

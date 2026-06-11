@@ -31,6 +31,9 @@ translations:
     name: mewati
   - translation_iso: hin
     name: मेवाती
+  - translation_iso: ind
+    name: Bahasa Mewati
+    auto: true
   - translation_iso: jpn
     name: メワティ語
     auto: true

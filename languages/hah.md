@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هآهون
     auto: true
+  - translation_iso: ben
+    name: হাহোন
+    auto: true
   - translation_iso: deu
     name: Hahon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hahon
   - translation_iso: hin
     name: हाहोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hahon
     auto: true
   - translation_iso: jpn
     name: ハホン語

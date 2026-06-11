@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरिगिदी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arigidi
+    auto: true
   - translation_iso: jpn
     name: アリギディ語
     auto: true

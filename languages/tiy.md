@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيرواي
     auto: true
+  - translation_iso: ben
+    name: তিরুরায়
+    auto: true
   - translation_iso: deu
     name: Tiruray
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tiruray
   - translation_iso: hin
     name: तिरुराय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiruray
     auto: true
   - translation_iso: jpn
     name: ティルライ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बियाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biali
+    auto: true
   - translation_iso: jpn
     name: ビアリ語
     auto: true

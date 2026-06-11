@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अमुन्दावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amundava
+    auto: true
   - translation_iso: jpn
     name: アムンダバ語
     auto: true

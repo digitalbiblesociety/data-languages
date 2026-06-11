@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورو وين
     auto: true
+  - translation_iso: ben
+    name: ওরো ওয়িন
+    auto: true
   - translation_iso: deu
     name: Oro Win
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: oro win
   - translation_iso: hin
     name: ओरो विन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oro Win
     auto: true
   - translation_iso: jpn
     name: オロ・ウィン語

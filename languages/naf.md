@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نابك
     auto: true
+  - translation_iso: ben
+    name: নাবাক
+    auto: true
   - translation_iso: deu
     name: Nabak
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: नाबाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nabak
     auto: true
   - translation_iso: jpn
     name: ナバク語

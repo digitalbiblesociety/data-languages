@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لاناس لوبو
     auto: true
+  - translation_iso: ben
+    name: লানাস লোবু
+    auto: true
   - translation_iso: deu
     name: Lanas-Lobu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lobu lanas
   - translation_iso: hin
     name: लानास लोबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lanas Lobu
     auto: true
   - translation_iso: jpn
     name: ロブ語

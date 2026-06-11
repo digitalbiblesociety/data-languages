@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كريكاتي-تيمبيرا
     auto: true
+  - translation_iso: ben
+    name: করিকাতি-তিমবিরা
+    auto: true
   - translation_iso: deu
     name: Krikati-Timbira
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: krinkati
   - translation_iso: hin
     name: क्रिकाटी-टिम्बिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krikati-Timbira
     auto: true
   - translation_iso: jpn
     name: クリカティ・ティムビラ語

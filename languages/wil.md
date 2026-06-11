@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويلاويلا
     auto: true
+  - translation_iso: ben
+    name: ওয়িলাওয়িলা
+    auto: true
   - translation_iso: deu
     name: Wilawila
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wilawila
   - translation_iso: hin
     name: विलाविला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wilawila
     auto: true
   - translation_iso: jpn
     name: ウィラウィラ語

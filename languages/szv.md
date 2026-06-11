@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إسو
     auto: true
+  - translation_iso: ben
+    name: ইসু
+    auto: true
   - translation_iso: deu
     name: Isu
   - translation_iso: fra
     name: isu
   - translation_iso: hin
     name: इसु (फाको प्रभाग)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isu
     auto: true
   - translation_iso: jpn
     name: イス語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة اهو هي
     auto: true
+  - translation_iso: ben
+    name: লাহু শি
+    auto: true
   - translation_iso: deu
     name: Lahu Shi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lahu shi
   - translation_iso: hin
     name: लाहू शी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lahu Shi
     auto: true
   - translation_iso: jpn
     name: ラフ・シ語

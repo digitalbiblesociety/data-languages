@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيبو
     auto: true
+  - translation_iso: ben
+    name: গেপো
+    auto: true
   - translation_iso: deu
     name: Gepo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गेपो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gepo
     auto: true
   - translation_iso: jpn
     name: ゲポ語

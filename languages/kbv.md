@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ديرا
     auto: true
+  - translation_iso: ben
+    name: দেরা
+    auto: true
   - translation_iso: deu
     name: Dera (Indonesien)
     auto: true

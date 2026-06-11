@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كيلي-آي كالاهان
     auto: true
+  - translation_iso: ben
+    name: কেলেয়-ই কাল্লাহান
+    auto: true
   - translation_iso: deu
     name: Keley-I Kallahan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kallahan keley-i
   - translation_iso: hin
     name: केले-इ कल्लाहान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keley-I Kallahan
     auto: true
   - translation_iso: jpn
     name: ケレイ・イ・カッラハン語

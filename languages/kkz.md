@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كاسكا
     auto: true
+  - translation_iso: ben
+    name: কাসকা
+    auto: true
   - translation_iso: deu
     name: Kaska
   - translation_iso: fra
     name: kaska
   - translation_iso: hin
     name: कास्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaska
     auto: true
   - translation_iso: jpn
     name: カスカ語

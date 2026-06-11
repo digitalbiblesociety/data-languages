@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: منْجوليا بورْيات
     auto: true
+  - translation_iso: ben
+    name: মোঙোলিয়া বুরিয়াত
+    auto: true
   - translation_iso: deu
     name: Mongolisches Burjatisch
     auto: true

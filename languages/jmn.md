@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكوري ناغا
     auto: true
+  - translation_iso: ben
+    name: মাকুরি নাগা
+    auto: true
   - translation_iso: deu
     name: Makuri-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: makuri naga
   - translation_iso: hin
     name: मकुरी नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makuri Naga
     auto: true
   - translation_iso: jpn
     name: マクリ・ナガ語

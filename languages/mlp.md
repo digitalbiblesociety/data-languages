@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बारगाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bargam
+    auto: true
   - translation_iso: jpn
     name: バルガム語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ميرايا بيكول
     auto: true
+  - translation_iso: ben
+    name: মিরায়া বিকোল
+    auto: true
   - translation_iso: deu
     name: Miraya-Bikol
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: bikol miraya
   - translation_iso: hin
     name: मिराया बिकोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miraya Bikol
     auto: true
   - translation_iso: jpn
     name: ミラヤ・ビコール語

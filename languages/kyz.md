@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كايابي
     auto: true
+  - translation_iso: ben
+    name: কায়াবি
+    auto: true
   - translation_iso: deu
     name: Kayabí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kayabi
   - translation_iso: hin
     name: कायाबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayabí
     auto: true
   - translation_iso: jpn
     name: カヤビ語

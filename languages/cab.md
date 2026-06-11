@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: جاريفونا
     auto: true
+  - translation_iso: ben
+    name: গারিফুনা
+    auto: true
   - translation_iso: deu
     name: Garifuna
   - translation_iso: fra
     name: garifuna
   - translation_iso: hin
     name: गारिफुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Garifuna
     auto: true
   - translation_iso: jpn
     name: ガリフナ語

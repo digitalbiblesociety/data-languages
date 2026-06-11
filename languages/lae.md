@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: باتاني
     auto: true
+  - translation_iso: ben
+    name: পাত্তানি
+    auto: true
   - translation_iso: deu
     name: Pattani
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pattani
   - translation_iso: hin
     name: मंचन्द भाषा
+  - translation_iso: ind
+    name: Bahasa Pattani
+    auto: true
   - translation_iso: jpn
     name: パッターニ語
     auto: true

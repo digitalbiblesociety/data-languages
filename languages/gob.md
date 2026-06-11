@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بلآيإرو
     auto: true
+  - translation_iso: ben
+    name: পলায়েরো
+    auto: true
   - translation_iso: deu
     name: Playero
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: playero
   - translation_iso: hin
     name: प्लायेरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Playero
     auto: true
   - translation_iso: jpn
     name: プライェロ語

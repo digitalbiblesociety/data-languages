@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجومبارل
     auto: true
+  - translation_iso: ben
+    name: ঙুমবারলর
+    auto: true
   - translation_iso: deu
     name: Ngumbarl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngumbarl
   - translation_iso: hin
     name: न्गुम्बार्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngumbarl\r
     auto: true
   - translation_iso: jpn
     name: Ngumbarl語

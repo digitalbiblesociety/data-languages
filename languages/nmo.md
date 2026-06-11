@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مويون ناغا
     auto: true
+  - translation_iso: ben
+    name: মোয়োন নাগা
+    auto: true
   - translation_iso: deu
     name: Moyon-Naga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मोयोन भाषा
+  - translation_iso: ind
+    name: Bahasa Moyon Naga
+    auto: true
   - translation_iso: jpn
     name: モヨン・ナガ語
     auto: true

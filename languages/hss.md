@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%E1%B8%A4arsusi_language"
 translations:
   - translation_iso: ara
     name: الحرسوسية
+  - translation_iso: ben
+    name: হারসুসি
+    auto: true
   - translation_iso: deu
     name: Harsusi
   - translation_iso: fra

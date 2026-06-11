@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييس
     auto: true
+  - translation_iso: ben
+    name: য়িস
+    auto: true
   - translation_iso: deu
     name: Yis
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yis
   - translation_iso: hin
     name: यिस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yis
     auto: true
   - translation_iso: jpn
     name: イス語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: وابو
     auto: true
+  - translation_iso: ben
+    name: ওয়াপ্পো
+    auto: true
   - translation_iso: deu
     name: Wappo
   - translation_iso: fra
     name: wappo
   - translation_iso: hin
     name: वाप्पो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wappo
     auto: true
   - translation_iso: jpn
     name: ワッポ語

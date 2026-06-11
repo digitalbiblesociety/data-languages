@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: गलुरी सार्डिनियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Gallurese Sardinian
+    auto: true
   - translation_iso: jpn
     name: ガッルーラ語
   - translation_iso: kor

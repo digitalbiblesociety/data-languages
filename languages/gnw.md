@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: وإستإرن بوليفيآن غوآرآنí
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন বোলিভিয়ান গুয়ারানি
+    auto: true
   - translation_iso: deu
     name: West-Bolivianisches Guaraní
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: guaraní de Bolivie occidental
   - translation_iso: hin
     name: पश्चिमी बोलिवियाई ग्वारानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Bolivian Guaraní
     auto: true
   - translation_iso: jpn
     name: 西部ボリビア・グアラニー語

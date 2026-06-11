@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة اكوروماو
     auto: true
+  - translation_iso: ben
+    name: লাকুরুমাউ
+    auto: true
   - translation_iso: deu
     name: Lakurumau
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: laxudumau
   - translation_iso: hin
     name: लाकुरुमाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lakurumau
     auto: true
   - translation_iso: jpn
     name: ラクルマウ語

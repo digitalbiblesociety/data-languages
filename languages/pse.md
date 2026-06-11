@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملايو الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল মালায়
+    auto: true
   - translation_iso: deu
     name: Zentralmalaiisch
     auto: true

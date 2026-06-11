@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإلكاي
     auto: true
+  - translation_iso: ben
+    name: এলকেই
+    auto: true
   - translation_iso: deu
     name: Elkei
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: elkei
   - translation_iso: hin
     name: एल्केई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Elkei
     auto: true
   - translation_iso: jpn
     name: エルケイ語

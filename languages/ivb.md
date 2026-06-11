@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إيباتان
     auto: true
+  - translation_iso: ben
+    name: ইবাতান
+    auto: true
   - translation_iso: deu
     name: Ibatan
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ibatan
   - translation_iso: hin
     name: इबातान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ibatan
     auto: true
   - translation_iso: jpn
     name: イバタン語

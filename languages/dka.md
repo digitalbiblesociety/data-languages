@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داكباخا
     auto: true
+  - translation_iso: ben
+    name: দাকপাখা
+    auto: true
   - translation_iso: deu
     name: Dakpakha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dakpakha
   - translation_iso: hin
     name: दक्पा भाषा
+  - translation_iso: ind
+    name: Bahasa Dakpakha
+    auto: true
   - translation_iso: jpn
     name: メンパ語
   - translation_iso: kor

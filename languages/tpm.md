@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تامبولما
     auto: true
+  - translation_iso: ben
+    name: তামপুলমা
+    auto: true
   - translation_iso: deu
     name: Tampulma
   - translation_iso: fra
     name: tampulma
   - translation_iso: hin
     name: तामपुलमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tampulma
     auto: true
   - translation_iso: jpn
     name: タンプルマ

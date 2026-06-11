@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كومينيمونج
     auto: true
+  - translation_iso: ben
+    name: কোমিনিমুং
+    auto: true
   - translation_iso: deu
     name: Kominimung
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kominimung
   - translation_iso: hin
     name: कोमिनिमुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kominimung
     auto: true
   - translation_iso: jpn
     name: コミニムング語

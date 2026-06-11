@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: والليسيان
     auto: true
+  - translation_iso: ben
+    name: ওয়াল্লিসিয়ান
+    auto: true
   - translation_iso: deu
     name: Wallisianisch
   - translation_iso: fra
     name: wallisien
   - translation_iso: hin
     name: वालिसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wallisian
     auto: true
   - translation_iso: jpn
     name: ウォリス語

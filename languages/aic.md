@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: ऐनबाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ainbai
+    auto: true
   - translation_iso: jpn
     name: アインバイ語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تينغوي بوتو
     auto: true
+  - translation_iso: ben
+    name: তিঙুই-বোতো
+    auto: true
   - translation_iso: deu
     name: Tingui-Boto
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: tingui-boto
   - translation_iso: hin
     name: तिंगुई-बोतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tingui-Boto
     auto: true
   - translation_iso: jpn
     name: ティングイ・ボト語

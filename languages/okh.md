@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوريش رستم
     auto: true
+  - translation_iso: ben
+    name: কোরেশ-এ রোসতাম
+    auto: true
   - translation_iso: deu
     name: Koresh-e Rostam
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोरेश-ए रोस्ताम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koresh-e Rostam
     auto: true
   - translation_iso: jpn
     name: コレシュエ・ロスタム語

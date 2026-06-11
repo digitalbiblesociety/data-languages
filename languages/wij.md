@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويكيييانه
     auto: true
+  - translation_iso: ben
+    name: ওয়িক-ইয়ানহ
+    auto: true
   - translation_iso: deu
     name: Wik-Iiyanh
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wik-iiyanh
   - translation_iso: hin
     name: विक-इयान्ह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wik-Iiyanh
     auto: true
   - translation_iso: jpn
     name: ウィク・イイヤンハ語

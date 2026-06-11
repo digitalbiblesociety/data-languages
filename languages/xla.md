@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كامولا
     auto: true
+  - translation_iso: ben
+    name: কামুলা
+    auto: true
   - translation_iso: deu
     name: Kamula
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kamula
   - translation_iso: hin
     name: कामुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamula
     auto: true
   - translation_iso: jpn
     name: カムラ語

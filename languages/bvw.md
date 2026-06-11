@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوجا
     auto: true
+  - translation_iso: ben
+    name: বোগা
+    auto: true
   - translation_iso: deu
     name: Boga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: boga
   - translation_iso: hin
     name: बोगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boga
     auto: true
   - translation_iso: jpn
     name: ボガ語

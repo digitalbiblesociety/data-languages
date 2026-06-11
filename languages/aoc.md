@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة بيمون
     auto: true
+  - translation_iso: ben
+    name: পেমোন
+    auto: true
   - translation_iso: deu
     name: Pemón
   - translation_iso: fra
     name: pemon
   - translation_iso: hin
     name: पेमोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pemon
     auto: true
   - translation_iso: jpn
     name: ペモン語

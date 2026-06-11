@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سكيبي كريول دتش
     auto: true
+  - translation_iso: ben
+    name: সকেপি করেওলে দুতচ
+    auto: true
   - translation_iso: deu
     name: Skepi-Kreolniederländisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: स्केपी क्रियोल डच
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Skepi Creole Dutch
     auto: true
   - translation_iso: jpn
     name: スケピクレオール・オランダ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة تيمي
     auto: true
+  - translation_iso: ben
+    name: তেমি
+    auto: true
   - translation_iso: deu
     name: Sonjo
   - translation_iso: fra
     name: temi
   - translation_iso: hin
     name: तेमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Temi
     auto: true
   - translation_iso: jpn
     name: テミ語

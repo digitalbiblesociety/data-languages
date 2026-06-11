@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتال
     auto: true
+  - translation_iso: ben
+    name: মাতাল
+    auto: true
   - translation_iso: deu
     name: Matal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mouktélé
   - translation_iso: hin
     name: माताल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Matal
     auto: true
   - translation_iso: jpn
     name: マタル語

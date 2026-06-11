@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: موموي
     auto: true
+  - translation_iso: ben
+    name: মুমুয়ে
+    auto: true
   - translation_iso: deu
     name: Mumuye
   - translation_iso: fra
     name: mumuye
   - translation_iso: hin
     name: मुमुये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mumuye
     auto: true
   - translation_iso: jpn
     name: ムムイェ語

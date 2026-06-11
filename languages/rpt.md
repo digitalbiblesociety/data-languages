@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رابتينج
     auto: true
+  - translation_iso: ben
+    name: রাপতিং
+    auto: true
   - translation_iso: deu
     name: Rapting
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रैप्टिंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rapting
     auto: true
   - translation_iso: jpn
     name: ラプティング語

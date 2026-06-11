@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كارين جيبا
     auto: true
+  - translation_iso: ben
+    name: গেবা কারেন
+    auto: true
   - translation_iso: deu
     name: Geba-Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: geba
   - translation_iso: hin
     name: गेबा करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Geba Karen
     auto: true
   - translation_iso: jpn
     name: ゲバ・カレン語

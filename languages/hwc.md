@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: हवाई क्रियोल अंग्रेज़ी
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Hawai'i Creole English"
+    auto: true
   - translation_iso: jpn
     name: ハワイ・クレオール英語
   - translation_iso: kor

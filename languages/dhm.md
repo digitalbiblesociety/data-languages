@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زيمبا
     auto: true
+  - translation_iso: ben
+    name: জেমবা
+    auto: true
   - translation_iso: deu
     name: Zemba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zemba
   - translation_iso: hin
     name: ज़ेम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zemba
     auto: true
   - translation_iso: jpn
     name: ゼンバ語

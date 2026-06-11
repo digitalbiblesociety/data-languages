@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاتالتيبك تشاتينو
     auto: true
+  - translation_iso: ben
+    name: তাতালতেপেক চাতিনো
+    auto: true
   - translation_iso: deu
     name: Tataltepec-Chatino
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Chatino de Tataltepec
   - translation_iso: hin
     name: तातालतेपेक चातीनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tataltepec Chatino
     auto: true
   - translation_iso: jpn
     name: タタルテペク・チャティーノ語

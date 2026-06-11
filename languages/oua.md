@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ouargli_language"
 translations:
   - translation_iso: ara
     name: اللهجة الأمازيغية الورقلية
+  - translation_iso: ben
+    name: তাগারগরেনত
+    auto: true
   - translation_iso: deu
     name: Tagargrent
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tagargrent
   - translation_iso: hin
     name: तागार्ग्रेंत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagargrent
     auto: true
   - translation_iso: jpn
     name: ワルグラ語

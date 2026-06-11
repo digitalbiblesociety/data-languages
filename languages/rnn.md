@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رون
     auto: true
+  - translation_iso: ben
+    name: রোন
+    auto: true
   - translation_iso: deu
     name: Roon
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الغوندية الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন গোনদি
+    auto: true
   - translation_iso: deu
     name: Nördliches Gondi
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: gondi du Nord
   - translation_iso: hin
     name: उत्तरी गोंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Gondi
     auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語

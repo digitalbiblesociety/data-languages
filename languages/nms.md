@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليتيمبوي
     auto: true
+  - translation_iso: ben
+    name: লেতেমবোই
+    auto: true
   - translation_iso: deu
     name: Letemboi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: letemboi
   - translation_iso: hin
     name: लेतेम्बोई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Letemboi
     auto: true
   - translation_iso: jpn
     name: ムボットゴテ語

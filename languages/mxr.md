@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موريك ماليزيا
     auto: true
+  - translation_iso: ben
+    name: মুরিক
+    auto: true
   - translation_iso: deu
     name: Murik (Malaysia)
     auto: true

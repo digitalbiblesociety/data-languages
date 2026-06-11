@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غييوغ
     auto: true
+  - translation_iso: ben
+    name: গিয়ুগ
+    auto: true
   - translation_iso: deu
     name: Giyug
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: giyug
   - translation_iso: hin
     name: गियुग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Giyug
     auto: true
   - translation_iso: jpn
     name: ギユグ語

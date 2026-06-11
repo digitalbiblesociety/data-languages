@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توما-إيروموو
     auto: true
+  - translation_iso: ben
+    name: তুমা-ইরুমু
+    auto: true
   - translation_iso: deu
     name: Tuma-Irumu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तुमा-इरुमू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tuma-Irumu
     auto: true
   - translation_iso: jpn
     name: トゥマ・イルム語

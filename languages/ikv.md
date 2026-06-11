@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيكو-غورا-أنكوا
     auto: true
+  - translation_iso: ben
+    name: ইকু-গোরা-আনকওয়া
+    auto: true
   - translation_iso: deu
     name: Iku-Gora-Ankwa
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इकु-गोरा-अंक्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iku-Gora-Ankwa
     auto: true
   - translation_iso: jpn
     name: イク・ゴラ・アンクワ語

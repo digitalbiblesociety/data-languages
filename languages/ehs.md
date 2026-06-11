@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Miyakubo
     auto: true
+  - translation_iso: ben
+    name: মিয়াকুবো সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Miyakubo-Gebärdensprache
     auto: true

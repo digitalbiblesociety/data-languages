@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كايريرو
     auto: true
+  - translation_iso: ben
+    name: কাইরিরু
+    auto: true
   - translation_iso: deu
     name: Kairiru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kairiru
   - translation_iso: hin
     name: कैरिरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kairiru
     auto: true
   - translation_iso: jpn
     name: カイリル語

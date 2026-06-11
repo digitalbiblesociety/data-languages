@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريثارنجو
     auto: true
+  - translation_iso: ben
+    name: রিথার্রঙু
+    auto: true
   - translation_iso: deu
     name: Ritharrngu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ritarungo
   - translation_iso: hin
     name: रिथार्न्गु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ritharrngu
     auto: true
   - translation_iso: jpn
     name: リサルングー語

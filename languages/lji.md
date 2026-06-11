@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اييولو
     auto: true
+  - translation_iso: ben
+    name: লাইয়োলো
+    auto: true
   - translation_iso: deu
     name: Laiyolo
     auto: true

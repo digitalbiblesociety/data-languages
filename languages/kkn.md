@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة كون كيو
     auto: true
+  - translation_iso: ben
+    name: কোন কেউ
+    auto: true
   - translation_iso: deu
     name: Kon Keu
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kon keu
   - translation_iso: hin
     name: कोन क्यू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kon Keu
     auto: true
   - translation_iso: jpn
     name: コン・クー語

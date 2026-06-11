@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كوادزا
     auto: true
+  - translation_iso: ben
+    name: কওয়াদজা
+    auto: true
   - translation_iso: deu
     name: "Kw'adza"
   - translation_iso: fra
     name: "kw'adza"
   - translation_iso: hin
     name: क्वाद्ज़ा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Kw'adza"
     auto: true
   - translation_iso: jpn
     name: クァザ語

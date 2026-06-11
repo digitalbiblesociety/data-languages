@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورو
     auto: true
+  - translation_iso: ben
+    name: ওরো
+    auto: true
   - translation_iso: deu
     name: Oro
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oro
     auto: true
   - translation_iso: jpn
     name: オロ語

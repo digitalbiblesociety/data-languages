@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندوم
     auto: true
+  - translation_iso: ben
+    name: নদোম
+    auto: true
   - translation_iso: deu
     name: Ndom
   - translation_iso: fra

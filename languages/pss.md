@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاولونج
     auto: true
+  - translation_iso: ben
+    name: কাউলোং
+    auto: true
   - translation_iso: deu
     name: Kaulong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kaulong
   - translation_iso: hin
     name: काउलोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaulong
     auto: true
   - translation_iso: jpn
     name: パシスマヌア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سويالتيبك ميكستيك
     auto: true
+  - translation_iso: ben
+    name: সোয়ালতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Soyaltepec-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोयाल्तेपेक मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Soyaltepec Mixtec
     auto: true
   - translation_iso: jpn
     name: ソヤルテペク・ミシテク語

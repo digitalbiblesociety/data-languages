@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अजा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aja
+    auto: true
   - translation_iso: jpn
     name: アジャ語
     auto: true

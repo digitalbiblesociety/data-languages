@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو
     auto: true
+  - translation_iso: ben
+    name: সেকু
+    auto: true
   - translation_iso: deu
     name: Seenku
   - translation_iso: fra
     name: sembla
   - translation_iso: hin
     name: सीकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seeku
     auto: true
   - translation_iso: jpn
     name: センブラ語

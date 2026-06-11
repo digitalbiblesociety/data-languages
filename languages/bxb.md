@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेलांडा बोर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Belanda Bor
+    auto: true
   - translation_iso: jpn
     name: ベランダ・ボル語
   - translation_iso: kor

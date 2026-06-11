@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: أوس-سااري
     auto: true
+  - translation_iso: ben
+    name: উস-সারে
+    auto: true
   - translation_iso: deu
     name: us-Saare
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: us-saare
   - translation_iso: hin
     name: उस-सारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa us-Saare
     auto: true
   - translation_iso: jpn
     name: ドゥカ語

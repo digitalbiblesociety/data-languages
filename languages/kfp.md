@@ -30,6 +30,9 @@ translations:
     name: korwa
   - translation_iso: hin
     name: कोरवा भाषा
+  - translation_iso: ind
+    name: Bahasa Korwa
+    auto: true
   - translation_iso: jpn
     name: コルワ語
   - translation_iso: kor

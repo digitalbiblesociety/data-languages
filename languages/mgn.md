@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مبانجي
     auto: true
+  - translation_iso: ben
+    name: মবাঙি
+    auto: true
   - translation_iso: deu
     name: Mbangi
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: mbangi
   - translation_iso: hin
     name: म्बांगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbangi
     auto: true
   - translation_iso: jpn
     name: ムバンギ語

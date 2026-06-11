@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كريول الجزيرة الإنجليزية
     auto: true
+  - translation_iso: ben
+    name: ইসলানদের করেওলে এংলিশ
+    auto: true
   - translation_iso: deu
     name: Islander-Kreolenglisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: créole de San Andrés et Providencia
   - translation_iso: hin
     name: आइलैंडर क्रियोल अंग्रेज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Islander Creole English
     auto: true
   - translation_iso: jpn
     name: アイランダー・クレオール・イングリッシュ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: داتوغا
     auto: true
+  - translation_iso: ben
+    name: দাতোগা
+    auto: true
   - translation_iso: deu
     name: Datooga
   - translation_iso: fra
     name: datooga
   - translation_iso: hin
     name: दातूगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Datooga
     auto: true
   - translation_iso: jpn
     name: ダトガ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: توركا
     auto: true
+  - translation_iso: ben
+    name: তুরকা
+    auto: true
   - translation_iso: deu
     name: Tschurama
   - translation_iso: fra
     name: tchourama
   - translation_iso: hin
     name: तुर्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Turka
     auto: true
   - translation_iso: jpn
     name: トゥラマ語

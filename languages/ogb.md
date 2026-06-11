@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبيا
     auto: true
+  - translation_iso: ben
+    name: ওগবিয়া
+    auto: true
   - translation_iso: deu
     name: Ogbia
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ogbia
   - translation_iso: hin
     name: ओग्बिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ogbia
     auto: true
   - translation_iso: jpn
     name: オグビア語

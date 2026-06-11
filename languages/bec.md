@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إيسيفي ماسي
     auto: true
+  - translation_iso: ben
+    name: ইকেভে-মাকি
+    auto: true
   - translation_iso: deu
     name: Iceve-Maci
   - translation_iso: fra
     name: iceve-maci
   - translation_iso: hin
     name: इचेवे-माची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iceve-Maci
     auto: true
   - translation_iso: jpn
     name: イセヴェ・マシ語

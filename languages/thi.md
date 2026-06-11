@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاي لونغ
     auto: true
+  - translation_iso: ben
+    name: তাই লোং
+    auto: true
   - translation_iso: deu
     name: Tai Long
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: tai long
   - translation_iso: hin
     name: ताई लोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Long
     auto: true
   - translation_iso: jpn
     name: タイ・ロン語

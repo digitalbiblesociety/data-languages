@@ -30,6 +30,9 @@ translations:
     name: digaro-mishmi
   - translation_iso: hin
     name: तरुआंग भाषा
+  - translation_iso: ind
+    name: Bahasa Digaro-Mishmi
+    auto: true
   - translation_iso: jpn
     name: ディガロ・ミシミ語
     auto: true

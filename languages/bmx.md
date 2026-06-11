@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बैमक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baimak
+    auto: true
   - translation_iso: jpn
     name: バイマク語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة بها بويانج
     auto: true
+  - translation_iso: ben
+    name: বাহা বুয়াং
+    auto: true
   - translation_iso: deu
     name: Baha Buyang
     auto: true

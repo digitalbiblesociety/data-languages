@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوكبيه-بايوبيري
     auto: true
+  - translation_iso: ben
+    name: উকপে-বায়োবিরি
+    auto: true
   - translation_iso: deu
     name: Ukpe-Bayobiri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ukpe-bayobiri
   - translation_iso: hin
     name: उक्पे-बायोबिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ukpe-Bayobiri
     auto: true
   - translation_iso: jpn
     name: ウクペ・バヨビリ語

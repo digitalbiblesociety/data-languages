@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة التوعابيتا
     auto: true
+  - translation_iso: ben
+    name: তোয়াবাইতা
+    auto: true
   - translation_iso: deu
     name: "To'abaita"
   - translation_iso: fra
     name: toqabaqita
   - translation_iso: hin
     name: तोआबाइता
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa To'abaita"
     auto: true
   - translation_iso: jpn
     name: トゥアバイタ語

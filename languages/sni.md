@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السينسي
     auto: true
+  - translation_iso: ben
+    name: সেনসি
+    auto: true
   - translation_iso: deu
     name: Sensi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेन्सी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sensi
     auto: true
   - translation_iso: jpn
     name: テンティ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سوبانين الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল সুবানেন
+    auto: true
   - translation_iso: deu
     name: Central Subanen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: subanen central
   - translation_iso: hin
     name: मध्य सुबानेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Subanen
     auto: true
   - translation_iso: jpn
     name: 中央スバネン語

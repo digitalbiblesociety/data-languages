@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورما
     auto: true
+  - translation_iso: ben
+    name: ওরমা
+    auto: true
   - translation_iso: deu
     name: Orma
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: orma
   - translation_iso: hin
     name: ओर्मा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Orma
     auto: true
   - translation_iso: jpn
     name: オルマ語

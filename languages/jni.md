@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة جانجي
     auto: true
+  - translation_iso: ben
+    name: জানজি
+    auto: true
   - translation_iso: deu
     name: Janji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: janji
   - translation_iso: hin
     name: जांजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Janji
     auto: true
   - translation_iso: jpn
     name: ジャンジ語

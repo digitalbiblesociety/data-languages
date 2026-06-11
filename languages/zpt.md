@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان فيسينتي كوتلان
     auto: true
+  - translation_iso: ben
+    name: সান ভিকেনতে কোয়াতলান জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (San Vicente Coatlán)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de San Vicente Coatlán
   - translation_iso: hin
     name: सान विसेन्ते कोआतलान सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa San Vicente Coatlán Zapotec
     auto: true
   - translation_iso: jpn
     name: サン・ビセンテ・コアトラン・サポテク語

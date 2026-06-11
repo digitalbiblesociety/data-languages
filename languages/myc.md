@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: مايكا
     auto: true
+  - translation_iso: ben
+    name: মায়েকা
+    auto: true
   - translation_iso: deu
     name: Mayeka
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: mayeka
   - translation_iso: hin
     name: मायेका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mayeka
     auto: true
   - translation_iso: jpn
     name: マエカ語

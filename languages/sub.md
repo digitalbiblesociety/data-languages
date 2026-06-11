@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوكو
     auto: true
+  - translation_iso: ben
+    name: সুকু
+    auto: true
   - translation_iso: deu
     name: Suku
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: suku
   - translation_iso: hin
     name: सुकु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suku
     auto: true
   - translation_iso: jpn
     name: スク語

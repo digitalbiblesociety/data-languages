@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: جوجو باضون
     auto: true
+  - translation_iso: ben
+    name: গুগু বাধুন
+    auto: true
   - translation_iso: deu
     name: Gugu Badhun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gugu badhun
   - translation_iso: hin
     name: गुगु बधुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gugu Badhun
     auto: true
   - translation_iso: jpn
     name: ググ・バドゥン語

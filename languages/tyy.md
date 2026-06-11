@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوانكا
     auto: true
+  - translation_iso: ben
+    name: কওয়ানকা
+    auto: true
   - translation_iso: deu
     name: Kwanka
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: क्वांका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwanka
     auto: true
   - translation_iso: jpn
     name: カドゥン語

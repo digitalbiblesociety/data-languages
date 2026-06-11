@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تزوتسيل
     auto: true
+  - translation_iso: ben
+    name: তজোতজিল
+    auto: true
   - translation_iso: deu
     name: Tzotzil-Sprache
   - translation_iso: fra
     name: tzotzil
   - translation_iso: hin
     name: त्सोत्सिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tzotzil
     auto: true
   - translation_iso: jpn
     name: ツォツィル語

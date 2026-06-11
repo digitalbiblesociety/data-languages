@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غإمإ
     auto: true
+  - translation_iso: ben
+    name: গেমে
+    auto: true
   - translation_iso: deu
     name: Geme
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gèmé
   - translation_iso: hin
     name: गेमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Geme
     auto: true
   - translation_iso: jpn
     name: ゲメ語

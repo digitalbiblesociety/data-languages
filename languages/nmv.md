@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغامني
     auto: true
+  - translation_iso: ben
+    name: ঙামিনি
+    auto: true
   - translation_iso: deu
     name: Ngamini
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngamini
   - translation_iso: hin
     name: न्गामिनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngamini
     auto: true
   - translation_iso: jpn
     name: ングアミニ語

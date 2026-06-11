@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ليدزونكا
     auto: true
+  - translation_iso: ben
+    name: লিদজোনকা
+    auto: true
   - translation_iso: deu
     name: Dzodinka
   - translation_iso: fra
     name: dzodinka
   - translation_iso: hin
     name: लिद्ज़ोंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lidzonka
     auto: true
   - translation_iso: jpn
     name: リゾンカ語

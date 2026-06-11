@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دومونج
     auto: true
+  - translation_iso: ben
+    name: দোমুং
+    auto: true
   - translation_iso: deu
     name: Domung
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: domung
   - translation_iso: hin
     name: डोमुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Domung
     auto: true
   - translation_iso: jpn
     name: ドムング語

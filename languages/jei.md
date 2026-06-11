@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يي
     auto: true
+  - translation_iso: ben
+    name: য়েই
+    auto: true
   - translation_iso: deu
     name: Yei
     auto: true

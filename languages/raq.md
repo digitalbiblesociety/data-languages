@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سام
     auto: true
+  - translation_iso: ben
+    name: সাম
+    auto: true
   - translation_iso: deu
     name: Saam
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: saam
   - translation_iso: hin
     name: साम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saam
     auto: true
   - translation_iso: jpn
     name: サアム語

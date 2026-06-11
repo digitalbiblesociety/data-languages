@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولو ستينج
     auto: true
+  - translation_iso: ben
+    name: বুলো সতিএং
+    auto: true
   - translation_iso: deu
     name: Bulo Stieng
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: stieng de Bulo
   - translation_iso: hin
     name: बुलो स्तिएंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bulo Stieng
     auto: true
   - translation_iso: jpn
     name: ブディップ語

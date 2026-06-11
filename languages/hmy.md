@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ غويانغ الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন গুইয়াং হমোং
+    auto: true
   - translation_iso: deu
     name: Südliches Guiyang-Hmong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guiyang du Sud
   - translation_iso: hin
     name: दक्षिणी गुइयांग ह्मोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Guiyang Hmong
     auto: true
   - translation_iso: jpn
     name: 南部貴陽フモン語

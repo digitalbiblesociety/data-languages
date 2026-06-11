@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابارو
     auto: true
+  - translation_iso: ben
+    name: সাপারুয়া
+    auto: true
   - translation_iso: deu
     name: Saparua
     auto: true

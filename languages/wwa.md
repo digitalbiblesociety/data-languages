@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وااما
     auto: true
+  - translation_iso: ben
+    name: ওয়ামা
+    auto: true
   - translation_iso: deu
     name: Waama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waama
   - translation_iso: hin
     name: वामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waama
     auto: true
   - translation_iso: jpn
     name: ワマ語

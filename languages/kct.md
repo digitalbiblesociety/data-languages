@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كايان
     auto: true
+  - translation_iso: ben
+    name: কাইয়ান
+    auto: true
   - translation_iso: deu
     name: Kaian
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kaian
   - translation_iso: hin
     name: काइयान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaian
     auto: true
   - translation_iso: jpn
     name: カイアン語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: दक्षिण अफ़्रीकी सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa South African Sign Language
+    auto: true
   - translation_iso: jpn
     name: 南アフリカ手話
   - translation_iso: kor

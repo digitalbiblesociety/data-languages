@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نكاري
     auto: true
+  - translation_iso: ben
+    name: নকারি
+    auto: true
   - translation_iso: deu
     name: Nkari
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nkari
   - translation_iso: hin
     name: नकारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkari
     auto: true
   - translation_iso: jpn
     name: ンカリ語

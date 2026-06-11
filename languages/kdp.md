@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كانينغدون نيندم
     auto: true
+  - translation_iso: ben
+    name: কানিংদোন-নিনদেম
+    auto: true
   - translation_iso: deu
     name: Kaningdon-Nindem
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कानिंगडोन-निंडेम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaningdon-Nindem
     auto: true
   - translation_iso: jpn
     name: カニングドン・ニンデム語

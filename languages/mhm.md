@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماخووا مونيجا
     auto: true
+  - translation_iso: ben
+    name: মাখুওয়া-মোনিগা
+    auto: true
   - translation_iso: deu
     name: Makhuwa-Moniga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माखुवा-मोनिगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makhuwa-Moniga
     auto: true
   - translation_iso: jpn
     name: マクワ・モニガ語

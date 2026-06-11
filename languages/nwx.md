@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نيوار الوسطى
     auto: true
+  - translation_iso: ben
+    name: মিদ্দলে নেওয়ার
+    auto: true
   - translation_iso: deu
     name: Mittel-Newari
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मध्य नेवार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Middle Newar
     auto: true
   - translation_iso: jpn
     name: 中部ネワール語

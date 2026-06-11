@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاو
     auto: true
+  - translation_iso: ben
+    name: শাউ
+    auto: true
   - translation_iso: deu
     name: Shau
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shau
     auto: true
   - translation_iso: jpn
     name: リシャウ語

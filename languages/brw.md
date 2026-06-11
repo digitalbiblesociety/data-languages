@@ -30,6 +30,9 @@ translations:
     name: bellari
   - translation_iso: hin
     name: बेल्लारी भाषा
+  - translation_iso: ind
+    name: Bahasa Bellari
+    auto: true
   - translation_iso: jpn
     name: ベラリ語
   - translation_iso: kor

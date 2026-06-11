@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: اللغة بامبيا
     auto: true
+  - translation_iso: ben
+    name: পামবিয়া
+    auto: true
   - translation_iso: deu
     name: Pambia
   - translation_iso: fra
     name: pambia
   - translation_iso: hin
     name: पाम्बिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pambia
     auto: true
   - translation_iso: jpn
     name: パンビア語

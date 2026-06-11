@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميتشواكان ناهواتل
     auto: true
+  - translation_iso: ben
+    name: মিচোয়াকান নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Michoacán-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl du Michoacán
   - translation_iso: hin
     name: मिचोआकान नाहुआत्ल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Michoacán Nahuatl
     auto: true
   - translation_iso: jpn
     name: ミチョアカン・ナワトル語

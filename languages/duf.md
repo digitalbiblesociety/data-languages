@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دومبيا
     auto: true
+  - translation_iso: ben
+    name: দুমবেয়া
+    auto: true
   - translation_iso: deu
     name: Dumbea
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dumbéa
   - translation_iso: hin
     name: डुम्बिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dumbea
     auto: true
   - translation_iso: jpn
     name: ンドゥベア語

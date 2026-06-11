@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अजीए
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ajië
+    auto: true
   - translation_iso: jpn
     name: アンジエ語
   - translation_iso: kor

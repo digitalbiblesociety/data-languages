@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مونسانغ ناغا
     auto: true
+  - translation_iso: ben
+    name: মোনসাং নাগা
+    auto: true
   - translation_iso: deu
     name: Monsang-Naga
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मोनसांग नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Monsang Naga
     auto: true
   - translation_iso: jpn
     name: モンサン語

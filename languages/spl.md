@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيليبت
     auto: true
+  - translation_iso: ben
+    name: সেলেপেত
+    auto: true
   - translation_iso: deu
     name: Selepet
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेलेपेट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Selepet
     auto: true
   - translation_iso: jpn
     name: セレペット語

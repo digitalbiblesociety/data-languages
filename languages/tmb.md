@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاتبول
     auto: true
+  - translation_iso: ben
+    name: কাতবোল
+    auto: true
   - translation_iso: deu
     name: Katbol
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: katbol
   - translation_iso: hin
     name: कातबोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katbol
     auto: true
   - translation_iso: jpn
     name: カトボル語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: प्राचीन उत्तर अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ancient North Arabian
+    auto: true
   - translation_iso: jpn
     name: 古代北部アラビア語
   - translation_iso: kor

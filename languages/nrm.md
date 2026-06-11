@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نارم
     auto: true
+  - translation_iso: ben
+    name: নারোম
+    auto: true
   - translation_iso: deu
     name: Narom
   - translation_iso: fra
     name: narum
   - translation_iso: hin
     name: नारोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Narom
     auto: true
   - translation_iso: jpn
     name: ナロム語

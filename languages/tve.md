@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيعون
     auto: true
+  - translation_iso: ben
+    name: তেউন
+    auto: true
   - translation_iso: deu
     name: "Te'un"
   - translation_iso: fra

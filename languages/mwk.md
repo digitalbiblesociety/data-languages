@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: لغة مانينكاكان كيتا
     auto: true
+  - translation_iso: ben
+    name: কিতা মানিনকাকান
+    auto: true
   - translation_iso: deu
     name: Kita-Maninkakan
     auto: true
@@ -30,6 +33,9 @@ translations:
     name: malinké de Kita
   - translation_iso: hin
     name: किता मानिंकाकान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kita Maninkakan
     auto: true
   - translation_iso: jpn
     name: キタ・マリンカカン語

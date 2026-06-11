@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة پو شرق كارين
     auto: true
+  - translation_iso: ben
+    name: পওয়ো এয়াসতেরন কারেন
+    auto: true
   - translation_iso: deu
     name: Ost-Pwo-Karen
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "pwo de l'Est"
   - translation_iso: hin
     name: पूर्वी पो करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pwo Eastern Karen
     auto: true
   - translation_iso: jpn
     name: 東ポー語

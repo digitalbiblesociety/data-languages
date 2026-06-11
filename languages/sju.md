@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: उमे सामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ume Sami
+    auto: true
   - translation_iso: jpn
     name: ウーメ・サーミ語
   - translation_iso: kor

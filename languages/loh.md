@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اريم
     auto: true
+  - translation_iso: ben
+    name: নারিম
+    auto: true
   - translation_iso: deu
     name: Narim
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: narim
   - translation_iso: hin
     name: नारिम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Narim
     auto: true
   - translation_iso: jpn
     name: ナリム語

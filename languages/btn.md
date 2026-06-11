@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: راتاجْنون
     auto: true
+  - translation_iso: ben
+    name: রাতাগনোন
+    auto: true
   - translation_iso: deu
     name: Ratagnon
   - translation_iso: fra
     name: ratagnon
   - translation_iso: hin
     name: रातान्योन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ratagnon
     auto: true
   - translation_iso: jpn
     name: ラタニョン語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لارتيه
     auto: true
+  - translation_iso: ben
+    name: লারতেহ
+    auto: true
   - translation_iso: deu
     name: Larteh
   - translation_iso: fra
     name: larteh
   - translation_iso: hin
     name: लार्तेह
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Larteh
     auto: true
   - translation_iso: jpn
     name: ラルテ語

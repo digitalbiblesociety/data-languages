@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة مون القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ মোন
+    auto: true
   - translation_iso: deu
     name: Altmon
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: vieux môn
   - translation_iso: hin
     name: पुरानी मोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Old Mon
     auto: true
   - translation_iso: jpn
     name: 古モン語

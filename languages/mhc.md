@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موتشو
     auto: true
+  - translation_iso: ben
+    name: মোচো
+    auto: true
   - translation_iso: deu
     name: Mocho
   - translation_iso: fra
     name: mocho
   - translation_iso: hin
     name: मोचो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mocho
     auto: true
   - translation_iso: jpn
     name: モチョ語

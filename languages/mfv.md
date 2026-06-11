@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة ماندجاك
     auto: true
+  - translation_iso: ben
+    name: মানদজাক
+    auto: true
   - translation_iso: deu
     name: Mandjak
   - translation_iso: fra
     name: manjaque
   - translation_iso: hin
     name: मंजक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mandjak
     auto: true
   - translation_iso: jpn
     name: マンジャク語

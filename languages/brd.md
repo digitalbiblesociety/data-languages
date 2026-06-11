@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बरामू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baraamu
+    auto: true
   - translation_iso: jpn
     name: バラアム語
     auto: true

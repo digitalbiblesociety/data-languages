@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تلاكواتزينتيبك تشينانتك
     auto: true
+  - translation_iso: ben
+    name: তলাকোয়াতজিনতেপেক চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Tlacoatzintepec-Chinantekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chinantèque de Tlacoatzintepec
   - translation_iso: hin
     name: त्लाकोआट्ज़िंतेपेक चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tlacoatzintepec Chinantec
     auto: true
   - translation_iso: jpn
     name: トラコアツィンテペク・チナンテク語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة يجبي
     auto: true
+  - translation_iso: ben
+    name: লিগবি
+    auto: true
   - translation_iso: deu
     name: Ligbi
   - translation_iso: fra
     name: ligbi
   - translation_iso: hin
     name: लिग्बी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ligbi
     auto: true
   - translation_iso: jpn
     name: リグビ語

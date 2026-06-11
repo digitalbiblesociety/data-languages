@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هآنجآزآ
     auto: true
+  - translation_iso: ben
+    name: হাঙাজা
+    auto: true
   - translation_iso: deu
     name: Hangaza
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: hangaza
   - translation_iso: hin
     name: हंगाज़ा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hangaza
     auto: true
   - translation_iso: jpn
     name: ハンガザ語

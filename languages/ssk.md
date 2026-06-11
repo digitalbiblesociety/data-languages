@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونام
     auto: true
+  - translation_iso: ben
+    name: সুনাম
+    auto: true
   - translation_iso: deu
     name: Sunam
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुनम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sunam
     auto: true
   - translation_iso: jpn
     name: スナム語

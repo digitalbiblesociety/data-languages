@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ساني
     auto: true
+  - translation_iso: ben
+    name: সানি
+    auto: true
   - translation_iso: deu
     name: Sani
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yi sani
   - translation_iso: hin
     name: सानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sani
     auto: true
   - translation_iso: jpn
     name: 撒尼語

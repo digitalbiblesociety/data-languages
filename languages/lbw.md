@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: تولاكي
     auto: true
+  - translation_iso: ben
+    name: তোলাকি
+    auto: true
   - translation_iso: deu
     name: Tolaki
   - translation_iso: fra

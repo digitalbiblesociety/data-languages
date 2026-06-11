@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يامبيتا
     auto: true
+  - translation_iso: ben
+    name: য়ামবেতা
+    auto: true
   - translation_iso: deu
     name: Yambeta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yambetta
   - translation_iso: hin
     name: यांबेटा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yambeta
     auto: true
   - translation_iso: jpn
     name: ヤンベタ語

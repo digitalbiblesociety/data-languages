@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: अताकापा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Atakapa
+    auto: true
   - translation_iso: jpn
     name: アタカパ語
   - translation_iso: kor

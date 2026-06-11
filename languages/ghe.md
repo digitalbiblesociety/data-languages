@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سووثإرن غآلإ
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন ঘালে
+    auto: true
   - translation_iso: deu
     name: Südliches Ghale
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ghale du Sud
   - translation_iso: hin
     name: दक्षिणी घले
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Ghale
     auto: true
   - translation_iso: jpn
     name: サザン・ガレ語

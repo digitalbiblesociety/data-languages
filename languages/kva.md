@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बागवालाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bagvalal
+    auto: true
   - translation_iso: jpn
     name: バグバリ語
   - translation_iso: kor

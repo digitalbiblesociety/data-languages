@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فانوما
     auto: true
+  - translation_iso: ben
+    name: ভানুমা
+    auto: true
   - translation_iso: deu
     name: Vanuma
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Vanuma
   - translation_iso: hin
     name: वानुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vanuma
     auto: true
   - translation_iso: jpn
     name: 南ニャリ語

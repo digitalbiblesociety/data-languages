@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بوروسو
     auto: true
+  - translation_iso: ben
+    name: বুরুসু
+    auto: true
   - translation_iso: deu
     name: Burusu
     auto: true

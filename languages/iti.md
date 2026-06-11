@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إينلاود إيتنيغ
     auto: true
+  - translation_iso: ben
+    name: ইনলাওদ ইতনেগ
+    auto: true
   - translation_iso: deu
     name: Inlaod-Itneg
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "itneg d'Inlaod"
   - translation_iso: hin
     name: इनलाओद इतनेग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Inlaod Itneg
     auto: true
   - translation_iso: jpn
     name: インラオド・イトネグ語

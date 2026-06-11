@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورت فاتو
     auto: true
+  - translation_iso: ben
+    name: পোরত ভাতো
+    auto: true
   - translation_iso: deu
     name: Port Vato
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: port-vato
   - translation_iso: hin
     name: पोर्ट वातो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Port Vato
     auto: true
   - translation_iso: jpn
     name: ポート・ヴァト語

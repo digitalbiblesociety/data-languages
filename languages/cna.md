@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चांगथंग भाषा
+  - translation_iso: ind
+    name: Bahasa Changthang
+    auto: true
   - translation_iso: jpn
     name: チャンタン語
     auto: true

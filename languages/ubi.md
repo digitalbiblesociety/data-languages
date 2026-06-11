@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أوبي
     auto: true
+  - translation_iso: ben
+    name: উবি
+    auto: true
   - translation_iso: deu
     name: Ubi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ubi
   - translation_iso: hin
     name: उबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ubi
     auto: true
   - translation_iso: jpn
     name: ウビ語

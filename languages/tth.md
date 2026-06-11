@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الطاعة العليا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের তাওইহ
+    auto: true
   - translation_iso: deu
     name: "Upper Ta'oih"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ta’oih supérieur
   - translation_iso: hin
     name: "ऊपरी ता'ओइह"
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Upper Ta'oih"
     auto: true
   - translation_iso: jpn
     name: タオイ語

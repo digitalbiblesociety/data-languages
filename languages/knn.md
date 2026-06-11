@@ -23,6 +23,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكونكانية
     auto: true
+  - translation_iso: ben
+    name: কোনকানি
+    auto: true
   - translation_iso: deu
     name: Konkani
     auto: true
@@ -30,6 +33,9 @@ translations:
     name: konkani de Maharashtra
   - translation_iso: hin
     name: कोंकणी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Konkani
     auto: true
   - translation_iso: jpn
     name: マハーラーシュトリアン・コンカニ語

@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghadam%C3%A8s_language"
 translations:
   - translation_iso: ara
     name: لهجة غدامسية
+  - translation_iso: ben
+    name: ঘাদামেস
+    auto: true
   - translation_iso: deu
     name: Ghadamsi
   - translation_iso: fra
     name: ghadamsi
   - translation_iso: hin
     name: घदामेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ghadamès
     auto: true
   - translation_iso: jpn
     name: ガダミス語

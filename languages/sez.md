@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينثانج تشين
     auto: true
+  - translation_iso: ben
+    name: সেনথাং চিন
+    auto: true
   - translation_iso: deu
     name: Senthang-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेंथांग चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Senthang Chin
     auto: true
   - translation_iso: jpn
     name: セントゥハン・チン語

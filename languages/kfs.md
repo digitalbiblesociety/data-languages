@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बिलासपुरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bilaspuri
+    auto: true
   - translation_iso: jpn
     name: ビラースプリ語
     auto: true

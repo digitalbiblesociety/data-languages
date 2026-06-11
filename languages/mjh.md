@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مويرا
     auto: true
+  - translation_iso: ben
+    name: নয়াসা মওয়েরা
+    auto: true
   - translation_iso: deu
     name: Mwera (Nyasa)
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मवेरा (न्यासा)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyasa Mwera
     auto: true
   - translation_iso: jpn
     name: ムウェラ語

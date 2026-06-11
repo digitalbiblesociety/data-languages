@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موما
     auto: true
+  - translation_iso: ben
+    name: মোমা
+    auto: true
   - translation_iso: deu
     name: Moma
     auto: true

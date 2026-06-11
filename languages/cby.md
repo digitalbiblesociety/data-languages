@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاراباو
     auto: true
+  - translation_iso: ben
+    name: কারাবায়ো
+    auto: true
   - translation_iso: deu
     name: Carabayo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: carabayo
   - translation_iso: hin
     name: काराबायो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Carabayo
     auto: true
   - translation_iso: jpn
     name: カラバヨ語

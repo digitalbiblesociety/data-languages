@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरावेते
     auto: true
+  - translation_iso: ind
+    name: Bahasa Araweté
+    auto: true
   - translation_iso: jpn
     name: アラウェテ語
     auto: true

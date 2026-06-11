@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سومراي
     auto: true
+  - translation_iso: ben
+    name: সোমরায়
+    auto: true
   - translation_iso: deu
     name: Somray
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: somray
   - translation_iso: hin
     name: सोमराय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Somray
     auto: true
   - translation_iso: jpn
     name: ノーザン・チョン語

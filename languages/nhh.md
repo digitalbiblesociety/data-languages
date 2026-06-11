@@ -29,6 +29,9 @@ translations:
     name: nahari
   - translation_iso: hin
     name: नाहारी
+  - translation_iso: ind
+    name: Bahasa Nahari
+    auto: true
   - translation_iso: jpn
     name: ナハリ語
     auto: true

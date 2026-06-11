@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كبان
     auto: true
+  - translation_iso: ben
+    name: কপান
+    auto: true
   - translation_iso: deu
     name: Kpan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kpan
   - translation_iso: hin
     name: क्पान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpan
     auto: true
   - translation_iso: jpn
     name: クパン語

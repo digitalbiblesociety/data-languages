@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإروكوانس
     auto: true
+  - translation_iso: ben
+    name: এরোকওয়ানাস
+    auto: true
   - translation_iso: deu
     name: Erokwanas
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هويليتشي
     auto: true
+  - translation_iso: ben
+    name: হুইল্লিচে
+    auto: true
   - translation_iso: deu
     name: Huilliche
   - translation_iso: fra
     name: huilliche
   - translation_iso: hin
     name: हुइलिचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huilliche
     auto: true
   - translation_iso: jpn
     name: ウィリチェ語

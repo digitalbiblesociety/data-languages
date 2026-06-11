@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Neo-Aramaic"
 translations:
   - translation_iso: ara
     name: آرامية غربية حديثة
+  - translation_iso: ben
+    name: ওয়েসতেরন নেও-আরামাইক
+    auto: true
   - translation_iso: deu
     name: Neuwestaramäisch
   - translation_iso: fra
     name: néo-araméen occidental
   - translation_iso: hin
     name: पश्चिमी नव-अरामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Neo-Aramaic
     auto: true
   - translation_iso: jpn
     name: 現代西アラム語

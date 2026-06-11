@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بدجن كاميرون
     auto: true
+  - translation_iso: ben
+    name: কামেরোন পিদগিন
+    auto: true
   - translation_iso: deu
     name: Kamtok
   - translation_iso: fra
     name: pidgin camerounais
   - translation_iso: hin
     name: कैमरून पिजिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cameroon Pidgin
     auto: true
   - translation_iso: jpn
     name: カメルーン・ピジン

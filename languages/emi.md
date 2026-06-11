@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موسو-إيميرا
     auto: true
+  - translation_iso: ben
+    name: মুস্সাউ-এমিরা
+    auto: true
   - translation_iso: deu
     name: Mussau-Emira
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mussau-emira
   - translation_iso: hin
     name: मुसाउ-एमिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mussau-Emira
     auto: true
   - translation_iso: jpn
     name: ムサウ・エミラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوتآ مآرودو تآلآنتآنج
     auto: true
+  - translation_iso: ben
+    name: কোতা মারুদু তালানতাং
+    auto: true
   - translation_iso: deu
     name: Kota Marudu Talantang
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कोटा मारुडु तालंतांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kota Marudu Talantang
     auto: true
   - translation_iso: jpn
     name: コタ・マルドゥ・タランタング語

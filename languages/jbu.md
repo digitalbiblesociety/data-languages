@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة جوكون تاكوم
     auto: true
+  - translation_iso: ben
+    name: জুকুন তাকুম
+    auto: true
   - translation_iso: deu
     name: Jukun Takum
   - translation_iso: fra
     name: jukun takum
   - translation_iso: hin
     name: जुकुन ताकुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jukun Takum
     auto: true
   - translation_iso: jpn
     name: 非Jukunoid語

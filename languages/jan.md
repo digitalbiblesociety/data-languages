@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة جانداي
     auto: true
+  - translation_iso: ben
+    name: জানদাই
+    auto: true
   - translation_iso: deu
     name: Jandai
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: jandai
   - translation_iso: hin
     name: जान्दाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jandai
     auto: true
   - translation_iso: jpn
     name: ジャンダイ語

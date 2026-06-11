@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولابو
     auto: true
+  - translation_iso: ben
+    name: পুলাবু
+    auto: true
   - translation_iso: deu
     name: Pulabu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पुलाबु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pulabu
     auto: true
   - translation_iso: jpn
     name: プラブ語

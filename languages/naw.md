@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناوري
     auto: true
+  - translation_iso: ben
+    name: নাওয়ুরি
+    auto: true
   - translation_iso: deu
     name: Nawuri
   - translation_iso: fra
     name: nawuri
   - translation_iso: hin
     name: नावुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nawuri
     auto: true
   - translation_iso: jpn
     name: ナウリ語

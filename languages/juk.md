@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وابان
     auto: true
+  - translation_iso: ben
+    name: ওয়াপান
+    auto: true
   - translation_iso: deu
     name: Wapan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wapan
   - translation_iso: hin
     name: वापन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wapan
     auto: true
   - translation_iso: jpn
     name: ワパン語

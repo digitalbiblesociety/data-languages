@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كارين مانوماناو
     auto: true
+  - translation_iso: ben
+    name: মানুমানাওয় কারেন
+    auto: true
   - translation_iso: deu
     name: Manumanaw-Karen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: manumanaw
   - translation_iso: hin
     name: मनुमनाव करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Manumanaw Karen
     auto: true
   - translation_iso: jpn
     name: マヌマナウ・カレン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبوغولو
     auto: true
+  - translation_iso: ben
+    name: ওগবোগোলো
+    auto: true
   - translation_iso: deu
     name: Ogbogolo
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओग्बोगोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ogbogolo
     auto: true
   - translation_iso: jpn
     name: オグボゴロ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غورغولآ
     auto: true
+  - translation_iso: ben
+    name: গুরগুলা
+    auto: true
   - translation_iso: deu
     name: Gurgula
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गुर्गुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gurgula
     auto: true
   - translation_iso: jpn
     name: グルグラ語

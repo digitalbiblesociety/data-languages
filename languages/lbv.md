@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لافاتبورا-لاموسونج
     auto: true
+  - translation_iso: ben
+    name: লাভাতবুরা-লামুসোং
+    auto: true
   - translation_iso: deu
     name: Lavatbura-Lamusong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lavatbura-lamusong
   - translation_iso: hin
     name: लवात्बुरा-लामुसोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lavatbura-Lamusong
     auto: true
   - translation_iso: jpn
     name: ラヴァットブラ・ラムソン語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الصولونج
     auto: true
+  - translation_iso: ben
+    name: সোলোং
+    auto: true
   - translation_iso: deu
     name: Solong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोलोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Solong
     auto: true
   - translation_iso: jpn
     name: アラウェ語

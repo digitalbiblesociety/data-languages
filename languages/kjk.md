@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجو الجبلية
     auto: true
+  - translation_iso: ben
+    name: হিঘলানদ কোনজো
+    auto: true
   - translation_iso: deu
     name: Hochland-Konjo
     auto: true

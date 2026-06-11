@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغولووان
     auto: true
+  - translation_iso: ben
+    name: ঙুলুওয়ান
+    auto: true
   - translation_iso: deu
     name: Nguluwan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nguluwan
   - translation_iso: hin
     name: न्गुलुवान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nguluwan
     auto: true
   - translation_iso: jpn
     name: ングルワン語

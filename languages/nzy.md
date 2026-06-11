@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة نزاكامبي
     auto: true
+  - translation_iso: ben
+    name: নজাকামবায়
+    auto: true
   - translation_iso: deu
     name: Nzakambay
   - translation_iso: fra
     name: nzakambay
   - translation_iso: hin
     name: नज़ाकाम्बाय
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nzakambay
     auto: true
   - translation_iso: jpn
     name: ンザカンバイ語

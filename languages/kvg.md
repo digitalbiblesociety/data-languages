@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوني-بوازي
     auto: true
+  - translation_iso: ben
+    name: কুনি-বোয়াজি
+    auto: true
   - translation_iso: deu
     name: Kuni-Boazi
     auto: true

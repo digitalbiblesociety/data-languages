@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يامينهوا
     auto: true
+  - translation_iso: ben
+    name: য়ামিনাহুয়া
+    auto: true
   - translation_iso: deu
     name: Yaminahua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yaminahua
   - translation_iso: hin
     name: यामिनाहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaminahua
     auto: true
   - translation_iso: jpn
     name: ヤミナウア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ريتا
     auto: true
+  - translation_iso: ben
+    name: রেত্তা
+    auto: true
   - translation_iso: deu
     name: Retta
   - translation_iso: fra

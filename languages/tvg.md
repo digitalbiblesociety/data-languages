@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: توجونيسي
     auto: true
+  - translation_iso: ben
+    name: তুগুনেসে
+    auto: true
   - translation_iso: deu
     name: Tugunesisch
     auto: true

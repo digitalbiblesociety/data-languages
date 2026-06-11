@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ييلان كريول
     auto: true
+  - translation_iso: ben
+    name: য়িলান করেওলে
+    auto: true
   - translation_iso: deu
     name: Yilan-Kreolisch
     auto: true

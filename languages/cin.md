@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينتا لارغا
     auto: true
+  - translation_iso: ben
+    name: কিনতা লারগা
+    auto: true
   - translation_iso: deu
     name: Cinta Larga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cinta larga
   - translation_iso: hin
     name: सिंता लार्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cinta Larga
     auto: true
   - translation_iso: jpn
     name: シンタ・ラルガ語

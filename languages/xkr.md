@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: شاكريابا
     auto: true
+  - translation_iso: ben
+    name: কসাকরিয়াবা
+    auto: true
   - translation_iso: deu
     name: Xakriabá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: xakriabá
   - translation_iso: hin
     name: शक्रियाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xakriabá
     auto: true
   - translation_iso: jpn
     name: シャクリアバ語

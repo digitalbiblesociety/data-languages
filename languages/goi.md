@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوبآسي
     auto: true
+  - translation_iso: ben
+    name: গোবাসি
+    auto: true
   - translation_iso: deu
     name: Gobasi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गोबासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gobasi
     auto: true
   - translation_iso: jpn
     name: ゴバシ語

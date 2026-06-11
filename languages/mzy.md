@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الموزمبيقية
     auto: true
+  - translation_iso: ben
+    name: মোজামবিকান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Mosambikanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes mozambicaine
   - translation_iso: hin
     name: मोज़ाम्बिक सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mozambican Sign Language
     auto: true
   - translation_iso: jpn
     name: モザンビーク手話

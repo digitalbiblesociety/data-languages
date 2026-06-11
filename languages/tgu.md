@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تانغو
     auto: true
+  - translation_iso: ben
+    name: তাংগু
+    auto: true
   - translation_iso: deu
     name: Tanggu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tanggu
   - translation_iso: hin
     name: तंग्गु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanggu
     auto: true
   - translation_iso: jpn
     name: タング語

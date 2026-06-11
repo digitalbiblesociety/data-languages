@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: يانجيبارا
     auto: true
+  - translation_iso: ben
+    name: য়ানদজিবারা
+    auto: true
   - translation_iso: deu
     name: Yandjibara
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: yandjibara
   - translation_iso: hin
     name: यांद्जिबारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yandjibara
     auto: true
   - translation_iso: jpn
     name: ヤンジバラ語

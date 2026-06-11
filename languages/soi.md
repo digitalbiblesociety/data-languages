@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونها
     auto: true
+  - translation_iso: ben
+    name: সোনহা
+    auto: true
   - translation_iso: deu
     name: Sonha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sonha
   - translation_iso: hin
     name: सोन्हा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sonha
     auto: true
   - translation_iso: jpn
     name: ソンハ語

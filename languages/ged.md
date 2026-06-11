@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الجادي
     auto: true
+  - translation_iso: ben
+    name: গাদে
+    auto: true
   - translation_iso: deu
     name: Gade
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gade
   - translation_iso: hin
     name: गाडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gade
     auto: true
   - translation_iso: jpn
     name: ガデ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووتاپوريكاتارقالاي
     auto: true
+  - translation_iso: ben
+    name: ওয়োতাপুরি-কাতারকালাই
+    auto: true
   - translation_iso: deu
     name: Wotapuri-Katarqalai
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वोटापूरी-कटारक़लाई भाषा
+  - translation_iso: ind
+    name: Bahasa Wotapuri-Katarqalai
+    auto: true
   - translation_iso: jpn
     name: ウォタプル・カタルカラ語
   - translation_iso: kor

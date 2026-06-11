@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाउनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bauni
+    auto: true
   - translation_iso: jpn
     name: バウニ語
     auto: true

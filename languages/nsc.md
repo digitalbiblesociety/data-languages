@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نشي
     auto: true
+  - translation_iso: ben
+    name: নশি
+    auto: true
   - translation_iso: deu
     name: Nshi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nshi
   - translation_iso: hin
     name: न्शी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nshi
     auto: true
   - translation_iso: jpn
     name: シン語

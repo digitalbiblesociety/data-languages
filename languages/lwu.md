@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة اوو
     auto: true
+  - translation_iso: ben
+    name: লাওয়ু
+    auto: true
   - translation_iso: deu
     name: Lawu
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लावु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lawu
     auto: true
   - translation_iso: jpn
     name: ラウ語

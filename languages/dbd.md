@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دديا
     auto: true
+  - translation_iso: ben
+    name: দাদিয়া
+    auto: true
   - translation_iso: deu
     name: Dadiya
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दादिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dadiya
     auto: true
   - translation_iso: jpn
     name: ダディヤ語

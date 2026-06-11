@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أيوا-أوتو
     auto: true
+  - translation_iso: ben
+    name: ইওওয়া-ওতো
+    auto: true
   - translation_iso: deu
     name: Iowa-Oto
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iowa-oto
   - translation_iso: hin
     name: आयोवा-ओटो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iowa-Oto
     auto: true
   - translation_iso: jpn
     name: アイオワ語

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كوكي ناغا
     auto: true
+  - translation_iso: ben
+    name: কোকি নাগা
+    auto: true
   - translation_iso: deu
     name: Koki-Naga
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: naga koki
   - translation_iso: hin
     name: कोकी नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koki Naga
     auto: true
   - translation_iso: jpn
     name: コキ・ナガ語

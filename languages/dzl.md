@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الدزالاخا
     auto: true
+  - translation_iso: ben
+    name: দজালাখা
+    auto: true
   - translation_iso: deu
     name: Dzalakha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dzalakha
   - translation_iso: hin
     name: ज़ालाखा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dzalakha
     auto: true
   - translation_iso: jpn
     name: ザラ語

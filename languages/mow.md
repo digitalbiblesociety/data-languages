@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موي (الكونغو)
     auto: true
+  - translation_iso: ben
+    name: মোই
+    auto: true
   - translation_iso: deu
     name: Moi (Kongo)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: moye
   - translation_iso: hin
     name: मोई (कांगो)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moi
     auto: true
   - translation_iso: jpn
     name: モイ語

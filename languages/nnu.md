@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: دوانغ
     auto: true
+  - translation_iso: ben
+    name: দওয়াং
+    auto: true
   - translation_iso: deu
     name: Dwang
   - translation_iso: fra
     name: dwang
   - translation_iso: hin
     name: द्वांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dwang
     auto: true
   - translation_iso: jpn
     name: ドゥワン語

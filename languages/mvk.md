@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة ميكميك
     auto: true
+  - translation_iso: ben
+    name: মেকমেক
+    auto: true
   - translation_iso: deu
     name: Mekmek
   - translation_iso: fra
     name: mekmek
   - translation_iso: hin
     name: मेकमेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mekmek
     auto: true
   - translation_iso: jpn
     name: メクメク語

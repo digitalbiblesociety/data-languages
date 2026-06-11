@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هولونغ
     auto: true
+  - translation_iso: ben
+    name: হুলুং
+    auto: true
   - translation_iso: deu
     name: Hulung
     auto: true

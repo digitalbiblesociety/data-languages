@@ -29,6 +29,9 @@ translations:
     name: apatani
   - translation_iso: hin
     name: अपतानी भाषा
+  - translation_iso: ind
+    name: Bahasa Apatani
+    auto: true
   - translation_iso: jpn
     name: アパタニ語
   - translation_iso: kor

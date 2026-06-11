@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رميت
     auto: true
+  - translation_iso: ben
+    name: রমেত
+    auto: true
   - translation_iso: deu
     name: Rmeet
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lamet
   - translation_iso: hin
     name: रमीत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rmeet
     auto: true
   - translation_iso: jpn
     name: ルミート語

@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ماسابا
     auto: true
+  - translation_iso: ben
+    name: মাসাবা
+    auto: true
   - translation_iso: deu
     name: Masaaba
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: masaba
   - translation_iso: hin
     name: मसाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Masaaba
     auto: true
   - translation_iso: jpn
     name: マサバ語

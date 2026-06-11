@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: باتانجا
     auto: true
+  - translation_iso: ben
+    name: বাতাঙা
+    auto: true
   - translation_iso: deu
     name: Batanga
   - translation_iso: fra
     name: batanga
   - translation_iso: hin
     name: बतांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Batanga
     auto: true
   - translation_iso: jpn
     name: バタンガ語

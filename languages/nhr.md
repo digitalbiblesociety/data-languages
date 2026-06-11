@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نارو
     auto: true
+  - translation_iso: ben
+    name: নারো
+    auto: true
   - translation_iso: deu
     name: Naro
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naro
   - translation_iso: hin
     name: नारो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Naro
     auto: true
   - translation_iso: jpn
     name: ナロ語

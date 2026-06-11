@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تياغبامرين أيزي
     auto: true
+  - translation_iso: ben
+    name: তিয়াগবামরিন আইজি
+    auto: true
   - translation_iso: deu
     name: Tiagbamrin-Aizi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Tiagba
   - translation_iso: hin
     name: तियाग्बाम्रिन आइज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tiagbamrin Aizi
     auto: true
   - translation_iso: jpn
     name: ティアグバムリン・アイジ語

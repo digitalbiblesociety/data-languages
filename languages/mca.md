@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكا
     auto: true
+  - translation_iso: ben
+    name: মাকা
+    auto: true
   - translation_iso: deu
     name: Maca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maká
   - translation_iso: hin
     name: माका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maca
     auto: true
   - translation_iso: jpn
     name: マカ語

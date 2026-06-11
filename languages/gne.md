@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غآنآنج
     auto: true
+  - translation_iso: ben
+    name: গানাং
+    auto: true
   - translation_iso: deu
     name: Ganang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ganang
   - translation_iso: hin
     name: गनांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ganang
     auto: true
   - translation_iso: jpn
     name: ガナング語

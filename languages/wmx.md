@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: وومو
     auto: true
+  - translation_iso: ben
+    name: ওয়োমো
+    auto: true
   - translation_iso: deu
     name: Womo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: womo
   - translation_iso: hin
     name: वोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Womo
     auto: true
   - translation_iso: jpn
     name: ウォモ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجاراك
     auto: true
+  - translation_iso: ben
+    name: লিঙারাক
+    auto: true
   - translation_iso: deu
     name: Lingarak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lingarak
   - translation_iso: hin
     name: लिंगाराक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lingarak
     auto: true
   - translation_iso: jpn
     name: リンガラク語

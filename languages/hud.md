@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هوالو
     auto: true
+  - translation_iso: ben
+    name: হুয়াউলু
+    auto: true
   - translation_iso: deu
     name: Huaulu
     auto: true

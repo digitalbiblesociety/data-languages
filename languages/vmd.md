@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: موده كوراجا
     auto: true
+  - translation_iso: ben
+    name: মুদু কোরাগা
+    auto: true
   - translation_iso: deu
     name: Mudu Koraga
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: koraga mudu
   - translation_iso: hin
     name: मुदु कोरगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mudu Koraga
     auto: true
   - translation_iso: jpn
     name: コラッグ語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكاليرو
     auto: true
+  - translation_iso: ben
+    name: মাকালেরো
+    auto: true
   - translation_iso: deu
     name: Makalero
   - translation_iso: fra
@@ -21,6 +24,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माकालेरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Makalero
     auto: true
   - translation_iso: jpn
     name: マカレロ方言

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेंडी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bendi
+    auto: true
   - translation_iso: jpn
     name: ベンディ語
     auto: true

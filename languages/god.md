@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوديé
     auto: true
+  - translation_iso: ben
+    name: গোদিএ
+    auto: true
   - translation_iso: deu
     name: Godié
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: godié
   - translation_iso: hin
     name: गोडिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Godié
     auto: true
   - translation_iso: jpn
     name: ゴディエ語

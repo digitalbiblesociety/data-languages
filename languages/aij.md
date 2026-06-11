@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ليشانيد نوشان
     auto: true
+  - translation_iso: ben
+    name: লিশানিদ নোশান
+    auto: true
   - translation_iso: deu
     name: Lishanid Noshan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lishanid noshan
   - translation_iso: hin
     name: लिशानिद नोशान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lishanid Noshan
     auto: true
   - translation_iso: jpn
     name: ノシャン語

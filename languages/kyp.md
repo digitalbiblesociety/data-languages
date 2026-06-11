@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كانج
     auto: true
+  - translation_iso: ben
+    name: কাং
+    auto: true
   - translation_iso: deu
     name: Kang
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: kang
   - translation_iso: hin
     name: कांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kang
     auto: true
   - translation_iso: jpn
     name: カン語

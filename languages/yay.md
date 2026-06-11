@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أجواجوني
     auto: true
+  - translation_iso: ben
+    name: আগওয়াগওয়ুনে
+    auto: true
   - translation_iso: deu
     name: Agwagwune
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: अग्वाग्वुने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Agwagwune
     auto: true
   - translation_iso: jpn
     name: アグワグウネ語

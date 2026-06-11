@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لونغتو
     auto: true
+  - translation_iso: ben
+    name: লোংতো
+    auto: true
   - translation_iso: deu
     name: Longto
   - translation_iso: fra
     name: longto
   - translation_iso: hin
     name: लोंगतो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Longto
     auto: true
   - translation_iso: jpn
     name: ロング語

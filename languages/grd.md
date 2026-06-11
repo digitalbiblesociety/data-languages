@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غورونتوم-مبآآرو
     auto: true
+  - translation_iso: ben
+    name: গুরুনতুম-মবারু
+    auto: true
   - translation_iso: deu
     name: Guruntum-Mbaaru
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guruntum
   - translation_iso: hin
     name: गुरुन्तुम-म्बारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guruntum-Mbaaru
     auto: true
   - translation_iso: jpn
     name: グルントゥム・ムバール語

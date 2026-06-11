@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الوامي
     auto: true
+  - translation_iso: ben
+    name: ওয়ামেয়
+    auto: true
   - translation_iso: deu
     name: Wamey
   - translation_iso: fra
     name: coniagui
   - translation_iso: hin
     name: वामे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wamey
     auto: true
   - translation_iso: jpn
     name: コニアギ語

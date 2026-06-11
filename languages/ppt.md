@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باري
     auto: true
+  - translation_iso: ben
+    name: পারে
+    auto: true
   - translation_iso: deu
     name: Pare
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पारे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pare
     auto: true
   - translation_iso: jpn
     name: パレ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باسي
     auto: true
+  - translation_iso: ben
+    name: পাসি
+    auto: true
   - translation_iso: deu
     name: Pasi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pasi
   - translation_iso: hin
     name: पासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pasi
     auto: true
   - translation_iso: jpn
     name: パシ語

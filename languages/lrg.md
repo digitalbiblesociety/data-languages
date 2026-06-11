@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اراجيا
     auto: true
+  - translation_iso: ben
+    name: লারাগিয়া
+    auto: true
   - translation_iso: deu
     name: Laragia
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: laragia
   - translation_iso: hin
     name: लारागिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Laragia
     auto: true
   - translation_iso: jpn
     name: ララキア語

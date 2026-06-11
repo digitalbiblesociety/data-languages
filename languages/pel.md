@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيكال
     auto: true
+  - translation_iso: ben
+    name: পেকাল
+    auto: true
   - translation_iso: deu
     name: Pekal
     auto: true

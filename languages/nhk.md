@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: إستموس كوسوليكاكاوي ناهواتل
     auto: true
+  - translation_iso: ben
+    name: ইসথমুস-কোসোলেয়াকাকুএ নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Isthmus-Cosoleacaque-Nahuatl
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nahuatl de l’isthme de Cosoleacaque
   - translation_iso: hin
     name: इस्थमस-कोसोलेआकाके नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isthmus-Cosoleacaque Nahuatl
     auto: true
   - translation_iso: jpn
     name: 峡湾部・コソレアカケ・ナワトル語

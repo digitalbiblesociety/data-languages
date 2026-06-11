@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बेस्मे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Besme
+    auto: true
   - translation_iso: jpn
     name: ベスメ語
     auto: true

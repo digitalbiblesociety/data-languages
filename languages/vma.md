@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مارتويهونيرا
     auto: true
+  - translation_iso: ben
+    name: মারতুয়হুনিরা
+    auto: true
   - translation_iso: deu
     name: Martuyhunira
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: martuthunira
   - translation_iso: hin
     name: मार्तुयहुनिरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Martuyhunira
     auto: true
   - translation_iso: jpn
     name: マルトゥフニラ語

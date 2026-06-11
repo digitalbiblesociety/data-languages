@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अवातिमे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Avatime
+    auto: true
   - translation_iso: jpn
     name: アヴァティメ語
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अलाबा-काबीना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alaba-K’abeena
+    auto: true
   - translation_iso: jpn
     name: アラバカベエナ語
     auto: true

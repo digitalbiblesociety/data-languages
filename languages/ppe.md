@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابي
     auto: true
+  - translation_iso: ben
+    name: পাপি
+    auto: true
   - translation_iso: deu
     name: Papi
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: papi
   - translation_iso: hin
     name: पापी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Papi
     auto: true
   - translation_iso: jpn
     name: パピ語

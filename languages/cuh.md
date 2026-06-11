@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الشوكا
     auto: true
+  - translation_iso: ben
+    name: চুকা
+    auto: true
   - translation_iso: deu
     name: Chuka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: chuka
   - translation_iso: hin
     name: चुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chuka
     auto: true
   - translation_iso: jpn
     name: チュカ語

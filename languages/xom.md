@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كومو
     auto: true
+  - translation_iso: ben
+    name: কোমো
+    auto: true
   - translation_iso: deu
     name: Komo (Sudan)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: komo
   - translation_iso: hin
     name: कोमो (सूडान)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Komo
     auto: true
   - translation_iso: jpn
     name: コモ語（スーダン）

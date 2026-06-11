@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانيو-هيويي
     auto: true
+  - translation_iso: ben
+    name: সানিয়ো-হিয়েওয়ে
+    auto: true
   - translation_iso: deu
     name: Saniyo-Hiyewe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: saniyo-hiyewe
   - translation_iso: hin
     name: सानियो-हियेवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saniyo-Hiyewe
     auto: true
   - translation_iso: jpn
     name: ヒオウェ語

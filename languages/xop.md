@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوبار
     auto: true
+  - translation_iso: ben
+    name: কোপার
+    auto: true
   - translation_iso: deu
     name: Kopar
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kopar
   - translation_iso: hin
     name: कोपार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kopar
     auto: true
   - translation_iso: jpn
     name: コパル語

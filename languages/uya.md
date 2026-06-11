@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوكو-أويانجا
     auto: true
+  - translation_iso: ben
+    name: দোকো-উয়াঙা
+    auto: true
   - translation_iso: deu
     name: Doko-Uyanga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: doko-uyanga
   - translation_iso: hin
     name: डोको-उयांगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Doko-Uyanga
     auto: true
   - translation_iso: jpn
     name: イコ語

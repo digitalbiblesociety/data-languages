@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अल्लादियान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alladian
+    auto: true
   - translation_iso: jpn
     name: アッラディアン語
     auto: true

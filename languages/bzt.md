@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: بريثينج
     auto: true
+  - translation_iso: ben
+    name: বরিথেনিগ
+    auto: true
   - translation_iso: deu
     name: Brithenig
   - translation_iso: fra
     name: brithenig
   - translation_iso: hin
     name: ब्रिथेनिग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Brithenig
     auto: true
   - translation_iso: jpn
     name: ブリゼニグ

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيمبي
     auto: true
+  - translation_iso: ben
+    name: তেমবে
+    auto: true
   - translation_iso: deu
     name: Tembé
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tembé
   - translation_iso: hin
     name: तेम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tembé
     auto: true
   - translation_iso: jpn
     name: グアジャジャラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الأوجيا
     auto: true
+  - translation_iso: ben
+    name: ওগেয়া
+    auto: true
   - translation_iso: deu
     name: Ogea
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ogea
   - translation_iso: hin
     name: ओगिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ogea
     auto: true
   - translation_iso: jpn
     name: オゲア語

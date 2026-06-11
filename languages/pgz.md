@@ -19,12 +19,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Papua_New_Guinean_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة لبابوا غينيا الجديدة
+  - translation_iso: ben
+    name: পাপুয়া নেওয় গুইনেয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Papua-Neuguinea-Gebärdensprache
   - translation_iso: fra
     name: langue des signes papouasienne
   - translation_iso: hin
     name: पापुआ न्यू गिनी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Papua New Guinean Sign Language
+    auto: true
   - translation_iso: jpn
     name: パプア・ニューギニア手話
   - translation_iso: kor

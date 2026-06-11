@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: خمير الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন খমের
+    auto: true
   - translation_iso: deu
     name: Nördliches Khmer
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: khmer du Nord
   - translation_iso: hin
     name: उत्तरी ख्मेर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Khmer
     auto: true
   - translation_iso: jpn
     name: スリン・クメール語

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: وانغكايوتيورو
     auto: true
+  - translation_iso: ben
+    name: ওয়াংকায়ুতয়ুরু
+    auto: true
   - translation_iso: deu
     name: Wangkayutyuru
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: wangkayutyuru
   - translation_iso: hin
     name: वंगकयुत्युरु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wangkayutyuru
     auto: true
   - translation_iso: jpn
     name: ワンガカユティル語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيتوانيا ثارو
     auto: true
+  - translation_iso: ben
+    name: চিতওয়ানিয়া থারু
+    auto: true
   - translation_iso: deu
     name: Chitwania Tharu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tharu chitwania
   - translation_iso: hin
     name: चितवनिया थारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chitwania Tharu
     auto: true
   - translation_iso: jpn
     name: チトワニア・タル語

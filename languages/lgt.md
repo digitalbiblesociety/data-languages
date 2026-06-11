@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اهي
     auto: true
+  - translation_iso: ben
+    name: পাহি
+    auto: true
   - translation_iso: deu
     name: Pahi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pahi
   - translation_iso: hin
     name: पाही
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pahi
     auto: true
   - translation_iso: jpn
     name: パヒ語

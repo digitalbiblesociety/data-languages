@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيراروتو
     auto: true
+  - translation_iso: ben
+    name: ইরারুতু
+    auto: true
   - translation_iso: deu
     name: Irarutu
     auto: true

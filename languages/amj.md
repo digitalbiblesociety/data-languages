@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अमदांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amdang
+    auto: true
   - translation_iso: jpn
     name: アムダン語
   - translation_iso: kor

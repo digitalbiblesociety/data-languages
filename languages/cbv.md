@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاكوا
     auto: true
+  - translation_iso: ben
+    name: কাকুয়া
+    auto: true
   - translation_iso: deu
     name: Cacua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kakua
   - translation_iso: hin
     name: काकुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cacua
     auto: true
   - translation_iso: jpn
     name: カクア語

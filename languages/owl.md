@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة الويلزية القديمة
     auto: true
+  - translation_iso: ben
+    name: ওলদ ওয়েলশ
+    auto: true
   - translation_iso: deu
     name: Altwalisisch
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوسيرنا
     auto: true
+  - translation_iso: ben
+    name: পাউসেরনা
+    auto: true
   - translation_iso: deu
     name: Pauserna
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pauserna
   - translation_iso: hin
     name: पाउसेर्ना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pauserna
     auto: true
   - translation_iso: jpn
     name: パウセルナ語

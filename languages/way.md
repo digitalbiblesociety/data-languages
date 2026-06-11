@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: وايانا
     auto: true
+  - translation_iso: ben
+    name: ওয়ায়ানা
+    auto: true
   - translation_iso: deu
     name: Wayana
   - translation_iso: fra
     name: wayana
   - translation_iso: hin
     name: वायाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wayana
     auto: true
   - translation_iso: jpn
     name: ワヤナ語

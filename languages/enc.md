@@ -18,6 +18,9 @@ glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern 
 wikidata_id: Q3504110
 wikipedia_url: "https://en.wikipedia.org/wiki/En_language"
 translations:
+  - translation_iso: ben
+    name: এন
+    auto: true
   - translation_iso: deu
     name: En
     auto: true

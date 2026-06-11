@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: तिमोर पिजिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Timor Pidgin
+    auto: true
   - translation_iso: jpn
     name: ティモール・ピジン語
     auto: true

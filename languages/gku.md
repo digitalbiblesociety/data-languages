@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ǂونجكوإ
     auto: true
+  - translation_iso: ben
+    name: উংকুএ
+    auto: true
   - translation_iso: deu
     name: ǂUngkue
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: ǂungkue
   - translation_iso: hin
     name: उंगक्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa ǂUngkue
     auto: true
   - translation_iso: jpn
     name: ウングク語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكو
     auto: true
+  - translation_iso: ben
+    name: ওরোকো
+    auto: true
   - translation_iso: deu
     name: Oroko
   - translation_iso: fra
     name: oroko
   - translation_iso: hin
     name: ओरोको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oroko
     auto: true
   - translation_iso: jpn
     name: オロコ語

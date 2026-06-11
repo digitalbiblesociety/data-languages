@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: شيربْرو
     auto: true
+  - translation_iso: ben
+    name: শেরবরো
+    auto: true
   - translation_iso: deu
     name: Sherbro
   - translation_iso: fra
     name: Sherbro
   - translation_iso: hin
     name: शेरब्रो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sherbro
     auto: true
   - translation_iso: jpn
     name: シェルブロ語

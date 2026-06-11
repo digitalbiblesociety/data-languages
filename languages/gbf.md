@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجايكوندي
     auto: true
+  - translation_iso: ben
+    name: গাইকুনদি
+    auto: true
   - translation_iso: deu
     name: Gaikundi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gaikundi
   - translation_iso: hin
     name: गायकुंडी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gaikundi
     auto: true
   - translation_iso: jpn
     name: ガイクンディ語

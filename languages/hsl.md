@@ -29,6 +29,9 @@ translations:
     name: langue des signes haoussa
   - translation_iso: hin
     name: हौसा सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Hausa Sign Language
+    auto: true
   - translation_iso: jpn
     name: ハウサ手話
   - translation_iso: kor

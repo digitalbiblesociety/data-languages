@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة جوا
     auto: true
+  - translation_iso: ben
+    name: ঝোয়া
+    auto: true
   - translation_iso: deu
     name: Zhoa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhoa
   - translation_iso: hin
     name: ज़ोआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zhoa
     auto: true
   - translation_iso: jpn
     name: ゾア語

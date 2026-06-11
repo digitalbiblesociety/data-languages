@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: ميددلي بريتون
     auto: true
+  - translation_iso: ben
+    name: মিদ্দলে বরেতোন
+    auto: true
   - translation_iso: deu
     name: Mittelbretonisch
   - translation_iso: fra
     name: moyen breton
   - translation_iso: hin
     name: मध्य ब्रेटन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Middle Breton
     auto: true
   - translation_iso: jpn
     name: 中ブルトン語

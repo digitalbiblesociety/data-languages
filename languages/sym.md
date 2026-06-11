@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مايا سامو
     auto: true
+  - translation_iso: ben
+    name: মায়া সামো
+    auto: true
   - translation_iso: deu
     name: Maya Samo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: samo maya
   - translation_iso: hin
     name: माया सामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maya Samo
     auto: true
   - translation_iso: jpn
     name: マヤ・サモ語

@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अरीफामा-मिनियाफिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arifama-Miniafia
+    auto: true
   - translation_iso: jpn
     name: アリファマミニアフィア語
     auto: true

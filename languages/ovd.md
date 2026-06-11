@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: एल्फडेलियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Elfdalian
+    auto: true
   - translation_iso: jpn
     name: エルヴダーレン語
   - translation_iso: kor

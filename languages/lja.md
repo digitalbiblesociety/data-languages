@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة ولپا
     auto: true
+  - translation_iso: ben
+    name: গোলপা
+    auto: true
   - translation_iso: deu
     name: Golpa
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: golpa
   - translation_iso: hin
     name: गोल्पा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Golpa
     auto: true
   - translation_iso: jpn
     name: ゴルパ語

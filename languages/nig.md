@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نجالكجان
     auto: true
+  - translation_iso: ben
+    name: ঙালাকগান
+    auto: true
   - translation_iso: deu
     name: Ngalakgan
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngalakgan
   - translation_iso: hin
     name: न्गालाकगान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngalakgan
     auto: true
   - translation_iso: jpn
     name: ングアラクガン語

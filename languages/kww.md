@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوينتي
     auto: true
+  - translation_iso: ben
+    name: কওয়িনতি
+    auto: true
   - translation_iso: deu
     name: Kwinti
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kwinti
   - translation_iso: hin
     name: क्विंटी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwinti
     auto: true
   - translation_iso: jpn
     name: クウィンティ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mesmes_language"
 translations:
   - translation_iso: ara
     name: لغة مسمس
+  - translation_iso: ben
+    name: মেসমেস
+    auto: true
   - translation_iso: deu
     name: Mesmes
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mesmes
   - translation_iso: hin
     name: मेस्मेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mesmes
     auto: true
   - translation_iso: jpn
     name: メスメス語

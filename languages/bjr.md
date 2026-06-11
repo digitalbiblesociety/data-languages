@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بينومريين
     auto: true
+  - translation_iso: ben
+    name: বিনুমারিএন
+    auto: true
   - translation_iso: deu
     name: Binumarien
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: binumarien
   - translation_iso: hin
     name: बिनुमारिएन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Binumarien
     auto: true
   - translation_iso: jpn
     name: ビヌマリエン語

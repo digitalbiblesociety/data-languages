@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كينكي
     auto: true
+  - translation_iso: ben
+    name: কুইনকুই
+    auto: true
   - translation_iso: deu
     name: Quinqui
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: किंकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quinqui
     auto: true
   - translation_iso: jpn
     name: キンキ語

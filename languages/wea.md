@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويواو
     auto: true
+  - translation_iso: ben
+    name: ওয়েওয়াওয়
+    auto: true
   - translation_iso: deu
     name: Wewaw
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wewaw
   - translation_iso: hin
     name: वेवॉ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wewaw
     auto: true
   - translation_iso: jpn
     name: ウェワウ語

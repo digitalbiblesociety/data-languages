@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نوني الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন নুনি
+    auto: true
   - translation_iso: deu
     name: Nördliches Nuni
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nuni du Nord
   - translation_iso: hin
     name: उत्तरी नुनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Nuni
     auto: true
   - translation_iso: jpn
     name: 北ヌニ語

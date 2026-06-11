@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكينابالي
     auto: true
+  - translation_iso: ben
+    name: কিনাবালিয়ান
+    auto: true
   - translation_iso: deu
     name: Kinabalian
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: किनाबालियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kinabalian
     auto: true
   - translation_iso: jpn
     name: キナバリアン語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة وسينجو
     auto: true
+  - translation_iso: ben
+    name: লুসেঙো
+    auto: true
   - translation_iso: deu
     name: Lusengo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: losengo
   - translation_iso: hin
     name: लुसेंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lusengo
     auto: true
   - translation_iso: jpn
     name: ルセンゴ語

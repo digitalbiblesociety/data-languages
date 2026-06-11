@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة إسيراوا
     auto: true
+  - translation_iso: ben
+    name: ইসিরাওয়া
+    auto: true
   - translation_iso: deu
     name: Isirawa
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هبون
     auto: true
+  - translation_iso: ben
+    name: হপোন
+    auto: true
   - translation_iso: deu
     name: Hpon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hpon
   - translation_iso: hin
     name: ह्पोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hpon
     auto: true
   - translation_iso: jpn
     name: フポン語

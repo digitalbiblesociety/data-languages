@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: رانا ثارو
     auto: true
+  - translation_iso: ben
+    name: রানা থারু
+    auto: true
   - translation_iso: deu
     name: Rana Tharu
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: tharu rana
   - translation_iso: hin
     name: राना थारू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rana Tharu
     auto: true
   - translation_iso: jpn
     name: ラナ・タル語

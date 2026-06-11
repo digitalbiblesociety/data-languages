@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ييندروو
     auto: true
+  - translation_iso: ben
+    name: নয়িনদরোউ
+    auto: true
   - translation_iso: deu
     name: Nyindrou
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nyindrou
   - translation_iso: hin
     name: न्यिंद्रोउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyindrou
     auto: true
   - translation_iso: jpn
     name: ニインドロウ語

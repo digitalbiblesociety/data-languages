@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توا إندونيسيا
     auto: true
+  - translation_iso: ben
+    name: তেওয়া
+    auto: true
   - translation_iso: deu
     name: Tewa (Indonesien)
     auto: true

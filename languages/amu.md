@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة غيريرو أموزغو
     auto: true
+  - translation_iso: ben
+    name: গুএর্রেরো আমুজগো
+    auto: true
   - translation_iso: deu
     name: Guerrero-Amuzgo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: amuzgo du Guerrero
   - translation_iso: hin
     name: गेरेरो आमुस्गो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guerrero Amuzgo
     auto: true
   - translation_iso: jpn
     name: ゲレロ・アムスゴ語

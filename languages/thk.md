@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ثاراكا
     auto: true
+  - translation_iso: ben
+    name: থারাকা
+    auto: true
   - translation_iso: deu
     name: Tharaka
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tharaka
   - translation_iso: hin
     name: थाराका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tharaka
     auto: true
   - translation_iso: jpn
     name: ターラカ語

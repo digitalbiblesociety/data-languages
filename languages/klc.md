@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كولبيلا
     auto: true
+  - translation_iso: ben
+    name: কোলবিলা
+    auto: true
   - translation_iso: deu
     name: Kolbila
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kolbila
   - translation_iso: hin
     name: कोलबिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kolbila
     auto: true
   - translation_iso: jpn
     name: コルビラ語

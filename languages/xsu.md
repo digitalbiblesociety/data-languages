@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سانوما
     auto: true
+  - translation_iso: ben
+    name: সানুমা
+    auto: true
   - translation_iso: deu
     name: Sanumá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sanumá
   - translation_iso: hin
     name: सानुमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sanumá
     auto: true
   - translation_iso: jpn
     name: サヌマ語

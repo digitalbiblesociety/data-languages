@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيرانو
     auto: true
+  - translation_iso: ben
+    name: সের্রানো
+    auto: true
   - translation_iso: deu
     name: Serrano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: serrano
   - translation_iso: hin
     name: सेर्रानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Serrano
     auto: true
   - translation_iso: jpn
     name: セラーノ語

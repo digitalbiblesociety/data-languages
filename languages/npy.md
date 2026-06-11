@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نابو
     auto: true
+  - translation_iso: ben
+    name: নাপু
+    auto: true
   - translation_iso: deu
     name: Napu
     auto: true

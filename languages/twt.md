@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: توريوارا
     auto: true
+  - translation_iso: ben
+    name: তুরিওয়ারা
+    auto: true
   - translation_iso: deu
     name: Turiwára
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: turiwara
   - translation_iso: hin
     name: तुरिवारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Turiwára
     auto: true
   - translation_iso: jpn
     name: トゥリウアラ語

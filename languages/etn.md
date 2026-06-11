@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإيتون
     auto: true
+  - translation_iso: ben
+    name: এতোন
+    auto: true
   - translation_iso: deu
     name: Eton (Vanuatu)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: eton
   - translation_iso: hin
     name: एटोन (वानुअतु)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eton
     auto: true
   - translation_iso: jpn
     name: エトン語

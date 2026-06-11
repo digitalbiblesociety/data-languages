@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تريكي كوبالا
     auto: true
+  - translation_iso: ben
+    name: কোপালা তরিকুই
+    auto: true
   - translation_iso: deu
     name: Copala Triqui
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: trique de Copala
   - translation_iso: hin
     name: कोपाला त्रिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Copala Triqui
     auto: true
   - translation_iso: jpn
     name: シナアンフ語

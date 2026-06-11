@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيمبوي
     auto: true
+  - translation_iso: ben
+    name: পিমবওয়ে
+    auto: true
   - translation_iso: deu
     name: Pimbwe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pimbwe
   - translation_iso: hin
     name: पिम्ब्वे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pimbwe
     auto: true
   - translation_iso: jpn
     name: ピムベ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجودواري
     auto: true
+  - translation_iso: ben
+    name: গোদওয়ারি
+    auto: true
   - translation_iso: deu
     name: Godwari
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गोडवाड़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Godwari
     auto: true
   - translation_iso: jpn
     name: ゴドワリ語

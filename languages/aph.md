@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अठपरिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Athpariya
+    auto: true
   - translation_iso: jpn
     name: アスパリヤ語
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आइसलैंडिक सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Icelandic Sign Language
+    auto: true
   - translation_iso: jpn
     name: アイスランド手話
   - translation_iso: kor

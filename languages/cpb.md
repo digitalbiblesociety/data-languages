@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوكاياليي-يوروا أشينينكا
     auto: true
+  - translation_iso: ben
+    name: উকায়ালি-য়ুরুয়া আশেনিনকা
+    auto: true
   - translation_iso: deu
     name: Ucayali-Yurúa-Ashéninka
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उकायाली-युरूआ अशेनिन्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ucayali-Yurúa Ashéninka
     auto: true
   - translation_iso: jpn
     name: ウカヤリ・ユルアー・アシェニンカ語

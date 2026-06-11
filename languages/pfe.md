@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بيري
     auto: true
+  - translation_iso: ben
+    name: পেরে
+    auto: true
   - translation_iso: deu
     name: Peere
   - translation_iso: fra
     name: peere
   - translation_iso: hin
     name: पीरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Peere
     auto: true
   - translation_iso: jpn
     name: ペーレ語

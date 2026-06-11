@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ليالاو تشينانتك
     auto: true
+  - translation_iso: ben
+    name: লেয়ালাও চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Lealao-Chinantekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लेआलाओ चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lealao Chinantec
     auto: true
   - translation_iso: jpn
     name: レアラオ・チナンテク語

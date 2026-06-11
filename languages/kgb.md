@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كاوي
     auto: true
+  - translation_iso: ben
+    name: কাওয়ে
+    auto: true
   - translation_iso: deu
     name: Kawe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kawe
   - translation_iso: hin
     name: कावे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kawe
     auto: true
   - translation_iso: jpn
     name: カウェ語

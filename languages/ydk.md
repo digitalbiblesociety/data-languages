@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: يويديك
     auto: true
+  - translation_iso: ben
+    name: য়োইদিক
+    auto: true
   - translation_iso: deu
     name: Yoidik
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: योइदिक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yoidik
     auto: true
   - translation_iso: jpn
     name: ヨイディク語

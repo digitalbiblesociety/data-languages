@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الجيدجيد
     auto: true
+  - translation_iso: ben
+    name: গেদাগেদ
+    auto: true
   - translation_iso: deu
     name: Gedaged
   - translation_iso: fra
     name: gedaged
   - translation_iso: hin
     name: गेदागेद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gedaged
     auto: true
   - translation_iso: jpn
     name: ゲダーゲド語

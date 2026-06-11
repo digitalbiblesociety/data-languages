@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كابتيو
     auto: true
+  - translation_iso: ben
+    name: কাপতিয়াউ
+    auto: true
   - translation_iso: deu
     name: Kaptiau
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कापतियाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kaptiau
     auto: true
   - translation_iso: jpn
     name: カプティアウ語

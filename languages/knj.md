@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: पश्चिमी कांजोबाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Western Kanjobal
+    auto: true
   - translation_iso: jpn
     name: アカテク語
   - translation_iso: kor

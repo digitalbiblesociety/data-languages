@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बिलुर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bilur
+    auto: true
   - translation_iso: jpn
     name: ビルル語
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ali
+    auto: true
   - translation_iso: jpn
     name: アリ語
     auto: true

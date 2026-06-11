@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالابندارام
     auto: true
+  - translation_iso: ben
+    name: মালাপানদারাম
+    auto: true
   - translation_iso: deu
     name: Malapandaram
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malapandaram
   - translation_iso: hin
     name: मलपंडारम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Malapandaram
     auto: true
   - translation_iso: jpn
     name: マラパンダラム語

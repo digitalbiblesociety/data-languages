@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نافوت
     auto: true
+  - translation_iso: ben
+    name: নাভুত
+    auto: true
   - translation_iso: deu
     name: Navut
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: navut
   - translation_iso: hin
     name: नावुत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Navut
     auto: true
   - translation_iso: jpn
     name: ナブ語

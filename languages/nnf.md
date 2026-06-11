@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نغاينج
     auto: true
+  - translation_iso: ben
+    name: ঙাইং
+    auto: true
   - translation_iso: deu
     name: Ngaing
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ngaing
   - translation_iso: hin
     name: न्गाइंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngaing
     auto: true
   - translation_iso: jpn
     name: ガイン語

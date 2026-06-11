@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة فالا
     auto: true
+  - translation_iso: ben
+    name: ফালা
+    auto: true
   - translation_iso: deu
     name: Phala
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: phala
   - translation_iso: hin
     name: फाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phala
     auto: true
   - translation_iso: jpn
     name: ファラ語

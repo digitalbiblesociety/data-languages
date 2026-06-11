@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتيا
     auto: true
+  - translation_iso: ben
+    name: পাথিয়া
+    auto: true
   - translation_iso: deu
     name: Pathiya
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पथिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pathiya
     auto: true
   - translation_iso: jpn
     name: パティーヤ語

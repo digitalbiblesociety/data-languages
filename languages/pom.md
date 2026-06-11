@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الجنوبية الشرقية
     auto: true
+  - translation_iso: ben
+    name: সোউথেয়াসতেরন পোমো
+    auto: true
   - translation_iso: deu
     name: Südöstliches Pomo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pomo du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्वी पोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southeastern Pomo
     auto: true
   - translation_iso: jpn
     name: 南東ポモ語

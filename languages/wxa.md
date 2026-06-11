@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واخيانغهوا
     auto: true
+  - translation_iso: ben
+    name: ওয়াকসিয়াংহুয়া
+    auto: true
   - translation_iso: deu
     name: Waxianghua
     auto: true

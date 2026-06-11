@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة الكامبيدانية الساردينية
     auto: true
+  - translation_iso: ben
+    name: কামপিদানেসে সারদিনিয়ান
+    auto: true
   - translation_iso: deu
     name: Campidanesisch
   - translation_iso: fra
     name: campidanien
   - translation_iso: hin
     name: कैम्पिडानेसे सार्डिनियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Campidanese Sardinian
     auto: true
   - translation_iso: jpn
     name: カンピダーノ・サルデーニャ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دونج
     auto: true
+  - translation_iso: ben
+    name: দোং
+    auto: true
   - translation_iso: deu
     name: Dong
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dong
   - translation_iso: hin
     name: डोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dong
     auto: true
   - translation_iso: jpn
     name: ドン語

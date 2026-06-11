@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوليكها
     auto: true
+  - translation_iso: ben
+    name: ওলেখা
+    auto: true
   - translation_iso: deu
     name: Olekha
     auto: true

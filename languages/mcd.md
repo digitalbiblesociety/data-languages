@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة شارانتاهوا
     auto: true
+  - translation_iso: ben
+    name: শারানাহুয়া
+    auto: true
   - translation_iso: deu
     name: Sharanahua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sharanahua
   - translation_iso: hin
     name: शारानाहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sharanahua
     auto: true
   - translation_iso: jpn
     name: シャラナウア語

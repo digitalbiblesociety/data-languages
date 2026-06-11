@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مورو
     auto: true
+  - translation_iso: ben
+    name: মোরু
+    auto: true
   - translation_iso: deu
     name: Moru
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: moru
   - translation_iso: hin
     name: मोरू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moru
     auto: true
   - translation_iso: jpn
     name: モル語

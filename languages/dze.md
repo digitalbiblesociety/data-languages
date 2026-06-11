@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الدجيواري
     auto: true
+  - translation_iso: ben
+    name: দজিওয়ারলি
+    auto: true
   - translation_iso: deu
     name: Djiwarli
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: djiwarli
   - translation_iso: hin
     name: जिवार्ली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Djiwarli
     auto: true
   - translation_iso: jpn
     name: ジウワルリ語

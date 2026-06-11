@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سكواميش
     auto: true
+  - translation_iso: ben
+    name: সকুয়ামিশ
+    auto: true
   - translation_iso: deu
     name: Squamish
   - translation_iso: fra
     name: squamish
   - translation_iso: hin
     name: स्क्वामिश
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Squamish
     auto: true
   - translation_iso: jpn
     name: スクォミッシ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: داركينيونغ
     auto: true
+  - translation_iso: ben
+    name: দারকিনয়ুং
+    auto: true
   - translation_iso: deu
     name: Darkinyung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: darkinyung
   - translation_iso: hin
     name: डार्किनयुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Darkinyung
     auto: true
   - translation_iso: jpn
     name: ダルキニユング語

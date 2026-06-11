@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة فيمبي
     auto: true
+  - translation_iso: ben
+    name: ফেমবে
+    auto: true
   - translation_iso: deu
     name: Fembe
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fembe
   - translation_iso: hin
     name: फेम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fembe
     auto: true
   - translation_iso: jpn
     name: フェンベ語

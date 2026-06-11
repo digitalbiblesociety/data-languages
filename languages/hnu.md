@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هونغ
     auto: true
+  - translation_iso: ben
+    name: হুং
+    auto: true
   - translation_iso: deu
     name: Hung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hung
   - translation_iso: hin
     name: हुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hung
     auto: true
   - translation_iso: jpn
     name: ハング語

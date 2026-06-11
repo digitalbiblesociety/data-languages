@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: ben
+    name: নিমি
+    auto: true
   - translation_iso: deu
     name: Nimi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nimi
     auto: true
   - translation_iso: jpn
     name: ニミ語

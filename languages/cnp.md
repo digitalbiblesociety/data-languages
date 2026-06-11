@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: شمال بينغ الصينية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন পিং চিনেসের
+    auto: true
   - translation_iso: deu
     name: Nördliches Ping-Chinesisch
     auto: true
@@ -30,6 +33,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उत्तरी पिंग चीनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Ping Chinese\r
     auto: true
   - translation_iso: jpn
     name: 桂北平話

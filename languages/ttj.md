@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: توورو
     auto: true
+  - translation_iso: ben
+    name: তোরো
+    auto: true
   - translation_iso: deu
     name: Toro
   - translation_iso: fra
     name: toro
   - translation_iso: hin
     name: तूरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tooro
     auto: true
   - translation_iso: jpn
     name: トーロ語

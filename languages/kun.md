@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كونامة
     auto: true
+  - translation_iso: ben
+    name: কুনামা
+    auto: true
   - translation_iso: deu
     name: Kunama
   - translation_iso: fra
     name: kunama
   - translation_iso: hin
     name: कुनामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kunama
     auto: true
   - translation_iso: jpn
     name: クナマ語

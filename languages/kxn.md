@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ميلاناو كانويت-تانجونج
     auto: true
+  - translation_iso: ben
+    name: কানোওয়িত-তানজোং মেলানাউ
+    auto: true
   - translation_iso: deu
     name: Kanowit-Tanjong-Melanau
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kanowit
   - translation_iso: hin
     name: कनोविट-तंजोंग मेलानाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kanowit-Tanjong Melanau
     auto: true
   - translation_iso: jpn
     name: カノウィット・タンジョン・メラナウ語

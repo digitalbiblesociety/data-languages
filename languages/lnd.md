@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ونداييه
     auto: true
+  - translation_iso: ben
+    name: লুনদায়েহ
+    auto: true
   - translation_iso: deu
     name: Lundayeh
     auto: true

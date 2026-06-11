@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كامونيك
     auto: true
+  - translation_iso: ben
+    name: কামুনিক
+    auto: true
   - translation_iso: deu
     name: Camunnisch
   - translation_iso: fra

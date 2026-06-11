@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيجيجو
     auto: true
+  - translation_iso: ben
+    name: সেগেজু
+    auto: true
   - translation_iso: deu
     name: Segeju
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: segeju
   - translation_iso: hin
     name: सेगेजू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Segeju
     auto: true
   - translation_iso: jpn
     name: キセゲジュ語

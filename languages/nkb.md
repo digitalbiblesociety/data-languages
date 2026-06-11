@@ -29,6 +29,9 @@ translations:
     name: khoibu
   - translation_iso: hin
     name: खोइबु
+  - translation_iso: ind
+    name: Bahasa Khoibu Naga
+    auto: true
   - translation_iso: jpn
     name: コイブー
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: ben
+    name: নেমি
+    auto: true
   - translation_iso: deu
     name: Nemi
     auto: true

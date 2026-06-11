@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سيبا
     auto: true
+  - translation_iso: ben
+    name: সেবা
+    auto: true
   - translation_iso: deu
     name: Seba
   - translation_iso: fra

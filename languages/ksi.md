@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كريسا
     auto: true
+  - translation_iso: ben
+    name: করিসা
+    auto: true
   - translation_iso: deu
     name: Krisa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: krisa
   - translation_iso: hin
     name: क्रिसा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Krisa
     auto: true
   - translation_iso: jpn
     name: クリサ語

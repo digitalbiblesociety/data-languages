@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غيتكسسآن
     auto: true
+  - translation_iso: ben
+    name: গিতকস্সান
+    auto: true
   - translation_iso: deu
     name: Gitxsan
   - translation_iso: fra
     name: gitksan
   - translation_iso: hin
     name: गित्क्सान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gitxsan
     auto: true
   - translation_iso: jpn
     name: ギッチサン語

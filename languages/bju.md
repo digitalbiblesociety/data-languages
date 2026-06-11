@@ -20,12 +20,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Busuu_language"
 translations:
   - translation_iso: ara
     name: لغة بوسو
+  - translation_iso: ben
+    name: বুসু
+    auto: true
   - translation_iso: deu
     name: Busuu
   - translation_iso: fra
     name: busuu
   - translation_iso: hin
     name: बुसू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Busuu
     auto: true
   - translation_iso: jpn
     name: ブスー語

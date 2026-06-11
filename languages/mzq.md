@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: موري أتاس
     auto: true
+  - translation_iso: ben
+    name: মোরি আতাস
+    auto: true
   - translation_iso: deu
     name: Mori Atas
   - translation_iso: fra

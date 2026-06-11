@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كاروالي
     auto: true
+  - translation_iso: ben
+    name: কারুওয়ালি
+    auto: true
   - translation_iso: deu
     name: Karuwali
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: karuwali
   - translation_iso: hin
     name: करुवाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karuwali
     auto: true
   - translation_iso: jpn
     name: ガラワリ語

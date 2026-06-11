@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياربا
     auto: true
+  - translation_iso: ben
+    name: য়ারেবা
+    auto: true
   - translation_iso: deu
     name: Yareba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yareba
   - translation_iso: hin
     name: यारेबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yareba
     auto: true
   - translation_iso: jpn
     name: ヤレバ語

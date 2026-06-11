@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مالمبونج
     auto: true
+  - translation_iso: ben
+    name: মালিমপুং
+    auto: true
   - translation_iso: deu
     name: Malimpung
   - translation_iso: fra

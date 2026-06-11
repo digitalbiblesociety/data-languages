@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيم
     auto: true
+  - translation_iso: ben
+    name: জেম
+    auto: true
   - translation_iso: deu
     name: Zeem
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: zeem
   - translation_iso: hin
     name: ज़ीम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zeem
     auto: true
   - translation_iso: jpn
     name: ジーム語

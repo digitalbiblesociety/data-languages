@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة سيروا
     auto: true
+  - translation_iso: ben
+    name: সেরোয়া
+    auto: true
   - translation_iso: deu
     name: Seroa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: seroa
   - translation_iso: hin
     name: सेरोआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Seroa
     auto: true
   - translation_iso: jpn
     name: セロア語

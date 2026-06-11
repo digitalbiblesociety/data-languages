@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لوور جراند فالي داني
     auto: true
+  - translation_iso: ben
+    name: লোওয়ের গরানদ ভাল্লেয় দানি
+    auto: true
   - translation_iso: deu
     name: Lower Grand Valley Dani
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: निचली ग्रैंड वैली दानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lower Grand Valley Dani
     auto: true
   - translation_iso: jpn
     name: ロウアー・グランド・ヴァレー・ダニ語

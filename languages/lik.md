@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يكا
     auto: true
+  - translation_iso: ben
+    name: লিকা
+    auto: true
   - translation_iso: deu
     name: Lika
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: lika
   - translation_iso: hin
     name: लिका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lika
     auto: true
   - translation_iso: jpn
     name: リカ語

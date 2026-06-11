@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملغاسية البلاتو
     auto: true
+  - translation_iso: ben
+    name: পলাতেয়াউ মালাগাসয়
+    auto: true
   - translation_iso: deu
     name: Plateau-Malagasy
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: malgache du plateau
   - translation_iso: hin
     name: पठारी मालागासी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Plateau Malagasy
     auto: true
   - translation_iso: jpn
     name: プラトー・マダガスカル語

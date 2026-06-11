@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة قيلا موجي
     auto: true
+  - translation_iso: ben
+    name: কিলা মুজি
+    auto: true
   - translation_iso: deu
     name: Qila Muji
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: muji qila
   - translation_iso: hin
     name: किला मूजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Qila Muji
     auto: true
   - translation_iso: jpn
     name: キラ・ムジ語

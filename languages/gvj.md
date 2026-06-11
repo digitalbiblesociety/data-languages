@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوآجá
     auto: true
+  - translation_iso: ben
+    name: গুয়াজা
+    auto: true
   - translation_iso: deu
     name: Guajá
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guaja
   - translation_iso: hin
     name: गुआहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guajá
     auto: true
   - translation_iso: jpn
     name: グアジャ語

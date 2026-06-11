@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بيوم
     auto: true
+  - translation_iso: ben
+    name: বিয়োম
+    auto: true
   - translation_iso: deu
     name: Biyom
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बियोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Biyom
     auto: true
   - translation_iso: jpn
     name: ビヨム語

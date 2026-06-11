@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अंकावे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ankave
+    auto: true
   - translation_iso: jpn
     name: アンカベ語
     auto: true

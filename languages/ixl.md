@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة إيكسيل
     auto: true
+  - translation_iso: ben
+    name: ইকসিল
+    auto: true
   - translation_iso: deu
     name: Ixil-Sprache
   - translation_iso: fra
     name: ixil
   - translation_iso: hin
     name: इक्सिल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ixil
     auto: true
   - translation_iso: jpn
     name: イシル語

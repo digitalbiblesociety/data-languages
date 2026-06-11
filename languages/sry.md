@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيرا
     auto: true
+  - translation_iso: ben
+    name: সেরা
+    auto: true
   - translation_iso: deu
     name: Sera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sera
   - translation_iso: hin
     name: सेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sera
     auto: true
   - translation_iso: jpn
     name: セラ語

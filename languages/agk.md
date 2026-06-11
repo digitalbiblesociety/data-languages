@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسارج أغتا
     auto: true
+  - translation_iso: ben
+    name: ইসারোগ আগতা
+    auto: true
   - translation_iso: deu
     name: Isarog-Agta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "agta d'Isarog"
   - translation_iso: hin
     name: इसारोग अग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Isarog Agta
     auto: true
   - translation_iso: jpn
     name: イサログ・アグタ語

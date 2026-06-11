@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الأرومية الغربية الوسطى
     auto: true
+  - translation_iso: ben
+    name: ওয়েসত কেনতরাল ওরোমো
+    auto: true
   - translation_iso: deu
     name: West-Central-Oromo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "oromo central de l'Ouest"
   - translation_iso: hin
     name: पश्चिम मध्य ओरोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa West Central Oromo
     auto: true
   - translation_iso: jpn
     name: 西中央オロモ語

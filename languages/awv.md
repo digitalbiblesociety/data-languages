@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة جاير أويو
     auto: true
+  - translation_iso: ben
+    name: জাইর আওয়য়ু
+    auto: true
   - translation_iso: deu
     name: Jair-Awyu
     auto: true

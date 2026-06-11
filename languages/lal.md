@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لاليا
     auto: true
+  - translation_iso: ben
+    name: লালিয়া
+    auto: true
   - translation_iso: deu
     name: Lalia
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लालिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lalia
     auto: true
   - translation_iso: jpn
     name: ラリア語

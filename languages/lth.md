@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة ثور
     auto: true
+  - translation_iso: ben
+    name: থুর
+    auto: true
   - translation_iso: deu
     name: Thur
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: thur
   - translation_iso: hin
     name: थुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Thur
     auto: true
   - translation_iso: jpn
     name: トゥア語

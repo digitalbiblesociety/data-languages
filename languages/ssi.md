@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانسي
     auto: true
+  - translation_iso: ben
+    name: সানসি
+    auto: true
   - translation_iso: deu
     name: Sansi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sansi
   - translation_iso: hin
     name: सांसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sansi
     auto: true
   - translation_iso: jpn
     name: サンシボリ語

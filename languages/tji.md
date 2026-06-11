@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: توجيا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন তুজিয়া
+    auto: true
   - translation_iso: deu
     name: Northern Tujia
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tujia du Nord
   - translation_iso: hin
     name: उत्तरी तुजिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Tujia
     auto: true
   - translation_iso: jpn
     name: プリ語

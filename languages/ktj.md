@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كرومن بلابو
     auto: true
+  - translation_iso: ben
+    name: পলাপো করুমেন
+    auto: true
   - translation_iso: deu
     name: Plapo-Krumen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kroumen plapo
   - translation_iso: hin
     name: प्लापो क्रूमेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Plapo Krumen
     auto: true
   - translation_iso: jpn
     name: プラポ・クルメン語

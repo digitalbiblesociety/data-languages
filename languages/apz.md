@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سافيوكا
     auto: true
+  - translation_iso: ben
+    name: সাফেয়োকা
+    auto: true
   - translation_iso: deu
     name: Safeyoka
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सफेयोका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Safeyoka
     auto: true
   - translation_iso: jpn
     name: サフェヨカ語

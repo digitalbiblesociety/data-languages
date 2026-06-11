@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: असुम्बोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Asumboa
+    auto: true
   - translation_iso: jpn
     name: アスンボア語
   - translation_iso: kor

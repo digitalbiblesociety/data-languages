@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تاي دون
     auto: true
+  - translation_iso: ben
+    name: তাই দোন
+    auto: true
   - translation_iso: deu
     name: Tai Dón
   - translation_iso: fra
     name: tay don
   - translation_iso: hin
     name: ताई दोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tai Dón
     auto: true
   - translation_iso: jpn
     name: タイ・ドン語

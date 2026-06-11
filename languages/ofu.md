@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: एफुटोप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Efutop
+    auto: true
   - translation_iso: jpn
     name: エフトプ語
     auto: true

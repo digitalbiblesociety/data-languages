@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تلاكولوليتا
     auto: true
+  - translation_iso: ben
+    name: তলাকোলুলিতা জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Tlacolulita)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: zapotèque de Tlacolulita
   - translation_iso: hin
     name: त्लाकोलूलिता सैपोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tlacolulita Zapotec
     auto: true
   - translation_iso: jpn
     name: トラコルリタ・サポテク語

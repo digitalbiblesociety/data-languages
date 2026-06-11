@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نونجو
     auto: true
+  - translation_iso: ben
+    name: নুঙু
+    auto: true
   - translation_iso: deu
     name: Nungu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Nungu
   - translation_iso: hin
     name: नुंगु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nungu
     auto: true
   - translation_iso: jpn
     name: ヌング語

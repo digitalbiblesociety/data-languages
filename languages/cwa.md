@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكابوا
     auto: true
+  - translation_iso: ben
+    name: কাবওয়া
+    auto: true
   - translation_iso: deu
     name: Kabwa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kabwa
   - translation_iso: hin
     name: काब्वा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kabwa
     auto: true
   - translation_iso: jpn
     name: カプワ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوكابوكا
     auto: true
+  - translation_iso: ben
+    name: পুকাপুকা
+    auto: true
   - translation_iso: deu
     name: Pukapukanisch
   - translation_iso: fra
     name: pukapuka
   - translation_iso: hin
     name: पुकापुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pukapuka
     auto: true
   - translation_iso: jpn
     name: プカプカ語

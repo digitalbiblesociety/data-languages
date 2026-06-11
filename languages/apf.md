@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهانان أجتا
     auto: true
+  - translation_iso: ben
+    name: পাহানান আগতা
+    auto: true
   - translation_iso: deu
     name: Pahanan-Agta
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पहानन आगता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pahanan Agta
     auto: true
   - translation_iso: jpn
     name: パハナン・アグタ語

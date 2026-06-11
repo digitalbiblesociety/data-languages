@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوزوماسين تشينانتك
     auto: true
+  - translation_iso: ben
+    name: ওজুমাকিন চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Ozumacín-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinantèque d’Ozumacín
   - translation_iso: hin
     name: ओज़ुमासिन चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ozumacín Chinantec
     auto: true
   - translation_iso: jpn
     name: オズマシン・チナンテク語

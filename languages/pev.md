@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيمونو
     auto: true
+  - translation_iso: ben
+    name: পেমোনো
+    auto: true
   - translation_iso: deu
     name: Pémono
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pémono
   - translation_iso: hin
     name: पेमोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pémono
     auto: true
   - translation_iso: jpn
     name: ペモノ語

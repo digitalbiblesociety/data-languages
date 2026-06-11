@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: رونجمي ناجا
     auto: true
+  - translation_iso: ben
+    name: রোংমেই নাগা
+    auto: true
   - translation_iso: deu
     name: Rongmei-Naga
     auto: true

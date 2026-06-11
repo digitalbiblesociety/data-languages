@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيريهو
     auto: true
+  - translation_iso: ben
+    name: কেরেহো
+    auto: true
   - translation_iso: deu
     name: Kereho
     auto: true

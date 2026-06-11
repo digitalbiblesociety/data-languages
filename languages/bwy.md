@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كوي بوامو
     auto: true
+  - translation_iso: ben
+    name: কওয়ি বওয়ামু
+    auto: true
   - translation_iso: deu
     name: Cwi Bwamu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bwamu cwi
   - translation_iso: hin
     name: च्वी ब्वामु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cwi Bwamu
     auto: true
   - translation_iso: jpn
     name: クウィ・ブワム語

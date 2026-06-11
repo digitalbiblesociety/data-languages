@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बांतायानोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bantayanon
+    auto: true
   - translation_iso: jpn
     name: バンタヤノン語
     auto: true

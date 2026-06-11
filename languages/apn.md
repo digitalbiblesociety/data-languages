@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अपिनाये
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apinayé
+    auto: true
   - translation_iso: jpn
     name: アピナエ語
     auto: true

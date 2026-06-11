@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة يالارنغا
     auto: true
+  - translation_iso: ben
+    name: য়ালারনঙা
+    auto: true
   - translation_iso: deu
     name: Yalarnnga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yalarnnga
   - translation_iso: hin
     name: यालार्न्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yalarnnga
     auto: true
   - translation_iso: jpn
     name: ヤラルンガ語

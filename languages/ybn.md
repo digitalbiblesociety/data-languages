@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: يابااانا
     auto: true
+  - translation_iso: ben
+    name: য়াবানা
+    auto: true
   - translation_iso: deu
     name: Yabaâna
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: याबाआना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yabaâna
     auto: true
   - translation_iso: jpn
     name: ヤバーナ語

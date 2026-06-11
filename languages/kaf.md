@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتسو
     auto: true
+  - translation_iso: ben
+    name: কাতসো
+    auto: true
   - translation_iso: deu
     name: Katso
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: katso
   - translation_iso: hin
     name: कात्सो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Katso
     auto: true
   - translation_iso: jpn
     name: カッソ語

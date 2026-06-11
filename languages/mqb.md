@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوكو
     auto: true
+  - translation_iso: ben
+    name: মবুকো
+    auto: true
   - translation_iso: deu
     name: Mbuko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mbuko
   - translation_iso: hin
     name: म्बुको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbuko
     auto: true
   - translation_iso: jpn
     name: ムブコ語

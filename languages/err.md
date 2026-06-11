@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإري
     auto: true
+  - translation_iso: ben
+    name: এর্রে
+    auto: true
   - translation_iso: deu
     name: Erre
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: erre
   - translation_iso: hin
     name: एरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Erre
     auto: true
   - translation_iso: jpn
     name: エレ語

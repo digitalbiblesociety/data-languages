@@ -30,6 +30,9 @@ translations:
     name: sadri
   - translation_iso: hin
     name: नागपुरी भाषा
+  - translation_iso: ind
+    name: Bahasa Sadri
+    auto: true
   - translation_iso: jpn
     name: サドリ語
   - translation_iso: kor

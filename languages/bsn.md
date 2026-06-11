@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बारासाना-एदुरिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barasana-Eduria
+    auto: true
   - translation_iso: jpn
     name: バラサナ・エドゥリア語
     auto: true

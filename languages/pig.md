@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيسابو
     auto: true
+  - translation_iso: ben
+    name: পিসাবো
+    auto: true
   - translation_iso: deu
     name: Pisabo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pisabo
   - translation_iso: hin
     name: पिसाबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pisabo
     auto: true
   - translation_iso: jpn
     name: ピサボ語

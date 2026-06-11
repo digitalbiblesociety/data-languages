@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ناموي
     auto: true
+  - translation_iso: ben
+    name: নামুয়ি
+    auto: true
   - translation_iso: deu
     name: Namuyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: namuyi
   - translation_iso: hin
     name: नामुयी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Namuyi
     auto: true
   - translation_iso: jpn
     name: ナムイ語

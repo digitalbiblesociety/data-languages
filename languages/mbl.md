@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكساكالي
     auto: true
+  - translation_iso: ben
+    name: মাকসাকালি
+    auto: true
   - translation_iso: deu
     name: Maxakalí
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: maxakali
   - translation_iso: hin
     name: माशाकाली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maxakalí
     auto: true
   - translation_iso: jpn
     name: マクサカリ語

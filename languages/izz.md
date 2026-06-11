@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة إيزي
     auto: true
+  - translation_iso: ben
+    name: ইজি
+    auto: true
   - translation_iso: deu
     name: Izii
     auto: true
@@ -22,6 +25,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: इज़ी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Izii
     auto: true
   - translation_iso: jpn
     name: イジー語

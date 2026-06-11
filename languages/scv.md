@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: شيني
     auto: true
+  - translation_iso: ben
+    name: শেনি
+    auto: true
   - translation_iso: deu
     name: Sheni
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sheni
   - translation_iso: hin
     name: शेनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sheni
     auto: true
   - translation_iso: jpn
     name: シェニ語

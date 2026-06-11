@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رانجلونج
     auto: true
+  - translation_iso: ben
+    name: রাংলোং
+    auto: true
   - translation_iso: deu
     name: Ranglong
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: रांगलोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ranglong
     auto: true
   - translation_iso: jpn
     name: ラングロン語

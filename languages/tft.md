@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ternate_language"
 translations:
   - translation_iso: ara
     name: لغة تيرنات
+  - translation_iso: ben
+    name: তেরনাতে
+    auto: true
   - translation_iso: deu
     name: Ternate
     auto: true

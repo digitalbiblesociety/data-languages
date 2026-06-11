@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أورو-با-إن
     auto: true
+  - translation_iso: ben
+    name: উরু-পা-ইন
+    auto: true
   - translation_iso: deu
     name: Uru-Pa-In
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उरु-पा-इन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uru-Pa-In
     auto: true
   - translation_iso: jpn
     name: ウル・パ・イン語

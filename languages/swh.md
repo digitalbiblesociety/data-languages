@@ -21,12 +21,18 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kiswahili"
 translations:
   - translation_iso: ara
     name: السواحيلية
+  - translation_iso: ben
+    name: কোয়াসতাল সওয়াহিলি
+    auto: true
   - translation_iso: deu
     name: Kisuaheli
   - translation_iso: fra
     name: kiswahili
   - translation_iso: hin
     name: स्वाहिली (तटीय)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coastal Swahili
     auto: true
   - translation_iso: jpn
     name: スワヒリ語

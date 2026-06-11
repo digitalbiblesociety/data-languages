@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسار
     auto: true
+  - translation_iso: ben
+    name: কিসার
+    auto: true
   - translation_iso: deu
     name: Kisar
     auto: true

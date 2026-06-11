@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غوبو
     auto: true
+  - translation_iso: ben
+    name: গোবু
+    auto: true
   - translation_iso: deu
     name: Gobu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gobu
   - translation_iso: hin
     name: गोबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gobu
     auto: true
   - translation_iso: jpn
     name: ゴブ語

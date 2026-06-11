@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة سيلي
     auto: true
+  - translation_iso: ben
+    name: সেলে
+    auto: true
   - translation_iso: deu
     name: Selee
   - translation_iso: fra
     name: selee
   - translation_iso: hin
     name: सेली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Selee
     auto: true
   - translation_iso: jpn
     name: セレ語

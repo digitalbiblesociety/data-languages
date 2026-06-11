@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكامبالاغيان
     auto: true
+  - translation_iso: ben
+    name: কামপালাগিয়ান
+    auto: true
   - translation_iso: deu
     name: Campalagian
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نامباس الكبيرة
     auto: true
+  - translation_iso: ben
+    name: বিগ নামবাস
+    auto: true
   - translation_iso: deu
     name: Big Nambas
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: big nambas
   - translation_iso: hin
     name: बिग नाम्बास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Big Nambas
     auto: true
   - translation_iso: jpn
     name: ビッグナンバス語

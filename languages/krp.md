@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كوروب
     auto: true
+  - translation_iso: ben
+    name: কোরোপ
+    auto: true
   - translation_iso: deu
     name: Korop
   - translation_iso: fra
     name: korop
   - translation_iso: hin
     name: कोरोप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Korop
     auto: true
   - translation_iso: jpn
     name: コロプ語

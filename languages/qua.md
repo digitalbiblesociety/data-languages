@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوابو
     auto: true
+  - translation_iso: ben
+    name: কুয়াপাওয়
+    auto: true
   - translation_iso: deu
     name: Quapaw
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quapaw
   - translation_iso: hin
     name: क्वापॉ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quapaw
     auto: true
   - translation_iso: jpn
     name: クアパー語

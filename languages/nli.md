@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غرانغالي
     auto: true
+  - translation_iso: ben
+    name: গরাঙালি
+    auto: true
   - translation_iso: deu
     name: Grangali
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: grangali
   - translation_iso: hin
     name: नंगलामी भाषा
+  - translation_iso: ind
+    name: Bahasa Grangali
+    auto: true
   - translation_iso: jpn
     name: ナンガラム語
   - translation_iso: kor

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساوسي
     auto: true
+  - translation_iso: ben
+    name: সাউসি
+    auto: true
   - translation_iso: deu
     name: Sausi
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: साउसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sausi
     auto: true
   - translation_iso: jpn
     name: ウヤ語

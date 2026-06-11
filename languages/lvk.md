@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: لغة افوكاليفي
     auto: true
+  - translation_iso: ben
+    name: লাভুকালেভে
+    auto: true
   - translation_iso: deu
     name: Lavukaleve
   - translation_iso: fra
     name: lavukaleve
   - translation_iso: hin
     name: लावुकालेवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lavukaleve
     auto: true
   - translation_iso: jpn
     name: ラヴカルヴェ語

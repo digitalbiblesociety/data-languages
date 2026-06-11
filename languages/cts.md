@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: البيكول الشمالي كاتانديانيس
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন কাতানদুয়ানেস বিকোল
+    auto: true
   - translation_iso: deu
     name: Nördliches Catanduanes-Bikol
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: bikol du Nord de Catanduanes
   - translation_iso: hin
     name: उत्तरी कातांडुआनेस बिकोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Catanduanes Bikol
     auto: true
   - translation_iso: jpn
     name: 北カタンドゥアネス・ビコール語

@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: विशावन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Vishavan
+    auto: true
   - translation_iso: jpn
     name: マランクディ語
     auto: true

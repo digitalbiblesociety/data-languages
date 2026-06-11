@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موتيبو
     auto: true
+  - translation_iso: ben
+    name: মওয়াতেবু
+    auto: true
   - translation_iso: deu
     name: Mwatebu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mwatebu
   - translation_iso: hin
     name: म्वातेबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mwatebu
     auto: true
   - translation_iso: jpn
     name: ムワテブ語

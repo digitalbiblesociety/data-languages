@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة امبويا
     auto: true
+  - translation_iso: ben
+    name: লামবোয়া
+    auto: true
   - translation_iso: deu
     name: Lamboya
     auto: true

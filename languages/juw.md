@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة وافا
     auto: true
+  - translation_iso: ben
+    name: ওয়াফা
+    auto: true
   - translation_iso: deu
     name: Wãpha
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wãpha
   - translation_iso: hin
     name: वाँफा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wãpha
     auto: true
   - translation_iso: jpn
     name: ワムファ語

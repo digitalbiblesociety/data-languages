@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة دانو
     auto: true
+  - translation_iso: ben
+    name: দানো
+    auto: true
   - translation_iso: deu
     name: Dano
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dano
     auto: true
   - translation_iso: jpn
     name: ダーノ語

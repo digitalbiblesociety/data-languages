@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وييوت
     auto: true
+  - translation_iso: ben
+    name: ওয়িয়োত
+    auto: true
   - translation_iso: deu
     name: Wiyot
   - translation_iso: fra

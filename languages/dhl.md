@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دهاالندجي
     auto: true
+  - translation_iso: ben
+    name: ধালানদজি
+    auto: true
   - translation_iso: deu
     name: Dhalandji
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dhalandji
   - translation_iso: hin
     name: धालंजी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhalandji
     auto: true
   - translation_iso: jpn
     name: ダランジ語

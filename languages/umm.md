@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أومون
     auto: true
+  - translation_iso: ben
+    name: উমোন
+    auto: true
   - translation_iso: deu
     name: Umon
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उमोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umon
     auto: true
   - translation_iso: jpn
     name: アモン語

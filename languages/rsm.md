@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ميريوونج لغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: মিরিওয়োং সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Miriwoong-Gebärdensprache
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langue des signes miriwoong
   - translation_iso: hin
     name: मिरिवूंग सांकेतिक भाषा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miriwoong Sign Language
     auto: true
   - translation_iso: jpn
     name: ミリウォング手話

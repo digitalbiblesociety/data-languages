@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجيي
     auto: true
+  - translation_iso: ben
+    name: ঙিএ
+    auto: true
   - translation_iso: deu
     name: Ngie
   - translation_iso: fra
     name: ngie
   - translation_iso: hin
     name: न्गिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngie
     auto: true
   - translation_iso: jpn
     name: ンギエ語

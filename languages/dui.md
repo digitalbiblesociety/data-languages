@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دومون
     auto: true
+  - translation_iso: ben
+    name: দুমুন
+    auto: true
   - translation_iso: deu
     name: Dumun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dumun
   - translation_iso: hin
     name: डुमुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dumun
     auto: true
   - translation_iso: jpn
     name: ドゥムン語

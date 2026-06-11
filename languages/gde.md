@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غودي
     auto: true
+  - translation_iso: ben
+    name: গুদে
+    auto: true
   - translation_iso: deu
     name: Gude
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gude
   - translation_iso: hin
     name: गुडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gude
     auto: true
   - translation_iso: jpn
     name: グデ語

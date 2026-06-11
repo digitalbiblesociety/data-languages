@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو الجنوبية الغربية
     auto: true
+  - translation_iso: ben
+    name: সোউথওয়েসত পালাওয়ানো
+    auto: true
   - translation_iso: deu
     name: Südwest-Palawano
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: palawano du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिम पालावानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southwest Palawano
     auto: true
   - translation_iso: jpn
     name: 南西パラワーノ語

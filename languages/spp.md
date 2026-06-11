@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبيير سينوفو
     auto: true
+  - translation_iso: ben
+    name: সুপয়িরে সেনোউফো
+    auto: true
   - translation_iso: deu
     name: Supyire Senoufo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: supyiré
   - translation_iso: hin
     name: सुपयिरे सेनोफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Supyire Senoufo
     auto: true
   - translation_iso: jpn
     name: スピリエセヌーフォ語

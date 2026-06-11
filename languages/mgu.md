@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مايلو
     auto: true
+  - translation_iso: ben
+    name: মাইলু
+    auto: true
   - translation_iso: deu
     name: Mailu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mailu
   - translation_iso: hin
     name: माइलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mailu
     auto: true
   - translation_iso: jpn
     name: マイル語

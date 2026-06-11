@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अम्बा (सोलोमन द्वीप)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amba
+    auto: true
   - translation_iso: jpn
     name: アンバ語
   - translation_iso: kor

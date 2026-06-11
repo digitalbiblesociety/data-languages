@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ميرغان
     auto: true
+  - translation_iso: ben
+    name: মিরগান
+    auto: true
   - translation_iso: deu
     name: Mirgan
     auto: true
@@ -24,6 +27,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिरगन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mirgan
     auto: true
   - translation_iso: jpn
     name: ミルガン語

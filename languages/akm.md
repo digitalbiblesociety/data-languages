@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: आका-बो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aka-Bo
+    auto: true
   - translation_iso: jpn
     name: アカボ語
     auto: true

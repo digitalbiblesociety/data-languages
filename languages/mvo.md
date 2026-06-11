@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارفو
     auto: true
+  - translation_iso: ben
+    name: মারোভো
+    auto: true
   - translation_iso: deu
     name: Marovo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marovo
   - translation_iso: hin
     name: मारोवो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marovo
     auto: true
   - translation_iso: jpn
     name: マロボ語

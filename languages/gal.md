@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الجالولين
     auto: true
+  - translation_iso: ben
+    name: গালোলেন
+    auto: true
   - translation_iso: deu
     name: Galoli
   - translation_iso: fra

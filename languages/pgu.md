@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باغو
     auto: true
+  - translation_iso: ben
+    name: পাগু
+    auto: true
   - translation_iso: deu
     name: Pagu
     auto: true

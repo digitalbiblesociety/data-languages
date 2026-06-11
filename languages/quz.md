@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كوسكو
     auto: true
+  - translation_iso: ben
+    name: কুসকো কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Cusco-Quechua
   - translation_iso: fra
     name: quechua de Cusco
   - translation_iso: hin
     name: कुस्को क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cusco Quechua
     auto: true
   - translation_iso: jpn
     name: クスコ語

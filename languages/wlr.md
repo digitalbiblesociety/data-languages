@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وايلاپا
     auto: true
+  - translation_iso: ben
+    name: ওয়াইলাপা
+    auto: true
   - translation_iso: deu
     name: Wailapa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wailapa
   - translation_iso: hin
     name: वैलापा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wailapa
     auto: true
   - translation_iso: jpn
     name: ワイラパ語

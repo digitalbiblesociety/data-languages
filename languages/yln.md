@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة لانغنيان بويانج
     auto: true
+  - translation_iso: ben
+    name: লাংনিয়ান বুয়াং
+    auto: true
   - translation_iso: deu
     name: Langnian Buyang
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: buyang langjia
   - translation_iso: hin
     name: लांगनियान बुयांग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Langnian Buyang
     auto: true
   - translation_iso: jpn
     name: ラングニアン・ブヤン語

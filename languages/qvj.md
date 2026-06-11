@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا لوخا الجبلية
     auto: true
+  - translation_iso: ben
+    name: লোজা হিঘলানদ কুইচুয়া
+    auto: true
   - translation_iso: deu
     name: Loja-Quichua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: quichua de Loja
   - translation_iso: hin
     name: लोखा हाइलैंड किचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Loja Highland Quichua
     auto: true
   - translation_iso: jpn
     name: ロハハイランドキチュア語

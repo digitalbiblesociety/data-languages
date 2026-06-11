@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديني
     auto: true
+  - translation_iso: ben
+    name: দেনি
+    auto: true
   - translation_iso: deu
     name: Dení
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dení
   - translation_iso: hin
     name: देनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dení
     auto: true
   - translation_iso: jpn
     name: デニ語

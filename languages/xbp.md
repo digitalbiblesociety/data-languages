@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: बिबुलमन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bibbulman
+    auto: true
   - translation_iso: jpn
     name: ビッブルマン語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وانغاايبوواننغييامباا
     auto: true
+  - translation_iso: ben
+    name: ওয়াঙায়বুওয়ান-ঙিয়ামবা
+    auto: true
   - translation_iso: deu
     name: Wangaaybuwan-Ngiyambaa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wangaaybuwan-ngiyambaa
   - translation_iso: hin
     name: वंगायबुवान-न्गियाम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wangaaybuwan-Ngiyambaa
     auto: true
   - translation_iso: jpn
     name: ンギヤンバー語

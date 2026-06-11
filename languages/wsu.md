@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واسو
     auto: true
+  - translation_iso: ben
+    name: ওয়াসু
+    auto: true
   - translation_iso: deu
     name: Wasu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वासू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wasu
     auto: true
   - translation_iso: jpn
     name: ワス語

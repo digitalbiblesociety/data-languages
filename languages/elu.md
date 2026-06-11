@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإلو
     auto: true
+  - translation_iso: ben
+    name: এলু
+    auto: true
   - translation_iso: deu
     name: Elu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: elu
   - translation_iso: hin
     name: एलू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Elu
     auto: true
   - translation_iso: jpn
     name: エル語

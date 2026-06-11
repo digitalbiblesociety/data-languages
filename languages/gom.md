@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: غوآن كونكآني
     auto: true
+  - translation_iso: ben
+    name: গোয়ান কোনকানি
+    auto: true
   - translation_iso: deu
     name: Goa-Konkani
   - translation_iso: fra
     name: konkani de Goa
   - translation_iso: hin
     name: गोवा कोंकणी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Goan Konkani
     auto: true
   - translation_iso: jpn
     name: ゴア・コンカニ語

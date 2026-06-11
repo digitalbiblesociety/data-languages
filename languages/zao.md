@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أوزولوتيبيك
     auto: true
+  - translation_iso: ben
+    name: ওজোলোতেপেক জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Ozolotepec)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: "zapotèque d'Ozolotepec"
   - translation_iso: hin
     name: ओज़ोलोतेपेक ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ozolotepec Zapotec
     auto: true
   - translation_iso: jpn
     name: オゾロテペック・サポテク語

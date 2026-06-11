@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: ben
+    name: কারে
+    auto: true
   - translation_iso: deu
     name: Kare
   - translation_iso: fra
     name: kare
   - translation_iso: hin
     name: कारे (मध्य अफ़्रीकी गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kare
     auto: true
   - translation_iso: jpn
     name: カレ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نجوو
     auto: true
+  - translation_iso: ben
+    name: ংওয়ো
+    auto: true
   - translation_iso: deu
     name: Ngwo
   - translation_iso: fra
     name: ngwo
   - translation_iso: hin
     name: न्ग्वो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ngwo
     auto: true
   - translation_iso: jpn
     name: ングウォ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: رآجبوت غآرآسيآ
     auto: true
+  - translation_iso: ben
+    name: রাজপুত গারাসিয়া
+    auto: true
   - translation_iso: deu
     name: Rajput Garasia
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: राजपूत गरासिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rajput Garasia
     auto: true
   - translation_iso: jpn
     name: ラジプット・ガラシア語

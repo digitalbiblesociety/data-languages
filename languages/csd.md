@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: चियांगमाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Chiangmai Sign Language
+    auto: true
   - translation_iso: jpn
     name: 原チェンマイ手話
   - translation_iso: kor

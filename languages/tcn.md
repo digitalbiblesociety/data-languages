@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيتشورونغ
     auto: true
+  - translation_iso: ben
+    name: তিচুরোং
+    auto: true
   - translation_iso: deu
     name: Tichurong
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तिचुरोंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tichurong
     auto: true
   - translation_iso: jpn
     name: ティチュロン語

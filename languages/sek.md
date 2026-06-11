@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيكاني
     auto: true
+  - translation_iso: ben
+    name: সেকানি
+    auto: true
   - translation_iso: deu
     name: Sekani
   - translation_iso: fra

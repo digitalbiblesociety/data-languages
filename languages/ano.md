@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: अंदोके
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andoque
+    auto: true
   - translation_iso: jpn
     name: アンドケ語
     auto: true

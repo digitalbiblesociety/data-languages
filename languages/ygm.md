@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجومي
     auto: true
+  - translation_iso: ben
+    name: য়াগোমি
+    auto: true
   - translation_iso: deu
     name: Yagomi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yagomi
   - translation_iso: hin
     name: यागोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yagomi
     auto: true
   - translation_iso: jpn
     name: ヤゴミ語

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كومبريك
     auto: true
+  - translation_iso: ben
+    name: কুমবরিক
+    auto: true
   - translation_iso: deu
     name: Kumbrisch
   - translation_iso: fra

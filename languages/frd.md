@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفوردتا
     auto: true
+  - translation_iso: ben
+    name: ফোরদাতা
+    auto: true
   - translation_iso: deu
     name: Fordata
   - translation_iso: fra

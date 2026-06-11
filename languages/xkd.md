@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: منداالم كايان
     auto: true
+  - translation_iso: ben
+    name: মেনদালাম কায়ান
+    auto: true
   - translation_iso: deu
     name: Mendalam Kayan
     auto: true

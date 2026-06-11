@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: وا إيما
     auto: true
+  - translation_iso: ben
+    name: ওয়াএমা
+    auto: true
   - translation_iso: deu
     name: "Wa'ema"
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: "wa'ema"
   - translation_iso: hin
     name: वाएमा
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Wa'ema"
     auto: true
   - translation_iso: jpn
     name: ワエマ語

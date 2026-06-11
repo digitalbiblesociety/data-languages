@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تانايناه
     auto: true
+  - translation_iso: ben
+    name: তানাইনা
+    auto: true
   - translation_iso: deu
     name: "Dena'ina"
   - translation_iso: fra
     name: "dena'ina"
   - translation_iso: hin
     name: तनैना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tanaina
     auto: true
   - translation_iso: jpn
     name: デナッイア語

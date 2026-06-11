@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الإليب
     auto: true
+  - translation_iso: ben
+    name: এলিপ
+    auto: true
   - translation_iso: deu
     name: Elip
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: elip
   - translation_iso: hin
     name: एलिप
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Elip
     auto: true
   - translation_iso: jpn
     name: エリップ語

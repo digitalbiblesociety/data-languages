@@ -30,6 +30,9 @@ translations:
     name: lish
   - translation_iso: hin
     name: लिश भाषा
+  - translation_iso: ind
+    name: Bahasa Lish
+    auto: true
   - translation_iso: jpn
     name: リシュ語
     auto: true

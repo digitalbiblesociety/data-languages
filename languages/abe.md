@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ويسترن أبناكي
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন আবনাকি
+    auto: true
   - translation_iso: deu
     name: Westliche Abenaki
   - translation_iso: fra
     name: abénaqui occidental
   - translation_iso: hin
     name: पश्चिमी अब्नाकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Abnaki
     auto: true
   - translation_iso: jpn
     name: 西アベナキ語

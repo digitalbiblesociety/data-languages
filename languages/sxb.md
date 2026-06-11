@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوبا
     auto: true
+  - translation_iso: ben
+    name: সুবা
+    auto: true
   - translation_iso: deu
     name: Suba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: suba
   - translation_iso: hin
     name: सुबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suba
     auto: true
   - translation_iso: jpn
     name: スバ語

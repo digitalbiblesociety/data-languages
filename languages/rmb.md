@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ريمباررنجا
     auto: true
+  - translation_iso: ben
+    name: রেমবার্রঙা
+    auto: true
   - translation_iso: deu
     name: Rembarrnga
   - translation_iso: fra
     name: rembarrnga
   - translation_iso: hin
     name: रेम्बार्न्गा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rembarrnga
     auto: true
   - translation_iso: jpn
     name: レンバルンガ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: حومبوري سيني سونغاي
     auto: true
+  - translation_iso: ben
+    name: হুমবুরি সেন্নি সোংহায়
+    auto: true
   - translation_iso: deu
     name: Humburi Senni
   - translation_iso: fra
     name: humburi senni
   - translation_iso: hin
     name: हुम्बुरी सेन्नी सोंघाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Humburi Senni Songhay
     auto: true
   - translation_iso: jpn
     name: フンブリ・センニ・ソンガイ語

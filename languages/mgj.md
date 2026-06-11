@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अबुरेनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abureni
+    auto: true
   - translation_iso: jpn
     name: アブレニ語
     auto: true

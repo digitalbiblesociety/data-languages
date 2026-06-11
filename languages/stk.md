@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरम्बा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arammba
+    auto: true
   - translation_iso: jpn
     name: アランバ語
     auto: true

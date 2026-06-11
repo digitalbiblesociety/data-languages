@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سيبيك إيوام
     auto: true
+  - translation_iso: ben
+    name: সেপিক ইওয়াম
+    auto: true
   - translation_iso: deu
     name: Sepik-Iwam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: iwam du Sepik
   - translation_iso: hin
     name: सेपिक इवाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sepik Iwam
     auto: true
   - translation_iso: jpn
     name: セピク・イワム語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يالاهاتان
     auto: true
+  - translation_iso: ben
+    name: য়ালাহাতান
+    auto: true
   - translation_iso: deu
     name: Yalahatan
     auto: true

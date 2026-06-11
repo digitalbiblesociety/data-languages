@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة وديان
     auto: true
+  - translation_iso: ben
+    name: লুদিয়ান
+    auto: true
   - translation_iso: deu
     name: Lüdisch
   - translation_iso: fra
     name: lude
   - translation_iso: hin
     name: लुडियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ludian
     auto: true
   - translation_iso: jpn
     name: リュード語

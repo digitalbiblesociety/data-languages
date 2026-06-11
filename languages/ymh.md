@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميلي
     auto: true
+  - translation_iso: ben
+    name: মিলি
+    auto: true
   - translation_iso: deu
     name: Mili
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mili
     auto: true
   - translation_iso: jpn
     name: ミリ語

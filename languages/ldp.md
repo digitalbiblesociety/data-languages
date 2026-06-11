@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة سو
     auto: true
+  - translation_iso: ben
+    name: তসো
+    auto: true
   - translation_iso: deu
     name: Tso
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्सो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tso
     auto: true
   - translation_iso: jpn
     name: ツォ語

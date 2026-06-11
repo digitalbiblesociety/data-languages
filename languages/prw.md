@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوين
     auto: true
+  - translation_iso: ben
+    name: পারাওয়েন
+    auto: true
   - translation_iso: deu
     name: Parawen
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: parawen
   - translation_iso: hin
     name: पारावेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Parawen
     auto: true
   - translation_iso: jpn
     name: パラウェン語

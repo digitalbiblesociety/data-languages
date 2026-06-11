@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيا
     auto: true
+  - translation_iso: ben
+    name: পানিয়া
+    auto: true
   - translation_iso: deu
     name: Paniya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: paniya
   - translation_iso: hin
     name: पनिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paniya
     auto: true
   - translation_iso: jpn
     name: パニヤ語

@@ -29,6 +29,9 @@ translations:
     name: hajong
   - translation_iso: hin
     name: हाजंग बोली
+  - translation_iso: ind
+    name: Bahasa Hajong
+    auto: true
   - translation_iso: jpn
     name: ハジョン語
     auto: true

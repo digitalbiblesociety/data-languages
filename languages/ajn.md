@@ -23,6 +23,9 @@ translations:
   - translation_iso: hin
     name: अंदाजिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Andajin
+    auto: true
   - translation_iso: jpn
     name: アンダジン語
     auto: true

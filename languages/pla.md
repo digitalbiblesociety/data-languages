@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميياني
     auto: true
+  - translation_iso: ben
+    name: মিয়ানি
+    auto: true
   - translation_iso: deu
     name: Miani
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: miani
   - translation_iso: hin
     name: मियानी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Miani
     auto: true
   - translation_iso: jpn
     name: ミアニ語

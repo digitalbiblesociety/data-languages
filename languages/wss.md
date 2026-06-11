@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: واسا
     auto: true
+  - translation_iso: ben
+    name: ওয়াসা
+    auto: true
   - translation_iso: deu
     name: Wasa
   - translation_iso: fra
     name: wasa
   - translation_iso: hin
     name: वासा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wasa
     auto: true
   - translation_iso: jpn
     name: ワサ語

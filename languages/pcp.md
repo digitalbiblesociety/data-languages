@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكاهوارا
     auto: true
+  - translation_iso: ben
+    name: পাকাহুয়ারা
+    auto: true
   - translation_iso: deu
     name: Pacahuara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pacahuara
   - translation_iso: hin
     name: पाकाहुआरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pacahuara
     auto: true
   - translation_iso: jpn
     name: パカワラ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تومبولو
     auto: true
+  - translation_iso: ben
+    name: তোমবুলু
+    auto: true
   - translation_iso: deu
     name: Tombulu
   - translation_iso: fra

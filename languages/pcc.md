@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بويي
     auto: true
+  - translation_iso: ben
+    name: বোউয়েই
+    auto: true
   - translation_iso: deu
     name: Bouyei
   - translation_iso: fra
     name: bouyei
   - translation_iso: hin
     name: बुयेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bouyei
     auto: true
   - translation_iso: jpn
     name: プイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ملاب
     auto: true
+  - translation_iso: ben
+    name: মলাপ
+    auto: true
   - translation_iso: deu
     name: Mlap
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة ستيلينغويرفس
     auto: true
+  - translation_iso: ben
+    name: সতেল্লিংওয়েরফস
+    auto: true
   - translation_iso: deu
     name: Stellingwerfs
   - translation_iso: fra
@@ -23,6 +26,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: स्टेलिंगवर्फ़्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Stellingwerfs
     auto: true
   - translation_iso: jpn
     name: ステリングワルフス語

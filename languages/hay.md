@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: هآيآ
     auto: true
+  - translation_iso: ben
+    name: হায়া
+    auto: true
   - translation_iso: deu
     name: Haya
   - translation_iso: fra
     name: haya
   - translation_iso: hin
     name: हाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Haya
     auto: true
   - translation_iso: jpn
     name: ハヤ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بودو
     auto: true
+  - translation_iso: ben
+    name: বোদো
+    auto: true
   - translation_iso: deu
     name: Bodo (Central African Republic)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bodo
   - translation_iso: hin
     name: बोडो (मध्य अफ़्रीकी गणराज्य)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bodo
     auto: true
   - translation_iso: jpn
     name: ボド語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बासा (नाइजीरिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Basa
+    auto: true
   - translation_iso: jpn
     name: バサ語
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة ملومب
     auto: true
+  - translation_iso: ben
+    name: মলোমপ
+    auto: true
   - translation_iso: deu
     name: Mlomp
   - translation_iso: fra
     name: mlomp
   - translation_iso: hin
     name: म्लोम्प
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mlomp
     auto: true
   - translation_iso: jpn
     name: ムロンプ語

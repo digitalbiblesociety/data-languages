@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دالابون
     auto: true
+  - translation_iso: ben
+    name: দালাবোন
+    auto: true
   - translation_iso: deu
     name: Dalabon
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dalabon
   - translation_iso: hin
     name: दालाबोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dalabon
     auto: true
   - translation_iso: jpn
     name: ダラボン語

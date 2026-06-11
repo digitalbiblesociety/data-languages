@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جادابا بودو
     auto: true
+  - translation_iso: ben
+    name: বোদো গাদাবা
+    auto: true
   - translation_iso: deu
     name: Bodo Gadaba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gutob
   - translation_iso: hin
     name: गुटोब भाषा
+  - translation_iso: ind
+    name: Bahasa Bodo Gadaba
+    auto: true
   - translation_iso: jpn
     name: ガダバ語
   - translation_iso: kor

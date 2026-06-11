@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نوكساك
     auto: true
+  - translation_iso: ben
+    name: নোকসাক
+    auto: true
   - translation_iso: deu
     name: Nooksack
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nooksack
   - translation_iso: hin
     name: नूकसैक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nooksack
     auto: true
   - translation_iso: jpn
     name: ヌックサック語

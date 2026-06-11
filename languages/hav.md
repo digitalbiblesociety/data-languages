@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هآفو
     auto: true
+  - translation_iso: ben
+    name: হাভু
+    auto: true
   - translation_iso: deu
     name: Havu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: havu
   - translation_iso: hin
     name: हावु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Havu
     auto: true
   - translation_iso: jpn
     name: ハヴ語

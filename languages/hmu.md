@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: هامب
     auto: true
+  - translation_iso: ben
+    name: হামাপ
+    auto: true
   - translation_iso: deu
     name: Hamap
     auto: true

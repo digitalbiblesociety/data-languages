@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جنوب أوكاياليي أشينينكا
     auto: true
+  - translation_iso: ben
+    name: সোউথ উকায়ালি আশেনিনকা
+    auto: true
   - translation_iso: deu
     name: Süd-Ucayali-Ashéninka
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: दक्षिण उकायाली अशेनिन्का
+    auto: true
+  - translation_iso: ind
+    name: Bahasa South Ucayali Ashéninka
     auto: true
   - translation_iso: jpn
     name: サウス・ウカヤリ・アシェニンカ語

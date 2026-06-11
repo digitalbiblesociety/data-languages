@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: باندا منتصف جنوبية
     auto: true
+  - translation_iso: ben
+    name: মিদ-সোউথেরন বানদা
+    auto: true
   - translation_iso: deu
     name: Mid-Southern Banda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: banda mi-méridional
   - translation_iso: hin
     name: मध्य-दक्षिणी बांदा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mid-Southern Banda
     auto: true
   - translation_iso: jpn
     name: 中南バンダ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ساذرن سامو
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন সামো
+    auto: true
   - translation_iso: deu
     name: Süd-Samo
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: samo du Sud
   - translation_iso: hin
     name: दक्षिणी सामो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Samo
     auto: true
   - translation_iso: jpn
     name: サネ語

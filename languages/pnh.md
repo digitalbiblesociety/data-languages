@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بنرين
     auto: true
+  - translation_iso: ben
+    name: পেনরহয়ন
+    auto: true
   - translation_iso: deu
     name: Penrhyn
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tongareva
   - translation_iso: hin
     name: पेनरिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Penrhyn
     auto: true
   - translation_iso: jpn
     name: ペンリン語

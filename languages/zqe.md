@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ كيوبي
     auto: true
+  - translation_iso: ben
+    name: কিউবেই ঝুয়াং
+    auto: true
   - translation_iso: deu
     name: Qiubei-Zhuang
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zhuang de Qiubei
   - translation_iso: hin
     name: कियूबेई ज़ुआंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Qiubei Zhuang
     auto: true
   - translation_iso: jpn
     name: チウベイ・ズアン語

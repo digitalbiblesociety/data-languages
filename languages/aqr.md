@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरहा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arhâ
+    auto: true
   - translation_iso: jpn
     name: アルハー語
     auto: true

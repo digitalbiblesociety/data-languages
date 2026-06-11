@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الفاس
     auto: true
+  - translation_iso: ben
+    name: ফাস
+    auto: true
   - translation_iso: deu
     name: Fas
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fas
   - translation_iso: hin
     name: फास
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fas
     auto: true
   - translation_iso: jpn
     name: ファス語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كيسي الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কিসি
+    auto: true
   - translation_iso: deu
     name: Süd-Kisi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kissi du Sud
   - translation_iso: hin
     name: दक्षिणी किसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Kisi
     auto: true
   - translation_iso: jpn
     name: サザン・キシ語

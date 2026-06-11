@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بينا
     auto: true
+  - translation_iso: ben
+    name: বিনা
+    auto: true
   - translation_iso: deu
     name: Bina
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bina
   - translation_iso: hin
     name: बीना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bina
     auto: true
   - translation_iso: jpn
     name: ビナ語

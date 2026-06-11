@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अकोलेट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akolet
+    auto: true
   - translation_iso: jpn
     name: アコレット語
     auto: true

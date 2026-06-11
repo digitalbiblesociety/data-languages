@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانغولام
     auto: true
+  - translation_iso: ben
+    name: য়াঙুলাম
+    auto: true
   - translation_iso: deu
     name: Yangulam
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: यांगुलम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yangulam
     auto: true
   - translation_iso: jpn
     name: ヤングラム語

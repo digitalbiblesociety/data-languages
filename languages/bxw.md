@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बांकागूमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bankagooma
+    auto: true
   - translation_iso: jpn
     name: バンカ語
   - translation_iso: kor

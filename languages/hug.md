@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هواتشيبايري
     auto: true
+  - translation_iso: ben
+    name: হুয়াচিপাএরি
+    auto: true
   - translation_iso: deu
     name: Huachipaeri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: huachipaeri
   - translation_iso: hin
     name: हुआचिपाएरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huachipaeri
     auto: true
   - translation_iso: jpn
     name: フアチパエリ語

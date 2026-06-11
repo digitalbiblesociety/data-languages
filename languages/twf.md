@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: توا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন তিওয়া
+    auto: true
   - translation_iso: deu
     name: Taos-Dialekt
   - translation_iso: fra
     name: taos
   - translation_iso: hin
     name: उत्तरी तिवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Tiwa
     auto: true
   - translation_iso: jpn
     name: タオス語

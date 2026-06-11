@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بت
     auto: true
+  - translation_iso: ben
+    name: বিত
+    auto: true
   - translation_iso: deu
     name: Bit
     auto: true

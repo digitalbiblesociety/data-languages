@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: क्वा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kwa
+    auto: true
   - translation_iso: jpn
     name: クワ語
     auto: true

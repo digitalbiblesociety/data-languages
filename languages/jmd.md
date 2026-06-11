@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يامدينا
     auto: true
+  - translation_iso: ben
+    name: য়ামদেনা
+    auto: true
   - translation_iso: deu
     name: Yamdena
   - translation_iso: fra

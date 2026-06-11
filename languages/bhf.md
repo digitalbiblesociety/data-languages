@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوديايي
     auto: true
+  - translation_iso: ben
+    name: ওদিয়াই
+    auto: true
   - translation_iso: deu
     name: Odiai
     auto: true

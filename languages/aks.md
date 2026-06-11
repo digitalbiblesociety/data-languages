@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अकासेलेम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akaselem
+    auto: true
   - translation_iso: jpn
     name: アカセレム語
     auto: true

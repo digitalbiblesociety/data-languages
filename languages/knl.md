@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كينينجال
     auto: true
+  - translation_iso: ben
+    name: কেনিনজাল
+    auto: true
   - translation_iso: deu
     name: Keninjal
     auto: true

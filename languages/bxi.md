@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: پيرْلاتاپا
     auto: true
+  - translation_iso: ben
+    name: পিরলাতাপা
+    auto: true
   - translation_iso: deu
     name: Pirlatapa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pirlatapa
   - translation_iso: hin
     name: पिर्लातापा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pirlatapa
     auto: true
   - translation_iso: jpn
     name: ピルラタパ語

@@ -29,6 +29,9 @@ translations:
     name: puroik
   - translation_iso: hin
     name: पुरोइक भाषा
+  - translation_iso: ind
+    name: Bahasa Puroik
+    auto: true
   - translation_iso: jpn
     name: プロイク語
   - translation_iso: kor

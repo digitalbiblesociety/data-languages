@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مارينغار
     auto: true
+  - translation_iso: ben
+    name: মারিঙার্র
+    auto: true
   - translation_iso: deu
     name: Maringarr
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: maringarr
   - translation_iso: hin
     name: मरिंगर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maringarr
     auto: true
   - translation_iso: jpn
     name: マリンガル語

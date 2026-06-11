@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अयोरेओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ayoreo
+    auto: true
   - translation_iso: jpn
     name: アヨレオ語
   - translation_iso: kor

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अबन्योम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abanyom
+    auto: true
   - translation_iso: jpn
     name: アバニョム語
   - translation_iso: kor

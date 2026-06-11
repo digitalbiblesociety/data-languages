@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أبر كينابتانجان
     auto: true
+  - translation_iso: ben
+    name: উপ্পের কিনাবাতাঙান
+    auto: true
   - translation_iso: deu
     name: Upper Kinabatangan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ऊपरी किनाबटंगन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Kinabatangan
     auto: true
   - translation_iso: jpn
     name: アッパー・キナバタンガン語

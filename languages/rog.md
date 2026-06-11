@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نورذرن روجلاي
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন রোগলাই
+    auto: true
   - translation_iso: deu
     name: Nord-Roglai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: roglai du Nord
   - translation_iso: hin
     name: उत्तरी रोग्लाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Roglai
     auto: true
   - translation_iso: jpn
     name: 北ログライ語

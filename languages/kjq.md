@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة كيريس الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন কেরেস
+    auto: true
   - translation_iso: deu
     name: West-Keres
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "keres de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी केरेस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Keres
     auto: true
   - translation_iso: jpn
     name: ウェスタン・ケレス語

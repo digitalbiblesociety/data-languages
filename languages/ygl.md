@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: يانجوم جيل
     auto: true
+  - translation_iso: ben
+    name: য়াঙুম গেল
+    auto: true
   - translation_iso: deu
     name: Yangum Gel
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: yangum gel
   - translation_iso: hin
     name: यांगुम गेल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yangum Gel
     auto: true
   - translation_iso: jpn
     name: ヤングム・ゲル語

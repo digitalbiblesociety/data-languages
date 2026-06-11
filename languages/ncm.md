@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نامبو
     auto: true
+  - translation_iso: ben
+    name: নামবো
+    auto: true
   - translation_iso: deu
     name: Nambo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nambo
   - translation_iso: hin
     name: नाम्बो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nambo
     auto: true
   - translation_iso: jpn
     name: ナンボ語

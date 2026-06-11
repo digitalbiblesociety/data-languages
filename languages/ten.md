@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاما
     auto: true
+  - translation_iso: ben
+    name: তামা
+    auto: true
   - translation_iso: deu
     name: Tama (Colombia)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: tama
   - translation_iso: hin
     name: तामा (कोलंबिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tama
     auto: true
   - translation_iso: jpn
     name: タマ語

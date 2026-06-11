@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوجاما
     auto: true
+  - translation_iso: ben
+    name: কুগামা
+    auto: true
   - translation_iso: deu
     name: Kugama
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kugama
   - translation_iso: hin
     name: कुगामा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kugama
     auto: true
   - translation_iso: jpn
     name: クガマ語

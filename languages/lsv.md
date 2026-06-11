@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शिविया सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Sivia Sign Language
+    auto: true
   - translation_iso: jpn
     name: シビア手話
     auto: true

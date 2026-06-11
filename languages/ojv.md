@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونتونغ جافا
     auto: true
+  - translation_iso: ben
+    name: ওনতোং জাভা
+    auto: true
   - translation_iso: deu
     name: Ontong Java
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: luanguia
   - translation_iso: hin
     name: ओंटोंग जावा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ontong Java
     auto: true
   - translation_iso: jpn
     name: オントンジャワ語

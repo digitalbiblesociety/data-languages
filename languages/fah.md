@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बैसा फाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baissa Fali
+    auto: true
   - translation_iso: jpn
     name: バイッサ・ファリ語
     auto: true

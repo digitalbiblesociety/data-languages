@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكنا
     auto: true
+  - translation_iso: ben
+    name: কুকনা
+    auto: true
   - translation_iso: deu
     name: Kukna
     auto: true

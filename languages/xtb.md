@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تشازومبا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: চাজুমবা মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Chazumba-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: चाज़ुम्बा मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chazumba Mixtec
     auto: true
   - translation_iso: jpn
     name: チャズンバ・ミステク語

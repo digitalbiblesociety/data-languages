@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: دهووايا
     auto: true
+  - translation_iso: ben
+    name: ধুওয়ায়া
+    auto: true
   - translation_iso: deu
     name: Dhuwaya
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: dhuwaya
   - translation_iso: hin
     name: धुवाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dhuwaya
     auto: true
   - translation_iso: jpn
     name: ドゥワヤ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكاسنوفوس
     auto: true
+  - translation_iso: ben
+    name: পাকাসনোভোস
+    auto: true
   - translation_iso: deu
     name: Pakaásnovos
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wari
   - translation_iso: hin
     name: पाकासनोवोस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pakaásnovos
     auto: true
   - translation_iso: jpn
     name: ワリ語

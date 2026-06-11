@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अंगोर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Angor
+    auto: true
   - translation_iso: jpn
     name: アンゴル語
     auto: true

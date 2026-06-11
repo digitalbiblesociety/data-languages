@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كارا
     auto: true
+  - translation_iso: ben
+    name: কারা
+    auto: true
   - translation_iso: deu
     name: Kara
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कारा (तंज़ानिया)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kara
     auto: true
   - translation_iso: jpn
     name: カラ語

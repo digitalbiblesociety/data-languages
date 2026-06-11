@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودينا
     auto: true
+  - translation_iso: ben
+    name: পোদেনা
+    auto: true
   - translation_iso: deu
     name: Podena
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पोडेना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Podena
     auto: true
   - translation_iso: jpn
     name: ポデナ語

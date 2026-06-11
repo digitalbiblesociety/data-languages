@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابي
     auto: true
+  - translation_iso: ben
+    name: সাপে
+    auto: true
   - translation_iso: deu
     name: Sapé
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: sape-kaliana
   - translation_iso: hin
     name: सापे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sapé
     auto: true
   - translation_iso: jpn
     name: カリアナ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موم
     auto: true
+  - translation_iso: ben
+    name: মুম
+    auto: true
   - translation_iso: deu
     name: Mum
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mum
     auto: true
   - translation_iso: jpn
     name: ムム語

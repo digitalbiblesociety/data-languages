@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هولي
     auto: true
+  - translation_iso: ben
+    name: হুলি
+    auto: true
   - translation_iso: deu
     name: Huli
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووسي
     auto: true
+  - translation_iso: ben
+    name: ওয়ুসি
+    auto: true
   - translation_iso: deu
     name: Wusi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वुसी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wusi
     auto: true
   - translation_iso: jpn
     name: ウシ語

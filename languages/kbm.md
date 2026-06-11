@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إيوال
     auto: true
+  - translation_iso: ben
+    name: ইওয়াল
+    auto: true
   - translation_iso: deu
     name: Iwal
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: iwal
   - translation_iso: hin
     name: इवाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Iwal
     auto: true
   - translation_iso: jpn
     name: イワル語

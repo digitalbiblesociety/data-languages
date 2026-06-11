@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تريموريس
     auto: true
+  - translation_iso: ben
+    name: তরিমুরিস
+    auto: true
   - translation_iso: deu
     name: Trimuris
   - translation_iso: fra

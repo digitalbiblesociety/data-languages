@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة بوديوخ
     auto: true
+  - translation_iso: ben
+    name: বুদুখ
+    auto: true
   - translation_iso: deu
     name: Buduchisch
   - translation_iso: fra
     name: boudoukh
   - translation_iso: hin
     name: बुदुख
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Budukh
     auto: true
   - translation_iso: jpn
     name: ブドゥフ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: एजागम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ejagham
+    auto: true
   - translation_iso: jpn
     name: エコイ語
   - translation_iso: kor

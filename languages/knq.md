@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كينتاق
     auto: true
+  - translation_iso: ben
+    name: কিনতাক
+    auto: true
   - translation_iso: deu
     name: Kintaq
     auto: true

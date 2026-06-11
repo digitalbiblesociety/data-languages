@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زاري
     auto: true
+  - translation_iso: ben
+    name: জারি
+    auto: true
   - translation_iso: deu
     name: Zari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zari
   - translation_iso: hin
     name: ज़ारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zari
     auto: true
   - translation_iso: jpn
     name: ザリ語

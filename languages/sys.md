@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سينيار
     auto: true
+  - translation_iso: ben
+    name: সিনয়ার
+    auto: true
   - translation_iso: deu
     name: Sinyar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिन्यार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sinyar
     auto: true
   - translation_iso: jpn
     name: シニャル語

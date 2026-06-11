@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مولو
     auto: true
+  - translation_iso: ben
+    name: মোলো
+    auto: true
   - translation_iso: deu
     name: Molo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: molo
   - translation_iso: hin
     name: मोलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Molo
     auto: true
   - translation_iso: jpn
     name: モロ語

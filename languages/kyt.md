@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كايجار
     auto: true
+  - translation_iso: ben
+    name: কায়াগার
+    auto: true
   - translation_iso: deu
     name: Kayagar
   - translation_iso: fra
     name: kayagar
   - translation_iso: hin
     name: कायागार
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kayagar
     auto: true
   - translation_iso: jpn
     name: カヤガル語

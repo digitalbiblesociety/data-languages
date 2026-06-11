@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تيخالتيبيك ميكستيك
     auto: true
+  - translation_iso: ben
+    name: তিজালতেপেক মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Tijaltepec-Mixtekisch
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixtèque de Tijaltepec
   - translation_iso: hin
     name: तिहाल्तेपेक मिक्सटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tijaltepec Mixtec
     auto: true
   - translation_iso: jpn
     name: ティハルテペク・ミステク語

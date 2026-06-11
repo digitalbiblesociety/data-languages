@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيتيلسينجو ناهواتل
     auto: true
+  - translation_iso: ben
+    name: তেতেলকিঙো নাহুয়াতল
+    auto: true
   - translation_iso: deu
     name: Tetelcingo-Nahuatl
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nahuatl de Tetelcingo
   - translation_iso: hin
     name: तेतेलसिंगो नाहुआतल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tetelcingo Nahuatl
     auto: true
   - translation_iso: jpn
     name: テテルシンゴ・ナワトル語

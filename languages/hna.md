@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مينا
     auto: true
+  - translation_iso: ben
+    name: মিনা
+    auto: true
   - translation_iso: deu
     name: Mina (Kamerun)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mina
   - translation_iso: hin
     name: मीना (कैमरून)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mina
     auto: true
   - translation_iso: jpn
     name: ミナ語

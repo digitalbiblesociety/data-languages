@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديابيرديابير
     auto: true
+  - translation_iso: ben
+    name: দয়াবেরদয়াবের
+    auto: true
   - translation_iso: deu
     name: Dyaberdyaber
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: dyaberdyaber
   - translation_iso: hin
     name: दयाबेरदयाबेर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dyaberdyaber
     auto: true
   - translation_iso: jpn
     name: ジャビルジャビル語

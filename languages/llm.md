@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة اساليمو
     auto: true
+  - translation_iso: ben
+    name: লাসালিমু
+    auto: true
   - translation_iso: deu
     name: Lasalimu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लासालिमु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lasalimu
     auto: true
   - translation_iso: jpn
     name: ラサリム語

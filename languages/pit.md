@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتا بيتا
     auto: true
+  - translation_iso: ben
+    name: পিত্তা পিত্তা
+    auto: true
   - translation_iso: deu
     name: Pitta Pitta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pitta pitta
   - translation_iso: hin
     name: पिट्टा पिट्टा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pitta Pitta
     auto: true
   - translation_iso: jpn
     name: ピッタピッタ語

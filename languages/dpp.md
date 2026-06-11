@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بابار
     auto: true
+  - translation_iso: ben
+    name: পাপার
+    auto: true
   - translation_iso: deu
     name: Papar
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: papar
   - translation_iso: hin
     name: पापर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Papar
     auto: true
   - translation_iso: jpn
     name: パパル語

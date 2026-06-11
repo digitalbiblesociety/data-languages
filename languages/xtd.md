@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديوكسي-تيلانتونجو ميكستيك
     auto: true
+  - translation_iso: ben
+    name: দিউকসি-তিলানতোঙো মিকসতেক
+    auto: true
   - translation_iso: deu
     name: Diuxi-Tilantongo-Mixtekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डिउक्सी-तिलांतोंगो मिश्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Diuxi-Tilantongo Mixtec
     auto: true
   - translation_iso: jpn
     name: ディウシ・ティランベンゴ・ミステク語

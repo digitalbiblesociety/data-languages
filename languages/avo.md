@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अगवोतगुएर्रा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agavotaguerra
+    auto: true
   - translation_iso: jpn
     name: アガヴォタグエッラ語
     auto: true

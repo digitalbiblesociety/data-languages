@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوتانك
     auto: true
+  - translation_iso: ben
+    name: ওতানক
+    auto: true
   - translation_iso: deu
     name: Otank
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: langue Otank
   - translation_iso: hin
     name: ओतांक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Otank
     auto: true
   - translation_iso: jpn
     name: イタング語

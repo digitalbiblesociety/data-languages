@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: موشونجولو
     auto: true
+  - translation_iso: ben
+    name: মুশুঙুলু
+    auto: true
   - translation_iso: deu
     name: Mushungulu
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: mushungulu
   - translation_iso: hin
     name: मुशुंगुलु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mushungulu
     auto: true
   - translation_iso: jpn
     name: ムシュング語

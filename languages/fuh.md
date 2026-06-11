@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية النيجر الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন নিগের ফুলফুলদে
+    auto: true
   - translation_iso: deu
     name: Westniger-Fulfulde
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: peul du Niger occidental
   - translation_iso: hin
     name: पश्चिमी नाइजर फुलफुल्दे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Niger Fulfulde
     auto: true
   - translation_iso: jpn
     name: 西部ニジェール・フルフルディ語

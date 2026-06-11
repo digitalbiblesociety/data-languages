@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غوريندجي كريول
     auto: true
+  - translation_iso: ben
+    name: গুরিনদজি করিওল
+    auto: true
   - translation_iso: deu
     name: Gurindji Kriol
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kriol gurindji
   - translation_iso: hin
     name: गुरिंदजी क्रिओल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gurindji Kriol
     auto: true
   - translation_iso: jpn
     name: グリンジ・クリオル語

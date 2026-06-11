@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरितिंगगिथिघ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arritinngithigh
+    auto: true
   - translation_iso: jpn
     name: アリティングギティ語
     auto: true

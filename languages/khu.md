@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة نكومبي
     auto: true
+  - translation_iso: ben
+    name: নখুমবি
+    auto: true
   - translation_iso: deu
     name: Nkhumbi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nkhumbi
   - translation_iso: hin
     name: न्खुंबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nkhumbi
     auto: true
   - translation_iso: jpn
     name: ンクンビ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دوسون سوجوت
     auto: true
+  - translation_iso: ben
+    name: সুগুত দুসুন
+    auto: true
   - translation_iso: deu
     name: Sugut-Dusun
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dusun sugut
   - translation_iso: hin
     name: सुगुत दुसुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sugut Dusun
     auto: true
   - translation_iso: jpn
     name: スグット・ドゥスン語

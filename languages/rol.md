@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: رومبلومانون
     auto: true
+  - translation_iso: ben
+    name: রোমবলোমানোন
+    auto: true
   - translation_iso: deu
     name: Romblomanon
   - translation_iso: fra
     name: romblomanon
   - translation_iso: hin
     name: रोम्ब्लोमानोन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Romblomanon
     auto: true
   - translation_iso: jpn
     name: ロンブロン語

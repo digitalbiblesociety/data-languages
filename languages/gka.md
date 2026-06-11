@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غويآ
     auto: true
+  - translation_iso: ben
+    name: গুয়া
+    auto: true
   - translation_iso: deu
     name: Guya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: guya
   - translation_iso: hin
     name: गुया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guya
     auto: true
   - translation_iso: jpn
     name: グヤ語

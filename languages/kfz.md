@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كوروومفيه
     auto: true
+  - translation_iso: ben
+    name: কোরোমফে
+    auto: true
   - translation_iso: deu
     name: Koromfe
   - translation_iso: fra
     name: Koromfé
   - translation_iso: hin
     name: कोरोम्फे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Koromfé
     auto: true
   - translation_iso: jpn
     name: クルンフェ語

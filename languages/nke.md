@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديوك
     auto: true
+  - translation_iso: ben
+    name: দুকে
+    auto: true
   - translation_iso: deu
     name: Duke
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: duke
   - translation_iso: hin
     name: डुके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Duke
     auto: true
   - translation_iso: jpn
     name: デューク語

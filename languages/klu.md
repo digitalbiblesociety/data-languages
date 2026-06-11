@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كلاو
     auto: true
+  - translation_iso: ben
+    name: কলাও
+    auto: true
   - translation_iso: deu
     name: Klao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: klao
   - translation_iso: hin
     name: क्लाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Klao
     auto: true
   - translation_iso: jpn
     name: クラオ語

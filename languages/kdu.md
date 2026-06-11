@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kadaru_language"
 translations:
   - translation_iso: ara
     name: لغة كادارو
+  - translation_iso: ben
+    name: কাদারু
+    auto: true
   - translation_iso: deu
     name: Kadaru
   - translation_iso: fra

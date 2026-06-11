@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كهاو
     auto: true
+  - translation_iso: ben
+    name: খাও
+    auto: true
   - translation_iso: deu
     name: Khao
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: khao
   - translation_iso: hin
     name: खाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Khao
     auto: true
   - translation_iso: jpn
     name: カオ語

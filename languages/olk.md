@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولكول
     auto: true
+  - translation_iso: ben
+    name: ওলকোল
+    auto: true
   - translation_iso: deu
     name: Olkol
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: olkol
   - translation_iso: hin
     name: ओल्कोल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Olkol
     auto: true
   - translation_iso: jpn
     name: オルコル語

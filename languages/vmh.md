@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: مراغاي
     auto: true
+  - translation_iso: ben
+    name: মারাঘেই
+    auto: true
   - translation_iso: deu
     name: Maraghei
   - translation_iso: fra
     name: maraghei
   - translation_iso: hin
     name: मरागेई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maraghei
     auto: true
   - translation_iso: jpn
     name: ムラッゲ・ペゴレッボ語

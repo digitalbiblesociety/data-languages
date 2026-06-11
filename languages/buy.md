@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بوْلوم سو
     auto: true
+  - translation_iso: ben
+    name: বুল্লোম সো
+    auto: true
   - translation_iso: deu
     name: Bullom So
   - translation_iso: fra
     name: bullom so
   - translation_iso: hin
     name: बुलोम सो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bullom So
     auto: true
   - translation_iso: jpn
     name: ブロム・ソ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سانتا ماريا ديل مار
     auto: true
+  - translation_iso: ben
+    name: সানতা মারিয়া দেল মার হুয়াভে
+    auto: true
   - translation_iso: deu
     name: Santa-María-del-Mar-Huave
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: huave de Santa María del Mar
   - translation_iso: hin
     name: सांता मारिया डेल मार हुआवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Santa María Del Mar Huave
     auto: true
   - translation_iso: jpn
     name: サンタ・マリア・デル・マル・ウアベ語

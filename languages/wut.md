@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووتونغ
     auto: true
+  - translation_iso: ben
+    name: ওয়ুতুং
+    auto: true
   - translation_iso: deu
     name: Wutung
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wutung
   - translation_iso: hin
     name: वुटुंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wutung
     auto: true
   - translation_iso: jpn
     name: ウトゥン語

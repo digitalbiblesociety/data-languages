@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: خيت
     auto: true
+  - translation_iso: ben
+    name: কসেতা
+    auto: true
   - translation_iso: deu
     name: Xetá
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शेता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xetá
     auto: true
   - translation_iso: jpn
     name: シェタ語

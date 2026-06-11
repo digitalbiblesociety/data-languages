@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كايوباپا
     auto: true
+  - translation_iso: ben
+    name: কায়ুবাবা
+    auto: true
   - translation_iso: deu
     name: Cayubaba
   - translation_iso: fra
     name: cayubaba
   - translation_iso: hin
     name: कायुबाबा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cayubaba
     auto: true
   - translation_iso: jpn
     name: カユババ語

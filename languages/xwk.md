@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: وانجكومارا
     auto: true
+  - translation_iso: ben
+    name: ওয়াংকুমারা
+    auto: true
   - translation_iso: deu
     name: Wangkumara
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: wangkumara
   - translation_iso: hin
     name: वांगकुमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wangkumara
     auto: true
   - translation_iso: jpn
     name: ワングクマラ語

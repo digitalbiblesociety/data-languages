@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوروفو
     auto: true
+  - translation_iso: ben
+    name: গোরোভু
+    auto: true
   - translation_iso: deu
     name: Gorovu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gorovu
   - translation_iso: hin
     name: गोरोवू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gorovu
     auto: true
   - translation_iso: jpn
     name: ゴロヴ語

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مازاتلان ميكسي
     auto: true
+  - translation_iso: ben
+    name: মাজাতলান মিকসে
+    auto: true
   - translation_iso: deu
     name: Mazatlán-Mixe
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mixe de Mazatlán
   - translation_iso: hin
     name: माज़ातलान मिक्से
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mazatlán Mixe
     auto: true
   - translation_iso: jpn
     name: マサトラン・ミクセ語

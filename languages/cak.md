@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاتشيكيل
     auto: true
+  - translation_iso: ben
+    name: কাকচিকেল
+    auto: true
   - translation_iso: deu
     name: Cakchiquel-Sprache
   - translation_iso: fra

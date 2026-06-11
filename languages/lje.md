@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة امپي
     auto: true
+  - translation_iso: ben
+    name: রামপি
+    auto: true
   - translation_iso: deu
     name: Rampi
     auto: true

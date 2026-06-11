@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيبيتوتوتلا تشينانتك
     auto: true
+  - translation_iso: ben
+    name: তেপেতোতুতলা চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Tepetotutla-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: Chinantèque de Tepetotutla
   - translation_iso: hin
     name: टेपेटोटुटला चिनान्टेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tepetotutla Chinantec
     auto: true
   - translation_iso: jpn
     name: テペトトゥトラ・チナンテク語

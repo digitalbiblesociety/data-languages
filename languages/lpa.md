@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يليپا
     auto: true
+  - translation_iso: ben
+    name: লেলেপা
+    auto: true
   - translation_iso: deu
     name: Lelepa
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lelepa
   - translation_iso: hin
     name: लेलेपा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lelepa
     auto: true
   - translation_iso: jpn
     name: レレパ語

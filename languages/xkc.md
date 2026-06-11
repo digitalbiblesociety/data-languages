@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: خويني
     auto: true
+  - translation_iso: ben
+    name: খোইনি
+    auto: true
   - translation_iso: deu
     name: "Kho'ini"
   - translation_iso: fra
     name: kho’ini
   - translation_iso: hin
     name: kho kho objeet
+  - translation_iso: ind
+    name: "Bahasa Kho'ini"
+    auto: true
   - translation_iso: jpn
     name: ホイーニ語
     auto: true

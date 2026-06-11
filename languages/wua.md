@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ويكنغينكهيرا
     auto: true
+  - translation_iso: ben
+    name: ওয়িকঙেনচেরা
+    auto: true
   - translation_iso: deu
     name: Wikngenchera
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wikngenchera
   - translation_iso: hin
     name: विकनगेन्चेरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wikngenchera
     auto: true
   - translation_iso: jpn
     name: ウィクネンチェラ語

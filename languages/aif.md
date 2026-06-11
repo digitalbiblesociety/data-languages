@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अगी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Agi
+    auto: true
   - translation_iso: jpn
     name: アギ語
     auto: true

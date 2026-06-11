@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة ساري
     auto: true
+  - translation_iso: ben
+    name: সারি
+    auto: true
   - translation_iso: deu
     name: Nsari
   - translation_iso: fra
     name: sari
   - translation_iso: hin
     name: सारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sari
     auto: true
   - translation_iso: jpn
     name: Saari語

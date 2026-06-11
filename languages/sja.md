@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة إيبينا
     auto: true
+  - translation_iso: ben
+    name: এপেনা
+    auto: true
   - translation_iso: deu
     name: Epena
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: epena saija
   - translation_iso: hin
     name: एपेना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Epena
     auto: true
   - translation_iso: jpn
     name: サイジャ語

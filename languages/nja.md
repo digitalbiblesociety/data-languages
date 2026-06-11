@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نزانيي
     auto: true
+  - translation_iso: ben
+    name: নজানয়ি
+    auto: true
   - translation_iso: deu
     name: Nzanyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: nzanyi
   - translation_iso: hin
     name: न्ज़ान्यी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nzanyi
     auto: true
   - translation_iso: jpn
     name: ンザニイ語

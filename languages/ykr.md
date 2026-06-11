@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة يكورا
     auto: true
+  - translation_iso: ben
+    name: য়েকোরা
+    auto: true
   - translation_iso: deu
     name: Yekora
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: येकोरा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yekora
     auto: true
   - translation_iso: jpn
     name: イェコラ語

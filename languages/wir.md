@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: ويرافد
     auto: true
+  - translation_iso: ben
+    name: ওয়িরাফেদ
+    auto: true
   - translation_iso: deu
     name: Wiraféd
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: wiraféd
   - translation_iso: hin
     name: विराफेद
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wiraféd
     auto: true
   - translation_iso: jpn
     name: ウィラフェド語

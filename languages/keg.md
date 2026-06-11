@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تيسي
     auto: true
+  - translation_iso: ben
+    name: তেসে
+    auto: true
   - translation_iso: deu
     name: Tese
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तेसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tese
     auto: true
   - translation_iso: jpn
     name: テセ語

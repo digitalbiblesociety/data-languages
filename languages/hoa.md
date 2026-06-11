@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هوافا
     auto: true
+  - translation_iso: ben
+    name: হোয়াভা
+    auto: true
   - translation_iso: deu
     name: Hoava
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hoava
   - translation_iso: hin
     name: होआवा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hoava
     auto: true
   - translation_iso: jpn
     name: ホアバ語

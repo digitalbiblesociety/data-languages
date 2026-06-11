@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك سيرا دي خواريز
     auto: true
+  - translation_iso: ben
+    name: সিএর্রা দে জুয়ারেজ জাপোতেক
+    auto: true
   - translation_iso: deu
     name: Zapotekisch (Sierra de Juárez)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zapotèque de la Sierra de Juárez
   - translation_iso: hin
     name: सिएरा डे जुआरेज़ ज़ापोटेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sierra de Juárez Zapotec
     auto: true
   - translation_iso: jpn
     name: シエラ・デ・フアレス・サポテク語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوروكا
     auto: true
+  - translation_iso: ben
+    name: বোরুকা
+    auto: true
   - translation_iso: deu
     name: Boruca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: boruca
   - translation_iso: hin
     name: बोरुका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Boruca
     auto: true
   - translation_iso: jpn
     name: ボルカ語

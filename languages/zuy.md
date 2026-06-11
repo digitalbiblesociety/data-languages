@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: زومايا
     auto: true
+  - translation_iso: ben
+    name: জুমায়া
+    auto: true
   - translation_iso: deu
     name: Zumaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zumaya
   - translation_iso: hin
     name: ज़ुमाया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zumaya
     auto: true
   - translation_iso: jpn
     name: ズマヤ語

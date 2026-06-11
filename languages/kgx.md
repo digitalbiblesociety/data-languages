@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كاماري
     auto: true
+  - translation_iso: ben
+    name: কামারু
+    auto: true
   - translation_iso: deu
     name: Kamaru
     auto: true

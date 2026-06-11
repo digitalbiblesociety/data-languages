@@ -29,6 +29,9 @@ translations:
     name: langue des signes québécoise
   - translation_iso: hin
     name: क्यूबेक साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Quebec Sign Language
+    auto: true
   - translation_iso: jpn
     name: ケベック手話
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وركاي بيبيم
     auto: true
+  - translation_iso: ben
+    name: ওয়ারকায়-বিপিম
+    auto: true
   - translation_iso: deu
     name: Warkay-Bipim
     auto: true

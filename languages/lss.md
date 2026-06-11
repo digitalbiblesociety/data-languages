@@ -30,6 +30,9 @@ translations:
     name: lasi
   - translation_iso: hin
     name: लासी
+  - translation_iso: ind
+    name: Bahasa Lasi
+    auto: true
   - translation_iso: jpn
     name: ラシ語
     auto: true

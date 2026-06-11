@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مورتلوكيسي
     auto: true
+  - translation_iso: ben
+    name: মোরতলোকেসে
+    auto: true
   - translation_iso: deu
     name: Mortlockesische Sprache
   - translation_iso: fra

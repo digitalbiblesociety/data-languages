@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تشيكيتانو
     auto: true
+  - translation_iso: ben
+    name: চিকুইতানো
+    auto: true
   - translation_iso: deu
     name: Chiquitano
   - translation_iso: fra
     name: chiquitano
   - translation_iso: hin
     name: चिकितानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chiquitano
     auto: true
   - translation_iso: jpn
     name: チキターノ語

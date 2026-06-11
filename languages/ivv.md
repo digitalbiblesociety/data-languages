@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيفاتان
     auto: true
+  - translation_iso: ben
+    name: ইভাতান
+    auto: true
   - translation_iso: deu
     name: Ivatan
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: وونغو
     auto: true
+  - translation_iso: ben
+    name: ওয়োঙো
+    auto: true
   - translation_iso: deu
     name: Wongo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wongo
   - translation_iso: hin
     name: वोंगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wongo
     auto: true
   - translation_iso: jpn
     name: ウォンゴ語

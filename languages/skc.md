@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ما ماندا
     auto: true
+  - translation_iso: ben
+    name: মা মানদা
+    auto: true
   - translation_iso: deu
     name: Ma Manda
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ma manda
   - translation_iso: hin
     name: मा मांडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ma Manda
     auto: true
   - translation_iso: jpn
     name: ママンダ語

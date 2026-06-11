@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: غوفآ
     auto: true
+  - translation_iso: ben
+    name: গোফা
+    auto: true
   - translation_iso: deu
     name: Gofa
     auto: true
@@ -26,6 +29,9 @@ translations:
     name: gofa
   - translation_iso: hin
     name: गोफा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gofa
     auto: true
   - translation_iso: jpn
     name: ゴファ語

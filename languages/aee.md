@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة نورثيست باشاي
     auto: true
+  - translation_iso: ben
+    name: নোরথেয়াসত পাশাই
+    auto: true
   - translation_iso: deu
     name: Nordost-Pashai
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: pashai du Nord-Est
   - translation_iso: hin
     name: उत्तरपूर्वी पशाई
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northeast Pashai
     auto: true
   - translation_iso: jpn
     name: 北東パシャイ語

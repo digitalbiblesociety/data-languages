@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة أوروها
     auto: true
+  - translation_iso: ben
+    name: ওরোহা
+    auto: true
   - translation_iso: deu
     name: Oroha
   - translation_iso: fra
     name: oroha
   - translation_iso: hin
     name: ओरोहा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Oroha
     auto: true
   - translation_iso: jpn
     name: オロハ語

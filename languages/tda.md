@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تاغدال
     auto: true
+  - translation_iso: ben
+    name: তাগদাল
+    auto: true
   - translation_iso: deu
     name: Tihishit
   - translation_iso: fra
     name: tagdal
   - translation_iso: hin
     name: तागदाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tagdal
     auto: true
   - translation_iso: jpn
     name: タグダル語

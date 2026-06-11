@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واكونا
     auto: true
+  - translation_iso: ben
+    name: ওয়াকোনা
+    auto: true
   - translation_iso: deu
     name: Wakoná
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: वाकोना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wakoná
     auto: true
   - translation_iso: jpn
     name: ワコナ語

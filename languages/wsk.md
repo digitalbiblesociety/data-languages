@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: واسكيا
     auto: true
+  - translation_iso: ben
+    name: ওয়াসকিয়া
+    auto: true
   - translation_iso: deu
     name: Waskia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: waskia
   - translation_iso: hin
     name: वास्किया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Waskia
     auto: true
   - translation_iso: jpn
     name: ワスキア語

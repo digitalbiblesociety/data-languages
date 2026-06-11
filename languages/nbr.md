@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: نومانا
     auto: true
+  - translation_iso: ben
+    name: নুমানা
+    auto: true
   - translation_iso: deu
     name: Numana
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: numana-nunku-gbantu-numbu
   - translation_iso: hin
     name: नुमाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Numana
     auto: true
   - translation_iso: jpn
     name: ヌマナ語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tidikelt_language"
 translations:
   - translation_iso: ara
     name: أمازيغية تيديكلت
+  - translation_iso: ben
+    name: তিদিকেলত তামাজিঘত
+    auto: true
   - translation_iso: deu
     name: Tidikelt Tamazight
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tidikelt
   - translation_iso: hin
     name: तिदिकेल्त तामाज़ीगत
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tidikelt Tamazight
     auto: true
   - translation_iso: jpn
     name: ティディケルト語

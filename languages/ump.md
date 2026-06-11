@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أومبيلا
     auto: true
+  - translation_iso: ben
+    name: উমপিলা
+    auto: true
   - translation_iso: deu
     name: Umpila
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: umpila
   - translation_iso: hin
     name: उम्पिला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Umpila
     auto: true
   - translation_iso: jpn
     name: 北東パマン語

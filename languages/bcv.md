@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة شو-مندا-نيي
     auto: true
+  - translation_iso: ben
+    name: শো-মিনদা-নয়ে
+    auto: true
   - translation_iso: deu
     name: Schoo-Minda-Nye
   - translation_iso: fra
@@ -27,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शू-मिंदा-न्ये
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shoo-Minda-Nye
     auto: true
   - translation_iso: jpn
     name: シュー・ミンダ・ニエ語

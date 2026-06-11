@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अख्वाख
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akhvakh
+    auto: true
   - translation_iso: jpn
     name: アフバフ語
   - translation_iso: kor

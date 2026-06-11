@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अन्यिन मोरोफो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anyin Morofo
+    auto: true
   - translation_iso: jpn
     name: アニン・モロフォ語
     auto: true

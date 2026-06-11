@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هإيلتسوك
     auto: true
+  - translation_iso: ben
+    name: হেইলতসুক
+    auto: true
   - translation_iso: deu
     name: Heiltsuk
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: heiltsuk
   - translation_iso: hin
     name: हेइल्त्सुक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Heiltsuk
     auto: true
   - translation_iso: jpn
     name: ヘイルツク語

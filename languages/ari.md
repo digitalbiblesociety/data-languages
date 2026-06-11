@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अरिकारा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arikara
+    auto: true
   - translation_iso: jpn
     name: アリカラ語
   - translation_iso: kor

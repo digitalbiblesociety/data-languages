@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة يرميت
     auto: true
+  - translation_iso: ben
+    name: হেরমিত
+    auto: true
   - translation_iso: deu
     name: Hermit
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: hermit
   - translation_iso: hin
     name: हर्मिट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hermit
     auto: true
   - translation_iso: jpn
     name: ハーミット語

@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: कारागास
     auto: true
+  - translation_iso: ind
+    name: Bahasa Karagas
+    auto: true
   - translation_iso: jpn
     name: トファ語
   - translation_iso: kor

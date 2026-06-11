@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बानाओ इत्नेग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Banao Itneg
+    auto: true
   - translation_iso: jpn
     name: バナオ・イトネグ語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ألابات آيسلاند أجتا
     auto: true
+  - translation_iso: ben
+    name: আলাবাত ইসলানদ আগতা
+    auto: true
   - translation_iso: deu
     name: Alabat Island Agta
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: "agta d'Alabat"
   - translation_iso: hin
     name: अलाबात द्वीप आग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Alabat Island Agta
     auto: true
   - translation_iso: jpn
     name: アラバット島アグタ語

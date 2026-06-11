@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجاريا
     auto: true
+  - translation_iso: ben
+    name: য়াগারিয়া
+    auto: true
   - translation_iso: deu
     name: Yagaria
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: yagaria
   - translation_iso: hin
     name: यागरिया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yagaria
     auto: true
   - translation_iso: jpn
     name: ヤガリア語

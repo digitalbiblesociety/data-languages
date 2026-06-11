@@ -21,6 +21,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Laz_language"
 translations:
   - translation_iso: ara
     name: اللغة اللازية
+  - translation_iso: ben
+    name: লাজ
+    auto: true
   - translation_iso: deu
     name: Lasisch
   - translation_iso: fra

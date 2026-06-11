@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيوات
     auto: true
+  - translation_iso: ben
+    name: বিওয়াত
+    auto: true
   - translation_iso: deu
     name: Biwat
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: biwat
   - translation_iso: hin
     name: बिवाट
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Biwat
     auto: true
   - translation_iso: jpn
     name: ビワット語

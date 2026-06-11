@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاغايانين
     auto: true
+  - translation_iso: ben
+    name: কাগায়ানেন
+    auto: true
   - translation_iso: deu
     name: Kagayanen
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: कागायानेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kagayanen
     auto: true
   - translation_iso: jpn
     name: カガヤネン語

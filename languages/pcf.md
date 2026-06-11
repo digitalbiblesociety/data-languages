@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة باليان
     auto: true
+  - translation_iso: ben
+    name: পালিয়ান
+    auto: true
   - translation_iso: deu
     name: Paliyan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: पालियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Paliyan
     auto: true
   - translation_iso: jpn
     name: パリヤン語

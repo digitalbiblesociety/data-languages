@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينينجايي
     auto: true
+  - translation_iso: ben
+    name: য়িনিঙায়ি
+    auto: true
   - translation_iso: deu
     name: Yiningayi
     auto: true
@@ -20,6 +23,9 @@ translations:
     name: yiningayi
   - translation_iso: hin
     name: यिनिंगायी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yiningayi
     auto: true
   - translation_iso: jpn
     name: イニンガイ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غآنإ
     auto: true
+  - translation_iso: ben
+    name: গানে
+    auto: true
   - translation_iso: deu
     name: Gane
     auto: true

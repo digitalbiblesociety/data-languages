@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كباتيلي
     auto: true
+  - translation_iso: ben
+    name: কপাতিলি
+    auto: true
   - translation_iso: deu
     name: Kpatili
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kpatili
   - translation_iso: hin
     name: क्पातिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kpatili
     auto: true
   - translation_iso: jpn
     name: クパティリ語

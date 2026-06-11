@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاريير جنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন কার্রিএর
+    auto: true
   - translation_iso: deu
     name: Südliches Carrier
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: porteur du Sud
   - translation_iso: hin
     name: दक्षिणी कैरियर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Southern Carrier
     auto: true
   - translation_iso: jpn
     name: 南カリエ語

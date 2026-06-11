@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوكور
     auto: true
+  - translation_iso: ben
+    name: সুকুর
+    auto: true
   - translation_iso: deu
     name: Sukur
   - translation_iso: fra
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सुकुर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sukur
     auto: true
   - translation_iso: jpn
     name: スクル語

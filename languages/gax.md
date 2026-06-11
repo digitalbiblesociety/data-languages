@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الأرومية بورانا-أرسي-غوجي
     auto: true
+  - translation_iso: ben
+    name: বোরানা-আরসি-গুজি ওরোমো
+    auto: true
   - translation_iso: deu
     name: Borana-Arsi-Guji-Oromo
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: borana
   - translation_iso: hin
     name: बोराना-अर्सी-गुजी ओरोमो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Borana-Arsi-Guji Oromo
     auto: true
   - translation_iso: jpn
     name: ボラナ・アルシ・グジ・オロモ語

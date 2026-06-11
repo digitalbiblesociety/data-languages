@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بيناهاري
     auto: true
+  - translation_iso: ben
+    name: বিনাহারি
+    auto: true
   - translation_iso: deu
     name: Binahari
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: binahari
   - translation_iso: hin
     name: बिनाहारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Binahari
     auto: true
   - translation_iso: jpn
     name: ビナハリ語

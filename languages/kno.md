@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كونو
     auto: true
+  - translation_iso: ben
+    name: কোনো
+    auto: true
   - translation_iso: deu
     name: Kono
   - translation_iso: fra
     name: kono
   - translation_iso: hin
     name: कोनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kono
     auto: true
   - translation_iso: jpn
     name: コノ語

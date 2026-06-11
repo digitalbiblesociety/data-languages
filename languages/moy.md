@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة شيكاتشو
     auto: true
+  - translation_iso: ben
+    name: শেক্কাচো
+    auto: true
   - translation_iso: deu
     name: Shekkacho
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: शेक्काचो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Shekkacho
     auto: true
   - translation_iso: jpn
     name: シェッカチョ語

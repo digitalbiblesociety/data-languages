@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: تشيتشيغي
     auto: true
+  - translation_iso: ben
+    name: তচিতচেগে
+    auto: true
   - translation_iso: deu
     name: Tchitchege
   - translation_iso: fra
     name: tchitchege
   - translation_iso: hin
     name: चिचेगे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tchitchege
     auto: true
   - translation_iso: jpn
     name: チチェゲ語

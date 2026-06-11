@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: लिथुआनियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lithuanian Sign Language
+    auto: true
   - translation_iso: jpn
     name: リトアニア手話
   - translation_iso: kor

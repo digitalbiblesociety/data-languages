@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: اللغة بايث
     auto: true
+  - translation_iso: ben
+    name: পাএজ
+    auto: true
   - translation_iso: deu
     name: Paez
   - translation_iso: fra
     name: paez
   - translation_iso: hin
     name: पाएस
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Páez
     auto: true
   - translation_iso: jpn
     name: パエス語

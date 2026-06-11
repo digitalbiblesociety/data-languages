@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अमतो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amto
+    auto: true
   - translation_iso: jpn
     name: アムト語
     auto: true

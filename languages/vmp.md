@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سويالتيبك مازاتك
     auto: true
+  - translation_iso: ben
+    name: সোয়ালতেপেক মাজাতেক
+    auto: true
   - translation_iso: deu
     name: Soyaltepec-Mazatekisch
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोयाल्तेपेक मासातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Soyaltepec Mazatec
     auto: true
   - translation_iso: jpn
     name: ソヤルテペク・マサテク語

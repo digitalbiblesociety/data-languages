@@ -13,12 +13,18 @@ translations:
   - translation_iso: ara
     name: الكارينجابا
     auto: true
+  - translation_iso: ben
+    name: কারেংগাপা
+    auto: true
   - translation_iso: deu
     name: Karenggapa
   - translation_iso: fra
     name: karenggapa
   - translation_iso: hin
     name: कारेंगापा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Karenggapa
     auto: true
   - translation_iso: jpn
     name: カレンガッパ語

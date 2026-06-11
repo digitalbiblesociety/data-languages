@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موجوم
     auto: true
+  - translation_iso: ben
+    name: মোগুম
+    auto: true
   - translation_iso: deu
     name: Mogum
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मोगुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mogum
     auto: true
   - translation_iso: jpn
     name: モグム語

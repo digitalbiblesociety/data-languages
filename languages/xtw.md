@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاواندي
     auto: true
+  - translation_iso: ben
+    name: তাওয়ানদে
+    auto: true
   - translation_iso: deu
     name: Tawandê
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tawandê
   - translation_iso: hin
     name: तावांदे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tawandê
     auto: true
   - translation_iso: jpn
     name: タワンデ語

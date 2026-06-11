@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ووغاموسين
     auto: true
+  - translation_iso: ben
+    name: ওয়োগামুসিন
+    auto: true
   - translation_iso: deu
     name: Wogamusin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: wogamusin
   - translation_iso: hin
     name: वोगामुसिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Wogamusin
     auto: true
   - translation_iso: jpn
     name: ウォガムシン語

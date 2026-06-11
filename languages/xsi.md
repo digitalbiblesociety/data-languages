@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيو
     auto: true
+  - translation_iso: ben
+    name: সিও
+    auto: true
   - translation_iso: deu
     name: Sio
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sio
   - translation_iso: hin
     name: सियो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sio
     auto: true
   - translation_iso: jpn
     name: シオ語

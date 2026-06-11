@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيام
     auto: true
+  - translation_iso: ben
+    name: ফয়াম
+    auto: true
   - translation_iso: deu
     name: Fyam
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: fyam
   - translation_iso: hin
     name: फ्याम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fyam
     auto: true
   - translation_iso: jpn
     name: フヤム語

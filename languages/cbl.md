@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: البوالخاو تشين
     auto: true
+  - translation_iso: ben
+    name: বুয়ালখাওয় চিন
+    auto: true
   - translation_iso: deu
     name: Bualkhaw-Chin
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: बुअलखाव चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bualkhaw Chin
     auto: true
   - translation_iso: jpn
     name: ブアルカウ・チン語

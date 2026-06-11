@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: बाज़ीगर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bazigar
+    auto: true
   - translation_iso: jpn
     name: バズィガル語
     auto: true

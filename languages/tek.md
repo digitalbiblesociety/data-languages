@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: إبالي تيكي
     auto: true
+  - translation_iso: ben
+    name: ইবালি তেকে
+    auto: true
   - translation_iso: deu
     name: Teke-Sprachen
   - translation_iso: fra
     name: téké-ibali
   - translation_iso: hin
     name: इबाली तेके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ibali Teke
     auto: true
   - translation_iso: jpn
     name: イバリ・テケ語

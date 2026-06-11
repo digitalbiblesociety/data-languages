@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: बासा-गुम्ना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Basa-Gumna
+    auto: true
   - translation_iso: jpn
     name: バサ・グムナ語
   - translation_iso: kor

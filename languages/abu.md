@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: अबुरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abure
+    auto: true
   - translation_iso: jpn
     name: アブレ語
     auto: true

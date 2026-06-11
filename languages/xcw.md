@@ -18,12 +18,18 @@ translations:
   - translation_iso: ara
     name: كواهويلتيكو
     auto: true
+  - translation_iso: ben
+    name: কোয়াহুইলতেকো
+    auto: true
   - translation_iso: deu
     name: Coahuiltekisch
   - translation_iso: fra
     name: coahuilteco
   - translation_iso: hin
     name: कोआहुइल्टेको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Coahuilteco
     auto: true
   - translation_iso: jpn
     name: コアウイルテコ語

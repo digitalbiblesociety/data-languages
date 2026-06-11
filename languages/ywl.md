@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة لالو الغربية
     auto: true
+  - translation_iso: ben
+    name: ওয়েসতেরন লালু
+    auto: true
   - translation_iso: deu
     name: West-Lalu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "lalu de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी लालू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Western Lalu
     auto: true
   - translation_iso: jpn
     name: ウェスタンラル語

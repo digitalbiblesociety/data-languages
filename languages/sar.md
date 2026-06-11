@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سارافيكا
     auto: true
+  - translation_iso: ben
+    name: সারাভেকা
+    auto: true
   - translation_iso: deu
     name: Saraveca
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: saraveca
   - translation_iso: hin
     name: सारावेका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saraveca
     auto: true
   - translation_iso: jpn
     name: サラヴェカ語

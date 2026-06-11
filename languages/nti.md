@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناتيورو
     auto: true
+  - translation_iso: ben
+    name: নাতিওরো
+    auto: true
   - translation_iso: deu
     name: Natioro
   - translation_iso: fra
     name: natioro
   - translation_iso: hin
     name: नातिओरो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Natioro
     auto: true
   - translation_iso: jpn
     name: ナティオロ語

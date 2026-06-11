@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاونغ رتشينغ
     auto: true
+  - translation_iso: ben
+    name: রুচিং পালাউং
+    auto: true
   - translation_iso: deu
     name: Ruching-Palaung
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: palaung ruching
   - translation_iso: hin
     name: रुचिंग पालाउंग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ruching Palaung
     auto: true
   - translation_iso: jpn
     name: ルチング・パラウン語

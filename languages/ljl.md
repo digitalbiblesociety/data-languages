@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: "لغة ي'و"
     auto: true
+  - translation_iso: ben
+    name: লিও
+    auto: true
   - translation_iso: deu
     name: "Li'o"
   - translation_iso: fra

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماك
     auto: true
+  - translation_iso: ben
+    name: মাক
+    auto: true
   - translation_iso: deu
     name: Mak (China)
     auto: true

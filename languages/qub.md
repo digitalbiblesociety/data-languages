@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوالاجا هوانوكو
     auto: true
+  - translation_iso: ben
+    name: হুয়াল্লাগা হুয়ানুকো কুএচুয়া
+    auto: true
   - translation_iso: deu
     name: Huallaga-Quechua
   - translation_iso: fra
     name: quechua de Huallaga Huánuco
   - translation_iso: hin
     name: वायागा वानूको क्वेचुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Huallaga Huánuco Quechua
     auto: true
   - translation_iso: jpn
     name: ワラガウアヌコケチュア語

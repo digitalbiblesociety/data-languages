@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة السامبيريجية
     auto: true
+  - translation_iso: ben
+    name: সামবেরিগি
+    auto: true
   - translation_iso: deu
     name: Samberigi
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सामबेरिगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Samberigi
     auto: true
   - translation_iso: jpn
     name: サウ語

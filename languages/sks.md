@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة مايا
     auto: true
+  - translation_iso: ben
+    name: মাইয়া
+    auto: true
   - translation_iso: deu
     name: Maia
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माइया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maia
     auto: true
   - translation_iso: jpn
     name: ピラ語

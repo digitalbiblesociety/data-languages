@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوامويه
     auto: true
+  - translation_iso: ben
+    name: উয়ামুএ
+    auto: true
   - translation_iso: deu
     name: Uamué
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: उआमुए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uamué
     auto: true
   - translation_iso: jpn
     name: アティカム語

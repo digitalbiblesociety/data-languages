@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة مبيندا
     auto: true
+  - translation_iso: ben
+    name: মপিনদা
+    auto: true
   - translation_iso: deu
     name: Mpinda
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mpinda
   - translation_iso: hin
     name: म्पिंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mpinda
     auto: true
   - translation_iso: jpn
     name: ムピンダ語

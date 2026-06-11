@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوويلتشي
     auto: true
+  - translation_iso: ben
+    name: পুএলচে
+    auto: true
   - translation_iso: deu
     name: Puelche
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: gününa yajich
   - translation_iso: hin
     name: पुएलचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Puelche
     auto: true
   - translation_iso: jpn
     name: プエルチェ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: سافي سافي
     auto: true
+  - translation_iso: ben
+    name: সাফি-সাফি
+    auto: true
   - translation_iso: deu
     name: Saafi
   - translation_iso: fra
     name: saafi
   - translation_iso: hin
     name: साफी-साफी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Saafi-Saafi
     auto: true
   - translation_iso: jpn
     name: サアフィサアフィ語

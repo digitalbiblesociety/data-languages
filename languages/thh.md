@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الشمالية
     auto: true
+  - translation_iso: ben
+    name: নোরথেরন তারাহুমারা
+    auto: true
   - translation_iso: deu
     name: Northern Tarahumara
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tarahumara du Nord
   - translation_iso: hin
     name: उत्तरी तराहुमारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northern Tarahumara
     auto: true
   - translation_iso: jpn
     name: 北部タラウマラ語

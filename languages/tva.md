@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: فاجوا
     auto: true
+  - translation_iso: ben
+    name: ভাঘুয়া
+    auto: true
   - translation_iso: deu
     name: Vaghua
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: vaghua
   - translation_iso: hin
     name: वाघुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Vaghua
     auto: true
   - translation_iso: jpn
     name: タヴラ語

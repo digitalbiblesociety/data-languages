@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مايادومو
     auto: true
+  - translation_iso: ben
+    name: মাইয়াদোমু
+    auto: true
   - translation_iso: deu
     name: Maiadomu
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: मायादोमु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maiadomu
     auto: true
   - translation_iso: jpn
     name: マイアドム語

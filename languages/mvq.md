@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موري
     auto: true
+  - translation_iso: ben
+    name: মোএরে
+    auto: true
   - translation_iso: deu
     name: Moere
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: moere
   - translation_iso: hin
     name: मोएरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Moere
     auto: true
   - translation_iso: jpn
     name: モエレ語

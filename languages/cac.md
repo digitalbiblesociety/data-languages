@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تشوج
     auto: true
+  - translation_iso: ben
+    name: চুজ
+    auto: true
   - translation_iso: deu
     name: Chuj-Sprache
   - translation_iso: fra
     name: chuj
   - translation_iso: hin
     name: चुज
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chuj
     auto: true
   - translation_iso: jpn
     name: チュフ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديري
     auto: true
+  - translation_iso: ben
+    name: দিরি
+    auto: true
   - translation_iso: deu
     name: Diri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: diri
   - translation_iso: hin
     name: डिरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Diri
     auto: true
   - translation_iso: jpn
     name: ディリ語

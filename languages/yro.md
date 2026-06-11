@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياروامي
     auto: true
+  - translation_iso: ben
+    name: য়ারোয়ামে
+    auto: true
   - translation_iso: deu
     name: Yaroamë
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yaroamë
   - translation_iso: hin
     name: यारोआमे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yaroamë
     auto: true
   - translation_iso: jpn
     name: ヤロアメ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندامبا
     auto: true
+  - translation_iso: ben
+    name: নদামবা
+    auto: true
   - translation_iso: deu
     name: Ndamba
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ndamba
   - translation_iso: hin
     name: न्दाम्बा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndamba
     auto: true
   - translation_iso: jpn
     name: ンダンバ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تونجونغ
     auto: true
+  - translation_iso: ben
+    name: তুনজুং
+    auto: true
   - translation_iso: deu
     name: Tunjung
     auto: true

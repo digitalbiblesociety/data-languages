@@ -30,6 +30,9 @@ translations:
     name: aweti
   - translation_iso: hin
     name: आवेति भाषा
+  - translation_iso: ind
+    name: Bahasa Awetí
+    auto: true
   - translation_iso: jpn
     name: アウェティ語
     auto: true

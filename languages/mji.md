@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيم مون
     auto: true
+  - translation_iso: ben
+    name: কিম মুন
+    auto: true
   - translation_iso: deu
     name: Kim Mun
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kim mun
   - translation_iso: hin
     name: किम मुन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kim Mun
     auto: true
   - translation_iso: jpn
     name: ムン語

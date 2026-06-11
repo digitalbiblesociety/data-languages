@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موسجو
     auto: true
+  - translation_iso: ben
+    name: মুসগু
+    auto: true
   - translation_iso: deu
     name: Musgu
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mousgoum
   - translation_iso: hin
     name: मुस्गु
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Musgu
     auto: true
   - translation_iso: jpn
     name: ムスグ語

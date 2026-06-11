@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيفو
     auto: true
+  - translation_iso: ben
+    name: ইফো
+    auto: true
   - translation_iso: deu
     name: Ifo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ifo
   - translation_iso: hin
     name: इफो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ifo
     auto: true
   - translation_iso: jpn
     name: イフォ語

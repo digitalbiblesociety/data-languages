@@ -28,6 +28,9 @@ translations:
   - translation_iso: hin
     name: मिस्र सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Egypt Sign Language
+    auto: true
   - translation_iso: jpn
     name: エジプト手話
   - translation_iso: kor

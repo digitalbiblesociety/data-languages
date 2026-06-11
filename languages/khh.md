@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيهو
     auto: true
+  - translation_iso: ben
+    name: কেহু
+    auto: true
   - translation_iso: deu
     name: Kehu
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة إيما بويانج
     auto: true
+  - translation_iso: ben
+    name: এমা বুয়াং
+    auto: true
   - translation_iso: deu
     name: "E'ma-Buyang"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "buyang e'ma"
   - translation_iso: hin
     name: एमा बुयांग
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa E'ma Buyang"
     auto: true
   - translation_iso: jpn
     name: エマ・ブヤン語

@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hadramautic_language"
 translations:
   - translation_iso: ara
     name: اللغة الحضرمية
+  - translation_iso: ben
+    name: হাদরামি
+    auto: true
   - translation_iso: deu
     name: Hadrami
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हद्रामी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hadrami
     auto: true
   - translation_iso: jpn
     name: ハドラマウト語

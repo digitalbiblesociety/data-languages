@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أويجيتايا
     auto: true
+  - translation_iso: ben
+    name: উয়াজিতায়া
+    auto: true
   - translation_iso: deu
     name: Uyajitaya
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: uyajitaya
   - translation_iso: hin
     name: उयाजिताया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Uyajitaya
     auto: true
   - translation_iso: jpn
     name: ウヤジタヤ語

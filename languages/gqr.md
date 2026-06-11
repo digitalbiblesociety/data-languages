@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غور
     auto: true
+  - translation_iso: ben
+    name: গোর
+    auto: true
   - translation_iso: deu
     name: Gor
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gor
   - translation_iso: hin
     name: गोर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gor
     auto: true
   - translation_iso: jpn
     name: ゴル語

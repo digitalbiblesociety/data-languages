@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كيليكو
     auto: true
+  - translation_iso: ben
+    name: কেলিকো
+    auto: true
   - translation_iso: deu
     name: Keliko
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: keliko
   - translation_iso: hin
     name: केलिको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Keliko
     auto: true
   - translation_iso: jpn
     name: ケリコ語

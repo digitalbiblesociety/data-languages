@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: يابارانا
     auto: true
+  - translation_iso: ben
+    name: য়াবারানা
+    auto: true
   - translation_iso: deu
     name: Yabarana
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: yabarana
   - translation_iso: hin
     name: याबाराना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yabarana
     auto: true
   - translation_iso: jpn
     name: ヤワラナ語

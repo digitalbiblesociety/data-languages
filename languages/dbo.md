@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: دولبو
     auto: true
+  - translation_iso: ben
+    name: দুলবু
+    auto: true
   - translation_iso: deu
     name: Dulbu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: dulbu
   - translation_iso: hin
     name: दुलबू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dulbu
     auto: true
   - translation_iso: jpn
     name: ドゥルブ語

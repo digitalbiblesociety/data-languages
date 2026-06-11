@@ -30,6 +30,9 @@ translations:
     name: mundari
   - translation_iso: hin
     name: मुंडारी भाषा
+  - translation_iso: ind
+    name: Bahasa Mundari
+    auto: true
   - translation_iso: jpn
     name: ムンダリ語
   - translation_iso: kor

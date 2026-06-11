@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: هولا
     auto: true
+  - translation_iso: ben
+    name: হুলা
+    auto: true
   - translation_iso: deu
     name: Hula
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: हुला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Hula
     auto: true
   - translation_iso: jpn
     name: フラ語

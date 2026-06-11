@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الشارا
     auto: true
+  - translation_iso: ben
+    name: চারা
+    auto: true
   - translation_iso: deu
     name: Chara
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chara
   - translation_iso: hin
     name: चारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chara
     auto: true
   - translation_iso: jpn
     name: チャラ語

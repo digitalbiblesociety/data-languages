@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة فارسي-داري
     auto: true
+  - translation_iso: ben
+    name: পারসি-দারি
+    auto: true
   - translation_iso: deu
     name: Parsi-Dari
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: parsi-dari
   - translation_iso: hin
     name: पारसी-दारी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Parsi-Dari
     auto: true
   - translation_iso: jpn
     name: パルシダリ語

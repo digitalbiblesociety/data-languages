@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: सामवेदी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Samvedi
+    auto: true
   - translation_iso: jpn
     name: サマベディ語
     auto: true

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة اهو
     auto: true
+  - translation_iso: ben
+    name: লাহু
+    auto: true
   - translation_iso: deu
     name: Lahu
   - translation_iso: fra
     name: lahu
   - translation_iso: hin
     name: लाहू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lahu
     auto: true
   - translation_iso: jpn
     name: ラフ語

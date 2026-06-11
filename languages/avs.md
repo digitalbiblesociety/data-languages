@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: औशिरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aushiri
+    auto: true
   - translation_iso: jpn
     name: アウシリ語
     auto: true

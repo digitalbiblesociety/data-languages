@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كيميهوا
     auto: true
+  - translation_iso: ben
+    name: কেমিএহুয়া
+    auto: true
   - translation_iso: deu
     name: Kemiehua
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: kemie
   - translation_iso: hin
     name: केमिएहुआ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kemiehua
     auto: true
   - translation_iso: jpn
     name: ケミエフア語

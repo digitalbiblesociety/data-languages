@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاوورتا
     auto: true
+  - translation_iso: ben
+    name: তাওয়োরতা
+    auto: true
   - translation_iso: deu
     name: Taworta
     auto: true

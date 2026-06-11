@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبي
     auto: true
+  - translation_iso: ben
+    name: কুবি
+    auto: true
   - translation_iso: deu
     name: Kubi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kubi
   - translation_iso: hin
     name: कुबी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kubi
     auto: true
   - translation_iso: jpn
     name: クビ語

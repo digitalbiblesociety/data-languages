@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: كارين زايين
     auto: true
+  - translation_iso: ben
+    name: জায়েইন কারেন
+    auto: true
   - translation_iso: deu
     name: Zayein
   - translation_iso: fra
     name: zayein
   - translation_iso: hin
     name: ज़ायीन करेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zayein Karen
     auto: true
   - translation_iso: jpn
     name: ザイイン・カレン語

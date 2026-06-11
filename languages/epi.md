@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: الإبي
     auto: true
+  - translation_iso: ben
+    name: এপিএ
+    auto: true
   - translation_iso: deu
     name: Epie
   - translation_iso: fra
     name: epie
   - translation_iso: hin
     name: एपिए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Epie
     auto: true
   - translation_iso: jpn
     name: エピエ語

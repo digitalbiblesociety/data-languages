@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندونجا
     auto: true
+  - translation_iso: ben
+    name: নদুঙা
+    auto: true
   - translation_iso: deu
     name: Ndunga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ndunga
   - translation_iso: hin
     name: न्दुंगा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndunga
     auto: true
   - translation_iso: jpn
     name: ンドゥンガ語

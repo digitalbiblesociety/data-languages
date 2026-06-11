@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالامسيه
     auto: true
+  - translation_iso: ben
+    name: কালামসে
+    auto: true
   - translation_iso: deu
     name: Kalamsé
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kalamsé
   - translation_iso: hin
     name: कलामसे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kalamsé
     auto: true
   - translation_iso: jpn
     name: カラムセ語

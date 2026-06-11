@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: الكابيزنون
     auto: true
+  - translation_iso: ben
+    name: কাপিজনোন
+    auto: true
   - translation_iso: deu
     name: Capiznon
   - translation_iso: fra

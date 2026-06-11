@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكابان
     auto: true
+  - translation_iso: ben
+    name: সেকাপান
+    auto: true
   - translation_iso: deu
     name: Sekapan
     auto: true
@@ -28,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सेकापान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sekapan
     auto: true
   - translation_iso: jpn
     name: セケパン語

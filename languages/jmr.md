@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة كامارا
     auto: true
+  - translation_iso: ben
+    name: কামারা
+    auto: true
   - translation_iso: deu
     name: Kamara
   - translation_iso: fra
     name: kamara
   - translation_iso: hin
     name: कामारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kamara
     auto: true
   - translation_iso: jpn
     name: カマラ語

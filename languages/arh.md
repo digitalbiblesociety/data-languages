@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अरहुआको
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arhuaco
+    auto: true
   - translation_iso: jpn
     name: アルワコ語
     auto: true

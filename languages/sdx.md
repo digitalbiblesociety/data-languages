@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سيبو ميلاناو
     auto: true
+  - translation_iso: ben
+    name: সিবু মেলানাউ
+    auto: true
   - translation_iso: deu
     name: Sibu-Melanau
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: sibu
   - translation_iso: hin
     name: सिबु मेलानाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sibu Melanau
     auto: true
   - translation_iso: jpn
     name: セントラル・メラナウ語

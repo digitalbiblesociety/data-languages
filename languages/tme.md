@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تريمينبي
     auto: true
+  - translation_iso: ben
+    name: তরেমেমবে
+    auto: true
   - translation_iso: deu
     name: Tremembé
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: त्रेमेम्बे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tremembé
     auto: true
   - translation_iso: jpn
     name: トレメンベ語

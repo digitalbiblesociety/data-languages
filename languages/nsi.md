@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النيجيرية
     auto: true
+  - translation_iso: ben
+    name: নিগেরিয়ান সিগন লাঙুয়াগে
+    auto: true
   - translation_iso: deu
     name: Nigerianische Gebärdensprache
   - translation_iso: fra
     name: langue des signes nigériane
   - translation_iso: hin
     name: नाइजीरियाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Nigerian Sign Language
+    auto: true
   - translation_iso: jpn
     name: ナイジェリア手話
   - translation_iso: kor

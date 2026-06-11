@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: توبوري
     auto: true
+  - translation_iso: ben
+    name: তুপুরি
+    auto: true
   - translation_iso: deu
     name: Tupuri
   - translation_iso: fra
     name: tupuri
   - translation_iso: hin
     name: तुपुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tupuri
     auto: true
   - translation_iso: jpn
     name: デマ語

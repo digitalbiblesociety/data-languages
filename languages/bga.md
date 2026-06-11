@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوامهي وري
     auto: true
+  - translation_iso: ben
+    name: গওয়ামহি-ওয়ুরি
+    auto: true
   - translation_iso: deu
     name: Gwamhi-Wuri
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: gwamhi-wuri
   - translation_iso: hin
     name: ग्वामही-वुरी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gwamhi-Wuri
     auto: true
   - translation_iso: jpn
     name: グワムヒ・ウリ語

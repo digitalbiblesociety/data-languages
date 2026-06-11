@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة يلاو
     auto: true
+  - translation_iso: ben
+    name: লিলাউ
+    auto: true
   - translation_iso: deu
     name: Lilau
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: lilau
   - translation_iso: hin
     name: लिलाउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Lilau
     auto: true
   - translation_iso: jpn
     name: リラウ語

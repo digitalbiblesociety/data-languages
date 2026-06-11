@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लुनाना बोली
+  - translation_iso: ind
+    name: Bahasa Lunanakha
+    auto: true
   - translation_iso: jpn
     name: ルナナ語
   - translation_iso: kor

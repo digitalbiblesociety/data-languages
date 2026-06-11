@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تيكتيتيكو
     auto: true
+  - translation_iso: ben
+    name: তেকতিতেকো
+    auto: true
   - translation_iso: deu
     name: Tektitekisch
   - translation_iso: fra
     name: tectitèque
   - translation_iso: hin
     name: टेक्टिटेको
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tektiteko
     auto: true
   - translation_iso: jpn
     name: テクティテコ語

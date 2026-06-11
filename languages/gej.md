@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: الجين
     auto: true
+  - translation_iso: ben
+    name: গেন
+    auto: true
   - translation_iso: deu
     name: Gen
   - translation_iso: fra
     name: gen
   - translation_iso: hin
     name: गेन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gen
     auto: true
   - translation_iso: jpn
     name: ゲン語

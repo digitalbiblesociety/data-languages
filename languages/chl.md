@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الكاهويليا
     auto: true
+  - translation_iso: ben
+    name: কাহুইল্লা
+    auto: true
   - translation_iso: deu
     name: Cahuilla
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: cahuilla
   - translation_iso: hin
     name: काहुइला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cahuilla
     auto: true
   - translation_iso: jpn
     name: カウィラ語

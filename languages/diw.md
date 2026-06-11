@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: نورثويسترن دينكا
     auto: true
+  - translation_iso: ben
+    name: নোরথওয়েসতেরন দিনকা
+    auto: true
   - translation_iso: deu
     name: Nordwest-Dinka
   - translation_iso: fra
     name: dinka du Nord-Ouest
   - translation_iso: hin
     name: उत्तर-पश्चिमी डिंका
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Northwestern Dinka
     auto: true
   - translation_iso: jpn
     name: 北西ディンカ語

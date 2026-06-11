@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوتشي
     auto: true
+  - translation_iso: ben
+    name: য়ুচি
+    auto: true
   - translation_iso: deu
     name: Yuchi
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: yuchi
   - translation_iso: hin
     name: युची
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yuchi
     auto: true
   - translation_iso: jpn
     name: ユチ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ثاو
     auto: true
+  - translation_iso: ben
+    name: থাও
+    auto: true
   - translation_iso: deu
     name: Thao
     auto: true

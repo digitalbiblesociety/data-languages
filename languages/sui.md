@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوكي
     auto: true
+  - translation_iso: ben
+    name: সুকি
+    auto: true
   - translation_iso: deu
     name: Suki
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: suki
   - translation_iso: hin
     name: सुकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Suki
     auto: true
   - translation_iso: jpn
     name: スキ語

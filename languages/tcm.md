@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاناميراه
     auto: true
+  - translation_iso: ben
+    name: তানাহমেরাহ
+    auto: true
   - translation_iso: deu
     name: Tanahmerah
     auto: true

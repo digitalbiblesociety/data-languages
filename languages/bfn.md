@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونك
     auto: true
+  - translation_iso: ben
+    name: বুনাক
+    auto: true
   - translation_iso: deu
     name: Bunak
   - translation_iso: fra

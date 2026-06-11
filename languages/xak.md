@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مكو
     auto: true
+  - translation_iso: ben
+    name: মাকু
+    auto: true
   - translation_iso: deu
     name: Máku
     auto: true
@@ -25,6 +28,9 @@ translations:
     name: máku
   - translation_iso: hin
     name: माकू
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Máku
     auto: true
   - translation_iso: jpn
     name: マク語

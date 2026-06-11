@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अमो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amo
+    auto: true
   - translation_iso: jpn
     name: アモ語
     auto: true

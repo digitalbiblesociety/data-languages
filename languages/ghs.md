@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: غوهو-سامانيه
     auto: true
+  - translation_iso: ben
+    name: গুহু-সামানে
+    auto: true
   - translation_iso: deu
     name: Guhu-Samane
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: गुहु-सामाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Guhu-Samane
     auto: true
   - translation_iso: jpn
     name: グフ・サマネ語

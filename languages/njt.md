@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ندويكا تريو بيدجن
     auto: true
+  - translation_iso: ben
+    name: নদয়ুকা-তরিও পিদগিন
+    auto: true
   - translation_iso: deu
     name: Ndyuka-Trio-Pidgin
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: pidgin ndyuka-trio
   - translation_iso: hin
     name: न्द्युका-त्रियो पिजिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ndyuka-Trio Pidgin
     auto: true
   - translation_iso: jpn
     name: ンディユカ・トリオ・ピジン語

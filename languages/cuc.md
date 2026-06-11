@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: أوسيلا تشينانتك
     auto: true
+  - translation_iso: ben
+    name: উসিলা চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Usila-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinantèque d’Usila
   - translation_iso: hin
     name: उसीला चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Usila Chinantec
     auto: true
   - translation_iso: jpn
     name: ウシラ・チナンテク語

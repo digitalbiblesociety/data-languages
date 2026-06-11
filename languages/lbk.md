@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: بونتوك الوسطى
     auto: true
+  - translation_iso: ben
+    name: কেনতরাল বোনতোক
+    auto: true
   - translation_iso: deu
     name: Zentral-Bontok
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: bontok central
   - translation_iso: hin
     name: मध्य बोंटोक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Central Bontok
     auto: true
   - translation_iso: jpn
     name: 中央ボントク語

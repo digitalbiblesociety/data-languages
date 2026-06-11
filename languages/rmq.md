@@ -20,12 +20,18 @@ translations:
   - translation_iso: ara
     name: كالو
     auto: true
+  - translation_iso: ben
+    name: কালো
+    auto: true
   - translation_iso: deu
     name: Caló
   - translation_iso: fra
     name: caló
   - translation_iso: hin
     name: कालो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Caló
     auto: true
   - translation_iso: jpn
     name: カロー語

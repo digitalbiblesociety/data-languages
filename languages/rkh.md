@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rakahanga-Manihiki_language"
 translations:
   - translation_iso: ara
     name: لغة_راكاهانغا-مانيهيكي
+  - translation_iso: ben
+    name: রাকাহাঙা-মানিহিকি
+    auto: true
   - translation_iso: deu
     name: Rakahanga-Manihiki
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: rakahanga-manihiki
   - translation_iso: hin
     name: राकाहंगा-मानिहिकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rakahanga-Manihiki
     auto: true
   - translation_iso: jpn
     name: ラカハンガ・マニヒキ語

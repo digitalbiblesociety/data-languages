@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: نوملاكي
     auto: true
+  - translation_iso: ben
+    name: নোমলাকি
+    auto: true
   - translation_iso: deu
     name: Nomlaki
     auto: true
@@ -21,6 +24,9 @@ translations:
     name: nomlaki
   - translation_iso: hin
     name: नोमलाकी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nomlaki
     auto: true
   - translation_iso: jpn
     name: ノムラキ語

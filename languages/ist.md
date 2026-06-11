@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: इस्ट्रियट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Istriot
+    auto: true
   - translation_iso: jpn
     name: イストリア語
   - translation_iso: kor

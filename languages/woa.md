@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كوويما
     auto: true
+  - translation_iso: ben
+    name: কুওয়েমা
+    auto: true
   - translation_iso: deu
     name: Kuwema
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: tyaraity
   - translation_iso: hin
     name: कुवेमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kuwema
     auto: true
   - translation_iso: jpn
     name: クウェマ語

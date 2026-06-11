@@ -14,12 +14,18 @@ translations:
   - translation_iso: ara
     name: يوراتس
     auto: true
+  - translation_iso: ben
+    name: য়ুরাতস
+    auto: true
   - translation_iso: deu
     name: Jurakisch
   - translation_iso: fra
     name: yourats
   - translation_iso: hin
     name: युरात्स
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Yurats
     auto: true
   - translation_iso: jpn
     name: ユラツ語

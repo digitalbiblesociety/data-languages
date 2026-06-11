@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونت إيريغا أغتا
     auto: true
+  - translation_iso: ben
+    name: মত ইরিগা আগতা
+    auto: true
   - translation_iso: deu
     name: Mt.-Iriga-Agta
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: माउंट इरिगा अग्ता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mt. Iriga Agta
     auto: true
   - translation_iso: jpn
     name: Mt.イリガ・アグタ語

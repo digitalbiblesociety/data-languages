@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيا
     auto: true
+  - translation_iso: ben
+    name: জিয়া
+    auto: true
   - translation_iso: deu
     name: Zia
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zia
   - translation_iso: hin
     name: ज़िया
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zia
     auto: true
   - translation_iso: jpn
     name: ジア語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوكسا
     auto: true
+  - translation_iso: ben
+    name: বুকসা
+    auto: true
   - translation_iso: deu
     name: Buksa
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: buksa
   - translation_iso: hin
     name: बुक्सा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Buksa
     auto: true
   - translation_iso: jpn
     name: ブクサ語

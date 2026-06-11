@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مارينو
     auto: true
+  - translation_iso: ben
+    name: মারিনো
+    auto: true
   - translation_iso: deu
     name: Marino
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marino
   - translation_iso: hin
     name: मारिनो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marino
     auto: true
   - translation_iso: jpn
     name: マリーノ語

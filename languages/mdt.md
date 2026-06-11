@@ -22,12 +22,18 @@ translations:
   - translation_iso: ara
     name: لغة مبير
     auto: true
+  - translation_iso: ben
+    name: মবেরে
+    auto: true
   - translation_iso: deu
     name: Mbere
   - translation_iso: fra
     name: mbere
   - translation_iso: hin
     name: म्बेरे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mbere
     auto: true
   - translation_iso: jpn
     name: ムベレ語

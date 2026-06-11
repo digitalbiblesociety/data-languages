@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: अलुगु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alugu
+    auto: true
   - translation_iso: jpn
     name: アルグ語
     auto: true

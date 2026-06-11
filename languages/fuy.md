@@ -15,6 +15,9 @@ glottocode: fuyu1242
 wikidata_id: Q3073472
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuyug_language"
 translations:
+  - translation_iso: ben
+    name: ফুয়ুগ
+    auto: true
   - translation_iso: deu
     name: Fuyug
     auto: true
@@ -22,6 +25,9 @@ translations:
     name: fuyug
   - translation_iso: hin
     name: फुयुग
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Fuyug
     auto: true
   - translation_iso: jpn
     name: フユグ語

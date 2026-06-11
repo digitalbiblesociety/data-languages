@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكالويانون
     auto: true
+  - translation_iso: ben
+    name: কালুয়ানুন
+    auto: true
   - translation_iso: deu
     name: Caluyanon
   - translation_iso: fra

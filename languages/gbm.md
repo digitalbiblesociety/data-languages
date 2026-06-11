@@ -30,6 +30,9 @@ translations:
     name: garhwali
   - translation_iso: hin
     name: गढ़वाली
+  - translation_iso: ind
+    name: Bahasa Garhwali
+    auto: true
   - translation_iso: jpn
     name: ガルワーリー語
   - translation_iso: kor

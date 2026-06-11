@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: الطرومي العليا
     auto: true
+  - translation_iso: ben
+    name: উপ্পের তারোমি
+    auto: true
   - translation_iso: deu
     name: Upper Taromi
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: haut taromi
   - translation_iso: hin
     name: ऊपरी तारोमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Upper Taromi
     auto: true
   - translation_iso: jpn
     name: 上部タロミ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مينيديين
     auto: true
+  - translation_iso: ben
+    name: মিনিদিএন
+    auto: true
   - translation_iso: deu
     name: Minidien
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: minidien
   - translation_iso: hin
     name: मिनिडियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Minidien
     auto: true
   - translation_iso: jpn
     name: ミニディエン語

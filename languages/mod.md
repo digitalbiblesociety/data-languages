@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة موبيليان
     auto: true
+  - translation_iso: ben
+    name: মোবিলিয়ান
+    auto: true
   - translation_iso: deu
     name: Mobilian Jargon
   - translation_iso: fra
     name: jargon mobilien
   - translation_iso: hin
     name: मोबिलियन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mobilian
     auto: true
   - translation_iso: jpn
     name: モビリアン語

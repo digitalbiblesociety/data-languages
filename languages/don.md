@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تورا
     auto: true
+  - translation_iso: ben
+    name: তোউরা
+    auto: true
   - translation_iso: deu
     name: Toura
   - translation_iso: fra
     name: toura
   - translation_iso: hin
     name: तौरा (पापुआ न्यू गिनी)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Toura
     auto: true
   - translation_iso: jpn
     name: トゥーラ語

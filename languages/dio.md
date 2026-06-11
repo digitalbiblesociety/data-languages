@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ديبو
     auto: true
+  - translation_iso: ben
+    name: দিবো
+    auto: true
   - translation_iso: deu
     name: Dibo
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: डिबो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Dibo
     auto: true
   - translation_iso: jpn
     name: ディボ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لابوك كينابتانجان كاداز
     auto: true
+  - translation_iso: ben
+    name: লাবুক-কিনাবাতাঙান কাদাজান
+    auto: true
   - translation_iso: deu
     name: Labuk-Kinabatangan Kadazan
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: लाबुक-किनाबातांगन कदाज़ान
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Labuk-Kinabatangan Kadazan
     auto: true
   - translation_iso: jpn
     name: ラブク・キナバタンガン・カダザン語

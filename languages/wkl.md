@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कलनादी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kalanadi
+    auto: true
   - translation_iso: jpn
     name: カラナディ語
     auto: true

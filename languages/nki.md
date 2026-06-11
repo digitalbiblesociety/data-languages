@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ثانغال ناغا
     auto: true
+  - translation_iso: ben
+    name: থাঙাল নাগা
+    auto: true
   - translation_iso: deu
     name: Thangal-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: naga de Thangal
   - translation_iso: hin
     name: खोईराओ भाषा
+  - translation_iso: ind
+    name: Bahasa Thangal Naga
+    auto: true
   - translation_iso: jpn
     name: タンガル・ナガ語
     auto: true

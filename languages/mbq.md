@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة مايسين
     auto: true
+  - translation_iso: ben
+    name: মাইসিন
+    auto: true
   - translation_iso: deu
     name: Maisin
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: maisin
   - translation_iso: hin
     name: माइसिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Maisin
     auto: true
   - translation_iso: jpn
     name: マイシン語

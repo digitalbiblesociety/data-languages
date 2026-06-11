@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كويوتيبك تشينانتك
     auto: true
+  - translation_iso: ben
+    name: কুইওতেপেক চিনানতেক
+    auto: true
   - translation_iso: deu
     name: Quiotepec-Chinantekisch
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: chinantèque de Quiotepec
   - translation_iso: hin
     name: किओतेपेक चिनान्तेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Quiotepec Chinantec
     auto: true
   - translation_iso: jpn
     name: キオテペク・チナンテク語

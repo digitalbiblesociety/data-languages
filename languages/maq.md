@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشيكيهويتلان
     auto: true
+  - translation_iso: ben
+    name: চিকুইহুইতলান মাজাতেক
+    auto: true
   - translation_iso: deu
     name: Chiquihuitlán Mazatec
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mazatèque de Chiquihuitlan
   - translation_iso: hin
     name: चिकिवित्लान माज़ातेक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Chiquihuitlán Mazatec
     auto: true
   - translation_iso: jpn
     name: チキウィトラン・マサテク語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كافينيا
     auto: true
+  - translation_iso: ben
+    name: কাভিনেনয়া
+    auto: true
   - translation_iso: deu
     name: Cavineño
   - translation_iso: fra
     name: cavineña
   - translation_iso: hin
     name: कविनेन्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cavineña
     auto: true
   - translation_iso: jpn
     name: カビネニャ語

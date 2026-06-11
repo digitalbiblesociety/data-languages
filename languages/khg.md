@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة التبتية خام
     auto: true
+  - translation_iso: ben
+    name: খামস তিবেতান
+    auto: true
   - translation_iso: deu
     name: Kham-Tibetisch
     auto: true

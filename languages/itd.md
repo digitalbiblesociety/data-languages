@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيدونغ الجنوبية
     auto: true
+  - translation_iso: ben
+    name: সোউথেরন তিদুং
+    auto: true
   - translation_iso: deu
     name: Südliches Tidung
     auto: true

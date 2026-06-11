@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيكيانا
     auto: true
+  - translation_iso: ben
+    name: সিকিয়ানা
+    auto: true
   - translation_iso: deu
     name: Sikiana
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: kaxuiâna
   - translation_iso: hin
     name: सिकियाना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sikiana
     auto: true
   - translation_iso: jpn
     name: カシュイアナ語

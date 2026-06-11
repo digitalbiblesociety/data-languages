@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ساغالا
     auto: true
+  - translation_iso: ben
+    name: সাগাল্লা
+    auto: true
   - translation_iso: deu
     name: Sagalla
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sagalla
   - translation_iso: hin
     name: सगाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sagalla
     auto: true
   - translation_iso: jpn
     name: サガラ語

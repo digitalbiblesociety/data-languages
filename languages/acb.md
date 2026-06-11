@@ -26,6 +26,9 @@ translations:
   - translation_iso: hin
     name: आन्का
     auto: true
+  - translation_iso: ind
+    name: Bahasa Áncá
+    auto: true
   - translation_iso: jpn
     name: アンカ語
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: نييو
     auto: true
+  - translation_iso: ben
+    name: নয়েউ
+    auto: true
   - translation_iso: deu
     name: Nyeu
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: nyeu
   - translation_iso: hin
     name: न्येउ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nyeu
     auto: true
   - translation_iso: jpn
     name: ニェウ語

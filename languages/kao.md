@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: لغة خاسونغاكسانغو
     auto: true
+  - translation_iso: ben
+    name: কসাসোঙাকসাঙো
+    auto: true
   - translation_iso: deu
     name: Xaasongaxango
   - translation_iso: fra
     name: khassonké
   - translation_iso: hin
     name: ख़ासोंगाख़ांगो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Xaasongaxango
     auto: true
   - translation_iso: jpn
     name: ハアソンガハンノ語

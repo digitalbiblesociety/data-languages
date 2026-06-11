@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة موكوفي
     auto: true
+  - translation_iso: ben
+    name: মোকোভি
+    auto: true
   - translation_iso: deu
     name: Mocoví
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mocoví
   - translation_iso: hin
     name: मोकोवी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mocoví
     auto: true
   - translation_iso: jpn
     name: モコビ語

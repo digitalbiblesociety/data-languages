@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيريسيم
     auto: true
+  - translation_iso: ben
+    name: ইরেসিম
+    auto: true
   - translation_iso: deu
     name: Iresim
     auto: true

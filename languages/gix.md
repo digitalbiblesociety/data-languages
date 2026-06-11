@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: غيليمآ
     auto: true
+  - translation_iso: ben
+    name: গিলিমা
+    auto: true
   - translation_iso: deu
     name: Gilima
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: gilima
   - translation_iso: hin
     name: गिलिमा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Gilima
     auto: true
   - translation_iso: jpn
     name: ギリマ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بونيو-غونغوانغ ناغا
     auto: true
+  - translation_iso: ben
+    name: পোনয়ো-গোংওয়াং নাগা
+    auto: true
   - translation_iso: deu
     name: Ponyo-Gongwang-Naga
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ponyo-gongwang
   - translation_iso: hin
     name: पोन्यो-गोंगवांग नागा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ponyo-Gongwang Naga
     auto: true
   - translation_iso: jpn
     name: ポンヨ・ゴングワン・ナガ語

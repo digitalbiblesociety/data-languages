@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيلا ماسبوار
     auto: true
+  - translation_iso: ben
+    name: তেলা-মাসবুয়ার
+    auto: true
   - translation_iso: deu
     name: Tela-Masbuar
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तेला-मस्बुआर
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tela-Masbuar
     auto: true
   - translation_iso: jpn
     name: テラ・マスブアル語

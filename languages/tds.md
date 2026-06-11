@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: دوتاي
     auto: true
+  - translation_iso: ben
+    name: দোউতাই
+    auto: true
   - translation_iso: deu
     name: Doutai
     auto: true

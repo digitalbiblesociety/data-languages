@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: ماكايينسي
     auto: true
+  - translation_iso: ben
+    name: মাকানেসে
+    auto: true
   - translation_iso: deu
     name: Macaista
   - translation_iso: fra

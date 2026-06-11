@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة پارا أرارا
     auto: true
+  - translation_iso: ben
+    name: পারা আরারা
+    auto: true
   - translation_iso: deu
     name: Pará-Arára
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: arara du Pará
   - translation_iso: hin
     name: पारा अरारा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Pará Arára
     auto: true
   - translation_iso: jpn
     name: パラー・アララ語

@@ -30,6 +30,9 @@ translations:
   - translation_iso: hin
     name: बांगी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangi
+    auto: true
   - translation_iso: jpn
     name: ボバンギ語
   - translation_iso: kor

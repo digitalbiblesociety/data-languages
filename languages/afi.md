@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अक्रुकाय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akrukay
+    auto: true
   - translation_iso: jpn
     name: アクルカイ語
     auto: true

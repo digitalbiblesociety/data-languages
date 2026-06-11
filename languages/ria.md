@@ -22,6 +22,9 @@ translations:
   - translation_iso: ara
     name: ريانج
     auto: true
+  - translation_iso: ben
+    name: রিয়াং
+    auto: true
   - translation_iso: deu
     name: Riang (Indien)
     auto: true
@@ -29,6 +32,9 @@ translations:
     name: riang
   - translation_iso: hin
     name: रियांग (भारत)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Riang
     auto: true
   - translation_iso: jpn
     name: リアン（インド）語

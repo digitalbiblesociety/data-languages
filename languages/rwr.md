@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مارواري
     auto: true
+  - translation_iso: ben
+    name: মারওয়ারি
+    auto: true
   - translation_iso: deu
     name: Marwari (Indien)
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: marvari
   - translation_iso: hin
     name: मारवाड़ी (भारत)
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Marwari
     auto: true
   - translation_iso: jpn
     name: マールワーリー語

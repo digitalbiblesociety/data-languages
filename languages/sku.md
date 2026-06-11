@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساكاو
     auto: true
+  - translation_iso: ben
+    name: সাকাও
+    auto: true
   - translation_iso: deu
     name: Sakao
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: sakao
   - translation_iso: hin
     name: साकाओ
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sakao
     auto: true
   - translation_iso: jpn
     name: ワノヘ語

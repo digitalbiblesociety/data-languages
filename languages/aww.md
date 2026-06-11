@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अवुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awun
+    auto: true
   - translation_iso: jpn
     name: アウン語
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة تايني
     auto: true
+  - translation_iso: ben
+    name: তাইনাএ
+    auto: true
   - translation_iso: deu
     name: Tainae
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: ताइनाए
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tainae
     auto: true
   - translation_iso: jpn
     name: タイナエ語

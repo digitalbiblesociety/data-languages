@@ -29,6 +29,9 @@ translations:
     name: bundeli
   - translation_iso: hin
     name: बुंदेली भाषा
+  - translation_iso: ind
+    name: Bahasa Bundeli
+    auto: true
   - translation_iso: jpn
     name: ブンデーリー語
   - translation_iso: kor

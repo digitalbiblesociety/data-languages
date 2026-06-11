@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابوا
     auto: true
+  - translation_iso: ben
+    name: পাপুয়ান মালায়
+    auto: true
   - translation_iso: deu
     name: Papua-Malaiisch
     auto: true

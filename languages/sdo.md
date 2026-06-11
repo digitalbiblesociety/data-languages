@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: بوكار سادونج بيدايو
     auto: true
+  - translation_iso: ben
+    name: বুকার-সাদুং বিদায়ুহ
+    auto: true
   - translation_iso: deu
     name: Bukar-Sadung-Bidayuh
     auto: true

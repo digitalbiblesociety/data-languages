@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: "كوكو-يا'و"
     auto: true
+  - translation_iso: ben
+    name: কুকু-য়াউ
+    auto: true
   - translation_iso: deu
     name: "Kuuku-Ya'u"
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kuuku-ya’u
   - translation_iso: hin
     name: कुउकु-याउ
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Kuuku-Ya'u"
     auto: true
   - translation_iso: jpn
     name: クク・ヤウ語

@@ -32,6 +32,9 @@ translations:
   - translation_iso: hin
     name: अरिबवाउंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aribwaung
+    auto: true
   - translation_iso: jpn
     name: アリブワウング語
     auto: true

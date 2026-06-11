@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كيلو
     auto: true
+  - translation_iso: ben
+    name: কেলো
+    auto: true
   - translation_iso: deu
     name: Kelo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: kelo
   - translation_iso: hin
     name: केलो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kelo
     auto: true
   - translation_iso: jpn
     name: ケロ語

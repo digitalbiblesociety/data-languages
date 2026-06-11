@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة ماموجو
     auto: true
+  - translation_iso: ben
+    name: মামুজু
+    auto: true
   - translation_iso: deu
     name: Mamuju
   - translation_iso: fra

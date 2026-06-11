@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاشا
     auto: true
+  - translation_iso: ben
+    name: কালাশা
+    auto: true
   - translation_iso: deu
     name: Kalasha
   - translation_iso: fra

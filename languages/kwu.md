@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: كواكوم
     auto: true
+  - translation_iso: ben
+    name: কওয়াকুম
+    auto: true
   - translation_iso: deu
     name: Kwakum
   - translation_iso: fra
     name: kwakum
   - translation_iso: hin
     name: क्वाकुम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kwakum
     auto: true
   - translation_iso: jpn
     name: クワクゥム語

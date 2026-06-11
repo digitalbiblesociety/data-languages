@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بيكْيا
     auto: true
+  - translation_iso: ben
+    name: বিকয়া
+    auto: true
   - translation_iso: deu
     name: Bikya
   - translation_iso: fra
     name: bikya
   - translation_iso: hin
     name: बिक्या
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bikya
     auto: true
   - translation_iso: jpn
     name: Bikya語

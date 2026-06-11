@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة شرق باربات خام
     auto: true
+  - translation_iso: ben
+    name: এয়াসতেরন পারবাতে খাম
+    auto: true
   - translation_iso: deu
     name: Ost-Parbate-Kham
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: "kham parbate de l'Est"
   - translation_iso: hin
     name: पूर्वी पर्वते खाम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eastern Parbate Kham
     auto: true
   - translation_iso: jpn
     name: イースタン・パルバテ・ハム語

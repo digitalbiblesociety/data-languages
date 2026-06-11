@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: موندا
     auto: true
+  - translation_iso: ben
+    name: মুনদা
+    auto: true
   - translation_iso: deu
     name: Munda
     auto: true
@@ -23,6 +26,9 @@ translations:
     name: munda
   - translation_iso: hin
     name: मुंडा
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Munda
     auto: true
   - translation_iso: jpn
     name: ムンダ語

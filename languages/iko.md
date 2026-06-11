@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: أولولومو-إيكوم
     auto: true
+  - translation_iso: ben
+    name: ওলুলুমো-ইকোম
+    auto: true
   - translation_iso: deu
     name: Olulumo-Ikom
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: langue Ikom
   - translation_iso: hin
     name: ओलुलुमो-इकोम
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Olulumo-Ikom
     auto: true
   - translation_iso: jpn
     name: オルルモ・イコム語

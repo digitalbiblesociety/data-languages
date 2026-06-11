@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الإنجيني
     auto: true
+  - translation_iso: ben
+    name: এঙেন্নি
+    auto: true
   - translation_iso: deu
     name: Engenni
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: egene
   - translation_iso: hin
     name: एंगेनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Engenni
     auto: true
   - translation_iso: jpn
     name: エンゲニ語

@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: بونْجيلي
     auto: true
+  - translation_iso: ben
+    name: বোঙিলি
+    auto: true
   - translation_iso: deu
     name: Bongili
   - translation_iso: fra
     name: bongili
   - translation_iso: hin
     name: बोंगिली
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bongili
     auto: true
   - translation_iso: jpn
     name: ボンギリ語

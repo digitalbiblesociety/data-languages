@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: झनकोट सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Jhankot Sign Language
+    auto: true
   - translation_iso: jpn
     name: ジャンコット手話
   - translation_iso: kor

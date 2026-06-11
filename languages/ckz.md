@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: الكاكتشيكل-كويتشي
     auto: true
+  - translation_iso: ben
+    name: কাকচিকুএল-কুইচে
+    auto: true
   - translation_iso: deu
     name: Cakchiquel-Quiché
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: cakchiquel-quiché
   - translation_iso: hin
     name: काकचिकेल-किचे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cakchiquel-Quiché
     auto: true
   - translation_iso: jpn
     name: カクチケル・キチェ混合言語

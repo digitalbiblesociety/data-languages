@@ -20,6 +20,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tupi_language"
 translations:
   - translation_iso: ara
     name: توبي
+  - translation_iso: ben
+    name: তুপিনামবা
+    auto: true
   - translation_iso: deu
     name: Tupi-Sprache
   - translation_iso: fra

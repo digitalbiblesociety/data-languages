@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: تسانجي
     auto: true
+  - translation_iso: ben
+    name: তসাঙি
+    auto: true
   - translation_iso: deu
     name: Tsaangi
   - translation_iso: fra
     name: tsengi
   - translation_iso: hin
     name: त्सांगी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tsaangi
     auto: true
   - translation_iso: jpn
     name: ツァーンギ語

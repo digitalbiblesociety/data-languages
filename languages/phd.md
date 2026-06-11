@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوداغي
     auto: true
+  - translation_iso: ben
+    name: ফুদাগি
+    auto: true
   - translation_iso: deu
     name: Phudagi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: phudagi
   - translation_iso: hin
     name: फुडागी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Phudagi
     auto: true
   - translation_iso: jpn
     name: プダギ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تاوالا
     auto: true
+  - translation_iso: ben
+    name: তাওয়ালা
+    auto: true
   - translation_iso: deu
     name: Tawala
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: तवाला
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tawala
     auto: true
   - translation_iso: jpn
     name: タワラ語

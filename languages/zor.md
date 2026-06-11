@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: سوكي رايون
     auto: true
+  - translation_iso: ben
+    name: রায়োন জোকুএ
+    auto: true
   - translation_iso: deu
     name: Zoque (Rayón)
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: zoque de Rayón
   - translation_iso: hin
     name: रायोन ज़ोके
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Rayón Zoque
     auto: true
   - translation_iso: jpn
     name: ラヨン・ゾケ語

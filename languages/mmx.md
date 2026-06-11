@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة مادك
     auto: true
+  - translation_iso: ben
+    name: মাদাক
+    auto: true
   - translation_iso: deu
     name: Madak
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: madak
   - translation_iso: hin
     name: मादक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Madak
     auto: true
   - translation_iso: jpn
     name: マダク語

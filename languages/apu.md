@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: अपुरिना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Apurinã
+    auto: true
   - translation_iso: jpn
     name: アプリニャ語
   - translation_iso: kor

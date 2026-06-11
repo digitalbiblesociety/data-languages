@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: مفومتي
     auto: true
+  - translation_iso: ben
+    name: মফুমতে
+    auto: true
   - translation_iso: deu
     name: Mfumte
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: mfumte
   - translation_iso: hin
     name: म्फुम्ते
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mfumte
     auto: true
   - translation_iso: jpn
     name: ムフムテ語

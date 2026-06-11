@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوندي
     auto: true
+  - translation_iso: ben
+    name: সোনদে
+    auto: true
   - translation_iso: deu
     name: Sonde
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सोंडे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sonde
     auto: true
   - translation_iso: jpn
     name: キソオンデ語

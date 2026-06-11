@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويا أويا
     auto: true
+  - translation_iso: ben
+    name: ওয়াওয়া
+    auto: true
   - translation_iso: deu
     name: "Oya'oya"
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: "ओया'ओया"
+    auto: true
+  - translation_iso: ind
+    name: "Bahasa Oya'oya"
     auto: true
   - translation_iso: jpn
     name: オヤ・オヤ語

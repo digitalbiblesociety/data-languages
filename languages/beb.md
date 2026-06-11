@@ -29,6 +29,9 @@ translations:
   - translation_iso: hin
     name: बेबेले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bebele
+    auto: true
   - translation_iso: jpn
     name: ベベレ語
     auto: true

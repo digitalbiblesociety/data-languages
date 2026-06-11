@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: إيغناسيانو
     auto: true
+  - translation_iso: ben
+    name: ইগনাকিয়ানো
+    auto: true
   - translation_iso: deu
     name: Ignaciano
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: ignaciano
   - translation_iso: hin
     name: इग्नासियानो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Ignaciano
     auto: true
   - translation_iso: jpn
     name: イニャシアーノ語

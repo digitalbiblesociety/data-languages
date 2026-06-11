@@ -29,6 +29,9 @@ translations:
     name: kudmali
   - translation_iso: hin
     name: कुङमालि भाखि
+  - translation_iso: ind
+    name: Bahasa Kudmali
+    auto: true
   - translation_iso: jpn
     name: クドマリ語
   - translation_iso: kor

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: جيناما بوزو
     auto: true
+  - translation_iso: ben
+    name: জেনামা বোজো
+    auto: true
   - translation_iso: deu
     name: Jenaama-Bozo
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: bozo de Jenaama
   - translation_iso: hin
     name: जेनामा बोज़ो
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Jenaama Bozo
     auto: true
   - translation_iso: jpn
     name: ジェナアマ・ボゾ語

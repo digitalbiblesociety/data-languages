@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كونا الحدية
     auto: true
+  - translation_iso: ben
+    name: বোরদের কুনা
+    auto: true
   - translation_iso: deu
     name: Grenz-Kuna
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kuna de la frontière
   - translation_iso: hin
     name: सीमावर्ती कुना
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Border Kuna
     auto: true
   - translation_iso: jpn
     name: ボーダー・クナ語

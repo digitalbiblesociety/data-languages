@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سيين تشين
     auto: true
+  - translation_iso: ben
+    name: সিয়িন চিন
+    auto: true
   - translation_iso: deu
     name: Siyin-Chin
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सियिन चिन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Siyin Chin
     auto: true
   - translation_iso: jpn
     name: シイン・チン語

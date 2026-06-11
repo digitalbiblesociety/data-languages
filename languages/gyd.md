@@ -31,6 +31,9 @@ translations:
   - translation_iso: hin
     name: कायार्डिल्ड
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kayardild
+    auto: true
   - translation_iso: jpn
     name: ヤンカール語
   - translation_iso: kor

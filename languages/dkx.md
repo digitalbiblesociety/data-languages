@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: مازاجواي
     auto: true
+  - translation_iso: ben
+    name: মাজাগওয়ায়
+    auto: true
   - translation_iso: deu
     name: Mazagway
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: mazagway
   - translation_iso: hin
     name: मज़ागवे
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Mazagway
     auto: true
   - translation_iso: jpn
     name: マザグウェイ語

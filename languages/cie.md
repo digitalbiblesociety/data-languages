@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: السيني
     auto: true
+  - translation_iso: ben
+    name: কিনেনি
+    auto: true
   - translation_iso: deu
     name: Cineni
     auto: true
@@ -29,6 +32,9 @@ translations:
     auto: true
   - translation_iso: hin
     name: सिनेनी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Cineni
     auto: true
   - translation_iso: jpn
     name: シネニ語

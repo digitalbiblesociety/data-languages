@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجو الساحلية
     auto: true
+  - translation_iso: ben
+    name: কোয়াসতাল কোনজো
+    auto: true
   - translation_iso: deu
     name: Küsten-Konjo
     auto: true

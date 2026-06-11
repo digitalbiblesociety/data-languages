@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: ناجومي
     auto: true
+  - translation_iso: ben
+    name: নাগুমি
+    auto: true
   - translation_iso: deu
     name: Ngong
   - translation_iso: fra
     name: nagumi
   - translation_iso: hin
     name: नागुमी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Nagumi
     auto: true
   - translation_iso: jpn
     name: ナグミ語

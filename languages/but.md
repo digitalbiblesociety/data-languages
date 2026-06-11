@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: بونْجايْن
     auto: true
+  - translation_iso: ben
+    name: বুঙাইন
+    auto: true
   - translation_iso: deu
     name: Bungain
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: bungain
   - translation_iso: hin
     name: बुंगाइन
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Bungain
     auto: true
   - translation_iso: jpn
     name: ブンガイン語

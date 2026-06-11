@@ -21,12 +21,18 @@ translations:
   - translation_iso: ara
     name: اللغة ساكاتا
     auto: true
+  - translation_iso: ben
+    name: সাকাতা
+    auto: true
   - translation_iso: deu
     name: Sakata
   - translation_iso: fra
     name: sakata
   - translation_iso: hin
     name: साकाता
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Sakata
     auto: true
   - translation_iso: jpn
     name: キサカタ語

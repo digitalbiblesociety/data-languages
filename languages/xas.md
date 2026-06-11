@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: كاماس
     auto: true
+  - translation_iso: ben
+    name: কামাস
+    auto: true
   - translation_iso: deu
     name: Kamassisch
   - translation_iso: fra

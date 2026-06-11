@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة موكلين
     auto: true
+  - translation_iso: ben
+    name: মোকলেন
+    auto: true
   - translation_iso: deu
     name: Moklen
     auto: true

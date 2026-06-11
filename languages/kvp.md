@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: كومبان
     auto: true
+  - translation_iso: ben
+    name: কোমপানে
+    auto: true
   - translation_iso: deu
     name: Kompane
     auto: true
@@ -27,6 +30,9 @@ translations:
     name: kompane
   - translation_iso: hin
     name: कोम्पाने
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Kompane
     auto: true
   - translation_iso: jpn
     name: コンパネ語

@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: اللغة زانغوال
     auto: true
+  - translation_iso: ben
+    name: জাংওয়াল
+    auto: true
   - translation_iso: deu
     name: Zangwal
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: zangwal
   - translation_iso: hin
     name: ज़ंगवाल
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Zangwal
     auto: true
   - translation_iso: jpn
     name: ザングワル語

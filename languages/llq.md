@@ -20,6 +20,9 @@ translations:
   - translation_iso: ara
     name: لغة ولاك
     auto: true
+  - translation_iso: ben
+    name: লোলাক
+    auto: true
   - translation_iso: deu
     name: Lolak
     auto: true

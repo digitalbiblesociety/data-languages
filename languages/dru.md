@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: روكاي
     auto: true
+  - translation_iso: ben
+    name: রুকাই
+    auto: true
   - translation_iso: deu
     name: Rukai
     auto: true

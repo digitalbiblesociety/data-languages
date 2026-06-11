@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: تيكبتلان توتوناك
     auto: true
+  - translation_iso: ben
+    name: তেকপাতলান তোতোনাক
+    auto: true
   - translation_iso: deu
     name: Tecpatlán Totonac
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: totonaque du Tecpatlán
   - translation_iso: hin
     name: तेक्पात्लान तोतोनाक
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Tecpatlán Totonac
     auto: true
   - translation_iso: jpn
     name: テクパトラン・トトナック語

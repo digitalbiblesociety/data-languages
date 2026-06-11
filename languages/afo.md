@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: لغة إيلوي
     auto: true
+  - translation_iso: ben
+    name: এলোয়ি
+    auto: true
   - translation_iso: deu
     name: Eloyi
     auto: true
@@ -28,6 +31,9 @@ translations:
     name: éloyi
   - translation_iso: hin
     name: एलोयी
+    auto: true
+  - translation_iso: ind
+    name: Bahasa Eloyi
     auto: true
   - translation_iso: jpn
     name: エロイ語

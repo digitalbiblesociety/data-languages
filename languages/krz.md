@@ -21,6 +21,9 @@ translations:
   - translation_iso: ara
     name: سوتا كانوم
     auto: true
+  - translation_iso: ben
+    name: সোতা কানুম
+    auto: true
   - translation_iso: deu
     name: Sota Kanum
   - translation_iso: fra
